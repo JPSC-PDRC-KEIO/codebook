@@ -1,0 +1,74 @@
+============================================================
+保有資格
+============================================================
+
+
+質問文（複数回答）
+----------------------------
+あなたは、次のような資格をお持ちですか。お持ちのものをお知らせください。（〇はいくつでも）
+
+
+.. csv-table::
+   :header: "項目", "変数"
+   :widths: 20,5
+
+   医師、歯科医師,:doc:`P28A </variable/P28A>`
+   薬剤師,:doc:`P28B </variable/P28B>`
+   看護師、保健師,:doc:`P28C </variable/P28C>`
+   歯科衛生士,:doc:`P28D </variable/P28D>`
+   歯科技巧士,:doc:`P28E </variable/P28E>`
+   臨床検査技師,:doc:`P28F </variable/P28F>`
+   社会福祉士、介護福祉士,:doc:`P28G </variable/P28G>`
+   栄養士、調理師,:doc:`P28H </variable/P28H>`
+   教員,:doc:`P28I </variable/P28I>`
+   保母,:doc:`P28J </variable/P28J>`
+   弁護士,:doc:`P28K </variable/P28K>`
+   司法書士,:doc:`P28L </variable/P28L>`
+   行政書士,:doc:`P28M </variable/P28M>`
+   社保労務士,:doc:`P28N </variable/P28N>`
+   中小企業診断士,:doc:`P28O </variable/P28O>`
+   公認会計士,:doc:`P28P </variable/P28P>`
+   税理士,:doc:`P28Q </variable/P28Q>`
+   建築士,:doc:`P28R </variable/P28R>`
+   インテリア・コーディネーター,:doc:`P28S </variable/P28S>`
+   消費生活アドバイザー,:doc:`P28T </variable/P28T>`
+   理容師、美容師,:doc:`P28U </variable/P28U>`
+   情報処理技術者,:doc:`P28V </variable/P28V>`
+   タクシーやバスなどの営業用運転免許,:doc:`P28W </variable/P28W>`
+   英検2級程度以上,:doc:`P28X </variable/P28X>`
+   簿記（2級以上）,:doc:`P28Y </variable/P28Y>`
+   その他,:doc:`P28Z </variable/P28Z>`
+   持っていない,:doc:`P28AA </variable/P28AA>`
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/P28A
+   /variable/P28B
+   /variable/P28C
+   /variable/P28D
+   /variable/P28E
+   /variable/P28F
+   /variable/P28G
+   /variable/P28H
+   /variable/P28I
+   /variable/P28J
+   /variable/P28K
+   /variable/P28L
+   /variable/P28M
+   /variable/P28N
+   /variable/P28O
+   /variable/P28P
+   /variable/P28Q
+   /variable/P28R
+   /variable/P28S
+   /variable/P28T
+   /variable/P28U
+   /variable/P28V
+   /variable/P28W
+   /variable/P28X
+   /variable/P28Y
+   /variable/P28Z
+   /variable/P28AA

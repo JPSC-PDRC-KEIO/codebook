@@ -1,0 +1,172 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:3
+msgid "離職理由（配偶者無職）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:7
+msgid "質問文（複数回答）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:8
+msgid "どのような理由で、ご主人は１年前（昨年9月末）の会社等をやめたのですか。（〇はいくつでも）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid "項目"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid "変数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid "人員整理・会社解散・倒産のため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid ":doc:`Q260A </variable/Q260A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid "一時的・不安定な仕事だったから"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid ":doc:`Q260B </variable/Q260B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid "労働条件（収入・時間）が悪かったため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid ":doc:`Q260R </variable/Q260R>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid "仕事の内容に不満があったため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid ":doc:`Q260S </variable/Q260S>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid "家族の就職・転職・転勤及び事業所の移転のため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid ":doc:`Q260G </variable/Q260G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid "結婚のため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid ":doc:`Q260H </variable/Q260H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid "妻の妊娠・出産のため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid ":doc:`Q260Z </variable/Q260Z>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid "育児・子育てのため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid ":doc:`Q260AA </variable/Q260AA>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid "自分が病気になったから"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid ":doc:`Q260I </variable/Q260I>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid "家族の介護のため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid ":doc:`Q260J </variable/Q260J>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid "良い条件の仕事が見つかったら・独立したから"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid ":doc:`Q260L </variable/Q260L>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid "人間関係が気まずくなったから"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid ":doc:`Q260U </variable/Q260U>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid "解雇された"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid ":doc:`Q260V </variable/Q260V>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid "大学や専門学校などでの勉強や留学準備のため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid ":doc:`Q260O </variable/Q260O>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid "定年又は雇用契約の満了"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid ":doc:`Q260P </variable/Q260P>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:1
+msgid ":doc:`Q260Q </variable/Q260Q>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q260.rst:34
+msgid "現在無職の配偶者が、前回調査時からの1年間に離職した人への質問です。この項目は、選択肢や変数名が以下のような変化をたどってきました。"
+msgstr ""
+

@@ -1,0 +1,33 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: 2020-01-29 18:46+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/oyakankei/index.rst:3
+msgid "親について"
+msgstr "Parents"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/oyakankei/index.rst:12
+msgid "親についての基本的な情報は、「家族の基本情報」の中の「:doc:`/kihon_kazoku/oyajoho`」にあります。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/oyakankei/index.rst:14
+msgid "また、親の死亡にかかわる遺産配分と介護についての質問が「この１年間の世帯変動」の「:doc:`/seikatsu_hendou/shibou/index`」にあり、親の居住にかかわる質問が「:doc:`/shisan/jutaku/jukyo_oya`」にありますのでご参照ください。"
+msgstr ""

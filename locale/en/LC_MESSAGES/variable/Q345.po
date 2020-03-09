@@ -1,0 +1,205 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:5
+msgid "有価証券売却の有無（個人として）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:11
+msgid "Q345"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:18
+msgid "お宅では、預貯金や有価証券をどのくらいお持ちですか。B.そのうちあなた（妻）個人のものとしてお持ちのものについてお答え下さい。（6）この1年間（調査前年10月～調査年9月）に有価証券を売却しましたか。（売却後購入した場合も売却に含めます）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:27
+msgid "売却した"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:29
+msgid "売却しなかった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:36
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:42
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:48
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:49
+msgid "3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:54
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:60
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:65
+msgid "p1_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:67
+msgid "p2_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:69
+msgid "p3_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:71
+msgid "p4_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:73
+msgid "p5a_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:75
+msgid "p5b_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:77
+msgid "p6_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:79
+msgid "p7_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:81
+msgid "p8_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:83
+msgid "p9_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:85
+msgid "p10_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:87
+msgid "p11ab_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:89
+msgid "p11c_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:91
+msgid "p12_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:93
+msgid "p13_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:95
+msgid "p14_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:97
+msgid "p15_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:99
+msgid "p16abc_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:101
+msgid "p16d_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:103
+msgid "p17_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:105
+msgid "p18_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:107
+msgid "p19_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:109
+msgid "p20_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:111
+msgid "p21abcd_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:113
+msgid "p21e_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:115
+msgid "p22_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:117
+msgid "p23_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:119
+msgid "p24_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:121
+msgid "p25_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q345.rst:123
+msgid "p26_2"
+msgstr ""
+
+#~ msgid "有価証券売却の有無"
+#~ msgstr ""
+
+#~ msgid "変数名: Q345"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

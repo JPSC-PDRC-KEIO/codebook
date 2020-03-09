@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:5
+msgid "出産費用のまかない方（無配偶）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:11
+msgid "Q76"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:18
+msgid "その費用は主に何で賄いましたか。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:27
+msgid "自分の収入"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:29
+msgid "親からの援助"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:31
+msgid "健康保険や互助組合などの出産給付や祝い金、または役所の補助金"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:33
+msgid "お祝い金"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:35
+msgid "借金"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:37
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:44
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:50
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:56
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:57
+msgid "7"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:62
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:68
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:73
+msgid "p2_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:75
+msgid "p3_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:77
+msgid "p4_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:79
+msgid "p5a_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:81
+msgid "p6_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:83
+msgid "p7_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:85
+msgid "p8_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:87
+msgid "p9_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:89
+msgid "p10_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:91
+msgid "p11ab_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:93
+msgid "p12_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:95
+msgid "p13_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:97
+msgid "p14_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:99
+msgid "p15_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:101
+msgid "p16abc_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:103
+msgid "p17_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:105
+msgid "p18_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:107
+msgid "p19_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:109
+msgid "p20_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:111
+msgid "p21abcd_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:113
+msgid "p22_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:115
+msgid "p23_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:117
+msgid "p24_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:119
+msgid "p25_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q76.rst:121
+msgid "p26_1"
+msgstr ""
+
+#~ msgid "変数名: Q76"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:5
+msgid "これまでの勤務先数〔第1回〕"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:11
+msgid "P79"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:18
+msgid "あなたは、これまでに、いくつの勤務先に勤めたことがありますか。（常勤従業者、パート、アルバイト、嘱託、自営、家族従業などをすべて含みます。(学生アルバイトは除きます)自営・家族従業も勤務先の一カ所と数えてください。現在の勤務先も含めてください。同じ会社で転勤した場合は数えないでください。）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:27
+msgid "2ヵ所"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:29
+msgid "3ヵ所"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:31
+msgid "4ヵ所以上"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:38
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:44
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:50
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:56
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:62
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:67
+msgid "p1_3"
+msgstr ""
+
+#~ msgid "変数名: P79"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

@@ -1,0 +1,195 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-03 14:24+0900\n"
+"PO-Revision-Date: 2020-03-03 20:25+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:5
+msgid "家族3：現在の就学・就労〔第11回～〕"
+msgstr "Family-member3: Student or worker status [11th wave-]"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:11
+msgid "Q19S"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:18
+msgid "現在の就学・就労"
+msgstr "Student or Worker status"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:21
+msgid "家族3"
+msgstr "Family-member3"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:27
+msgid "選択肢 / 記入欄"
+msgstr "Choices / Entry field"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:30
+msgid "未就学"
+msgstr "Preschooler"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:32
+msgid "小学1～3年"
+msgstr "Student in grades 1 to 3 of primary school"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:34
+msgid "小学4～6年"
+msgstr "Student in grades 4 to 6 of primary school"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:36
+msgid "中学生"
+msgstr "Junior-high school  student"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:38
+msgid "高校生"
+msgstr "Senior-high school student"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:40
+msgid "短大・大学生"
+msgstr "Junior college or College stugent"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:42
+msgid "専門学校"
+msgstr "Vocational school"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:44
+msgid "仕事に就いている"
+msgstr "Worker"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:46
+msgid "無職"
+msgstr "Not working"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:48
+msgid "その他"
+msgstr "Other"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:55
+msgid "桁あふれコード"
+msgstr "Outside-code-range responses"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:61
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:67
+msgid "無回答コード"
+msgstr "Non-Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:68
+msgid "11"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:73
+msgid "備考"
+msgstr "Remarks"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:79
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:84
+msgid "p11ab_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:86
+msgid "p11c_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:88
+msgid "p12_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:90
+msgid "p13_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:92
+msgid "p14_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:94
+msgid "p15_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:96
+msgid "p16abc_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:98
+msgid "p16d_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:100
+msgid "p17_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:102
+msgid "p18_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:104
+msgid "p19_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:106
+msgid "p20_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:108
+msgid "p21abcd_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:110
+msgid "p21e_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:112
+msgid "p22_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:114
+msgid "p23_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:116
+msgid "p24_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:118
+msgid "p25_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19S.rst:120
+msgid "p26_5"
+msgstr "p26_5"
+
+#~ msgid "変数名: Q19S"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""

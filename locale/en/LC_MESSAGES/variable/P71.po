@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:5
+msgid "初職の職業〔第1回〕"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:11
+msgid "P71"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:18
+msgid "あなたがはじめてついた職業は何ですか。具体的にご記入のうえ、〇を付けてください。(〇は１つ)"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:27
+msgid "農林漁業（自営者）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:29
+msgid "農林漁業（家族従業者）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:31
+msgid "小規模〔9人以下〕の商業・工業・サービス業（自営者）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:33
+msgid "小規模〔9人以下〕の商業・工業・サービス業（家族従業者）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:35
+msgid "自由業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:37
+msgid "管理職"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:39
+msgid "専門職"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:41
+msgid "技術職"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:43
+msgid "教員"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:45
+msgid "事務職"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:47
+msgid "技能・作業職"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:49
+msgid "販売サービス職"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:51
+msgid "自宅で賃仕事"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:53
+msgid "その他の職業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:60
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:66
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:72
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:78
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:84
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:89
+msgid "p1_3"
+msgstr ""
+
+#~ msgid "変数名: P71"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

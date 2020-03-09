@@ -1,0 +1,160 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:3
+msgid "特別な出来事（本人）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:7
+msgid "質問文（複数回答）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:8
+msgid "この1年間（調査前年10月～調査年9月）にあなた自身に次のような出来事がありましたか。（〇はいくつでも）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid "項目"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid "変数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid "新たに仕事についた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid ":doc:`Q131A </variable/Q131A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid "転勤や単身赴任"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid ":doc:`Q131M </variable/Q131M>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid "職場または仕事を変えた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid ":doc:`Q131B </variable/Q131B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid "仕事をやめた・希望退職"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid ":doc:`Q131C </variable/Q131C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid "失業（解雇された、退職勧告があった）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid ":doc:`Q131N </variable/Q131N>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid "倒産・破産"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid ":doc:`Q131O </variable/Q131O>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid "大学（院）や専門学校などに入学した"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid ":doc:`Q131D </variable/Q131D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid "新しく習い事などを始めた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid ":doc:`Q131E </variable/Q131E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid "PTAや生協、その他サークル・団体等の役員を引き受けた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid ":doc:`Q131F </variable/Q131F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid "手術や長期の療養が必要な重い病気にかかった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid ":doc:`Q131G </variable/Q131G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid "うつ状態などの精神的な問題があった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid ":doc:`Q131H </variable/Q131H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid "ローンやクレジットなどを含めた消費者トラブルにあった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid ":doc:`Q131I </variable/Q131I>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid "事故や災害にあった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid ":doc:`Q131J </variable/Q131J>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid "その他特別な出来事があった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid ":doc:`Q131K </variable/Q131K>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid "特別なことは何もなかった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+msgid ":doc:`Q131L </variable/Q131L>`"
+msgstr ""
+

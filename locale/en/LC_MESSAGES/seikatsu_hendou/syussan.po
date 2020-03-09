@@ -1,0 +1,33 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: 2020-01-28 19:00+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/syussan.rst:3
+msgid "出産"
+msgstr "Childbirth"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/syussan.rst:6
+msgid "何番目の子か"
+msgstr "Age ranking of the child (children) born during the past year"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/syussan.rst:14
+msgid "前回調査時から１年間の出産にかかった費用および産休・育休取得についての質問は「:doc:`/kosodate/index`」にまとめていますので、ご参照ください。"
+msgstr ""

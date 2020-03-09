@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: 2020-01-29 14:05+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_uchiwake.rst:3
+msgid "貯蓄の内訳"
+msgstr "Breakdown of savings"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_uchiwake.rst:12
+msgid "●預貯金とは、次のようなものをいいます。"
+msgstr "●Deposits & savings include the following"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_uchiwake.rst:14
+msgid "郵便局の定額・定期・積立貯金、通常貯金"
+msgstr "Fixed-amount, fixed-term, installment, and general savings in post offices"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_uchiwake.rst:16
+msgid "銀行、信用金庫などの定額貯金・定期積金、普通預金"
+msgstr "Fixed-amount, fixed-term installments and general deposits in banks and credit associations"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_uchiwake.rst:18
+msgid "社内貯金、金投資口座、金貯蓄口座、中期国債ファンドなど"
+msgstr "In-house deposits, gold investment accounts, gold savings accounts, national medium-term bond funds, etc."
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_uchiwake.rst:20
+msgid "●有価証券とは、次のようなものをいいます。"
+msgstr "● Securities include the following:"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_uchiwake.rst:22
+msgid "株式（時価）、債券（額面）、株式投資信託（時価）、公社債投資信託（時価）、貸付信託・金銭信託（額面）など"
+msgstr "Shares (at current values), bonds (at nominal values), stock investment trusts (at current values), open-end bond investment trusts (at current values), loan and money trusts (at nominal values), etc."

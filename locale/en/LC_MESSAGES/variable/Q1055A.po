@@ -1,0 +1,154 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:5
+msgid "公的医療保険の種類　会社の健康保険"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:11
+msgid "Q1055A"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:18
+msgid "現在、あなたご自身は、どのような公的医療保障制度に加入していますか。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:21
+msgid "会社の健康保険"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:27
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:30
+msgid "あなた自身が加入"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:32
+msgid "ご家族の保険に加入"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:39
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:45
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:51
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:52
+msgid "3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:57
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:63
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:68
+msgid "p12_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:70
+msgid "p13_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:72
+msgid "p14_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:74
+msgid "p15_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:76
+msgid "p16abc_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:78
+msgid "p16d_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:80
+msgid "p17_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:82
+msgid "p18_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:84
+msgid "p19_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:86
+msgid "p20_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:88
+msgid "p21abcd_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:90
+msgid "p21e_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:92
+msgid "p22_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:94
+msgid "p23_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:96
+msgid "p24_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:98
+msgid "p25_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1055A.rst:100
+msgid "p26_3"
+msgstr ""
+
+#~ msgid "変数名: Q1055A"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

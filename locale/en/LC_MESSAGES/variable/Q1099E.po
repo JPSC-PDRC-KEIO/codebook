@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:5
+msgid "定額給付金　親のための支出・使い方"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:11
+msgid "Q1099E"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:18
+msgid "また、それぞれどのような買い物・支出をしましたか。(1)～(6)のそれぞれについて、もっともあてはまるもの１つずつに〇をして下さい。この場合の買い物・支出には、商品購入だけでなく、飲食費、遊興費などのサービス利用料なども含みます。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:21
+msgid "(5)親のための支出"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:27
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:30
+msgid "日常の買い物にまわした"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:32
+msgid "いままでなかなか買えなかったものを買った"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:34
+msgid "普段より高価な買い物をした"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:36
+msgid "普段よりたくさん買い物をした"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:38
+msgid "その人のための支出はなかった・わからない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:45
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:51
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:57
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:58
+msgid "6"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:63
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:69
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099E.rst:74
+msgid "p17_3"
+msgstr ""
+
+#~ msgid "変数名: Q1099E"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

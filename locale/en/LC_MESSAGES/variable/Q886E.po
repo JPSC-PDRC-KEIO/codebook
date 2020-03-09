@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q886E.rst:5
+msgid "支出増加額・支出先・夫・買い物内容"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q886E.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q886E.rst:11
+msgid "Q886E"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q886E.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q886E.rst:18
+msgid "いくらくらい増えましたか。そして誰のための支出が増えましたか。また、増えたのはどのような買い物ですか。（1）～（6）のそれぞれについてあてはまるものに〇をしてください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q886E.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q886E.rst:27
+msgid "普段より高価な商品を買った"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q886E.rst:29
+msgid "普段よりたくさんの買い物をした"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q886E.rst:31
+msgid "今までなかなか買えなかったものを買った"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q886E.rst:38
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q886E.rst:44
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q886E.rst:50
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q886E.rst:51
+msgid "4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q886E.rst:56
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q886E.rst:62
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q886E.rst:67
+msgid "p7_4"
+msgstr ""
+
+#~ msgid "変数名: Q886E"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

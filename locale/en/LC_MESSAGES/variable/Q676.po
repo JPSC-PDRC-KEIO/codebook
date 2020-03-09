@@ -1,0 +1,214 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-26 13:55+0900\n"
+"PO-Revision-Date: 2020-02-26 16:00+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:5
+msgid "高校区分（配偶者）"
+msgstr "Category of high school (spouse)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:11
+msgid "Q676"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:18
+msgid "その高校は、公立・国立・私立のうちどれですか。"
+msgstr ""
+"Was the high school public (municipal or prefectural), national, or "
+"private ?"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:24
+msgid "選択肢 / 記入欄"
+msgstr "Choices / Entry field"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:27
+msgid "公立"
+msgstr "Public (municipal or prefectural)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:29
+msgid "国立"
+msgstr "National"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:31
+msgid "私立"
+msgstr "Private"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:38
+msgid "桁あふれコード"
+msgstr "Outside-code-range responses"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:44
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:50
+msgid "無回答コード"
+msgstr "Non-Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:51
+msgid "3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:56
+msgid "備考"
+msgstr "Remarks"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:58
+msgid ""
+"第20回までは、公立と国立を分けず、選択肢1.を「公立・国立」としていま"
+"した。"
+msgstr ""
+"Until the 20th wave, the public and national schools were not "
+"separatly classified, so choice1 was “public and national.”"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:62
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:67
+msgid "p1_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:69
+msgid "p2_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:71
+msgid "p3_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:73
+msgid "p4_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:75
+msgid "p5a_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:77
+msgid "p5b_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:79
+msgid "p6_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:81
+msgid "p7_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:83
+msgid "p8_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:85
+msgid "p9_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:87
+msgid "p10_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:89
+msgid "p11ab_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:91
+msgid "p11c_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:93
+msgid "p12_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:95
+msgid "p13_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:97
+msgid "p14_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:99
+msgid "p15_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:101
+msgid "p16abc_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:103
+msgid "p16d_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:105
+msgid "p17_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:107
+msgid "p18_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:109
+msgid "p19_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:111
+msgid "p20_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:113
+msgid "p21abcd_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:115
+msgid "p21e_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:117
+msgid "p22_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:119
+msgid "p23_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:121
+msgid "p24_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:123
+msgid "p25_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q676.rst:125
+msgid "p26_5"
+msgstr ""
+
+#~ msgid "公立・国立"
+#~ msgstr "Public (municipal or prefectural) or National"

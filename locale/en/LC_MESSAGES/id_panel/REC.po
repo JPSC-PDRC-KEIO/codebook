@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/REC.rst:3
+msgid "シート番号"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/REC.rst:7
+msgid "変数名：REC"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/REC.rst:11
+msgid "説明"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/REC.rst:13
+msgid ""
+"データファイルに付与した添字になります。 データは各回５つのファイルに分割され、データのファイル名は、調査回を示す接頭辞と "
+"データファイルを示す添字を組み合わせています。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/REC.rst:17
+msgid "例えば、データファイル「p10_1.csv」、「p10_2.csv」では、それぞれのRECに「1」、「2」が記載されています。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/REC.rst:21
+msgid "コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/REC.rst:22
+msgid "1 2 3 4 5"
+msgstr ""
+

@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:3
+msgid "子どもの入学"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:6
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:8
+msgid "この1年間（平成22年10月～平成23年9月）に、お子さんが *小学校以上の学校* に入学された方にお聞きします。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:12
+msgid "入学費用のまかない方"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:13
+msgid ""
+"お子さんの入学準備（机・学用品の購入、受験・進学準備費用・入学金、一人暮らし等による新生活の準備など）のためのお金は、どのようにまかないましたか。入学されたお子さんが2人以上いる場合には、"
+" *一番上のお子さん* の場合についてお答えください。（〇はいくつでも）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
+msgid "項目"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
+msgid "変数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
+msgid "日頃の収入"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
+msgid ":doc:`Q1095A </variable/Q1095A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
+msgid "学資保険"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
+msgid ":doc:`Q1095B </variable/Q1095B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
+msgid "預貯金、株や資産の売却"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
+msgid ":doc:`Q1095C </variable/Q1095C>`]"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
+msgid "実親、義親、親族からの援助"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
+msgid ":doc:`Q1095D </variable/Q1095D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
+msgid "金融機関、公的機関からの借り入れ"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
+msgid ":doc:`Q1095E </variable/Q1095E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
+msgid "子ども自身がまかなった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
+msgid ":doc:`Q1095F </variable/Q1095F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
+msgid "準備の必要はなかった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
+msgid ":doc:`Q1095G </variable/Q1095G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
+msgid ":doc:`Q1095H </variable/Q1095H>`"
+msgstr ""
+

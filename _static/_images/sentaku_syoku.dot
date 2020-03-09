@@ -1,0 +1,139 @@
+digraph sentaku_syoku {
+charset="UTF-8"
+compound=true;
+newrank=true; // これが必要！（サンプル４を参照）
+node[shape=box, style=filled; color=white, fontname="meiryo UI" fontsize=11, width=2.5];
+splines=false
+nodesep=.0;
+ranksep=.2;
+rankdir=TB
+
+
+subgraph cluster_0 {
+label="第2～第10回";
+style=filled;
+color="#ccdfff";
+fontsize=16;
+
+ a1 [label="収入・給与がよい \n Q191A", href="../../variable/Q191A.html" target="_blank"]
+ a2 [label="休日、休暇が多い \n Q191B", href="../../variable/Q191A.html" target="_blank"]
+ a3 [label="拘束時間が少ない、\n 残業が少ない\n Q191C", href="../../variable/Q191C.html" target="_blank"]
+ a4 [label="労働時聞が自由になる \n Q191D", href="../../variable/Q191D.html" target="_blank"]
+ a5 [label="家に近い、\n 通勤距離が短い \n Q191E", href="../../variable/Q191E.html" target="_blank"]
+ a6  [label="転勤がない、少ない \n Q191F", href="../../variable/Q191F.html" target="_blank"]
+ a7 [label="安定している、\n 失業のおそれがない \n Q191G",  href="../../variable/Q191G.html" target="_blank"]
+ a8 [label="将来発展する可能性がある \n Q191H",href="../../variable/Q191H.html" target="_blank"]
+ a9  [label="世間一般に \n 知られている企業である \n Q191I", href="../../variable/Q191I.html" target="_blank"]
+ a10 [label="結婚後も続けやすい \n Q191J", href="../../variable/Q191J.html" target="_blank"]
+ a11 [label="出産後も続けやすい \n Q191K", href="../../variable/Q191K.html" target="_blank"]
+ a12 [label="技術が身につく \n Q191L", href="../../variable/Q191L.html" target="_blank"]
+ a13 [label="能力が生かせる \n Q191M", href="../../variable/Q191M.html" target="_blank"]
+ a14 [label="仕事内容に興味がある \n Q191N", href="../../variable/Q191N.html" target="_blank"]
+ a15 [label="管理職になれる \n Q191O", href="../../variable/Q191O.html" target="_blank"]
+ a16 [label="外国に行ける \n Q191P", href="../../variable/Q191P.html" target="_blank"]
+ a17 [label="結婚相手が見つかる \n Q191Q", href="../../variable/Q191Q.html" target="_blank"]
+ a18 [label="学校がすすめるので \n Q191R", href="../../variable/Q191R.html" target="_blank"]
+ a19 [label="家族がすすめるので \n Q191S", href="../../variable/Q191S.html" target="_blank"]
+ a20 [label="その他 \n Q191T", href="../../variable/Q191T.html" target="_blank"]
+
+  a1->a2->a3->a4->a5->a6->a7->a8->a9->a10->a11->a12->a13->a14->a15->a16->a17->a18->a19->a20 [style=invis];
+}
+
+subgraph cluster_1 {
+label="第11～第20回";
+style=filled;
+color="#edf4ff";
+fontsize=16 ;
+
+b1 [label="変更なし", color=none, width=1.0]
+b2 [label="変更なし", color=none, width=1.0]
+b3 [label="拘束時間が少ない、\n 労働時間が自由になる\n Q191U", href="../../variable/Q191U.html" target="_blank"]
+b4 [style=invis]
+b5 [label="変更なし", color=none, width=1.0]
+b6 [label="変更なし", color=none, width=1.0]
+b7 [label="変更なし", color=none, width=1.0]
+b8 [label="変更なし", color=none, width=1.0]
+b9  [style=invis]
+b10 [label="結婚・出産後も続けやすい \n Q191V", href="../../variable/Q191V.html" target="_blank"]
+b11 [style=invis]
+b12 [label="変更なし", color=none, width=1.0]
+b13 [label="変更なし", color=none, width=1.0]
+b14 [label="変更なし", color=none, width=1.0]
+b15 [style=invis]
+b16 [style=invis]
+b17 [style=invis]
+b18 [style=invis]
+b19 [style=invis]
+b20 [label="変更なし", color=none, width=1.0]
+
+  b1->b2->b3->b4->b5->b6->b7->b8->b9->b10->b11->b12->b13->b14->b15->b16->b17->b18->b19->b20 [style=invis];
+}
+
+subgraph cluster_2 {
+label="第21回~";
+style=filled;
+color="#ccdfff";
+fontsize = 16
+
+c1 [label="変更なし", color=none, width=1.0]
+c2 [label="変更なし", color=none, width=1.0]
+c3 [label="変更なし", color=none, width=1.0]
+c4 [style=invis]
+c5 [label="変更なし", color=none, width=1.0]
+c6 [label="変更なし", color=none, width=1.0]
+c7 [label="変更なし", color=none, width=1.0]
+c8 [label="変更なし", color=none, width=1.0]
+c9 [style=invis]
+c10 [label="変更なし", color=none, width=1.0]
+c11 [style=invis]
+c12 [label="変更なし", color=none, width=1.0]
+c13 [label="変更なし", color=none, width=1.0]
+c14 [label="変更なし", color=none, width=1.0]
+c15 [style=invis]
+c16 [style=invis]
+c17 [style=invis]
+c18 [style=invis]
+c19 [style=invis]
+c20 [label="変更なし", color=none, width=1.0]
+
+
+  c1->c2->c3->c4->c5->c6->c7->c8->c9->c10->c11->c12->c13->c14->c15->c16->c17->c18->c19->c20 [style=invis];
+}
+
+
+a1->b1->c1 ;
+{rank=same; a1 b1 c1} ;
+a2->b2->c2 ;
+{rank=same; a2 b2 c2} ;
+a3->b3 ;
+{rank=same; a3 b3 c3} ;
+a4->b3->c3 ;
+{rank=same; a4 b4 c4} ;
+a5->b5->c5 ;
+{rank=same; a5 b5 c5} ;
+a6->b6->c6 ;
+{rank=same; a6 b6 c6} ;
+a7->b7->c7;
+{rank=same; a7 b7 c7} ;
+a8->b8->c8 ;
+{rank=same; a8 b8 c8} ;
+{rank=same; a9 b9 c9} ;
+a10->b10->c10 ;
+{rank=same; a10 b10 c10} ;
+{rank=same; a11 b11 c11} ;
+a11->b10 ;
+a12->b12->c12 ;
+{rank=same; a12 b12 c12} ;
+a13->b13->c13 ;
+{rank=same; a13 b13 c13} ;
+a14->b14->c14 ;
+{rank=same; a14 b14 c14} ;
+{rank=same; a15 b15 c15} ;
+{rank=same; a16 b16 c16} ;
+{rank=same; a17 b17 c17} ;
+{rank=same; a18 b18 c18} ;
+{rank=same; a19 b19 c19} ;
+a20->b20->c20 ;
+{rank=same; a20 b20 c20} ;
+
+}

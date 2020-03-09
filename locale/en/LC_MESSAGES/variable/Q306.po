@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:5
+msgid "雇用保険への加入の有無"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:11
+msgid "Q306"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:18
+msgid "あなたは雇用保険に加入していますか。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:27
+msgid "会社の雇用保険に加入している"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:29
+msgid "船員保険に加入している"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:31
+msgid "どれにも加入していない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:38
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:44
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:50
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:51
+msgid "4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:56
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:62
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:67
+msgid "p1_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:69
+msgid "p2_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:71
+msgid "p3_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:73
+msgid "p4_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:75
+msgid "p5a_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:77
+msgid "p5b_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:79
+msgid "p6_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:81
+msgid "p7_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:83
+msgid "p8_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:85
+msgid "p9_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:87
+msgid "p10_2"
+msgstr ""
+
+#~ msgid "変数名: Q306"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

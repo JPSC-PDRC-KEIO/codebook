@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:5
+msgid "大きな出来事の経験：多重債務・倒産・破産-->専門機関で治療や相談"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:11
+msgid "P135N"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:18
+msgid "あなたやあなたのご家族に起こった大きな出来事についてうかがいます。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:21
+msgid "（1）あなたが、中学を卒業してから現在までのあいだで、あなたやあなたのご家族に次のような大きな出来事がありましたか。（〇はいくつでも）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:24
+msgid "（2）その結果どのようなことが起こりましたか。あなたが覚えている限りで、次の中からいくつでもお答えください。（〇はいくつでも）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:27
+msgid "多重債務・倒産・破産-->専門機関で治療や相談をした"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:33
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:36
+msgid "はい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:38
+msgid "いいえ"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:45
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:51
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:57
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:58
+msgid "3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:63
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:69
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:74
+msgid "p1_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:76
+msgid "p5b_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:78
+msgid "p11c_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:80
+msgid "p16d_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P135N.rst:82
+msgid "p21e_4"
+msgstr ""
+
+#~ msgid "変数名: P135N"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

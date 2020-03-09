@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:5
+msgid "将来の働き方希望：家庭を重視"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:11
+msgid "Q1200B"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:18
+msgid "3年後のあなたの働き方の希望について、以下のことはどれくらいあてはまりますか。（それぞれ〇は１つずつ）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:21
+msgid "家事・育児・介護など家庭の方をより重視したい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:27
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:30
+msgid "あてはまる"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:32
+msgid "ややあてはまる"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:34
+msgid "あまりあてはまらない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:36
+msgid "ほとんどあてはまらない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:38
+msgid "わからない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:45
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:51
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:57
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:58
+msgid "6"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:63
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:69
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:74
+msgid "p23_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:76
+msgid "p24_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:78
+msgid "p25_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1200B.rst:80
+msgid "p26_1"
+msgstr ""
+
+#~ msgid "変数名: Q1200B"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

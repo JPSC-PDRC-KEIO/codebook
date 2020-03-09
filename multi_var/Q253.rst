@@ -1,0 +1,60 @@
+============================================================
+現職（会社）の選択理由（配偶者）
+============================================================
+
+
+質問文（複数回答）
+-----------------------
+なぜ、ご主人は現在の会社等を選びましたか。（〇はいくつでも）
+
+
+
+.. csv-table::
+   :header: "項目", "変数"
+   :widths: 20,5
+
+   給与がよい,:doc:`Q253A </variable/Q253A>`
+   休日、休暇が多い,:doc:`Q253B </variable/Q253B>`
+   拘束時間が少ない、労働時間が自由になる,:doc:`Q253S </variable/Q253S>`
+   家に近い、通勤距離が短い,:doc:`Q253E </variable/Q253E>`
+   転勤がない、少ない,:doc:`Q253F </variable/Q253F>`
+   安定している、失業のおそれがない,:doc:`Q253G </variable/Q253G>`
+   将来発展する可能性がある,:doc:`Q253H </variable/Q253H>`
+   技術が身につく,:doc:`Q253J </variable/Q253J>`
+   能力が生かせる,:doc:`Q253K </variable/Q253K>`
+   仕事内容に興味がある,:doc:`Q253L </variable/Q253L>`
+   その他,:doc:`Q253R </variable/Q253R>`
+
+
+.. note::
+   配偶者が現在有職の人への質問で、1年間に、配偶者の就業状態の変化があった人に聞いています（初回調査時には聞いていません）。
+
+|
+.. raw:: html
+
+  <object width="100%" hight="100%" id="sentaku_hskaiSvg" type="image/svg+xml" data="..\_static\_images\sentaku_hskai.svg"></object>
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q253A
+   /variable/Q253B
+   /variable/Q253C
+   /variable/Q253D
+   /variable/Q253E
+   /variable/Q253F
+   /variable/Q253G
+   /variable/Q253H
+   /variable/Q253I
+   /variable/Q253J
+   /variable/Q253K
+   /variable/Q253L
+   /variable/Q253M
+   /variable/Q253N
+   /variable/Q253O
+   /variable/Q253P
+   /variable/Q253Q
+   /variable/Q253R
+   /variable/Q253S

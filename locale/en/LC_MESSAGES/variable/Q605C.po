@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q605C.rst:5
+msgid "料理／4.そのうち、あなたが積極的にご主人といっしょに活動した日数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q605C.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q605C.rst:11
+msgid "Q605C"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q605C.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q605C.rst:18
+msgid "あなたはこの1年間にどんな趣味・娯楽等の活動を行いましたか。行った趣味・娯楽等の活動について、以下の項目にご記入ください。1.「1年間に行った趣味・娯楽等の活動」2.「一緒に活動した主な人」は、次ページのコード表からあてはまる「コード番号」をご記入ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q605C.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q605C.rst:32
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q605C.rst:38
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q605C.rst:44
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q605C.rst:45
+msgid "999"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q605C.rst:50
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q605C.rst:56
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q605C.rst:61
+msgid "p2_4"
+msgstr ""
+
+#~ msgid "変数名: Q605C"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

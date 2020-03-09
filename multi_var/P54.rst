@@ -1,0 +1,65 @@
+============================================================
+現職（会社）の選択理由〔第1回・第5回〕
+============================================================
+
+
+質問文（複数回答）
+-----------------------
+なぜ、あなたは現在の会社等を選びましたか。（〇はいくつでも）
+
+.. note::
+   変数名はコーホートAとコーホートBの初回調査時〔第1回・第5回〕のものです。他のコーホートについては :doc:`現職（会社）の選択理由（Q191） </multi_var/Q191>` をご参照ください。
+
+
+
+.. csv-table::
+   :header: "項目", "変数"
+   :widths: 30,5
+
+   給与がよい,:doc:`P54A </variable/P54A>`
+   休日、休暇が多い,:doc:`P54B </variable/P54B>`
+   拘束時間が少ない、残業が少ない,:doc:`P54C </variable/P54C>`
+   労働時間が自由になる,:doc:`P54D </variable/P54D>`
+   家に近い、通勤距離が短い,:doc:`P54E </variable/P54E>`
+   転勤がない、少ない,:doc:`P54F </variable/P54F>`
+   安定している、失業のおそれがない,:doc:`P54G </variable/P54G>`
+   将来発展する可能性がある,:doc:`P54H </variable/P54H>`
+   世間一般に知られている企業である,:doc:`P54I </variable/P54I>`
+   結婚後も続けやすい,:doc:`P54J </variable/P54J>`
+   出産後も続けやすい,:doc:`P54K </variable/P54K>`
+   技術が身につく,:doc:`P54L </variable/P54L>`
+   能力が生かせる,:doc:`P54M </variable/P54M>`
+   仕事内容に興味がある,:doc:`P54N </variable/P54N>`
+   管理職になれる,:doc:`P54O </variable/P54O>`
+   外国に行ける,:doc:`P54P </variable/P54P>`
+   結婚相手が見つかる,:doc:`P54Q </variable/P54Q>`
+   学校がすすめるので,:doc:`P54R </variable/P54R>`
+   家族がすすめるので,:doc:`P54S </variable/P54S>`
+   その他,:doc:`P54T </variable/P54T>`
+
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/P54A
+   /variable/P54B
+   /variable/P54C
+   /variable/P54D
+   /variable/P54E
+   /variable/P54F
+   /variable/P54G
+   /variable/P54H
+   /variable/P54I
+   /variable/P54J
+   /variable/P54K
+   /variable/P54L
+   /variable/P54M
+   /variable/P54N
+   /variable/P54O
+   /variable/P54P
+   /variable/P54Q
+   /variable/P54R
+   /variable/P54S
+   /variable/P54T

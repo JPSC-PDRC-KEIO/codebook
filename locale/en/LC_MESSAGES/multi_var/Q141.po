@@ -1,0 +1,160 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:4
+msgid "特別な出来事（家族）による生活変化への対処方法"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:8
+msgid "質問文（複数回答）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:9
+msgid "そのための対処法としてどのようなことをしましたか。（〇はいくつでも）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid "項目"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid "変数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid "預貯金を取り崩した"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid ":doc:`Q141A </variable/Q141A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid "資産を売却した"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid ":doc:`Q141B </variable/Q141B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid "親やきょうだいの経済的援助を受けた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid ":doc:`Q141C </variable/Q141C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid "親戚、知人から借金した"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid ":doc:`Q141D </variable/Q141D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid "金融機関から借金した"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid ":doc:`Q141E </variable/Q141E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid "公的機関から資金を借りた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid ":doc:`Q141F </variable/Q141F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid "民間保険を解約した"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid ":doc:`Q141G </variable/Q141G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid "民間保険の給付を受けた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid ":doc:`Q141H </variable/Q141H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid "労災保険など社会保険給付を請求した"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid ":doc:`Q141I </variable/Q141I>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid "公的機関や専門機関へ相談した"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid ":doc:`Q141J </variable/Q141J>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid "親やきょうだいに手助けや相談にのってもらった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid ":doc:`Q141K </variable/Q141K>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid "友人の手助けや相談にのってもらった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid ":doc:`Q141L </variable/Q141L>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid "宗教者に相談した"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid ":doc:`Q141M </variable/Q141M>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid ":doc:`Q141N </variable/Q141N>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid "特に何もしていない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q141.rst:1
+msgid ":doc:`Q141O </variable/Q141O>`"
+msgstr ""
+

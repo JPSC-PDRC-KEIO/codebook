@@ -1,0 +1,202 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:3
+msgid "現職（職種）の選択理由〔第1回・第5回〕"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:7
+msgid "質問文（複数回答）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:8
+msgid "なぜ、あなたは現在の職種を選びましたか。（〇はいくつでも）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:11
+msgid ""
+"変数名はコーホートAとコーホートBの初回調査時〔第1回・第5回〕のものです。他の調査回については :doc:`現職（職種）の選択理由（Q192） "
+"</multi_var/Q192>` をご参照ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "項目"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "変数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "収入・給与がよい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56A </variable/P56A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "休日、休暇が多い"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56B </variable/P56B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "拘束時間が少ない、残業が少ない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56C </variable/P56C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "労働時間が自由になる"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56D </variable/P56D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "転勤がない、少ない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56F </variable/P56F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "安定している、失業のおそれがない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56G </variable/P56G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "将来発展する可能性がある"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56H </variable/P56H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "組織にしばられない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "結婚後も続けやすい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56I </variable/P56I>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "出産後も続けやすい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56J </variable/P56J>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "技術が身につく"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56K </variable/P56K>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "能力が生かせる"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56L </variable/P56L>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "仕事内容に興味がある"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56M </variable/P56M>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "外国に行ける"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56N </variable/P56N>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "結婚相手が見つかる"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56O </variable/P56O>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "学校がすすめるので"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56P </variable/P56P>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "家族がすすめるので"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56Q </variable/P56Q>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "会社ですすめられた（自分で選んだのではない）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56R </variable/P56R>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "家業だから"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56S </variable/P56S>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P56.rst:1
+msgid ":doc:`P56T </variable/P56T>`"
+msgstr ""
+

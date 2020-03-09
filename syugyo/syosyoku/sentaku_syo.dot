@@ -1,0 +1,201 @@
+digraph sentaku_syo {
+  charset="UTF-8"
+  compound=true;
+  newrank=true; // これが必要！（サンプル４を参照）
+  node[shape=box, style=filled; color=white, fontname="meiryo UI" fontsize=14, width=2.5];
+  splines=false
+  nodesep=.0;
+  ranksep=.2;
+  rankdir=TB
+
+
+  subgraph cluster_0 {
+  label="第1回";
+  style=filled;
+  color="#ccdfff";
+  fontsize=16;
+
+   a1 [label="収入・給与がよい \n P77A", href="../../variable/P77A.html" target="_blank"]
+   a2 [label="休日、休暇が多い \n P77B", href="../../variable/P77A.html" target="_blank"]
+   a3 [label="拘束時間が少ない、\n 残業が少ない\n P77C", href="../../variable/P77C.html" target="_blank"]
+   a4 [label="労働時聞が自由になる \n P77D", href="../../variable/P77D.html" target="_blank"]
+   a5 [label="家に近い、\n 通勤距離が短い \n P77E", href="../../variable/P77E.html" target="_blank"]
+   a6  [label="転勤がない、少ない \n P77F", href="../../variable/P77F.html" target="_blank"]
+   a7 [label="安定している、\n 失業のおそれがない \n P77G",  href="../../variable/P77G.html" target="_blank"]
+   a8 [label="将来発展する可能性がある \n P77H",href="../../variable/P77H.html" target="_blank"]
+   a9  [label="世間一般に \n 知られている企業である \n P77I", href="../../variable/P77I.html" target="_blank"]
+   a10 [label="組織にしばられない \n P77J", href="../../variable/P77J.html" target="_blank"]
+   a11 [label="結婚後も続けやすい \n P77K", href="../../variable/P77K.html" target="_blank"]
+   a12 [label="出産後も続けやすい \n P77L", href="../../variable/P77L.html" target="_blank"]
+   a13 [label="技術が身につく \n P77M", href="../../variable/P77M.html" target="_blank"]
+   a14 [label="能力が生かせる \n P77N", href="../../variable/P77N.html" target="_blank"]
+   a15 [label="仕事内容に興味がある \n P77O", href="../../variable/P77O.html" target="_blank"]
+   a16 [label="管理職になれる \n P77P", href="../../variable/P77P.html" target="_blank"]
+   a17 [label="外国に行ける \n P77Q", href="../../variable/P77Q.html" target="_blank"]
+   a18 [label="結婚相手が見つかる \n P77R", href="../../variable/P77R.html" target="_blank"]
+   a19 [label="学校がすすめるので \n P77S", href="../../variable/P77S.html" target="_blank"]
+   a20 [label="家族がすすめるので \n P77T", href="../../variable/P77T.html" target="_blank"]
+   a21 [label="会社で指定された \n （自分で選んだのではない） \n P77U", href="../../variable/P77U.html" target="_blank"]
+   a22 [label="家業だから \n P77V", href="../../variable/P77V.html" target="_blank"]
+   a23 [label="その他 \n P77W", href="../../variable/P77W.html" target="_blank"]
+
+    a1->a2->a3->a4->a5->a6->a7->a8->a9->a10->a11->a12->a13->a14->a15->a16->a17->a18->a19->a20->a21->a22->a23 [style=invis];
+  }
+
+  subgraph cluster_1 {
+  label="第5回";
+  style=filled;
+  color="#edf4ff";
+  fontsize=16 ;
+
+  b1 [label="変更なし", color=none, width=1.0]
+  b2 [label="変更なし", color=none, width=1.0]
+  b3 [label="変更なし", color=none, width=1.0]
+  b4 [label="変更なし", color=none, width=1.0]
+  b5 [label="変更なし", color=none, width=1.0]
+  b6 [label="変更なし", color=none, width=1.0]
+  b7 [label="変更なし", color=none, width=1.0]
+  b8 [label="変更なし", color=none, width=1.0]
+  b9 [label="変更なし", color=none, width=1.0]
+  b10 [label="変更なし", color=none, width=1.0]
+  b11 [label="変更なし", color=none, width=1.0]
+  b12 [label="変更なし", color=none, width=1.0]
+  b13 [label="変更なし", color=none, width=1.0]
+  b14 [label="変更なし", color=none, width=1.0]
+  b15 [label="変更なし", color=none, width=1.0]
+  b16 [label="        変更なし         ", color=none, width=1.0]
+  b17 [label="       変更なし        ", color=none, width=1.0]
+  b18 [label="     変更なし       ", color=none, width=1.0]
+  b19 [label="   変更なし   ", color=none, width=1.0]
+  b20 [label="変更なし", color=none, width=1.0]
+  b21 [label="変更なし", color=none, width=1.0]
+  b22 [label="変更なし", color=none, width=1.0]
+  b23 [label="変更なし", color=none, width=1.0]
+
+
+    b1->b2->b3->b4->b5->b6->b7->b8->b9->b10->b11->b12->b13->b14->b15->b16->b17->b18->b19->b20->b21->b22->b23 [style=invis];
+  }
+
+  subgraph cluster_2 {
+  label="第11回";
+  style=filled;
+  color="#ccdfff";
+  fontsize = 16
+
+  c1 [label="変更なし", color=none, width=1.0]
+  c2 [label="変更なし", color=none, width=1.0]
+  c3 [label="拘束時間が少ない、\n 労働時間が自由になる\n P77X", href="../../variable/P77X.html" target="_blank"]
+  c4 [style=invis]
+  c5 [label="変更なし", color=none, width=1.0]
+  c6 [label="変更なし", color=none, width=1.0]
+  c7 [label="変更なし", color=none, width=1.0]
+  c8 [label="変更なし", color=none, width=1.0]
+  c9 [label="削除", color=none, width=1.0]
+  c10 [label="削除", color=none, width=1.0]
+  c11 [label="結婚・出産後も続けやすい \n P77Y", href="../../variable/P77Y.html" target="_blank"]
+  c12 [style=invis]
+  c13 [label="変更なし", color=none, width=1.0]
+  c14 [label="変更なし", color=none, width=1.0]
+  c15 [label="変更なし", color=none, width=1.0]
+  c16 [label="", color=none, width=0.0]
+  c17 [style=invis]
+  c18 [style=invis]
+  c19 [style=invis]
+  c20 [style=invis]
+  c21 [style=invis]
+  c22 [style=invis]
+  c23 [label="変更なし", color=none, width=1.0]
+
+
+
+    c1->c2->c3->c4->c5->c6->c7->c8->c9->c10->c11->c12->c13->c14->c15->c16->c17->c18->c19->c20->c21->c22->c23 [style=invis];
+  }
+
+  subgraph cluster_3 {
+  label="第16回・第21回";
+  style=filled;
+  color="#edf4ff";
+  fontsize = 16 ;
+
+  d1 [label="変更なし", color=none, width=1.0]
+  d2 [label="変更なし", color=none, width=1.0]
+  d3 [label="変更なし", color=none, width=1.0]
+  d4 [style=invis]
+  d5 [label="変更なし", color=none, width=1.0]
+  d6 [label="変更なし", color=none, width=1.0]
+  d7 [label="変更なし", color=none, width=1.0]
+  d8 [label="変更なし", color=none, width=1.0]
+  d9 [label="変更なし", color=none, width=1.0]
+  d10 [label="変更なし", color=none, width=1.0]
+  d11 [label="変更なし", color=none, width=1.0]
+  d12 [style=invis]
+  d13 [label="変更なし", color=none, width=1.0]
+  d14 [label="変更なし", color=none, width=1.0]
+  d15 [label="変更なし", color=none, width=1.0]
+  d16 [style=invis]
+  d17 [style=invis]
+  d18 [style=invis]
+  d19 [style=invis]
+  d20 [style=invis]
+  d21 [style=invis]
+  d22 [style=invis]
+  d23 [label="変更なし", color=none, width=1.0]
+
+
+    d1->d2->d3->d4->d5->d6->d7->d8->d9->d10->d11->d12->d13->d14->d15->d16->d17->d18->d19->d20->d21->d22->d23 [style=invis];
+  }
+
+  a1->b1 ;
+  b1->c1->d1 ;
+  {rank=same; a1 b1 c1 d1} ;
+  a2->b2->c2->d2 ;
+  {rank=same; a2 b2 c2 d2} ;
+  a3->b3->c3->d3;
+  {rank=same; a3 b3 c3 d3} ;
+  a4->b4->c3 ;
+  {rank=same; a4 b4} ;
+  a5->b5->c5->d5 ;
+  {rank=same; a5 b5 c5 d5} ;
+  a6->b6->c6->d6 ;
+  {rank=same; a6 b6 c6 d6} ;
+  a7->b7->c7->d7;
+  {rank=same; a7 b7 c7 d7} ;
+  a8->b8->c8->d8 ;
+  {rank=same; a8 b8 c8 d8} ;
+  a9->b9->c9->d9 ;
+  {rank=same; a9 b9 c9 d9} ;
+  a10->b10->c10->d10 ;
+  {rank=same; a10 b10 c10 d10} ;
+  a11->b11->c11->d11 ;
+  {rank=same; a11 b11 c11 d11} ;
+  a12->b12->c11 ;
+  {rank=same; a12 b12 c12 d12} ;
+  a13->b13->c13->d13 ;
+  {rank=same; a13 b13 c13 d13} ;
+  a14->b14->c14->d14 ;
+  {rank=same; a14 b14 c14 d14} ;
+  a15->b15->c15->d15 ;
+  {rank=same; a15 b15 c15 d15} ;
+  a16->b16 ;
+  b16:e->c23 ;
+  {rank=same; a16 b16 c16 d16} ;
+  a17->b17 ;
+  b17:e->c23 ;
+  {rank=same; a17 b17 c17 d17} ;
+  a18->b18 ;
+  b18:e->c23 ;
+  {rank=same; a18 b18 c18 d18} ;
+  a19->b19 ;
+  b19:e->c23 ;
+  {rank=same; a19 b19 c19 d19} ;
+  a20->b20 ;
+  b20->c23 ;
+  {rank=same; a20 b20 c20 d20} ;
+  a21->b21->c23 ;
+  {rank=same; a21 b21 c21 d21} ;
+  a22->b22->c23 ;
+  {rank=same; a22 b22 c22 d22} ;
+  a23->b23->c23->d23
+  {rank=same; a23 b23 c23 d23} ;
+
+}

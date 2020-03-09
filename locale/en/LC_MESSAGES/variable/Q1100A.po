@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1100A.rst:5
+msgid "定額給付金　子供への現金の渡し方・小学校低学年"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1100A.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1100A.rst:11
+msgid "Q1100A"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1100A.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1100A.rst:18
+msgid ""
+"お子さんの分の定額給付金を現金で渡しましたか。あてはまるものに１つずつ〇をつけて下さい。該当する学年にお子さんがいない場合は、「４ "
+"該当する子どもがいない」に〇をつけて下さい。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1100A.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1100A.rst:27
+msgid "現金で全額与えた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1100A.rst:29
+msgid "一部の金額を与えた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1100A.rst:31
+msgid "現金は与えなかった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1100A.rst:33
+msgid "該当する子どもがいない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1100A.rst:40
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1100A.rst:46
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1100A.rst:52
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1100A.rst:53
+msgid "5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1100A.rst:58
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1100A.rst:64
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1100A.rst:69
+msgid "p17_3"
+msgstr ""
+
+#~ msgid "変数名: Q1100A"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

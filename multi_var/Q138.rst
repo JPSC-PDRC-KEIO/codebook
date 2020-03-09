@@ -1,0 +1,54 @@
+============================================================
+事故・災害・消費者トラブルへの対処
+============================================================
+
+
+質問文（複数回答）
+-----------------------
+| この1年間（調査前年10月～調査年9月）にあなた自身が事故や災害、消費者トラブルにあわれた方にうかがいます。
+| そのためにどのような対処をしましたか。（〇はいくつでも）
+
+
+
+.. csv-table::
+   :header: 項目, 変数
+   :widths: 20,5
+
+   預貯金を取り崩した,:doc:`Q138A </variable/Q138A>`
+   資産を売却した,:doc:`Q138B </variable/Q138B>`
+   親やきょうだいの経済的援助を受けた,:doc:`Q138C </variable/Q138C>`
+   親戚、知人から借金した,:doc:`Q138D </variable/Q138D>`
+   金融機関から借金した,:doc:`Q138E </variable/Q138E>`
+   公的機関から資金を借りた,:doc:`Q138F </variable/Q138F>`
+   民間保険を解約した,:doc:`Q138G </variable/Q138G>`
+   民間保険の給付を受けた,:doc:`Q138H </variable/Q138H>`
+   労災保険など社会保険給付を請求した,:doc:`Q138I </variable/Q138I>`
+   公的機関や専門機関へ相談した,:doc:`Q138J </variable/Q138J>`
+   親やきょうだいに手助けや相談にのってもらった,:doc:`Q138K </variable/Q138K>`
+   友人の手助けや相談にのってもらった,:doc:`Q138L </variable/Q138L>`
+   宗教者に相談した,:doc:`Q138M </variable/Q138M>`
+   その他,:doc:`Q138N </variable/Q138N>`
+   特に何もしていない,:doc:`Q138O </variable/Q138O>`
+
+
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q138A
+   /variable/Q138B
+   /variable/Q138C
+   /variable/Q138D
+   /variable/Q138E
+   /variable/Q138F
+   /variable/Q138G
+   /variable/Q138H
+   /variable/Q138I
+   /variable/Q138J
+   /variable/Q138K
+   /variable/Q138L
+   /variable/Q138M
+   /variable/Q138N
+   /variable/Q138O

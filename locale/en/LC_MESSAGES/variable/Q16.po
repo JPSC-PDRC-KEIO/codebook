@@ -1,0 +1,316 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-05 13:07+0900\n"
+"PO-Revision-Date: 2020-03-05 14:19+0900\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:5
+msgid "家族3：続柄"
+msgstr "Family 3: Relationship"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:11
+msgid "Q16"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:18
+msgid "あなたとの続き柄"
+msgstr "Relationship to you"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:21
+msgid "家族3"
+msgstr "Family-member3"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:27
+msgid "選択肢 / 記入欄"
+msgstr "Choices / Entry field"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:29
+msgid "＜有配偶＞"
+msgstr "**Married**"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:31
+msgid "本人（妻）"
+msgstr "Me (respondent)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:33
+msgid "ご主人"
+msgstr "Husband"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:35
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:70
+msgid "子ども(第１子)"
+msgstr "First child"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:37
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:72
+msgid "子ども(第２子)"
+msgstr "Second child"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:39
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:74
+msgid "子ども(第３子)"
+msgstr "Third child"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:41
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:76
+msgid "子ども(第4子)"
+msgstr "Fourth child"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:43
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:78
+msgid "子ども(第5子以下)"
+msgstr "Fifth or later child"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:45
+msgid "妻の父母"
+msgstr "My parent"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:47
+msgid "夫の父母"
+msgstr "My husband's parent"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:49
+msgid "妻の祖父母"
+msgstr "My grandparent"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:51
+msgid "夫の祖父母"
+msgstr "My grand parent"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:53
+msgid "妻の兄弟姉妹"
+msgstr "My brother or sister"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:55
+msgid "夫の兄弟姉妹"
+msgstr "My husband's brother or sister"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:57
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:86
+msgid "子どもの配偶者"
+msgstr "My child’s spouse"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:59
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:88
+msgid "孫"
+msgstr "My grand child"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:61
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:90
+msgid "その他の親族"
+msgstr "Other relatives"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:63
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:92
+msgid "その他"
+msgstr "Other"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:66
+msgid "＜無配偶＞"
+msgstr "**Single**"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:68
+msgid "本人"
+msgstr "Me"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:80
+msgid "自分の父母"
+msgstr "My parent"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:82
+msgid "自分の祖父母"
+msgstr "My grandparent"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:84
+msgid "自分の兄弟姉妹"
+msgstr "My brother or sister"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:97
+msgid "桁あふれコード"
+msgstr "Outside-code-range response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:103
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:109
+msgid "無回答コード"
+msgstr "Non-Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:115
+msgid "備考"
+msgstr "Remarks"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:121
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:126
+msgid "p1_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:128
+#, fuzzy
+msgid "p2_1"
+msgstr "p2_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:130
+#, fuzzy
+msgid "p3_1"
+msgstr "p3_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:132
+#, fuzzy
+msgid "p4_1"
+msgstr "p4_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:134
+#, fuzzy
+msgid "p5a_1"
+msgstr "p5a_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:136
+#, fuzzy
+msgid "p5b_1"
+msgstr "p5b_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:138
+#, fuzzy
+msgid "p6_1"
+msgstr "p6_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:140
+#, fuzzy
+msgid "p7_1"
+msgstr "p7_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:142
+#, fuzzy
+msgid "p8_1"
+msgstr "p8_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:144
+#, fuzzy
+msgid "p9_1"
+msgstr "p9_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:146
+msgid "p10_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:148
+#, fuzzy
+msgid "p11ab_1"
+msgstr "p11ab_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:150
+#, fuzzy
+msgid "p11c_1"
+msgstr "p11c_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:152
+#, fuzzy
+msgid "p12_1"
+msgstr "p12_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:154
+#, fuzzy
+msgid "p13_1"
+msgstr "p13_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:156
+#, fuzzy
+msgid "p14_1"
+msgstr "p14_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:158
+#, fuzzy
+msgid "p15_1"
+msgstr "p15_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:160
+#, fuzzy
+msgid "p16abc_1"
+msgstr "p16abc_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:162
+#, fuzzy
+msgid "p16d_1"
+msgstr "p16d_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:164
+#, fuzzy
+msgid "p17_1"
+msgstr "p17_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:166
+#, fuzzy
+msgid "p18_1"
+msgstr "p18_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:168
+#, fuzzy
+msgid "p19_1"
+msgstr "p19_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:170
+#, fuzzy
+msgid "p20_1"
+msgstr "p20_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:172
+#, fuzzy
+msgid "p21abcd_1"
+msgstr "p21abcd_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:174
+#, fuzzy
+msgid "p21e_1"
+msgstr "p21e_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:176
+#, fuzzy
+msgid "p22_1"
+msgstr "p22_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:178
+#, fuzzy
+msgid "p23_1"
+msgstr "p23_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:180
+#, fuzzy
+msgid "p24_1"
+msgstr "p24_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:182
+#, fuzzy
+msgid "p25_1"
+msgstr "p25_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:184
+#, fuzzy
+msgid "p26_1"
+msgstr "p26_1"

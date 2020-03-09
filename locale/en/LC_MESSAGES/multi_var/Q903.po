@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-28 14:33+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:4
+msgid "「価格破壊｣商品の低価格要因"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:8
+msgid "質問文（複数回答）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:9
+msgid "こうした「価格破壊」 商品の価格が低い要因は何だと思いますか。（〇はいくつでも）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:13
+msgid "選択肢"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "卸売り業者や問屋など商品の仕入れ段階を簡素化しているため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "Q903A"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "運賃や配送費を節約させているため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "Q903B"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "薄利多売など、販売戦略の推進のため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "Q903C"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "円高などにより価格の低下している輸入品によっているため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "Q903D"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "品質を低下させているため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "Q903E"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "6"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "プライベート・ブランド（販売側の独自ブランド）によっているた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "Q903F"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "7"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "その他（　　　　　　　　　　　　）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:1
+msgid "Q903G"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:29
+msgid "現在の変数へのリンク"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:44
+msgid "過去の変数へのリンク"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q903.rst:51
+msgid "備考"
+msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

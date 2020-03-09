@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: 2020-01-30 10:40+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/oyakankei/zouyosouzoku.rst:3
+msgid "親からの贈与・相続"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/oyakankei/zouyosouzoku.rst:6
+#: /mnt/c/Users/JPSC/code_books/codebook/oyakankei/zouyosouzoku.rst:60
+msgid "質問文"
+msgstr "Question"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/oyakankei/zouyosouzoku.rst:7
+msgid "あなたは、この１年間（平成14年10月～平成15年９月）にあなたの親から金融資産や実物資産をもらったことがありますか。もらった場合はその価値をご記入下さい。"
+msgstr "Have you and your husband received financial and real assets from your husband’s parent(s) during the past year (October 2015 - — September 2016)?   If you have, please fill in the current value of the assets below."
+
+#: /mnt/c/Users/JPSC/code_books/codebook/oyakankei/zouyosouzoku.rst:61
+msgid "あなた方ご夫婦は、親から将来相続を受けることになると思いますか。"
+msgstr "Do you and your husband expect to receive financial and real assets from your parent(s) in the future?"

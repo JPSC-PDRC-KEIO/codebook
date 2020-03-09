@@ -1,0 +1,102 @@
+
+============================================================
+結婚時に購入した家具・家電
+============================================================
+
+
+質問文（複数回答）
+-------------------------------------
+現在の結婚をするにあたって、あなたやご主人が購入したものはありますか。（〇はいくつでも）
+
+
+選択肢
+-----------------------
+
+.. csv-table::
+   :widths: 2,20,5
+
+   1,ダイニングセット,Q706A
+   2,食器戸棚,Q706B
+   3,電子レンジ,Q706D
+   4,電気冷蔵庫,Q706E
+   5,自動食器洗い機,Q706F
+   6,電気掃除機,Q706G
+   7,電気洗濯機,Q706H
+   8,衣類乾燥機,Q706I
+   9,ミシン,Q706K
+   10,扇風機,Q706L
+   11,ルームエアコン,Q706M
+   12,石油ファンヒーター,Q706O
+   13,電気こたつ,Q706P
+   14,カラーテレビ,Q706Q
+   15,CDステレオ,Q706R
+   16,CDラジカセ,Q706S
+   17,ビデオデッキ,Q706T
+   18,ビデオカメラ,Q706U
+   19,TVゲーム機,Q706Z
+   20,デジタルカメラ,Q706AE
+   21,パソコン,Q706AB
+   22,電話機,Q706V
+   23,FAX（電話機兼用も含む）,Q706AC
+   24,携帯電話（PHSも含む）,Q706AD
+   25,自転車,Q706W
+   26,乗用車,Q706X
+   27,この中にはない,Q706Y
+   *,ワープロ,Q706AA
+   *,ガス湯沸かし器,Q706C
+   *,布団乾燥機,Q706J
+   *,石油ストーブ,Q706N
+
+
+
+現在の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q706A
+   /variable/Q706B
+   /variable/Q706D
+   /variable/Q706E
+   /variable/Q706F
+   /variable/Q706G
+   /variable/Q706H
+   /variable/Q706I
+   /variable/Q706K
+   /variable/Q706L
+   /variable/Q706M
+   /variable/Q706O
+   /variable/Q706P
+   /variable/Q706Q
+   /variable/Q706R
+   /variable/Q706S
+   /variable/Q706T
+   /variable/Q706U
+   /variable/Q706Z
+   /variable/Q706AE
+   /variable/Q706AB
+   /variable/Q706V
+   /variable/Q706AC
+   /variable/Q706AD
+   /variable/Q706W
+   /variable/Q706X
+   /variable/Q706Y
+
+
+過去の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q706AA
+   /variable/Q706C
+   /variable/Q706J
+   /variable/Q706N
+
+備考
+------------------------
+
+
+.. accessで作った備考欄のセミコロンは改行を表す

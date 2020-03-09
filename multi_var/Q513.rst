@@ -1,0 +1,58 @@
+============================================================
+出産を望まない理由
+============================================================
+
+
+質問文（複数回答）
+-----------------------
+（子どもは）なぜ欲しくないのですか。（〇はいくつでも）
+
+
+
+.. csv-table::
+   :header: "", "有配偶", "無配偶"
+   :widths: 20,5,5
+
+   教育費・養育費の負担が大きいから,:doc:`Q513A </variable/Q513A>`,:doc:`Q514F </variable/Q514F>`
+   広い家が必要だから,:doc:`Q513B </variable/Q513B>`, ─
+   仕事を続けたいから,:doc:`Q513C </variable/Q513C>`,:doc:`Q514C </variable/Q514C>`
+   自分自身の生活を大切にしたいから,:doc:`Q513D </variable/Q513D>`,:doc:`Q514B </variable/Q514B>`
+   夫と2人の生活を大切にしたいから,:doc:`Q513E </variable/Q513E>`,:doc:`Q514D </variable/Q514D>`
+   子どもを一人前に育てるのは容易ではないから,:doc:`Q513F </variable/Q513F>`,:doc:`Q514G </variable/Q514G>`
+   夫の育児教育が期待できないから,:doc:`Q513G </variable/Q513G>`, ─
+   体力的に大変だから,:doc:`Q513H </variable/Q513H>`, ─
+   丈夫な子供が生まれるかどうか不安だから,:doc:`Q513I </variable/Q513I>`, ─
+   子どもが嫌いだから,:doc:`Q513J </variable/Q513J>`,:doc:`Q514E </variable/Q514E>`
+   女の子さえ生まれればいいから,:doc:`Q513K </variable/Q513K>`, ─
+   男の子さえ生まれればいいから,:doc:`Q513L </variable/Q513L>`, ─
+   今の子どもの人数で満足だから,:doc:`Q513N </variable/Q513N>`, ─
+   結婚したくないから, ─ ,:doc:`Q514A </variable/Q514A>`
+   その他,:doc:`Q513M </variable/Q513M>`,:doc:`Q514H </variable/Q514H>`
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q513A
+   /variable/Q513B
+   /variable/Q513C
+   /variable/Q513D
+   /variable/Q513E
+   /variable/Q513F
+   /variable/Q513G
+   /variable/Q513H
+   /variable/Q513I
+   /variable/Q513J
+   /variable/Q513K
+   /variable/Q513L
+   /variable/Q513M
+   /variable/Q513N
+   /variable/Q514A
+   /variable/Q514B
+   /variable/Q514C
+   /variable/Q514D
+   /variable/Q514E
+   /variable/Q514F
+   /variable/Q514G
+   /variable/Q514H

@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:3
+msgid "仕事の知識・技能習得"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:6
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:8
+msgid "あなたは、今の仕事に必要な知識や技能をどこで身につけましたか。（〇はいくつでも）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid "項目"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid "変数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid "社内の研修で"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid ":doc:`P57A </variable/P57A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid "社内の同僚から"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid ":doc:`P57B </variable/P57B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid "会社から学校に派遣されて"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid ":doc:`P57C </variable/P57C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid "会社から他社に派遣されて"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid ":doc:`P57D </variable/P57D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid "就職する前に公共の職業訓練校で"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid ":doc:`P57E </variable/P57E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid "就職する前に専門学校などで"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid ":doc:`P57F </variable/P57F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid "高校で"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid ":doc:`P57G </variable/P57G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid "高専・短大・大学で"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid ":doc:`P57H </variable/P57H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid "大学院で"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid ":doc:`P57I </variable/P57I>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid "前職の勤務により"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid ":doc:`P57J </variable/P57J>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid "独学で"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid ":doc:`P57K </variable/P57K>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid ":doc:`P57L </variable/P57L>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid "特に身につけたことはない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ginousyutoku.rst:1
+msgid ":doc:`P57M </variable/P57M>`"
+msgstr ""
+

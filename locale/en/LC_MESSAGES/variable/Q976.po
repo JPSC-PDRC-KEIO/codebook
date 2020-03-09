@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:5
+msgid "公的介護保険制度についての意見"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:11
+msgid "Q976"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:18
+msgid "公的介護保険は高齢者介護を公的な制度で進める案ですが、このことについてどう思いますか。（〇は１つ）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:27
+msgid "高齢者自身が私的に備えれば十分なので、公的な制度は必要ない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:29
+msgid "子どもや家族が介護すべきであり、公的な制度は必要ない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:31
+msgid "高齢者や家族では限界があるので、公的な制度が必要である"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:33
+msgid "公的制度は必要だが、不平等が生じないように条件を整備すべきである"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:35
+msgid "その他（具体的に　　　　　　　）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:42
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:48
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:54
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:55
+msgid "6"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:60
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:66
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:71
+msgid "p4_4"
+msgstr ""
+
+#~ msgid "変数名: Q976"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

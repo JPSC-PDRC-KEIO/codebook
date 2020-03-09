@@ -1,0 +1,34 @@
+============================================================
+受講費用負担者（無配偶）
+============================================================
+
+
+質問文（複数回答）
+-----------------------
+その費用はどなたが負担しましたか。（〇はいくつでも）
+
+
+
+.. csv-table::
+   :header: 項目, 変数
+   :widths: 20,5
+
+    自分自身, :doc:`Q544F </variable/Q544F>`
+    勤め先, :doc:`Q544G </variable/Q544G>`
+    自分の親, :doc:`Q544H </variable/Q544H>`
+    教育訓練給付制度, :doc:`Q544K</variable/Q544K>`
+    その他の公的な助成, :doc:`Q544I </variable/Q544I>`
+    その他,  :doc:`Q544J </variable/Q544J>`
+
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q544F
+   /variable/Q544G
+   /variable/Q544H
+   /variable/Q544K
+   /variable/Q544I
+   /variable/Q544J

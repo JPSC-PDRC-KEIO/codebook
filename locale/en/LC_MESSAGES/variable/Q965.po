@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:5
+msgid "子育て費用への考え方"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:11
+msgid "Q965"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:18
+msgid "高校卒業までの子どもの養育・教育費に対する責任について次の度の考え方に近いですか。（〇は１つ）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:27
+msgid "子どもの養育・教育の責任は親にあるので、親が私的に養育・教育費の責任をもつべきである"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:29
+msgid "子どもはいずれ労働力となり生産に貢献するのだから、養育手当等の形で企業がかなり養育・教育費を負担すべきである"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:31
+msgid "子どもは将来社会を支える、社会全体の子どもなので、子供の養育・教育費は社会全体で、公的に責任を負うべきである"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:33
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:40
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:46
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:52
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:53
+msgid "5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:58
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:64
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:69
+msgid "p4_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:71
+msgid "p19_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:73
+msgid "p20_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:75
+msgid "p21abcd_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:77
+msgid "p21e_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:79
+msgid "p22_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:81
+msgid "p23_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:83
+msgid "p24_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:85
+msgid "p25_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q965.rst:87
+msgid "p26_3"
+msgstr ""
+
+#~ msgid "変数名: Q965"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

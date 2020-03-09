@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: 2020-02-28 15:04+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:5
+msgid "きょうだい数：女"
+msgstr "Number of siblings: female"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:11
+msgid "P1B"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:18
+msgid "あなた自身のきょうだいは何人いますか。"
+msgstr "How many siblings do you have?"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:21
+msgid "女"
+msgstr "female"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:27
+msgid "選択肢 / 記入欄"
+msgstr "Choices / Entry field"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:29
+msgid "＿＿人"
+msgstr "＿＿female siblings (includ yourself)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:35
+msgid "桁あふれコード"
+msgstr "Outside-code-range responses"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:36
+msgid "98"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:41
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:47
+msgid "無回答コード"
+msgstr "Non-Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:48
+msgid "99"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:53
+msgid "備考"
+msgstr "Remarks"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:59
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:64
+msgid "p1_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:66
+msgid "p5b_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:68
+msgid "p11c_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:70
+msgid "p16d_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P1B.rst:72
+msgid "p21e_1"
+msgstr ""

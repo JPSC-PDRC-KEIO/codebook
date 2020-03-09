@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:3
+msgid "初婚時期"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:13
+msgid "**初婚時期の調査について**"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:15
+msgid "下記の調査回に初婚年・月を聞いています。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:16
+msgid "●コーホートA"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:17
+msgid "有配偶：第2回・第12回・第17回"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:18
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:21
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:24
+msgid "無配偶：第12回・第17回"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:19
+msgid "●コーホートB"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:20
+msgid "有配偶：第5回・第12回・第17回"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:22
+msgid "●コーホートC"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:23
+msgid "有配偶：第11回・第12回・第17回"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:25
+msgid "●コーホートD"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:26
+msgid "有配偶：第16回・第17回"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:27
+msgid "無配偶：第17回"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:28
+msgid "●コーホートE"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:29
+msgid "有配偶：第21回"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:30
+msgid "無配偶：第21回"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:32
+msgid ""
+"初婚年・月の変数名は Q1044A・Q1044B "
+"です。ただし、第2回調査（コーホートA初回）と第5回調査（コーホートB初回）は、:doc:`/variable/Q527A`・:doc:`/variable/Q527B`"
+" を使用しています。なお、第11回調査以降は、年月欄か結婚年齢欄かのいずれかに記入いただくようにしています。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:34
+msgid "コーホートA～Dには複数回質問をしていますが、これは、記入漏れ等への対処のためです。調査回が新しいほどデータ数は多くなりますが、調査からの離脱者も多くなります。ご注意ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:36
+msgid "また、有配偶と無配偶の調査回の相違にもご注意ください。"
+msgstr ""
+

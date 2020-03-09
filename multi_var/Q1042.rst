@@ -1,0 +1,62 @@
+============================================================
+子育ての相談相手
+============================================================
+
+
+質問文（複数回答）
+-----------------------
+現在、育児や子育てについて相談できる方はいますか。（〇はいくつでも）
+
+有配偶
+^^^^^^^^^^^^^^^^^
+
+.. csv-table::
+   :header: "項目", "変数"
+   :widths: 20,5
+
+   あなたの夫,:doc:`Q1042A </variable/Q1042A>`
+   あなたの親,:doc:`Q1042B </variable/Q1042B>`
+   あなたのきょうだい,:doc:`Q1042C </variable/Q1042C>`
+   夫の親,:doc:`Q1042D </variable/Q1042D>`
+   友人,:doc:`Q1042E </variable/Q1042E>`
+   近所の人,:doc:`Q1042F </variable/Q1042F>`
+   医師、助産婦、保育士、保健師などの専門家,:doc:`Q1042G </variable/Q1042G>`
+   その他,:doc:`Q1042H </variable/Q1042H>`
+   特に相談できる人はいない,:doc:`Q1042I </variable/Q1042I>`
+   特に相談する必要がない,:doc:`Q1042J </variable/Q1042J>`
+
+
+無配偶
+^^^^^^^^^^^^^^^^^
+
+.. csv-table::
+   :header: "項目", "変数"
+   :widths: 20,5
+
+   あなたの親,:doc:`Q1042B </variable/Q1042B>`
+   あなたのきょうだい,:doc:`Q1042C </variable/Q1042C>`
+   友人,:doc:`Q1042E </variable/Q1042E>`
+   近所の人,:doc:`Q1042F </variable/Q1042F>`
+   医師、助産婦、保育士、保健師などの専門家,:doc:`Q1042G </variable/Q1042G>`
+   子どもの父親,:doc:`Q1042K </variable/Q1042K>`
+   その他,:doc:`Q1042H </variable/Q1042H>`
+   特に相談できる人はいない,:doc:`Q1042I </variable/Q1042I>`
+   特に相談する必要がない,:doc:`Q1042J </variable/Q1042J>`
+
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q1042A
+   /variable/Q1042B
+   /variable/Q1042C
+   /variable/Q1042D
+   /variable/Q1042E
+   /variable/Q1042F
+   /variable/Q1042G
+   /variable/Q1042H
+   /variable/Q1042I
+   /variable/Q1042J
+   /variable/Q1042K

@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1102A.rst:5
+msgid "2番目の子・在学先"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1102A.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1102A.rst:11
+msgid "Q1102A"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1102A.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1102A.rst:18
+msgid ""
+"この1年間（平成20年10月～平成21年9月）にお子さんにかかった教育関係の費用は大体いくらぐらいでしたか。お子さんの在学先と学年、教育費をお答え下さい。かかっていない場合は、0円と記入してください。;"
+" 2番目の子・在学先"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1102A.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1102A.rst:32
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1102A.rst:38
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1102A.rst:44
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1102A.rst:45
+msgid "99"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1102A.rst:50
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1102A.rst:56
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1102A.rst:61
+msgid "p17_4"
+msgstr ""
+
+#~ msgid "変数名: Q1102A"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "小学校"
+#~ msgstr ""
+
+#~ msgid "中学校"
+#~ msgstr ""
+
+#~ msgid "高校"
+#~ msgstr ""
+
+#~ msgid "4.高等専門学校"
+#~ msgstr ""
+
+#~ msgid "専修学校（専門学校）、各種学校"
+#~ msgstr ""
+
+#~ msgid "短期大学"
+#~ msgstr ""
+
+#~ msgid "大学（４年制）"
+#~ msgstr ""
+
+#~ msgid "大学（６年制）"
+#~ msgstr ""
+
+#~ msgid "大学院"
+#~ msgstr ""
+
+#~ msgid "その他の学校（予備校などを含む）"
+#~ msgstr ""
+
+#~ msgid "在学していない"
+#~ msgstr ""
+

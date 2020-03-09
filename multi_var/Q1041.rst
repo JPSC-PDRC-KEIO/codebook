@@ -1,0 +1,67 @@
+============================================================
+子育ての協力者
+============================================================
+
+
+質問文（複数回答）
+---------------------
+現在、あなた以外に子どもの世話をしてくれる人がいますか。（〇はいくつでも）
+
+有配偶
+^^^^^^^^^^^^^^^^^
+
+
+.. csv-table::
+   :header: "項目", "変数"
+   :widths: 20,5
+
+   あなたの夫,:doc:`Q1041A </variable/Q1041A>`
+   あなたの親,:doc:`Q1041B </variable/Q1041B>`
+   あなたのきょうだい,:doc:`Q1041C </variable/Q1041C>`
+   夫の親,:doc:`Q1041D </variable/Q1041D>`
+   友人,:doc:`Q1041E </variable/Q1041E>`
+   近所の人,:doc:`Q1041F </variable/Q1041F>`
+   保育所・幼稚園・学童保育など,:doc:`Q1041G </variable/Q1041G>`
+   ベビーシッター・家政婦など,:doc:`Q1041H </variable/Q1041H>`
+   その他,:doc:`Q1041I </variable/Q1041I>`
+   特に世話をしてくれる人はいない,:doc:`Q1041J </variable/Q1041J>`
+   特に世話をしてもらう必要がない,:doc:`Q1041K </variable/Q1041K>`
+
+
+無配偶
+^^^^^^^^^^^^^^^^^
+
+.. csv-table::
+   :header: "項目", "変数"
+   :widths: 20,5
+
+   あなたの親,:doc:`Q1041B </variable/Q1041B>`
+   あなたのきょうだい,:doc:`Q1041C </variable/Q1041C>`
+   友人,:doc:`Q1041E </variable/Q1041E>`
+   近所の人,:doc:`Q1041F </variable/Q1041F>`
+   保育所・幼稚園・学童保育など,:doc:`Q1041G </variable/Q1041G>`
+   ベビーシッター・家政婦など,:doc:`Q1041H </variable/Q1041H>`
+   子どもの父親,:doc:`Q1041L </variable/Q1041L>`
+   その他,:doc:`Q1041I </variable/Q1041I>`
+   特に世話をしてくれる人はいない,:doc:`Q1041J </variable/Q1041J>`
+   特に世話をしてもらう必要がない,:doc:`Q1041K </variable/Q1041K>`
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q1041A
+   /variable/Q1041B
+   /variable/Q1041C
+   /variable/Q1041D
+   /variable/Q1041E
+   /variable/Q1041F
+   /variable/Q1041G
+   /variable/Q1041H
+   /variable/Q1041I
+   /variable/Q1041H
+   /variable/Q1041I
+   /variable/Q1041J
+   /variable/Q1041K
+   /variable/Q1041L

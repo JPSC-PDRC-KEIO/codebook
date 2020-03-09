@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:5
+msgid "結婚相手に重視する要素：自分にない性格を持っている人"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:11
+msgid "Q1162O"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:18
+msgid "あなたは、結婚相手にはどのような要素を重視しますか。;以下の要素についてあなたのお考えを選んでください。（それぞれ〇はひとつずつ）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:21
+msgid "自分にない性格を持っている人"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:27
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:30
+msgid "重視する"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:32
+msgid "＞重視する＞＞重視しない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:34
+msgid "＞＞重視する＞重視しない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:36
+msgid "重視しない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:43
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:49
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:55
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:56
+msgid "5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:61
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:67
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:72
+msgid "p19_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:74
+msgid "p20_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:76
+msgid "p21abcd_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:78
+msgid "p21e_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:80
+msgid "p22_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:82
+msgid "p23_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:84
+msgid "p24_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:86
+msgid "p25_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162O.rst:88
+msgid "p26_4"
+msgstr ""
+
+#~ msgid "変数名: Q1162O"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

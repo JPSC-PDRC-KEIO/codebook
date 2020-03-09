@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P77X.rst:5
+msgid "初職の選択理由：拘束時間が少ない、労働時間が自由になる"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P77X.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P77X.rst:11
+msgid "P77X"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P77X.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P77X.rst:18
+msgid "どのような理由で、あなたははじめての職業を選びましたか（〇はいくつでも）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P77X.rst:21
+msgid "拘束時間が少ない、労働時間が自由になる"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P77X.rst:27
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P77X.rst:30
+msgid "はい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P77X.rst:32
+msgid "いいえ"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P77X.rst:39
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P77X.rst:45
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P77X.rst:51
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P77X.rst:52
+msgid "3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P77X.rst:57
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P77X.rst:63
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P77X.rst:68
+msgid "p11c_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P77X.rst:70
+msgid "p16d_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P77X.rst:72
+msgid "p21e_1"
+msgstr ""
+
+#~ msgid "変数名: P77X"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

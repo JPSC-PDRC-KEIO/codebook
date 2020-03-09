@@ -1,0 +1,231 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:3
+msgid "支出月額（無配偶）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:6
+msgid "親と本人との金銭のやり取り"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "項目"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "本人から親へ"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q311 </variable/Q311>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "金額"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q312 </variable/Q312>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "親から本人へ"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q313 </variable/Q313>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q314 </variable/Q314>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:18
+msgid "本人の支出細目"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:21
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:22
+msgid "この9月に、あなたの財布から（親に渡した分を除く）、どのように支出なさいましたか。（現金を支払ったものの他、クレジット・ローンで購入したもの、銀行・郵便局（ゆうちょ銀行）から自動的に引き落とした分も含みます）。支出がなかったものについては0と記入して下さい。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:26
+msgid "各細目の記入欄は10万円の位までですが、生活費合計だけ百万円の位まで記入欄を設けています。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "変数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "食料（外食・給食代も含みます）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q879A </variable/Q879A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "家賃・地代・住宅の修繕（住宅ローンは含みません）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q879B </variable/Q879B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "電気・ガス・水道（上・下）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q879C </variable/Q879C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "家具・家事用品（寝具はこちらに含みます）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q879D </variable/Q879D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "衣類・履物"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q879E </variable/Q879E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "保険医療（栄養ドリンク・健康食品も含みます）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q879F </variable/Q879F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "交通（自動車購入費用・ガソリン代・定期代なども含みます）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q879G </variable/Q879G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "通信（郵便・電話代・インターネットなど）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q879H </variable/Q879H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "教育（授業料・受験や補習用の塾・教科書・参考書など）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q879I </variable/Q879I>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "教養・娯楽（受験・補習塾以外の習い事。教養・娯楽用の耐久消費財はこちらに含みます）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q879J </variable/Q879J>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "交際"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q879K </variable/Q879K>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "家族への小遣い"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q879L </variable/Q879L>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "その他支出"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q879M </variable/Q879M>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:49
+msgid ""
+"第2～5回では、「教育娯楽」の変数名は :doc:`Q319 </variable/Q319>` 、「交際」の変数名は :doc:`Q320 "
+"</variable/Q320>` でした。また、「キャリアアップのための支出（資格取得や職業のため）」（ :doc:`Q316 "
+"</variable/Q316>`）を聞いています。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "支出計"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q315 </variable/Q315>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "貯蓄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q317 </variable/Q317>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "ローンの返済"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q295 </variable/Q295>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid "総額"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
+msgid ":doc:`Q318 </variable/Q318>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:62
+msgid "第7回には、合計額のうち地域振興券を使用した額（ :doc:`Q887 </variable/Q887>` ）も聞いています。"
+msgstr ""
+

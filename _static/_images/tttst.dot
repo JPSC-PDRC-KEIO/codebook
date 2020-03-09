@@ -1,0 +1,193 @@
+digraph risyoku01 {
+  compound=true;
+  newrank=true; // これが必要！（サンプル４を参照）
+  node[shape=box, style=filled; color=white]
+   splines=false
+   nodesep=0.1;
+
+  subgraph cluster_0 {
+  label="第1回";
+  style=filled;
+  color="#ccdfff";
+  fontsize = 14
+   a1 [label="人員整理・会社解散・倒産のため \n P78A", fontsize=10.5, href="../variable/P78A.html"]
+   a2 [label="一時的・不安定な仕事だったから \n P78B", fontsize=10.5, href="../variable/P78A.html"]
+   a3 [label="収入が少なかったから \n P78C", fontsize=10.5, href="../variable/P78C.html"]
+   a4 [label="労働条件が悪かったから \n P78D", fontsize=10.5, href="../variable/P78D.html"]
+   a5 [label="自分に向かない仕事だったから \n P78E", fontsize=10.5, href="../variable/P78E.html"]
+   a6 [style=invis]
+   a7 [label="家族の就職・転職・転勤 \n 及び事業所の移転のため \n P78F", fontsize=10.5, href="../variable/P78F.html"]
+   a8 [label="病気のため \n P78G", fontsize=10.5, href="../variable/P78G.html"]
+   a9 [style=invis]
+   a10 [label="結婚のため \n P78H", fontsize=10.5, href="../variable/P78H.html"]
+   a11 [style=invis]
+   a12 [label="出産・育児のため \n P78I", fontsize=10.5, href="../variable/P78I.html"]
+   a13 [style=invis]
+   a14 [label="能力が生かせない仕事だったから \n P78J", fontsize=10.5, href="../variable/P78J.html"]
+   a15 [label="良い条件の仕事が見つかったから・ \n 独立したから \n P78K", fontsize=10.5, href="../variable/P78K.html"]
+   a16 [label="人間関係が気まずくなったから \n P78L", fontsize=10.5, href="../variable/P78L.html"]
+   a17 [style=invis]
+   a18 [style=invis]
+   a19 [label="その他 \n P78M", fontsize=10.5, href="../variable/P78M.html"]
+   a20 [style=invis]
+
+    a1->a2->a3->a4->a5->a6->a7->a8->a9->a10->a11->a12->a13->a14->a15->a16->a17->a18->a19->a20 [style=invis];
+  }
+
+  subgraph cluster_1 {
+  label="第5回";
+  style=filled;
+  color="#edf4ff";
+  fontsize = 14
+  b1 [label="変更なし", color=none, fontsize=10.5]
+  b2 [label="変更なし", color=none, fontsize=10.5]
+  b3 [label="変更なし", color=none, fontsize=10.5]
+  b4 [label="変更なし", color=none, fontsize=10.5]
+  b5 [label="変更なし", color=none, fontsize=10.5]
+  b6 [label="単調な仕事でむなしいと思ったから \n P78N", fontsize=10.5, href="../variable/P78N.html"]
+  b7 [label="変更なし", color=none, fontsize=10.5]
+  b8 [label="自分が病気になったから \n P78G", fontsize=10.5, href="../variable/P78G.html"]
+  b9 [label="家族の介護のため \n P78Q", fontsize=10.5, href="../variable/P78Q.html"]
+  b10 [label="変更なし", color=none, fontsize=10.5]
+  b11 [label="子どもが欲しいので \n P78O", fontsize=10.5, href="../variable/P78O.html"]
+  b12 [label="妊娠のために身体を気づかって \n P78P", fontsize=10.5, href="../variable/P78P.html"]
+  b13 [label="出産・育児のため \n P78I", fontsize=10.5, href="../variable/P78I.html"]
+  b14 [label="変更なし", color=none, fontsize=10.5]
+  b15 [label="変更なし", color=none, fontsize=10.5]
+  b16 [label="職場の上司との関係がうまくいかなくて \n P78R", fontsize=10.5, href="../variable/P78R.html"]
+  b17 [label="職場の同僚との関係がうまくいかなくて \n P78S", fontsize=10.5, href="../variable/P78S.html"]
+  b18 [label="解雇された \n P78T", fontsize=10.5, href="../variable/P78T.html"]
+  b19 [label="大学や専門学校などでの勉強や留学準備のため \n P78U", fontsize=10.5, href="../variable/P78U.html"]
+  b20 [label="変更なし", color=none, fontsize=10.5]
+
+    b1->b2->b3->b4->b5->b6->b7->b8->b9->b10->b11->b12->b13->b14->b15->b16->b17->b18->b19->b20 [style=invis];
+  }
+
+  subgraph cluster_2 {
+  label="第11回";
+  style=filled;
+  color="#ccdfff";
+  fontsize = 14
+  c1 [label="変更なし", color=none, fontsize=10.5]
+  c2 [label="変更なし", color=none, fontsize=10.5]
+  c3 [label="労働条件（時間、収入）が \n悪かったから \n P78V", fontsize=10.5, href="../variable/P78V.html"]
+  c4 [style=invis]
+  c5 [label="仕事の内容に不満があったため \n P78W", fontsize=10.5, href="../variable/P78W.html"]
+  c6 [style=invis]
+  c7 [label="変更なし", color=none, fontsize=10.5]
+  c8 [label="変更なし", color=none, fontsize=10.5]
+  c9 [label="変更なし", color=none, fontsize=10.5]
+  c10 [label="変更なし", color=none, fontsize=10.5]
+  c11 [style=invis]
+  c12 [label="妊娠・出産・育児のため \n P78X", fontsize=10.5, href="../variable/P78X.html"]
+  c13 [style=invis]
+  c14 [label="削除", color=none, fontsize=10.5]
+  c15 [label="変更なし", color=none, fontsize=10.5]
+  c16 [label="変更なし", color=none, fontsize=10.5]
+  c17 [label="変更なし", color=none, fontsize=10.5]
+  c18 [label="変更なし", color=none, fontsize=10.5]
+  c19 [label="変更なし", color=none, fontsize=10.5]
+  c20 [label="変更なし", color=none, fontsize=10.5]
+
+    c1->c2->c3->c4->c5->c6->c7->c8->c9->c10->c11->c12->c13->c14->c15->c16->c17->c18->c19->c20 [style=invis];
+  }
+
+  subgraph cluster_3 {
+  label="第16回";
+  style=filled;
+  color="#edf4ff";
+  fontsize = 14
+  d1 [label="変更なし", color=none, fontsize=10.5]
+  d2 [label="変更なし", color=none, fontsize=10.5]
+  d3 [label="変更なし", color=none, fontsize=10.5]
+  d4 [style=invis]
+  d5 [label="変更なし", color=none, fontsize=10.5]
+  d6 [style=invis]
+  d7 [label="変更なし", color=none, fontsize=10.5]
+  d8 [label="変更なし", color=none, fontsize=10.5]
+  d9 [label="変更なし", color=none, fontsize=10.5]
+  d10 [label="変更なし", color=none, fontsize=10.5]
+  d11 [style=invis]
+  d12 [label="変更なし", color=none, fontsize=10.5]
+  d13 [style=invis]
+  d14 [style=invis]
+  d15 [label="変更なし", color=none, fontsize=10.5]
+  d16 [label="変更なし", color=none, fontsize=10.5]
+  d17 [label="変更なし", color=none, fontsize=10.5]
+  d18 [label="変更なし", color=none, fontsize=10.5]
+  d19 [label="変更なし", color=none, fontsize=10.5]
+  d20 [label="変更なし", color=none, fontsize=10.5]
+
+    d1->d2->d3->d4->d5->d6->d7->d8->d9->d10->d11->d12->d13->d14->d15->d16->d17->d18->d19->d20 [style=invis];
+  }
+  subgraph cluster_4 {
+  label="第21回";
+  style=filled;
+  color="#ccdfff";
+  fontsize = 14
+  e1 [label="変更なし", color=none, fontsize=10.5]
+  e2 [label="変更なし", color=none, fontsize=10.5]
+  e3 [label="変更なし", color=none, fontsize=10.5]
+  e4 [style=invis]
+  e5 [label="変更なし", color=none, fontsize=10.5]
+  e6 [style=invis]
+  e7 [label="変更なし", color=none, fontsize=10.5]
+  e8 [label="変更なし", color=none, fontsize=10.5]
+  e9 [label="変更なし", color=none, fontsize=10.5]
+  e10 [label="変更なし", color=none, fontsize=10.5]
+  e11 [style=invis]
+  e12 [label="妊娠・出産のため \n P78AA", fontsize=10.5, href="../variable/P78AA.html"]
+  e13 [label="育児・子育てのため \n P78AB", fontsize=10.5, href="../variable/P78AB.html"]
+  e14 [style=invis]
+  e15 [label="変更なし", color=none, fontsize=10.5]
+  e16 [label="人間関係が気まずくなったから \n P78L", fontsize=10.5, href="../variable/P78L.html"]
+  e17 [style=invis]
+  e18 [label="変更なし", color=none, fontsize=10.5]
+  e19 [label="変更なし", color=none, fontsize=10.5]
+  e20 [label="変更なし", color=none, fontsize=10.5]
+
+    e1->e2->e3->e4->e5->e6->e7->e8->e9->e10->e11->e12->e13->e14->e15->e16->e17->e18->e19->e20 [style=invis];
+  }
+
+  a1->b1->c1->d1->e1 ;
+  {rank=same; a1 b1 c1 d1 e1} ;
+  a2->b2->c2->d2->e2
+  {rank=same; a2 b2 c2 d2 e2} ;
+  a3->b3->c3->d3->e3;
+  {rank=same; a3 b3 c3 d3 e3} ;
+  a4->b4->c3 ;
+  {rank=same; a4 b4}
+  a5->b5->c5->d5->e5
+  a5->b6->c5
+  {rank=same; a5 b5 c5 d5 e5} ;
+  a7->b7->c7->d7->e7;
+  {rank=same; a7 b7 c7 d7 e7} ;
+  a8->b8->c8->d8->e8 ;
+  {rank=same; a8 b8 c8 d8 e8} ;
+  a8->b9->c9->d9->e9 ;
+  {rank=same; b9 c9 d9 e9} ;
+  a10->b10->c10->d10->e10 ;
+  {rank=same; a10 b10 c10 d10 e10} ;
+  a12->b11->c12->d12->e12 ;
+  {rank=same; a11 b11 c11 d11 e11} ;
+  a12->b12->c12 ;
+  {rank=same; a12 b12 c12 d12 e12} ;
+  a12->b13->c12 ;
+  d12->e13 ;
+  a14->b14->c14 ;
+  {rank=same; a14 b14 c14} ;
+  a15->b15->c15->d15->e15 ;
+  {rank=same; a15 b15 c15 d15 e15} ;
+  a16->b16->c16->d16->e16 ;
+  a16->b17->c17->d17->e16
+  {rank=same; a16 b16 c16 d16 e16} ;
+  {rank=same; b17 c17 d17} ;
+  a19->b18->c18->d18->e18 ;
+  {rank=same; a18 b18 c18 d18 e18} ;
+  a19->b19->c19->d19->e19 ;
+  {rank=same; a19 b19 c19 d19 e19} ;
+  a19->b20->c20->d20->e20 ;
+  {rank=same; a20 b20 c20 d20 e20} ;
+
+
+}

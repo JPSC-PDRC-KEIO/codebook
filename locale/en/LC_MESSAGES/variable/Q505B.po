@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:5
+msgid "夫から本人（妻）への発話・悩みなど"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:11
+msgid "Q505B"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:18
+msgid "では、ご主人はあなたに心の悩みや楽しい体験などを話しますか。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:27
+msgid "よく話す"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:29
+msgid "時々話す"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:31
+msgid "あまり話さない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:33
+msgid "ほとんど話さない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:40
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:46
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:52
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:53
+msgid "5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:58
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:64
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:69
+msgid "p2_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:71
+msgid "p3_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:73
+msgid "p5a_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:75
+msgid "p5b_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:77
+msgid "p7_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q505B.rst:79
+msgid "p9_3"
+msgstr ""
+
+#~ msgid "変数名: Q505B"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

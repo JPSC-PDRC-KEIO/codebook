@@ -1,0 +1,259 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-28 14:33+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:3
+msgid "結婚費用の内訳"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:7
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:9
+msgid "ご夫婦の結婚費用はいくらぐらいでしたか。（結納、結納返しを除く）。各項目についての双方の支出をご記入下さい。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:13
+msgid "選択肢"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid "項目"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid "支出の有無"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid "本人（妻）側"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid "配偶者（夫）側"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid "合計"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid "婚約記念品"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q1004A </variable/Q1004A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q712A </variable/Q712A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q713A </variable/Q713A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q714A </variable/Q714A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid "その他婚約関係"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q1004B </variable/Q1004B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q712B </variable/Q712B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q713B </variable/Q713B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q714B </variable/Q714B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid "挙式披露宴"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q1004C </variable/Q1004C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q712C </variable/Q712C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q713C </variable/Q713C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q714C </variable/Q714C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid "仲人へのお礼"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q1004D </variable/Q1004D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q712D </variable/Q712D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q713D </variable/Q713D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q714D </variable/Q714D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid "新婚旅行"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q1004E </variable/Q1004E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q712E </variable/Q712E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q713E </variable/Q713E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q714E </variable/Q714E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid "家具・電気製品台所用品等"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q1004F </variable/Q1004F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q712F </variable/Q712F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q713F </variable/Q713F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q714F </variable/Q714F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid "着物・洋服・装飾品等"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q1004G </variable/Q1004G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q712G </variable/Q712G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q713G </variable/Q713G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q714G </variable/Q714G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid "住居（新しく借りた場合※）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q1004H </variable/Q1004H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q712H </variable/Q712H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q713H </variable/Q713H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q714H </variable/Q714H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q1004I </variable/Q1004I>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q712I </variable/Q712I>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q713I </variable/Q713I>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid ":doc:`Q714I </variable/Q714I>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid "**A** :doc:`Q712J </variable/Q712J>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid "**B** :doc:`Q713J </variable/Q713J>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:1
+msgid "**C** :doc:`Q714J </variable/Q714J>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:33
+msgid "※は引っ越しの費用、礼金、敷金不動産屋手数など含みます"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/kekkonhiyou.rst:35
+msgid "また、**A**　 **B**　 **C**　の内訳については　:doc:`hiyou_how` を参照してください。"
+msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

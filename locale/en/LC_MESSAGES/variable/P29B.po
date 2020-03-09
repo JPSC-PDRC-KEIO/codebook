@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: 2020-02-18 18:39+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:5
+msgid "塾・稽古事について：小学校4～6年"
+msgstr "Juku or Lessens: At elementary school, grade4-6"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:11
+msgid "P29B"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:18
+msgid "あなたの塾・お稽古事経験についてうかがいます。;あなたは、小学生、中学生、高校生時代に、塾（家庭教師を含む）に通ったり、稽古ごと（授業料を払うもの）をしていましたか。次の４つの時期それぞれについてお答えください。"
+msgstr "We would like to ask you about your supplementary educations and lessons experiences. Did you attend \"juku\" (private tutoring schools. includ hire a tutor) or take any lessons (require lesson fee) while you were in elementary, junior high, or senior high school? Please circle all that apply below, in the following categories."
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:24
+msgid "選択肢 / 記入欄"
+msgstr "Choices / Entry field"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:27
+msgid "塾にも稽古ごとにも通っていた"
+msgstr "I went to both juku and lessons."
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:29
+msgid "塾にだけ通っていた"
+msgstr "I went only to juku."
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:31
+msgid "稽古ごとだけしていた"
+msgstr "I went only to lessons."
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:33
+msgid "どちらもしていなかった"
+msgstr "I didn’t attend either."
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:40
+msgid "桁あふれコード"
+msgstr "Outside-code-range responses"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:46
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:52
+msgid "無回答コード"
+msgstr "Non-Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:53
+msgid "5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:58
+msgid "備考"
+msgstr "Remarks"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:64
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:69
+msgid "p1_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:71
+msgid "p5b_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:73
+msgid "p11c_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:75
+msgid "p16d_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29B.rst:77
+msgid "p21e_1"
+msgstr ""

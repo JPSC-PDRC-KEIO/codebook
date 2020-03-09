@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-09 15:47+0900\n"
+"PO-Revision-Date: 2020-03-09 15:43+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:3
+msgid "初回調査時までの出来事"
+msgstr "Life event before the first responce"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:7
+msgid "あなたやあなたのご家族に起こった大きな出来事についてうかがいます。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst
+msgid "（1）あなたが、中学を卒業してから現在までのあいだで、あなたやあなたのご家族に次のような大きな出来事がありましたか。（〇はいくつでも）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst
+msgid "（2）その結果どのようなことが起こりましたか。あなたが覚えている限りで、次の中からいくつでもお答えください。（〇はいくつでも）"
+msgstr ""
+
+#~ msgid ""
+#~ "あなたやあなたのご家族に起こった大きな出来事についてうかがいます。 "
+#~ "（1）あなたが、中学を卒業してから現在までのあいだで、あなたやあなたのご家族に次のような大きな出来事がありましたか。（〇はいくつでも）"
+#~ " | "
+#~ "（2）その結果どのようなことが起こりましたか。あなたが覚えている限りで、次の中からいくつでもお答えください。（〇はいくつでも）"
+#~ msgstr ""
+

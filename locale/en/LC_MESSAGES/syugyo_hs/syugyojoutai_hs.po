@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-06 18:49+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:3
+msgid "就業状態（配偶者）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:7
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:8
+msgid "あなたのご主人は現在（調査年９月）、仕事についていますか。(仕事には常勤従業員、パート、アルバイト、嘱託、自営、家族従業などすべて含みます。ただし、学生アルバイトは除きます。)"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:12
+msgid "|nt1|"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:15
+msgid "**第1～第9回**"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:1
+msgid "選択肢"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:1
+msgid "変数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst
+msgid "1.仕事についている"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst
+msgid "2.学生"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst
+msgid "3.専業主婦"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst
+msgid "4.その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:1
+msgid ":doc:`Q1026 <Q1026>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:25
+msgid "**第2回～**"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:1
+msgid "項目"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst
+msgid "2.休職中"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst
+msgid "3.学生"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst
+msgid "4.その他の無職"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:1
+msgid ":doc:`Q213 </variable/Q213>`"
+msgstr ""
+
+#~ msgid "配偶者の就業状態"
+#~ msgstr ""
+
+#~ msgid "（無職）は初回調査時に配偶者が無職の人への質問です。"
+#~ msgstr ""
+

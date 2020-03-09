@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: 2020-02-04 14:26+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:3
+msgid "利用にあたって"
+msgstr "About this system"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:5
+msgid "「消費生活に関するパネル調査」の変数名（システム変数）、質問文、選択肢、データがある調査回などを検索できます。 検索は以下の方法で行ってください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:8
+msgid "「質問項目」の各カテゴリーから探す"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:9
+msgid "「クイック検索」からキーワードを入れて検索"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:10
+msgid "システム変数名がわかっている場合は、ブラウザ上部のURLウインドウの末尾の/〇〇.html部分に変数名を入れて検索（例：/Q3333.html）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:12
+msgid "（データユーザーの方は）内容のご不明な点については、配布している各年のコードブック、調査票からご確認ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:13
+msgid "現在も追加・編集作業中です。すべての変数を網羅しているわけではありません。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:14
+msgid "内容のミスや、変数の不足などについては、下記の問い合わせ先までお知らせください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:17
+msgid "**問い合わせ先**"
+msgstr "**Contact**"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:20
+msgid "jpschelp@pdrc.keio.ac.jp（慶應義塾大学パネルデータ設計・解析センター JPSC部門）"
+msgstr ""

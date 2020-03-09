@@ -1,0 +1,210 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:5
+msgid "就業状態〔第2回～〕"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:11
+msgid "Q142"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:18
+msgid "あなたは現在（調査年9月）、仕事についていますか。仕事には、常勤従業員、パート、アルバイト、嘱託、自営、家族従業などすべて含みます。ただし、学生アルバイトは除きます。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:27
+msgid "仕事についている"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:29
+msgid "休職中（仕事から離れているが、元の仕事に戻ることになっている状態）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:31
+msgid "学生"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:33
+msgid "専業主婦"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:35
+msgid "その他の無職"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:42
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:48
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:54
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:55
+msgid "6"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:60
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:66
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:71
+msgid "p2_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:73
+msgid "p3_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:75
+msgid "p4_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:77
+msgid "p5a_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:79
+msgid "p5b_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:81
+msgid "p6_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:83
+msgid "p7_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:85
+msgid "p8_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:87
+msgid "p9_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:89
+msgid "p10_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:91
+msgid "p11ab_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:93
+msgid "p11c_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:95
+msgid "p12_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:97
+msgid "p13_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:99
+msgid "p14_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:101
+msgid "p15_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:103
+msgid "p16abc_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:105
+msgid "p16d_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:107
+msgid "p17_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:109
+msgid "p18_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:111
+msgid "p19_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:113
+msgid "p20_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:115
+msgid "p21abcd_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:117
+msgid "p21e_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:119
+msgid "p22_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:121
+msgid "p23_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:123
+msgid "p24_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:125
+msgid "p25_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q142.rst:127
+msgid "p26_1"
+msgstr ""
+
+#~ msgid "変数名: Q142"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

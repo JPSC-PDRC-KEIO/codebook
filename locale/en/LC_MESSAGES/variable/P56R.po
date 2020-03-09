@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P56R.rst:5
+msgid "現職（職種）の選択理由：会社で指定された"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P56R.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P56R.rst:11
+msgid "P56R"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P56R.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P56R.rst:18
+msgid "なぜ、あなたは現在の職種を選びましたか。（〇はいくつでも）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P56R.rst:21
+msgid "会社で指定された（自分で選んだのではない）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P56R.rst:27
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P56R.rst:30
+msgid "はい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P56R.rst:32
+msgid "いいえ"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P56R.rst:39
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P56R.rst:45
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P56R.rst:51
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P56R.rst:52
+msgid "3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P56R.rst:57
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P56R.rst:63
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P56R.rst:68
+msgid "p1_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P56R.rst:70
+msgid "p5b_1"
+msgstr ""
+
+#~ msgid "変数名: P56R"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

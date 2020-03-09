@@ -1,0 +1,124 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:5
+msgid "刺激を受ける友人数（女性）・友人"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:11
+msgid "Q651D"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:18
+msgid ""
+"そのうち、以下のことができる友人は何人いますか。1人の友人が両方にあてはまるときは、両方で人数に入れてください。;　"
+";視野が広がり、刺激を受けるような話ができる友人"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:26
+msgid "＿＿人"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:32
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:33
+msgid "98"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:38
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:44
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:45
+msgid "99"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:50
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:56
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:61
+msgid "p2_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:63
+msgid "p3_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:65
+msgid "p4_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:67
+msgid "p5a_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:69
+msgid "p5b_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:71
+msgid "p6_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:73
+msgid "p7_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:75
+msgid "p8_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:77
+msgid "p9_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q651D.rst:79
+msgid "p10_4"
+msgstr ""
+
+#~ msgid "変数名: Q651D"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

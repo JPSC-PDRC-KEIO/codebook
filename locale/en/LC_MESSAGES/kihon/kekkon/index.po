@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: 2020-01-28 14:32+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/index.rst:3
+msgid "結婚歴"
+msgstr "Marriage"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/index.rst:13
+msgid "**結婚期間の割り出しについて**"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/index.rst:15
+msgid ""
+"結婚期間を求めるためには，まずその配偶者と結婚した時点を特定する"
+"必要があります．結婚時点を特定する一般的な方法は，各調査対象者の"
+"配偶状態（Q1）を過去に遡及していくことです．配偶状態はその時点で"
+"当該配偶者と結婚関係にあった指標とも捉えることができます．よっ"
+"て，各対象者についてQ1の値を遡及し，配偶状態が有配偶（Q1=1）から"
+"無配偶（Q1=２）に変わる 直前の調査年が結婚した時点 となります．"
+"この時点におけるJPSCの調査回（PANEL），あるいは対象者の年齢"
+"（Q8）を基準にすることによって，当該配偶者との結婚期間を調査時点"
+"ごとに算出することができます．対象者と当該配偶者が調査開始以前に"
+"結婚していた場合は，その結婚関係について遡及しているQ1の系列はす"
+"べて1が並びます．この場合は，配偶者と結婚した暦年（ P__  ）を対"
+"象者に初回調査で尋ねていますので，その情報を用いて各調査時点にお"
+"ける当該配偶者との結婚期間を計算してください．"
+msgstr ""

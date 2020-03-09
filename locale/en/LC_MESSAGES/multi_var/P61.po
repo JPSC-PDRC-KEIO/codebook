@@ -1,0 +1,131 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-28 14:33+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:3
+msgid "働き始めた理由"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:7
+msgid "質問文（複数回答）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:8
+msgid "はじめて職業についた時、なぜ、あなたは働き始めたのですか。（〇はいくつでも）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:12
+msgid "選択肢"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid "学校を卒業したから"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid ":doc:`P61A </variable/P61A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid "独立するため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid ":doc:`P61B </variable/P61B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid "子どもに手がかからなくなったので"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid ":doc:`P61C </variable/P61C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid "暇があったから"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid ":doc:`P61D </variable/P61D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid "生きがいのため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid ":doc:`P61E </variable/P61E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid "友達を見つけるため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid ":doc:`P61F </variable/P61F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid "仕事をしてみたかったから"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid ":doc:`P61G </variable/P61G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid "家計を助けるため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid ":doc:`P61H </variable/P61H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid "皆がするので"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid ":doc:`P61I </variable/P61I>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:1
+msgid ":doc:`P61J </variable/P61J>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:30
+msgid "現在の変数へのリンク"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:48
+msgid "過去の変数へのリンク"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:55
+msgid "備考"
+msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

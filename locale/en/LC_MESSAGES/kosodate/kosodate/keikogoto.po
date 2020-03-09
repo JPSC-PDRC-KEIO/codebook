@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:3
+msgid "子どもが通うお稽古事"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:6
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:7
+msgid "中学生以下のお子さんのうち一番年上のお子さんは何かお稽古事（学習塾、英会話等を除く）をなさっていますか。（〇はいくつでも）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:1
+msgid "項目"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:1
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:1
+msgid "学校以外のスポーツ教室やスポーツ・クラブに通っている"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:1
+msgid ":doc:`Q521A </variable/Q521A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:1
+msgid "学校の部活動を行っている"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:1
+msgid ":doc:`Q521B </variable/Q521B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:1
+msgid "ピアノなど音楽教室に通っている"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:1
+msgid ":doc:`Q521C </variable/Q521C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:1
+msgid "絵画や習字、そろばん等の教室に通っている"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:1
+msgid ":doc:`Q521D </variable/Q521D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:1
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:1
+msgid ":doc:`Q521E </variable/Q521E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:1
+msgid "何もやっていない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:1
+msgid ":doc:`Q521F </variable/Q521F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:22
+msgid "その費用"
+msgstr ""
+

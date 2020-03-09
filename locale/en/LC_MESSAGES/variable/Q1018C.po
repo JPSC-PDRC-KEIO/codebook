@@ -1,0 +1,146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:5
+msgid "None"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:11
+msgid "Q1018C"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:21
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:29
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:35
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:41
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:47
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:53
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:58
+msgid "p10_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:60
+msgid "p11ab_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:62
+msgid "p11c_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:64
+msgid "p12_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:66
+msgid "p13_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:68
+msgid "p14_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:70
+msgid "p15_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:72
+msgid "p16abc_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:74
+msgid "p16d_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:76
+msgid "p17_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:78
+msgid "p18_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:80
+msgid "p19_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:82
+msgid "p20_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:84
+msgid "p21abcd_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:86
+msgid "p21e_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:88
+msgid "p22_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:90
+msgid "p23_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:92
+msgid "p24_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:94
+msgid "p25_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1018C.rst:96
+msgid "p26_5"
+msgstr ""
+
+#~ msgid "変数名: Q1018C"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

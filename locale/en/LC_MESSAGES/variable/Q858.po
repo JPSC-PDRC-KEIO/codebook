@@ -1,0 +1,220 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-09 15:47+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:5
+msgid "最終学歴（義父）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:11
+msgid "Q858"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:18
+msgid "ご主人の父親の最終学歴は次のうちどれですか。（中退は卒業に含めないでください）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:27
+msgid "中学校"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:29
+msgid "高等学校"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:31
+msgid "専門学校・専修学校"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:33
+msgid "短大"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:35
+msgid "高専"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:37
+msgid "大学"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:39
+msgid "大学院"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:41
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:48
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:54
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:60
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:61
+msgid "9"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:66
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:68
+msgid "この質問項目の変数名と選択肢には調査回によって変更があります。詳しくはこちら（:doc:`/kihon_kazoku/oya_giri`)をご参照ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:73
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:78
+msgid "p5a_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:80
+msgid "p5b_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:82
+msgid "p6_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:84
+msgid "p7_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:86
+msgid "p8_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:88
+msgid "p9_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:90
+msgid "p10_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:92
+msgid "p11ab_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:94
+msgid "p11c_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:96
+msgid "p12_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:98
+msgid "p13_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:100
+msgid "p14_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:102
+msgid "p15_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:104
+msgid "p16abc_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:106
+msgid "p16d_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:108
+msgid "p17_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:110
+msgid "p18_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:112
+msgid "p19_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:114
+msgid "p20_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:116
+msgid "p21abcd_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:118
+msgid "p21e_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:120
+msgid "p22_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:122
+msgid "p23_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:124
+msgid "p24_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:126
+msgid "p25_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q858.rst:128
+msgid "p26_5"
+msgstr ""
+
+#~ msgid "変数名: Q858"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "その他（　　　　　　　　　　　　　　　　）"
+#~ msgstr ""
+
+#~ msgid "この質問項目の変数名と選択肢は第2回以降変更されました。詳しくはこちら（:doc:`/kihon_kazoku/oya_giri`)をご参照ください。"
+#~ msgstr ""
+

@@ -1,0 +1,557 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-28 18:29+0900\n"
+"PO-Revision-Date: 2020-03-05 10:21+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:3
+msgid "世帯員の状況"
+msgstr "Family makeup"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:6
+msgid "質問文"
+msgstr "Question"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:8
+msgid ""
+"ご家族１人ひとりについて、あなたとの続き柄、性別、年齢、就学・就労状況、"
+"同居・別居の別、配偶関係をお知らせ下さい。"
+msgstr ""
+"Concerning each member of your family, enter their personal relationship "
+"to you, with regards to sex, age, student and worker status, whether "
+"they live together or separately, and marital status."
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:10
+msgid ""
+"（単身赴任、留学、進学、就職、結婚や入院などで別居しているご主人、お子さ"
+"んも含めてご記入下さい）"
+msgstr ""
+"(Please include here your husband and any children living separately "
+"from you due to work, schooling, living with their spouse or in-laws, or "
+"being hospitalized.)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:13
+msgid ""
+"有配偶の場合、家族2は配偶者となりますので、「:doc:`配偶者の基本属性</"
+"kihon_hs/index>`」をご覧ください。"
+msgstr ""
+"In the case of Married, Family-member2 is husband(Relationship-code 01), "
+"and so, it is better to look \":doc:`Basic attributes of the spouse</"
+"kihon_hs/index>`\""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid "続柄"
+msgstr "Personal relationship"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid "性別"
+msgstr "Sex"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid "年齢"
+msgstr "Age"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid "就学・就労"
+msgstr "Student or worker status"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid "同居・別居"
+msgstr "Living together or separately"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid "配偶関係"
+msgstr "Marital status"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid "本人"
+msgstr "Me"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid "--"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid "家族2"
+msgstr "Family-member2"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q11</variable/Q11>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q12</variable/Q12>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q13</variable/Q13>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q14S</variable/Q14S>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q15</variable/Q15>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q1014_2</variable/Q1014_2>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid "家族3"
+msgstr "Family-member3"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q16</variable/Q16>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q17</variable/Q17>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q18</variable/Q18>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q19S</variable/Q19S>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q20</variable/Q20>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q1014_3</variable/Q1014_3>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid "家族4"
+msgstr "Family-member4"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q21</variable/Q21>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q22</variable/Q22>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q23</variable/Q23>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q24S</variable/Q24S>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q25</variable/Q25>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q1014_4</variable/Q1014_4>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid "家族5"
+msgstr "Family-member5"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q26</variable/Q26>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q27</variable/Q27>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q28</variable/Q28>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q29S</variable/Q29S>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q30</variable/Q30>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q1014_5</variable/Q1014_5>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid "家族6"
+msgstr "Family-member6"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q31</variable/Q31>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q32</variable/Q32>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q33</variable/Q33>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q34S</variable/Q34S>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q35</variable/Q35>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q1014_6</variable/Q1014_6>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid "家族7"
+msgstr "Family-member7"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q36</variable/Q36>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q37</variable/Q37>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q38</variable/Q38>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q39S</variable/Q39S>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q40</variable/Q40>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q1014_7</variable/Q1014_7>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid "家族8"
+msgstr "Family-member8"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q41</variable/Q41>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q42</variable/Q42>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q43</variable/Q43>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q44S</variable/Q44S>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q45</variable/Q45>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q1014_8</variable/Q1014_8>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid "家族9"
+msgstr "Family-member9"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q46</variable/Q46>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q47</variable/Q47>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q48</variable/Q48>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q49S</variable/Q49S>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q50</variable/Q50>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q1014_9</variable/Q1014_9>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid "家族10"
+msgstr "Family-member10"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q51</variable/Q51>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q52</variable/Q52>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q53</variable/Q53>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q54S</variable/Q54S>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q55</variable/Q55>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
+msgid ":doc:`Q1014_10</variable/Q1014_10>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:31
+msgid ""
+"世帯員の「現在の就学・就業状況」の変数名は、第1～9回では :doc:`Q14</"
+"variable/Q14>`、:doc:`Q19</variable/Q19>`、:doc:`Q24</variable/Q24>`、:"
+"doc:`Q29</variable/Q29>`、:doc:`Q34</variable/Q34>`、:doc:`Q39</variable/"
+"Q39>`、:doc:`Q44</variable/Q44>`、:doc:`Q49</variable/Q49>`、:doc:`Q54</"
+"variable/Q54>`、第10回調査では :doc:`Q14R</variable/Q14R>`、:doc:`Q19R</"
+"variable/Q19R>`、:doc:`Q24R</variable/Q24R>`、:doc:`Q29R</variable/"
+"Q29R>`、:doc:`Q34R</variable/Q34R>`、:doc:`Q39R</variable/Q39R>`、:doc:"
+"`Q44R</variable/Q44R>`、:doc:`Q49R</variable/Q49R>`、:doc:`Q54R</"
+"variable/Q54R>`、を使っています。"
+msgstr ""
+"The variable name of \"Current school and employment status\" of "
+"household members uses:  :doc:`Q14</variable/Q14>`, :doc:`Q19</variable/"
+"Q19>`, :doc:`Q24</variable/Q24>`, :doc:`Q29</variable/Q29>`, :doc:`Q34</"
+"variable/Q34>`, :doc:`Q39</variable/Q39>`, :doc:`Q44</variable/Q44>`, :"
+"doc:`Q49</variable/Q49>`, :doc:`Q54</variable/Q54>` in the 1st to 9th "
+"waves, :doc:`Q14R</variable/Q14R>`, :doc:`Q19R</variable/Q19R>`, :doc:"
+"`Q24R</variable/Q24R>`, :doc:`Q29R</variable/Q29R>`, :doc:`Q34R</"
+"variable/Q34R>`, :doc:`Q39R</variable/Q39R>`, :doc:`Q44R</variable/"
+"Q44R>`, :doc:`Q49R</variable/Q49R>`, :doc:`Q54R</variable/Q54R>` in the "
+"10th wave."
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:34
+msgid "**続き柄コード**"
+msgstr "**Personal relationship code**"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:39
+msgid "有配偶"
+msgstr "Married"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:41
+msgid "無配偶"
+msgstr "Single"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "00"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "01"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "02"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "03"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "04"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "05"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "06"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "07"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "08"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "09"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "10"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "11"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "12"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "13"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "14"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "15"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "16"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "本人（妻）"
+msgstr "Me (wife)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "ご主人"
+msgstr "My hasband"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "子ども(第１子)"
+msgstr "My first child"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "子ども(第２子)"
+msgstr "My second child"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "子ども(第３子)"
+msgstr "My third child"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "子ども(第4子)"
+msgstr "My forth child"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "子ども(第5子以下)"
+msgstr "Fifth or later child subsequent"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "妻の父母"
+msgstr "My parent"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "夫の父母"
+msgstr "My husband's parent"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "妻の祖父母"
+msgstr "My grandparent"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "夫の祖父母"
+msgstr "My husband's parent"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "妻の兄弟姉妹"
+msgstr "My husband's brother or sister"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "夫の兄弟姉妹"
+msgstr "My husband’s grandparent"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "子どもの配偶者"
+msgstr "My child’s spouse"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "孫"
+msgstr "My grand child"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "その他の親族"
+msgstr "Other relative"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "その他"
+msgstr "Other"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "自分の父母"
+msgstr "My parent"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "自分の祖父母"
+msgstr "My grandparent"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst
+msgid "自分の兄弟姉妹"
+msgstr "My brother or sister"
+
+#~ msgid "14. 孫"
+#~ msgstr "14. My grandchild"
+
+#~ msgid "00. 本人"
+#~ msgstr "00.Me"
+
+#~ msgid "01. 子ども(第１子)"
+#~ msgstr "01. My first child"
+
+#~ msgid "02. 子ども(第２子)"
+#~ msgstr "02. My second child"
+
+#~ msgid "03. 子ども(第３子)"
+#~ msgstr "03. My third child"
+
+#~ msgid "04. 子ども(第4子)"
+#~ msgstr "04. My forth child"
+
+#~ msgid "05. 子ども(第5子以下)"
+#~ msgstr "05. Fifth or later child subsequent"
+
+#~ msgid "09. 子どもの配偶者"
+#~ msgstr "09. My child’s spouse"
+
+#~ msgid "10. 孫"
+#~ msgstr "10. My grandchild"
+
+#~ msgid "11. その他の親族"
+#~ msgstr "11. Other relative"
+
+#~ msgid "12. その他"
+#~ msgstr "12. Other"

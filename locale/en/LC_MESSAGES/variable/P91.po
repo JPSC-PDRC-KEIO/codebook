@@ -1,0 +1,131 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-06 21:56+0900\n"
+"PO-Revision-Date: 2020-03-09 10:03+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:5
+msgid "職務（実父）"
+msgstr "Type of employee (father)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:11
+msgid "P91"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:18
+msgid "父親の職務はつぎのどれですか。（でしたか）"
+msgstr "Which type of employee is (was) your father?"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:24
+msgid "選択肢 / 記入欄"
+msgstr "Choices / Entry field"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:27
+msgid "常勤の職員・従業者"
+msgstr "Full-time and permanent employee"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:29
+msgid "派遣社員"
+msgstr "Temporary employee"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:31
+msgid "契約社員・嘱託・その他"
+msgstr "Fixed-term employee"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:33
+msgid "パート・アルバイト"
+msgstr "Part-time employee"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:35
+msgid "自営・家族従業者"
+msgstr "Self-employedment or working for thea family business "
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:42
+msgid "桁あふれコード"
+msgstr "Outside-code-range responses"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:48
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:54
+msgid "無回答コード"
+msgstr "Non-Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:55
+msgid "6"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:61
+msgid "備考"
+msgstr "Remarks"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:63
+msgid "この質問項目の選択肢は第18回以降現在のものに変更されました。詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`)をご参照ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:67
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:72
+msgid "p1_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:74
+msgid "p5b_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:76
+msgid "p11c_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:78
+msgid "p16d_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:80
+msgid "p21e_4"
+msgstr ""
+
+#~ msgid "変数名: P91"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "3.派遣社員・嘱託・その他"
+#~ msgstr ""
+
+#~ msgid "4"
+#~ msgstr ""
+
+#~ msgid "この変数名については、調査回によって選択肢の変更があります。詳しくはこちらをご参照ください。"
+#~ msgstr ""
+#~ "The choice of this variable name "
+#~ "was changed by the survey times. "
+#~ "Please refer :doc:`oyajyoho` for details."
+

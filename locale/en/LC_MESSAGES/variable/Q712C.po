@@ -1,0 +1,182 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:5
+msgid "結婚費用の内訳：挙式披露宴（本人側）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:11
+msgid "Q712C"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:18
+msgid "ご夫婦の結婚費用はいくらぐらいでしたか（結納、結納返しを除く）。各項目についての双方の支出をご記入ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:21
+msgid "挙式・披露宴"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:27
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:29
+msgid "＿＿＿万円"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:35
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:36
+msgid "998"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:41
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:47
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:48
+msgid "999"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:53
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:59
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:64
+msgid "p3_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:66
+msgid "p4_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:68
+msgid "p5a_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:70
+msgid "p6_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:72
+msgid "p7_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:74
+msgid "p8_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:76
+msgid "p9_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:78
+msgid "p10_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:80
+msgid "p11ab_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:82
+msgid "p12_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:84
+msgid "p13_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:86
+msgid "p14_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:88
+msgid "p15_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:90
+msgid "p16abc_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:92
+msgid "p17_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:94
+msgid "p18_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:96
+msgid "p19_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:98
+msgid "p20_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:100
+msgid "p21abcd_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:102
+msgid "p22_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:104
+msgid "p23_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:106
+msgid "p24_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:108
+msgid "p25_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:110
+msgid "p26_3"
+msgstr ""
+
+#~ msgid "変数名: Q712C"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

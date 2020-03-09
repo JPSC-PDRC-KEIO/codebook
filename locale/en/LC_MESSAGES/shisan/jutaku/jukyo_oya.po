@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: 2020-01-29 18:36+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/jukyo_oya.rst:3
+msgid "親の居住状況"
+msgstr "Parent's residence"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/jukyo_oya.rst:6
+msgid "親との居住関係"
+msgstr "Parent-child residential relationship"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/jukyo_oya.rst:17
+msgid ""
+"第12回では、親との同居の意向についての質問の変数名が、義親は :doc:"
+"`Q1059</variable/Q1059>`、実親は :doc:`Q1062</variable/Q1062>` と"
+"なっています。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/jukyo_oya.rst:21
+msgid "別居の親の住居形態"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/jukyo_oya.rst:31
+msgid ""
+"親の住居については、第1～第11回は「 :doc:`/variable/Q379` 」「 :"
+"doc:`/variable/Q380` 」として聞いていました。"
+msgstr ""

@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:5
+msgid "初職の業種〔第21回～〕"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:11
+msgid "P187"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:18
+msgid "その勤め先の業種は次のどれに該当しますか。（派遣社員の方は、派遣元の業種についてお答えください）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:27
+msgid "農業、林業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:29
+msgid "漁業・水産業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:31
+msgid "鉱業・採石業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:33
+msgid "建設業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:35
+msgid "製造業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:37
+msgid "電気・ガス・熱供給・水道業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:39
+msgid "情報通信業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:41
+msgid "運輸業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:43
+msgid "卸売業、小売業（スーパー、コンビニを含む）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:45
+msgid "金融業、保険業、不動産業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:47
+msgid "宿泊業、飲食サービス業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:49
+msgid "教育、学生支援業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:51
+msgid "医療、福祉"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:53
+msgid "その他のサービス業（理・美容、広告、娯楽、郵便局、職業紹介、労働者派遣業など）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:55
+msgid "公務（官庁・役所など）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:57
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:64
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:70
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:76
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:77
+msgid "17"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:82
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:88
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P187.rst:93
+msgid "p21e_1"
+msgstr ""
+
+#~ msgid "変数名: P187"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

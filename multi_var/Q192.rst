@@ -1,0 +1,65 @@
+
+============================================================
+現職（職種）の選択理由
+============================================================
+
+
+質問文（複数回答）
+-----------------------
+なぜ、あなたは現在の職種を選びましたか。（〇はいくつでも）
+
+.. note::
+  現在有職の人への質問です。1年間に転職があった人に聞いています〔第11回以降は聞いていません）。なお、コーホートAとコーホートBの初回調査時〔第1回・第5回〕については変数名が異なります。 :doc:`現職（会社）の選択理由〔第1回・第5回〕（P56） </multi_var/P56>` をご参照ください。
+
+
+.. csv-table::
+   :header: "項目", "変数"
+   :widths: 20,5
+
+   収入・給与がよい,:doc:`Q192A </variable/Q192A>`
+   休日、休暇が多い,:doc:`Q192B </variable/Q192B>`
+   拘束時間が少ない、残業が少ない,:doc:`Q192C </variable/Q192C>`
+   労働時間が自由になる,:doc:`Q192D </variable/Q192D>`
+   転勤がない、少ない,:doc:`Q192F </variable/Q192F>`
+   安定している、失業のおそれがない,:doc:`Q192G </variable/Q192G>`
+   将来発展する可能性がある,:doc:`Q192H </variable/Q192H>`
+   組織にしばられない,:doc:`Q192H </variable/Q192H>`
+   結婚後も続けやすい,:doc:`Q192I </variable/Q192I>`
+   出産後も続けやすい,:doc:`Q192J </variable/Q192J>`
+   技術が身につく,:doc:`Q192K </variable/Q192K>`
+   能力が生かせる,:doc:`Q192L </variable/Q192L>`
+   仕事内容に興味がある,:doc:`Q192M </variable/Q192M>`
+   外国に行ける,:doc:`Q192N </variable/Q192N>`
+   結婚相手が見つかる,:doc:`Q192O </variable/Q192O>`
+   学校がすすめるので,:doc:`Q192P </variable/Q192P>`
+   家族がすすめるので,:doc:`Q192Q </variable/Q192Q>`
+   会社ですすめられた（自分で選んだのではない）,:doc:`Q192R </variable/Q192R>`
+   家業だから,:doc:`Q192S </variable/Q192S>`
+   その他,:doc:`Q192T </variable/Q192T>`
+
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q192A
+   /variable/Q192B
+   /variable/Q192C
+   /variable/Q192D
+   /variable/Q192E
+   /variable/Q192F
+   /variable/Q192G
+   /variable/Q192H
+   /variable/Q192I
+   /variable/Q192J
+   /variable/Q192K
+   /variable/Q192L
+   /variable/Q192M
+   /variable/Q192N
+   /variable/Q192O
+   /variable/Q192P
+   /variable/Q192Q
+   /variable/Q192R
+   /variable/Q192S
+   /variable/Q192T

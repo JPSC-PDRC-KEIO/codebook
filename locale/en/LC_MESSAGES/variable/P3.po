@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: 2020-02-13 17:41+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:5
+msgid "配偶者との結婚年齢"
+msgstr "Age of marriage with present spouse"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:11
+msgid "P3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:18
+msgid "あなたが現在のご主人と結婚されたのはいつですか。"
+msgstr "When did you get married to your present husband?"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:24
+msgid "選択肢 / 記入欄"
+msgstr "Choices / Entry field"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:26
+msgid "＿＿歳のとき"
+msgstr "when I was  ＿＿years old"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:32
+msgid "桁あふれコード"
+msgstr "Outside-code-range responses"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:33
+msgid "98"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:38
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:44
+msgid "無回答コード"
+msgstr "Non-Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:45
+msgid "99"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:50
+msgid "備考"
+msgstr "Remarks"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:56
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:61
+msgid "p1_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:63
+msgid "p5b_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:65
+msgid "p11c_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:67
+msgid "p16d_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P3.rst:69
+msgid "p21e_1"
+msgstr ""

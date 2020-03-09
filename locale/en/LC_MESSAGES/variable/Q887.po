@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q887.rst:5
+msgid "支出月額（有配偶）：地域振興券使用額"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q887.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q887.rst:11
+msgid "Q887"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q887.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q887.rst:18
+msgid "次の各項目について、あなたのご家族でのこの9月1カ月間に支出した額を記入して下さい。（現金をしはらったものの他、クレジット・ローンで購入したもの、銀行・郵便局（ゆうちょ銀行）から自動的に引き落とした分も含みます）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q887.rst:21
+msgid "合計額のうち、9月1ヵ月に地域振興券を使用した額"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q887.rst:27
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q887.rst:29
+msgid "＿＿万＿千円"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q887.rst:35
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q887.rst:36
+msgid "998"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q887.rst:41
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q887.rst:47
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q887.rst:48
+msgid "999"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q887.rst:53
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q887.rst:59
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q887.rst:64
+msgid "p7_4"
+msgstr ""
+
+#~ msgid "変数名: Q887"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

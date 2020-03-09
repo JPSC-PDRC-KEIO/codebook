@@ -1,0 +1,181 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: 2020-01-29 17:26+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:3
+msgid "貯蓄目的別目標額"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:6
+msgid "質問文"
+msgstr "Question"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:7
+msgid "あなた方ご夫婦はどのような目的で貯蓄なさっていますか。下に挙げてある目的のために貯蓄をしている場合は「あり」に〇、していない場合は「なし」に〇をつけてください。"
+msgstr "For what purposes do you and your husband save money?   If you save money for any of the purposes shown in the table below, please circle “Yes” for the item. Otherwise, please circle “No”"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:10
+msgid "次に、上記の質問で「あり」とお答えいただいた貯蓄のそれぞれについて、どのくらいの貯蓄額を目標にしているかをご記入ください。"
+msgstr "Also, for each item you answered “Yes,”  what amount of money are you going to save?"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid "項目"
+msgstr "items"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid "目的"
+msgstr "Purpose"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid "目標額"
+msgstr "Target amount"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid "夫婦の老後の生活に備えるため"
+msgstr "To provide for living comfortably in our old age"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q350C </variable/Q350C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q350A </variable/Q350A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid "病気、災害、その他不時の出費に備えるため"
+msgstr "To provide for unexpected expenses due to illness, disaster, accident, etc."
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q351A </variable/Q351A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q350B </variable/Q350B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid "子どもの教育費に"
+msgstr "To pay the educational expenses for our child(ren)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q352C </variable/Q352C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q352A </variable/Q352A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid "子どもの結婚資金に"
+msgstr "To  save for our child(ren)’s wedding(s)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q353C </variable/Q353C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q353A </variable/Q353A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid "マイホーム（土地を含む）の取得（建て替え、買い替えを含む）のため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q354C </variable/Q354C>`"
+msgstr "To purchase (or renovate or replace) our house (with lot)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q354A </variable/Q354A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid "耐久消費財の購入資金に"
+msgstr "To save for purchasing durable consumer goods"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q355C</variable/Q355C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q355A </variable/Q355A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid "レジャー資金に"
+msgstr " To save to spend on leisure "
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q356C </variable/Q356C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q356A </variable/Q356A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid "独立自営のための資金に"
+msgstr "To save for starting an independent business"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q358C </variable/Q358C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q358A </variable/Q358A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid "特に目的はないが貯蓄をしていれば安心だから"
+msgstr "For no special purpose, but to feel free from anxiety with savings"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q359C </variable/Q359C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q359A </variable/Q359A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid "遺産として残すため"
+msgstr "To leave our savings for our child(ren) to inherit"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q360C </variable/Q360C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q360A </variable/Q360A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid "その他"
+msgstr "For other purposes"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q361C </variable/Q361C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
+msgid ":doc:`Q361A </variable/Q361A>`"
+msgstr ""

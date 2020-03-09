@@ -1,0 +1,162 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:5
+msgid "受講費用負担者：勤め先"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:11
+msgid "Q543H"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:18
+msgid "その費用はどなたが負担しましたか。（〇はいくつでも）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:26
+msgid "勤め先"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:32
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:38
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:44
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:45
+msgid "3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:50
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:56
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:61
+msgid "p9_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:63
+msgid "p10_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:65
+msgid "p11ab_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:67
+msgid "p11c_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:69
+msgid "p12_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:71
+msgid "p13_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:73
+msgid "p14_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:75
+msgid "p15_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:77
+msgid "p16abc_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:79
+msgid "p16d_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:81
+msgid "p17_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:83
+msgid "p18_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:85
+msgid "p19_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:87
+msgid "p20_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:89
+msgid "p21abcd_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:91
+msgid "p21e_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:93
+msgid "p22_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:95
+msgid "p23_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:97
+msgid "p24_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:99
+msgid "p25_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q543H.rst:101
+msgid "p26_3"
+msgstr ""
+
+#~ msgid "変数名: Q543H"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

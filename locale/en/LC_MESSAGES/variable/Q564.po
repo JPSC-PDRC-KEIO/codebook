@@ -1,0 +1,214 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:5
+msgid "結婚への意向"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:11
+msgid "Q564"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:18
+msgid "結婚（法律にもとづくもの）はしたいですか。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:27
+msgid "まもなく結婚することが決まっている"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:29
+msgid "すぐにでもしたい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:31
+msgid "今はしたくないが、いずれはしたい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:33
+msgid "必ずしもしなくてよい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:35
+msgid "したくない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:42
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:48
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:49
+msgid "6"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:54
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:55
+msgid "7"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:60
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:66
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:71
+msgid "p2_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:73
+msgid "p3_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:75
+msgid "p4_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:77
+msgid "p5a_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:79
+msgid "p5b_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:81
+msgid "p6_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:83
+msgid "p7_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:85
+msgid "p8_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:87
+msgid "p9_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:89
+msgid "p10_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:91
+msgid "p11ab_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:93
+msgid "p11c_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:95
+msgid "p12_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:97
+msgid "p13_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:99
+msgid "p14_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:101
+msgid "p15_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:103
+msgid "p16abc_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:105
+msgid "p16d_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:107
+msgid "p17_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:109
+msgid "p18_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:111
+msgid "p19_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:113
+msgid "p20_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:115
+msgid "p21abcd_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:117
+msgid "p21e_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:119
+msgid "p22_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:121
+msgid "p23_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:123
+msgid "p24_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:125
+msgid "p25_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q564.rst:127
+msgid "p26_3"
+msgstr ""
+
+#~ msgid "変数名: Q564"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

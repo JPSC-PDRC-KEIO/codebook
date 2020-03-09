@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-06 21:56+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:5
+msgid "職務（義父）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:11
+msgid "Q699"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:18
+msgid "ご主人の父親の職務は次のどれですか（でしたか）。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:27
+msgid "正社員・正職員"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:29
+msgid "派遣社員"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:31
+msgid "契約社員・嘱託・その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:33
+msgid "パート・アルバイト"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:35
+msgid "自営・家族従業者"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:42
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:48
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:54
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:55
+msgid "6"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:60
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:62
+msgid "この質問項目の選択肢は第18回以降現在のものに変更されました。詳しくはこちら（:doc:`/kihon_kazoku/oya_giri`)をご参照ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:67
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:72
+msgid "p1_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:74
+msgid "p2_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:76
+msgid "p3_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:78
+msgid "p4_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:80
+msgid "p5a_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:82
+msgid "p5b_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:84
+msgid "p6_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:86
+msgid "p7_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:88
+msgid "p8_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:90
+msgid "p9_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:92
+msgid "p10_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:94
+msgid "p11ab_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:96
+msgid "p11c_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:98
+msgid "p12_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:100
+msgid "p13_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:102
+msgid "p14_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:104
+msgid "p15_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:106
+msgid "p16abc_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:108
+msgid "p16d_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:110
+msgid "p17_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:112
+msgid "p18_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:114
+msgid "p19_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:116
+msgid "p20_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:118
+msgid "p21abcd_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:120
+msgid "p21e_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:122
+msgid "p22_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:124
+msgid "p23_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:126
+msgid "p24_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:128
+msgid "p25_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:130
+msgid "p26_5"
+msgstr ""
+
+#~ msgid "変数名: Q699"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

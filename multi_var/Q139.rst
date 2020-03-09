@@ -1,0 +1,53 @@
+============================================================
+特別な出来事（家族）
+============================================================
+
+
+質問文（複数回答）
+-----------------------
+この1年間（調査前年10月～調査年9月）に他のご家族に次のような出来事がありましたか。（〇はいくつでも）
+
+
+
+.. csv-table::
+   :header: 項目, 変数
+   :widths: 20,5
+
+   新たに仕事についた,:doc:`Q139K </variable/Q139K>`
+   転勤や単身赴任,:doc:`Q139A </variable/Q139A>`
+   職場または仕事を変えた,:doc:`Q139L </variable/Q139L>`
+   仕事をやめた・希望退職,:doc:`Q139M </variable/Q139M>`
+   失業（解雇された、退職勧告があった）,:doc:`Q139B </variable/Q139B>`
+   倒産・破産,:doc:`Q139C </variable/Q139C>`
+   手術や長期の療養が必要な重い病気にかかった,:doc:`Q139D </variable/Q139D>`
+   うつ状態などの精神的な問題があった,:doc:`Q139E </variable/Q139E>`
+   ローンやクレジットなどを含めた消費者トラブルにあった,:doc:`Q139F </variable/Q139F>`
+   事故や災害にあった,:doc:`Q139G </variable/Q139G>`
+   受験や入学,:doc:`Q139H </variable/Q139H>`
+   自分の子どもが結婚した,:doc:`Q139N </variable/Q139N>`
+   自分の孫が生まれた,:doc:`Q139O </variable/Q139O>`
+   その他特別な出来事があった（具体的に）,:doc:`Q139I </variable/Q139I>`
+   特別なことは何もなかった,:doc:`Q139J </variable/Q139J>`
+
+
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q139K
+   /variable/Q139A
+   /variable/Q139L
+   /variable/Q139M
+   /variable/Q139B
+   /variable/Q139C
+   /variable/Q139D
+   /variable/Q139E
+   /variable/Q139F
+   /variable/Q139G
+   /variable/Q139H
+   /variable/Q139N
+   /variable/Q139O
+   /variable/Q139I
+   /variable/Q139J

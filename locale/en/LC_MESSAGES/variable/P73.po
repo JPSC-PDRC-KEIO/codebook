@@ -1,0 +1,138 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:5
+msgid "初職の業種〔第1～第16回〕"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:11
+msgid "P73"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:18
+msgid "その勤め先の業種は次のどれに該当しますか。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:27
+msgid "農林業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:29
+msgid "漁業・水産業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:31
+msgid "鉱業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:33
+msgid "建設業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:35
+msgid "製造業（出版、印刷を含む）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:37
+msgid "卸売・小売業（デパート、スーパー、食堂、喫茶店を含む）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:39
+msgid "金融・保険・不動産業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:41
+msgid "運輸・通信業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:43
+msgid "電気・ガス・水道・熱供給業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:45
+msgid "サービス業（学校、病院、ホテル、映画館、理・美容店、広告代理店、清掃会社を含む）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:47
+msgid "公務"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:49
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:56
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:62
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:68
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:69
+msgid "13"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:74
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:80
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:85
+msgid "p1_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:87
+msgid "p5b_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:89
+msgid "p11c_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P73.rst:91
+msgid "p16d_1"
+msgstr ""
+
+#~ msgid "変数名: P73"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

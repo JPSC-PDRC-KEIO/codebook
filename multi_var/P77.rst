@@ -1,0 +1,66 @@
+============================================================
+初職の選択理由
+============================================================
+
+
+質問文（複数回答）
+-------------------------------------
+どのような理由で、あなたははじめての職業を選びましたか。（〇はいくつでも）
+
+.. csv-table::
+   :header: "項目", "変数"
+   :widths: 20,5
+
+   給与がよい,:doc:`P77A </variable/P77A>`
+   休日、休暇が多い,:doc:`P77B </variable/P77B>`
+   拘束時間が少ない、労働時間が自由になる,:doc:`P77X </variable/P77X>`
+   家に近い、通勤距離が短い,:doc:`P77E </variable/P77E>`
+   転勤がない、少ない,:doc:`P77F </variable/P77F>`
+   安定している、失業のおそれがない,:doc:`P77G </variable/P77G>`
+   将来発展する可能性がある,:doc:`P77H </variable/P77H>`
+   結婚・出産後も続けやすい,:doc:`P77Y </variable/P77Y>`
+   技術が身につく,:doc:`P77M </variable/P77M>`
+   能力が生かせる,:doc:`P77N </variable/P77N>`
+   仕事内容に興味がある,:doc:`P77O </variable/P77O>`
+   その他,:doc:`P77W </variable/P77W>`
+
+
+.. note::
+  この項目は、選択肢や変数名が以下のように変化してきました。
+
+|
+.. raw:: html
+
+ <object width="100%" hight="100%" id="sentaku_syoSvg" type="image/svg+xml" data="..\_static\_images\sentaku_syo.svg"></object>
+
+
+|
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/P77A
+   /variable/P77B
+   /variable/P77C
+   /variable/P77D
+   /variable/P77E
+   /variable/P77F
+   /variable/P77G
+   /variable/P77H
+   /variable/P77I
+   /variable/P77J
+   /variable/P77K
+   /variable/P77L
+   /variable/P77M
+   /variable/P77N
+   /variable/P77O
+   /variable/P77P
+   /variable/P77Q
+   /variable/P77R
+   /variable/P77S
+   /variable/P77T
+   /variable/P77U
+   /variable/P77V
+   /variable/P77W
+   /variable/P77X
+   /variable/P77Y

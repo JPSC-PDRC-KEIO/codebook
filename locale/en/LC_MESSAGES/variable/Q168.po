@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:5
+msgid "有給休暇取得日数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:11
+msgid "Q168"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:18
+msgid "それでは、調査前年度（調査前年4月～調査年3月）に、あなたは合計で何日間有給休暇を取りましたか。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:26
+msgid "＿＿日"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:32
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:33
+msgid "98"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:38
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:44
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:45
+msgid "99"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:50
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:56
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:61
+msgid "p2_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:63
+msgid "p3_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:65
+msgid "p4_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:67
+msgid "p5a_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:69
+msgid "p5b_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:71
+msgid "p6_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:73
+msgid "p7_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:75
+msgid "p8_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:77
+msgid "p9_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:79
+msgid "p10_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:81
+msgid "p11ab_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:83
+msgid "p11c_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:85
+msgid "p12_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:87
+msgid "p13_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:89
+msgid "p14_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:91
+msgid "p15_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:93
+msgid "p16abc_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:95
+msgid "p16d_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:97
+msgid "p17_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:99
+msgid "p18_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:101
+msgid "p19_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:103
+msgid "p20_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:105
+msgid "p21abcd_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:107
+msgid "p21e_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:109
+msgid "p22_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:111
+msgid "p23_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:113
+msgid "p24_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:115
+msgid "p25_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q168.rst:117
+msgid "p26_1"
+msgstr ""
+
+#~ msgid "変数名: Q168"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

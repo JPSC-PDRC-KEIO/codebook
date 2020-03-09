@@ -1,0 +1,243 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-28 14:33+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:3
+msgid "結婚費用のまかない方"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:7
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:10
+msgid "その費用をどのように賄いましたか。 :doc:`kekkonhiyou` のA・B・Cの金額それぞれの内訳をご記入ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:13
+msgid "選択肢"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid "項目"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid "使ったか"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst
+msgid "本人（妻）側"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst
+msgid "（Aの内訳）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst
+msgid "配偶者（夫）側"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst
+msgid "（Bの内訳）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid "合計（Cの内訳）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid "自分の貯蓄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q1005A </variable/Q1005A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q715A </variable/Q715A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q716A </variable/Q716A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q717A </variable/Q717A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid "親からの援助"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q1005B </variable/Q1005B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q715B </variable/Q715B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q716B </variable/Q716B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q717B </variable/Q717B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid "親からの借入れ"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q1005C </variable/Q1005C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q715C </variable/Q715C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q716C </variable/Q716C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q717C </variable/Q717C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid "親以外からの援助"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q1005D </variable/Q1005D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q715D </variable/Q715D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q716D </variable/Q716D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q71D </variable/Q717D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid "親以外からの借入れ（金融機関除く）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q1005E </variable/Q1005E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q715E </variable/Q715E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q716E </variable/Q716E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q717E </variable/Q717E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid "金融機関からの借入れ"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q1005F </variable/Q1005F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q715F </variable/Q715F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q716F </variable/Q716F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q717F </variable/Q717F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid "お祝い金など"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q1005G </variable/Q1005G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q715G </variable/Q715G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q716G </variable/Q716G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q717G </variable/Q717G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q1005H </variable/Q1005H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q715H </variable/Q715H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q716H </variable/Q716H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q717H </variable/Q717H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid "合計"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q715I </variable/Q715I>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q716I </variable/Q716I>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:1
+msgid ":doc:`Q717I </variable/Q717I>`"
+msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:5
+msgid "有価証券売却の有無（世帯として）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:11
+msgid "Q337"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:18
+msgid "お宅では、預貯金や有価証券をどのくらいお持ちですか。A.お宅（あなた方ご夫婦および子ども）でお持ちのものの全体についてお答え下さい。（6）この1年間（調査前年10月～調査年9月）に有価証券を売却しましたか。（売却後購入した場合も売却に含めます）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:27
+msgid "売却した"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:29
+msgid "売却しなかった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:36
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:42
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:48
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:54
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:60
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:65
+msgid "p1_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:67
+msgid "p2_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:69
+msgid "p3_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:71
+msgid "p4_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:73
+msgid "p5a_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:75
+msgid "p5b_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:77
+msgid "p6_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:79
+msgid "p7_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:81
+msgid "p8_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:83
+msgid "p9_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q337.rst:85
+msgid "p10_2"
+msgstr ""
+
+#~ msgid "有価証券売却の有無（世帯）"
+#~ msgstr ""
+
+#~ msgid "変数名: Q337"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:5
+msgid "今後の消費税増税への対策：生活必需品を見直す"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:11
+msgid "Q1194A"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:18
+msgid "消費税がさらに増税になったら、お宅ではどのような対応をするつもりですか。（それぞれ〇は１つずつ）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:21
+msgid "食料品など生活必需品の買い物を見直し"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:27
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:30
+msgid "かならずやる"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:32
+msgid "たぶんやる"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:34
+msgid "たぶんやらない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:36
+msgid "やるつもりはない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:38
+msgid "これ以上見直せない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:45
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:51
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:57
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:58
+msgid "6"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:63
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:69
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:74
+msgid "p22_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1194A.rst:76
+msgid "p23_3"
+msgstr ""
+
+#~ msgid "変数名: Q1194A"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

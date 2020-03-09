@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:3
+msgid "クレジットカードの利用枚数（親名義）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:6
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:8
+msgid "支払名義人別に何枚お持ちですか。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:1
+msgid "実親の名義"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:1
+msgid "義親の名義"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:1
+msgid "有配偶"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:1
+msgid ":doc:`Q442A</variable/Q442A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:1
+msgid ":doc:`Q443A</variable/Q443A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:1
+msgid "無配偶"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:1
+msgid "─"
+msgstr ""
+

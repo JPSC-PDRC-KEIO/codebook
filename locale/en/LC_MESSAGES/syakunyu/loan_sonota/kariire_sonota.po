@@ -1,0 +1,192 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst:3
+msgid "借入れ状況"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst:6
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst:8
+msgid "現在の借り入れについて、以下の項目にご記入ください。「借りた目的」「借入先」「借りた理由」は、下のコード表からあてはまる「コード番号」をご記入ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst:10
+msgid "「借りた理由」は、1カ所の借入先それぞれについて最大の理由１つを選んでご記入下さい。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst:200
+msgid "**コード表**"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst:204
+msgid "借りた目的"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst:205
+msgid "借入先"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst:206
+msgid "借りた理由"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "01 事業用の資金"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "02 乗用車の購入"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "03 家具・家電などの耐久消費財の購入"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "04 衣類・身の回り品・食料品などの購入"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "05 趣味・レジャー・交際費として"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "06 教育費"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "07 結婚費用"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "08 病気・不慮の事故"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "09 家族の生活費の補填"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "10 借金の返済"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "11 その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "21 銀行などの金融機関・郵便局"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "22 社内融資"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "23 銀行系クレジット会社"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "24 信販会社"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "25 消費者金融会社"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "26 流通関連会社"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "27 妻の親"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "28 夫の親"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "29 その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "31 そこでしか借りられなかった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "32 手続きが簡単だった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "33 時間的に一番早く借りられた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "34 営業時間が長く、夜も開いていた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "35 土曜・日曜も借りられた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "36 金利が低かった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "37 その機関の人から熱心に勧められた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "38 友人・知人に勧められた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "39 借入れできるカードを持っていた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "40 返済方法が簡単そうだった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "41 たまたま近くにあった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "42 有名で信頼できると思った"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "43 気軽に借りられるから"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "44 金融機関から借金をしたくなかった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+msgid "45 その他"
+msgstr ""
+

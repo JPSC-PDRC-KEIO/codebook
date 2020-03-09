@@ -1,0 +1,210 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:5
+msgid "最終学歴（配偶者）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:11
+msgid "Q857"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:18
+msgid "ご主人が最後に卒業した学校はどちらですか。（中退は卒業に含めないで下さい）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:27
+msgid "中学校"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:29
+msgid "高等学校（大検・高卒認定）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:31
+msgid "専門学校・専修学校"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:33
+msgid "短大"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:35
+msgid "高専"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:37
+msgid "大学（医・歯学部を含む）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:39
+msgid "大学院"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:41
+msgid "その他（　　　　　　　　　　　　　　　　）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:48
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:54
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:60
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:61
+msgid "9"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:66
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:72
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:77
+msgid "p5a_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:79
+msgid "p5b_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:81
+msgid "p6_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:83
+msgid "p7_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:85
+msgid "p8_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:87
+msgid "p9_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:89
+msgid "p10_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:91
+msgid "p11ab_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:93
+msgid "p11c_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:95
+msgid "p12_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:97
+msgid "p13_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:99
+msgid "p14_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:101
+msgid "p15_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:103
+msgid "p16abc_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:105
+msgid "p16d_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:107
+msgid "p17_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:109
+msgid "p18_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:111
+msgid "p19_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:113
+msgid "p20_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:115
+msgid "p21abcd_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:117
+msgid "p21e_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:119
+msgid "p22_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:121
+msgid "p23_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:123
+msgid "p24_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:125
+msgid "p25_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q857.rst:127
+msgid "p26_5"
+msgstr ""
+
+#~ msgid "変数名: Q857"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

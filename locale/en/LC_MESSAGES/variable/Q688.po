@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-27 14:48+0900\n"
+"PO-Revision-Date: 2020-02-27 15:38+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:5
+msgid "最終学校の卒業年（配偶者）"
+msgstr "Year of graduation from the last school attended (spouse)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:11
+msgid "Q688"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:18
+msgid "その学校を卒業したのは何年ですか。"
+msgstr "In which year did you graduate?"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:24
+msgid "選択肢 / 記入欄"
+msgstr "Choices / Entry field"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:26
+msgid "＿＿年"
+msgstr "Year ＿＿＿＿"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:32
+msgid "桁あふれコード"
+msgstr "Outside-code-range responses"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:38
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:44
+msgid "無回答コード"
+msgstr "Non-Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:50
+msgid "備考"
+msgstr "Remarks"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:52
+msgid "第7回より、この項目の変数名は :doc:`Q892</variable/Q892>` に変更されています。"
+msgstr "From the 7th wave, the variable name of this item has been changed to :doc:`Q892</variable/Q892>`."
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:56
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:61
+msgid "p1_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:63
+msgid "p2_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:65
+msgid "p3_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:67
+msgid "p4_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:69
+msgid "p5a_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:71
+msgid "p5b_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q688.rst:73
+msgid "p6_5"
+msgstr ""

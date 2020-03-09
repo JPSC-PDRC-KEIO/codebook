@@ -1,0 +1,158 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:5
+msgid "耐久消費財（購入）：ルームエアコン"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:11
+msgid "Q457A"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:18
+msgid "また、この1年間に購入した方は、その購入台数と購入金額を記入してください。（2台以上購入した場合は、合計金額を記入してください）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:21
+msgid "ルームエアコン"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:27
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:29
+msgid "＿＿台"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:35
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:36
+msgid "8"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:41
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:47
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:48
+msgid "9"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:53
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:59
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:64
+msgid "p2_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:66
+msgid "p3_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:68
+msgid "p4_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:70
+msgid "p5a_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:72
+msgid "p6_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:74
+msgid "p7_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:76
+msgid "p8_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:78
+msgid "p9_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:80
+msgid "p10_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:82
+msgid "p19_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:84
+msgid "p20_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:86
+msgid "p21abcd_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:88
+msgid "p21e_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:90
+msgid "p22_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:92
+msgid "p23_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:94
+msgid "p24_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:96
+msgid "p25_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457A.rst:98
+msgid "p26_3"
+msgstr ""
+
+#~ msgid "変数名: Q457A"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

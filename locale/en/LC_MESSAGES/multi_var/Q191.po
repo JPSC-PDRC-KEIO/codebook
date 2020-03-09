@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:3
+msgid "現職（会社）の選択理由"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:7
+msgid "質問文（複数回答）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:8
+msgid "なぜ、あなたは現在の会社等を選びましたか。（〇はいくつでも）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid "項目"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid "変数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid "給与がよい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid ":doc:`Q191A </variable/Q191A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid "休日、休暇が多い"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid ":doc:`Q191B </variable/Q191B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid "拘束時間が少ない、労働時間が自由になる"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid ":doc:`Q191U </variable/Q191U>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid "家に近い、通勤距離が短い"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid ":doc:`Q191E </variable/Q191E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid "転勤がない、少ない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid ":doc:`Q191F </variable/Q191F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid "安定している、失業のおそれがない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid ":doc:`Q191G </variable/Q191G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid "将来発展する可能性がある"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid ":doc:`Q191H </variable/Q191H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid "結婚・出産後も続けやすい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid ":doc:`Q191V </variable/Q191V>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid "技術が身につく"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid ":doc:`Q191L </variable/Q191L>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid "能力が生かせる"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid ":doc:`Q191M </variable/Q191M>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid "仕事内容に興味がある"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid ":doc:`Q191N </variable/Q191N>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:1
+msgid ":doc:`Q191T </variable/Q191T>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q191.rst:30
+msgid ""
+"現在有職の人への質問です。初回調査時と1年間に転職があった人に聞いています。この項目は、選択肢や変数名が以下のような変化をたどってきました。なお、コーホートAとコーホートB〔第1回・第5回〕では初回調査時の変数名が異なります。"
+" :doc:`現職（会社）の選択理由〔第1回・第5回〕（P54） </multi_var/P54>` をご参照ください。"
+msgstr ""
+

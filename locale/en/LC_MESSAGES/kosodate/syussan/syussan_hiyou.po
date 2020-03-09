@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-28 14:33+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:3
+msgid "出産費用"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:6
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:8
+msgid "出産に関わる費用はどれくらいでしたか。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:11
+msgid "選択肢"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+msgid "項目"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+msgid "変数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+msgid "病院に支払った費用（定期検診も含む）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+msgid ":doc:`Q74A</variable/Q74A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+msgid "育児用品購入費"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+msgid ":doc:`Q74B</variable/Q74B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+msgid "産後の手伝いのお礼"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+msgid ":doc:`Q74C</variable/Q74C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+msgid ":doc:`Q74D</variable/Q74D>`"
+msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

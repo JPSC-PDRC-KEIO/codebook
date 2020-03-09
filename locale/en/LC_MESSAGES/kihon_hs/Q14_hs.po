@@ -1,0 +1,133 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-25 10:23+0900\n"
+"PO-Revision-Date: 2020-02-27 15:46+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:3
+msgid "現在の就学・就労（配偶者）〔第1～9回〕"
+msgstr "Student or worker status (spouse) [1st-9th waves]"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:5
+msgid "無配偶の家族2と共通の変数"
+msgstr "This variable is also assigned to Family-member2 of Single"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:8
+msgid "変数名"
+msgstr "Variable name"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:10
+msgid "Q14"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:13
+msgid "質問文"
+msgstr "Question"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:14
+msgid "配偶者の現在の就学・就労状況"
+msgstr "Student or worker status of husband"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:17
+msgid "選択肢 / 記入欄"
+msgstr "Choices / Entry field"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:19
+msgid "未就学"
+msgstr "Preschooler"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:20
+msgid "小学1～3年"
+msgstr "Student in grades 1 to 3 of primary school"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:21
+msgid "小学4～6年"
+msgstr "Student in grades 4 to 6 of primary school"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:22
+msgid "中学生"
+msgstr "Junior-high school  student"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:23
+msgid "高校生"
+msgstr "Senior-high school student"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:24
+msgid "大学生"
+msgstr "University or college  student"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:25
+msgid "その他"
+msgstr "Other"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:28
+msgid "桁あふれコード"
+msgstr "Outside-code-range responses"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:32
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:36
+msgid "無回答コード"
+msgstr "Non-Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:41
+msgid "備考"
+msgstr "Remarks"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:45
+msgid "p1_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:47
+msgid "p2_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:49
+msgid "p3_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:51
+msgid "p4_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:53
+msgid "p5a_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:55
+msgid "p5b_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:57
+msgid "p6_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:59
+msgid "p7_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:61
+msgid "p8_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:63
+msgid "p9_1"
+msgstr ""

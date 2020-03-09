@@ -1,0 +1,172 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:3
+msgid "離職理由"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:7
+msgid "質問文（複数回答）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:8
+msgid "どのような理由で、あなたは１年前（昨年9月末）の会社等をやめたのですか。（〇はいくつでも）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid "項目"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid "変数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid "人員整理・会社解散・倒産のため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid ":doc:`Q185A </variable/Q185A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid "一時的・不安定な仕事だったから"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid ":doc:`Q185B </variable/Q185B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid "労働条件（収入・時間）が悪かったため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid ":doc:`Q185U </variable/Q185U>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid "仕事の内容に不満があったため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid ":doc:`Q185V </variable/Q185V>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid "家族の就職・転職・転勤及び事業所の移転のため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid ":doc:`Q185G </variable/Q185G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid "結婚のため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid ":doc:`Q185H </variable/Q185H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid "妊娠・出産のため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid ":doc:`Q185Z </variable/Q185Z>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid "育児・子育てのため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid ":doc:`Q185AA </variable/Q185AA>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid "自分が病気になったから"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid ":doc:`Q185L </variable/Q185L>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid "家族の介護のため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid ":doc:`Q185M </variable/Q185M>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid "良い条件の仕事が見つかったら・独立したから"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid ":doc:`Q185O </variable/Q185O>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid "人間関係が気まずくなったから"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid ":doc:`Q185X </variable/Q185X>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid "解雇された"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid ":doc:`Q185R </variable/Q185R>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid "大学や専門学校などでの勉強や留学準備のため"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid ":doc:`Q185S </variable/Q185S>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid "定年又は雇用契約の満了"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid ":doc:`Q185Y </variable/Q185Y>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:1
+msgid ":doc:`Q185T </variable/Q185T>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q185.rst:33
+msgid "現在有職で、前回調査時からの1年間に離職があった人への質問です。この項目は、選択肢や変数名が以下のような変化をたどってきました。"
+msgstr ""
+

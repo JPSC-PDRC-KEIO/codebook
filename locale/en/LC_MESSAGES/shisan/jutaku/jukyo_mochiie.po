@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/jukyo_mochiie.rst:3
+msgid "持ち家（一戸建て・マンション）について"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/jukyo_mochiie.rst:5
+msgid "昨年10月1日以降に転居して現在持ち家に住んでいる方、もしくは現在住んでいる土地・住宅を購入・増改築・名義変更した方に聞いています。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/jukyo_mochiie.rst:25
+msgid ""
+"第6回までは、「住宅取得年」は :doc:`Q376A </variable/Q376A>`、「住宅建築時期」は :doc:`Q376B "
+"</variable/Q376B>` にて聞いていました。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/jukyo_mochiie.rst:27
+msgid "調査票では元号でたずねていますが、レコードでは西暦下2桁に変換しています。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/jukyo_mochiie.rst:80
+msgid ":doc:`Q372 </variable/Q372>` は延べ床面積の実数をカテゴリー別にリコーディングしたものです。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/jukyo_mochiie.rst:83
+msgid ""
+"下記のように、第10回以降の「敷地の名義人（:doc:`Q375C </variable/Q375C>` 、 :doc:`Q375D "
+"</variable/Q375D>`）」の選択肢は第1～第9回と異なり、さらに複数回答となっています。ただし回答コードは第1～第9回に合わせてデータ処理しています。"
+msgstr ""
+

@@ -1,0 +1,47 @@
+============================================================
+受講理由
+============================================================
+
+
+質問文（複数回答）
+-----------------------
+受講した理由をお聞かせ下さい。（〇は２つまで）
+
+
+
+.. csv-table::
+   :header: "項目","変数"
+   :widths: 20,5
+
+   これまでの仕事を発展させるために役立ちそうな知識や資格などを得るため, :doc:`Q541A </variable/Q541A>`
+   これからの仕事に役立ちそうな知識や資格を得るため, :doc:`Q541B </variable/Q541B>`
+   進学の準備のため, :doc:`Q541C </variable/Q541C>`
+   教養を身につけるため, :doc:`Q541D </variable/Q541D>`
+   高度な勉強がしたいから, :doc:`Q541E </variable/Q541E>`
+   自分の視点を作りたいから, :doc:`Q541F </variable/Q541F>`
+   芸術・芸能・趣味を高めるため, :doc:`Q541G </variable/Q541G>`
+   健康・体力作りのため, :doc:`Q541H </variable/Q541H>`
+   時間を充実させるため, :doc:`Q541I </variable/Q541I>`
+   打ち込めるものがほしいから, :doc:`Q541J </variable/Q541J>`
+   家庭・日常生活に関する知識や技能を得るため, :doc:`Q541K </variable/Q541K>`
+   社会貢献（ボランティア等）のための知識や技能を得るため, :doc:`Q541L </variable/Q541L>`
+   その他, :doc:`Q541M </variable/Q541M>`
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q541A
+   /variable/Q541B
+   /variable/Q541C
+   /variable/Q541D
+   /variable/Q541E
+   /variable/Q541F
+   /variable/Q541G
+   /variable/Q541H
+   /variable/Q541I
+   /variable/Q541J
+   /variable/Q541K
+   /variable/Q541L
+   /variable/Q541M

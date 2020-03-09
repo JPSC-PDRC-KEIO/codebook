@@ -1,0 +1,54 @@
+
+============================================================
+特別な出来事（家族）による生活変化への対処方法
+============================================================
+
+
+質問文（複数回答）
+-----------------------
+そのための対処法としてどのようなことをしましたか。（〇はいくつでも）
+
+
+
+.. csv-table::
+   :header: 項目, 変数
+   :widths: 20,5
+
+   預貯金を取り崩した,:doc:`Q141A </variable/Q141A>`
+   資産を売却した,:doc:`Q141B </variable/Q141B>`
+   親やきょうだいの経済的援助を受けた,:doc:`Q141C </variable/Q141C>`
+   親戚、知人から借金した,:doc:`Q141D </variable/Q141D>`
+   金融機関から借金した,:doc:`Q141E </variable/Q141E>`
+   公的機関から資金を借りた,:doc:`Q141F </variable/Q141F>`
+   民間保険を解約した,:doc:`Q141G </variable/Q141G>`
+   民間保険の給付を受けた,:doc:`Q141H </variable/Q141H>`
+   労災保険など社会保険給付を請求した,:doc:`Q141I </variable/Q141I>`
+   公的機関や専門機関へ相談した,:doc:`Q141J </variable/Q141J>`
+   親やきょうだいに手助けや相談にのってもらった,:doc:`Q141K </variable/Q141K>`
+   友人の手助けや相談にのってもらった,:doc:`Q141L </variable/Q141L>`
+   宗教者に相談した,:doc:`Q141M </variable/Q141M>`
+   その他,:doc:`Q141N </variable/Q141N>`
+   特に何もしていない,:doc:`Q141O </variable/Q141O>`
+
+
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q141A
+   /variable/Q141B
+   /variable/Q141C
+   /variable/Q141D
+   /variable/Q141E
+   /variable/Q141F
+   /variable/Q141G
+   /variable/Q141H
+   /variable/Q141I
+   /variable/Q141J
+   /variable/Q141K
+   /variable/Q141L
+   /variable/Q141M
+   /variable/Q141N
+   /variable/Q141O

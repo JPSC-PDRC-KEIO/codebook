@@ -1,0 +1,261 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-20 13:49+0900\n"
+"PO-Revision-Date: 2020-02-20 14:19+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:3
+msgid "保有資格"
+msgstr "Qualification(s)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:7
+msgid "質問文（複数回答）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:8
+msgid ""
+"あなたは、次のような資格をお持ちですか。お持ちのものをお知らせくださ"
+"い。（〇はいくつでも）"
+msgstr ""
+"Do you have any of the following certificates or licenses? Please "
+"indicate all of the ones you hold. (Circle as many as apply to you.)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "項目"
+msgstr "items"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "変数"
+msgstr "Variable name"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "医師、歯科医師"
+msgstr "Medical doctor, Dentist"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28A </variable/P28A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "薬剤師"
+msgstr "Pharmacist"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28B </variable/P28B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "看護師、保健師"
+msgstr "Nurse, Public health nurse"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28C </variable/P28C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "歯科衛生士"
+msgstr "Dental hygienist"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28D </variable/P28D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "歯科技巧士"
+msgstr "Dental technician"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28E </variable/P28E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "臨床検査技師"
+msgstr "Clinical laboratory technician"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28F </variable/P28F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "社会福祉士、介護福祉士"
+msgstr "Certified social sorker, Certified care worker"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28G </variable/P28G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "栄養士、調理師"
+msgstr "Nutritionist, Cook"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28H </variable/P28H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "教員"
+msgstr "Teacher"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28I </variable/P28I>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "保母"
+msgstr "Nursery teacher"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28J </variable/P28J>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "弁護士"
+msgstr "Lawyer"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28K </variable/P28K>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "司法書士"
+msgstr "Judicial scrivener"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28L </variable/P28L>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "行政書士"
+msgstr "Administrative scrivener"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28M </variable/P28M>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "社保労務士"
+msgstr "Public consultants on social and labour insurance"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28N </variable/P28N>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "中小企業診断士"
+msgstr "Small and medium enterprise management consultant"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28O </variable/P28O>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "公認会計士"
+msgstr "Certified public accountant"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28P </variable/P28P>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "税理士"
+msgstr "Certified public tax accountant"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28Q </variable/P28Q>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "建築士"
+msgstr "Architects"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28R </variable/P28R>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "インテリア・コーディネーター"
+msgstr "Interior coordinator"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28S </variable/P28S>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "消費生活アドバイザー"
+msgstr "Consumer advisor"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28T </variable/P28T>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "理容師、美容師"
+msgstr "Barber, Beautician"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28U </variable/P28U>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "情報処理技術者"
+msgstr "Information technology engineer"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28V </variable/P28V>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "タクシーやバスなどの営業用運転免許"
+msgstr "Commercial driver's license for taxis, buses, etc."
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28W </variable/P28W>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "英検2級程度以上"
+msgstr "Passed english proficiency test (EIKEN) at level 2 or above"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28X </variable/P28X>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "簿記（2級以上）"
+msgstr "Bookkeeping (above the Level2)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28Y </variable/P28Y>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "その他"
+msgstr "Other answer"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28Z </variable/P28Z>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid "持っていない"
+msgstr "I do not have any licenses or certificates"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P28.rst:1
+msgid ":doc:`P28AA </variable/P28AA>`"
+msgstr ""

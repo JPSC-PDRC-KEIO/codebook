@@ -1,0 +1,503 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:3
+msgid "生活時間（第2回）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:6
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:8
+msgid ""
+"あなたとご主人の生活時間についてうかがいます。 "
+"日常の生活行動を次の６つに分けた場合、通常の平日、休日にそれぞれ合計でおおよそ何時間費やしていますか。 "
+"あなたの場合とご主人の場合についてお答えください。（10分単位でご記入ください） 同時に複数のことをした場合は、主なものの方でお答え下さい。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:13
+msgid "単位は、＿＿時間＿0分"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:16
+msgid "この質問の変数名は「時間」（末尾H）と「分」（末尾M）に分かれており、「分」は十の位のみ収録しています。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:19
+msgid "本人の生活時間（有配偶・無配偶共通）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid "平日"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid "休日"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid "＿＿時間"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid "＿分"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid "通勤・通学"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493AH </variable/Q493AH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493AM </variable/Q493AM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494AH </variable/Q494AH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494AM </variable/Q494AM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid "仕事"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493BH </variable/Q493BH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493BM </variable/Q493BM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494BH </variable/Q494BH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494BM </variable/Q494BM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid "学業（勉学）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493CH </variable/Q493CH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493CM </variable/Q493CM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494CH </variable/Q494CH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494CM </variable/Q494CM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid "家事・育児"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493DH </variable/Q493DH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493DM </variable/Q493DM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494DH </variable/Q494DH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494DM </variable/Q494DM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid "買い物"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493EH </variable/Q493EH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493EM </variable/Q493EM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494EH </variable/Q494EH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494EM </variable/Q494EM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid "移動（通勤・通学を除く）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493FH </variable/Q493FH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493FM </variable/Q493FM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494FH </variable/Q494FH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494FM </variable/Q494FM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid "学習・研究（学業以外）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493HH </variable/Q493HH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493HM </variable/Q493HM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494HH </variable/Q494HH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494HM </variable/Q494HM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid "スポーツ（観戦は除く）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid "趣味・娯楽"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493IH </variable/Q493IH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493IM </variable/Q493IM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494IH </variable/Q494IH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494IM </variable/Q494IM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid "社会奉仕（ボランティア）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493JH </variable/Q493JH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493JM </variable/Q493JM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494JH </variable/Q494JH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494JM </variable/Q494JM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid "交際・つき合い"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493KH </variable/Q493KH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493KM </variable/Q493KM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494KH </variable/Q494KH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494KM </variable/Q494KM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid "その他（テレビ・ラジオ・新聞・雑誌・休養・くつりぎなど）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493LH </variable/Q493LH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493LM </variable/Q493LM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494LH </variable/Q494LH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494LM </variable/Q494LM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid "上記以外の睡眠、食事、入浴、身の回りの用事など"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493MH </variable/Q493MH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q493MM </variable/Q493MM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494MH </variable/Q494MH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q494MM </variable/Q494MM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:40
+msgid "配偶者の生活時間（有配偶のみ）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495AH </variable/Q495AH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495AM </variable/Q495AM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496AH </variable/Q496AH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496AM </variable/Q496AM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495BH </variable/Q495BH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495BM </variable/Q495BM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496BH </variable/Q496BH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496BM </variable/Q496BM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495CH </variable/Q495CH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495CM </variable/Q495CM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496CH </variable/Q496CH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496CM </variable/Q496CM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495DH </variable/Q495DH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495DM </variable/Q495DM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496DH </variable/Q496DH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496DM </variable/Q496DM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495EH </variable/Q495EH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495EM </variable/Q495EM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496EH </variable/Q496EH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496EM </variable/Q496EM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495FH </variable/Q495FH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495FM </variable/Q495FM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496FH </variable/Q496FH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496FM </variable/Q496FM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495HH </variable/Q495HH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495HM </variable/Q495HM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496HH </variable/Q496HH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496HM </variable/Q496HM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495IH </variable/Q495IH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495IM </variable/Q495IM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496IH </variable/Q496IH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496IM </variable/Q496IM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495JH </variable/Q495JH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495JM </variable/Q495JM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496JH </variable/Q496JH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496JM </variable/Q496JM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495KH </variable/Q495KH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495KM </variable/Q495KM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496KH </variable/Q496KH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496KM </variable/Q496KM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495LH </variable/Q495LH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495LM </variable/Q495LM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496LH </variable/Q496LH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496LM </variable/Q496LM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495MH </variable/Q495MH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496MH </variable/Q496MH>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_2.rst:1
+msgid ":doc:`Q496MM </variable/Q496MM>`"
+msgstr ""
+

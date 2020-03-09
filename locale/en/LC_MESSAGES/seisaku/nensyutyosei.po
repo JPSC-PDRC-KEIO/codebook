@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/nensyutyosei.rst:3
+msgid "年収調整について"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/nensyutyosei.rst:6
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/nensyutyosei.rst:7
+msgid "あなたは昨年、年収が一定額を超えないように調整しましたか。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/nensyutyosei.rst:1
+msgid "項目"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/nensyutyosei.rst:1
+msgid "変数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/nensyutyosei.rst:1
+msgid "調整した／しなかった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/nensyutyosei.rst:1
+msgid ":doc:`Q1211 </variable/Q1211>`"
+msgstr ""
+

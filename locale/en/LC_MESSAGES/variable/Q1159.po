@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1159.rst:5
+msgid "子ども手当への意見：支給額の減額"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1159.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1159.rst:11
+msgid "Q1159"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1159.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1159.rst:18
+msgid "子ども手当に対するお考えをお聞きします。これまでは中学生までの子ども一人につき1カ月、一律13.000円の支給でした。(3)今後、支給額は一人当たり数千円程度減額される可能性がありますが、このことについてどう思いますか。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1159.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1159.rst:27
+msgid "現状の額は維持すべき"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1159.rst:29
+msgid "数千円程度の減額はやむを得ない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1159.rst:31
+msgid "もっと減額すべき"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1159.rst:33
+msgid "むしろ増額すべき"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1159.rst:35
+msgid "支給しなくてよい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1159.rst:42
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1159.rst:48
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1159.rst:54
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1159.rst:55
+msgid "6"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1159.rst:60
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1159.rst:66
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1159.rst:71
+msgid "p19_3"
+msgstr ""
+
+#~ msgid "変数名: Q1159"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

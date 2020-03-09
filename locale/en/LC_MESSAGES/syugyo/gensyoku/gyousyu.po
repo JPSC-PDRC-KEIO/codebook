@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst:3
+msgid "業種"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst:7
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst:9
+msgid "その勤め先の業種は次のどれに該当しますか。（派遣社員の方は、派遣元の業種についてお答えください）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst:13
+msgid ""
+"|nt1| 第1回から第20回までは12選択肢（:doc:`Q146 "
+"</variable/Q146>`）に分類し、第21回からは16選択肢（:doc:`Q1182 "
+"</variable/Q1182>`）に分類して聞いています。 ただし旧分類に基づいた変数（Q146）は、第21回以降のデータに残しています。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst:17
+msgid ""
+"なお、配偶者についても旧分類 :doc:`Q217 </variable/Q217>` 、新分類 :doc:`Q1183 "
+"</variable/Q1183>` に分かれています。"
+msgstr ""
+

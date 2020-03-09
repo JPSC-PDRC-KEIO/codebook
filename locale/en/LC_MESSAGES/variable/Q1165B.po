@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:5
+msgid "３歳児神話（3歳までは母親は育児に専念）について"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:11
+msgid "Q1165B"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:18
+msgid "次のような意見について、あなたはどのように思いますか。あなたのお気持ちにもっとも近いものをそれぞれ１つ選んでください。（それぞれ〇は１つずつ）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:21
+msgid "子どもが3歳くらいまでは、母親は仕事を持たず育児に専念すべきだ"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:27
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:30
+msgid "そう思う"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:32
+msgid "どちらかといえばそう思う"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:34
+msgid "どちらかといえばそう思わない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:36
+msgid "そう思わない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:43
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:49
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:55
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:56
+msgid "5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:61
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:67
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:72
+msgid "p19_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:74
+msgid "p20_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:76
+msgid "p21abcd_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:78
+msgid "p21e_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:80
+msgid "p22_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:82
+msgid "p23_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:84
+msgid "p24_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:86
+msgid "p25_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1165B.rst:88
+msgid "p26_4"
+msgstr ""
+
+#~ msgid "変数名: Q1165B"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

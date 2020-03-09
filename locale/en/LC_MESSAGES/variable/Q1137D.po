@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:5
+msgid "子どもの教育関係費用（第1子）：学校区分"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:11
+msgid "Q1137D"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:18
+msgid "この1年間（調査前年10月～調査年9月)にお子さんにかかった教育関係の費用は大体いくらぐらいでしたか。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:21
+msgid "第1子の学校区分"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:27
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:30
+msgid "国立"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:32
+msgid "公立"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:34
+msgid "私立"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:41
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:47
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:53
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:54
+msgid "4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:59
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:65
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:70
+msgid "p18_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:72
+msgid "p19_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:74
+msgid "p20_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:76
+msgid "p21abcd_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:78
+msgid "p21e_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:80
+msgid "p22_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:82
+msgid "p23_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:84
+msgid "p24_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:86
+msgid "p25_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1137D.rst:88
+msgid "p26_4"
+msgstr ""
+
+#~ msgid "変数名: Q1137D"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:5
+msgid "借入れ状況：教育費・借入先理由3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:11
+msgid "Q428F"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:18
+msgid "現在の借入れについて、以下の項目にご記入下さい。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:21
+msgid "教育費・理由3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:27
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:30
+msgid "そこでしか借りられなかった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:32
+msgid "手続きが簡単だった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:34
+msgid "時間的に一番早く借りられた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:36
+msgid "営業時間が長く、夜も開いていた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:38
+msgid "土曜・日曜にも借りられた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:40
+msgid "金利が低かった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:42
+msgid "その機関の人から熱心に勧められた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:44
+msgid "友人・知人に勧められた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:46
+msgid "借入れできるカードを持っていた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:48
+msgid "返済方法が簡単そうだった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:50
+msgid "たまたま近くにあった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:52
+msgid "有名で信頼できると思った"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:54
+msgid "気軽に借りられるから"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:56
+msgid "金融機関から借金をしたくなかった"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:58
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:65
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:71
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:77
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:83
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:89
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:94
+msgid "p2_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:96
+msgid "p3_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:98
+msgid "p4_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:100
+msgid "p5a_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:102
+msgid "p5b_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:104
+msgid "p6_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:106
+msgid "p7_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:108
+msgid "p8_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:110
+msgid "p9_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:112
+msgid "p10_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:114
+msgid "p11ab_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:116
+msgid "p11c_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:118
+msgid "p12_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:120
+msgid "p13_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:122
+msgid "p14_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:124
+msgid "p15_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:126
+msgid "p16abc_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:128
+msgid "p16d_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:130
+msgid "p17_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:132
+msgid "p18_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q428F.rst:134
+msgid "p19_2"
+msgstr ""
+
+#~ msgid "変数名: Q428F"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

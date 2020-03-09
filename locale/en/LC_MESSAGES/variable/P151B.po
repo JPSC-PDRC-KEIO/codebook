@@ -1,0 +1,138 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:5
+msgid "配偶者に求める要素・第2位"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:11
+msgid "P151B"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:18
+msgid "あなたは、結婚相手には、どのような要素を重視しますか。最も近いものから順に３つ（3位まで）を選んでください。（〇はそれぞれ１つずつ）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:27
+msgid "親しい友人"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:29
+msgid "子育てや人生に立ち向かう同志"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:31
+msgid "一心同体の人"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:33
+msgid "趣味を共有する人"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:35
+msgid "経済的に頼れる人"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:37
+msgid "父親のように保護してくれる人"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:39
+msgid "心の支えになる人"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:41
+msgid "性的に魅力のある人"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:43
+msgid "子どものように甘えてくれる人"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:45
+msgid "空気のような存在"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:47
+msgid "可愛い人"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:49
+msgid "学歴が高く、安定した仕事に就いている人"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:51
+msgid "家庭を第一に考える人"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:53
+msgid "自分にない性格を持っている人"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:55
+msgid "要旨のいい人"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:62
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:68
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:74
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:75
+msgid "16"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:80
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:86
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P151B.rst:91
+msgid "p1_4"
+msgstr ""
+
+#~ msgid "変数名: P151B"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

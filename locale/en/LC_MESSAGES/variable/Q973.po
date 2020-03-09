@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:5
+msgid "老後の経済的備えとしての公的年金制度の信頼度"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:11
+msgid "Q973"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:18
+msgid "あなたの老後の経済的な備えとして、公的年金制度は頼りになると思いますか。（〇は１つ）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:27
+msgid "やはり公的年金が老後の経済生活（収入）の中心になると思うので頼りにしている"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:29
+msgid "頼りにしたいが、給付される額が現在より低くなりそうで不安だ"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:31
+msgid "高齢化が進むので、公的年金の制度そのものが成りゆかなくなるのではと心配している"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:33
+msgid "公的年金はあてにしていない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:35
+msgid "その他（具体的に　　　　　　　）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:42
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:48
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:54
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:55
+msgid "6"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:60
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:66
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:71
+msgid "p4_4"
+msgstr ""
+
+#~ msgid "変数名: Q973"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

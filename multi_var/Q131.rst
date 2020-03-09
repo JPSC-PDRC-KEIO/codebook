@@ -1,0 +1,52 @@
+============================================================
+特別な出来事（本人）
+============================================================
+
+
+質問文（複数回答）
+-----------------------
+この1年間（調査前年10月～調査年9月）にあなた自身に次のような出来事がありましたか。（〇はいくつでも）
+
+
+
+.. csv-table::
+   :header: 項目, 変数
+   :widths: 20,5
+
+   新たに仕事についた,:doc:`Q131A </variable/Q131A>`
+   転勤や単身赴任,:doc:`Q131M </variable/Q131M>`
+   職場または仕事を変えた,:doc:`Q131B </variable/Q131B>`
+   仕事をやめた・希望退職,:doc:`Q131C </variable/Q131C>`
+   失業（解雇された、退職勧告があった）,:doc:`Q131N </variable/Q131N>`
+   倒産・破産,:doc:`Q131O </variable/Q131O>`
+   大学（院）や専門学校などに入学した,:doc:`Q131D </variable/Q131D>`
+   新しく習い事などを始めた,:doc:`Q131E </variable/Q131E>`
+   PTAや生協、その他サークル・団体等の役員を引き受けた,:doc:`Q131F </variable/Q131F>`
+   手術や長期の療養が必要な重い病気にかかった,:doc:`Q131G </variable/Q131G>`
+   うつ状態などの精神的な問題があった,:doc:`Q131H </variable/Q131H>`
+   ローンやクレジットなどを含めた消費者トラブルにあった,:doc:`Q131I </variable/Q131I>`
+   事故や災害にあった,:doc:`Q131J </variable/Q131J>`
+   その他特別な出来事があった,:doc:`Q131K </variable/Q131K>`
+   特別なことは何もなかった,:doc:`Q131L </variable/Q131L>`
+
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q131A
+   /variable/Q131M
+   /variable/Q131B
+   /variable/Q131C
+   /variable/Q131N
+   /variable/Q131O
+   /variable/Q131D
+   /variable/Q131E
+   /variable/Q131F
+   /variable/Q131G
+   /variable/Q131H
+   /variable/Q131I
+   /variable/Q131J
+   /variable/Q131K
+   /variable/Q131L

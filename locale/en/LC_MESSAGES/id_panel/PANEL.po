@@ -1,0 +1,262 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-12 16:29+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:3
+msgid "調査回数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:6
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:8
+msgid "PANEL"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:11
+msgid "説明"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:13
+msgid "1993年の第1回調査を起点とした、通算調査回数を示すコードです。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:15
+msgid ""
+"第5、11、16、21回の調査で新規サンプルを追加しています。 これらの調査回のデータには、継続サンプルと新規サンプルの2種類 "
+"（例えば5回なら5aと5b、11回なら11ab 11cのデータ）が ありますが、それぞれのデータに収録されているPANELの値は同じです。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:22
+msgid "調査回数と西暦・和暦の対応"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:24
+msgid "各調査の実施時期は以下の通りです。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "西暦"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "和暦"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "1993"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "平成5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "1994"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "6"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "1995"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "7"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "1996"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "8"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "1997"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "9"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "新規サンプル追加"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "1998"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "10"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "1999"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "11"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "2000"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "12"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "2001"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "13"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "2002"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "14"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "2003"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "15"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "2004"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "16"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "2005"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "17"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "2006"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "18"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "2007"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "19"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "2008"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "20"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "2009"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "21"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "2010"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "22"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "2011"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "23"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "2012"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "24"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "2013"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/PANEL.rst:1
+msgid "25"
+msgstr ""
+
+#~ msgid "変数名：PANEL"
+#~ msgstr ""
+

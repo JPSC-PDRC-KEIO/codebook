@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:5
+msgid "買い物行動・シャンプー・購入先"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:11
+msgid "Q921C"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:18
+msgid "次の(1)～(9)のものの購入について、それぞれA：価格、B：買うときに重視する点、C：どこで買うか（購入先）、D：購入先の選定理由の選択肢の中から最もあてはまると思うものを１つだけお答えください。日頃買わないものについても「買うとしたら」でお答え下さい。ご主人や子どものものについては、あなたが買う場合でお答えください。（〇は(1)～(9)のそれぞれA～Dそれぞれ１つずつ）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:27
+msgid "一般小売店・専門店"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:29
+msgid "スーパー"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:31
+msgid "ディスカウントストア"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:33
+msgid "コンビニエンスストア"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:35
+msgid "デパート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:37
+msgid "通信販売・訪問販売等"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:39
+msgid "生協"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:41
+msgid "海外"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:48
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:54
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:60
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:61
+msgid "9"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:66
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:72
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:77
+msgid "p3_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q921C.rst:79
+msgid "p6_4"
+msgstr ""
+
+#~ msgid "変数名: Q921C"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

@@ -1,0 +1,32 @@
+============================================================
+子どもの教育希望理由
+============================================================
+
+質問文
+--------------------------------
+その理由は何ですか。（○はいくつでも）
+
+.. csv-table::
+   :header: "項目", "変数名"
+   :widths: 20,5
+
+   就職等で有利になるから,:doc:`Q519A </variable/Q519A>`
+   結婚等で有利になるから,:doc:`Q519B </variable/Q519B>`
+   社会的に高い評価を得ることができるから,:doc:`Q519C </variable/Q519C>`
+   よい教育を受けさせたいため,:doc:`Q519D </variable/Q519D>`
+   よい友人を作るため,:doc:`Q519E </variable/Q519E>`
+   何となく,:doc:`Q519F </variable/Q519F>`
+   その他,:doc:`Q519G </variable/Q519G>`
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q519A
+   /variable/Q519B
+   /variable/Q519C
+   /variable/Q519D
+   /variable/Q519E
+   /variable/Q519F
+   /variable/Q519G

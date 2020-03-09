@@ -1,0 +1,139 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-09 15:47+0900\n"
+"PO-Revision-Date: 2020-03-09 11:41+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:5
+#, fuzzy
+msgid "最終学歴（実父）"
+msgstr "Educational achievement at the last school (father)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:11
+msgid "Q1023"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:18
+msgid "あなたの父親の最終学歴は次のうちどれですか。（中退は卒業に含めないでください）"
+msgstr ""
+"What was the last school your father graduated from? (Exclude a school if"
+" he dropped out of it.)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:24
+msgid "選択肢 / 記入欄"
+msgstr "Choices / Entry field"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:27
+msgid "中学校"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:29
+msgid "高等学校"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:31
+msgid "専門学校・専修学校"
+msgstr "Vocational school or Specialized training school"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:33
+msgid "短大"
+msgstr "Junior college"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:35
+msgid "高専"
+msgstr "College of technology"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:37
+msgid "4年制大学"
+msgstr "4 year College or University (includes medical and dental schools)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:39
+msgid "大学院"
+msgstr "Graduate school"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:41
+msgid "その他"
+msgstr "Other"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:48
+msgid "桁あふれコード"
+msgstr "Outside-code-range responses"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:54
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:60
+msgid "無回答コード"
+msgstr "Non-Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:61
+msgid "9"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:66
+msgid "備考"
+msgstr "Remarks"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:68
+msgid "この質問項目の変数名と選択肢には調査回によって変更があります。詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`)をご参照ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:72
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:77
+msgid "p5b_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:79
+msgid "p11c_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:81
+msgid "p16d_4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:83
+msgid "p21e_4"
+msgstr ""
+
+#~ msgid "その他（　　　　　　　　　　　　）"
+#~ msgstr "Other"
+
+#~ msgid "中学校（旧制小学校・高等小学校）"
+#~ msgstr ""
+#~ "Junior-high school (elementary school/senior"
+#~ " elementary school in old-education-"
+#~ "system)"
+
+#~ msgid "高等学校（旧制中学）"
+#~ msgstr "High school (junior high school in old-education-system)"
+
+#~ msgid "この質問項目の変数名と選択肢は第2回以降現在のものに変更されました。詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`)をご参照ください。"
+#~ msgstr ""
+

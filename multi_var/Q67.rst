@@ -1,0 +1,48 @@
+============================================================
+世帯構成の変動
+============================================================
+
+
+質問文（複数回答）
+----------------------
+
+この1年間（調査前年10月～調査年9月）にあなたの世帯にどのような変動がありましたか。（〇はいくつでも）
+
+
+
+.. csv-table::
+   :header: "項目", "変数"
+   :widths: 20,5
+
+   あなたの子どもが生まれた,:doc:`Q67A </variable/Q67A>`
+   あなた、または夫の親を引き取った,:doc:`Q67B </variable/Q67B>`
+   世帯員が単身赴任から戻った,:doc:`Q67C </variable/Q67C>`
+   その他（それ以外の理由で世帯員が増えた）,:doc:`Q67D </variable/Q67D>`
+   世帯員が単身赴任で転出した,:doc:`Q67E </variable/Q67E>`
+   世帯員が転出して世帯員が減った,:doc:`Q67F </variable/Q67F>`
+   世帯員が死亡して世帯員が減った,:doc:`Q67G </variable/Q67G>`
+   その他（それ以外の理由で世帯員が減った）,:doc:`Q67H </variable/Q67H>`
+   あなたが結婚して別の世帯を形成した(有配偶者のみ),:doc:`Q67I </variable/Q67I>`
+   あなたが離婚・別居して別の世帯を形成した,:doc:`Q67J </variable/Q67J>`
+   あなた（とその家族）が親の家から出て、独立した世帯を形成した,:doc:`Q67K </variable/Q67K>`
+   あなた（とその家族）が親の家に入って、同居世帯を形成した,:doc:`Q67L </variable/Q67L>`
+   特に何もない,:doc:`Q67M </variable/Q67M>`
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q67A
+   /variable/Q67B
+   /variable/Q67C
+   /variable/Q67D
+   /variable/Q67E
+   /variable/Q67F
+   /variable/Q67G
+   /variable/Q67H
+   /variable/Q67I
+   /variable/Q67J
+   /variable/Q67K
+   /variable/Q67L
+   /variable/Q67M

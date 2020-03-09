@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokugyo_rireki.rst:3
+msgid "初回調査時までの職歴一覧"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokugyo_rireki.rst:6
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokugyo_rireki.rst:8
+msgid "あなたが、仕事についていたかどうかを、あなたが満18歳の時から昨年までの1年ごとにお答えください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokugyo_rireki.rst:10
+msgid "1年間に複数の形態があった場合は、もっとも長いものでお答え下さい。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokugyo_rireki.rst:285
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokugyo_rireki.rst:287
+msgid "コーホートAにはコーホートBとともに第5回で質問しています（37才まで）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokugyo_rireki.rst:288
+msgid "第11回調査で選択肢の「自宅で賃仕事」を「自宅で仕事」に変更しました。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokugyo_rireki.rst:289
+msgid "第11回調査で選択肢の文言に「派遣社員」を加えました。"
+msgstr ""
+

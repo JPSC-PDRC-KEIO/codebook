@@ -1,0 +1,40 @@
+
+============================================================
+特別な出来事（家族）による生活変化
+============================================================
+
+
+質問文（複数回答）
+-----------------------
+その出来事によって、生活に大きな変化がありましたか。（〇はいくつでも）
+
+
+
+.. csv-table::
+   :header: 項目, 変数
+   :widths: 20,5
+
+   大きな費用がかかった,:doc:`Q140A </variable/Q140A>`
+   収入や資産が低下した,:doc:`Q140B </variable/Q140B>`
+   世話（介護や看病を含む）が大変だった,:doc:`Q140C </variable/Q140C>`
+   家族内の人間関係がうまくいかなくなった,:doc:`Q140D </variable/Q140D>`
+   あなた自身が精神的に落ち込んだ,:doc:`Q140E </variable/Q140E>`
+   離婚・別居した,:doc:`Q140F </variable/Q140F>`
+   その他,:doc:`Q140G </variable/Q140G>`
+   特に変化はなかった,:doc:`Q140H </variable/Q140H>`
+
+
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q140A
+   /variable/Q140B
+   /variable/Q140C
+   /variable/Q140D
+   /variable/Q140E
+   /variable/Q140F
+   /variable/Q140G
+   /variable/Q140H

@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:5
+msgid "家族での食事形態の増減・簡便食品・冷凍食品"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:11
+msgid "Q876D"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:18
+msgid "家族で食事をする時、次の食事の形態は昨年に比べて回数が増えていますか。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:21
+msgid "温めるだけですぐ食べられる簡便食品・冷凍食品など"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:27
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:30
+msgid "かなり増えている"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:32
+msgid "わずかに増えている"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:34
+msgid "変わらない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:36
+msgid "わずかに減っている"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:38
+msgid "かなり減っている"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:45
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:51
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:57
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:58
+msgid "6"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:63
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:69
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q876D.rst:74
+msgid "p6_4"
+msgstr ""
+
+#~ msgid "変数名: Q876D"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

@@ -1,0 +1,230 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:5
+msgid "労働時間（配偶者）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:11
+msgid "Q223"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:18
+msgid "実際に勤務する労働時間は通常週にどのくらいですか。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:27
+msgid "15時間未満"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:29
+msgid "15～21時間"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:31
+msgid "22～34時間"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:33
+msgid "35～42時間"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:35
+msgid "43～45時間"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:37
+msgid "46～48時間"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:39
+msgid "49～54時間"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:41
+msgid "55～59時間"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:43
+msgid "60～64時間"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:45
+msgid "65時間以上"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:52
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:58
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:64
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:65
+msgid "11"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:70
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:76
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:81
+msgid "p2_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:83
+msgid "p3_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:85
+msgid "p4_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:87
+msgid "p5a_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:89
+msgid "p5b_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:91
+msgid "p6_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:93
+msgid "p7_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:95
+msgid "p8_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:97
+msgid "p9_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:99
+msgid "p10_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:101
+msgid "p11ab_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:103
+msgid "p11c_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:105
+msgid "p12_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:107
+msgid "p13_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:109
+msgid "p14_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:111
+msgid "p15_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:113
+msgid "p16abc_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:115
+msgid "p16d_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:117
+msgid "p17_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:119
+msgid "p18_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:121
+msgid "p19_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:123
+msgid "p20_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:125
+msgid "p21abcd_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:127
+msgid "p21e_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:129
+msgid "p22_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:131
+msgid "p23_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:133
+msgid "p24_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:135
+msgid "p25_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:137
+msgid "p26_1"
+msgstr ""
+
+#~ msgid "変数名: Q223"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

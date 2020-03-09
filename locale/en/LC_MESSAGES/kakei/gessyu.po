@@ -1,0 +1,36 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/gessyu.rst:3
+msgid "月収（手取り）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/gessyu.rst:6
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/gessyu.rst:7
+msgid "この９月の手取り収入（収入総額から税金、社会保険料を差し引いた額）はどれくらいですか。 （ボーナス、臨時の給与は除きます）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/gessyu.rst:47
+msgid "月の勤労収入についての質問にはほかに、本人の税込みの「月給額（:doc:`Q149</variable/Q149>`）」を聞いたものがあります。ただし、同質問では千円単位までの記入、本質問では万単位での記入となっています。"
+msgstr ""
+

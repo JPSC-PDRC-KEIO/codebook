@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst:3
+msgid "住宅ローンの借入れ状況"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst:6
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst:8
+msgid "現在の借り入れについて、以下の項目にご記入ください。「1.借りた目的」「2.借入先」は、次ページのコード表からあてはまる「コード番号」をご記入ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst:137
+msgid "**コード表**"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst:141
+msgid "借りた目的"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst:142
+msgid "借入先"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+msgid "01 借り替え"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+msgid "02 土地の購入"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+msgid "03 住宅（土地も含む）の購入"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+msgid "04 建物の建築"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+msgid "05 増改築"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+msgid "06 別荘の購入"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+msgid "11 銀行などの金融機関"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+msgid "12 住宅金融支援機構・年金融資・財形融資・公団融資・自治体融資などの公的融資"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+msgid "13 社内融資"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+msgid "14 妻の親"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+msgid "15 夫の親"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+msgid "16 その他"
+msgstr ""
+

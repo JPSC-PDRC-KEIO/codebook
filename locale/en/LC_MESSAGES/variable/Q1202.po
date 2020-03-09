@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1202.rst:5
+msgid "消費税率の設定への意見"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1202.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1202.rst:11
+msgid "Q1202"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1202.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1202.rst:18
+msgid "今後の「消費税率の設定の仕方」について、あなたのお考えは次のどれに近いですか。（〇は１つだけ）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1202.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1202.rst:27
+msgid "全ての商品・サービスで同じ税率がよい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1202.rst:29
+msgid "生活に欠かせない飲食料品だけは、税率を下げる方がよい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1202.rst:31
+msgid "酒や外食も含めた飲食料品全般は、税率を下げる方がよい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1202.rst:33
+msgid "飲食料品に限らず商品・サービスの内容や特性に合せて、税率に差をつける方がよい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1202.rst:40
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1202.rst:46
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1202.rst:52
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1202.rst:53
+msgid "5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1202.rst:58
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1202.rst:64
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1202.rst:69
+msgid "p23_3"
+msgstr ""
+
+#~ msgid "変数名: Q1202"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

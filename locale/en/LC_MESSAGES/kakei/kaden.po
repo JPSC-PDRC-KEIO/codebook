@@ -1,0 +1,176 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-28 14:33+0900\n"
+"PO-Revision-Date: 2020-01-28 19:43+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:3
+msgid "耐久消費財"
+msgstr "Durable consumer goods"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:6
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:8
+msgid "現在、あなた方ご夫婦は次のものをいくつ保有していますか。その台数を記入してください。持っていない場合は、0を ご記入ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:10
+msgid "また、この1年間に購入した方は、その購入台数と購入金額を記入してください。（2台以上購入した場合は、合計金額を記入してください）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:13
+msgid "選択肢"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid "項目"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid "現在の保有台数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid "そのうちこの1年間に購入した台数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid "その購入金額"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid "自動食器洗い機"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q444F</variable/Q444F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q450A</variable/Q450A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q450B</variable/Q450B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid "衣類乾燥機付き洗たく機"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q444AF</variable/Q444AF>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q1146A</variable/Q1146A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q1146B</variable/Q1146B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid "ルームエアコン"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q444M</variable/Q444M>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q457A</variable/Q457A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q457B</variable/Q457B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid "カラーテレビ"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q444Q</variable/Q444Q>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q461A</variable/Q461A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q461B</variable/Q461B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid "パソコン"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q444AB</variable/Q444AB>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q813A</variable/Q813A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q813B</variable/Q813B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid "乗用車"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q444X</variable/Q444X>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q468A</variable/Q468A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q468B</variable/Q468B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst
+msgid "9月の利用料（通信、その他の"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst
+msgid "サービスを含めた料金）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid "携帯電話・スマートフォン （ご家族全員分の台数）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q444AG</variable/Q444AG>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:1
+msgid ":doc:`Q1147</variable/Q1147>`"
+msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

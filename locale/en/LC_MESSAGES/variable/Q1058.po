@@ -1,0 +1,178 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:5
+msgid "義親の住居形態　義母"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:11
+msgid "Q1058"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:18
+msgid "ご主人の親が現在お住まいの住居は、次のどれになりますか。父親、母親それぞれについてお答え下さい。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:27
+msgid "一戸建・持ち家（敷地は自己所有・区分所有）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:29
+msgid "一戸建・持ち家（敷地は借地）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:31
+msgid "マンション・持ち家"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:33
+msgid "民間の賃貸住宅"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:35
+msgid "公営・公団・公社などの賃貸住宅"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:37
+msgid "社宅・寮（借り上げ社宅を含む）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:39
+msgid "介護施設・有料老人ホーム・ケア付きの高齢者住宅など"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:41
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:43
+msgid "死亡"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:50
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:56
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:62
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:63
+msgid "10"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:68
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:74
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:79
+msgid "p12_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:81
+msgid "p13_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:83
+msgid "p14_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:85
+msgid "p15_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:87
+msgid "p16abc_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:89
+msgid "p16d_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:91
+msgid "p17_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:93
+msgid "p18_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:95
+msgid "p19_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:97
+msgid "p20_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:99
+msgid "p21abcd_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:101
+msgid "p21e_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:103
+msgid "p22_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:105
+msgid "p23_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:107
+msgid "p24_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:109
+msgid "p25_3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1058.rst:111
+msgid "p26_3"
+msgstr ""
+
+#~ msgid "変数名: Q1058"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

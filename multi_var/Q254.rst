@@ -1,0 +1,62 @@
+
+============================================================
+現職（職種）の選択理由（配偶者）
+============================================================
+
+
+質問文（複数回答）
+-----------------------
+なぜ、ご主人は現在の職種を選びましたか。（〇はいくつでも）
+
+
+
+.. csv-table::
+   :header: "項目", "変数"
+   :widths: 20,5
+
+   収入・給与がよい,:doc:`Q254A </variable/Q254A>`
+   休日、休暇が多い,:doc:`Q254B </variable/Q254B>`
+   拘束時間が少ない、残業が少ない,:doc:`Q254C </variable/Q254C>`
+   労働時間が自由になる,:doc:`Q254D </variable/Q254D>`
+   転勤がない、少ない,:doc:`Q254E </variable/Q254F>`
+   安定している、失業のおそれがない,:doc:`Q254F </variable/Q254F>`
+   将来発展する可能性がある,:doc:`Q254G </variable/Q254G>`
+   組織にしばられない,:doc:`Q254H </variable/Q254H>`
+   技術が身につく,:doc:`Q254I </variable/Q254I>`
+   能力が生かせる,:doc:`Q254J </variable/Q254J>`
+   仕事内容に興味がある,:doc:`Q254K </variable/Q254K>`
+   外国に行ける,:doc:`Q254L </variable/Q254L>`
+   結婚相手が見つかる,:doc:`Q254M </variable/Q254M>`
+   学校がすすめるので,:doc:`Q254N </variable/Q254N>`
+   家族がすすめるので,:doc:`Q254O </variable/Q254O>`
+   会社ですすめられた（自分で選んだのではない）,:doc:`Q254P </variable/Q254P>`
+   家業だから,:doc:`Q254Q </variable/Q254Q>`
+   その他,:doc:`Q254R </variable/Q254R>`
+
+.. note::
+   配偶者が現在有職の人への質問で、1年間に、配偶者の就業状態の変化があった人に聞いています（初回調査時には聞いていません。また第11回以降は聞いていません）。
+
+|
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q254A
+   /variable/Q254B
+   /variable/Q254C
+   /variable/Q254D
+   /variable/Q254E
+   /variable/Q254F
+   /variable/Q254G
+   /variable/Q254H
+   /variable/Q254I
+   /variable/Q254J
+   /variable/Q254K
+   /variable/Q254L
+   /variable/Q254M
+   /variable/Q254N
+   /variable/Q254O
+   /variable/Q254P
+   /variable/Q254Q
+   /variable/Q254R

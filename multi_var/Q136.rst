@@ -1,0 +1,40 @@
+
+============================================================
+事故・災害・消費者トラブル
+============================================================
+
+
+質問文（複数回答）
+----------------------------
+| この1年間（調査前年10月～調査年9月）にあなた自身が事故や災害、消費者トラブルにあわれた方にうかがいます。
+| その事故や災害、消費者トラブルは何でしたか。（〇はいくつでも）
+
+
+
+.. csv-table::
+   :header: 項目, 変数
+   :widths: 20,5
+
+   自然災害,:doc:`Q136H </variable/Q136H>`
+   交通事故,:doc:`Q136A </variable/Q136A>`
+   火災,:doc:`Q136B </variable/Q136B>`
+   労働災害,:doc:`Q136C </variable/Q136C>`
+   盗難・犯罪,:doc:`Q136D </variable/Q136D>`
+   商品被害,:doc:`Q136E </variable/Q136E>`
+   クレジットなどの債務返済困難,:doc:`Q136F </variable/Q136F>`
+   その他,:doc:`Q136G </variable/Q136G>`
+
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q136H
+   /variable/Q136A
+   /variable/Q136B
+   /variable/Q136C
+   /variable/Q136D
+   /variable/Q136E
+   /variable/Q136F
+   /variable/Q136G

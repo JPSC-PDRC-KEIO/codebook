@@ -1,0 +1,206 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:5
+msgid "年収：合計（夫婦共通）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:11
+msgid "Q298D"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:18
+msgid "あなた方ご夫婦、及びご夫婦以外の方が世帯員にいらっしゃればその方が昨年1年間（調査前年1月～12月）に得た収入は、財産収入、社会保障給付、親からの仕送りなども含め、全体でいくらでしたか。次の5区分でお答え下さい。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:21
+msgid "夫婦共通の年収合計"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:27
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:29
+msgid "＿＿＿万円"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:35
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:36
+msgid "9998"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:41
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:47
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:48
+msgid "9999"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:53
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:59
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:64
+msgid "p1_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:66
+msgid "p2_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:68
+msgid "p3_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:70
+msgid "p4_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:72
+msgid "p5a_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:74
+msgid "p5b_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:76
+msgid "p6_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:78
+msgid "p7_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:80
+msgid "p8_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:82
+msgid "p9_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:84
+msgid "p10_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:86
+msgid "p11ab_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:88
+msgid "p11c_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:90
+msgid "p12_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:92
+msgid "p13_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:94
+msgid "p14_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:96
+msgid "p15_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:98
+msgid "p16abc_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:100
+msgid "p16d_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:102
+msgid "p17_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:104
+msgid "p18_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:106
+msgid "p19_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:108
+msgid "p20_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:110
+msgid "p21abcd_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:112
+msgid "p21e_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:114
+msgid "p22_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:116
+msgid "p23_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:118
+msgid "p24_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:120
+msgid "p25_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q298D.rst:122
+msgid "p26_2"
+msgstr ""
+
+#~ msgid "変数名: Q298D"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P83.rst:5
+msgid "配偶者控除制度への意見"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P83.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P83.rst:11
+msgid "P83"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P83.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P83.rst:18
+msgid "このような制度があることをどう思いますか。（〇は１つ）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P83.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P83.rst:27
+msgid "限度額を超える人と超えない人の間で格差が生じるから、配偶者控除を廃止した方がよい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P83.rst:29
+msgid "このような制度があるために、パートタイマーの就業条件は改善されないのだから、制度を廃止した方がよい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P83.rst:31
+msgid "課税や年金加入対象となる限度額を引き上げた方がよい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P83.rst:33
+msgid "年収の高い人は税金を多く払うのは当然で、いまのままでよい"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P83.rst:40
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P83.rst:46
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P83.rst:52
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P83.rst:53
+msgid "5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P83.rst:58
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P83.rst:64
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/P83.rst:69
+msgid "p1_3"
+msgstr ""
+
+#~ msgid "変数名: P83"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

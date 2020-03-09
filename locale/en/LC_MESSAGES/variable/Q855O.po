@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:5
+msgid "職歴　32歳"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:11
+msgid "Q855O"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:18
+msgid "あなたが、仕事についていたかどうかを、あなたが満18歳の時から昨年までの1年ごとにお答えください。1年間に複数の形態があった場合は、もっとも長いものでお答え下さい。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:27
+msgid "自営業・家族従業・自由業"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:29
+msgid "常勤の職員・従業者"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:31
+msgid "パート・アルバイト"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:33
+msgid "嘱託・派遣社員・その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:35
+msgid "自宅で仕事（内職）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:37
+msgid "学生"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:39
+msgid "無職"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:46
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:52
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:58
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:59
+msgid "8"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:64
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:70
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855O.rst:75
+msgid "p5a_5"
+msgstr ""
+
+#~ msgid "変数名: Q855O"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

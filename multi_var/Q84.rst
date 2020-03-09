@@ -1,0 +1,49 @@
+
+============================================================
+死亡した親族
+============================================================
+
+
+質問文（複数回答）
+-----------------------
+同居でも別居でもこの1年間にご親族で死亡された方がいらっしゃる方にお聞きします。
+死亡されたのはどなたですか。（〇はいくつでも）
+
+
+
+.. csv-table::
+   :header: "", "有配偶", "無配偶"
+   :widths: 20,10,10
+
+   あなたの父,:doc:`Q84A </variable/Q84A>`,:doc:`Q85A </variable/Q85A>`
+   あなたの母,:doc:`Q84B </variable/Q84B>`,:doc:`Q85B </variable/Q85B>`
+   夫の父,:doc:`Q84C </variable/Q84C>`, "--"
+   夫の母,:doc:`Q84D </variable/Q84D>`, "--"
+   あなたや夫の養親,:doc:`Q84I </variable/Q84I>`, "--"
+   あなたの養親, "--", :doc:`Q85H </variable/Q85H>`
+   あなたの夫, "--", :doc:`Q85C </variable/Q85C>`
+   あなたの祖父母,:doc:`Q84E </variable/Q84E>`,:doc:`Q85D </variable/Q85D>`
+   夫の祖父母,:doc:`Q84F </variable/Q84F>`, "--"
+   子ども,:doc:`Q84G </variable/Q84G>`,:doc:`Q85E </variable/Q85E>`
+   その他,:doc:`Q84H </variable/Q84H>`,:doc:`Q85F </variable/Q85F>`
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q84A
+   /variable/Q84B
+   /variable/Q84C
+   /variable/Q84D
+   /variable/Q84E
+   /variable/Q84F
+   /variable/Q84G
+   /variable/Q84H
+   /variable/Q84I
+   /variable/Q85A
+   /variable/Q85B
+   /variable/Q85C
+   /variable/Q85D
+   /variable/Q85E
+   /variable/Q85F
+   /variable/Q85H

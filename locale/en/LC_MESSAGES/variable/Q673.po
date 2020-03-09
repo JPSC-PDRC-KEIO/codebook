@@ -1,0 +1,382 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-28 14:50+0900\n"
+"PO-Revision-Date: 2020-03-09 10:44+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:5
+msgid "小中学校時の居住地（配偶者）"
+msgstr "Place of residence in elementary and junior-high school (spouse)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:11
+msgid "Q673"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:18
+msgid ""
+"ご主人は、小・中学生の時どこに住んでいましたか。小・中学生の９年間で一"
+"番長く住んでいた県をお答え下さい。"
+msgstr ""
+"Where was your husband living during his elementary and junior high "
+"school years? Please circle the prefecture that represents the longest "
+"time period of residence during these years."
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:24
+msgid "選択肢 / 記入欄"
+msgstr "Choices / Entry field"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:27
+msgid "北海道"
+msgstr "Hokkaido"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:29
+msgid "青森県"
+msgstr "Aomori"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:31
+msgid "岩手県"
+msgstr "Iwate"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:33
+msgid "宮城県"
+msgstr "Miyagi"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:35
+msgid "秋田県"
+msgstr "Akita"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:37
+msgid "山形県"
+msgstr "Yamagata"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:39
+msgid "福島県"
+msgstr "Fukushima"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:41
+msgid "茨城県"
+msgstr "Ibaraki"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:43
+msgid "栃木県"
+msgstr "Tochigi"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:45
+msgid "群馬県"
+msgstr "Gunma"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:47
+msgid "埼玉県"
+msgstr "Saitama"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:49
+msgid "千葉県"
+msgstr "Chiba"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:51
+msgid "東京都"
+msgstr "Tokyo"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:53
+msgid "神奈川県"
+msgstr "Kanagawa"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:55
+msgid "新潟県"
+msgstr "Niigata"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:57
+msgid "富山県"
+msgstr "Toyama"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:59
+msgid "石川県"
+msgstr "Ishikawa"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:61
+msgid "福井県"
+msgstr "Fukui"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:63
+msgid "山梨県"
+msgstr "Yamanashi"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:65
+msgid "長野県"
+msgstr "Nagano"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:67
+msgid "岐阜県"
+msgstr "Gifu"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:69
+msgid "静岡県"
+msgstr "Shizuoka"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:71
+msgid "愛知県"
+msgstr "Aichi"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:73
+msgid "三重県"
+msgstr "Mie"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:75
+msgid "滋賀県"
+msgstr "Shiga"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:77
+msgid "京都府"
+msgstr "Kyoto"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:79
+msgid "大阪府"
+msgstr "Osaka"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:81
+msgid "兵庫県"
+msgstr "Hyogo"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:83
+msgid "奈良県"
+msgstr "Nara"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:85
+msgid "和歌山県"
+msgstr "Wakayama"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:87
+msgid "鳥取県"
+msgstr "Tottori"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:89
+msgid "島根県"
+msgstr "Shimane"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:91
+msgid "岡山県"
+msgstr "Okayama"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:93
+msgid "広島県"
+msgstr "Hiroshima"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:95
+msgid "山口県"
+msgstr "Yamaguchi"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:97
+msgid "徳島県"
+msgstr "Tokushima"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:99
+msgid "香川県"
+msgstr "Kagawa"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:101
+msgid "愛媛県"
+msgstr "Ehime"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:103
+msgid "高知県"
+msgstr "Kochi"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:105
+msgid "福岡県"
+msgstr "Fukuoka"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:107
+msgid "佐賀県"
+msgstr "Saga"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:109
+msgid "長崎県"
+msgstr "Nagasaki"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:111
+msgid "熊本県"
+msgstr "Kumamoto"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:113
+msgid "大分県"
+msgstr "Oita"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:115
+msgid "宮崎県"
+msgstr "Miyazaki"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:117
+msgid "鹿児島県"
+msgstr "Kagoshima"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:119
+msgid "沖縄県"
+msgstr "Okinawa"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:121
+msgid "外国"
+msgstr "Foreign countries"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:128
+msgid "桁あふれコード"
+msgstr "Outside-code-range responses"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:134
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:140
+msgid "無回答コード"
+msgstr "Non-Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:146
+msgid "備考"
+msgstr "Remarks"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:152
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:157
+msgid "p1_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:159
+msgid "p2_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:161
+msgid "p3_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:163
+msgid "p4_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:165
+msgid "p5a_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:167
+msgid "p5b_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:169
+msgid "p6_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:171
+msgid "p7_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:173
+msgid "p8_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:175
+msgid "p9_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:177
+msgid "p10_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:179
+msgid "p11ab_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:181
+msgid "p11c_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:183
+msgid "p12_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:185
+msgid "p13_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:187
+msgid "p14_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:189
+msgid "p15_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:191
+msgid "p16abc_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:193
+msgid "p16d_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:195
+msgid "p17_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:197
+msgid "p18_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:199
+msgid "p19_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:201
+msgid "p20_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:203
+msgid "p21abcd_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:205
+msgid "p21e_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:207
+msgid "p22_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:209
+msgid "p23_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:211
+msgid "p24_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:213
+msgid "p25_5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:215
+msgid "p26_5"
+msgstr ""

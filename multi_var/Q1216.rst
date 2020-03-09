@@ -1,0 +1,49 @@
+============================================================
+子どもについての悩みの内容
+============================================================
+
+
+質問文（複数回答）
+-------------------------------------
+（子どもに関しての）具体的な悩み心配事は次のどれになりますか。（〇はいくつでも）
+
+
+.. csv-table::
+   :header: "項目", "変数名"
+   :widths: 10, 2
+
+   "子どもの性格や癖", ":doc:`Q1216A </variable/Q1216A>`"
+   "しつけ・叱り方", ":doc:`Q1216B </variable/Q1216B>`"
+   "親子のコミュニケーション", ":doc:`Q1216C </variable/Q1216C>`"
+   "子どもの健康・障害", ":doc:`Q1216D </variable/Q1216D>`"
+   "勉強や進学", ":doc:`Q1216E </variable/Q1216E>`"
+   "教育費の工面", ":doc:`Q1216F </variable/Q1216F>`"
+   "いじめ・不登校", ":doc:`Q1216G </variable/Q1216G>`"
+   "問題行動（非行、家庭内暴力、引きこもりなど）", ":doc:`Q1216H </variable/Q1216H>`"
+   "子どもの交友関係", ":doc:`Q1216I </variable/Q1216I>`"
+   "保護者との関係", ":doc:`Q1216J </variable/Q1216J>`"
+   "子どもの就職・仕事", ":doc:`Q1216K </variable/Q1216K>`"
+   "子どもの交際・結婚", ":doc:`Q1216L </variable/Q1216L>`"
+   "その他", ":doc:`Q1216M </variable/Q1216M>`"
+   "特に悩みはない", ":doc:`Q1216N </variable/Q1216N>`"
+
+|
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q1216A
+   /variable/Q1216B
+   /variable/Q1216C
+   /variable/Q1216D
+   /variable/Q1216E
+   /variable/Q1216F
+   /variable/Q1216G
+   /variable/Q1216H
+   /variable/Q1216I
+   /variable/Q1216J
+   /variable/Q1216K
+   /variable/Q1216L
+   /variable/Q1216M
+   /variable/Q1216N

@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-06 18:49+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyogaiyo.rst:3
+msgid "就業についての質問概要"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyogaiyo.rst:6
+msgid "就業の内容"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyogaiyo.rst:8
+msgid "|nt5| に、就業の内容質問しており、調査時に「有職」であるか「無職」であるかにより、質問項目が分かれています。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyogaiyo.rst:13
+msgid "質問の概要"
+msgstr ""
+
+#~ msgid "本人の就業についての質問概要"
+#~ msgstr ""
+

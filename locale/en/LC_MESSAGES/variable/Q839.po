@@ -1,0 +1,223 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-09 15:47+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:5
+msgid "最終学歴（義母）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:11
+msgid "Q839"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:18
+msgid "ご主人の母親の最終学歴は次のうちどれですか。（中退は卒業に含めないでください）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:27
+msgid "中学校"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:29
+msgid "高等学校"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:31
+msgid "専門学校・専修学校"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:33
+msgid "短大"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:35
+msgid "高専"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:37
+msgid "大学"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:39
+msgid "大学院"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:41
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:48
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:54
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:60
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:61
+msgid "9"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:66
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:68
+msgid "この質問項目の変数名と選択肢には調査回によって変更があります。詳しくはこちら（:doc:`/kihon_kazoku/oya_giri`)をご参照ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:73
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:78
+msgid "p5a_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:80
+msgid "p5b_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:82
+msgid "p6_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:84
+msgid "p7_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:86
+msgid "p8_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:88
+msgid "p9_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:90
+msgid "p10_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:92
+msgid "p11ab_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:94
+msgid "p11c_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:96
+msgid "p12_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:98
+msgid "p13_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:100
+msgid "p14_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:102
+msgid "p15_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:104
+msgid "p16abc_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:106
+msgid "p16d_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:108
+msgid "p17_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:110
+msgid "p18_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:112
+msgid "p19_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:114
+msgid "p20_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:116
+msgid "p21abcd_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:118
+msgid "p21e_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:120
+msgid "p22_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:122
+msgid "p23_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:124
+msgid "p24_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:126
+msgid "p25_2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:128
+msgid "p26_2"
+msgstr ""
+
+#~ msgid "変数名: Q839"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "その他（　　　　　　　　　　　　　　　　）"
+#~ msgstr ""
+
+#~ msgid "最終学歴(義母）"
+#~ msgstr ""
+
+#~ msgid "この質問項目の変数名と選択肢は第2回以降変更されました。詳しくはこちら（:doc:`/kihon_kazoku/oya_giri`)をご参照ください。"
+#~ msgstr ""
+

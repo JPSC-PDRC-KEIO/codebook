@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q966.rst:5
+msgid "大学生の子どもの生活費・教育費責任についての考え"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q966.rst:9
+msgid "変数名"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q966.rst:11
+msgid "Q966"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q966.rst:15
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q966.rst:18
+msgid "大学生の子どもの生活費・教育費に対する責任について次の度の考え方に近いですか。（〇は１つ）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q966.rst:24
+msgid "選択肢 / 記入欄"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q966.rst:27
+msgid "奨学金制度が整えられていれば、将来自分で返すという形で、大学生である子ども自身が責任をもつべきである"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q966.rst:29
+msgid "子どもの教育の責任は親にあるので、親が私的に教育費の責任を持つべきである"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q966.rst:31
+msgid "子どもはいずれ労働力となり生産に貢献するのだから、扶養手当等の形で企業・事業所がかなり教育費を負担すべきである"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q966.rst:33
+msgid "子どもは将来を支える、社会全体の子どもなので、子どもの教育費は社会全体で、公的に責任を負うべきである"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q966.rst:35
+msgid "その他（具体的に　　　　　）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q966.rst:42
+msgid "桁あふれコード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q966.rst:48
+msgid "分類不能の回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q966.rst:54
+msgid "無回答コード"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q966.rst:55
+msgid "6"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q966.rst:60
+msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q966.rst:66
+msgid "収録シート"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q966.rst:71
+msgid "p4_4"
+msgstr ""
+
+#~ msgid "変数名: Q966"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+

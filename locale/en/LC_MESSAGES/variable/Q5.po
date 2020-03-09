@@ -1,0 +1,193 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-28 15:40+0900\n"
+"PO-Revision-Date: 2020-03-03 11:42+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:5
+msgid "同居家族人数"
+msgstr "Number of other family members in the household"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:11
+msgid "Q5"
+msgstr "Q5"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:18
+msgid ""
+"現在いっしょに住んでおられるご家族は、あなたを含めて全部で何人ですか。（同じ屋根の下、ま"
+"たは同一敷地内にお住まいのご家族は「いっしょに住んでいる」としてご記入下さい）"
+msgstr ""
+"How many members are there in your household? (Enter the number of members in your "
+"household who are, presently living together under the same roof or on the same lot.)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:24
+msgid "選択肢 / 記入欄"
+msgstr "Choices / Entry field"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:26
+msgid "＿＿ 人"
+msgstr "＿＿ persons"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:32
+msgid "桁あふれコード"
+msgstr "Outside-code-range responses"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:38
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:44
+msgid "無回答コード"
+msgstr "Non-Response"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:50
+msgid "備考"
+msgstr "Remarks"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:56
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:61
+msgid "p1_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:63
+msgid "p2_1"
+msgstr "p2_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:65
+msgid "p3_1"
+msgstr "p3_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:67
+msgid "p4_1"
+msgstr "p4_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:69
+msgid "p5a_1"
+msgstr "p5a_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:71
+msgid "p5b_1"
+msgstr "p5b_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:73
+msgid "p6_1"
+msgstr "p6_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:75
+msgid "p7_1"
+msgstr "p7_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:77
+msgid "p8_1"
+msgstr "p8_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:79
+msgid "p9_1"
+msgstr "p9_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:81
+msgid "p10_1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:83
+msgid "p11ab_1"
+msgstr "p11ab_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:85
+msgid "p11c_1"
+msgstr "p11c_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:87
+msgid "p12_1"
+msgstr "p12_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:89
+msgid "p13_1"
+msgstr "p13_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:91
+msgid "p14_1"
+msgstr "p14_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:93
+msgid "p15_1"
+msgstr "p15_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:95
+msgid "p16abc_1"
+msgstr "p16abc_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:97
+msgid "p16d_1"
+msgstr "p16d_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:99
+msgid "p17_1"
+msgstr "p17_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:101
+msgid "p18_1"
+msgstr "p18_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:103
+msgid "p19_1"
+msgstr "p19_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:105
+msgid "p20_1"
+msgstr "p20_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:107
+msgid "p21abcd_1"
+msgstr "p21abcd_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:109
+msgid "p21e_1"
+msgstr "p21e_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:111
+msgid "p22_1"
+msgstr "p22_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:113
+msgid "p23_1"
+msgstr "p23_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:115
+msgid "p24_1"
+msgstr "p24_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:117
+msgid "p25_1"
+msgstr "p25_1"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:119
+msgid "p26_1"
+msgstr "p26_1"

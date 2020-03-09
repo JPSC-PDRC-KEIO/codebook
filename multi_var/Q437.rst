@@ -1,0 +1,39 @@
+============================================================
+借入れ先の選択理由
+============================================================
+
+
+質問文（複数回答）
+-----------------------
+その機関での借入をお考えになるのはどのような理由からですか。（〇はいくつでも）
+
+
+
+.. csv-table::
+   :header: "項目", "変数"
+   :widths: 20,5
+
+   手続きが簡単,:doc:`Q437A </variable/Q437A>`
+   営業時間が長く、夜も開いている,:doc:`Q437B </variable/Q437B>`
+   土曜・日曜も利用できる,:doc:`Q437C </variable/Q437C>`
+   金利が低い,:doc:`Q437D </variable/Q437D>`
+   担保・保証人等が必要ない,:doc:`Q437E </variable/Q437E>`
+   秘密保持に安心できる,:doc:`Q437F </variable/Q437F>`
+   アフターサービスが良い,:doc:`Q437G </variable/Q437G>`
+   有名で信頼できる,:doc:`Q437H </variable/Q437H>`
+   その他,:doc:`Q437I </variable/Q437I>`
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q437A
+   /variable/Q437B
+   /variable/Q437C
+   /variable/Q437D
+   /variable/Q437E
+   /variable/Q437F
+   /variable/Q437G
+   /variable/Q437H
+   /variable/Q437I

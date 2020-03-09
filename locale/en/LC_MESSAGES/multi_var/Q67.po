@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:3
+msgid "世帯構成の変動"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:7
+msgid "質問文（複数回答）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:9
+msgid "この1年間（調査前年10月～調査年9月）にあなたの世帯にどのような変動がありましたか。（〇はいくつでも）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid "項目"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid "変数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid "あなたの子どもが生まれた"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid ":doc:`Q67A </variable/Q67A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid "あなた、または夫の親を引き取った"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid ":doc:`Q67B </variable/Q67B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid "世帯員が単身赴任から戻った"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid ":doc:`Q67C </variable/Q67C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid "その他（それ以外の理由で世帯員が増えた）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid ":doc:`Q67D </variable/Q67D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid "世帯員が単身赴任で転出した"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid ":doc:`Q67E </variable/Q67E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid "世帯員が転出して世帯員が減った"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid ":doc:`Q67F </variable/Q67F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid "世帯員が死亡して世帯員が減った"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid ":doc:`Q67G </variable/Q67G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid "その他（それ以外の理由で世帯員が減った）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid ":doc:`Q67H </variable/Q67H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid "あなたが結婚して別の世帯を形成した(有配偶者のみ)"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid ":doc:`Q67I </variable/Q67I>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid "あなたが離婚・別居して別の世帯を形成した"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid ":doc:`Q67J </variable/Q67J>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid "あなた（とその家族）が親の家から出て、独立した世帯を形成した"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid ":doc:`Q67K </variable/Q67K>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid "あなた（とその家族）が親の家に入って、同居世帯を形成した"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid ":doc:`Q67L </variable/Q67L>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid "特に何もない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
+msgid ":doc:`Q67M </variable/Q67M>`"
+msgstr ""
+

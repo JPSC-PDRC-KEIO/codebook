@@ -1,0 +1,192 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:3
+msgid "クレジットカード利用の制約条件"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:6
+msgid "質問文"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:8
+msgid "クレジットカードを利用するにあたって、何か制約条件を付けていますか。該当するものに〇をつけてください。 （〇は２つまで）"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:10
+msgid "無配偶の調査票では「あなたの名義」「あなたの親の名義」について聞いており、変数名は共通です。詳しくは調査票をご覧下さい。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid "あなたの名義"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid "ご主人の名義"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid "実親の名義"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid "義親の名義"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid "利用金額の限度を月に2万円位までと決めている"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q440B </variable/Q440B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q441B </variable/Q441B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q442B </variable/Q442B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q443B </variable/Q443B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid "利用金額の限度を月に5万円位までと決めている"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q440C </variable/Q440C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q441C </variable/Q441C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q442C </variable/Q442C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q443C </variable/Q443C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid "利用金額の限度を月に10万円位までと決めている"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q440D </variable/Q440D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q441D </variable/Q441D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q442D </variable/Q442D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q443D </variable/Q443D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid "月々の返済金額の限度を決めている"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q440E </variable/Q440E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q441E </variable/Q441E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q442E</variable/Q442E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q443E </variable/Q443E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid "利用する店や、利用する物・サービスを決めている"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q440F </variable/Q440F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q441F </variable/Q441F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q442F </variable/Q442F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q443F</variable/Q443F>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid "その他"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q440G</variable/Q440G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q441G </variable/Q441G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q442G </variable/Q442G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q443G </variable/Q443G>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid "特に制約を設けていない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q440H </variable/Q440H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q441H </variable/Q441H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q442H </variable/Q442H>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:1
+msgid ":doc:`Q443H </variable/Q443H>`"
+msgstr ""
+

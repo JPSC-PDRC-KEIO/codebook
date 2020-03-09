@@ -1,0 +1,45 @@
+============================================================
+受講先
+============================================================
+
+
+質問文（複数回答）
+-----------------------
+通ったのはどのような学校ですか。（通信教育を含む）（〇はいくつでも）
+
+
+
+.. csv-table::
+   :header: "項目", "変数"
+   :widths: 20,5
+
+   各種学校, :doc:`Q537A </variable/Q537A>`
+   職業訓練学校, :doc:`Q537B </variable/Q537B>`
+   高等学校, :doc:`Q537P </variable/Q537P>`
+   専門学校・専修学校, :doc:`Q537C </variable/Q537C>`
+   短大・高専, :doc:`Q537D </variable/Q537D>`
+   大学（卒業を目的とする）, :doc:`Q537E </variable/Q537E>`
+   大学（科目履修、聴講生、研究生など）, :doc:`Q537F </variable/Q537F>`
+   大学（通信部、放送大学）, :doc:`Q537G </variable/Q537G>`
+   大学院, :doc:`Q537H </variable/Q537H>`
+   民間の通信教育, :doc:`Q537J </variable/Q537J>`
+   公民館・カルチャーセンター, :doc:`Q537K </variable/Q537K>`
+   その他, :doc:`Q537I </variable/Q537I>`
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+
+   /variable/Q537A
+   /variable/Q537B
+   /variable/Q537P
+   /variable/Q537C
+   /variable/Q537D
+   /variable/Q537E
+   /variable/Q537F
+   /variable/Q537G
+   /variable/Q537H
+   /variable/Q537I
+   /variable/Q537J
+   /variable/Q537K

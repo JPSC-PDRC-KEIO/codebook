@@ -1,0 +1,45 @@
+============================================================
+ペットの種類
+============================================================
+
+
+質問文（複数回答）
+-------------------------------------
+その種類は何ですか。（〇はいくつでも）
+
+
+選択肢
+-----------------------
+
+.. csv-table::
+   :header: "項目", "変数"
+   :widths: 5,3
+
+   "犬（室外で）", ":doc:`Q1127A </variable/Q1127A>`"
+   "犬（室内で）", ":doc:`Q1127B </variable/Q1127B>`"
+   "猫", ":doc:`Q1127C </variable/Q1127C>`"
+   "小型の哺乳類", ":doc:`Q1127D </variable/Q1127D>`"
+   "鳥類", ":doc:`Q1127E </variable/Q1127E>`"
+   "魚類", ":doc:`Q1127F </variable/Q1127F>`"
+   "両生類・爬虫類", ":doc:`Q1127G </variable/Q1127G>`"
+   "昆虫類", ":doc:`Q1127H </variable/Q1127H>`"
+   "その他", ":doc:`Q1127I </variable/Q1127I>`"
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q1127A
+   /variable/Q1127B
+   /variable/Q1127C
+   /variable/Q1127D
+   /variable/Q1127E
+   /variable/Q1127F
+   /variable/Q1127G
+   /variable/Q1127H
+   /variable/Q1127I
+
+
+
+.. accessで作った備考欄のセミコロンは改行を表す

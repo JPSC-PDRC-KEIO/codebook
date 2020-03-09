@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-28 14:33+0900\n"
+"PO-Revision-Date: 2020-01-30 11:38+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:1
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:3
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:10
+msgid "運動"
+msgstr "Exercise"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:6
+msgid "質問文"
+msgstr "Question"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:8
+msgid "あなたは次のことを現在どのくらいの頻度で行っていますか。（それぞれ〇は１つだけ）"
+msgstr ""
+"How often do you do the following activities? (Please choose one for each"
+" category.)"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:13
+msgid "選択肢"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:1
+msgid "変数名"
+msgstr "Variable name"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:1
+msgid "全くしない"
+msgstr "Never"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:1
+msgid "月に数回"
+msgstr "A few times a month"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:1
+msgid "週に1～2回"
+msgstr "Once or twice a week"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:1
+msgid "週に3～4回"
+msgstr "Three to four times a week"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:1
+msgid "週に5～6回"
+msgstr "Five to six times a week"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:1
+msgid "毎日"
+msgstr "Every day"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:1
+msgid ":doc:`Q1132 </variable/Q1132>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:1
+msgid "1"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:1
+msgid "2"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:1
+msgid "3"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:1
+msgid "4"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:1
+msgid "5"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/undo.rst:1
+msgid "6"
+msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr "Choices / Entry field"
+

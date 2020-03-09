@@ -1,0 +1,65 @@
+============================================================
+現職（職種）の選択理由〔第1回・第5回〕
+============================================================
+
+
+質問文（複数回答）
+-----------------------
+なぜ、あなたは現在の職種を選びましたか。（〇はいくつでも）
+
+.. note::
+   変数名はコーホートAとコーホートBの初回調査時〔第1回・第5回〕のものです。他の調査回については :doc:`現職（職種）の選択理由（Q192） </multi_var/Q192>` をご参照ください。
+
+
+
+.. csv-table::
+   :header: "項目", "変数"
+   :widths: 20,5
+
+   収入・給与がよい,:doc:`P56A </variable/P56A>`
+   休日、休暇が多い,:doc:`P56B </variable/P56B>`
+   拘束時間が少ない、残業が少ない,:doc:`P56C </variable/P56C>`
+   労働時間が自由になる,:doc:`P56D </variable/P56D>`
+   転勤がない、少ない,:doc:`P56F </variable/P56F>`
+   安定している、失業のおそれがない,:doc:`P56G </variable/P56G>`
+   将来発展する可能性がある,:doc:`P56H </variable/P56H>`
+   組織にしばられない,:doc:`P56H </variable/P56H>`
+   結婚後も続けやすい,:doc:`P56I </variable/P56I>`
+   出産後も続けやすい,:doc:`P56J </variable/P56J>`
+   技術が身につく,:doc:`P56K </variable/P56K>`
+   能力が生かせる,:doc:`P56L </variable/P56L>`
+   仕事内容に興味がある,:doc:`P56M </variable/P56M>`
+   外国に行ける,:doc:`P56N </variable/P56N>`
+   結婚相手が見つかる,:doc:`P56O </variable/P56O>`
+   学校がすすめるので,:doc:`P56P </variable/P56P>`
+   家族がすすめるので,:doc:`P56Q </variable/P56Q>`
+   会社ですすめられた（自分で選んだのではない）,:doc:`P56R </variable/P56R>`
+   家業だから,:doc:`P56S </variable/P56S>`
+   その他,:doc:`P56T </variable/P56T>`
+
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/P56A
+   /variable/P56B
+   /variable/P56C
+   /variable/P56D
+   /variable/P56E
+   /variable/P56F
+   /variable/P56G
+   /variable/P56H
+   /variable/P56I
+   /variable/P56J
+   /variable/P56K
+   /variable/P56L
+   /variable/P56M
+   /variable/P56N
+   /variable/P56O
+   /variable/P56P
+   /variable/P56Q
+   /variable/P56R
+   /variable/P56S
+   /variable/P56T

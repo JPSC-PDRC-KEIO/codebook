@@ -1,0 +1,40 @@
+============================================================
+結婚に向けた行動
+============================================================
+
+
+質問文（複数回答）
+---------------------------
+あなたは、この1年間に、結婚に向けた次のような行動をしましたか。（〇はいくつでも）
+
+
+
+.. csv-table::
+   :header: "項目", "変数"
+   :widths: 20,5
+
+   親戚や家族の紹介でお見合をした, :doc:`Q568A </variable/Q568A>`
+   友人の紹介でお見合をした, :doc:`Q568B </variable/Q568B>`
+   友人や親せきに男性の紹介を頼んだ, :doc:`Q568C </variable/Q568C>`
+   この1年間のあいだに、結婚紹介の会に加入した, :doc:`Q568D </variable/Q568D>`
+   1年以上前から、結婚紹介の会に継続加入している, :doc:`Q568E </variable/Q568E>`
+   結婚情報誌を購読した, :doc:`Q568F </variable/Q568F>`
+   恋人と結婚について話し合った, :doc:`Q568G </variable/Q568G>`
+   婚約をした, :doc:`Q568H </variable/Q568H>`
+   その他, :doc:`Q568I </variable/Q568I>`
+   何もしなかった, :doc:`Q568J </variable/Q568J>`
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q568A
+   /variable/Q568B
+   /variable/Q568C
+   /variable/Q568D
+   /variable/Q568E
+   /variable/Q568F
+   /variable/Q568G
+   /variable/Q568H
+   /variable/Q568I
+   /variable/Q568J
