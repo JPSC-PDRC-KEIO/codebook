@@ -1,2 +1,2 @@
 sphinxcontrib-blockdiag
-sphinxcontrib-inkscapeconverter
+sphinxcontrib-svg2pdfconverter
