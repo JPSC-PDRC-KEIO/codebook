@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,11 +48,11 @@
      id="namedview1298"
      showgrid="false"
      inkscape:zoom="0.19704315"
-     inkscape:cx="-64.0384"
-     inkscape:cy="2568.3644"
+     inkscape:cx="2521.8071"
+     inkscape:cy="1223.4813"
      inkscape:window-x="1236"
      inkscape:window-y="65"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg1296"
      scale-x="1e-05"
      fit-margin-top="0"
@@ -114,12 +114,12 @@
      transform="matrix(1.1424594,0,0,1.560392,594.44533,3334.1443)" />
   <a
      xlink:href="../../syugyo/syugyojoutai.html"
-     transform="matrix(1.4671466,0,0,1.5826087,-342.36234,-483.21512)"
-     id="a9069"
-     style="text-decoration: underline;text-decoration-line: underline"
-     target="parent"
+     onmouseover="style.fill='red';this.style.opacity=0.5"
      onmouseout="style.fill='red';this.style.opacity=1.0"
-     onmouseover="style.fill='red';this.style.opacity=0.5">
+     target="parent"
+     style="text-decoration: underline;text-decoration-line: underline"
+     id="a9069"
+     transform="matrix(1.4671466,0,0,1.5826087,-342.36234,-483.21512)">
     <text
        onmouseout="style.fill = &quot;#000000&quot;  "
        onmouseover="style.fill = &quot;#0000ff&quot;"
@@ -160,44 +160,46 @@
      transform="scale(1.115934,0.89611035)" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
-     x="767.94879"
-     y="1239.4332"
-     id="text1865-5"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2899971px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3838934"
+     x="773.11407"
+     y="1231.1287"
+     id="text1865-5"
+     transform="scale(0.99331879,1.0067261)"><tspan
        sodipodi:role="line"
        id="tspan1906"
-       x="767.94879"
-       y="1239.4332"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.38389337">無職</tspan><tspan
+       x="773.11407"
+       y="1231.1287"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2899971px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.3838934">無職</tspan><tspan
        sodipodi:role="line"
        id="tspan1908"
-       x="767.94879"
-       y="1274.5594"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.38389337" /></text>
+       x="773.11407"
+       y="1266.4912"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2899971px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.3838934" /></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
-     x="1020.2083"
-     y="1048.6223"
-     id="text1865-1"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.30540276px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
+     x="1027.6298"
+     y="1041.024"
+     id="text1865-1"
+     transform="scale(0.99277818,1.0072744)"><tspan
        sodipodi:role="line"
        id="tspan1867-9"
-       x="1020.2083"
-       y="1048.6223"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.38389337">有職</tspan><tspan
+       x="1027.6298"
+       y="1041.024"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.30540276px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.38389337">有職</tspan><tspan
        sodipodi:role="line"
        id="tspan1869-5"
-       x="1020.2083"
-       y="1083.7485"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.38389337" /></text>
+       x="1027.6298"
+       y="1076.4058"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.30540276px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.38389337" /></text>
   <a
      xlink:href="../../syugyo/syugyonaiyo.html"
-     id="a9083"
-     style="text-decoration: underline;text-decoration-line: underline"
-     target="pare"
-     onmouseover="style.fill='red';this.style.opacity=0.5"
+     transform="matrix(1.3,0,0,1.3243362,-1163.95,-141.91169)"
      onmouseout="style.fill='red';this.style.opacity=1.0"
-     transform="matrix(1.3,0,0,1.3243362,-1163.95,-141.91169)">
+     onmouseover="style.fill='red';this.style.opacity=0.5"
+     target="pare"
+     style="text-decoration: underline;text-decoration-line: underline"
+     id="a9083">
     <text
        onmouseout="style.fill = &quot;#000000&quot;  "
        onmouseover="style.fill = &quot;#0000ff&quot;"
@@ -223,16 +225,18 @@
      style="fill:#ffffff;stroke:#82a0be;stroke-width:4.98422241;stroke-miterlimit:4;stroke-dasharray:none"
      transform="matrix(0.85495133,0,0,0.84525687,-400.40583,2893.5595)" />
   <text
-     x="1209.0618"
-     y="1052.5129"
+     x="1214.8828"
+     y="1047.4528"
      font-size="24.00"
      id="text1041-5"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.23628044px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99520851,1.0048146)">
     <tspan
-       y="1052.5129"
-       x="1209.0618"
+       y="1047.4528"
+       x="1214.8828"
        sodipodi:role="line"
-       id="tspan6393">複数の仕事の有無</tspan>
+       id="tspan6393"
+       style="stroke-width:4.23703957">複数の仕事の有無</tspan>
   </text>
   <polyline
      points="1740.5,-2244 2028.5,-2244 "
@@ -240,16 +244,18 @@
      style="fill:none;stroke:#82a0be;stroke-width:4.08359003;stroke-miterlimit:4;stroke-dasharray:none"
      transform="matrix(0.85382478,0,0,0.80696001,-400.14382,2820.7879)" />
   <text
-     x="1197.7432"
-     y="991.13397"
+     x="1200.5851"
+     y="988.77905"
      font-size="24.00"
      id="text1045-8"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.16766357px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99763288,1.0023727)">
     <tspan
-       y="991.13397"
-       x="1197.7432"
+       y="988.77905"
+       x="1200.5851"
        sodipodi:role="line"
-       id="tspan6395">主たる職業</tspan>
+       id="tspan6395"
+       style="stroke-width:4.23703957">主たる職業</tspan>
   </text>
   <polyline
      points="1740.5,-2190 2028.5,-2190 "
@@ -257,16 +263,18 @@
      style="fill:none;stroke:#82a0be;stroke-width:4.08359003;stroke-miterlimit:4;stroke-dasharray:none"
      transform="matrix(0.85382478,0,0,0.80696001,-397.38601,2841.202)" />
   <text
-     x="1206.369"
-     y="1111.0756"
+     x="1215.1447"
+     y="1103.0264"
      font-size="24.00"
      id="text903-5-3"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.30540276px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99277818,1.0072744)">
     <tspan
        sodipodi:role="line"
        id="tspan6312"
-       x="1206.369"
-       y="1111.0756">休職理由</tspan>
+       x="1215.1447"
+       y="1103.0264"
+       style="stroke-width:4.23703957">休職理由</tspan>
   </text>
   <rect
      style="opacity:1;vector-effect:none;fill:#ccdfff;fill-opacity:1;stroke:#82a0be;stroke-width:4.23703909;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -277,14 +285,16 @@
      y="773.36127" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
-     x="1568.8527"
-     y="821.8454"
-     id="text1865-8-0-7"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.22098923px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389334"
+     x="1575.5522"
+     y="818.33569"
+     id="text1865-8-0-7"
+     transform="scale(0.99574778,1.0042704)"><tspan
        sodipodi:role="line"
        id="tspan6461"
-       x="1568.8527"
-       y="821.8454">主たる勤務先についての質問</tspan></text>
+       x="1575.5522"
+       y="818.33569"
+       style="stroke-width:0.38389334">主たる勤務先についての質問</tspan></text>
   <path
      style="fill:none;stroke:#000000;stroke-width:2.88118672;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 1569.1704,1010.1902 v 306.8195"
@@ -312,30 +322,35 @@
      inkscape:connector-curvature="0" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
-     x="2072.019"
-     y="1577.7163"
-     id="text1865"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.47652817px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
+     x="2099.7095"
+     y="1556.8635"
+     id="text1865"
+     transform="scale(0.98681224,1.013364)"><tspan
        sodipodi:role="line"
        id="tspan5781"
-       x="2072.019"
-       y="1577.7163">働いていた</tspan><tspan
+       x="2099.7095"
+       y="1556.8635"
+       style="stroke-width:0.38389337">働いていた</tspan><tspan
        sodipodi:role="line"
        id="tspan5783"
-       x="2072.019"
-       y="1612.8425" /></text>
+       x="2099.7095"
+       y="1592.4592"
+       style="stroke-width:0.38389337" /></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
-     x="1683.5913"
-     y="1578.2443"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.47652817px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
+     x="1706.0908"
+     y="1557.3845"
      id="text1865-6"
-     inkscape:transform-center-x="3.9360897"
-     inkscape:transform-center-y="-49.201208"><tspan
+     inkscape:transform-center-x="3.9360944"
+     inkscape:transform-center-y="-50.525012"
+     transform="scale(0.98681224,1.013364)"><tspan
        sodipodi:role="line"
        id="tspan5785"
-       x="1683.5913"
-       y="1578.2443">働いていなかった</tspan></text>
+       x="1706.0908"
+       y="1557.3845"
+       style="stroke-width:0.38389337">働いていなかった</tspan></text>
   <path
      style="fill:none;stroke:#000000;stroke-width:2.88118672;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 2232.1809,1668.9723 v 110.6359"
@@ -343,44 +358,52 @@
      inkscape:connector-curvature="0" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
-     x="2486.4639"
-     y="1750.3529"
-     id="text1865-8"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.95734215px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
+     x="2473.7537"
+     y="1759.3647"
+     id="text1865-8"
+     transform="scale(1.005138,0.99488826)"><tspan
        sodipodi:role="line"
        id="tspan5787"
-       x="2486.4639"
-       y="1750.3529">派遣社員だった</tspan></text>
+       x="2473.7537"
+       y="1759.3647"
+       style="stroke-width:0.38389337">派遣社員だった</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
-     x="1952.517"
-     y="1758.0658"
-     id="text1865-8-0"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.39057922px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
+     x="1972.6384"
+     y="1740.0958"
+     id="text1865-8-0"
+     transform="scale(0.98979972,1.0103054)"><tspan
        sodipodi:role="line"
        id="tspan5807"
-       x="1952.517"
-       y="1758.0658">派遣社員ではなかった</tspan></text>
+       x="1972.6384"
+       y="1740.0958"
+       style="stroke-width:0.38389337">派遣社員ではなかった</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
-     x="2109.8479"
-     y="1984.6376"
-     id="text1865-8-0-8"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.9350853px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
+     x="2097.3918"
+     y="1996.4459"
+     id="text1865-8-0-8"
+     transform="scale(1.0059388,0.99409625)"><tspan
        sodipodi:role="line"
        id="tspan7789"
-       x="2109.8479"
-       y="1984.6376">同じ会社だった</tspan></text>
+       x="2097.3918"
+       y="1996.4459"
+       style="stroke-width:0.38389337">同じ会社だった</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
-     x="1794.5481"
-     y="1987.4585"
-     id="text1865-8-0-8-9"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.9350853px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
+     x="1783.9535"
+     y="1999.2836"
+     id="text1865-8-0-8-9"
+     transform="scale(1.0059388,0.99409625)"><tspan
        sodipodi:role="line"
        id="tspan1026"
-       x="1794.5481"
-       y="1987.4585">同じ会社ではなかった</tspan></text>
+       x="1783.9535"
+       y="1999.2836"
+       style="stroke-width:0.38389337">同じ会社ではなかった</tspan></text>
   <g
      id="g6526"
      transform="matrix(1,0,0,0.94189707,2.5256719,182.64846)"
@@ -433,16 +456,18 @@
      style="fill:#ffffff;stroke:#82a0be;stroke-width:5.23618078;stroke-miterlimit:4;stroke-dasharray:none"
      transform="matrix(-0.79978326,0,0,-0.8186975,3152.4304,409.67568)" />
   <text
-     x="2234.4788"
-     y="1690.7634"
+     x="2223.0566"
+     y="1699.4691"
      font-size="24.00"
      id="text901-0-9"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695993">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.95734215px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695993"
+     transform="scale(1.005138,0.99488826)">
     <tspan
        sodipodi:role="line"
        id="tspan7439"
-       x="2234.4788"
-       y="1690.7634">派遣社員だったか</tspan>
+       x="2223.0566"
+       y="1699.4691"
+       style="stroke-width:0.80695993">派遣社員だったか</tspan>
   </text>
   <path
      style="fill:none;stroke:#000000;stroke-width:2.88118672;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -455,16 +480,18 @@
      style="fill:#ffffff;stroke:#82a0be;stroke-width:4.67104816;stroke-miterlimit:4;stroke-dasharray:none"
      transform="matrix(0.9958656,0,0,0.82621973,921.32432,3179.8335)" />
   <text
-     x="2071.2666"
-     y="1908.9684"
+     x="2059.0383"
+     y="1920.3273"
      font-size="24.00"
      id="text901-0-9-3-5"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695993">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.9350853px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695993"
+     transform="scale(1.0059388,0.99409625)">
     <tspan
        sodipodi:role="line"
        id="tspan5830"
-       x="2071.2666"
-       y="1908.9684">同じ会社に勤めていたか</tspan>
+       x="2059.0383"
+       y="1920.3273"
+       style="stroke-width:0.80695993">同じ会社に勤めていたか</tspan>
   </text>
   <g
      id="g6932">
@@ -493,14 +520,16 @@
      y="771.75464" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
-     x="2033.9448"
-     y="818.06903"
-     id="text1865-8-0-7-0"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.13732529px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
+     x="2036.5751"
+     y="817.00793"
+     id="text1865-8-0-7-0"
+     transform="scale(0.99870851,1.0012932)"><tspan
        sodipodi:role="line"
        id="tspan6862"
-       x="2033.9448"
-       y="818.06903">労働条件についての質問</tspan></text>
+       x="2036.5751"
+       y="817.00793"
+       style="stroke-width:0.38389337">労働条件についての質問</tspan></text>
   <path
      style="fill:none;stroke:#000000;stroke-width:2.88118672;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 1676.2571,1216.813 h 282.4137"
@@ -514,7 +543,7 @@
        transform="matrix(1.0801789,0,0,0.63989999,-465.19126,1932.8809)"
        style="fill:#ffffff;stroke:#82a0be;stroke-width:4.74179459;stroke-miterlimit:4;stroke-dasharray:none"
        id="polygon1125"
-       points="1740.5,-1281 2028.5,-1281 2028.5,-1119 1740.5,-1119 " />
+       points="2028.5,-1119 1740.5,-1119 1740.5,-1281 2028.5,-1281 " />
     <polyline
        transform="matrix(1.0801789,0,0,0.80696,-465.19126,2156.9394)"
        style="fill:none;stroke:#82a0be;stroke-width:3.37802458;stroke-miterlimit:4;stroke-dasharray:none"
@@ -529,11 +558,12 @@
      x="1904.9855"
      y="1191.257" />
   <text
-     x="2041.6714"
-     y="1229.2211"
+     x="2050.9456"
+     y="1223.6456"
      font-size="24.00"
      id="text1131"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">育児休業取得の有無</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.22863197px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999"
+     transform="scale(0.99547816,1.0045424)">育児休業取得の有無</text>
   <path
      style="fill:none;stroke:#000000;stroke-width:2.88118672;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 1678.0004,1331.0741 h 282.4137"
@@ -547,12 +577,12 @@
      x="1907.9996"
      y="1297.0591" />
   <text
-     x="2051.2258"
-     y="1333.434"
+     x="2059.6377"
+     y="1327.9727"
      font-size="24.00"
      id="text1153"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80696005"
-     transform="scale(0.99803865,1.0019652)">介護休業取得の有無</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.21622467px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80696005"
+     transform="scale(0.99396255,1.0060741)">介護休業取得の有無</text>
   <rect
      style="opacity:1;vector-effect:none;fill:#ccdfff;fill-opacity:1;stroke:#82a0be;stroke-width:2.55464745;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect6840-2"
@@ -598,53 +628,57 @@
        points="1356,-1335 1644,-1335 " />
   </g>
   <text
-     x="2043.6771"
-     y="881.41553"
+     x="2042.4757"
+     y="881.93634"
      font-size="24.00"
      id="text987"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">職務（就業形態）</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.08446503px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999"
+     transform="scale(1.0005878,0.99941254)">職務（就業形態）</text>
   <text
-     x="2049.6409"
-     y="935.83771"
+     x="2047.3389"
+     y="935.09869"
      font-size="24.00"
      id="text991"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.06942558px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999"
+     transform="scale(1.0011244,0.99887686)">
     <tspan
        sodipodi:role="line"
        id="tspan6903"
-       x="2049.6409"
-       y="935.83771">給与<tspan
+       x="2047.3389"
+       y="935.09869"
+       style="stroke-width:0.80695999">給与<tspan
    id="tspan4305"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:-2.73087788px;writing-mode:lr-tb;text-anchor:middle">（</tspan>
-
-
-
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.06942558px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:-2.72781062px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.80695999">（</tspan>
 支払い方と水準）</tspan>
   </text>
   <text
-     x="2030.8071"
-     y="985.27673"
+     x="2048.3708"
+     y="976.79816"
      font-size="24.00"
      id="text995"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">労働時間・休暇</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.34402275px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999"
+     transform="scale(0.99142546,1.0086487)">労働時間・休暇</text>
   <text
-     x="2038.8956"
-     y="1039.3345"
+     x="2053.1682"
+     y="1032.0842"
      font-size="24.00"
      id="text999"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">雇用保険加入</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.29769707px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999"
+     transform="scale(0.99304851,1.0070001)">雇用保険加入</text>
   <text
-     x="2036.1548"
-     y="1093.043"
+     x="2042.6394"
+     y="1089.5616"
      font-size="24.00"
      id="text1011"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">研修・講習</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.19048119px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80696005"
+     transform="scale(0.99682538,1.0031847)">研修・講習</text>
   <text
-     x="2036.0203"
-     y="1147.3358"
+     x="2050.8311"
+     y="1139.0243"
      font-size="24.00"
      id="text1015"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">仕事のレベル</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.30540276px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999"
+     transform="scale(0.99277819,1.0072743)">仕事のレベル</text>
   <g
      id="g6574"
      transform="matrix(1,0,0,1.267711,9.0736364e-7,-201.52467)"
@@ -662,26 +696,30 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
-     x="2409.5935"
-     y="816.5127"
-     id="text1865-8-0-7-0-9"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.27462006px;line-height:1.25;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38389337"
+     x="2424.4822"
+     y="811.47571"
+     id="text1865-8-0-7-0-9"
+     transform="scale(0.99385903,1.0061789)"><tspan
        sodipodi:role="line"
        id="tspan7225"
-       x="2409.5935"
-       y="816.5127">就業の満足についての質問</tspan></text>
+       x="2424.4822"
+       y="811.47571"
+       style="stroke-width:0.38389337">就業の満足についての質問</tspan></text>
   <text
-     x="2410.5991"
-     y="892.2218"
+     x="2424.835"
+     y="886.96289"
      font-size="24.00"
      id="text1019"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">勤務先の評価</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.26693916px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999"
+     transform="scale(0.99412912,1.0059056)">勤務先の評価</text>
   <text
-     x="2406.8318"
-     y="950.50659"
+     x="2418.4197"
+     y="945.93494"
      font-size="24.00"
      id="text1027"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">将来の働き方希望</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.23628044px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999"
+     transform="scale(0.99520851,1.0048146)">将来の働き方希望</text>
   <path
      style="fill:none;stroke:#000000;stroke-width:2.88118672;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 1858.0305,1459.2223 v 133.0569"
@@ -708,17 +746,18 @@
 </tspan>
   </text>
   <text
-     x="1865.8204"
-     y="1473.3547"
+     x="1881.4437"
+     y="1461.0912"
      font-size="24.00"
      id="text901-0-4"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.33628654px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99169614,1.0083734)">
     <tspan
        sodipodi:role="line"
        id="tspan5777"
-       x="1865.8204"
-       y="1473.3547"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">１年前も働いていたか</tspan>
+       x="1881.4437"
+       y="1461.0912"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.33628654px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:4.23703957">１年前も働いていたか</tspan>
   </text>
   <polygon
      transform="matrix(0.82612563,0,0,1.0989075,229.92027,2924.9072)"
@@ -796,139 +835,152 @@
        points="448,-726 952,-726 " />
   </g>
   <text
-     x="808.67633"
-     y="1443.2769"
+     x="813.6731"
+     y="1434.4658"
      font-size="24.00"
      id="text917"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.27461815px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80696005"
+     transform="scale(0.99385906,1.0061789)">
     <tspan
-       y="1443.2769"
-       x="808.67633"
+       y="1434.4658"
+       x="813.6731"
        sodipodi:role="line"
        id="tspan7787"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">就業状態の変化</tspan>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.27461815px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.80696005">就業状態の変化</tspan>
   </text>
   <text
-     x="806.40057"
-     y="1506.0227"
+     x="802.27844"
+     y="1513.5656"
      font-size="24.00"
      id="text921"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.95734024px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999"
+     transform="scale(1.005138,0.99488827)">
     <tspan
-       y="1506.0227"
-       x="806.40057"
+       y="1513.5656"
+       x="802.27844"
        sodipodi:role="line"
        id="tspan7785"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">派遣社員だったか</tspan>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.95734024px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.80695999">派遣社員だったか</tspan>
   </text>
   <text
-     x="804.12482"
-     y="1560.0132"
+     x="809.75378"
+     y="1549.1443"
      font-size="24.00"
      id="text925"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.29769707px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999"
+     transform="scale(0.99304851,1.0070001)">
     <tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.29769707px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.80695999"
        id="tspan238">離職時期</tspan>
   </text>
   <text
-     x="806.40057"
-     y="1617.6583"
+     x="812.2666"
+     y="1605.9507"
      font-size="24.00"
      id="text929"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.30540276px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999"
+     transform="scale(0.99277819,1.0072743)">
     <tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.30540276px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.80695999"
        id="tspan240">離職理由</tspan>
   </text>
   <text
-     x="813.22784"
-     y="1673.9246"
+     x="818.03046"
+     y="1664.0767"
      font-size="24.00"
      id="text933"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.26693916px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999"
+     transform="scale(0.99412912,1.0059056)">
     <tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.26693916px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.80695999"
        id="tspan242">離職時の生活への対処</tspan>
   </text>
   <text
-     x="813.22784"
-     y="1733.8453"
+     x="818.69775"
+     y="1722.2374"
      font-size="24.00"
      id="text937"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2899971px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999"
+     transform="scale(0.99331879,1.0067261)">
     <tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2899971px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.80695999"
        id="tspan244">離職・転職等への意識</tspan>
   </text>
   <text
-     x="799.98816"
-     y="1791.4906"
+     x="802.53589"
+     y="1785.7916"
      font-size="24.00"
      id="text941"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.19048119px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80696005"
+     transform="scale(0.99682538,1.0031847)">
     <tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.19048119px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.80696005"
        id="tspan246">雇用保険失業給付受給の有無</tspan>
   </text>
   <text
-     x="800.88501"
-     y="1849.5502"
+     x="803.43555"
+     y="1843.6665"
      font-size="24.00"
      id="text945"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.19047928px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80696005"
+     transform="scale(0.99682539,1.0031847)">
     <tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.19047928px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.80696005"
        id="tspan248">雇用保険失業給付受給月数</tspan>
   </text>
   <text
-     x="797.29761"
-     y="1908.8187"
+     x="802.22406"
+     y="1897.074"
      font-size="24.00"
      id="text949"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.27462006px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80696005"
+     transform="scale(0.99385903,1.0061789)">
     <tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.27462006px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.80696005"
        id="tspan250">就業月数</tspan>
   </text>
   <text
-     x="797.29761"
-     y="1967.6125"
+     x="800.26923"
+     y="1960.2932"
      font-size="24.00"
      id="text953"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2057209px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999"
+     transform="scale(0.99628674,1.0037271)">
     <tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2057209px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.80695999"
        id="tspan252">求職活動</tspan>
   </text>
   <text
-     x="799.57336"
-     y="2024.6052"
+     x="802.11981"
+     y="2018.1667"
      font-size="24.00"
      id="text957"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.19048119px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80696005"
+     transform="scale(0.99682538,1.0031847)">
     <tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.19048119px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.80696005"
        id="tspan254">求職月数</tspan>
   </text>
   <text
-     x="798.60925"
-     y="2085.9121"
+     x="803.32544"
+     y="2073.6453"
      font-size="24.00"
      id="text961"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.26693916px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999"
+     transform="scale(0.99412912,1.0059056)">
     <tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.26693916px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.80695999"
        id="tspan256">勤務先数</tspan>
   </text>
   <text
-     x="802.92328"
-     y="2142.6602"
+     x="805.91583"
+     y="2134.6899"
      font-size="24.00"
      id="text965"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2057209px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.80695999"
+     transform="scale(0.99628674,1.0037271)">
     <tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2057209px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.80695999"
        id="tspan258">将来の就業希望</tspan>
   </text>
   <text
@@ -946,17 +998,19 @@
      x="611.8476"
      y="818.42816" />
   <text
-     x="782.8645"
-     y="862.89935"
+     x="788.55933"
+     y="856.74414"
      font-size="24.00"
      id="text886"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">仕事をしている</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.30540276px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.9927782,1.0072743)">仕事をしている</text>
   <text
-     x="776.11157"
-     y="925.83282"
+     x="781.75726"
+     y="919.22351"
      font-size="24.00"
      id="text888"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">休職中</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.30540276px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.9927782,1.0072743)">休職中</text>
   <polyline
      points="25,-1463 313,-1463 "
      id="polyline890"
@@ -968,22 +1022,25 @@
      id="path1037"
      inkscape:connector-curvature="0" />
   <text
-     x="777.24567"
-     y="1015.9808"
+     x="784.18207"
+     y="1007.1074"
      font-size="24.00"
      id="text892"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">学生</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.35176849px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23704004;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99115465,1.0089243)">学生</text>
   <text
-     x="779.04645"
-     y="1138.5286"
+     x="781.79688"
+     y="1134.5995"
      font-size="24.00"
      id="text894"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.20019531px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703909;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99648195,1.0035305)">
     <tspan
        sodipodi:role="line"
        id="tspan3523"
-       x="779.04645"
-       y="1138.5286">その他の無職</tspan>
+       x="781.79688"
+       y="1134.5995"
+       style="stroke-width:4.23703909">その他の無職</tspan>
   </text>
   <path
      style="fill:#ffffff;fill-opacity:1;stroke:#82a0be;stroke-width:3.45889425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.91778857, 6.91778857;stroke-dashoffset:0;stroke-opacity:1"
@@ -991,42 +1048,42 @@
      id="path1037-9"
      inkscape:connector-curvature="0" />
   <text
-     x="827.7674"
-     y="912.05109"
+     x="825.74042"
+     y="914.23938"
      font-size="24.00"
      id="text888-8"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.30730721px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;fill:#000000;stroke-width:4.04101419;stroke-miterlimit:4;stroke-dasharray:none;"
-     transform="scale(0.95373525,1.048509)">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.2428875px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.04101419;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.95607641,1.0459415)">
     <tspan
        sodipodi:role="line"
        id="tspan7781"
-       x="827.7674"
-       y="912.05109"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.30730721px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;stroke-width:4.04101419;">（<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.30730721px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;"
+       x="825.74042"
+       y="914.23938"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.2428875px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:4.04101419">（<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.2428875px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:4.04101419"
    id="tspan260">育児</tspan>
 <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.30730721px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:-0.00427674px;writing-mode:lr;text-anchor:middle;stroke-width:4.04101419;"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.2428875px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:-0.00426627px;writing-mode:lr-tb;text-anchor:middle;stroke-width:4.04101419"
    id="tspan234">休業中・病気休</tspan>
 <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.30730721px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.2428875px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:4.04101419"
    id="tspan262">業中など）</tspan>
 </tspan>
     <tspan
        sodipodi:role="line"
        id="tspan7783"
-       x="827.7674"
-       y="946.42993"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.30730721px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;stroke-width:4.04101419;" />
+       x="825.74042"
+       y="947.04297"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.2428875px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:4.04101419" />
   </text>
   <a
      xlink:href="../../syugyo/ritensyoku/ritensyoku_mu.html"
-     id="a9072"
-     style="text-decoration: underline;text-decoration-line: underline;opacity:1;vector-effect:none;fill:#0b0080;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     onmouseover="style.fill='red';this.style.opacity=0.5 "
-     onmouseout="style.fill='red';this.style.opacity=1.0"
+     transform="matrix(1.3156061,0,0,1.3260017,-254.93883,-334.55515)"
      target="parent"
-     transform="matrix(1.3156061,0,0,1.3260017,-254.93883,-334.55515)">
+     onmouseout="style.fill='red';this.style.opacity=1.0"
+     onmouseover="style.fill='red';this.style.opacity=0.5 "
+     style="text-decoration: underline;text-decoration-line: underline;opacity:1;vector-effect:none;fill:#0b0080;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="a9072">
     <text
        onmouseout="style.fill = &quot;#000000&quot;  "
        onmouseover="style.fill = &quot;#0000ff&quot;"
@@ -1050,23 +1107,24 @@
      inkscape:connector-curvature="0" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;line-height:normal;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.23703957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     x="781.06152"
-     y="1078.8237"
-     id="text3492"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.16766357px;line-height:normal;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.23703957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     x="782.91479"
+     y="1076.2612"
+     id="text3492"
+     transform="scale(0.99763288,1.0023727)"><tspan
        sodipodi:role="line"
        id="tspan3490"
-       x="781.06152"
-       y="1078.8237"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;line-height:normal;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4.23703957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">専業主婦</tspan></text>
+       x="782.91479"
+       y="1076.2612"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.16766357px;line-height:normal;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4.23703957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">専業主婦</tspan></text>
   <a
      xlink:href="../../syugyo/ritensyoku/ritensyoku_yu.html"
-     transform="matrix(1.3,0,0,1.3286594,-1177.5666,699.68092)"
-     onmouseout="style.fill='red';this.style.opacity=1.0"
-     onmouseover="style.fill='red';this.style.opacity=0.5"
-     target="parent"
+     id="a9083-5"
      style="text-decoration: underline;text-decoration-line: underline"
-     id="a9083-5">
+     target="parent"
+     onmouseover="style.fill='red';this.style.opacity=0.5"
+     onmouseout="style.fill='red';this.style.opacity=1.0"
+     transform="matrix(1.3,0,0,1.3286594,-1177.5666,699.68092)">
     <text
        onmouseout="style.fill = &quot;#000000&quot;  "
        onmouseover="style.fill = &quot;#0000ff&quot;"
@@ -1104,125 +1162,125 @@
        x="700.29663"
        y="1287.9028"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.28623962px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#426180;fill-opacity:1;stroke-width:0.50673819">無職の人への質問</tspan></text>
-  <g
-     id="g6897"
-     transform="translate(3.58736)">
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
-       id="text1285"
-       font-size="24.00"
-       y="1799.9879"
-       x="1278.2784">
-      <tspan
-         y="1799.9879"
-         x="1278.2784"
-         id="tspan6027"
-         sodipodi:role="line">再就職先選択の理由</tspan>
-    </text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
-       id="text1273"
-       font-size="24.00"
-       y="1858.7417"
-       x="1273.0483">就業月数</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
-       id="text1277"
-       font-size="24.00"
-       y="1917.5667"
-       x="1276.535">求職月数</text>
-    <text
-       transform="scale(0.93849842,1.0655319)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:3.97645497;stroke-miterlimit:4;stroke-dasharray:none"
-       id="text1257"
-       font-size="24.00"
-       y="1852.702"
-       x="1363.3529">
-      <tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:3.97645497"
-         y="1852.702"
-         x="1363.3529"
-         id="tspan6029"
-         sodipodi:role="line">雇用保険失業給付受給の有無</tspan>
-    </text>
-    <text
-       transform="scale(0.93849842,1.0655319)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:3.97645497;stroke-miterlimit:4;stroke-dasharray:none"
-       id="text1261"
-       font-size="24.00"
-       y="1904.165"
-       x="1364.8361">
-      <tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:3.97645497"
-         y="1904.165"
-         x="1364.8361"
-         id="tspan6031"
-         sodipodi:role="line">雇用保険失業給付受給月数</tspan>
-    </text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
-       id="text1281"
-       font-size="24.00"
-       y="2085.6702"
-       x="1275.6382">
-      <tspan
-         y="2085.6702"
-         x="1275.6382"
-         id="tspan6033"
-         sodipodi:role="line">勤務した会社数</tspan>
-    </text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
-       id="text1269"
-       font-size="24.00"
-       y="2143.3989"
-       x="1274.7916">再就職時期</text>
-  </g>
   <text
-     x="1568.6088"
-     y="885.26508"
+     x="1289.7863"
+     y="1788.9122"
+     font-size="24.00"
+     id="text1285"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.27462006px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99385902,1.0061789)">
+    <tspan
+       sodipodi:role="line"
+       id="tspan6027"
+       x="1289.7863"
+       y="1788.9122"
+       style="stroke-width:4.23703957">再就職先選択の理由</tspan>
+  </text>
+  <text
+     x="1284.524"
+     y="1847.3044"
+     font-size="24.00"
+     id="text1273"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.27462006px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99385903,1.0061789)">就業月数</text>
+  <text
+     x="1284.1992"
+     y="1911.468"
+     font-size="24.00"
+     id="text1277"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.19047928px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99682541,1.0031847)">求職月数</text>
+  <text
+     x="1328.6847"
+     y="1906.479"
+     font-size="24.00"
+     id="text1257"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.30984497px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:3.97645521;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.96568584,1.0355335)">
+    <tspan
+       sodipodi:role="line"
+       id="tspan6029"
+       x="1328.6847"
+       y="1906.479"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.30984497px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:3.97645521">雇用保険失業給付受給の有無</tspan>
+  </text>
+  <text
+     x="1330.126"
+     y="1959.4326"
+     font-size="24.00"
+     id="text1261"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.30984497px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:3.97645497;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.96568586,1.0355334)">
+    <tspan
+       sodipodi:role="line"
+       id="tspan6031"
+       x="1330.126"
+       y="1959.4326"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.30984497px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:3.97645497">雇用保険失業給付受給月数</tspan>
+  </text>
+  <text
+     x="1284.6884"
+     y="2076.7856"
+     font-size="24.00"
+     id="text1281"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.22098923px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99574778,1.0042704)">
+    <tspan
+       sodipodi:role="line"
+       id="tspan6033"
+       x="1284.6884"
+       y="2076.7856"
+       style="stroke-width:4.23703957">勤務した会社数</tspan>
+  </text>
+  <text
+     x="1286.278"
+     y="2130.2144"
+     font-size="24.00"
+     id="text1269"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.27462006px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99385903,1.0061789)">再就職時期</text>
+  <text
+     x="1580.5441"
+     y="878.552"
      font-size="24.00"
      id="text1041"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">従業員数</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.31480217px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99244862,1.0076088)">従業員数</text>
   <text
-     x="1568.6088"
-     y="935.25336"
+     x="1585.2083"
+     y="925.42078"
      font-size="24.00"
      id="text1045"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">業種</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.3983593px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.98952849,1.0105823)">業種</text>
   <text
-     x="1674.4526"
-     y="988.66693"
+     x="1625.0857"
+     y="1018.8198"
      font-size="24.00"
      id="text1053"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:3.9955802;stroke-miterlimit:4;stroke-dasharray:none"
-     transform="scale(0.94301226,1.0604316)">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.27249908px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:3.99557996;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.97165918,1.0291675)">
     <tspan
        sodipodi:role="line"
        id="tspan6562"
-       x="1674.4526"
-       y="988.66693"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:3.9955802">創立年（平成元年以降）</tspan>
+       x="1625.0857"
+       y="1018.8198"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.27249908px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:3.99557996">創立年（平成元年以降）</tspan>
   </text>
   <text
-     x="1567.5438"
-     y="988.0163"
+     x="1581.9653"
+     y="978.97723"
      font-size="24.00"
      id="text1049"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">創立時期</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.35951805px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99088383,1.0092)">創立時期</text>
   <text
-     x="1567.0411"
-     y="1153.6235"
+     x="1572.0317"
+     y="1149.9495"
      font-size="24.00"
      id="text1127"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">育児休業制度の適用</text>
-  <text
-     x="1632.0619"
-     y="1168.9534"
-     font-size="24.00"
-     id="text1135"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.0682354;stroke-miterlimit:4;stroke-dasharray:none"
-     transform="scale(0.96015989,1.0414932)">育児休業取得者の有無</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.19048119px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99682538,1.0031847)">育児休業制度の適用</text>
   <g
      id="g6549-0"
      transform="matrix(1,0,0,1.1551324,-1.3058578,-17.910861)"
@@ -1231,7 +1289,7 @@
        transform="matrix(1.0801789,0,0,0.63989999,-465.19126,1932.8809)"
        style="fill:#ffffff;stroke:#82a0be;stroke-width:4.74179459;stroke-miterlimit:4;stroke-dasharray:none"
        id="polygon1125-1"
-       points="1740.5,-1281 2028.5,-1281 2028.5,-1119 1740.5,-1119 " />
+       points="2028.5,-1119 1740.5,-1119 1740.5,-1281 2028.5,-1281 " />
     <polyline
        transform="matrix(1.0801789,0,0,0.80696,-465.19126,2156.9394)"
        style="fill:none;stroke:#82a0be;stroke-width:3.37802458;stroke-miterlimit:4;stroke-dasharray:none"
@@ -1239,24 +1297,26 @@
        points="1740.5,-1227 2028.5,-1227 " />
   </g>
   <text
-     x="1564.0161"
-     y="1307.1052"
+     x="1568.9971"
+     y="1302.944"
      font-size="24.00"
      id="text1149"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.19048119px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99682538,1.0031847)">
     <tspan
        id="tspan264"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">介護休業制度の適用</tspan>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.19048119px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:4.23703957">介護休業制度の適用</tspan>
   </text>
   <text
-     x="1566.2919"
-     y="1369.5085"
+     x="1574.2596"
+     y="1362.5581"
      font-size="24.00"
      id="text1157"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.24393654px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99493874,1.005087)">
     <tspan
        id="tspan266"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:-2.24658418px;writing-mode:lr-tb;text-anchor:middle">介護休業取得者の有無</tspan>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.24393654px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:-2.25801253px;writing-mode:lr-tb;text-anchor:middle;stroke-width:4.23703957">介護休業取得者の有無</tspan>
   </text>
   <rect
      style="opacity:1;vector-effect:none;fill:#ccdfff;fill-opacity:1;stroke:#82a0be;stroke-width:4.45908857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1295,76 +1355,88 @@
        points="2184,-481 2549,-481 " />
   </g>
   <text
-     x="1721.6379"
-     y="2095.9795"
+     x="1720.6261"
+     y="2097.2144"
      font-size="24.00"
      id="text1241"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.08447266px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(1.000588,0.99941231)">
     <tspan
        sodipodi:role="line"
        id="tspan6025"
-       x="1721.6379"
-       y="2095.9795">会社（勤務先）変更の理由</tspan>
+       x="1720.6261"
+       y="2097.2144"
+       style="stroke-width:4.23703957">会社（勤務先）変更の理由</tspan>
   </text>
   <text
-     x="1721.6379"
-     y="2154.186"
+     x="1733.6897"
+     y="2139.1868"
      font-size="24.00"
      id="text1245"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">離職時期</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.29769707px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99304851,1.0070001)">離職時期</text>
   <text
-     x="1721.6379"
-     y="2206.0354"
+     x="1734.1617"
+     y="2190.0786"
      font-size="24.00"
      id="text1249"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">離職理由</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.30540276px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99277819,1.0072743)">離職理由</text>
   <text
-     x="1721.6379"
-     y="2258.7014"
+     x="1731.8052"
+     y="2245.4202"
      font-size="24.00"
      id="text1253"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">離職時の生活への対処</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.26693916px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99412911,1.0059056)">離職時の生活への対処</text>
   <text
-     x="1719.8947"
-     y="2311.5276"
+     x="1731.463"
+     y="2296.0601"
      font-size="24.00"
      id="text1265"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">離職・転職等への意識</text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.28999901px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99331876,1.0067262)">離職・転職等への意識</text>
   <text
-     x="2186.051"
-     y="2188.6147"
+     x="2190.6472"
+     y="2184.0151"
      font-size="24.00"
      id="text1149-4"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.16007042px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99790187,1.0021025)">
     <tspan
-       y="2188.6147"
-       x="2186.051"
+       y="2184.0151"
+       x="2190.6472"
        sodipodi:role="line"
-       id="tspan5970">従業員数増減の有無</tspan>
+       id="tspan5970"
+       style="stroke-width:4.23703957">従業員数増減の有無</tspan>
   </text>
   <text
-     x="2182.8787"
-     y="2250.3967"
+     x="2194.5781"
+     y="2238.3809"
      font-size="24.00"
      id="text1153-2"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.25159836px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99466894,1.0053596)">
     <tspan
-       y="2250.3967"
-       x="2182.8787"
+       y="2238.3809"
+       x="2194.5781"
        sodipodi:role="line"
-       id="tspan5972">配置転換の有無</tspan>
+       id="tspan5972"
+       style="stroke-width:4.23703957">配置転換の有無</tspan>
   </text>
   <text
-     x="2187.5081"
-     y="2308.4429"
+     x="2203.4207"
+     y="2291.7461"
      font-size="24.00"
      id="text1157-8"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.30540276px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99277819,1.0072743)">
     <tspan
        sodipodi:role="line"
        id="tspan5974"
-       x="2187.5081"
-       y="2308.4429">仕事内容変化の有無</tspan>
+       x="2203.4207"
+       y="2291.7461"
+       style="stroke-width:4.23703957">仕事内容変化の有無</tspan>
   </text>
   <rect
      style="opacity:1;vector-effect:none;fill:#ccdfff;fill-opacity:1;stroke:#82a0be;stroke-width:4.45908857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1389,29 +1461,45 @@
        style="fill:#ffffff;fill-opacity:1;stroke:#82a0be;stroke-width:3.06698442;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <text
-     x="2418.6213"
-     y="1984.1586"
+     x="2432.2441"
+     y="1973.0245"
      font-size="24.00"
      id="text901-0-9-3"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.25926399px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99439906,1.0056325)">
     <tspan
        sodipodi:role="line"
        id="tspan5832"
-       x="2418.6213"
-       y="1984.1586">登録会社の変更の有無</tspan>
+       x="2432.2441"
+       y="1973.0245"
+       style="stroke-width:4.23703957">登録会社の変更の有無</tspan>
   </text>
   <text
-     x="2539.7563"
-     y="1950.5115"
+     x="2494.5259"
+     y="1985.9446"
      font-size="24.00"
      id="text901-0-9-3-3"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.04180908;stroke-miterlimit:4;stroke-dasharray:none"
-     transform="scale(0.95392294,1.0483027)">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.60053635px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.04180908;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.97121941,1.0296335)">
     <tspan
        sodipodi:role="line"
        id="tspan5852"
-       x="2539.7563"
-       y="1950.5115"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.10098648px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:4.04180908">派遣先会社の変更の有無</tspan>
+       x="2494.5259"
+       y="1985.9446"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.60053635px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:4.04180908">派遣先会社の変更の有無</tspan>
+  </text>
+  <text
+     x="1574.5721"
+     y="1208.3997"
+     font-size="24.00"
+     id="text1127-7"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.22863197px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:4.23703957;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(0.99547816,1.0045424)">
+    <tspan
+       sodipodi:role="line"
+       id="tspan1091"
+       x="1574.5721"
+       y="1208.3997"
+       style="stroke-width:4.23703957">育児休業取得者の有無</tspan>
   </text>
 </svg>

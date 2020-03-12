@@ -85,7 +85,11 @@ html_theme_path = ["sphinx_rtd_theme.get_html_theme_path()"]
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-html_theme_options = {"titles_only": True}
+html_theme_options = {
+    'titles_only': True,
+    'navigation_depth': 3,
+    'sticky_navigation': False
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
