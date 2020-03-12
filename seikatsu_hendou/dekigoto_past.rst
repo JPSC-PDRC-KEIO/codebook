@@ -3,282 +3,41 @@
 =====================================
 
 あなたやあなたのご家族に起こった大きな出来事についてうかがいます。
- | （1）あなたが、中学を卒業してから現在までのあいだで、あなたやあなたのご家族に次のような大きな出来事がありましたか。（〇はいくつでも）
- | （2）その結果どのようなことが起こりましたか。あなたが覚えている限りで、次の中からいくつでもお答えください。（〇はいくつでも）
 
-.. raw:: html
+ （1）あなたが、中学を卒業してから現在までのあいだで、あなたやあなたのご家族に次のような大きな出来事がありましたか。（〇はいくつでも）
 
- <table border="1" style="border:#093350;text-align:center;" font-size="8pt">
- <thead>
- <tr>
- <th colspan="11">(1)中学卒業～現在に起きた大きな出来事</th>
- </tr>
- <tr>
- <th style="width:20%;">なかった</th>
- <th>手術や長期療養を要するような重い病気</th>
- <th>登校拒否、うつ病など精神的な問題</th>
- <th>大きな事故や災害</th>
- <th>定年などによる退職</th>
- <th>希望退職や失業</th>
- <th>多重債務・倒産・破産</th>
- <th>離婚・別居</th>
- <th>転勤や単身赴任</th>
- <th>家出や行方不明</th>
- <th>死亡</th>
- </tr>
- </thead>
+ （2）その結果どのようなことが起こりましたか。あなたが覚えている限りで、次の中からいくつでもお答えください。（〇はいくつでも）
 
- <tbody>
- <tr>
- <td><a href="../variable/P129K.html">P129K</a></td>
- <td><a href="../variable/P129A.html">P129A</a></td>
- <td><a href="../variable/P129B.html">P129B</a></td>
- <td><a href="../variable/P129C.html">P129C</a></td>
- <td><a href="../variable/P129D.html">P129D</a></td>
- <td><a href="../variable/P129E.html">P129E</a></td>
- <td><a href="../variable/P129F.html">P129F</a></td>
- <td><a href="../variable/P129G.html">P129G</a></td>
- <td><a href="../variable/P129H.html">P129H</a></td>
- <td><a href="../variable/P129I.html">P129I</a></td>
- <td><a href="../variable/P129J.html">P129J</a></td>
- </tr>
- <tr>
- <th>(2)出来事の結果</th>
- <td>&nbsp;&nbsp;&#8681;</td>
- <td>&nbsp;&nbsp;&#8681;</td>
- <td>&nbsp;&nbsp;&#8681;</td>
- <td>&nbsp;&nbsp;&#8681;</td>
- <td>&nbsp;&nbsp;&#8681;</td>
- <td>&nbsp;&nbsp;&#8681;</td>
- <td>&nbsp;&nbsp;&#8681;</td>
- <td>&nbsp;&nbsp;&#8681;</td>
- <td>&nbsp;&nbsp;&#8681;</td>
- <td>&nbsp;&nbsp;&#8681;</td>
- </tr>
 
- <tr>
- <td>収入や資産が低下した</td>
- <td><a href="../variable/P130A.html">P130A</a></td>
- <td><a href="../variable/P131A.html">P131A</a></td>
- <td><a href="../variable/P132A.html">P132A</a></td>
- <td><a href="../variable/P134A.html">P133A</a></td>
- <td><a href="../variable/P134A.html">P134A</a></td>
- <td><a href="../variable/P135A.html">P135A</a></td>
- <td><a href="../variable/P136A.html">P136A</a></td>
- <td><a href="../variable/P137A.html">P137A</a></td>
- <td><a href="../variable/P138A.html">P138A</a></td>
- <td><a href="../variable/P139A.html">P139A</a></td>
- </tr>
- <tr>
- <td>大きな費用がかかった</td>
- <td><a href="../variable/P130B.html">P130B</a></td>
- <td><a href="../variable/P131B.html">P131B</a></td>
- <td><a href="../variable/P132B.html">P132B</a></td>
- <td><a href="../variable/P133B.html">P133B</a></td>
- <td><a href="../variable/P134B.html">P134B</a></td>
- <td><a href="../variable/P135B.html">P135B</a></td>
- <td><a href="../variable/P136B.html">P136B</a></td>
- <td><a href="../variable/P137B.html">P137B</a></td>
- <td><a href="../variable/P138B.html">P138B</a></td>
- <td><a href="../variable/P139B.html">P139B</a></td>
- </tr>
- <tr>
- <td>世話（介護・看病など）が大変だった</td>
- <td><a href="../variable/P130C.html">P130C</a></td>
- <td><a href="../variable/P131C.html">P131C</a></td>
- <td><a href="../variable/P132C.html">P132C</a></td>
- <td><a href="../variable/P133C.html">P133C</a></td>
- <td><a href="../variable/P134C.html">P134C</a></td>
- <td><a href="../variable/P135C.html">P135C</a></td>
- <td><a href="../variable/P136C.html">P136C</a></td>
- <td><a href="../variable/P137C.html">P137C</a></td>
- <td><a href="../variable/P138C.html">P138C</a></td>
- <td><a href="../variable/P139C.html">P139C</a></td>
- </tr>
- <tr>
- <td>家族内の人間関係がうまくいかなくなった</td>
- <td><a href="../variable/P130D.html">P130D</a></td>
- <td><a href="../variable/P131D.html">P131D</a></td>
- <td><a href="../variable/P132D.html">P132D</a></td>
- <td><a href="../variable/P133D.html">P133D</a></td>
- <td><a href="../variable/P134D.html">P134D</a></td>
- <td><a href="../variable/P135D.html">P135D</a></td>
- <td><a href="../variable/P136D.html">P136D</a></td>
- <td><a href="../variable/P137D.html">P137D</a></td>
- <td><a href="../variable/P138D.html">P138D</a></td>
- <td><a href="../variable/P139D.html">P139D</a></td>
- </tr>
- <tr>
- <td>あなた自身が精神的に落ち込んだ</td>
- <td><a href="../variable/P130E.html">P130E</a></td>
- <td><a href="../variable/P131E.html">P131E</a></td>
- <td><a href="../variable/P132E.html">P132E</a></td>
- <td><a href="../variable/P133E.html">P133E</a></td>
- <td><a href="../variable/P134E.html">P134E</a></td>
- <td><a href="../variable/P135E.html">P135E</a></td>
- <td><a href="../variable/P136E.html">P136E</a></td>
- <td><a href="../variable/P137E.html">P137E</a></td>
- <td><a href="../variable/P138E.html">P138E</a></td>
- <td><a href="../variable/P139E.html">P139E</a></td>
- </tr>
- <tr>
- <td>転居した</td>
- <td><a href="../variable/P130F.html">P130F</a></td>
- <td><a href="../variable/P131F.html">P131F</a></td>
- <td><a href="../variable/P132F.html">P132F</a></td>
- <td><a href="../variable/P133F.html">P133F</a></td>
- <td><a href="../variable/P134F.html">P134F</a></td>
- <td><a href="../variable/P135F.html">P135F</a></td>
- <td><a href="../variable/P136F.html">P136F</a></td>
- <td><a href="../variable/P137F.html">P137F</a></td>
- <td><a href="../variable/P138F.html">P138F</a></td>
- <td><a href="../variable/P139F.html">P139F</a></td>
- </tr>
- <tr>
- <td>進学をあきらめたり、休学・退学をした</td>
- <td><a href="../variable/P130G.html">P130G</a></td>
- <td><a href="../variable/P131G.html">P131G</a></td>
- <td><a href="../variable/P132G.html">P132G</a></td>
- <td><a href="../variable/P133G.html">P133G</a></td>
- <td><a href="../variable/P134G.html">P134G</a></td>
- <td><a href="../variable/P135G.html">P135G</a></td>
- <td><a href="../variable/P136G.html">P136G</a></td>
- <td><a href="../variable/P137G.html">P137G</a></td>
- <td><a href="../variable/P138G.html">P138G</a></td>
- <td><a href="../variable/P139G.html">P139G</a></td>
- </tr>
- <tr>
- <td>離婚・別居など家族がわかれた</td>
- <td><a href="../variable/P130H.html">P130H</a></td>
- <td><a href="../variable/P131H.html">P131H</a></td>
- <td><a href="../variable/P132H.html">P132H</a></td>
- <td><a href="../variable/P133H.html">P133H</a></td>
- <td><a href="../variable/P134H.html">P134H</a></td>
- <td><a href="../variable/P135H.html">P135H</a></td>
- <td><a href="../variable/P136H.html">P136H</a></td>
- <td><a href="../variable/P137H.html">P137H</a></td>
- <td><a href="../variable/P138H.html">P138H</a></td>
- <td><a href="../variable/P139H.html">P139H</a></td>
- </tr>
- <tr>
- <td>自分が新たに働き始めた</td>
- <td><a href="../variable/P130I.html">P130I</a></td>
- <td><a href="../variable/P131I.html">P131I</a></td>
- <td><a href="../variable/P132I.html">P132I</a></td>
- <td><a href="../variable/P133I.html">P133I</a></td>
- <td><a href="../variable/P134I.html">P134I</a></td>
- <td><a href="../variable/P135I.html">P135I</a></td>
- <td><a href="../variable/P136I.html">P136I</a></td>
- <td><a href="../variable/P137I.html">P137I</a></td>
- <td><a href="../variable/P138I.html">P138I</a></td>
- <td><a href="../variable/P139I.html">P139I</a></td>
- </tr>
- <tr>
- <td>家族のだれかが新たに働き始めた</td>
- <td><a href="../variable/P130J.html">P130J</a></td>
- <td><a href="../variable/P131J.html">P131J</a></td>
- <td><a href="../variable/P132J.html">P132J</a></td>
- <td><a href="../variable/P133J.html">P133J</a></td>
- <td><a href="../variable/P134J.html">P134J</a></td>
- <td><a href="../variable/P135J.html">P135J</a></td>
- <td><a href="../variable/P136J.html">P136J</a></td>
- <td><a href="../variable/P137J.html">P137J</a></td>
- <td><a href="../variable/P138J.html">P138J</a></td>
- <td><a href="../variable/P139J.html">P139J</a></td>
- </tr>
- <tr>
- <td>親戚や友人に経済的援助を頼んだ</td>
- <td><a href="../variable/P130K.html">P130K</a></td>
- <td><a href="../variable/P131K.html">P131K</a></td>
- <td><a href="../variable/P132K.html">P132K</a></td>
- <td><a href="../variable/P133K.html">P133K</a></td>
- <td><a href="../variable/P134K.html">P134K</a></td>
- <td><a href="../variable/P135K.html">P135K</a></td>
- <td><a href="../variable/P136K.html">P136K</a></td>
- <td><a href="../variable/P137K.html">P137K</a></td>
- <td><a href="../variable/P138K.html">P138K</a></td>
- <td><a href="../variable/P139K.html">P139K</a></td>
- </tr>
- <tr>
- <td>土地や家屋を売った</td>
- <td><a href="../variable/P130L.html">P130L</a></td>
- <td><a href="../variable/P131L.html">P131L</a></td>
- <td><a href="../variable/P132L.html">P132L</a></td>
- <td><a href="../variable/P133L.html">P133L</a></td>
- <td><a href="../variable/P134L.html">P134L</a></td>
- <td><a href="../variable/P135L.html">P135L</a></td>
- <td><a href="../variable/P136L.html">P136L</a></td>
- <td><a href="../variable/P137L.html">P137L</a></td>
- <td><a href="../variable/P138L.html">P138L</a></td>
- <td><a href="../variable/P139L.html">P139L</a></td>
- </tr>
- <tr>
- <td>金融機関などから借金をした</td>
- <td><a href="../variable/P130M.html">P130M</a></td>
- <td><a href="../variable/P131M.html">P131M</a></td>
- <td><a href="../variable/P132M.html">P132M</a></td>
- <td><a href="../variable/P133M.html">P133M</a></td>
- <td><a href="../variable/P134M.html">P134M</a></td>
- <td><a href="../variable/P135M.html">P135M</a></td>
- <td><a href="../variable/P136M.html">P136M</a></td>
- <td><a href="../variable/P137M.html">P137M</a></td>
- <td><a href="../variable/P138M.html">P138M</a></td>
- <td><a href="../variable/P139M.html">P139M</a></td>
- </tr>
- <tr>
- <td>専門機関で治療や相談をした</td>
- <td><a href="../variable/P130N.html">P130N</a></td>
- <td><a href="../variable/P131N.html">P131N</a></td>
- <td><a href="../variable/P132N.html">P132N</a></td>
- <td><a href="../variable/P133N.html">P133N</a></td>
- <td><a href="../variable/P134N.html">P134N</a></td>
- <td><a href="../variable/P135N.html">P135N</a></td>
- <td><a href="../variable/P136N.html">P136N</a></td>
- <td><a href="../variable/P137N.html">P137N</a></td>
- <td><a href="../variable/P138N.html">P138N</a></td>
- <td><a href="../variable/P139N.html">P139N</a></td>
- </tr>
- <tr>
- <td>宗教関係者に相談をした</td>
- <td><a href="../variable/P130O.html">P130O</a></td>
- <td><a href="../variable/P131O.html">P131O</a></td>
- <td><a href="../variable/P132O.html">P132O</a></td>
- <td><a href="../variable/P133O.html">P133O</a></td>
- <td><a href="../variable/P134O.html">P134O</a></td>
- <td><a href="../variable/P135O.html">P135O</a></td>
- <td><a href="../variable/P136O.html">P136O</a></td>
- <td><a href="../variable/P137O.html">P137O</a></td>
- <td><a href="../variable/P138O.html">P138O</a></td>
- <td><a href="../variable/P139O.html">P139O</a></td>
- </tr>
- <tr>
- <td>その他</td>
- <td><a href="../variable/P130P.html">P130P</a></td>
- <td><a href="../variable/P131P.html">P131P</a></td>
- <td><a href="../variable/P132P.html">P132P</a></td>
- <td><a href="../variable/P133P.html">P133P</a></td>
- <td><a href="../variable/P134P.html">P134P</a></td>
- <td><a href="../variable/P135P.html">P135P</a></td>
- <td><a href="../variable/P136P.html">P136P</a></td>
- <td><a href="../variable/P137P.html">P137P</a></td>
- <td><a href="../variable/P138P.html">P138P</a></td>
- <td><a href="../variable/P139P.html">P139P</a></td>
- </tr>
- <tr>
- <td>とくに変化はなかった</td>
- <td><a href="../variable/P130Q.html">P130Q</a></td>
- <td><a href="../variable/P131Q.html">P131Q</a></td>
- <td><a href="../variable/P132Q.html">P132Q</a></td>
- <td><a href="../variable/P133Q.html">P133Q</a></td>
- <td><a href="../variable/P134Q.html">P134Q</a></td>
- <td><a href="../variable/P135Q.html">P135Q</a></td>
- <td><a href="../variable/P136Q.html">P136Q</a></td>
- <td><a href="../variable/P137Q.html">P137Q</a></td>
- <td><a href="../variable/P138Q.html">P138Q</a></td>
- <td><a href="../variable/P139Q.html">P139Q</a></td>
- </tr>
- </tbody>
- </table>
+ .. csv-table:: 中学卒業～現在に起きた大きな出来事
+    :header: どれもなかった, 手術や長期療養を要するような重い病気, 登校拒否、うつ病など精神的な問題, 大きな事故や災害, 定年などによる退職, 希望退職や失業, 多重債務・倒産・破産, 離婚・別居, 転勤や単身赴任, 家出や行方不明, 死亡
+    :widths: 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2
+
+    :doc:`P129K</variable/P129K>`, :doc:`P129z</variable/P129z>`, :doc:`P129B</variable/P129B>`, :doc:`P129C</variable/P129C>`, :doc:`P129D</variable/P129D>`, :doc:`P129E</variable/P129E>`, :doc:`P129F</variable/P129F>`, :doc:`P129G</variable/P129G>`, :doc:`P129H</variable/P129H>`, :doc:`P129I</variable/P129I>`, :doc:`P129J</variable/P129J>`
+
+|
+
+ .. csv-table:: 出来事の結果起こったこと
+    :header: "", "手術や長期療養を要するような重い病気", "登校拒否、うつ病など精神的な問題", "大きな事故や災害", "定年などによる退職", "希望退職や失業", "多重債務・倒産・破産", "離婚・別居", "転勤や単身赴任", "家出や行方不明", "死亡"
+    :widths: 5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+
+    "収入や資産が低下した", ":doc:`P130A</variable/P130z>`", ":doc:`P131A</variable/P131z>`", ":doc:`P132A</variable/P132z>`", ":doc:`P133A</variable/P133z>`", ":doc:`P134A</variable/P134z>`", ":doc:`P135A</variable/P135z>`", ":doc:`P136A</variable/P136z>`", ":doc:`P137A</variable/P137z>`", ":doc:`P138A</variable/P138z>`", ":doc:`P139A</variable/P139z>`"
+    "大きな費用がかかった", ":doc:`P130B</variable/P130B>`", ":doc:`P131B</variable/P131B>`", ":doc:`P132B</variable/P132B>`", ":doc:`P133B</variable/P133B>`", ":doc:`P134B</variable/P134B>`", ":doc:`P135B</variable/P135B>`", ":doc:`P136B</variable/P136B>`", ":doc:`P137B</variable/P137B>`", ":doc:`P138B</variable/P138B>`", ":doc:`P139B</variable/P139B>`"
+    "世話（介護・看病など）が大変だった", ":doc:`P130C</variable/P130C>`", ":doc:`P131C</variable/P131C>`", ":doc:`P132C</variable/P132C>`", ":doc:`P133C</variable/P133C>`", ":doc:`P134C</variable/P134C>`", ":doc:`P135C</variable/P135C>`", ":doc:`P136C</variable/P136C>`", ":doc:`P137C</variable/P137C>`", ":doc:`P138C</variable/P138C>`", ":doc:`P139C</variable/P139C>`"
+    "家族内の人間関係がうまくいかなくなった", ":doc:`P130D</variable/P130D>`", ":doc:`P131D</variable/P131D>`", ":doc:`P132D</variable/P132D>`", ":doc:`P133D</variable/P133D>`", ":doc:`P134D</variable/P134D>`", ":doc:`P135D</variable/P135D>`", ":doc:`P136D</variable/P136D>`", ":doc:`P137D</variable/P137D>`", ":doc:`P138D</variable/P138D>`", ":doc:`P139D</variable/P139D>`"
+    "あなた自身が精神的に落ち込んだ", ":doc:`P130E</variable/P130E>`", ":doc:`P131E</variable/P131E>`", ":doc:`P132E</variable/P132E>`", ":doc:`P133E</variable/P133E>`", ":doc:`P134E</variable/P134E>`", ":doc:`P135E</variable/P135E>`", ":doc:`P136E</variable/P136E>`", ":doc:`P137E</variable/P137E>`", ":doc:`P138E</variable/P138E>`", ":doc:`P139E</variable/P139E>`"
+    "転居した", ":doc:`P130F</variable/P130F>`", ":doc:`P131F</variable/P131F>`", ":doc:`P132F</variable/P132F>`", ":doc:`P133F</variable/P133F>`", ":doc:`P134F</variable/P134F>`", ":doc:`P135F</variable/P135F>`", ":doc:`P136F</variable/P136F>`", ":doc:`P137F</variable/P137F>`", ":doc:`P138F</variable/P138F>`", ":doc:`P139F</variable/P139F>`"
+    "進学をあきらめたり、休学・退学をした", ":doc:`P130G</variable/P130G>`", ":doc:`P131G</variable/P131G>`", ":doc:`P132G</variable/P132G>`", ":doc:`P133G</variable/P133G>`", ":doc:`P134G</variable/P134G>`", ":doc:`P135G</variable/P135G>`", ":doc:`P136G</variable/P136G>`", ":doc:`P137G</variable/P137G>`", ":doc:`P138G</variable/P138G>`", ":doc:`P139G</variable/P139G>`"
+    "離婚・別居など家族がわかれた", ":doc:`P130H</variable/P130H>`", ":doc:`P131H</variable/P131H>`", ":doc:`P132H</variable/P132H>`", ":doc:`P133H</variable/P133H>`", ":doc:`P134H</variable/P134H>`", ":doc:`P135H</variable/P135H>`", ":doc:`P136H</variable/P136H>`", ":doc:`P137H</variable/P137H>`", ":doc:`P138H</variable/P138H>`", ":doc:`P139H</variable/P139H>`"
+    "自分が新たに働き始めた", ":doc:`P130I</variable/P130I>`", ":doc:`P131I</variable/P131I>`", ":doc:`P132I</variable/P132I>`", ":doc:`P133I</variable/P133I>`", ":doc:`P134I</variable/P134I>`", ":doc:`P135I</variable/P135I>`", ":doc:`P136I</variable/P136I>`", ":doc:`P137I</variable/P137I>`", ":doc:`P138I</variable/P138I>`", ":doc:`P139I</variable/P139I>`"
+    "家族のだれかが新たに働き始めた", ":doc:`P130J</variable/P130J>`", ":doc:`P131J</variable/P131J>`", ":doc:`P132J</variable/P132J>`", ":doc:`P133J</variable/P133J>`", ":doc:`P134J</variable/P134J>`", ":doc:`P135J</variable/P135J>`", ":doc:`P136J</variable/P136J>`", ":doc:`P137J</variable/P137J>`", ":doc:`P138J</variable/P138J>`", ":doc:`P139J</variable/P139J>`"
+    "親戚や友人に経済的援助を頼んだ", ":doc:`P130K</variable/P130K>`", ":doc:`P131K</variable/P131K>`", ":doc:`P132K</variable/P132K>`", ":doc:`P133K</variable/P133K>`", ":doc:`P134K</variable/P134K>`", ":doc:`P135K</variable/P135K>`", ":doc:`P136K</variable/P136K>`", ":doc:`P137K</variable/P137K>`", ":doc:`P138K</variable/P138K>`", ":doc:`P139K</variable/P139K>`"
+    "土地や家屋を売った", ":doc:`P130L</variable/P130L>`", ":doc:`P131L</variable/P131L>`", ":doc:`P132L</variable/P132L>`", ":doc:`P133L</variable/P133L>`", ":doc:`P134L</variable/P134L>`", ":doc:`P135L</variable/P135L>`", ":doc:`P136L</variable/P136L>`", ":doc:`P137L</variable/P137L>`", ":doc:`P138L</variable/P138L>`", ":doc:`P139L</variable/P139L>`"
+    "金融機関などから借金をした", ":doc:`P130M</variable/P130M>`", ":doc:`P131M</variable/P131M>`", ":doc:`P132M</variable/P132M>`", ":doc:`P133M</variable/P133M>`", ":doc:`P134M</variable/P134M>`", ":doc:`P135M</variable/P135M>`", ":doc:`P136M</variable/P136M>`", ":doc:`P137M</variable/P137M>`", ":doc:`P138M</variable/P138M>`", ":doc:`P139M</variable/P139M>`"
+    "専門機関で治療や相談をした", ":doc:`P130N</variable/P130N>`", ":doc:`P131N</variable/P131N>`", ":doc:`P132N</variable/P132N>`", ":doc:`P133N</variable/P133N>`", ":doc:`P134N</variable/P134N>`", ":doc:`P135N</variable/P135N>`", ":doc:`P136N</variable/P136N>`", ":doc:`P137N</variable/P137N>`", ":doc:`P138N</variable/P138N>`", ":doc:`P139N</variable/P139N>`"
+    "宗教関係者に相談をした", ":doc:`P130O</variable/P130O>`", ":doc:`P131O</variable/P131O>`", ":doc:`P132O</variable/P132O>`", ":doc:`P133O</variable/P133O>`", ":doc:`P134O</variable/P134O>`", ":doc:`P135O</variable/P135O>`", ":doc:`P136O</variable/P136O>`", ":doc:`P137O</variable/P137O>`", ":doc:`P138O</variable/P138O>`", ":doc:`P139O</variable/P139O>`"
+    "その他", ":doc:`P130P</variable/P130P>`", ":doc:`P131P</variable/P131P>`", ":doc:`P132P</variable/P132P>`", ":doc:`P133P</variable/P133P>`", ":doc:`P134P</variable/P134P>`", ":doc:`P135P</variable/P135P>`", ":doc:`P136P</variable/P136P>`", ":doc:`P137P</variable/P137P>`", ":doc:`P138P</variable/P138P>`", ":doc:`P139P</variable/P139P>`"
+    "とくに変化はなかった", ":doc:`P130Q</variable/P130Q>`", ":doc:`P131Q</variable/P131Q>`", ":doc:`P132Q</variable/P132Q>`", ":doc:`P133Q</variable/P133Q>`", ":doc:`P134Q</variable/P134Q>`", ":doc:`P135Q</variable/P135Q>`", ":doc:`P136Q</variable/P136Q>`", ":doc:`P137Q</variable/P137Q>`", ":doc:`P138Q</variable/P138Q>`", ":doc:`P139Q</variable/P139Q>`"
 
 
 |
