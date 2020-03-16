@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-17 04:33+0900\n"
-"PO-Revision-Date: 2020-03-17 05:11+0900\n"
+"PO-Revision-Date: 2020-03-17 06:25+0900\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -23,12 +23,10 @@ msgid "利用にあたって"
 msgstr "Usage"
 
 #: ../../index.rst:27 ../../index.rst:32
-#, fuzzy
 msgid "調査について"
 msgstr "About the survey"
 
 #: ../../index.rst:43 ../../index.rst:48
-#, fuzzy
 msgid "収録変数"
 msgstr "Variables"
 
