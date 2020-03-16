@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-09 15:47+0900\n"
+"POT-Creation-Date: 2020-03-17 00:12+0900\n"
 "PO-Revision-Date: 2020-03-09 15:43+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -17,22 +17,866 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.8.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:3
+#: ../../seikatsu_hendou/dekigoto_past.rst:3
 msgid "初回調査時までの出来事"
 msgstr "Life event before the first responce"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:7
+#: ../../seikatsu_hendou/dekigoto_past.rst:5
 msgid "あなたやあなたのご家族に起こった大きな出来事についてうかがいます。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst
+#: ../../seikatsu_hendou/dekigoto_past.rst:7
 msgid "（1）あなたが、中学を卒業してから現在までのあいだで、あなたやあなたのご家族に次のような大きな出来事がありましたか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst
+#: ../../seikatsu_hendou/dekigoto_past.rst:9
 msgid "（2）その結果どのようなことが起こりましたか。あなたが覚えている限りで、次の中からいくつでもお答えください。（〇はいくつでも）"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:12
+msgid "中学卒業～現在に起きた大きな出来事"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "どれもなかった"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "手術や長期療養を要するような重い病気"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "登校拒否、うつ病など精神的な問題"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "大きな事故や災害"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "定年などによる退職"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "希望退職や失業"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "多重債務・倒産・破産"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "離婚・別居"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "転勤や単身赴任"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "家出や行方不明"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "死亡"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P129K</variable/P129K>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P129z</variable/P129z>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P129B</variable/P129B>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P129C</variable/P129C>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P129D</variable/P129D>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P129E</variable/P129E>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P129F</variable/P129F>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P129G</variable/P129G>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P129H</variable/P129H>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P129I</variable/P129I>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P129J</variable/P129J>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:20
+msgid "出来事の結果起こったこと"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "収入や資産が低下した"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P130A</variable/P130z>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P131A</variable/P131z>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P132A</variable/P132z>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P133A</variable/P133z>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P134A</variable/P134z>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P135A</variable/P135z>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P136A</variable/P136z>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P137A</variable/P137z>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P138A</variable/P138z>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P139A</variable/P139z>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "大きな費用がかかった"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P130B</variable/P130B>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P131B</variable/P131B>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P132B</variable/P132B>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P133B</variable/P133B>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P134B</variable/P134B>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P135B</variable/P135B>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P136B</variable/P136B>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P137B</variable/P137B>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P138B</variable/P138B>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P139B</variable/P139B>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "世話（介護・看病など）が大変だった"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P130C</variable/P130C>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P131C</variable/P131C>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P132C</variable/P132C>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P133C</variable/P133C>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P134C</variable/P134C>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P135C</variable/P135C>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P136C</variable/P136C>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P137C</variable/P137C>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P138C</variable/P138C>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P139C</variable/P139C>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "家族内の人間関係がうまくいかなくなった"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P130D</variable/P130D>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P131D</variable/P131D>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P132D</variable/P132D>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P133D</variable/P133D>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P134D</variable/P134D>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P135D</variable/P135D>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P136D</variable/P136D>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P137D</variable/P137D>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P138D</variable/P138D>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P139D</variable/P139D>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "あなた自身が精神的に落ち込んだ"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P130E</variable/P130E>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P131E</variable/P131E>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P132E</variable/P132E>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P133E</variable/P133E>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P134E</variable/P134E>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P135E</variable/P135E>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P136E</variable/P136E>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P137E</variable/P137E>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P138E</variable/P138E>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P139E</variable/P139E>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "転居した"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P130F</variable/P130F>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P131F</variable/P131F>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P132F</variable/P132F>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P133F</variable/P133F>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P134F</variable/P134F>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P135F</variable/P135F>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P136F</variable/P136F>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P137F</variable/P137F>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P138F</variable/P138F>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P139F</variable/P139F>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "進学をあきらめたり、休学・退学をした"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P130G</variable/P130G>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P131G</variable/P131G>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P132G</variable/P132G>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P133G</variable/P133G>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P134G</variable/P134G>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P135G</variable/P135G>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P136G</variable/P136G>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P137G</variable/P137G>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P138G</variable/P138G>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P139G</variable/P139G>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "離婚・別居など家族がわかれた"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P130H</variable/P130H>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P131H</variable/P131H>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P132H</variable/P132H>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P133H</variable/P133H>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P134H</variable/P134H>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P135H</variable/P135H>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P136H</variable/P136H>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P137H</variable/P137H>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P138H</variable/P138H>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P139H</variable/P139H>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "自分が新たに働き始めた"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P130I</variable/P130I>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P131I</variable/P131I>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P132I</variable/P132I>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P133I</variable/P133I>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P134I</variable/P134I>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P135I</variable/P135I>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P136I</variable/P136I>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P137I</variable/P137I>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P138I</variable/P138I>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P139I</variable/P139I>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "家族のだれかが新たに働き始めた"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P130J</variable/P130J>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P131J</variable/P131J>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P132J</variable/P132J>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P133J</variable/P133J>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P134J</variable/P134J>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P135J</variable/P135J>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P136J</variable/P136J>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P137J</variable/P137J>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P138J</variable/P138J>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P139J</variable/P139J>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "親戚や友人に経済的援助を頼んだ"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P130K</variable/P130K>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P131K</variable/P131K>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P132K</variable/P132K>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P133K</variable/P133K>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P134K</variable/P134K>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P135K</variable/P135K>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P136K</variable/P136K>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P137K</variable/P137K>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P138K</variable/P138K>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P139K</variable/P139K>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "土地や家屋を売った"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P130L</variable/P130L>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P131L</variable/P131L>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P132L</variable/P132L>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P133L</variable/P133L>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P134L</variable/P134L>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P135L</variable/P135L>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P136L</variable/P136L>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P137L</variable/P137L>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P138L</variable/P138L>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P139L</variable/P139L>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "金融機関などから借金をした"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P130M</variable/P130M>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P131M</variable/P131M>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P132M</variable/P132M>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P133M</variable/P133M>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P134M</variable/P134M>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P135M</variable/P135M>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P136M</variable/P136M>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P137M</variable/P137M>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P138M</variable/P138M>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P139M</variable/P139M>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "専門機関で治療や相談をした"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P130N</variable/P130N>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P131N</variable/P131N>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P132N</variable/P132N>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P133N</variable/P133N>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P134N</variable/P134N>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P135N</variable/P135N>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P136N</variable/P136N>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P137N</variable/P137N>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P138N</variable/P138N>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P139N</variable/P139N>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "宗教関係者に相談をした"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P130O</variable/P130O>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P131O</variable/P131O>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P132O</variable/P132O>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P133O</variable/P133O>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P134O</variable/P134O>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P135O</variable/P135O>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P136O</variable/P136O>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P137O</variable/P137O>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P138O</variable/P138O>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P139O</variable/P139O>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "その他"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P130P</variable/P130P>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P131P</variable/P131P>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P132P</variable/P132P>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P133P</variable/P133P>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P134P</variable/P134P>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P135P</variable/P135P>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P136P</variable/P136P>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P137P</variable/P137P>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P138P</variable/P138P>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P139P</variable/P139P>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid "とくに変化はなかった"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P130Q</variable/P130Q>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P131Q</variable/P131Q>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P132Q</variable/P132Q>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P133Q</variable/P133Q>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P134Q</variable/P134Q>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P135Q</variable/P135Q>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P136Q</variable/P136Q>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P137Q</variable/P137Q>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P138Q</variable/P138Q>`"
+msgstr ""
+
+#: ../../seikatsu_hendou/dekigoto_past.rst:1
+msgid ":doc:`P139Q</variable/P139Q>`"
 msgstr ""
 
 #~ msgid ""

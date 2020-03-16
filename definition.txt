@@ -7,3 +7,7 @@
 .. |nt3| replace:: 初回調査
 .. |nt4| replace:: その人
 .. |nt5| replace:: 回答者本人
+
+
+.. |space| unicode:: U+0020 .. 半角スペース
+.. |emspace| unicode:: U+2003 .. em space いわゆるクワタ

@@ -8,210 +8,215 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-25 10:23+0900\n"
+"POT-Creation-Date: 2020-03-17 00:12+0900\n"
 "PO-Revision-Date: 2020-02-25 16:09+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 2.3\n"
+"Generated-By: Babel 2.8.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:3
+#: ../../kihon/tenkyo.rst:3
 msgid "引越し経歴"
 msgstr "Career of moving"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:6
+#: ../../kihon/tenkyo.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:7
+#: ../../kihon/tenkyo.rst:7
 msgid "現在からさかのぼって５回までの引っ越しについて、以下の項目を記入して下さい。"
 msgstr "Please fill in the following for the 5 most recent moves to date."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:10
+#: ../../kihon/tenkyo.rst:10
 msgid "「引っ越し前の住所」は、学部生には公開していません。"
 msgstr "\"The address before the move\" is not disclose to undergruduate students."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:13
-msgid "**一番最近の引っ越し（転居1）**"
-msgstr "The latest move (Move1)"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid "引っ越し時期"
 msgstr "Time of the move"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst
+#: ../../kihon/tenkyo.rst
 msgid "引っ越し前の住所"
 msgstr "Address before the move"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst
+#: ../../kihon/tenkyo.rst
 msgid "（どこから引っ越したか）"
 msgstr "(Where had you moved from?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid "引っ越し理由"
 msgstr "Reason for the move"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst
+#: ../../kihon/tenkyo.rst:1
+#, fuzzy
+msgid "一番最近の引っ越し（転居1）"
+msgstr "The latest move (Move1)"
+
+#: ../../kihon/tenkyo.rst
 msgid "年 :doc:`P33A </variable/P33A>`"
 msgstr "Year :doc:`P33A </variable/P33A>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst
+#: ../../kihon/tenkyo.rst
 msgid "月 :doc:`P33B </variable/P33B>`"
 msgstr "Month :doc:`P33B </variable/P33B>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid ":doc:`P33C </variable/P33A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid ":doc:`P33D </variable/P33D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:22
-msgid "**転居1の一つ前の引っ越し（転居2）**"
+#: ../../kihon/tenkyo.rst:1
+#, fuzzy
+msgid "転居1の一つ前の引っ越し（転居2）"
 msgstr "The move one time befor Move1 (Move2)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst
+#: ../../kihon/tenkyo.rst
 msgid "年 :doc:`P34A </variable/P34A>`"
 msgstr "Year :doc:`P34A </variable/P34A>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst
+#: ../../kihon/tenkyo.rst
 msgid "月 :doc:`P34B </variable/P34B>`"
 msgstr "月 :doc:`P34B </variable/P34B>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid ":doc:`P34C </variable/P34A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid ":doc:`P34D </variable/P34D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:31
-msgid "**転居1のニつ前の引っ越し（転居3）**"
+#: ../../kihon/tenkyo.rst:1
+#, fuzzy
+msgid "転居1のニつ前の引っ越し（転居3）"
 msgstr "The move two times befor Move1 (Move3)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst
+#: ../../kihon/tenkyo.rst
 msgid "年 :doc:`P35A </variable/P35A>`"
 msgstr "Year :doc:`P35A </variable/P35A>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst
+#: ../../kihon/tenkyo.rst
 msgid "月 :doc:`P35B </variable/P35B>`"
 msgstr "Month :doc:`P35B </variable/P35B>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid ":doc:`P35C </variable/P35A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid ":doc:`P35D </variable/P35D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:40
-msgid "**転居1の三つ前の引っ越し（転居4）**"
+#: ../../kihon/tenkyo.rst:1
+#, fuzzy
+msgid "転居1の三つ前の引っ越し（転居4）"
 msgstr "The move three times befor Move1 (Move4)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst
+#: ../../kihon/tenkyo.rst
 msgid "年 :doc:`P36A </variable/P36A>`"
 msgstr "Year :doc:`P36A </variable/P36A>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst
+#: ../../kihon/tenkyo.rst
 msgid "月 :doc:`P36B </variable/P36B>`"
 msgstr "Month :doc:`P36B </variable/P36B>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid ":doc:`P36C </variable/P36A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid ":doc:`P36D </variable/P36D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:49
-msgid "**転居1の四つ前の引っ越し（転居5）**"
+#: ../../kihon/tenkyo.rst:1
+#, fuzzy
+msgid "転居1の四つ前の引っ越し（転居5）"
 msgstr "The move four times befor Move1 (Move5)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst
+#: ../../kihon/tenkyo.rst
 msgid "年 :doc:`P37A </variable/P37A>`"
 msgstr "Year :doc:`P37A </variable/P37A>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst
+#: ../../kihon/tenkyo.rst
 msgid "月 :doc:`P37B </variable/P37B>`"
 msgstr "Month :doc:`P37B </variable/P37B>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid ":doc:`P37C </variable/P37A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid ":doc:`P37D </variable/P37D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid "**引っ越し理由の選択肢**"
 msgstr "**Choice of the moving reason**"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid "進学のため"
 msgstr "Because I went on to next education."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid "自分の初めての就職のため"
 msgstr "Because I took my first job."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid "自分の転勤のため"
 msgstr "Because I was transferred to another office."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid "自分の転職のため"
 msgstr "Because I changed jobs."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid "結婚のため"
 msgstr "Because I got married."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid "子どもが生まれたため"
 msgstr "Because my child was born."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid "夫の転勤のため"
 msgstr "Because my husband was transferred to another office."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid "親の転勤・転職のため"
 msgstr "Because my parent was transferred to another office or changed the job."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid "家・マンションを購入したため"
 msgstr "Because I purchased a house or apartment."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid "公団など公営住宅に当たったため"
 msgstr "Because I could draw a winning ticket of living in a public apartment."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid "親から独立したため"
 msgstr "Because I lived away from my parent(s)."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid "親と同居したため"
 msgstr "Because I lived with my parent(s)."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid "夫や自分の通勤時間を短縮するため"
 msgstr "Because I and my husband cut down my commuting time."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid "子育て・子どもの教育のため"
 msgstr "Because I bring up or educate my child(ren)."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
+#: ../../kihon/tenkyo.rst:1
 msgid "その他"
 msgstr "Other"
+

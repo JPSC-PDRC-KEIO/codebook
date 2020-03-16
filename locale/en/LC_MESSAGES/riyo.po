@@ -8,53 +8,101 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2020-03-17 04:33+0900\n"
 "PO-Revision-Date: 2020-02-04 14:26+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: en\n"
-"X-Generator: Poedit 2.2.4\n"
+"Generated-By: Babel 2.8.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:3
-msgid "利用にあたって"
-msgstr "About this system"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:5
-msgid "「消費生活に関するパネル調査」の変数名（システム変数）、質問文、選択肢、データがある調査回などを検索できます。 検索は以下の方法で行ってください。"
+#: ../../riyo.rst:3
+msgid "調査項目・変数の見つけ方"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:8
-msgid "「質問項目」の各カテゴリーから探す"
+#: ../../riyo.rst:4
+msgid ""
+"「 :doc:`komoku` 」 のページでは調査項目を分野別に階層構造で分類、整理しています [#]_ 。 "
+"関心のある分野についてどのような質問が収録されているかを俯瞰的、網羅的に知りたい場合は、 まず、:doc:`komoku` "
+"のページからその分野のデイレクトリをたどっていくとよいでしょう．"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:9
-msgid "「クイック検索」からキーワードを入れて検索"
+#: ../../riyo.rst:8
+msgid ""
+"特定の項目や変数についてピンポイントで調べたい場合は、そのキーワードや変数名（e.g. Q1）をサイドバーの検索窓に 入力して検索してください． "
+"なお、質問の内容は同じでも、質問文のワーディングや選択肢のコードを変更した場合には、原則、変数名を変更しています。例えば、対象者本人の "
+":doc:`syugyo/syugyojoutai` は、 "
+"第2回調査で選択肢に変更を加えたため、変数名も変更されています。このように項目の変数名を変更しているものについては、変数名の変遷についての説明ページを原則として設けていますが、現段階ではまだ完全には網羅できてはいません。お使いになる変数が第何回の調査からデータに含まれているかを各変数のページの収録シートの項で確認するよう注意してください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:10
-msgid "システム変数名がわかっている場合は、ブラウザ上部のURLウインドウの末尾の/〇〇.html部分に変数名を入れて検索（例：/Q3333.html）"
+#: ../../riyo.rst:17
+msgid ""
+"このドキュメンテーションでの調査項目の分類はJPSCの:doc:`調査票<tyosahyo>` "
+"に準拠しています。ただし、調査票の構成と若干異なる箇所があります。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:12
-msgid "（データユーザーの方は）内容のご不明な点については、配布している各年のコードブック、調査票からご確認ください。"
-msgstr ""
+#~ msgid "利用にあたって"
+#~ msgstr "About this system"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:13
-msgid "現在も追加・編集作業中です。すべての変数を網羅しているわけではありません。"
-msgstr ""
+#~ msgid ""
+#~ "「消費生活に関するパネル調査」の変数名（システム変数）、質問文、選択肢、データがある調査回などを検索できます。 "
+#~ "検索は以下の方法で行ってください。"
+#~ msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:14
-msgid "内容のミスや、変数の不足などについては、下記の問い合わせ先までお知らせください。"
-msgstr ""
+#~ msgid "「質問項目」の各カテゴリーから探す"
+#~ msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:17
-msgid "**問い合わせ先**"
-msgstr "**Contact**"
+#~ msgid "「クイック検索」からキーワードを入れて検索"
+#~ msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:20
-msgid "jpschelp@pdrc.keio.ac.jp（慶應義塾大学パネルデータ設計・解析センター JPSC部門）"
-msgstr ""
+#~ msgid "システム変数名がわかっている場合は、ブラウザ上部のURLウインドウの末尾の/〇〇.html部分に変数名を入れて検索（例：/Q3333.html）"
+#~ msgstr ""
+
+#~ msgid "（データユーザーの方は）内容のご不明な点については、配布している各年のコードブック、調査票からご確認ください。"
+#~ msgstr ""
+
+#~ msgid "現在も追加・編集作業中です。すべての変数を網羅しているわけではありません。"
+#~ msgstr ""
+
+#~ msgid "内容のミスや、変数の不足などについては、下記の問い合わせ先までお知らせください。"
+#~ msgstr ""
+
+#~ msgid "**問い合わせ先**"
+#~ msgstr "**Contact**"
+
+#~ msgid "jpschelp@pdrc.keio.ac.jp（慶應義塾大学パネルデータ設計・解析センター JPSC部門）"
+#~ msgstr ""
+
+#~ msgid "利用方法"
+#~ msgstr ""
+
+#~ msgid "検索は以下の方法で行ってください。"
+#~ msgstr ""
+
+#~ msgid "「項目一覧」の各カテゴリーから探す"
+#~ msgstr ""
+
+#~ msgid "検索窓からキーワード、変数名を入れて検索"
+#~ msgstr ""
+
+#~ msgid "調査項目のカテゴリー分けは、調査票の構成と多少異なる場合があります。"
+#~ msgstr ""
+
+#~ msgid "なお、内容的に同じであっても、質問文や回答の選択肢を変更した場合には、変数名を変更している場合があります。例えば、「会社などでの育児休業制度の有無」を尋ねた質問項目は、第2回調査ではQ156ですが、第6回調査では選択"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "肢を追加し、詳細な内容に変更したため、システム変数もQ880と変更されています。 | "
+#~ "主な変更については、「notice」「warning」や備考欄で注意を促しております。ご参照ください。 | "
+#~ "（データユーザーの方は）内容のご不明な点については、配布している各年のコード表（excel）、調査票からご確認ください。"
+#~ msgstr ""
+
+#~ msgid "参考"
+#~ msgstr ""
+
+#~ msgid "`データの利用方法（PDRCサイト内) <https://www.pdrc.keio.ac.jp/paneldata/howto/>`_"
+#~ msgstr ""
+
