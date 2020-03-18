@@ -5892,23 +5892,26 @@ display: table;
 }
 
 .rst-content dl:not(.docutils) {
-  margin-bottom: 24px
+  margin-bottom: 24px;
+  font-size: 90%;
 }
 
 .rst-content dl:not(.docutils) dt {
   display: table;
-  margin: 6px 0;
-  font-size: 90%;
+  margin: 2px 0;
+  font-size: 80%;
   line-height: normal;
-  background: #e7f2fa;
+  background: #fcfcfc;
   color: #daeaf5;
-  border-top: solid 3px #6ab0de;
-  padding: 6px;
+  border-top: solid 3px #fcfcfc;
+  padding: 2px;
   position: relative
 }
 
 .rst-content dl:not(.docutils) dt:before {
-  color: #6ab0de
+  color: #6ab0de;
+  content: "\f054";
+  font-family: FontAwesome;
 }
 
 .rst-content dl:not(.docutils) dt .headerlink {

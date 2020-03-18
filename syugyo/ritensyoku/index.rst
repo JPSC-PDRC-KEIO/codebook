@@ -5,5 +5,5 @@
 .. toctree::
    :maxdepth: 1
 
-   ritensyoku/ritensyoku_yu
-   ritensyoku/ritensyoku_mu
+   ritensyoku_yu
+   ritensyoku_mu

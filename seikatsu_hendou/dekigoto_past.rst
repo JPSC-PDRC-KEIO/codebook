@@ -10,15 +10,20 @@
 
 
  .. csv-table:: 中学卒業～現在に起きた大きな出来事
-    :header: どれもなかった, 手術や長期療養を要するような重い病気, 登校拒否、うつ病など精神的な問題, 大きな事故や災害, 定年などによる退職, 希望退職や失業, 多重債務・倒産・破産, 離婚・別居, 転勤や単身赴任, 家出や行方不明, 死亡
-    :widths: 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2
+    :header: どれもなかった, "| 手術や長期療養を要する
+            | ような重い病気", "| 登校拒否、うつ病など
+            | 精神的な問題", 大きな事故や災害, 定年などによる退職, 希望退職や失業, 多重債務・倒産・破産, 離婚・別居, 転勤や単身赴任, 家出や行方不明, 死亡
+    :widths: auto
+    :class: longtable
 
-    :doc:`P129K</variable/P129K>`, :doc:`P129z</variable/P129z>`, :doc:`P129B</variable/P129B>`, :doc:`P129C</variable/P129C>`, :doc:`P129D</variable/P129D>`, :doc:`P129E</variable/P129E>`, :doc:`P129F</variable/P129F>`, :doc:`P129G</variable/P129G>`, :doc:`P129H</variable/P129H>`, :doc:`P129I</variable/P129I>`, :doc:`P129J</variable/P129J>`
+    :doc:`P129K</variable/P129K>`, :doc:`P129Z</variable/P129Z>`, :doc:`P129B</variable/P129B>`, :doc:`P129C</variable/P129C>`, :doc:`P129D</variable/P129D>`, :doc:`P129E</variable/P129E>`, :doc:`P129F</variable/P129F>`, :doc:`P129G</variable/P129G>`, :doc:`P129H</variable/P129H>`, :doc:`P129I</variable/P129I>`, :doc:`P129J</variable/P129J>`
 
 |
 
  .. csv-table:: 出来事の結果起こったこと
-    :header: "", "手術や長期療養を要するような重い病気", "登校拒否、うつ病など精神的な問題", "大きな事故や災害", "定年などによる退職", "希望退職や失業", "多重債務・倒産・破産", "離婚・別居", "転勤や単身赴任", "家出や行方不明", "死亡"
+    :header: "", "| 手術や長期療養を要する
+            | ような重い病気", "| 登校拒否、うつ病など
+            | 精神的な問題", "大きな事故や災害", "定年などによる退職", "希望退職や失業", "多重債務・倒産・破産", "離婚・別居", "転勤や単身赴任", "家出や行方不明", "死亡"
     :widths: 5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
 
     "収入や資産が低下した", ":doc:`P130A</variable/P130z>`", ":doc:`P131A</variable/P131z>`", ":doc:`P132A</variable/P132z>`", ":doc:`P133A</variable/P133z>`", ":doc:`P134A</variable/P134z>`", ":doc:`P135A</variable/P135z>`", ":doc:`P136A</variable/P136z>`", ":doc:`P137A</variable/P137z>`", ":doc:`P138A</variable/P138z>`", ":doc:`P139A</variable/P139z>`"

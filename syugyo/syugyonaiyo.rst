@@ -10,7 +10,6 @@
    gensyoku/gensyoku_syokugyo
    gensyoku/kaisya_zokusei
    gensyoku/syokumu
-   gensyoku/syugyo_keitai
    jyouken/kyuyo
    jyouken/roudoujikan_kyuka
    jyouken/syakaihoken_kanyu

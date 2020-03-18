@@ -7,7 +7,7 @@
 
    syugyojoutai
    syugyonaiyo
-   ritensyoku
+   syugyohenka
    syokureki/index
 
 

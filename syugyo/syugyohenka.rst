@@ -1,9 +1,9 @@
 =================================
-就業状態の変化
+就業上の変化
 =================================
 
 .. note::
-   |nt2|
+   就業に関する1年間の変化を聞いています。
 
 
 .. toctree::
@@ -14,6 +14,5 @@
    /variable/Q180
    /variable/Q181
    /variable/Q182
-   /variable/Q1114
-   /variable/Q1115
-   /variable/Q1116
+   hakensyugyo
+   ritensyoku/index
