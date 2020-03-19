@@ -59,7 +59,6 @@ Q213
 
 |nt1| 詳しくはこちら（:doc:`/syugyo_hs/syugyojoutai_hs`）をご参照ください。
 
-
 .. rst-class:: include_sheet
 収録シート
 =======================================

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-17 00:12+0900\n"
+"POT-Creation-Date: 2020-03-19 15:52+0900\n"
 "PO-Revision-Date: 2020-02-27 15:39+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -17,103 +17,106 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"Generated-By: Babel 2.4.0\n"
 
-#: ../../kihon/syugaku.rst:3
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:3
 msgid "現在の就学・就労状況"
 msgstr "Student or worker status"
 
-#: ../../kihon/syugaku.rst:6
-msgid "この項目は以下のように選択肢と変数が変化してきています。"
-msgstr "In this item, choices and variables have changed as follows."
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:6
+msgid "|nt1|"
+msgstr ""
 
-#: ../../kihon/syugaku.rst:1
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:1
 #, fuzzy
 msgid "第1～第9回"
 msgstr "**Wave 1 - 9**"
 
-#: ../../kihon/syugaku.rst:1
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:1
 #, fuzzy
 msgid "第10回"
 msgstr "**Wave 10**"
 
-#: ../../kihon/syugaku.rst:1
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:1
 #, fuzzy
 msgid "第11回～"
 msgstr "**Wave 11 -**"
 
-#: ../../kihon/syugaku.rst:1
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:1
 msgid "変数"
 msgstr "Variable name"
 
-#: ../../kihon/syugaku.rst:1
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:1
 msgid ":doc:`Q9 <Q9>`"
 msgstr ""
 
-#: ../../kihon/syugaku.rst:1
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:1
 msgid ":doc:`Q9R <Q9R>`"
 msgstr ""
 
-#: ../../kihon/syugaku.rst:1
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:1
 msgid ":doc:`Q9S <Q9S>`"
 msgstr ""
 
-#: ../../kihon/syugaku.rst:1
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:1
 msgid "選択肢"
 msgstr ""
 
-#: ../../kihon/syugaku.rst
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
 msgid "1.未就学"
 msgstr "1.Preschooler"
 
-#: ../../kihon/syugaku.rst
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
 msgid "2.小学1～3年"
 msgstr "2.Student in grades 1 to 3 of primary school"
 
-#: ../../kihon/syugaku.rst
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
 msgid "3.小学4～6年"
 msgstr "3.Student in grades 4 to 6 of primary school"
 
-#: ../../kihon/syugaku.rst
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
 msgid "4.中学生"
 msgstr "4.Junior-high school student"
 
-#: ../../kihon/syugaku.rst
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
 msgid "5.高校生"
 msgstr "5.Senior-high school student"
 
-#: ../../kihon/syugaku.rst
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
 msgid "6.大学生"
 msgstr "6.College stugent"
 
-#: ../../kihon/syugaku.rst
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
 msgid "7.その他"
 msgstr "7.Other"
 
-#: ../../kihon/syugaku.rst
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
 msgid "6.短大・大学生"
 msgstr "6.Junior college or College stugent"
 
-#: ../../kihon/syugaku.rst
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
 msgid "7.専門学校"
 msgstr "7.Vocational school"
 
-#: ../../kihon/syugaku.rst
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
 msgid "8.仕事に就いている"
 msgstr "8.Worker"
 
-#: ../../kihon/syugaku.rst
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
 msgid "9.その他"
 msgstr "9.Other"
 
-#: ../../kihon/syugaku.rst
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
 msgid "9.無職"
 msgstr "9.Not working"
 
-#: ../../kihon/syugaku.rst
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
 msgid "10.その他"
 msgstr "10.Other"
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr "Choices / Entry field"
+
+#~ msgid "この項目は以下のように選択肢と変数が変化してきています。"
+#~ msgstr "In this item, choices and variables have changed as follows."
 

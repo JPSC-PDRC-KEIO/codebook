@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2020-03-19 15:52+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:5
-msgid "雇用保険への加入の有無"
+msgid "雇用保険加入〔第1～第10回〕"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:9
@@ -74,6 +74,10 @@ msgstr ""
 msgid "備考"
 msgstr ""
 
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:58
+msgid "|nt2|"
+msgstr ""
+
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q306.rst:62
 msgid "収録シート"
 msgstr ""
@@ -126,5 +130,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "雇用保険への加入の有無"
 #~ msgstr ""
 

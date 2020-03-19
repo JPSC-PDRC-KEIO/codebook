@@ -107,12 +107,6 @@
    :maxdepth: 1
    :hidden:
 
-   Q6
-   Q7
-   Q8
-   Q9
-   Q9R
-   Q9S
    /variable/Q11
    /variable/Q12
    /variable/Q13

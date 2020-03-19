@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2020-03-19 15:52+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -74,107 +74,111 @@ msgstr ""
 msgid "備考"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:63
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:59
+msgid "この質問項目の選択肢には調査回によって変更があります。 詳しくはこちら（:doc:`/multi_var/Q198`）をご参照ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:64
 msgid "収録シート"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:68
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:69
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:70
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:71
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:72
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:73
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:74
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:75
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:76
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:77
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:78
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:79
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:80
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:81
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:82
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:83
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:84
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:85
 msgid "p10_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:86
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:87
 msgid "p11ab_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:88
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:89
 msgid "p12_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:90
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:91
 msgid "p13_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:92
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:93
 msgid "p14_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:94
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:95
 msgid "p15_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:96
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:97
 msgid "p16abc_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:98
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:99
 msgid "p17_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:100
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:101
 msgid "p18_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:102
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:103
 msgid "p19_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:104
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:105
 msgid "p20_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:106
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:107
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:108
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:109
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:110
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:111
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:112
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:113
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:114
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:115
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:116
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:117
 msgid "p26_1"
 msgstr ""
 

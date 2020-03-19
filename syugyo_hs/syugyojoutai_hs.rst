@@ -26,10 +26,9 @@
 
 
 
-
 .. toctree::
    :maxdepth: 1
    :hidden:
 
-    /variable/Q213
-    /variable/Q1026
+   /variable/Q213
+   /variable/Q1026

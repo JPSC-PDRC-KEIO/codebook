@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-09 15:47+0900\n"
+"POT-Creation-Date: 2020-03-19 15:52+0900\n"
 "PO-Revision-Date: 2020-03-09 14:08+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -87,7 +87,7 @@ msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P84.rst:60
 #, fuzzy
-msgid "この質問項目の変数名と選択肢には調査回によって変更があります。詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`）をご参照ください。"
+msgid "|nt1| 詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`）をご参照ください。"
 msgstr ""
 "In this item, choices and variables have changed since 2nd-wave. Please "
 "refer to here (: doc: `/ kihon_kazoku / oya_jitsu`) for details."

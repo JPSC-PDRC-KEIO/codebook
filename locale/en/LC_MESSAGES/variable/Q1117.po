@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2020-03-19 15:52+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1117.rst:5
-msgid "派遣社員就業からの変更の有無（無職）"
+msgid "派遣就業からの変更の有無（無職）"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1117.rst:9
@@ -114,5 +114,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "派遣社員就業からの変更の有無（無職）"
 #~ msgstr ""
 

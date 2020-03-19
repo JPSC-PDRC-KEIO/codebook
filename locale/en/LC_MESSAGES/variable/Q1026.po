@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2020-03-19 15:52+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -54,31 +54,35 @@ msgstr ""
 msgid "無職"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1026.rst:38
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1026.rst:37
 msgid "桁あふれコード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1026.rst:44
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1026.rst:43
 msgid "分類不能の回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1026.rst:50
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1026.rst:49
 msgid "無回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1026.rst:51
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1026.rst:50
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1026.rst:56
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1026.rst:55
 msgid "備考"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1026.rst:62
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1026.rst:57
+msgid "|nt1| 詳しくはこちら（:doc:`/syugyo_hs/syugyojoutai_hs`）をご参照ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1026.rst:61
 msgid "収録シート"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1026.rst:67
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1026.rst:66
 msgid "p1_1"
 msgstr ""
 

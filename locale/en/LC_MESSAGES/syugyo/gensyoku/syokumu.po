@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-05 20:20+0900\n"
+"POT-Creation-Date: 2020-03-19 15:52+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -40,16 +40,28 @@ msgid ""
 " :doc:`Q1046 </variable/Q1046>`) という質問項目を設けています。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:16
-msgid "**第1～第17回**"
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:1
+msgid "第1～第17回"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:1
-msgid "選択肢"
+msgid "第18回～"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:1
 msgid "変数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:1
+msgid ":doc:`Q147 </variable/Q147>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:1
+msgid ":doc:`Q1112 </variable/Q1112>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:1
+msgid "選択肢"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst
@@ -62,14 +74,6 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst
 msgid "3.嘱託・その他"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:1
-msgid ":doc:`Q147 </variable/Q147>`"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:25
-msgid "**第18回～**"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst
@@ -88,10 +92,12 @@ msgstr ""
 msgid "5.自営・家族従業者"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:1
-msgid ":doc:`Q1112 </variable/Q1112>`"
-msgstr ""
-
 #~ msgid "また、第1から第17回の選択肢のうち「3.嘱託・その他」は、第11回のみ「3.派遣社員・嘱託・その他」として聞いており、第12～第17回には、別途、「:doc:`/variable/Q1046`」を聞いています。"
+#~ msgstr ""
+
+#~ msgid "**第1～第17回**"
+#~ msgstr ""
+
+#~ msgid "**第18回～**"
 #~ msgstr ""
 

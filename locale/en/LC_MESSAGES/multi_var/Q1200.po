@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2020-03-19 15:52+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -38,20 +38,25 @@ msgstr ""
 msgid "変数名"
 msgstr ""
 
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1200.rst
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1200.rst:1
 msgid "あてはまる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1200.rst:1
-msgid "まああてはまる"
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1200.rst
+msgid "まあ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1200.rst:1
-msgid "あまりあてはまらない"
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1200.rst
+msgid "あまり"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1200.rst:1
-msgid "ほとんどあてはまらない"
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1200.rst
+msgid "あてはまらない"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1200.rst
+msgid "ほとんど"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1200.rst:1
@@ -117,4 +122,13 @@ msgstr ""
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1200.rst:1
 msgid ":doc:`Q1200E </variable/Q1200E>`"
 msgstr ""
+
+#~ msgid "まああてはまる"
+#~ msgstr ""
+
+#~ msgid "あまりあてはまらない"
+#~ msgstr ""
+
+#~ msgid "ほとんどあてはまらない"
+#~ msgstr ""
 

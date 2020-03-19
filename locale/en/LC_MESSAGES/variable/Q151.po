@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2020-03-19 15:52+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,8 +34,12 @@ msgstr ""
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:18
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:17
 msgid "時給はいくらですか。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:19
+msgid "1時間当たり"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:24
@@ -43,158 +47,154 @@ msgid "選択肢 / 記入欄"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:27
-msgid "1時間当たり"
+msgid "＿＿万＿＿＿千円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:29
-msgid "＿万＿＿＿＿円"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:36
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:33
 msgid "桁あふれコード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:37
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:34
 msgid "99998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:42
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:39
 msgid "分類不能の回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:48
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:45
 msgid "無回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:49
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:46
 msgid "99999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:54
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:51
 msgid "備考"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:60
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:57
 msgid "収録シート"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:65
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:62
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:67
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:64
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:69
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:66
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:71
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:68
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:73
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:70
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:75
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:72
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:77
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:74
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:79
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:76
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:81
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:78
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:83
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:80
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:85
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:82
 msgid "p10_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:87
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:84
 msgid "p11ab_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:89
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:86
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:91
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:88
 msgid "p12_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:93
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:90
 msgid "p13_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:95
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:92
 msgid "p14_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:97
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:94
 msgid "p15_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:99
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:96
 msgid "p16abc_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:101
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:98
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:103
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:100
 msgid "p17_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:105
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:102
 msgid "p18_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:107
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:104
 msgid "p19_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:109
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:106
 msgid "p20_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:111
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:108
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:113
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:110
 msgid "p21e_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:115
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:112
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:117
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:114
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:119
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:116
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:121
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:118
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:123
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q151.rst:120
 msgid "p26_1"
 msgstr ""
 
@@ -202,5 +202,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "＿万＿＿＿＿円"
 #~ msgstr ""
 

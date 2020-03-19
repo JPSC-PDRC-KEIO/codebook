@@ -10,7 +10,7 @@
    kaisya_zokusei_hs
    syokumu_hs
    kyuyo_hs
-   roudoujikan_kyuka_hs
+   roudoujikan&kyuka_hs
    /variable/Q1031
    /variable/Q1049
    syugyo_keitai_hs

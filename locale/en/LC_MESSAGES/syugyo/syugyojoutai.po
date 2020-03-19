@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-17 04:39+0900\n"
+"POT-Creation-Date: 2020-03-19 15:52+0900\n"
 "PO-Revision-Date: 2020-03-09 16:31+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -17,77 +17,91 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"Generated-By: Babel 2.4.0\n"
 
-#: ../../syugyo/syugyojoutai.rst:3
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyojoutai.rst:3
 msgid "就業状態"
 msgstr "Woking status"
 
-#: ../../syugyo/syugyojoutai.rst:6
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyojoutai.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: ../../syugyo/syugyojoutai.rst:7
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyojoutai.rst:7
 msgid "あなたは、現在（調査年９月）、仕事についていますか。(仕事には常勤従業員、パート、アルバイト、嘱託、自営、家族従業などすべて含みます。ただし、学生アルバイトは除きます。)"
 msgstr ""
 "Are you currently working? (Include all jobs such as full-time and part-"
 "time jobs, part-time engagements, self-employment and family business "
 "employment, but exclude student part-time jobs.)"
 
-#: ../../syugyo/syugyojoutai.rst:12
-#, fuzzy
-msgid "変数名と選択肢"
-msgstr "Choices / Entry field"
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyojoutai.rst:10
+msgid "|nt1|"
+msgstr ""
 
-#: ../../syugyo/syugyojoutai.rst:14
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyojoutai.rst:1
 msgid "第1回"
 msgstr ""
 
-#: ../../syugyo/syugyojoutai.rst:16
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyojoutai.rst:1
+msgid "第2回～"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyojoutai.rst:1
+msgid "変数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyojoutai.rst:1
 msgid ":doc:`Q1025 </variable/Q1025>`"
 msgstr ""
 
-#: ../../syugyo/syugyojoutai.rst:18 ../../syugyo/syugyojoutai.rst:28
-#, fuzzy
-msgid "仕事についている"
-msgstr "1.In work"
-
-#: ../../syugyo/syugyojoutai.rst:19 ../../syugyo/syugyojoutai.rst:30
-#, fuzzy
-msgid "学生"
-msgstr "3.Student"
-
-#: ../../syugyo/syugyojoutai.rst:20 ../../syugyo/syugyojoutai.rst:31
-#, fuzzy
-msgid "専業主婦"
-msgstr "4.House wife"
-
-#: ../../syugyo/syugyojoutai.rst:21
-#, fuzzy
-msgid "その他"
-msgstr "4.Other"
-
-#: ../../syugyo/syugyojoutai.rst:24
-msgid "第2回以降"
-msgstr ""
-
-#: ../../syugyo/syugyojoutai.rst:26
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyojoutai.rst:1
 msgid ":doc:`Q142 </variable/Q142>`"
 msgstr ""
 
-#: ../../syugyo/syugyojoutai.rst:29
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyojoutai.rst:1
 #, fuzzy
-msgid "休職中"
+msgid "選択肢"
+msgstr "Choices / Entry field"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyojoutai.rst
+#, fuzzy
+msgid "1.仕事についている"
+msgstr "1.In work"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyojoutai.rst
+#, fuzzy
+msgid "2.学生"
+msgstr "3.Student"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyojoutai.rst
+#, fuzzy
+msgid "3.専業主婦"
+msgstr "4.House wife"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyojoutai.rst
+#, fuzzy
+msgid "4.その他"
+msgstr "4.Other"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyojoutai.rst
+#, fuzzy
+msgid "2.休職中"
 msgstr "2.In temporary retirement"
 
-#: ../../syugyo/syugyojoutai.rst:32
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyojoutai.rst
 #, fuzzy
-msgid "その他の無職"
-msgstr "5.Unemployed"
+msgid "3.学生"
+msgstr "3.Student"
 
-#: ../../syugyo/syugyojoutai.rst:38
-msgid "|nt1|"
-msgstr ""
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyojoutai.rst
+#, fuzzy
+msgid "4.専業主婦"
+msgstr "4.House wife"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyojoutai.rst
+#, fuzzy
+msgid "5.その他の無職"
+msgstr "5.Unemployed"
 
 #~ msgid "**第1～第9回**"
 #~ msgstr "1st to 9th"
@@ -109,4 +123,7 @@ msgstr ""
 
 #~ msgid "項目"
 #~ msgstr "items"
+
+#~ msgid "第2回以降"
+#~ msgstr ""
 

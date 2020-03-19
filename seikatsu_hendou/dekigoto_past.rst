@@ -26,7 +26,7 @@
             | 精神的な問題", "大きな事故や災害", "定年などによる退職", "希望退職や失業", "多重債務・倒産・破産", "離婚・別居", "転勤や単身赴任", "家出や行方不明", "死亡"
     :widths: 5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
 
-    "収入や資産が低下した", ":doc:`P130A</variable/P130z>`", ":doc:`P131A</variable/P131z>`", ":doc:`P132A</variable/P132z>`", ":doc:`P133A</variable/P133z>`", ":doc:`P134A</variable/P134z>`", ":doc:`P135A</variable/P135z>`", ":doc:`P136A</variable/P136z>`", ":doc:`P137A</variable/P137z>`", ":doc:`P138A</variable/P138z>`", ":doc:`P139A</variable/P139z>`"
+    "収入や資産が低下した", ":doc:`P130A</variable/P130A>`", ":doc:`P131A</variable/P131A>`", ":doc:`P132A</variable/P132A>`", ":doc:`P133A</variable/P133A>`", ":doc:`P134A</variable/P134A>`", ":doc:`P135A</variable/P135A>`", ":doc:`P136A</variable/P136A>`", ":doc:`P137A</variable/P137A>`", ":doc:`P138A</variable/P138A>`", ":doc:`P139A</variable/P139A>`"
     "大きな費用がかかった", ":doc:`P130B</variable/P130B>`", ":doc:`P131B</variable/P131B>`", ":doc:`P132B</variable/P132B>`", ":doc:`P133B</variable/P133B>`", ":doc:`P134B</variable/P134B>`", ":doc:`P135B</variable/P135B>`", ":doc:`P136B</variable/P136B>`", ":doc:`P137B</variable/P137B>`", ":doc:`P138B</variable/P138B>`", ":doc:`P139B</variable/P139B>`"
     "世話（介護・看病など）が大変だった", ":doc:`P130C</variable/P130C>`", ":doc:`P131C</variable/P131C>`", ":doc:`P132C</variable/P132C>`", ":doc:`P133C</variable/P133C>`", ":doc:`P134C</variable/P134C>`", ":doc:`P135C</variable/P135C>`", ":doc:`P136C</variable/P136C>`", ":doc:`P137C</variable/P137C>`", ":doc:`P138C</variable/P138C>`", ":doc:`P139C</variable/P139C>`"
     "家族内の人間関係がうまくいかなくなった", ":doc:`P130D</variable/P130D>`", ":doc:`P131D</variable/P131D>`", ":doc:`P132D</variable/P132D>`", ":doc:`P133D</variable/P133D>`", ":doc:`P134D</variable/P134D>`", ":doc:`P135D</variable/P135D>`", ":doc:`P136D</variable/P136D>`", ":doc:`P137D</variable/P137D>`", ":doc:`P138D</variable/P138D>`", ":doc:`P139D</variable/P139D>`"
@@ -43,7 +43,6 @@
     "宗教関係者に相談をした", ":doc:`P130O</variable/P130O>`", ":doc:`P131O</variable/P131O>`", ":doc:`P132O</variable/P132O>`", ":doc:`P133O</variable/P133O>`", ":doc:`P134O</variable/P134O>`", ":doc:`P135O</variable/P135O>`", ":doc:`P136O</variable/P136O>`", ":doc:`P137O</variable/P137O>`", ":doc:`P138O</variable/P138O>`", ":doc:`P139O</variable/P139O>`"
     "その他", ":doc:`P130P</variable/P130P>`", ":doc:`P131P</variable/P131P>`", ":doc:`P132P</variable/P132P>`", ":doc:`P133P</variable/P133P>`", ":doc:`P134P</variable/P134P>`", ":doc:`P135P</variable/P135P>`", ":doc:`P136P</variable/P136P>`", ":doc:`P137P</variable/P137P>`", ":doc:`P138P</variable/P138P>`", ":doc:`P139P</variable/P139P>`"
     "とくに変化はなかった", ":doc:`P130Q</variable/P130Q>`", ":doc:`P131Q</variable/P131Q>`", ":doc:`P132Q</variable/P132Q>`", ":doc:`P133Q</variable/P133Q>`", ":doc:`P134Q</variable/P134Q>`", ":doc:`P135Q</variable/P135Q>`", ":doc:`P136Q</variable/P136Q>`", ":doc:`P137Q</variable/P137Q>`", ":doc:`P138Q</variable/P138Q>`", ":doc:`P139Q</variable/P139Q>`"
-
 
 |
 

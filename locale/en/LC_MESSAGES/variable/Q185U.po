@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2020-03-19 15:52+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -72,6 +72,10 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185U.rst:57
 msgid "備考"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185U.rst:59
+msgid "|nt1| 詳しくはこちら（:doc:`/multi_var/Q185`）をご参照ください。"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185U.rst:63

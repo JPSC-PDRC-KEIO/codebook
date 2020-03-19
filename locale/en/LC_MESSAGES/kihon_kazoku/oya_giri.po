@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-09 15:47+0900\n"
+"POT-Creation-Date: 2020-03-19 15:52+0900\n"
 "PO-Revision-Date: 2020-03-09 11:20+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -71,12 +71,10 @@ msgstr "Background"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:44
 #, fuzzy
-msgid ""
-"「最終学歴」については、第1～第4回調査では、中退が卒業に含まれており、変数名は、実父（:doc:`Q692 "
-"</variable/Q692>`)・実母（質問なし）です。また選択肢が下記のように変化しています。"
+msgid "「最終学歴」については、第1～第4回調査では、中退が卒業に含まれています。また、変数名と選択肢が下記のように変化しています。"
 msgstr "The choicies of \"Employment category\" has changed as follow."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:46
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:47
 msgid "最終学歴（義父・義母）"
 msgstr ""
 
@@ -89,6 +87,30 @@ msgstr "1st-6th waves"
 #, fuzzy
 msgid "第5回～"
 msgstr "7th wave -"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:1
+msgid "変数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
+msgid "義父 :doc:`Q692 </variable/Q692>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
+msgid "義母 ---"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
+msgid "義父 :doc:`Q858 </variable/Q858>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
+msgid "義母 :doc:`Q839 </variable/Q839>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:1
+msgid "選択肢"
+msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
 msgid "1.中学（旧制中学校・高等小学校）卒業"
@@ -139,11 +161,11 @@ msgstr ""
 msgid "8.その他"
 msgstr "3.Commissioned or Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:63
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:68
 msgid "「職務」については、選択肢が下記のように変化しています。"
 msgstr "The choicies of \"Employment category\" has changed as follow."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:65
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:70
 msgid "職務（義父・義母）"
 msgstr ""
 

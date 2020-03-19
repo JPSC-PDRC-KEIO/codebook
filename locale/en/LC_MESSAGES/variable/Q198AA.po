@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2020-03-19 15:52+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -74,31 +74,35 @@ msgstr ""
 msgid "備考"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198AA.rst:63
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198AA.rst:59
+msgid "|nt1| 詳しくはこちら（:doc:`/multi_var/Q198`）をご参照ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198AA.rst:64
 msgid "収録シート"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198AA.rst:68
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198AA.rst:69
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198AA.rst:70
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198AA.rst:71
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198AA.rst:72
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198AA.rst:73
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198AA.rst:74
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198AA.rst:75
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198AA.rst:76
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198AA.rst:77
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198AA.rst:78
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198AA.rst:79
 msgid "p26_1"
 msgstr ""
 

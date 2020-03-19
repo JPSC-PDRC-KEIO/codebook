@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2020-03-19 15:52+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -86,111 +86,115 @@ msgstr ""
 msgid "備考"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:66
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:62
+msgid "|nt1| 詳しくはこちら（:doc:`/syugyo/jouken/kaigokyuka`）をご参照ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:67
 msgid "収録シート"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:71
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:72
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:73
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:74
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:75
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:76
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:77
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:78
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:79
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:80
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:81
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:82
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:83
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:84
 msgid "p10_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:85
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:86
 msgid "p11ab_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:87
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:88
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:89
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:90
 msgid "p12_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:91
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:92
 msgid "p13_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:93
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:94
 msgid "p14_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:95
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:96
 msgid "p15_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:97
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:98
 msgid "p16abc_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:99
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:100
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:101
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:102
 msgid "p17_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:103
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:104
 msgid "p18_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:105
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:106
 msgid "p19_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:107
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:108
 msgid "p20_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:109
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:110
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:111
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:112
 msgid "p21e_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:113
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:114
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:115
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:116
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:117
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:118
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:119
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:120
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:121
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:122
 msgid "p26_1"
 msgstr ""
 

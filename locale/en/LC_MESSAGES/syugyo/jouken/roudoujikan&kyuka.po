@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-19 15:52+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/roudoujikan&kyuka.rst:3
+msgid "労働時間・休暇"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/roudoujikan&kyuka.rst:17
+msgid "第1回調査では給与支給方法ごとに「労働時間」「勤務日数」について質問し、数値記入を求めています。変数名は下記をご参照ください"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/roudoujikan&kyuka.rst:20
+msgid "第1回調査の質問と変数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/roudoujikan&kyuka.rst:1
+msgid "給与支給方法"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/roudoujikan&kyuka.rst:1
+msgid "労働時間"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/roudoujikan&kyuka.rst:1
+msgid "勤務日数"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/roudoujikan&kyuka.rst:1
+msgid "月給・週給"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/roudoujikan&kyuka.rst:1
+msgid ":doc:`P47 </variable/P47>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/roudoujikan&kyuka.rst:1
+msgid ":doc:`P48 </variable/P48>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/roudoujikan&kyuka.rst:1
+msgid "日給"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/roudoujikan&kyuka.rst:1
+msgid ":doc:`P49 </variable/P49>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/roudoujikan&kyuka.rst:1
+msgid ":doc:`P50 </variable/P50>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/roudoujikan&kyuka.rst:1
+msgid "時給"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/roudoujikan&kyuka.rst:1
+msgid ":doc:`P51 </variable/P51>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/roudoujikan&kyuka.rst:1
+msgid ":doc:`P52 </variable/P52>`"
+msgstr ""
+
