@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-19 15:52+0900\n"
-"PO-Revision-Date: 2020-03-09 15:43+0900\n"
+"PO-Revision-Date: 2020-03-19 19:00+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 2.3\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:3
 msgid "初回調査時までの出来事"
@@ -25,71 +26,71 @@ msgstr "Life event before the first responce"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:5
 msgid "あなたやあなたのご家族に起こった大きな出来事についてうかがいます。"
-msgstr ""
+msgstr "Please answer the following questions about major events that you or your family have experienced."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:7
 msgid "（1）あなたが、中学を卒業してから現在までのあいだで、あなたやあなたのご家族に次のような大きな出来事がありましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "(1) Circle any event you and your family has experienced since you graduated from junior high school. (Circle as many as apply to you)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:9
 msgid "（2）その結果どのようなことが起こりましたか。あなたが覚えている限りで、次の中からいくつでもお答えください。（〇はいくつでも）"
-msgstr ""
+msgstr "(2)(For each event you chose in (1)) What happened as a result? (Circle as many items as apply to you)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:12
 msgid "中学卒業～現在に起きた大きな出来事"
-msgstr ""
+msgstr "Big events after graduation from junior high school"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "どれもなかった"
-msgstr ""
+msgstr "None of the above"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst
 msgid "手術や長期療養を要する"
-msgstr ""
+msgstr "Serious illness requiring surgery"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst
 msgid "ような重い病気"
-msgstr ""
+msgstr "or a long period of medical treatment"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst
 msgid "登校拒否、うつ病など"
-msgstr ""
+msgstr "Psychological problems such as"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst
 msgid "精神的な問題"
-msgstr ""
+msgstr "school phobia or depression"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "大きな事故や災害"
-msgstr ""
+msgstr "Major accident or disaster"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "定年などによる退職"
-msgstr ""
+msgstr "Retirement"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "希望退職や失業"
-msgstr ""
+msgstr "Quitting or being unemployed"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "多重債務・倒産・破産"
-msgstr ""
+msgstr "Multiple debts/bankruptcy"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "離婚・別居"
-msgstr ""
+msgstr "7\tDivorce/separation"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "転勤や単身赴任"
-msgstr ""
+msgstr "Transfer at work"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "家出や行方不明"
-msgstr ""
+msgstr "Runaway/disappearance"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "死亡"
-msgstr ""
+msgstr "Death"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P129K</variable/P129K>`"
@@ -137,11 +138,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:23
 msgid "出来事の結果起こったこと"
-msgstr ""
+msgstr "As a result of the event"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "収入や資産が低下した"
-msgstr ""
+msgstr "Income or assets decreased"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P130A</variable/P130A>`"
@@ -185,7 +186,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "大きな費用がかかった"
-msgstr ""
+msgstr "It cost a lot of money"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P130B</variable/P130B>`"
@@ -229,7 +230,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "世話（介護・看病など）が大変だった"
-msgstr ""
+msgstr "It was difficult to provide care such as nursing"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P130C</variable/P130C>`"
@@ -273,7 +274,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "家族内の人間関係がうまくいかなくなった"
-msgstr ""
+msgstr "Personal relationships in the family went wrong"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P130D</variable/P130D>`"
@@ -317,7 +318,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "あなた自身が精神的に落ち込んだ"
-msgstr ""
+msgstr "I became depressed"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P130E</variable/P130E>`"
@@ -361,7 +362,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "転居した"
-msgstr ""
+msgstr "We moved"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P130F</variable/P130F>`"
@@ -405,7 +406,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "進学をあきらめたり、休学・退学をした"
-msgstr ""
+msgstr "Someone decided not to go onto higher education, had a long registered absence from school, or quit school"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P130G</variable/P130G>`"
@@ -449,7 +450,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "離婚・別居など家族がわかれた"
-msgstr ""
+msgstr "There was a separation or divorce in my family"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P130H</variable/P130H>`"
@@ -493,7 +494,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "自分が新たに働き始めた"
-msgstr ""
+msgstr "I started working"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P130I</variable/P130I>`"
@@ -537,7 +538,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "家族のだれかが新たに働き始めた"
-msgstr ""
+msgstr "Someone in the family started working"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P130J</variable/P130J>`"
@@ -581,7 +582,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "親戚や友人に経済的援助を頼んだ"
-msgstr ""
+msgstr "I asked a relative or a friend for financial help"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P130K</variable/P130K>`"
@@ -625,7 +626,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "土地や家屋を売った"
-msgstr ""
+msgstr "We sold land or buildings"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P130L</variable/P130L>`"
@@ -669,7 +670,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "金融機関などから借金をした"
-msgstr ""
+msgstr "We borrowed money from a financial institution"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P130M</variable/P130M>`"
@@ -713,7 +714,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "専門機関で治療や相談をした"
-msgstr ""
+msgstr "I took advice from a professional institution"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P130N</variable/P130N>`"
@@ -757,7 +758,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "宗教関係者に相談をした"
-msgstr ""
+msgstr "I sought religious counsel"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P130O</variable/P130O>`"
@@ -801,7 +802,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P130P</variable/P130P>`"
@@ -845,7 +846,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "とくに変化はなかった"
-msgstr ""
+msgstr "There was no change."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P130Q</variable/P130Q>`"
@@ -886,50 +887,3 @@ msgstr ""
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid ":doc:`P139Q</variable/P139Q>`"
 msgstr ""
-
-#~ msgid ""
-#~ "あなたやあなたのご家族に起こった大きな出来事についてうかがいます。 "
-#~ "（1）あなたが、中学を卒業してから現在までのあいだで、あなたやあなたのご家族に次のような大きな出来事がありましたか。（〇はいくつでも）"
-#~ " | "
-#~ "（2）その結果どのようなことが起こりましたか。あなたが覚えている限りで、次の中からいくつでもお答えください。（〇はいくつでも）"
-#~ msgstr ""
-
-#~ msgid "手術や長期療養を要するような重い病気"
-#~ msgstr ""
-
-#~ msgid "登校拒否、うつ病など精神的な問題"
-#~ msgstr ""
-
-#~ msgid ":doc:`P129z</variable/P129z>`"
-#~ msgstr ""
-
-#~ msgid ":doc:`P130A</variable/P130z>`"
-#~ msgstr ""
-
-#~ msgid ":doc:`P131A</variable/P131z>`"
-#~ msgstr ""
-
-#~ msgid ":doc:`P132A</variable/P132z>`"
-#~ msgstr ""
-
-#~ msgid ":doc:`P133A</variable/P133z>`"
-#~ msgstr ""
-
-#~ msgid ":doc:`P134A</variable/P134z>`"
-#~ msgstr ""
-
-#~ msgid ":doc:`P135A</variable/P135z>`"
-#~ msgstr ""
-
-#~ msgid ":doc:`P136A</variable/P136z>`"
-#~ msgstr ""
-
-#~ msgid ":doc:`P137A</variable/P137z>`"
-#~ msgstr ""
-
-#~ msgid ":doc:`P138A</variable/P138z>`"
-#~ msgstr ""
-
-#~ msgid ":doc:`P139A</variable/P139z>`"
-#~ msgstr ""
-

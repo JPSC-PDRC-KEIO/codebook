@@ -4,46 +4,42 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-28 13:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-03-19 20:31+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.3\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:3
 msgid "サンプルデザイン"
-msgstr ""
+msgstr "Sample design"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:6
 msgid "コーホートA"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:8
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:66
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:92
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:118
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:8 /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:66
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:92 /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:118
 msgid "**層化**"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:10
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:68
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:94
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:120
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:10 /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:68
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:94 /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:120
 msgid "ア．全国の都道府県を8ブロックに分類した。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:11
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:69
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:95
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:121
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:11 /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:69
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:95 /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:121
 msgid "イ．各ブロック内でさらに、都市規模によって次のように分類し、層化した。"
 msgstr ""
 
@@ -51,17 +47,13 @@ msgstr ""
 msgid "13大都市（札幌市、仙台市、千葉市、東京都区、横浜市、川崎市、名古屋市、京都市、大阪市、神戸市、広島市、北九州市、福岡市）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:14
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:71
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:98
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:124
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:14 /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:71
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:98 /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:124
 msgid "その他の市"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:15
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:72
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:99
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:125
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:15 /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:72
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:99 /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:125
 msgid "町村"
 msgstr ""
 
@@ -69,22 +61,20 @@ msgstr ""
 msgid "（注）ここでいう市とは、1993年4月1日現在による市政施行の地域とした。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:19
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:48
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:76
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:103
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:19 /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:48
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:76 /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:103
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:129
 msgid "**標本数の配分**"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:21
-msgid "各都市規模別の層での推定母集団の大きさにより、年齢構成・配偶関係（1992年3月31日現在で24～34歳の年齢別、配偶関係別人口数）を考慮して、1,500の標本数を比例配分した。"
+msgid ""
+"各都市規模別の層での推定母集団の大きさにより、年齢構成・配偶関係（1992年3月31日現在で24～34歳の年齢別、配偶関係別人口数）を考慮して、"
+"1,500の標本数を比例配分した。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:23
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:53
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:80
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:133
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:23 /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:53
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:80 /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:133
 msgid "**抽出**"
 msgstr ""
 
@@ -97,7 +87,9 @@ msgid "イ．調査地点（国勢調査区）の抽出数については、1調
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:27
-msgid "ウ．調査地点（調査区）の抽出は、層内での抽出地点数が2地点以上割り当てられた層について、以下のように抽出間隔を算出し、等間隔法によって抽出した。"
+msgid ""
+"ウ．調査地点（調査区）の抽出は、層内での抽出地点数が2地点以上割り当てられた層について、以下のように抽出間隔を算出し、等間隔法によって抽出"
+"した。"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst
@@ -117,7 +109,8 @@ msgid "エ．抽出に際しての各層内の市町村の配列順序は、平�
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:34
-msgid "オ．抽出調査地点での対象者の抽出は、調査地点の住所（町・丁目・街区・番地等を指定）により、住民基本台帳から等間隔抽出法によって抽出した。"
+msgid ""
+"オ．抽出調査地点での対象者の抽出は、調査地点の住所（町・丁目・街区・番地等を指定）により、住民基本台帳から等間隔抽出法によって抽出した。"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:35
@@ -137,15 +130,21 @@ msgid "コーホートB"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:46
-msgid "サンプルデザインは標本数の配分を除いてコーホートAと同じである。コーホートAの回答者は、ほぼ国勢調査と同様の分布となったが、無配偶単身者だけは若干国勢調査の比率を下回っていた。そこで、コーホートBは標本数の配分の際に無配偶単身者の比率に配慮している。"
+msgid ""
+"サンプルデザインは標本数の配分を除いてコーホートAと同じである。コーホートAの回答者は、ほぼ国勢調査と同様の分布となったが、無配偶単身者だ"
+"けは若干国勢調査の比率を下回っていた。そこで、コーホートBは標本数の配分の際に無配偶単身者の比率に配慮している。"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:50
-msgid "各都市規模別の層での推定母集団の大きさにより、年齢構成・配偶関係（1996年3月31日現在で24～27歳の年齢別、配偶関係別人口数、無配偶者の単身世帯数）を考慮して、500の標本数を比例配分した。層別の標本数、調査地点数は表-2のとおりである。"
+msgid ""
+"各都市規模別の層での推定母集団の大きさにより、年齢構成・配偶関係（1996年3月31日現在で24～27歳の年齢別、配偶関係別人口数、無配偶者の単身世"
+"帯数）を考慮して、500の標本数を比例配分した。層別の標本数、調査地点数は表-2のとおりである。"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:55
-msgid "正規対象者1名に対し、配偶状況と世帯状況を考慮して、以下のように予備対象者を付した。有配偶者には3名、無配偶・非単身者には3名、無配偶・単身者には5名を付した。"
+msgid ""
+"正規対象者1名に対し、配偶状況と世帯状況を考慮して、以下のように予備対象者を付した。有配偶者には3名、無配偶・非単身者には3名、無配偶・単身"
+"者には5名を付した。"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:57
@@ -157,7 +156,8 @@ msgid "コーホートC"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:70
-msgid "14大都市（札幌市、仙台市、さいたま市、千葉市、東京都区、横浜市、川崎市、名古屋市、京都市、大阪市、神戸市、広島市、北九州市、福岡市）"
+msgid ""
+"14大都市（札幌市、仙台市、さいたま市、千葉市、東京都区、横浜市、川崎市、名古屋市、京都市、大阪市、神戸市、広島市、北九州市、福岡市）"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:74
@@ -165,12 +165,15 @@ msgid "（注）ここでいう市とは、2003年4月1日現在による市政�
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:78
-msgid "各都市規模別の層での推定母集団の大きさにより、年齢構成・配偶関係（2003年3月31日現在で24～29歳の年齢別、配偶関係別人口数）を考慮して、836の標本を比例配分した。層別の標本数、調査地点数は表-3のとおりである。"
+msgid ""
+"各都市規模別の層での推定母集団の大きさにより、年齢構成・配偶関係（2003年3月31日現在で24～29歳の年齢別、配偶関係別人口数）を考慮して、836"
+"の標本を比例配分した。層別の標本数、調査地点数は表-3のとおりである。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:82
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:135
-msgid "調査地点毎の調査対象数は各都市規模層の年齢構成・配偶関係の配分数に応じて4～9対象を割り当てた。また、正規対象数１名につき、配偶状況と世帯状況を考慮して、以下のように予備対象者を付した。有配偶者には3名、無配偶・非単身者には4名、無配偶・単身者には7名を付した。"
+#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:82 /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:135
+msgid ""
+"調査地点毎の調査対象数は各都市規模層の年齢構成・配偶関係の配分数に応じて4～9対象を割り当てた。また、正規対象数１名につき、配偶状況と世帯"
+"状況を考慮して、以下のように予備対象者を付した。有配偶者には3名、無配偶・非単身者には4名、無配偶・単身者には7名を付した。"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:84
@@ -182,7 +185,9 @@ msgid "コーホートD"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:97
-msgid "18大都市（札幌市、仙台市、さいたま市、千葉市、東京都区、横浜市、川崎市、新潟市、静岡市、浜松市、名古屋市、京都市、大阪市、堺市、神戸市、広島市、北九州市、福岡市）"
+msgid ""
+"18大都市（札幌市、仙台市、さいたま市、千葉市、東京都区、横浜市、川崎市、新潟市、静岡市、浜松市、名古屋市、京都市、大阪市、堺市、神戸市、"
+"広島市、北九州市、福岡市）"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:101
@@ -190,13 +195,15 @@ msgid "（注）ここでいう市とは、2008年4月1日現在による市政�
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:105
-msgid "各都市規模別の層での推定母集団の大きさにより、年齢構成・配偶関係（2008年3月31日現在で24～28歳の年齢別、配偶関係別人口数）を考慮して、636の標本を比例配分した。層別の標本数、調査地点数は表-4のとおりである。"
+msgid ""
+"各都市規模別の層での推定母集団の大きさにより、年齢構成・配偶関係（2008年3月31日現在で24～28歳の年齢別、配偶関係別人口数）を考慮して、636"
+"の標本を比例配分した。層別の標本数、調査地点数は表-4のとおりである。"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:107
 msgid ""
-"**抽出** "
-"調査地点毎の調査対象数は各都市規模層の年齢構成・配偶関係の配分数に応じて4～9対象を割り当てた。また、正規対象数１名につき、配偶状況と世帯状況を考慮して、以下のように予備対象者を付した。有配偶者には3名、無配偶・非単身者には4名、無配偶・単身者には7名を付した。"
+"**抽出** 調査地点毎の調査対象数は各都市規模層の年齢構成・配偶関係の配分数に応じて4～9対象を割り当てた。また、正規対象数１名につき、配偶状"
+"況と世帯状況を考慮して、以下のように予備対象者を付した。有配偶者には3名、無配偶・非単身者には4名、無配偶・単身者には7名を付した。"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:110
@@ -208,7 +215,9 @@ msgid "コーホートE"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:123
-msgid "21大都市（札幌市、仙台市、さいたま市、千葉市、東京都区、横浜市、川崎市、相模原市、新潟市、静岡市、浜松市、名古屋市、京都市、大阪市、堺市、神戸市、岡山市、広島市、北九州市、福岡市）"
+msgid ""
+"21大都市（札幌市、仙台市、さいたま市、千葉市、東京都区、横浜市、川崎市、相模原市、新潟市、静岡市、浜松市、名古屋市、京都市、大阪市、堺"
+"市、神戸市、岡山市、広島市、北九州市、福岡市）"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:127
@@ -216,10 +225,11 @@ msgid "（注）ここでいう市とは、2013年4月1日現在による市政�
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:131
-msgid "各都市規模別の層での推定母集団の大きさにより、年齢構成・配偶関係（2013年3月31日現在で24～28歳の年齢別、配偶関係別人口数）を考慮して、625の標本を比例配分した。層別の対象数、調査地点数は表-5のとおりである。"
+msgid ""
+"各都市規模別の層での推定母集団の大きさにより、年齢構成・配偶関係（2013年3月31日現在で24～28歳の年齢別、配偶関係別人口数）を考慮して、625"
+"の標本を比例配分した。層別の対象数、調査地点数は表-5のとおりである。"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sampleDS.rst:137
 msgid "**表- 5　コーホートＥの層別推定母集団数、標本サイズ、調査地点数**"
 msgstr ""
-

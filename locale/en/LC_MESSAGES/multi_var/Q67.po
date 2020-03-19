@@ -4,43 +4,45 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-28 13:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-03-19 20:21+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.3\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:3
 msgid "世帯構成の変動"
-msgstr ""
+msgstr "Changes in household composition"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:7
 msgid "質問文（複数回答）"
-msgstr ""
+msgstr "Question (multi answers)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:9
 msgid "この1年間（調査前年10月～調査年9月）にあなたの世帯にどのような変動がありましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "Which changes occurred in your household in the past year (from October of the previous year to sarvey year September)? (Circle all answers that apply to you.)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid "項目"
-msgstr ""
+msgstr "items"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid "変数"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid "あなたの子どもが生まれた"
-msgstr ""
+msgstr "My child was born"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid ":doc:`Q67A </variable/Q67A>`"
@@ -48,7 +50,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid "あなた、または夫の親を引き取った"
-msgstr ""
+msgstr "My parent(s) or my husband's parent(s) moved in with us."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid ":doc:`Q67B </variable/Q67B>`"
@@ -56,7 +58,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid "世帯員が単身赴任から戻った"
-msgstr ""
+msgstr "A member of my household came home from a long -term posting elsewhere for work."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid ":doc:`Q67C </variable/Q67C>`"
@@ -64,7 +66,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid "その他（それ以外の理由で世帯員が増えた）"
-msgstr ""
+msgstr "Other (My household increased in size for other reasons.)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid ":doc:`Q67D </variable/Q67D>`"
@@ -72,7 +74,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid "世帯員が単身赴任で転出した"
-msgstr ""
+msgstr "A member of my household moved out because he or she was transferred for work."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid ":doc:`Q67E </variable/Q67E>`"
@@ -80,7 +82,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid "世帯員が転出して世帯員が減った"
-msgstr ""
+msgstr "A member of my household moved out."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid ":doc:`Q67F </variable/Q67F>`"
@@ -88,7 +90,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid "世帯員が死亡して世帯員が減った"
-msgstr ""
+msgstr "A member of my household died."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid ":doc:`Q67G </variable/Q67G>`"
@@ -96,7 +98,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid "その他（それ以外の理由で世帯員が減った）"
-msgstr ""
+msgstr "Other (My household size became smaller for other reasons.)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid ":doc:`Q67H </variable/Q67H>`"
@@ -104,7 +106,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid "あなたが結婚して別の世帯を形成した(有配偶者のみ)"
-msgstr ""
+msgstr "I got married and formed a different household. (for only married)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid ":doc:`Q67I </variable/Q67I>`"
@@ -112,7 +114,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid "あなたが離婚・別居して別の世帯を形成した"
-msgstr ""
+msgstr "I got divorced or separated and formed a different household."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid ":doc:`Q67J </variable/Q67J>`"
@@ -120,7 +122,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid "あなた（とその家族）が親の家から出て、独立した世帯を形成した"
-msgstr ""
+msgstr "I (or my household) moved out of my (or my husband's) parents’ house to form a different household."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid ":doc:`Q67K </variable/Q67K>`"
@@ -128,7 +130,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid "あなた（とその家族）が親の家に入って、同居世帯を形成した"
-msgstr ""
+msgstr "I (or my household) moved into my (or my husband's) parents’ house to live together."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid ":doc:`Q67L </variable/Q67L>`"
@@ -136,9 +138,8 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid "特に何もない"
-msgstr ""
+msgstr "There was no change in my household. "
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
 msgid ":doc:`Q67M </variable/Q67M>`"
 msgstr ""
-

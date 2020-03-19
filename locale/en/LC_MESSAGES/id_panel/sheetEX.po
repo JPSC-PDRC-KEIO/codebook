@@ -4,23 +4,25 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-03-19 20:33+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.3\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sheetEX.rst:3
 msgid "提供データの内容"
-msgstr ""
+msgstr "JPSC file structure"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sheetEX.rst:6
 msgid "収録シートについて"
@@ -57,7 +59,3 @@ msgstr ""
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sheetEX.rst
 msgid "ただし、内容的に同じであっても、質問文や回答の選択肢を変更した場合には、変数を変更している場合がありますのでご注意ください。例えば、「会社などでの育児休業制度の有無」を尋ねた質問項目は、第2回調査ではQ156ですが、第6回調査では選択肢を追加し、詳細な内容に変更したため、Q880と変更されています。"
 msgstr ""
-
-#~ msgid "提供しているデータの内容"
-#~ msgstr ""
-

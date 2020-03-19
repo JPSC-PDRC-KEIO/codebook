@@ -8,6 +8,6 @@
 .. |nt4| replace:: その人
 .. |nt5| replace:: 回答者本人
 
-
+.. |n| unicode:: U+30FB
 .. |space| unicode:: U+0020 .. 半角スペース
 .. |emspace| unicode:: U+2003 .. em space いわゆるクワタ
