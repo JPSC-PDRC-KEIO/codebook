@@ -24,7 +24,6 @@
     | 5.その他の無職"
 
 
-
 .. toctree::
    :maxdepth: 1
    :hidden:

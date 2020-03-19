@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jyouken/kensyu.rst:3
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/kensyu.rst:3
 msgid "研修・講習"
 msgstr ""
 

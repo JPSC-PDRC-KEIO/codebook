@@ -99,7 +99,7 @@ msgid "備考"
 msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:68
-msgid "この質問項目の変数名と選択肢には調査回によって変更があります。詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`)をご参照ください。"
+msgid "この質問項目の変数名と選択肢には調査回によって変更があります。詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`）をご参照ください。"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:72
@@ -134,6 +134,6 @@ msgstr ""
 #~ msgid "高等学校（旧制中学）"
 #~ msgstr "High school (junior high school in old-education-system)"
 
-#~ msgid "この質問項目の変数名と選択肢は第2回以降現在のものに変更されました。詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`)をご参照ください。"
+#~ msgid "この質問項目の変数名と選択肢は第2回以降現在のものに変更されました。詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`）をご参照ください。"
 #~ msgstr ""
 

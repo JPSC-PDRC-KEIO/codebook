@@ -83,7 +83,7 @@ msgid "備考"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:62
-msgid "この質問項目の選択肢は第18回以降現在のものに変更されました。詳しくはこちら（:doc:`/kihon_kazoku/oya_giri`)をご参照ください。"
+msgid "この質問項目の選択肢は第18回以降現在のものに変更されました。詳しくはこちら（:doc:`/kihon_kazoku/oya_giri`）をご参照ください。"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:67

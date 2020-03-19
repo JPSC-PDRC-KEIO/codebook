@@ -84,7 +84,7 @@ msgid "備考"
 msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:63
-msgid "この質問項目の選択肢は第18回以降現在のものに変更されました。詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`)をご参照ください。"
+msgid "この質問項目の選択肢は第18回以降現在のものに変更されました。詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`）をご参照ください。"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:67

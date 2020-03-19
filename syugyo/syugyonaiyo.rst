@@ -10,12 +10,12 @@
    gensyoku/gensyoku_syokugyo
    gensyoku/kaisya_zokusei
    gensyoku/syokumu
-   jyouken/kyuyo
-   jyouken/roudoujikan_kyuka
-   jyouken/syakaihoken_kanyu
-   jyouken/ikujikyuka
-   jyouken/kaigokyuka
-   jyouken/kensyu
+   jouken/kyuyo
+   jouken/roudoujikan&kyuka
+   jouken/syakaihoken_kanyu
+   jouken/ikujikyuka
+   jouken/kaigokyuka
+   jouken/kensyu
    /variable/P58
    /multi_var/Q1185
    /multi_var/Q1200

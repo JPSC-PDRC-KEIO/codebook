@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.2.4\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jyouken/kaigokyuka.rst:3
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/kaigokyuka.rst:3
 msgid "介護休業"
 msgstr "Care leave"
