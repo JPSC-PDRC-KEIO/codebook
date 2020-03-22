@@ -25,8 +25,8 @@ msgstr "Contact information"
 
 #: ../../contact.rst:5
 msgid "ページに関して不明な点や不備等がありましたら下記までメールにてご連絡ください。"
-msgstr "If you have any questions or deficiencies regarding the page, please contact us by e-mail to the following."
+msgstr "If you have any questions about the JPSC data or are having problems using this documentation, please contact us by e-mail."
 
 #: ../../contact.rst:7
 msgid "慶應義塾大学パネル設計・解析センター JPSC部門 <jpschelp@pdrc.keio.ac.jp>"
-msgstr "Keio University Panel Data Research Center JPSC Division <jpschelp@pdrc.keio.ac.jp>"
+msgstr "JPSC Department of Panel Data Research Center at Keio University <jpschelp@pdrc.keio.ac.jp>"

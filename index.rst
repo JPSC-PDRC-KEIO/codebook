@@ -7,27 +7,12 @@ JPSC コードブック
 調査概要や提供データに含まれる変数の説明などの情報が収録されています。
 JPSCデータセットを利用、分析する際の資料としてご活用ください。
 
-利用にあたって
---------------------------------
-* **JPSCデータを貸りるには**:|emspace| :doc:`data_riyo`
-* **調査項目、変数を検索するには**:|emspace| :doc:`riyo`
-* **本ページに関する質問は**:|emspace| :doc:`contact`
-　
-.. toctree::
-   :caption: 利用にあたって
-   :maxdepth: 1
-   :hidden:
-
-   data_riyo
-   riyo
-   contact
 
 
 調査について
 -----------------
 * **調査対象者の構成、サンプリング方法の情報は**:|emspace| :doc:`gaiyo`
 * **調査票を取得するには**:|emspace| :doc:`tyosahyo`
-* **データの内容（収録ファイル、変数の命名法）を確認するには**:|emspace| :doc:`id_panel/sheetEX`
 
 .. toctree::
    :caption: 調査について
@@ -36,11 +21,40 @@ JPSCデータセットを利用、分析する際の資料としてご活用く�
 
    gaiyo
    tyosahyo
+
+
+   
+JPSC データ
+-----------------
+* **JPSCデータを貸りるには**:|emspace| :doc:`data_riyo`
+* **データの内容（収録ファイル、変数の命名法）**:|emspace| :doc:`id_panel/sheetEX`
+
+.. toctree::
+   :caption: JPSC データ
+   :maxdepth: 1
+   :hidden:
+
+   data_riyo
    id_panel/sheetEX
 
 
-収録変数
-----------
+
+コードブックの利用にあたって
+----------------------------------------------------
+* **はじめに**:|emspace| :doc:`riyo`
+* **データ、コードブックへの質問は**:|emspace| :doc:`contact`
+　
+.. toctree::
+   :caption: 利用にあたって
+   :maxdepth: 1
+   :hidden:
+
+   riyo
+   contact
+
+   
+収録変数の一覧
+-------------------------
 * **対象者番号、調査回について**:|emspace| :doc:`id_panel/index`
 * **主要調査項目について**:|emspace| :doc:`komoku`
 

@@ -4,29 +4,34 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-17 04:33+0900\n"
-"PO-Revision-Date: 2020-03-17 06:25+0900\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-22 16:03+0900\n"
+"PO-Revision-Date: 2020-03-22 19:53+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.8.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.3\n"
 
-#: ../../index.rst:11 ../../index.rst:16
-msgid "利用にあたって"
-msgstr "Usage"
-
-#: ../../index.rst:27 ../../index.rst:32
+#: ../../index.rst:13 ../../index.rst:17
 msgid "調査について"
 msgstr "About the survey"
 
-#: ../../index.rst:43 ../../index.rst:48
+#: ../../index.rst:28 ../../index.rst:32
+msgid "JPSC データ"
+msgstr "JPSC dataset"
+
+#: ../../index.rst:47
+msgid "利用にあたって"
+msgstr "Usage"
+
+#: ../../index.rst:62
 msgid "収録変数"
 msgstr "Variables"
 
@@ -37,79 +42,54 @@ msgstr "JPSC code book"
 
 #: ../../index.rst:5
 msgid ""
-"このドキュメンテーションには、「消費生活に関するパネル調査」 （Japanese Panel Surveys of Consumers: "
-"JPSC）の 調査概要や提供データに含まれる変数の説明などの情報が収録されています。 "
-"JPSCデータセットを利用、分析する際の資料としてご活用ください。"
-msgstr ""
-
-#: ../../index.rst:12
-msgid "**JPSCデータを貸りるには**:|emspace| :doc:`data_riyo`"
-msgstr ""
-
-#: ../../index.rst:13
-msgid "**調査項目、変数を検索するには**:|emspace| :doc:`riyo`"
+"このドキュメンテーションには、「消費生活に関するパネル調査」 "
+"（Japanese Panel Surveys of Consumers: JPSC）の 調査概要や提供デー"
+"タに含まれる変数の説明などの情報が収録されています。 JPSCデータセッ"
+"トを利用、分析する際の資料としてご活用ください。"
 msgstr ""
 
 #: ../../index.rst:14
-msgid "**本ページに関する質問は**:|emspace| :doc:`contact`"
-msgstr ""
+msgid ""
+"**調査対象者の構成、サンプリング方法の情報は**:|emspace| :doc:"
+"`gaiyo`"
+msgstr "**About the JPSC sample**:|emspace| :doc:`gaiyo`"
 
-#: ../../index.rst:28
-msgid "**調査対象者の構成、サンプリング方法の情報は**:|emspace| :doc:`gaiyo`"
-msgstr ""
+#: ../../index.rst:15
+msgid "**調査票を取得するには**:|emspace| :doc:`tyosahyo`"
+msgstr "**Get the questionnaires**:|emspace| :doc:`tyosahyo`"
 
 #: ../../index.rst:29
-msgid "**調査票を取得するには**:|emspace| :doc:`tyosahyo`"
-msgstr ""
+msgid "**JPSCデータを貸りるには**:|emspace| :doc:`data_riyo`"
+msgstr "**Acquiring the data**:|emspace| :doc:`data_riyo`"
 
 #: ../../index.rst:30
-msgid "**データの内容（収録ファイル、変数の命名法）を確認するには**:|emspace| :doc:`id_panel/sheetEX`"
-msgstr ""
+msgid ""
+"**データの内容（収録ファイル、変数の命名法）**:|emspace| :doc:"
+"`id_panel/sheetEX`"
+msgstr "**Dealing with the data**:|emspace| :doc:`id_panel/sheetEX`"
+
+#: ../../index.rst:43
+msgid "コードブックの利用にあたって"
+msgstr "Usage"
 
 #: ../../index.rst:44
-msgid "**対象者番号、調査回について**:|emspace| :doc:`id_panel/index`"
-msgstr ""
+msgid "**はじめに**:|emspace| :doc:`riyo`"
+msgstr "**Getting started**:|emspace| :doc:`riyo`"
 
 #: ../../index.rst:45
+#, fuzzy
+msgid "**データ、コードブックへの質問は**:|emspace| :doc:`contact`"
+msgstr "**Getting help**:|emspace| :doc:`contact`"
+
+#: ../../index.rst:57
+msgid "収録変数の一覧"
+msgstr "Variables"
+
+#: ../../index.rst:58
+msgid ""
+"**対象者番号、調査回について**:|emspace| :doc:`id_panel/index`"
+msgstr "**Respondent IDs and waves**:|emspace| :doc:`id_panel/index`"
+
+#: ../../index.rst:59
 msgid "**主要調査項目について**:|emspace| :doc:`komoku`"
-msgstr ""
-
-#~ msgid "CONTENTS"
-#~ msgstr ""
-
-#~ msgid "USAGE"
-#~ msgstr ""
-
-#~ msgid "OVERVIEW"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "このページは「消費生活に関するパネル調査」（Japanese Panel Surveys of "
-#~ "Consumers: JPSC） を使う際のサポート情報を収録しています。 "
-#~ "調査概要、リリースしているデータセットに含まれる変数の説明、その他JPSCを利用するにあたって有用な情報を記載しています。"
-#~ msgstr ""
-
-#~ msgid "**JPSCデータを貸りるには**: :doc:`data_riyo`"
-#~ msgstr ""
-
-#~ msgid "**質問、変数を検索するには**: :doc:`riyo`"
-#~ msgstr ""
-
-#~ msgid "**本ページに関して問い合わせるには**: :doc:`contact`"
-#~ msgstr ""
-
-#~ msgid "**調査概要（調査対象者の構成、サンプリング方法）を知るには**: :doc:`gaiyo`"
-#~ msgstr ""
-
-#~ msgid "**調査票を取得するには**: :doc:`tyosahyo`"
-#~ msgstr ""
-
-#~ msgid "**データの内容（収録シート、変数名のルール）を確認するには**: :doc:`id_panel/sheetEX`"
-#~ msgstr ""
-
-#~ msgid "**対象者番号、調査回について**: :doc:`id_panel/index`"
-#~ msgstr ""
-
-#~ msgid "**主要調査項目について**: :doc:`komoku`"
-#~ msgstr ""
-
+msgstr "**Main topics in the survey**:|emspace| :doc:`komoku`"
