@@ -3462,7 +3462,7 @@ a .fa, a .wy-menu-vertical li span.toctree-expand, .wy-menu-vertical li a span.t
 .wy-tray-container li.on {
   opacity: 1;
   height: 56px
-}
+}nav
 
 @media screen and (max-width: 768px) {
   .wy-tray-container {
@@ -5040,7 +5040,7 @@ html {
   position: relative;
   font-size:24px;
   display: block;
-  width: 280px;
+  width: 300px; /* 280px */
   padding-top: .05em;
   margin-bottom: .809em;
   z-index: 500;
@@ -5159,21 +5159,22 @@ html {
   bottom: 0;
   left: 0;
   padding-bottom: 2em;
-  width: 279px;
+  width: 300px;
+  /* width: 279px; */
   overflow-x: hidden;
   overflow-y: hidden;
   min-height: 100%;
   color: #FFF;
   background-image: url(../_static/_images/haikei_2.png);
-  background-repeat:repeat
+  background-repeat:repeat;
   z-index: 200
 }
 
 .wy-side-scroll {
-  width: 300px;
-  position: static;
+  width: 300px + 20px;
+  position: static; 
   overflow-x: hidden;
-  overflow-y: scroll;
+  overflow-y: scroll; 
   height: 100%
 }
 

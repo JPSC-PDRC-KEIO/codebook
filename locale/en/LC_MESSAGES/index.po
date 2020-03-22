@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-22 16:03+0900\n"
-"PO-Revision-Date: 2020-03-22 19:53+0900\n"
+"PO-Revision-Date: 2020-03-22 23:17+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -70,14 +70,13 @@ msgstr "**Dealing with the data**:|emspace| :doc:`id_panel/sheetEX`"
 
 #: ../../index.rst:43
 msgid "コードブックの利用にあたって"
-msgstr "Usage"
+msgstr "Usage of this documentation"
 
 #: ../../index.rst:44
 msgid "**はじめに**:|emspace| :doc:`riyo`"
 msgstr "**Getting started**:|emspace| :doc:`riyo`"
 
 #: ../../index.rst:45
-#, fuzzy
 msgid "**データ、コードブックへの質問は**:|emspace| :doc:`contact`"
 msgstr "**Getting help**:|emspace| :doc:`contact`"
 
