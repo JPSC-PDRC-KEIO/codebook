@@ -3,9 +3,8 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-from sphinx.locale import admonitionlabels
-
 import sphinx_rtd_theme
+from sphinx.locale import admonitionlabels
 
 # -- Project information -----------------------------------------------------
 
@@ -40,7 +39,6 @@ extensions = [
 blockdiag_html_image_format = "SVG"
 inkscape_converter_bin = "/usr/bin/inkscape"
 # Fontpath for blockdiag (truetype font)
-blockdiag_fontpath = "/mnt/c/Windows/Fonts/meiryo.ttc"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
@@ -86,9 +84,9 @@ html_theme_path = ["sphinx_rtd_theme.get_html_theme_path()"]
 # documentation.
 #
 html_theme_options = {
-    'titles_only': True,
-    'navigation_depth': 3,
-    'sticky_navigation': False
+    "titles_only": True,
+    "navigation_depth": 3,
+    "sticky_navigation": False,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -118,7 +116,6 @@ rst_prolog = u"""
 # CSSの追加
 def setup(app):
     app.add_stylesheet("my.css")
-
 
 
 admonitionlabels["note"] = u"notice"
