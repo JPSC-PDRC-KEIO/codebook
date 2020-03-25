@@ -4,43 +4,51 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-24 14:10+0900\n"
+"PO-Revision-Date: 2020-03-24 14:37+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:4
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:3
 msgid "死亡した親族"
-msgstr ""
+msgstr "Deceased relatives"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:7
+msgid "質問文（複数回答）"
+msgstr "Question (multiple responses)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:8
-msgid "質問文（複数回答）"
+msgid ""
+"同居でも別居でもこの1年間にご親族で死亡された方がいらっしゃる方にお聞きし"
+"ます。 死亡されたのはどなたですか。（〇はいくつでも）"
 msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:9
-msgid "同居でも別居でもこの1年間にご親族で死亡された方がいらっしゃる方にお聞きします。 死亡されたのはどなたですか。（〇はいくつでも）"
-msgstr ""
+"Please answer following question, if any relatives, regardless of "
+"whether they lived together with you or separately, has died in the past "
+"year (from October of the previous year to survey year September). "
+"(Circle all answers that apply to you.)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid "有配偶"
-msgstr ""
+msgstr "Married"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid "無配偶"
-msgstr ""
+msgstr "Single"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid "あなたの父"
-msgstr ""
+msgstr "My father"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid ":doc:`Q84A </variable/Q84A>`"
@@ -52,7 +60,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid "あなたの母"
-msgstr ""
+msgstr "My mother"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid ":doc:`Q84B </variable/Q84B>`"
@@ -64,7 +72,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid "夫の父"
-msgstr ""
+msgstr "My husband's father"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid ":doc:`Q84C </variable/Q84C>`"
@@ -76,7 +84,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid "夫の母"
-msgstr ""
+msgstr "My husband’s mother"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid ":doc:`Q84D </variable/Q84D>`"
@@ -84,7 +92,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid "あなたや夫の養親"
-msgstr ""
+msgstr "My or my husband's foster parent(s)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid ":doc:`Q84I </variable/Q84I>`"
@@ -92,7 +100,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid "あなたの養親"
-msgstr ""
+msgstr "My foster parent(s)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid ":doc:`Q85H </variable/Q85H>`"
@@ -100,7 +108,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid "あなたの夫"
-msgstr ""
+msgstr "My husband"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid ":doc:`Q85C </variable/Q85C>`"
@@ -108,7 +116,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid "あなたの祖父母"
-msgstr ""
+msgstr "My grandparent(s)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid ":doc:`Q84E </variable/Q84E>`"
@@ -120,7 +128,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid "夫の祖父母"
-msgstr ""
+msgstr "My husband’s grandparent(s)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid ":doc:`Q84F </variable/Q84F>`"
@@ -128,7 +136,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid "子ども"
-msgstr ""
+msgstr "My child(ren)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid ":doc:`Q84G </variable/Q84G>`"
@@ -140,7 +148,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
 msgid ":doc:`Q84H </variable/Q84H>`"
@@ -150,3 +158,59 @@ msgstr ""
 msgid ":doc:`Q85F </variable/Q85F>`"
 msgstr ""
 
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:31
+msgid ""
+"第10回調査までは質問対象を「同居の家族」に限定し、「別居している親」につ"
+"いての質問を別途（下記）設けていました。"
+msgstr ""
+"Until the 10th wave, questions were limited to \"families living "
+"together,\" and questions about \"parents living separately\" were set "
+"up separately (See following)."
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:34
+msgid "別居の親の死亡について"
+msgstr "About death of separated parent"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
+msgid "別居の親の死亡の有無"
+msgstr "Did your separated parent(s) die?"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
+msgid ":doc:`Q86 </variable/Q86>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
+msgid "有配偶と同じ"
+msgstr "Same as Married"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
+msgid ":doc:`Q87A </variable/Q87A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
+msgid ":doc:`Q88A </variable/Q88A>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
+msgid ":doc:`Q87B </variable/Q87B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
+msgid ":doc:`Q88B </variable/Q88B>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
+msgid ":doc:`Q87C </variable/Q87C>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
+msgid ":doc:`Q87D </variable/Q87D>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
+msgid ":doc:`Q87E </variable/Q87E>`"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q84.rst:1
+msgid ":doc:`Q88C </variable/Q88C>`"
+msgstr ""

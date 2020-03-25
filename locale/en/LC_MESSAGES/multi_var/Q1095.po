@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-28 14:33+0900\n"
+"POT-Creation-Date: 2020-03-24 18:42+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,7 +39,7 @@ msgid "項目"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
-msgid "変数"
+msgid "変数名"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
@@ -107,5 +107,11 @@ msgid ":doc:`Q1095H </variable/Q1095H>`"
 msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "変数名"
+#~ msgstr ""
+
+#~ msgid "変数"
 #~ msgstr ""
 

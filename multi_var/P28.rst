@@ -9,7 +9,7 @@
 
 
 .. csv-table::
-   :header: "項目", "変数"
+   :header: "項目", "変数名"
    :widths: 20,5
 
    医師、歯科医師,:doc:`P28A </variable/P28A>`

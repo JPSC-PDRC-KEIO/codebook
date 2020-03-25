@@ -9,20 +9,20 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-19 15:52+0900\n"
-"PO-Revision-Date: 2020-03-09 11:34+0900\n"
+"PO-Revision-Date: 2020-03-25 15:52+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 2.3\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P92.rst:5
-#, fuzzy
 msgid "最終学歴（実母）〔第1回〕"
-msgstr "Educational achievement at the last school (mother)"
+msgstr "Educational achievement at the last school (mother) [1st wave]"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P92.rst:9
 msgid "変数名"
@@ -37,11 +37,10 @@ msgid "質問文"
 msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P92.rst:18
-#, fuzzy
 msgid "あなたの母親の最終学歴は次のうちどれですか。(中退は卒業としてください。)"
 msgstr ""
-"What was the last school your mother graduated from? (Exclude a school if"
-" he dropped out of it.)"
+"What was the last school your mother graduated from? (Exclude a school if he dropped "
+"out of it.)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P92.rst:24
 msgid "選択肢 / 記入欄"
@@ -50,8 +49,7 @@ msgstr "Choices / Entry field"
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P92.rst:27
 msgid "中学（旧制中学校・高等小学校）卒業"
 msgstr ""
-"Junior-high school (elementary school/senior elementary school in old-"
-"education-system)"
+"Junior-high school (elementary school/senior elementary school in old-education-system)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P92.rst:29
 msgid "高校（旧制中学）卒業"
@@ -59,9 +57,7 @@ msgstr "High school ((junior high school in old-education-system)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P92.rst:31
 msgid "短大・高専（旧制高校）卒業"
-msgstr ""
-"Junior college or College of technology (high school in old-education-"
-"system)"
+msgstr "Junior college or College of technology (high school in old-education-system)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P92.rst:33
 msgid "大学・大学院卒業"
@@ -89,7 +85,7 @@ msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P92.rst:60
 msgid "|nt1| 詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`）をご参照ください。"
-msgstr ""
+msgstr "|nt1| Please refer to here (:doc:`/kihon_kazoku/oya_jitsu`) for details."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P92.rst:64
 msgid "収録シート"
@@ -98,10 +94,3 @@ msgstr "Data files (csv)"
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P92.rst:69
 msgid "p1_4"
 msgstr ""
-
-#~ msgid "この質問項目の変数名と選択肢は第2回以降変更されました。詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`）をご参照ください。"
-#~ msgstr ""
-
-#~ msgid "この質問項目の変数名と選択肢には調査回によって変更があります。詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`）をご参照ください。"
-#~ msgstr ""
-

@@ -10,7 +10,7 @@
 
 
 .. csv-table::
-   :header: "項目", "変数"
+   :header: "項目", "変数名"
    :widths: 20,5
 
    人員整理・会社解散・倒産のため,:doc:`Q260A </variable/Q260A>`

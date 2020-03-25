@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-19 15:52+0900\n"
+"POT-Creation-Date: 2020-03-24 10:30+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,5 +20,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/kyuyo.rst:3
 msgid "給与"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/kyuyo.rst:15
+msgid ""
+":doc:`/variable/Q148` の回答によって、:doc:`/variable/Q149` 、 "
+":doc:`/variable/Q150` 、 :doc:`/variable/Q151` のいずれかを回答しています。"
 msgstr ""
 

@@ -88,7 +88,7 @@
   第6～8回調査では、「親への仕送り、小遣い」を実親（:doc:`Q879O </variable/Q879O>`）と義親（:doc:`Q879N </variable/Q879N>`）分けて聞いており、その他の家族への直接的な支出を「家族への小遣い」（:doc:`Q879L </variable/Q879L>`）として聞いています。
 
 .. csv-table::
-   :header: "項目","変数"
+   :header: "項目","変数名"
    :widths: 15, 10
 
     "生活費合計", ":doc:`Q879P </variable/Q879P>`"

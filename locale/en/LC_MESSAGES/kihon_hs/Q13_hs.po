@@ -50,7 +50,7 @@ msgstr "Choices / Entry field"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q13_hs.rst:20
 msgid "＿＿歳"
-msgstr "＿＿year old"
+msgstr "＿＿years old"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q13_hs.rst:23
 msgid "桁あふれコード"

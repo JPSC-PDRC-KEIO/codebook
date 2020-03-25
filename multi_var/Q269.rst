@@ -10,7 +10,7 @@
 
 
 .. csv-table::
-   :header: "項目", "変数"
+   :header: "項目", "変数名"
    :widths: 20,5
 
    具体的な求職活動をしている,:doc:`Q269A </variable/Q269A>`

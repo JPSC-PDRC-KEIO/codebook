@@ -12,7 +12,7 @@
 
 
 .. csv-table::
-   :header: "項目", "変数"
+   :header: "項目", "変数名"
    :widths: 20,5
 
    仕事が面白くて、まだ結婚にまで目が向かないから, :doc:`Q566A </variable/Q566A>`

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-19 15:52+0900\n"
-"PO-Revision-Date: 2020-03-19 19:00+0900\n"
+"PO-Revision-Date: 2020-03-24 10:49+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -34,7 +34,7 @@ msgstr "(1) Circle any event you and your family has experienced since you gradu
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:9
 msgid "（2）その結果どのようなことが起こりましたか。あなたが覚えている限りで、次の中からいくつでもお答えください。（〇はいくつでも）"
-msgstr "(2)(For each event you chose in (1)) What happened as a result? (Circle as many items as apply to you)"
+msgstr "(2) (For each event you chose in (1)) What happened as a result? (Circle as many items as apply to you)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:12
 msgid "中学卒業～現在に起きた大きな出来事"

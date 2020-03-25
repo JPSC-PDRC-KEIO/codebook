@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2020-03-24 18:42+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,7 +31,7 @@ msgid "消費税がさらに増税になったら、お宅ではどのような�
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou_pre10.rst:1
-msgid "変数"
+msgid "変数名"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou_pre10.rst:1
@@ -143,4 +143,10 @@ msgstr ""
 #: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou_pre10.rst:1
 msgid ":doc:`Q1195B </variable/Q1195B>`"
 msgstr ""
+
+#~ msgid "変数名"
+#~ msgstr ""
+
+#~ msgid "変数"
+#~ msgstr ""
 

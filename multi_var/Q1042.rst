@@ -11,7 +11,7 @@
 ^^^^^^^^^^^^^^^^^
 
 .. csv-table::
-   :header: "項目", "変数"
+   :header: "項目", "変数名"
    :widths: 20,5
 
    あなたの夫,:doc:`Q1042A </variable/Q1042A>`
@@ -30,7 +30,7 @@
 ^^^^^^^^^^^^^^^^^
 
 .. csv-table::
-   :header: "項目", "変数"
+   :header: "項目", "変数名"
    :widths: 20,5
 
    あなたの親,:doc:`Q1042B </variable/Q1042B>`

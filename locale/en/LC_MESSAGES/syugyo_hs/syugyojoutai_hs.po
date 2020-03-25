@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-19 15:52+0900\n"
+"POT-Creation-Date: 2020-03-24 18:42+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,7 +43,7 @@ msgid "第2回～"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:1
-msgid "変数"
+msgid "変数名"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:1
@@ -102,5 +102,11 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "項目"
+#~ msgstr ""
+
+#~ msgid "変数名"
+#~ msgstr ""
+
+#~ msgid "変数"
 #~ msgstr ""
 

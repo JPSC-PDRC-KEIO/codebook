@@ -11,7 +11,7 @@
 --------------
 
 .. csv-table::
-  :header: "項目", "変数"
+  :header: "項目", "変数名"
   :widths: 10, 10
 
   "結納", ":doc:`Q718 </variable/Q718>` "

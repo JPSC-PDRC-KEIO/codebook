@@ -1,4 +1,3 @@
-
 ============================================================
 死亡した親族
 ============================================================
@@ -13,19 +12,38 @@
 
 .. csv-table::
    :header: "", "有配偶", "無配偶"
-   :widths: 20,10,10
+   :widths: 10,5,5
 
-   あなたの父,:doc:`Q84A </variable/Q84A>`,:doc:`Q85A </variable/Q85A>`
-   あなたの母,:doc:`Q84B </variable/Q84B>`,:doc:`Q85B </variable/Q85B>`
-   夫の父,:doc:`Q84C </variable/Q84C>`, "--"
-   夫の母,:doc:`Q84D </variable/Q84D>`, "--"
-   あなたや夫の養親,:doc:`Q84I </variable/Q84I>`, "--"
+   あなたの父, :doc:`Q84A </variable/Q84A>`, :doc:`Q85A </variable/Q85A>`
+   あなたの母, :doc:`Q84B </variable/Q84B>`, :doc:`Q85B </variable/Q85B>`
+   夫の父, :doc:`Q84C </variable/Q84C>`, "--"
+   夫の母, :doc:`Q84D </variable/Q84D>`, "--"
+   あなたや夫の養親, :doc:`Q84I </variable/Q84I>`, "--"
    あなたの養親, "--", :doc:`Q85H </variable/Q85H>`
    あなたの夫, "--", :doc:`Q85C </variable/Q85C>`
-   あなたの祖父母,:doc:`Q84E </variable/Q84E>`,:doc:`Q85D </variable/Q85D>`
-   夫の祖父母,:doc:`Q84F </variable/Q84F>`, "--"
-   子ども,:doc:`Q84G </variable/Q84G>`,:doc:`Q85E </variable/Q85E>`
-   その他,:doc:`Q84H </variable/Q84H>`,:doc:`Q85F </variable/Q85F>`
+   あなたの祖父母, :doc:`Q84E </variable/Q84E>`, :doc:`Q85D </variable/Q85D>`
+   夫の祖父母, :doc:`Q84F </variable/Q84F>`, "--"
+   子ども, :doc:`Q84G </variable/Q84G>`, :doc:`Q85E </variable/Q85E>`
+   その他, :doc:`Q84H </variable/Q84H>`, :doc:`Q85F </variable/Q85F>`
+
+
+.. warning::
+   第10回調査までは質問対象を「同居の家族」に限定し、「別居している親」についての質問を別途（下記）設けていました。
+
+
+.. csv-table:: 別居の親の死亡について
+   :header: "", "有配偶", "無配偶"
+   :widths: 10,5,5
+
+   別居の親の死亡の有無, :doc:`Q86 </variable/Q86>`, "有配偶と同じ"
+   あなたの父, :doc:`Q87A </variable/Q87A>`, :doc:`Q88A </variable/Q88A>`
+   あなたの母, :doc:`Q87B </variable/Q87B>`, :doc:`Q88B </variable/Q88B>`
+   夫の父, :doc:`Q87C </variable/Q87C>`, "--"
+   夫の母, :doc:`Q87D </variable/Q87D>`, "--"
+   あなたや夫の養親, :doc:`Q87E </variable/Q87E>`, "--"
+   あなたの養親, "--", :doc:`Q88C </variable/Q88C>`
+
+
 
 .. toctree::
    :maxdepth: 1
@@ -47,3 +65,12 @@
    /variable/Q85E
    /variable/Q85F
    /variable/Q85H
+   /variable/Q86
+   /variable/Q87A
+   /variable/Q87B
+   /variable/Q87C
+   /variable/Q87D
+   /variable/Q87E
+   /variable/Q88A
+   /variable/Q88B
+   /variable/Q88C

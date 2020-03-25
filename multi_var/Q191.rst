@@ -10,7 +10,7 @@
 
 
 .. csv-table::
-   :header: "項目", "変数"
+   :header: "項目", "変数名"
    :widths: 20,5
 
    給与がよい,:doc:`Q191A </variable/Q191A>`

@@ -11,7 +11,7 @@
 
 
 .. csv-table::
-   :header: "項目", "変数"
+   :header: "項目", "変数名"
    :widths: 20,5
 
    夫や親の収入で生活はやっていけた,:doc:`Q200A </variable/Q200A>`

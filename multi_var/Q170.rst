@@ -11,7 +11,7 @@
 
 
 .. csv-table::
-   :header: "項目", "変数"
+   :header: "項目", "変数名"
    :widths: 20,5
 
    あなたの勤めている会社等が主催した研修会・講習会,:doc:`Q170A </variable/Q170A>`

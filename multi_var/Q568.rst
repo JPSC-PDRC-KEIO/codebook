@@ -10,7 +10,7 @@
 
 
 .. csv-table::
-   :header: "項目", "変数"
+   :header: "項目", "変数名"
    :widths: 20,5
 
    親戚や家族の紹介でお見合をした, :doc:`Q568A </variable/Q568A>`

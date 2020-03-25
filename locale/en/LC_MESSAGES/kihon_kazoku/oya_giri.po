@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-19 15:52+0900\n"
+"POT-Creation-Date: 2020-03-25 16:31+0900\n"
 "PO-Revision-Date: 2020-03-09 11:20+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -34,11 +34,13 @@ msgstr ""
 "changed as follows."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:1
-msgid "第1～第6回"
-msgstr "1st-6th waves"
+#, fuzzy
+msgid "第1回"
+msgstr "18th wave -"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:1
-msgid "第7回～"
+#, fuzzy
+msgid "第5回～"
 msgstr "7th wave -"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:1
@@ -84,12 +86,7 @@ msgid "第1～第4回"
 msgstr "1st-6th waves"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:1
-#, fuzzy
-msgid "第5回～"
-msgstr "7th wave -"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:1
-msgid "変数"
+msgid "変数名"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
@@ -215,4 +212,16 @@ msgstr "5.Self-employed or working for the family business"
 
 #~ msgid "第1～第17回"
 #~ msgstr "1st-17th waves"
+
+#~ msgid "変数名"
+#~ msgstr ""
+
+#~ msgid "変数"
+#~ msgstr ""
+
+#~ msgid "第1～第6回"
+#~ msgstr "1st-6th waves"
+
+#~ msgid "第7回～"
+#~ msgstr "7th wave -"
 

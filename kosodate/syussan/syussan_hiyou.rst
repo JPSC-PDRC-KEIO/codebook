@@ -11,7 +11,7 @@
 ^^^^^^^^^^
 
 .. csv-table::
-   :header: "項目", "変数"
+   :header: "項目", "変数名"
    :widths: 20, 15
 
    病院に支払った費用（定期検診も含む）, :doc:`Q74A</variable/Q74A>`

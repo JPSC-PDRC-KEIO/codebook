@@ -10,7 +10,7 @@
 
 
 .. csv-table::
-   :header: "項目", "変数"
+   :header: "項目", "変数名"
    :widths: 20,10
 
    "亡くなった方と同居していた", ":doc:`Q1043A </variable/Q1043A>`"

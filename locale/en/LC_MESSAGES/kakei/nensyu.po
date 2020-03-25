@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2020-03-24 18:42+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -177,7 +177,7 @@ msgid "夫婦以外に収入があった世帯員"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
-msgid "変数"
+msgid "変数名"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
@@ -332,4 +332,10 @@ msgstr ""
 #: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:85
 msgid "第2～4回では、無配偶の「その他」は「あなたの子ども」を含んでおり、変数名は :doc:`Q300N </variable/Q300N>` でした。"
 msgstr ""
+
+#~ msgid "変数名"
+#~ msgstr ""
+
+#~ msgid "変数"
+#~ msgstr ""
 

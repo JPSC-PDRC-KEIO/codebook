@@ -10,7 +10,7 @@
 
 
 .. csv-table::
-   :header: "項目", "変数"
+   :header: "項目", "変数名"
    :widths: 20,5
 
    生活費に余裕ができたら,:doc:`Q512A </variable/Q512A>`

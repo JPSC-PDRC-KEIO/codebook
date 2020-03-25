@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2020-03-19 21:54+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -113,4 +113,7 @@ msgstr ""
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:1
 msgid ":doc:`Q137I </variable/Q137I>`"
 msgstr ""
+
+#~ msgid "変数名"
+#~ msgstr ""
 

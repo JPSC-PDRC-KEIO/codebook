@@ -23,7 +23,7 @@ JPSCデータセットを利用、分析する際の資料としてご活用く�
    tyosahyo
 
 
-   
+
 JPSC データ
 -----------------
 * **JPSCデータを貸りるには**:|emspace| :doc:`data_riyo`
@@ -42,6 +42,7 @@ JPSC データ
 コードブックの利用にあたって
 ----------------------------------------------------
 * **はじめに**:|emspace| :doc:`riyo`
+* **用語がわからないときは**:|emspace| :doc:`glossary`
 * **データ、コードブックへの質問は**:|emspace| :doc:`contact`
 　
 .. toctree::
@@ -50,9 +51,10 @@ JPSC データ
    :hidden:
 
    riyo
+   glossary
    contact
 
-   
+
 収録変数の一覧
 -------------------------
 * **対象者番号、調査回について**:|emspace| :doc:`id_panel/index`

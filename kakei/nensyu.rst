@@ -26,7 +26,7 @@
 
 
 .. csv-table::
-   :header: "夫婦以外に収入があった世帯員", "変数"
+   :header: "夫婦以外に収入があった世帯員", "変数名"
    :widths: 5, 5
 
    夫の父, :doc:`Q300A </variable/Q300A>`
@@ -71,7 +71,7 @@
 
 
 .. csv-table::
-   :header: "本人以外に収入があった世帯員", "変数"
+   :header: "本人以外に収入があった世帯員", "変数名"
    :widths: 5, 5
 
    父, :doc:`Q300J </variable/Q300J>`

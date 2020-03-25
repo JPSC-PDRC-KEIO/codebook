@@ -4,56 +4,72 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-19 15:52+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-24 18:42+0900\n"
+"PO-Revision-Date: 2020-03-25 14:14+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.3\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst:3
 msgid "業種"
-msgstr ""
+msgstr "Industry category"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst:8
-msgid "その勤め先の業種は次のどれに該当しますか。（派遣社員の方は、派遣元の業種についてお答えください）"
+msgid ""
+"その勤め先の業種は次のどれに該当しますか。（派遣社員の方は、派遣元の業"
+"種についてお答えください）"
 msgstr ""
+"Which industry category does your company or organization belong to? "
+"(For temporary employees, answer with the industry of your temporary "
+"employer.)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst:12
 msgid ""
-"|nt1| 第1回から第20回までは12選択肢（:doc:`Q146 "
-"</variable/Q146>`）に分類し、第21回からは16選択肢（:doc:`Q1182 "
-"</variable/Q1182>`）に分類して聞いています。 ただし旧分類に基づいた変数（Q146）は、第21回以降のデータに残しています。"
+"|nt1| 第1回から第20回までは12選択肢（:doc:`Q146 </variable/Q146>`）に分"
+"類し、第21回からは16選択肢（:doc:`Q1182 </variable/Q1182>`）に分類して"
+"聞いています。 ただし旧分類に基づいた変数（Q146）は、第21回以降のデータ"
+"に残しています。"
 msgstr ""
+"From the 1st to the 20th, categorized into 12 choices (: doc: `Q146 </ "
+"variable / Q146>`), and from the 21st, 16 choices (: doc: `Q1182 </ "
+"variable / Q1182>`) categorized into into. However, the variable based "
+"on the old classification (Q146) is retained in the data from the 21st "
+"wave."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst:16
 msgid ""
-"なお、配偶者についても旧分類 :doc:`Q217 </variable/Q217>` 、新分類 :doc:`Q1183 "
-"</variable/Q1183>` に分かれています。"
+"なお、配偶者についても旧分類 :doc:`Q217 </variable/Q217>` 、新分類 :"
+"doc:`Q1183 </variable/Q1183>` に分かれています。"
 msgstr ""
+"The same question about spouse is also divided into the old "
+"classification :doc:`Q217 </variable/Q217>` and the new "
+"classification :doc:`Q1183 </variable/Q1183>` ."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst:1
 msgid "第1～第3回"
-msgstr ""
+msgstr "1st-3th waves"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst:1
 msgid "第4回～"
-msgstr ""
+msgstr "4th wave -"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst:1
-msgid "変数"
-msgstr ""
+msgid "変数名"
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst:1
 msgid ":doc:`Q146 </variable/Q146>`"
@@ -65,103 +81,96 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst:1
 msgid "選択肢"
-msgstr ""
+msgstr "Choices"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "1.農業、林業"
-msgstr ""
+msgstr "1.Agriculture, forestry"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "2.漁業・水産業"
-msgstr ""
+msgstr "2.Fishing, fisheries"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "3.鉱業・採石業"
-msgstr ""
+msgstr "3.Mining, quarrying"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "4.建設業"
-msgstr ""
+msgstr "4.Construction"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "5.製造業"
-msgstr ""
+msgstr "5.Manufacturing"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "6.卸売・小売業"
-msgstr ""
+msgstr "6.Wholesale, retail"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "7.金融業、保険業、不動産業"
-msgstr ""
+msgstr "7.Finance, insurance, real estate"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "8.運輸・通信業"
-msgstr ""
+msgstr "8.Transportation and Communication"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "9.電気・ガス・熱供給・水道業"
-msgstr ""
+msgstr "9.Electricity, gas, heating supply, water supply"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "10.サービス業"
-msgstr ""
+msgstr "10.Service industly"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "11.公務"
-msgstr ""
+msgstr "11.Public affairs"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "12.その他"
-msgstr ""
+msgstr "12.Other"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "6.電気・ガス・熱供給・水道業"
-msgstr ""
+msgstr "6.Electricity, gas, heating supply, water supply"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "7.情報通信業"
-msgstr ""
+msgstr "7.Telecommunications"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "8.運輸業"
-msgstr ""
+msgstr "8.Transportation"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "9.卸売・小売業"
-msgstr ""
+msgstr "9.Wholesale, retail"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "10.金融業、保険業、不動産業"
-msgstr ""
+msgstr "10.Accommodation, food, and beverage service"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "11.宿泊業、飲食サービス業"
-msgstr ""
+msgstr "11.Accommodation, food, and beverage service"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "12.教育、学生支援業"
-msgstr ""
+msgstr "12.Education, education assistance"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "13.医療、福祉"
-msgstr ""
+msgstr "13.Medical, social services"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "14.その他のサービス業"
-msgstr ""
+msgstr "14.Miscellaneous services"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "15.公務"
-msgstr ""
+msgstr "15.Public affairs"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/gyousyu.rst
 msgid "16.その他"
-msgstr ""
-
-#~ msgid "**第1～第20回 変数 :doc:`Q146 </variable/Q146>`**"
-#~ msgstr ""
-
-#~ msgid "第21回 変数 :doc:`Q1182 </variable/1182>`"
-#~ msgstr ""
-
+msgstr "16.Other"

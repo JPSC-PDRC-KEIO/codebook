@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-19 15:52+0900\n"
+"POT-Creation-Date: 2020-03-24 18:42+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,7 +35,7 @@ msgid "第5回～"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst:1
-msgid "変数"
+msgid "変数名"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst:1
@@ -81,4 +81,10 @@ msgstr ""
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst
 msgid "5.会社等に制度があるかどうかわからない"
 msgstr ""
+
+#~ msgid "変数名"
+#~ msgstr ""
+
+#~ msgid "変数"
+#~ msgstr ""
 

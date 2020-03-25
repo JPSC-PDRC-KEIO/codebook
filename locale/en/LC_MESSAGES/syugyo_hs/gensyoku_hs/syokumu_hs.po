@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-05 20:20+0900\n"
+"POT-Creation-Date: 2020-03-24 18:42+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,7 +49,7 @@ msgid "選択肢"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/gensyoku_hs/syokumu_hs.rst:1
-msgid "変数"
+msgid "変数名"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/gensyoku_hs/syokumu_hs.rst
@@ -93,5 +93,11 @@ msgid ":doc:`Q1119 </variable/Q1119>`"
 msgstr ""
 
 #~ msgid "また、第1から第17回の選択肢のうち「3.嘱託・その他」は、第11回のみ「3.派遣社員・嘱託・その他」として聞いており、第12～第17回には、別途「:doc:`/variable/Q1048`」を聞いています。"
+#~ msgstr ""
+
+#~ msgid "変数名"
+#~ msgstr ""
+
+#~ msgid "変数"
 #~ msgstr ""
 

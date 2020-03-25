@@ -13,7 +13,7 @@
 
 
 .. csv-table::
-   :header: "項目", "変数"
+   :header: "項目", "変数名"
    :widths: 20,5
 
    収入・給与がよい,:doc:`Q192A </variable/Q192A>`

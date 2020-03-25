@@ -46,7 +46,7 @@ msgstr "Choices / Entry field"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P86.rst:26
 msgid "＿＿歳"
-msgstr "＿＿year old"
+msgstr "＿＿years old"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P86.rst:32
 msgid "桁あふれコード"
