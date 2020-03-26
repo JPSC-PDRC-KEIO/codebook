@@ -84,6 +84,7 @@ html_theme_path = ["sphinx_rtd_theme.get_html_theme_path()"]
 # documentation.
 #
 html_theme_options = {
+    "logo_only": True,
     "titles_only": True,
     "navigation_depth": 3,
     "sticky_navigation": False,
@@ -104,7 +105,9 @@ html_static_path = ["_static"]
 #
 
 
-# html_sidebars = {}
+html_sidebars = {
+    "**": ['globaltoc.html',"links.html"]
+}
 # 国際化
 locale_dirs = ["locale/"]  # path is example but recommended.
 gettext_compact = False  # optional.
