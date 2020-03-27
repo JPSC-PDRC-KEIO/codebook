@@ -43,7 +43,7 @@ msgid "選択肢 / 記入欄"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P108.rst:26
-msgid "借入残高総額＿＿＿＿万円"
+msgid "借入残高総額＿ ＿ ＿ ＿ 万円"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P108.rst:32

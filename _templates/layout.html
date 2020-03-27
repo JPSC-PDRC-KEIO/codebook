@@ -11,7 +11,7 @@
 {%- block extrahead %}
 {%- if language == "ja" %}
 <div id="header">
-      <p>消費生活に関するパネル調査</p>
+      <p> 消費生活に関するパネル調査（JPSC)</p>
 </div>
 {%- endif %}
 
@@ -22,30 +22,22 @@
 {%- endif %}
 {% endblock %}
 
-
 {% block sidebartitle %}
 
-    {% if logo and theme_logo_only %}
+   <!--  {% if logo and theme_logo_only %}
          <a href="{{ pathto(master_doc) }}">
          {% else %}
-         <!-- <a href="{{ pathto(master_doc) }}" class="icon icon-home" alt="{{ _('Documentation Home') }}"> {{ jpsc_subtitle }} -->
-
+         <a href="{{ pathto(master_doc) }}" class="icon icon-home" alt="{{ _('Documentation Home') }}">
     {% endif %}
-        ​
+    -->​
     {% if logo %}
         {# Not strictly valid HTML, but it's the only way to display/scale
         it properly, without weird scripting or heaps of work
         #}
-        <a href="{{ pathto(master_doc) }}" class="icon icon-home" alt="Documentation Home" > 
-        <!-- <img src="{{ pathto('_static/' + logo, 1) }}" class="logo" alt="{{ _('Logo') }}"/> -->
-        <img src="{{ pathto('_static/' + logo, 1) }}" class="logo" alt="Logo"/>
-        <!-- <a href="{{ pathto(master_doc) }}" class="icon icon-home" alt="{{ _("Documentation Home") }}" > {{ jpsc_title }} -->
-        <!-- <a href="{{ pathto(master_doc) }}" class="icon icon-home" alt="{{ _('Documentation Home') }}" > {{ jpsc_title }} -->
-        
-        <br>
-        {{ jpsc_title }}<br>
-        <p id="title_caption">Last updated on {{ last_updated }}</p>
-
+        <a href="{{ pathto(master_doc) }}" class="logo-home" alt="Documentation Home" >
+            <img src="{{ pathto('_static/' + logo, 1) }}" class="logo" alt="{{ _('Logo') }}"/>
+            {{ jpsc_title }}<br>
+            <p id="title_caption">Last updated on {{ last_updated }}</p>
     {% endif %}
         </a>
            {% if theme_display_version %}
@@ -60,9 +52,9 @@
             {% endif %}
           {% endif %}
 
-        
+
          {% include "searchbox.html" %}
-   
+
 
 
 {% endblock %}
@@ -70,4 +62,27 @@
 {% block mobile_nav %}
     <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
     <a href="{{ pathto(master_doc) }}">{{ jpsc_title }}</a>
+{% endblock %}
+
+
+{% block menu %}
+  {#
+    The singlehtml builder doesn't handle this toctree call when the
+    toctree is empty. Skip building this for now.
+  #}
+  {% if 'singlehtml' not in builder %}
+    {% set global_toc = toctree(maxdepth=theme_navigation_depth|int,
+    collapse=theme_collapse_navigation|tobool,
+    includehidden=theme_includehidden|tobool,
+    titles_only=theme_titles_only|tobool) %}
+  {% endif %}
+
+  {% if global_toc %}
+    {{ global_toc }}
+    {% include "links.html" %}
+
+  {% else %}
+  <!-- Local TOC -->
+    <div class="local-toc">{{ toc }}</div>
+  {% endif %}
 {% endblock %}

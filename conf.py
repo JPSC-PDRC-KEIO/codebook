@@ -104,7 +104,9 @@ html_static_path = ["_static"]
 #
 
 
-# html_sidebars = {}
+html_sidebars = {
+    "**": ["links.html"]
+}
 # 国際化
 locale_dirs = ["locale/"]  # path is example but recommended.
 gettext_compact = False  # optional.

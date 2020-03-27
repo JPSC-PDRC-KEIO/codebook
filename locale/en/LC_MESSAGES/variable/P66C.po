@@ -51,7 +51,7 @@ msgid "（P66A）　（P66B）"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P66C.rst:31
-msgid "平成＿＿　年　＿＿月まで"
+msgid "平成＿＿　年　＿ ＿ 月まで"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P66C.rst:33

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-25 16:31+0900\n"
-"PO-Revision-Date: 2020-03-25 16:48+0900\n"
+"PO-Revision-Date: 2020-03-26 11:08+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:5
 msgid "最終学歴（実父）〔第3回～〕"
-msgstr "Educational achievement at the last school (father) [3th - ]"
+msgstr "Educational achievement at the last school (father) [3th wave - ]"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1023.rst:9
 msgid "変数名"

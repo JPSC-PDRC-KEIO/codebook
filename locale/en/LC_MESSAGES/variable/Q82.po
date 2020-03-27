@@ -116,6 +116,6 @@ msgstr ""
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
 
-#~ msgid "約＿＿万円"
+#~ msgid "約＿ ＿ 万円"
 #~ msgstr ""
 

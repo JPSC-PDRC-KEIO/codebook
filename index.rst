@@ -30,13 +30,11 @@ JPSC データ
 * **データの内容（収録ファイル、変数の命名法）**:|emspace| :doc:`id_panel/sheetEX`
 
 .. toctree::
-   :caption: JPSC データ
    :maxdepth: 1
    :hidden:
 
    data_riyo
    id_panel/sheetEX
-
 
 
 コードブックの利用にあたって
@@ -52,7 +50,7 @@ JPSC データ
 
    riyo
    glossary
-   contact
+
 
 
 収録変数の一覧

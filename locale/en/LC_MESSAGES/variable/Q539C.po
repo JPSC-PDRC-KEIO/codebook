@@ -43,7 +43,7 @@ msgid "選択肢 / 記入欄"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q539C.rst:26
-msgid "合計＿＿日間"
+msgid "合計＿ ＿ 日間"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q539C.rst:32

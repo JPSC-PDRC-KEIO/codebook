@@ -8,17 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2020-03-05 18:10+0900\n"
+"POT-Creation-Date: 2020-03-26 13:14+0900\n"
+"PO-Revision-Date: 2020-03-26 13:07+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: en\n"
-"X-Generator: Poedit 2.3\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:5
 msgid "職種（実父）"
@@ -38,7 +37,10 @@ msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:18
 msgid "あなたの父親のご職業は何ですか（何でしたか）。具体的にご記入の上、〇をつけてください。（〇はひとつだけ）"
-msgstr "What is (was) your father's job? (Please give details in the parentheses below, and then circle the choice below that best applies to your father.)"
+msgstr ""
+"What is (was) your father's job? (Please give details in the parentheses "
+"below, and then circle the choice below that best applies to your "
+"father.)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:24
 msgid "選択肢 / 記入欄"
@@ -61,36 +63,40 @@ msgid "小規模〔9人以下〕の商業・工業・サービス業（家族従
 msgstr "Small (9 or fewer employees) business/factory (Family workeremployee)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:35
-msgid "自由業"
-msgstr "Independent"
+msgid "自由業（開業医など）"
+msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:37
-msgid "管理職"
-msgstr "Manager"
+msgid "管理職（会社の部長以上など）"
+msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:39
-msgid "専門職"
-msgstr "Specialist"
+msgid "専門職（病院勤務医師など）"
+msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:41
-msgid "技術職"
-msgstr "Technician"
+msgid "技術職（技術者など）"
+msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:43
-msgid "教員"
-msgstr "Teacher"
+msgid "教員（小・中・高校など）"
+msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:45
-msgid "事務職"
-msgstr "Administrative"
+msgid "事務職（一般事務など）"
+msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:47
-msgid "技能・作業職"
-msgstr "Skilled employee"
+#, fuzzy
+msgid "技能・作業職（工員など）"
+msgstr ""
+"Skilled employee (skilled worker, police, clerk, deliveryman, driver, "
+"artisan, cleaner, etc.)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:49
-msgid "販売サービス職"
-msgstr "Sales & service employee"
+#, fuzzy
+msgid "販売サービス職（店員など）"
+msgstr "Sales & service employee (shop employee, sales person, etc.)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:51
 msgid "自宅で賃仕事（内職）"
@@ -98,7 +104,7 @@ msgstr "Paying job at home (home worker)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:53
 msgid "無職"
-msgstr "Not working"
+msgstr "No job"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:60
 msgid "桁あふれコード"
@@ -147,3 +153,36 @@ msgstr ""
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:97
 msgid "p21e_4"
 msgstr ""
+
+#~ msgid "自由業"
+#~ msgstr ""
+#~ "Freelance professional (medical practitioner, "
+#~ "lawyer, writer, priest, tutor, instructor, "
+#~ "etc.)"
+
+#~ msgid "管理職"
+#~ msgstr ""
+#~ "Management (higher level than a manager"
+#~ " in a company or other organization"
+#~ " and higher than a section head "
+#~ "in a public agency)"
+
+#~ msgid "専門職"
+#~ msgstr ""
+#~ "Other professional (hospital doctor, "
+#~ "researcher, professor, assistant professor or"
+#~ " tutor at a university or college,"
+#~ " judge, etc.)"
+
+#~ msgid "技術職"
+#~ msgstr ""
+#~ "Technical employee (engineer, technician, "
+#~ "programmer, medical nurse, dietitian, "
+#~ "pharmacist, etc.)"
+
+#~ msgid "教員"
+#~ msgstr "Teacher (in a primary, junior-high, or senior-high school,etc)"
+
+#~ msgid "事務職"
+#~ msgstr "Clerical employee (general clerk, business employee, bank clerk, etc.)"
+

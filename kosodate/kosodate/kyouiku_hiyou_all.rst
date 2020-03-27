@@ -19,78 +19,16 @@
 携帯電話代・給食費・お小遣いはいずれにも含めないでください
 
 
-.. raw:: html
 
- <table border="1" style="background-color:#f7f7f7; border:#ffffff;">
- <thead>
- <tr  text-align="center">
- <th rowspan="2">  </th>
- <th rowspan="2">性別</th>
- <th rowspan="2">在学先</th>
- <th rowspan="2">学年</th>
- <th rowspan="2">学校区分</th>
- <th colspan="8" width="50%" align="center"> 教育関係費用</th>
- </tr>
- <tr>
+.. csv-table::
+    :header: "", "性別", "在学先", "学年", "学校区分", "学校関連のお金", "学校以外の学習費", "お稽古事・習い事", "自宅外仕送り"
+    :widths: 3, 3, 3, 3, 3, 3, 3, 3, 3
 
- <th>学校関連のお金</th>
- <th>学校以外の学習費</th>
- <th>お稽古事・習い事</th>
- <th>自宅外仕送り</th>
- </tr>
- </thead>
+    "第１子", ":doc:`Q1137A </variable/Q1137A>`", ":doc:`Q1137B </variable/Q1137B>`", ":doc:`Q1137C </variable/Q1137C>`", ":doc:`Q1137D </variable/Q1137D>`", ":doc:`Q1137E </variable/Q1137E>`", ":doc:`Q1137F </variable/Q1137F>`", ":doc:`Q1137G </variable/Q1137G>`", ":doc:`Q1137H </variable/Q1137H>`"
+    "第２子", ":doc:`Q1138A </variable/Q1138A>`", ":doc:`Q1138B </variable/Q1138B>`", ":doc:`Q1138C </variable/Q1138C>`", ":doc:`Q1138D </variable/Q1138D>`", ":doc:`Q1138E </variable/Q1138E>`", ":doc:`Q1138F </variable/Q1138F>`", ":doc:`Q1138G </variable/Q1138G>`", ":doc:`Q1138H </variable/Q1138H>`"
+    "第３子", ":doc:`Q1139A </variable/Q1139A>`", ":doc:`Q1139B </variable/Q1139B>`", ":doc:`Q1139C </variable/Q1139C>`", ":doc:`Q1139D </variable/Q1139D>`", ":doc:`Q1139E </variable/Q1139E>`", ":doc:`Q1139F </variable/Q1139F>`", ":doc:`Q1139G </variable/Q1139G>`", ":doc:`Q1139H </variable/Q1139H>`"
+    "第４子以降", ":doc:`Q1140A </variable/Q1140A>`", ":doc:`Q1140B </variable/Q1140B>`", ":doc:`Q1140C </variable/Q1140C>`", ":doc:`Q1140D </variable/Q1140D>`", ":doc:`Q1140E </variable/Q1140E>`", ":doc:`Q1140F </variable/Q1140F>`", ":doc:`Q1140G </variable/Q1140G>`", ":doc:`Q1140H </variable/Q1140H>`"
 
- <tbody>
- <tr>
- <td width="10%">第１子</td>
- <td><a href="..\..\variable\Q1137A.html">Q1137A</a></td>
- <td><a href="..\..\variable\Q1137B.html">Q1137B</a></td>
- <td><a href="..\..\variable\Q1137C.html">Q1137C</a></td>
- <td><a href="..\..\variable\Q1137D.html">Q1137D</a></td>
- <td><a href="..\..\variable\Q1137E.html">Q1137E</a></td>
- <td><a href="..\..\variable\Q1137F.html">Q1137F</a></td>
- <td><a href="..\..\variable\Q1137G.html">Q1137G</a></td>
- <td><a href="..\..\variable\Q1137H.html">Q1137H</a></td>
-  </tr>
-
-  <tr>
-  <td width="10%">第２子</td>
-  <td><a href="..\..\variable\Q1138A.html">Q1138A</a></td>
-  <td><a href="..\..\variable\Q1138B.html">Q1138B</a></td>
-  <td><a href="..\..\variable\Q1138C.html">Q1138C</a></td>
-  <td><a href="..\..\variable\Q1138D.html">Q1138D</a></td>
-  <td><a href="..\..\variable\Q1138E.html">Q1138E</a></td>
-  <td><a href="..\..\variable\Q1138F.html">Q1138F</a></td>
-  <td><a href="..\..\variable\Q1138G.html">Q1138G</a></td>
-  <td><a href="..\..\variable\Q1138H.html">Q1138AH</a></td>
-   </tr>
-
-   <tr>
-   <td width="10%">第３子</td>
-   <td><a href="..\..\variable\Q1139A.html">Q1139BA</a></td>
-   <td><a href="..\..\variable\Q1139B.html">Q1139B</a></td>
-   <td><a href="..\..\variable\Q1139C.html">Q1139C</a></td>
-   <td><a href="..\..\variable\Q1139D.html">Q1139D</a></td>
-   <td><a href="..\..\variable\Q1139E.html">Q1139E</a></td>
-   <td><a href="..\..\variable\Q1139F.html">Q1139F</a></td>
-   <td><a href="..\..\variable\Q1139G.html">Q1139G</a></td>
-   <td><a href="..\..\variable\Q1139H.html">Q1139H</a></td>
-    </tr>
-
-    <tr>
-    <td width="10%">第４子以降</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><a href="..\..\variable\Q1140E.html">Q1140E</a></td>
-    <td><a href="..\..\variable\Q1140F.html">Q1140F</a></td>
-    <td><a href="..\..\variable\Q1140G.html">Q1140G</a></td>
-    <td><a href="..\..\variable\Q1140H.html">Q1140H</a></td>
-     </tr>
-
- </tbody>
- </table>
 
 
 .. toctree::

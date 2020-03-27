@@ -7,133 +7,42 @@
 
 現在の借り入れについて、以下の項目にご記入ください。「1.借りた目的」「2.借入先」は、次ページのコード表からあてはまる「コード番号」をご記入ください。
 
+.. csv-table::
+    :header: "借りた目的", "借入先", "借入残高(合計)", "年間返済額(合計)"
+    :widths: 4, 3, 3, 3
+
+    "借り替え", "| 1 :doc:`Q807A </variable/Q807A>`
+    | 2 :doc:`Q807B </variable/Q807B>`
+    | 3 :doc:`Q807C </variable/Q807C>`
+    | 4 :doc:`Q807D </variable/Q807D>`
+    | 5 :doc:`Q807E </variable/Q807E>`", ":doc:`Q807F </variable/Q807F>`", ":doc:`Q807G </variable/Q807G>`"
+    "土地の購入", "| 1 :doc:`Q413A </variable/Q413A>`
+    | 2 :doc:`Q413B </variable/Q413B>`
+    | 3 :doc:`Q413C </variable/Q413C>`
+    | 4 :doc:`Q413D </variable/Q413D>`
+    | 5 :doc:`Q413E </variable/Q413E>`", ":doc:`Q413F </variable/Q413F>`", ":doc:`Q413G </variable/Q413G>`"
+    "住宅（土地も含む）の購入", "| 1 :doc:`Q414A </variable/Q414A>`
+    | 2 :doc:`Q414B </variable/Q414B>`
+    | 3 :doc:`Q414C </variable/Q414C>`
+    | 4 :doc:`Q414D </variable/Q414D>`
+    | 5 :doc:`Q414E </variable/Q414E>`", ":doc:`Q414F </variable/Q414F>`", ":doc:`Q414G </variable/Q414G>`"
+    "建物の建築", "| 1 :doc:`Q415A </variable/Q415A>`
+    | 2 :doc:`Q415B </variable/Q415B>`
+    | 3 :doc:`Q415C </variable/Q415C>`
+    | 4 :doc:`Q415D </variable/Q415D>`
+    | 5 :doc:`Q415E </variable/Q415E>`", ":doc:`Q415F </variable/Q415F>`", ":doc:`Q415G </variable/Q415G>`"
+    "増改築", "| 1 :doc:`Q416A </variable/Q416A>`
+    | 2 :doc:`Q416B </variable/Q416B>`
+    | 3 :doc:`Q416C </variable/Q416C>`
+    | 4 :doc:`Q416D </variable/Q416D>`
+    | 5 :doc:`Q416E </variable/Q416E>`", ":doc:`Q416F </variable/Q416F>`", ":doc:`Q416G </variable/Q416G>`"
+    "借り替え", "| 1 :doc:`Q417A </variable/Q417A>`
+    | 2 :doc:`Q417B </variable/Q417B>`
+    | 3 :doc:`Q417C </variable/Q417C>`
+    | 4 :doc:`Q417D </variable/Q417D>`
+    | 5 :doc:`Q417E </variable/Q417E>`", ":doc:`Q417F </variable/Q417F>`", ":doc:`Q417G </variable/Q417G>`"
 
 
-.. raw:: html
-
- <table border="1p #093350">
- <tr>
- <th>借りた目的</th>
- <th>借入先</th>
- <th>借入残高(合計)</th>
- <th>年間返済額(合計)</th>
- </tr>
- <tr>
- <td rowspan="5">借り替え</td>
- <td>1 <a href="..\variable\Q807A.html">Q807A</a></td>
- <td  rowspan="5"> <a href="..\variable\Q807F.html">Q807F</a></td>
- <td  rowspan="5"><a href="..\variable\Q807G.html">Q807G</a></td>
- </tr>
- <tr>
- <td>2 <a href="..\variable\Q807C.html">Q807C</a></td>
- </tr>
- <tr>
- <td>3 <a href="..\variable\Q807E.html">Q807E</a></td>
- </tr>
- <tr>
- <td>4 <a href="..\variable\Q807C.html">Q807C</a></td>
- </tr>
- <tr>
- <td>5 <a href="..\variable\Q807E.html">Q807E</a></td>
- </tr>
-
-
- <tr>
- <td rowspan="5">土地の購入</td>
- <td>1 <a href="..\variable\Q413A.html">Q413A</a></td>
- <td  rowspan="5"> <a href="..\variable\Q413F.html">Q413F</a></td>
- <td  rowspan="5"><a href="..\variable\Q413G.html">Q413G</a></td>
- </tr>
- <tr>
- <td>2 <a href="..\variable\Q413B.html">Q413B</a></td>
- </tr>
- <tr>
- <td>3 <a href="..\variable\Q413C.html">Q413C</a></td>
- </tr>
- <td>4 <a href="..\variable\Q413DB.html">Q413D</a></td>
- </tr>
- <tr>
- <td>5 <a href="..\variable\Q413E.html">Q413E</a></td>
- </tr>
-
-
- <tr>
- <td rowspan="5">住宅（土地も含む）の購入</td>
- <td>1 <a href="..\variable\Q414A.html">Q414A</a></td>
- <td  rowspan="5"> <a href="..\variable\Q414F.html">Q414F</a></td>
- <td  rowspan="5"><a href="..\variable\Q414G.html">Q414G</a></td>
- </tr>
- <tr>
- <td>2 <a href="..\variable\Q414B.html">Q414B</a></td>
- </tr>
- <tr>
- <td>3 <a href="..\variable\Q414C.html">Q414C</a></td>
- </tr>
- <tr>
- <td>4 <a href="..\variable\Q414D.html">Q414D</a></td>
- </tr>
- <tr>
- <td>5 <a href="..\variable\Q414E.html">Q414E</a></td>
- </tr>
-
- <tr>
- <td rowspan="5">建物の増改築</td>
- <td>1 <a href="..\variable\Q415A.html">Q415A</a></td>
- <td  rowspan="5"> <a href="..\variable\Q415F.html">Q415F</a></td>
- <td  rowspan="5"><a href="..\variable\Q415G.html">Q415G</a></td>
- </tr>
- <tr>
- <td>2 <a href="..\variable\Q415B.html">Q415B</a></td>
- </tr>
- <tr>
- <td>3 <a href="..\variable\Q415C.html">Q415C</a></td>
- </tr>
- <tr>
- <td>4 <a href="..\variable\Q415D.html">Q415D</a></td>
- </tr>
- <tr>
- <td>5 <a href="..\variable\Q415E.html">Q415E</a></td>
- </tr>
-
- <tr>
- <td rowspan="5">増改築</td>
- <td>1 <a href="..\variable\Q416A.html">Q416A</a></td>
- <td  rowspan="5"> <a href="..\variable\Q416F.html">Q416F</a></td>
- <td  rowspan="5"><a href="..\variable\Q416G.html">Q416G</a></td>
- </tr>
- <tr>
- <td>2 <a href="..\variable\Q416B.html">Q416B</a></td>
- </tr>
- <tr>
- <td>3 <a href="..\variable\Q416C.html">Q416C</a></td>
- </tr>
- <tr>
- <td>4 <a href="..\variable\Q416D.html">Q416D</a></td>
- </tr>
- <tr>
- <td>5 <a href="..\variable\Q416E.html">Q416E</a></td>
- </tr>
-
- <tr>
- <td rowspan="5">別荘の購入</td>
- <td>1 <a href="..\variable\Q417A.html">Q417A</a></td>
- <td  rowspan="5"><a href="..\variable\Q417F.html">Q417F</a></td>
- <td  rowspan="5"> <a href="..\variable\Q417G.html">Q417G</a></td>
- </tr>
- <tr>
- <td>2 <a href="..\variable\Q417B.html">Q417B</a></td>
- </tr>
- <tr>
- <td>3 <a href="..\variable\Q417C.html">Q417C</a></td>
- </tr>
- <tr>
- <td>4 <a href="..\variable\Q417D.html">Q417D</a></td>
- </tr>
- <tr>
- <td>5 <a href="..\variable\Q4178E.html">Q417E</a></td>
- </tr>
-
- </table>
 
 
 .. list-table:: **コード表**

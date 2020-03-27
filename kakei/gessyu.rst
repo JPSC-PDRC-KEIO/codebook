@@ -7,40 +7,14 @@
 この９月の手取り収入（収入総額から税金、社会保険料を差し引いた額）はどれくらいですか。
 （ボーナス、臨時の給与は除きます）
 
-.. raw:: html
+.. csv-table::
+    :header: "", "項目", "本人", "配偶者"
+    :widths: 5, 5, 5, 5
 
- <table border="1px #093350">
- <thead>
- <tr>
- <th colspan="3">第1～第10回</th>
- <th colspan="3">第11回～</th>
- </tr>
- <tr>
- <th>項目</th>
- <th>本人</th>
- <th>配偶者</th>
- <th>項目</th>
- <th>本人</th>
- <th>配偶者</th>
- </tr>
- </thead>
+    "第1～第10回", "勤め人か否か", ":doc:`Q308A </variable/Q308A>`", ":doc:`Q307A </variable/Q307A>`"
+    "第1回～", "月収（手取り）", ":doc:`Q308B </variable/Q308B>`", ":doc:`Q307B </variable/Q307B>`"
 
- <tbody>
- <tr>
- <td>勤め人か否か</td>
- <td><a href="../variable/Q308A.html">Q308A</a></td>
- <td><a href="../variable/Q307A.html">Q307A</a></td>
- <td rowspan="2">月収（手取り）</td>
- <td rowspan="2"><a href="../variable/Q308B.html">Q308B</a></td>
- <td rowspan="2"><a href="../variable/Q307B.html">Q307B</a></td>
- </tr>
- <tr>
- <td>月収（手取り）</td>
- <td><a href="../variable/Q308B.html">Q308B</a></td>
- <td><a href="../variable/Q307B.html">Q307B</a></td>
- </tr>
- </tbody>
- </table>
+
 
 
 .. note::

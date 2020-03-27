@@ -19,7 +19,7 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1220C_1.rst:5
-msgid "現在進行中の介護：誰を（1人目主な介護者か）"
+msgid "介護について：誰を（1人目主な介護者か）"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1220C_1.rst:9

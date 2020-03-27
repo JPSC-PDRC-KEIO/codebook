@@ -43,7 +43,7 @@ msgid "選択肢 / 記入欄"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P76A.rst:27
-msgid "平成＿＿　年　＿＿月から"
+msgid "平成＿＿　年　＿ ＿ 月から"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P76A.rst:29
@@ -51,7 +51,7 @@ msgid "（P75A）　（P75B）"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P76A.rst:31
-msgid "平成＿＿　年　＿＿月まで"
+msgid "平成＿＿　年　＿ ＿ 月まで"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P76A.rst:33

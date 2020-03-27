@@ -19,7 +19,7 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/oyakankei/kaigo_who.rst:3
-msgid "現在進行中の介護：誰を"
+msgid "介護について：誰を"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/oyakankei/kaigo_who.rst:7

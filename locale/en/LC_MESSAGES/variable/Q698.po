@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2020-03-26 13:16+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -69,150 +69,154 @@ msgid "500～999人"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:39
-msgid "1000人以上 8. 官公庁"
+msgid "1000人以上"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:46
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:41
+msgid "官公庁"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:48
 msgid "桁あふれコード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:52
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:54
 msgid "分類不能の回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:58
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:60
 msgid "無回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:59
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:61
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:64
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:66
 msgid "備考"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:70
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:72
 msgid "収録シート"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:75
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:77
 msgid "p1_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:77
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:79
 msgid "p2_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:79
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:81
 msgid "p3_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:81
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:83
 msgid "p4_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:83
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:85
 msgid "p5a_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:85
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:87
 msgid "p5b_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:87
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:89
 msgid "p6_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:89
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:91
 msgid "p7_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:91
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:93
 msgid "p8_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:93
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:95
 msgid "p9_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:95
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:97
 msgid "p10_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:97
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:99
 msgid "p11ab_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:99
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:101
 msgid "p11c_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:101
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:103
 msgid "p12_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:103
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:105
 msgid "p13_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:105
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:107
 msgid "p14_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:107
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:109
 msgid "p15_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:109
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:111
 msgid "p16abc_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:111
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:113
 msgid "p16d_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:113
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:115
 msgid "p17_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:115
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:117
 msgid "p18_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:117
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:119
 msgid "p19_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:119
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:121
 msgid "p20_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:121
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:123
 msgid "p21abcd_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:123
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:125
 msgid "p21e_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:125
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:127
 msgid "p22_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:127
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:129
 msgid "p23_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:129
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:131
 msgid "p24_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:131
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:133
 msgid "p25_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:133
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:135
 msgid "p26_5"
 msgstr ""
 
@@ -220,5 +224,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "1000人以上 8. 官公庁"
 #~ msgstr ""
 

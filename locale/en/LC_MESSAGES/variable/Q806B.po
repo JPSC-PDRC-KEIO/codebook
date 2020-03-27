@@ -43,7 +43,7 @@ msgid "選択肢 / 記入欄"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q806B.rst:26
-msgid "新規借入れ額＿＿＿0万円"
+msgid "新規借入れ額＿ ＿ ＿ 0 万円"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q806B.rst:32

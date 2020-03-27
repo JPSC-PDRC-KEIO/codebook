@@ -47,7 +47,7 @@ msgid "選択肢 / 記入欄"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1187M.rst:29
-msgid "＿＿月"
+msgid "＿ ＿ 月"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1187M.rst:35

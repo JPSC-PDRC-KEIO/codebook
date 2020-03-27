@@ -196,6 +196,6 @@ msgstr ""
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
 
-#~ msgid "＿＿日"
+#~ msgid "＿ ＿ 日"
 #~ msgstr ""
 

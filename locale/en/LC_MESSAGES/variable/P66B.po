@@ -43,7 +43,7 @@ msgid "選択肢 / 記入欄"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P66B.rst:26
-msgid "＿＿月から"
+msgid "＿ ＿ 月から"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P66B.rst:32

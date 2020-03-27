@@ -43,7 +43,7 @@ msgid "選択肢 / 記入欄"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q522.rst:26
-msgid "１年間に＿＿万円＿＿千円"
+msgid "１年間に＿ ＿ 万円＿＿千円"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q522.rst:32

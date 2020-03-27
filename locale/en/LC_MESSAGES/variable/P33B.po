@@ -48,7 +48,7 @@ msgid "選択肢 / 記入欄"
 msgstr "Choices / Entry field"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P33B.rst:26
-msgid "＿＿月"
+msgid "＿ ＿ 月"
 msgstr "Month ＿＿＿＿"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P33B.rst:32

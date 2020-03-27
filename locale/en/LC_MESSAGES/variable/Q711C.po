@@ -44,7 +44,7 @@ msgid "選択肢 / 記入欄"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:29
-msgid "＿億＿＿＿0万円"
+msgid "＿億＿ ＿ ＿ 0 万円"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:35

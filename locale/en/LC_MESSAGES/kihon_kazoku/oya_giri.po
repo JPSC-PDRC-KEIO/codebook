@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-25 16:31+0900\n"
-"PO-Revision-Date: 2020-03-09 11:20+0900\n"
+"PO-Revision-Date: 2020-03-26 11:02+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 2.3\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:3
 msgid "親の情報（義親）"
@@ -28,24 +29,23 @@ msgid "親は健在か"
 msgstr "Alive or not"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:19
-msgid "義父・義母ともに「死亡時期」は、変数名が下記のように変化しています。"
+msgid ""
+"義父・義母ともに「死亡時期」は、変数名が下記のように変化しています。"
 msgstr ""
 "For both parents-in-law, the variable name of “Time of death” have "
 "changed as follows."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:1
-#, fuzzy
 msgid "第1回"
-msgstr "18th wave -"
+msgstr "1st wave"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:1
-#, fuzzy
 msgid "第5回～"
-msgstr "7th wave -"
+msgstr "5th wave -"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:1
 msgid "義父"
-msgstr "Father in law"
+msgstr "Father-in-law"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:1
 msgid ":doc:`Q695 </variable/Q695>`"
@@ -57,7 +57,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:1
 msgid "義母"
-msgstr "Mother in law"
+msgstr "Mother-in-law"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:1
 msgid ":doc:`Q702 </variable/Q702>`"
@@ -72,91 +72,99 @@ msgid "親の経歴"
 msgstr "Background"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:44
-#, fuzzy
-msgid "「最終学歴」については、第1～第4回調査では、中退が卒業に含まれています。また、変数名と選択肢が下記のように変化しています。"
-msgstr "The choicies of \"Employment category\" has changed as follow."
+msgid ""
+"「最終学歴」については、第1～第4回調査では、中退が卒業に含まれていま"
+"す。また、変数名と選択肢が下記のように変化しています。"
+msgstr ""
+"Regarding \"Educational achievement at the last school\", dropouts "
+"are included in graduation in the1st wave. Also, the variable names "
+"and choices have changed as follows."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:47
 msgid "最終学歴（義父・義母）"
-msgstr ""
+msgstr "Final education (father-in-law and mother-in-law)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:1
-#, fuzzy
 msgid "第1～第4回"
-msgstr "1st-6th waves"
+msgstr "1st-4th waves"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
 msgid "義父 :doc:`Q692 </variable/Q692>`"
-msgstr ""
+msgstr "father-in-law :doc:`Q692 </variable/Q692>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
 msgid "義母 ---"
-msgstr ""
+msgstr "Mothe-in-law ---"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
 msgid "義父 :doc:`Q858 </variable/Q858>`"
-msgstr ""
+msgstr "father-in-law :doc:`Q858 </variable/Q858>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
 msgid "義母 :doc:`Q839 </variable/Q839>`"
-msgstr ""
+msgstr "Mothe-in-law :doc:`Q839 </variable/Q839>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:1
 msgid "選択肢"
-msgstr ""
+msgstr "Choices"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
 msgid "1.中学（旧制中学校・高等小学校）卒業"
 msgstr ""
+"1.Junior-high school (junior high school/senior elementary school in "
+"old-education-system)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
 msgid "2.高校（旧制中学）卒業"
-msgstr ""
+msgstr "2.High school (junior high school in old-education-system)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
 msgid "3.短大・高専（旧制高校）卒業"
 msgstr ""
+"3.Junior college or College of technology (high school in old-"
+"education-system)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
 msgid "4.大学・大学院卒業"
-msgstr ""
+msgstr "4.Graduated from university and graduate school"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
 msgid "1.中学校（旧制小学校・高等小学校）"
 msgstr ""
+"1.Junior-high school (junior high school/senior elementary school in "
+"old-education-system)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
 msgid "2.高等学校（旧制中学）"
-msgstr ""
+msgstr "2.High school ((junior high school in old-education-system)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
 msgid "3.専門学校・専修学校"
-msgstr ""
+msgstr "3.Vocational school or Specialized training school"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
 msgid "4.短大"
-msgstr ""
+msgstr "4.Junior College"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
 msgid "5.高専"
-msgstr ""
+msgstr "5.Technical College"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
 msgid "6.4年制大学"
-msgstr ""
+msgstr "6.4-year university"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
 msgid "7.大学院"
-msgstr ""
+msgstr "7.Graduate School"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
-#, fuzzy
 msgid "8.その他"
-msgstr "3.Commissioned or Other"
+msgstr "8.Other"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:68
 msgid "「職務」については、選択肢が下記のように変化しています。"
@@ -164,7 +172,7 @@ msgstr "The choicies of \"Employment category\" has changed as follow."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:70
 msgid "職務（義父・義母）"
-msgstr ""
+msgstr "Type of employment (father-in-law and mother-in-law)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst:1
 msgid "第18回～"
@@ -197,31 +205,3 @@ msgstr "4.Part-time employee"
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_giri.rst
 msgid "5.自営・家族従業者"
 msgstr "5.Self-employed or working for the family business"
-
-#~ msgid ":doc:`Q894 </variable/Q894>`"
-#~ msgstr ""
-
-#~ msgid "その他"
-#~ msgstr ""
-
-#~ msgid "第1回"
-#~ msgstr "18th wave -"
-
-#~ msgid "第2回～"
-#~ msgstr "7th wave -"
-
-#~ msgid "第1～第17回"
-#~ msgstr "1st-17th waves"
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
-
-#~ msgid "第1～第6回"
-#~ msgstr "1st-6th waves"
-
-#~ msgid "第7回～"
-#~ msgstr "7th wave -"
-

@@ -49,7 +49,7 @@ msgid "選択肢 / 記入欄"
 msgstr "Choices / Entry field"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:26
-msgid "＿＿ 人"
+msgid "＿ ＿ 人"
 msgstr "＿＿ persons"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q5.rst:32

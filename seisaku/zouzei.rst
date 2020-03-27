@@ -34,5 +34,4 @@
    :maxdepth: 1
 
    /variable/Q1214
-   /variable/Q1202
    /variable/Q1193

@@ -569,7 +569,7 @@ big, small {
 .fa-inverse {
   color: #fff
 }
-/*
+
 .fa-glass:before {
   content: ""
 }
@@ -4501,7 +4501,7 @@ input[type="radio"][disabled], input[type="checkbox"][disabled] {
 }
 
 a {
-  color: #093350;
+  color: #597ba9;
   cursor: pointer
 }
 
@@ -4835,7 +4835,7 @@ html {
 }
 
 .wy-menu-vertical {
-  width: 280px
+  width: 300px
 }
 
 .wy-menu-vertical header, .wy-menu-vertical p.caption {
@@ -5012,7 +5012,7 @@ html {
   padding: .4045em 1.328em;
   display: block;
   position: relative;
-  font-size: 90%;
+  font-size: 95%;
   color: #FFF
 }
 
@@ -5160,12 +5160,12 @@ html {
   left: 0;
   padding-bottom: 2em;
   width: 300px;
-  /* width: 279px; */
+  /* width: 300px; */
   overflow-x: hidden;
   overflow-y: hidden;
   min-height: 100%;
   color: #FFF;
-  background-image: url(../_static/_images/haikei_2.png);
+  background-image: url(../_static/_images/0117-43.png);
   background-repeat:repeat;
   z-index: 200
 }
@@ -5221,7 +5221,7 @@ html {
 }
 
 .wy-nav-content-wrap {
-  margin-left: 300px;
+  margin-left: 315px;
   background: #fcfcfc;
   min-height: 100%;
 }

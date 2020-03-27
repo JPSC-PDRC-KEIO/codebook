@@ -19,7 +19,7 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:5
-msgid "現在進行中の介護：負担感"
+msgid "介護について：負担感"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:9

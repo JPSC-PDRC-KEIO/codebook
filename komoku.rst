@@ -17,6 +17,7 @@
    kekkon/index
    kosodate/index
    oyakankei/index
+   kaigo/index
    dailylife/index
    kenkou/index
    seisaku/index

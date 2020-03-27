@@ -19,7 +19,7 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1221.rst:5
-msgid "現在進行中の介護：時間"
+msgid "介護について：時間"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1221.rst:9
@@ -43,7 +43,7 @@ msgid "選択肢 / 記入欄"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1221.rst:26
-msgid "週あたり＿＿＿時間"
+msgid "週あたり＿ ＿ 時間"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1221.rst:32

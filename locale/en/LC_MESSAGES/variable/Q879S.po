@@ -47,7 +47,7 @@ msgid "夫・妻・子どもへの小遣い、子どもへの仕送り"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879S.rst:29
-msgid "＿＿万＿千円"
+msgid "＿ ＿ 万 ＿ 千円"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879S.rst:36
