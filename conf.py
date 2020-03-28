@@ -125,3 +125,4 @@ def setup(app):
 admonitionlabels["note"] = u"notice"
 admonitionlabels["warning"] = u"warning"
 admonitionlabels["hint"] = u""
+admonitionlabels["caution"] = "caution"

@@ -11,3 +11,6 @@
 .. |n| unicode:: U+30FB
 .. |space| unicode:: U+0020 .. 半角スペース
 .. |emspace| unicode:: U+2003 .. em space いわゆるクワタ
+
+
+.. |lline| unicode:: U+005F  .. Low Line 下線
