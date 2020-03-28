@@ -9,192 +9,67 @@
 
 「借りた理由」は、1カ所の借入先それぞれについて最大の理由１つを選んでご記入下さい。
 
-.. raw:: html
+.. csv-table::
+    :header: "", "借入先", "借りた理由", "借入残高(合計)", "年間返済額(合計)"
+    :widths: 10, 5, 5, 5, 5
 
- <table border="1p #093350">
- <tr>
- <th>借りた目的</th>
- <th>借入先</th>
- <th>借りた理由</th>
- <th>借入残高(合計)</th>
- <th>年間返済額(合計)</th>
- </tr>
- <tr>
- <td rowspan="3">事業用の資金</td>
- <td>1 <a href="..\variable\Q808A.html">Q808A</a></td>
- <td>1 <a href="..\variable\Q808B.html">Q808B</td>
- <td  rowspan="3"> <a href="..\variable\Q808G.html">Q808G</a></td>
- <td  rowspan="3"><a href="..\variable\Q808H.html">Q808H</a></td>
- </tr>
- <tr>
- <td>2 <a href="..\variable\Q808C.html">Q808C</a></td>
- <td>2 <a href="..\variable\Q808D.html">Q808D</a></td>
- </tr>
- <tr>
- <td>3 <a href="..\variable\Q808E.html">Q808E</a></td>
- <td>3 <a href="..\variable\Q808F.html">Q808F</a></td>
- </tr>
+    "事業用の資金", "| 1 :doc:`Q808A </variable/Q808A>`
+    | 2 :doc:`Q808C </variable/Q808C>`
+    | 3 :doc:`Q808E </variable/Q808E>`", "| 1 :doc:`Q808B </variable/Q808B>`
+    | 2 :doc:`Q808D </variable/Q808D>`
+    | 3 :doc:`Q808F </variable/Q808F>`", ":doc:`Q808G </variable/Q808G>`", ":doc:`Q808H </variable/Q808H>`"
+    "乗用車の購入", "| 1 :doc:`Q424A </variable/Q424A>`
+    | 2 :doc:`Q424C </variable/Q424C>`
+    | 3 :doc:`Q424E </variable/Q424E>`", "| 1 :doc:`Q424B </variable/Q424B>`
+    | 2 :doc:`Q424D </variable/Q424D>`
+    | 3 :doc:`Q424F </variable/Q424F>`", ":doc:`Q424G </variable/Q424G>`", ":doc:`Q424H </variable/Q424H>`"
+    "家具・家電などの耐久消費財の購入", "| 1 :doc:`Q425A </variable/Q425A>`
+    | 2 :doc:`Q425C </variable/Q425C>`
+    | 3 :doc:`Q425E </variable/Q425E>`", "| 1 :doc:`Q425B </variable/Q425B>`
+    | 2 :doc:`Q425D </variable/Q425D>`
+    | 3 :doc:`Q425F </variable/Q425F>`", ":doc:`Q425G </variable/Q425G>`", ":doc:`Q425H </variable/Q425H>`"
+    "衣類・身の回り品・食料品などの購入", "| 1 :doc:`Q426A </variable/Q426A>`
+    | 2 :doc:`Q426C </variable/Q426C>`
+    | 3 :doc:`Q426E </variable/Q426E>`", "| 1 :doc:`Q426B </variable/Q426B>`
+    | 2 :doc:`Q426D </variable/Q426D>`
+    | 3 :doc:`Q426F </variable/Q426F>`", ":doc:`Q426G </variable/Q426G>`", ":doc:`Q426H </variable/Q426H>`"
+    "趣味・レジャー・交際費として", "| 1 :doc:`Q427A </variable/Q427A>`
+    | 2 :doc:`Q427C </variable/Q427C>`
+    | 3 :doc:`Q427E </variable/Q427E>`", "| 1 :doc:`Q427B </variable/Q427B>`
+    | 2 :doc:`Q427D </variable/Q427D>`
+    | 3 :doc:`Q427F </variable/Q427F>`", ":doc:`Q427G </variable/Q427G>`", ":doc:`Q427H </variable/Q427H>`"
+    "教育費", "| 1 :doc:`Q428A </variable/Q428A>`
+    | 2 :doc:`Q428C </variable/Q428C>`
+    | 3 :doc:`Q428E </variable/Q428E>`", "| 1 :doc:`Q428B </variable/Q428B>`
+    | 2 :doc:`Q428D </variable/Q428D>`
+    | 3 :doc:`Q428F </variable/Q428F>`", ":doc:`Q428G </variable/Q428G>`", ":doc:`Q428H </variable/Q428H>`"
+    "結婚費用", "| 1 :doc:`Q429A </variable/Q429A>`
+    | 2 :doc:`Q429C </variable/Q429C>`
+    | 3 :doc:`Q429E </variable/Q429E>`", "| 1 :doc:`Q429B </variable/Q429B>`
+    | 2 :doc:`Q429D </variable/Q429D>`
+    | 3 :doc:`Q429F </variable/Q429F>`", ":doc:`Q429G </variable/Q429G>`", ":doc:`Q429H </variable/Q429H>`"
+    "病気・不慮の事故", "| 1 :doc:`Q430A </variable/Q430A>`
+    | 2 :doc:`Q430C </variable/Q430C>`
+    | 3 :doc:`Q430E </variable/Q430E>`", "| 1 :doc:`Q430B </variable/Q430B>`
+    | 2 :doc:`Q430D </variable/Q430D>`
+    | 3 :doc:`Q430F </variable/Q430F>`", ":doc:`Q430G </variable/Q430G>`", ":doc:`Q430H </variable/Q430H>`"
+    "家族の生活費の補填", "| 1 :doc:`Q431A </variable/Q431A>`
+    | 2 :doc:`Q431C </variable/Q431C>`
+    | 3 :doc:`Q431E </variable/Q431E>`", "| 1 :doc:`Q431B </variable/Q431B>`
+    | 2 :doc:`Q431D </variable/Q431D>`
+    | 3 :doc:`Q431F </variable/Q431F>`", ":doc:`Q431G </variable/Q431G>`", ":doc:`Q431H </variable/Q431H>`"
+    "借金の返済", "| 1 :doc:`Q432A </variable/Q432A>`
+    | 2 :doc:`Q432C </variable/Q432C>`
+    | 3 :doc:`Q432E </variable/Q432E>`", "| 1 :doc:`Q432B </variable/Q432B>`
+    | 2 :doc:`Q432D </variable/Q432D>`
+    | 3 :doc:`Q432F </variable/Q432F>`", ":doc:`Q432G </variable/Q432G>`", ":doc:`Q432H </variable/Q432H>`"
+    "その他", "| 1 :doc:`Q433A </variable/Q433A>`
+    | 2 :doc:`Q433C </variable/Q433C>`
+    | 3 :doc:`Q433E </variable/Q433E>`", "| 1 :doc:`Q433B </variable/Q433B>`
+    | 2 :doc:`Q433D </variable/Q433D>`
+    | 3 :doc:`Q433F </variable/Q433F>`", ":doc:`Q433G </variable/Q433G>`", ":doc:`Q433H </variable/Q433H>`"
 
- <tr>
- <td rowspan="3">乗用車の購入</td>
- <td>1 <a href="..\variable\Q424A.html">Q424A</a></td>
- <td>1 <a href="..\variable\Q424B.html">Q424B</td>
- <td  rowspan="3"> <a href="..\variable\Q424G.html">Q424G</a></td>
- <td  rowspan="3"><a href="..\variable\Q424H.html">Q424H</a></td>
- </tr>
- <tr>
- <td>2 <a href="..\variable\Q424C.html">Q424C</a></td>
- <td>2 <a href="..\variable\Q424D.html">Q424D</a></td>
- </tr>
- <tr>
- <td>3 <a href="..\variable\Q424E.html">Q424E</a></td>
- <td>3 <a href="..\variable\Q424F.html">Q424F</a></td>
- </tr>
 
- <tr>
- <td rowspan="3">家具・家電などの耐久消費財の購入</td>
- <td>1 <a href="..\variable\Q425A.html">Q425A</a></td>
- <td>1 <a href="..\variable\Q425B.html">Q425B</td>
- <td  rowspan="3"> <a href="..\variable\Q425G.html">Q425G</a></td>
- <td  rowspan="3"><a href="..\variable\Q425H.html">Q425H</a></td>
- </tr>
- <tr>
- <td>2 <a href="..\variable\Q425C.html">Q425C</a></td>
- <td>2 <a href="..\variable\Q425D.html">Q425D</a></td>
- </tr>
- <tr>
- <td>3 <a href="..\variable\Q425E.html">Q425E</a></td>
- <td>3 <a href="..\variable\Q425F.html">Q425F</a></td>
- </tr>
-
- <tr>
- <td rowspan="3">衣類・身の回り品・食料品などの購入</td>
- <td>1 <a href="..\variable\Q426A.html">Q426A</a></td>
- <td>1 <a href="..\variable\Q426B.html">Q426B</td>
- <td  rowspan="3"> <a href="..\variable\Q426G.html">Q426G</a></td>
- <td  rowspan="3"><a href="..\variable\Q426H.html">Q426H</a></td>
- </tr>
- <tr>
- <td>2 <a href="..\variable\Q426C.html">Q426C</a></td>
- <td>2 <a href="..\variable\Q426D.html">Q426D</a></td>
- </tr>
- <tr>
- <td>3 <a href="..\variable\Q426E.html">Q426E</a></td>
- <td>3 <a href="..\variable\Q426F.html">Q426F</a></td>
- </tr>
-
- <tr>
- <td rowspan="3">趣味・レジャー・交際費として</td>
- <td>1 <a href="..\variable\Q427A.html">Q427A</a></td>
- <td>1 <a href="..\variable\Q427B.html">Q427B</td>
- <td  rowspan="3"> <a href="..\variable\Q427G.html">Q427G</a></td>
- <td  rowspan="3"><a href="..\variable\Q427H.html">Q427H</a></td>
- </tr>
- <tr>
- <td>2 <a href="..\variable\Q427C.html">Q427C</a></td>
- <td>2 <a href="..\variable\Q427D.html">Q427D</a></td>
- </tr>
- <tr>
- <td>3 <a href="..\variable\Q427E.html">Q427E</a></td>
- <td>3 <a href="..\variable\Q427F.html">Q427F</a></td>
- </tr>
-
- <tr>
- <td rowspan="3">教育費</td>
- <td>1 <a href="..\variable\Q428A.html">Q428A</a></td>
- <td>1 <a href="..\variable\Q428B.html">Q428B</td>
- <td  rowspan="3"> <a href="..\variable\Q428G.html">Q428G</a></td>
- <td  rowspan="3"><a href="..\variable\Q428H.html">Q428H</a></td>
- </tr>
- <tr>
- <td>2 <a href="..\variable\Q428C.html">Q428C</a></td>
- <td>2 <a href="..\variable\Q428D.html">Q428D</a></td>
- </tr>
- <tr>
- <td>3 <a href="..\variable\Q428E.html">Q428E</a></td>
- <td>3 <a href="..\variable\Q428F.html">Q428F</a></td>
- </tr>
-
- <tr>
- <td rowspan="3">結婚費用</td>
- <td>1 <a href="..\variable\Q429A.html">Q429A</a></td>
- <td>1 <a href="..\variable\Q429B.html">Q429B</td>
- <td  rowspan="3"> <a href="..\variable\Q429G.html">Q429G</a></td>
- <td  rowspan="3"><a href="..\variable\Q429H.html">Q429H</a></td>
- </tr>
- <tr>
- <td>2 <a href="..\variable\Q429C.html">Q429C</a></td>
- <td>2 <a href="..\variable\Q429D.html">Q429D</a></td>
- </tr>
- <tr>
- <td>3 <a href="..\variable\Q429E.html">Q429E</a></td>
- <td>3 <a href="..\variable\Q429F.html">Q429F</a></td>
- </tr>
-
- <tr>
- <td rowspan="3">病気・不慮の事故</td>
- <td>1 <a href="..\variable\Q430A.html">Q430A</a></td>
- <td>1 <a href="..\variable\Q430B.html">Q430B</td>
- <td  rowspan="3"> <a href="..\variable\Q430G.html">Q430G</a></td>
- <td  rowspan="3"><a href="..\variable\Q430H.html">Q430H</a></td>
- </tr>
- <tr>
- <td>2 <a href="..\variable\Q430C.html">Q430C</a></td>
- <td>2 <a href="..\variable\Q430D.html">Q430D</a></td>
- </tr>
- <tr>
- <td>3 <a href="..\variable\Q430E.html">Q430E</a></td>
- <td>3 <a href="..\variable\Q430F.html">Q430F</a></td>
- </tr>
-
- <tr>
- <td rowspan="3">家族の生活費の補填</td>
- <td>1 <a href="..\variable\Q431A.html">Q431A</a></td>
- <td>1 <a href="..\variable\Q431B.html">Q431B</td>
- <td  rowspan="3"> <a href="..\variable\Q431G.html">Q431G</a></td>
- <td  rowspan="3"><a href="..\variable\Q431H.html">Q431H</a></td>
- </tr>
- <tr>
- <td>2 <a href="..\variable\Q431C.html">Q431C</a></td>
- <td>2 <a href="..\variable\Q431D.html">Q431D</a></td>
- </tr>
- <tr>
- <td>3 <a href="..\variable\Q431E.html">Q431E</a></td>
- <td>3 <a href="..\variable\Q431F.html">Q431F</a></td>
- </tr>
-
- <tr>
- <td rowspan="3">借金の返済</td>
- <td>1 <a href="..\variable\Q432A.html">Q432A</a></td>
- <td>1 <a href="..\variable\Q432B.html">Q432B</td>
- <td  rowspan="3"> <a href="..\variable\Q432G.html">Q432G</a></td>
- <td  rowspan="3"><a href="..\variable\Q432H.html">Q432H</a></td>
- </tr>
- <tr>
- <td>2 <a href="..\variable\Q432C.html">Q432C</a></td>
- <td>2 <a href="..\variable\Q432D.html">Q432D</a></td>
- </tr>
- <tr>
- <td>3 <a href="..\variable\Q432E.html">Q432E</a></td>
- <td>3 <a href="..\variable\Q432F.html">Q432F</a></td>
- </tr>
-
- <tr>
- <td rowspan="3">その他</td>
- <td>1 <a href="..\variable\Q433A.html">Q433A</a></td>
- <td>1 <a href="..\variable\Q433B.html">Q433B</td>
- <td  rowspan="3"> <a href="..\variable\Q433G.html">Q433G</a></td>
- <td  rowspan="3"><a href="..\variable\Q433H.html">Q433H</a></td>
- </tr>
- <tr>
- <td>2 <a href="..\variable\Q433C.html">Q433C</a></td>
- <td>2 <a href="..\variable\Q433D.html">Q433D</a></td>
- </tr>
- <tr>
- <td>3 <a href="..\variable\Q433E.html">Q433E</a></td>
- <td>3 <a href="..\variable\Q433F.html">Q433F</a></td>
- </tr>
- </table>
 
 
 .. list-table:: **コード表**
@@ -239,10 +114,6 @@
        | 43 気軽に借りられるから
        | 44 金融機関から借金をしたくなかった
        | 45 その他
-
-
-
-
 
 
 

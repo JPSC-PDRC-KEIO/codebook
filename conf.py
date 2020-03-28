@@ -31,13 +31,16 @@ html_last_updated_fmt = "%b %d, %Y"
 # extensions = [
 #    'sphinx.ext.todo',
 #    'sphinx.ext.githubpages',]
+"""
 extensions = [
     "sphinx.ext.todo",
     "sphinx.ext.graphviz",
     "sphinxcontrib.inkscapeconverter",
 ]
-blockdiag_html_image_format = "SVG"
-inkscape_converter_bin = "/usr/bin/inkscape"
+"""
+
+# blockdiag_html_image_format = "SVG"
+# inkscape_converter_bin = "/usr/bin/inkscape"
 # Fontpath for blockdiag (truetype font)
 
 # Add any paths that contain templates here, relative to this directory.
@@ -105,9 +108,7 @@ html_static_path = ["_static"]
 #
 
 
-html_sidebars = {
-    "**": ['globaltoc.html',"links.html"]
-}
+html_sidebars = {"**": ["globaltoc.html", "links.html"]}
 # 国際化
 locale_dirs = ["locale/"]  # path is example but recommended.
 gettext_compact = False  # optional.
