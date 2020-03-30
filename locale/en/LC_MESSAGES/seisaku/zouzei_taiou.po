@@ -9,138 +9,134 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-24 18:42+0900\n"
+"POT-Creation-Date: 2020-03-31 08:44+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.8.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:3
+#: ../../seisaku/zouzei_taiou.rst:3
 msgid "消費税8％への対策"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:6
+#: ../../seisaku/zouzei_taiou.rst:6
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:7
+#: ../../seisaku/zouzei_taiou.rst:7
 msgid "消費税が増税になったら、お宅ではどのような対応をするつもりですか。（それぞれ〇は１つずつ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
-msgid "項目\""
+#: ../../seisaku/zouzei_taiou.rst:9
+msgid "各対応の実施意向"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
+#: ../../seisaku/zouzei_taiou.rst:1
+msgid "項目"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou.rst:1
 msgid "変数名"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
-msgid "かならずやる"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
-msgid "たぶんやる"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
-msgid "たぶんやらない"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
-msgid "やるつもりはない"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
-msgid "まだわからない"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
+#: ../../seisaku/zouzei_taiou.rst:1
 msgid "食料品などの生活必需品を見直す"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
+#: ../../seisaku/zouzei_taiou.rst:1
 msgid ":doc:`Q1181A </variable/Q1181A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
-msgid "1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
-msgid "2"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
-msgid "3"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
-msgid "4"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
-msgid "5"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
+#: ../../seisaku/zouzei_taiou.rst:1
 msgid "光熱費を節約"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
+#: ../../seisaku/zouzei_taiou.rst:1
 msgid ":doc:`Q1181B </variable/Q1181B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
+#: ../../seisaku/zouzei_taiou.rst:1
 msgid "衣服や化粧品など奢侈品の買い物を見直す"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
+#: ../../seisaku/zouzei_taiou.rst:1
 msgid ":doc:`Q1181C </variable/Q1181C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
+#: ../../seisaku/zouzei_taiou.rst:1
 msgid "保険やローンなどの固定費を見直す"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
+#: ../../seisaku/zouzei_taiou.rst:1
 msgid ":doc:`Q1181D </variable/Q1181D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
+#: ../../seisaku/zouzei_taiou.rst:1
 msgid "娯楽や外食などのサービス購入を見直す"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
+#: ../../seisaku/zouzei_taiou.rst:1
 msgid ":doc:`Q1181E </variable/Q1181E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
+#: ../../seisaku/zouzei_taiou.rst:1
 msgid "家電や自動車などの高額商品の購入を前倒し、あるいは見直す"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
+#: ../../seisaku/zouzei_taiou.rst:1
 msgid ":doc:`Q1181F </variable/Q1181F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
+#: ../../seisaku/zouzei_taiou.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
+#: ../../seisaku/zouzei_taiou.rst:1
 msgid ":doc:`Q1181G </variable/Q1181G>`"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou.rst:1
-msgid "--"
 msgstr ""
 
 #~ msgid "変数名"
 #~ msgstr ""
 
 #~ msgid "変数"
+#~ msgstr ""
+
+#~ msgid "項目\""
+#~ msgstr ""
+
+#~ msgid "かならずやる"
+#~ msgstr ""
+
+#~ msgid "たぶんやる"
+#~ msgstr ""
+
+#~ msgid "たぶんやらない"
+#~ msgstr ""
+
+#~ msgid "やるつもりはない"
+#~ msgstr ""
+
+#~ msgid "まだわからない"
+#~ msgstr ""
+
+#~ msgid "1"
+#~ msgstr ""
+
+#~ msgid "2"
+#~ msgstr ""
+
+#~ msgid "3"
+#~ msgstr ""
+
+#~ msgid "4"
+#~ msgstr ""
+
+#~ msgid "5"
+#~ msgstr ""
+
+#~ msgid "--"
 #~ msgstr ""
 

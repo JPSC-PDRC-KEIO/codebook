@@ -9,184 +9,590 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2020-03-31 08:44+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.8.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst:3
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:3
 msgid "借入れ状況"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst:6
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:6
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst:8
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:8
 msgid "現在の借り入れについて、以下の項目にご記入ください。「借りた目的」「借入先」「借りた理由」は、下のコード表からあてはまる「コード番号」をご記入ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst:10
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:10
 msgid "「借りた理由」は、1カ所の借入先それぞれについて最大の理由１つを選んでご記入下さい。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst:200
-msgid "**コード表**"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst:204
-msgid "借りた目的"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst:205
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:80
 msgid "借入先"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst:206
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:81
 msgid "借りた理由"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid "借入残高(合計)"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid "年間返済額(合計)"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid "事業用の資金"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q808A </variable/Q808A>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q808C </variable/Q808C>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q808E </variable/Q808E>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q808B </variable/Q808B>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q808D </variable/Q808D>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q808F </variable/Q808F>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q808G </variable/Q808G>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q808H </variable/Q808H>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid "乗用車の購入"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q424A </variable/Q424A>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q424C </variable/Q424C>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q424E </variable/Q424E>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q424B </variable/Q424B>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q424D </variable/Q424D>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q424F </variable/Q424F>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q424G </variable/Q424G>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q424H </variable/Q424H>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid "家具・家電などの耐久消費財の購入"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q425A </variable/Q425A>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q425C </variable/Q425C>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q425E </variable/Q425E>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q425B </variable/Q425B>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q425D </variable/Q425D>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q425F </variable/Q425F>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q425G </variable/Q425G>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q425H </variable/Q425H>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid "衣類・身の回り品・食料品などの購入"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q426A </variable/Q426A>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q426C </variable/Q426C>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q426E </variable/Q426E>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q426B </variable/Q426B>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q426D </variable/Q426D>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q426F </variable/Q426F>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q426G </variable/Q426G>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q426H </variable/Q426H>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid "趣味・レジャー・交際費として"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q427A </variable/Q427A>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q427C </variable/Q427C>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q427E </variable/Q427E>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q427B </variable/Q427B>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q427D </variable/Q427D>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q427F </variable/Q427F>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q427G </variable/Q427G>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q427H </variable/Q427H>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid "教育費"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q428A </variable/Q428A>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q428C </variable/Q428C>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q428E </variable/Q428E>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q428B </variable/Q428B>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q428D </variable/Q428D>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q428F </variable/Q428F>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q428G </variable/Q428G>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q428H </variable/Q428H>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid "結婚費用"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q429A </variable/Q429A>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q429C </variable/Q429C>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q429E </variable/Q429E>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q429B </variable/Q429B>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q429D </variable/Q429D>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q429F </variable/Q429F>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q429G </variable/Q429G>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q429H </variable/Q429H>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid "病気・不慮の事故"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q430A </variable/Q430A>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q430C </variable/Q430C>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q430E </variable/Q430E>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q430B </variable/Q430B>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q430D </variable/Q430D>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q430F </variable/Q430F>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q430G </variable/Q430G>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q430H </variable/Q430H>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid "家族の生活費の補填"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q431A </variable/Q431A>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q431C </variable/Q431C>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q431E </variable/Q431E>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q431B </variable/Q431B>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q431D </variable/Q431D>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q431F </variable/Q431F>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q431G </variable/Q431G>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q431H </variable/Q431H>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid "借金の返済"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q432A </variable/Q432A>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q432C </variable/Q432C>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q432E </variable/Q432E>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q432B </variable/Q432B>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q432D </variable/Q432D>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q432F </variable/Q432F>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q432G </variable/Q432G>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q432H </variable/Q432H>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid "その他"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q433A </variable/Q433A>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q433C </variable/Q433C>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q433E </variable/Q433E>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "1 :doc:`Q433B </variable/Q433B>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "2 :doc:`Q433D </variable/Q433D>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
+msgid "3 :doc:`Q433F </variable/Q433F>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q433G </variable/Q433G>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
+msgid ":doc:`Q433H </variable/Q433H>`"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:75
+msgid "**コード表**"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst:79
+msgid "借りた目的"
+msgstr ""
+
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "01 事業用の資金"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "02 乗用車の購入"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "03 家具・家電などの耐久消費財の購入"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "04 衣類・身の回り品・食料品などの購入"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "05 趣味・レジャー・交際費として"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "06 教育費"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "07 結婚費用"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "08 病気・不慮の事故"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "09 家族の生活費の補填"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "10 借金の返済"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "11 その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "21 銀行などの金融機関・郵便局"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "22 社内融資"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "23 銀行系クレジット会社"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "24 信販会社"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "25 消費者金融会社"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "26 流通関連会社"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "27 妻の親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "28 夫の親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "29 その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "31 そこでしか借りられなかった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "32 手続きが簡単だった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "33 時間的に一番早く借りられた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "34 営業時間が長く、夜も開いていた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "35 土曜・日曜も借りられた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "36 金利が低かった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "37 その機関の人から熱心に勧められた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "38 友人・知人に勧められた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "39 借入れできるカードを持っていた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "40 返済方法が簡単そうだった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "41 たまたま近くにあった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "42 有名で信頼できると思った"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "43 気軽に借りられるから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "44 金融機関から借金をしたくなかった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariire_sonota.rst
+#: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "45 その他"
 msgstr ""
 

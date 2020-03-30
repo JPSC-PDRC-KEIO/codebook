@@ -8,16 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-22 16:03+0900\n"
+"POT-Creation-Date: 2020-03-31 08:44+0900\n"
 "PO-Revision-Date: 2020-03-22 23:17+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.8.0\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: en\n"
-"X-Generator: Poedit 2.3\n"
 
 #: ../../index.rst:13 ../../index.rst:17
 msgid "調査について"
@@ -27,13 +27,9 @@ msgstr "About the survey"
 msgid "JPSC データ"
 msgstr "JPSC dataset"
 
-#: ../../index.rst:47
-msgid "利用にあたって"
-msgstr "Usage"
-
-#: ../../index.rst:62
-msgid "収録変数"
-msgstr "Variables"
+#: ../../index.rst:44 ../../index.rst:50
+msgid "収録コンテンツ"
+msgstr ""
 
 # JPSC codebook
 #: ../../index.rst:3
@@ -42,16 +38,13 @@ msgstr "JPSC code book"
 
 #: ../../index.rst:5
 msgid ""
-"このドキュメンテーションには、「消費生活に関するパネル調査」 "
-"（Japanese Panel Surveys of Consumers: JPSC）の 調査概要や提供デー"
-"タに含まれる変数の説明などの情報が収録されています。 JPSCデータセッ"
-"トを利用、分析する際の資料としてご活用ください。"
+"このドキュメンテーションには、「消費生活に関するパネル調査」 （Japanese Panel Surveys of Consumers: "
+"JPSC）の 調査概要や提供データに含まれる変数の説明などの情報が収録されています。 "
+"JPSCデータセットを利用、分析する際の資料としてご活用ください。"
 msgstr ""
 
 #: ../../index.rst:14
-msgid ""
-"**調査対象者の構成、サンプリング方法の情報は**:|emspace| :doc:"
-"`gaiyo`"
+msgid "**調査対象者の構成、サンプリング方法の情報は**:|emspace| :doc:`gaiyo`"
 msgstr "**About the JPSC sample**:|emspace| :doc:`gaiyo`"
 
 #: ../../index.rst:15
@@ -63,32 +56,38 @@ msgid "**JPSCデータを貸りるには**:|emspace| :doc:`data_riyo`"
 msgstr "**Acquiring the data**:|emspace| :doc:`data_riyo`"
 
 #: ../../index.rst:30
-msgid ""
-"**データの内容（収録ファイル、変数の命名法）**:|emspace| :doc:"
-"`id_panel/sheetEX`"
+msgid "**データの内容（収録ファイル、変数の命名法）**:|emspace| :doc:`id_panel/sheetEX`"
 msgstr "**Dealing with the data**:|emspace| :doc:`id_panel/sheetEX`"
 
-#: ../../index.rst:43
-msgid "コードブックの利用にあたって"
-msgstr "Usage of this documentation"
-
-#: ../../index.rst:44
+#: ../../index.rst:45
 msgid "**はじめに**:|emspace| :doc:`riyo`"
 msgstr "**Getting started**:|emspace| :doc:`riyo`"
 
-#: ../../index.rst:45
-msgid "**データ、コードブックへの質問は**:|emspace| :doc:`contact`"
-msgstr "**Getting help**:|emspace| :doc:`contact`"
-
-#: ../../index.rst:57
-msgid "収録変数の一覧"
-msgstr "Variables"
-
-#: ../../index.rst:58
-msgid ""
-"**対象者番号、調査回について**:|emspace| :doc:`id_panel/index`"
+#: ../../index.rst:46
+msgid "**対象者番号、調査回について**:|emspace| :doc:`id_panel/index`"
 msgstr "**Respondent IDs and waves**:|emspace| :doc:`id_panel/index`"
 
-#: ../../index.rst:59
+#: ../../index.rst:47
 msgid "**主要調査項目について**:|emspace| :doc:`komoku`"
 msgstr "**Main topics in the survey**:|emspace| :doc:`komoku`"
+
+#: ../../index.rst:48
+#, fuzzy
+msgid "**用語がわからないときは**:|emspace| :doc:`glossary`"
+msgstr "**Getting started**:|emspace| :doc:`riyo`"
+
+#~ msgid "利用にあたって"
+#~ msgstr "Usage"
+
+#~ msgid "収録変数"
+#~ msgstr "Variables"
+
+#~ msgid "コードブックの利用にあたって"
+#~ msgstr "Usage of this documentation"
+
+#~ msgid "**データ、コードブックへの質問は**:|emspace| :doc:`contact`"
+#~ msgstr "**Getting help**:|emspace| :doc:`contact`"
+
+#~ msgid "収録変数の一覧"
+#~ msgstr "Variables"
+

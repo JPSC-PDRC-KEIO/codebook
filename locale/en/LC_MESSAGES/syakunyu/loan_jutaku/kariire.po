@@ -9,84 +9,282 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2020-03-31 08:44+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.8.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst:3
+#: ../../syakunyu/loan_jutaku/kariire.rst:3
 msgid "住宅ローンの借入れ状況"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst:6
+#: ../../syakunyu/loan_jutaku/kariire.rst:6
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst:8
+#: ../../syakunyu/loan_jutaku/kariire.rst:8
 msgid "現在の借り入れについて、以下の項目にご記入ください。「1.借りた目的」「2.借入先」は、次ページのコード表からあてはまる「コード番号」をご記入ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst:137
-msgid "**コード表**"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst:141
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+#: ../../syakunyu/loan_jutaku/kariire.rst:52
 msgid "借りた目的"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst:142
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+#: ../../syakunyu/loan_jutaku/kariire.rst:53
 msgid "借入先"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid "借入残高(合計)"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid "年間返済額(合計)"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid "借り替え"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "1 :doc:`Q807A </variable/Q807A>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "2 :doc:`Q807B </variable/Q807B>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "3 :doc:`Q807C </variable/Q807C>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "4 :doc:`Q807D </variable/Q807D>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "5 :doc:`Q807E </variable/Q807E>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid ":doc:`Q807F </variable/Q807F>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid ":doc:`Q807G </variable/Q807G>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid "土地の購入"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "1 :doc:`Q413A </variable/Q413A>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "2 :doc:`Q413B </variable/Q413B>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "3 :doc:`Q413C </variable/Q413C>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "4 :doc:`Q413D </variable/Q413D>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "5 :doc:`Q413E </variable/Q413E>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid ":doc:`Q413F </variable/Q413F>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid ":doc:`Q413G </variable/Q413G>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid "住宅（土地も含む）の購入"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "1 :doc:`Q414A </variable/Q414A>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "2 :doc:`Q414B </variable/Q414B>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "3 :doc:`Q414C </variable/Q414C>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "4 :doc:`Q414D </variable/Q414D>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "5 :doc:`Q414E </variable/Q414E>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid ":doc:`Q414F </variable/Q414F>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid ":doc:`Q414G </variable/Q414G>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid "建物の建築"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "1 :doc:`Q415A </variable/Q415A>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "2 :doc:`Q415B </variable/Q415B>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "3 :doc:`Q415C </variable/Q415C>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "4 :doc:`Q415D </variable/Q415D>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "5 :doc:`Q415E </variable/Q415E>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid ":doc:`Q415F </variable/Q415F>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid ":doc:`Q415G </variable/Q415G>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid "増改築"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "1 :doc:`Q416A </variable/Q416A>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "2 :doc:`Q416B </variable/Q416B>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "3 :doc:`Q416C </variable/Q416C>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "4 :doc:`Q416D </variable/Q416D>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "5 :doc:`Q416E </variable/Q416E>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid ":doc:`Q416F </variable/Q416F>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid ":doc:`Q416G </variable/Q416G>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "1 :doc:`Q417A </variable/Q417A>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "2 :doc:`Q417B </variable/Q417B>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "3 :doc:`Q417C </variable/Q417C>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "4 :doc:`Q417D </variable/Q417D>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
+msgid "5 :doc:`Q417E </variable/Q417E>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid ":doc:`Q417F </variable/Q417F>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:1
+msgid ":doc:`Q417G </variable/Q417G>`"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst:48
+msgid "**コード表**"
+msgstr ""
+
+#: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "01 借り替え"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+#: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "02 土地の購入"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+#: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "03 住宅（土地も含む）の購入"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+#: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "04 建物の建築"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+#: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "05 増改築"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+#: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "06 別荘の購入"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+#: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "11 銀行などの金融機関"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+#: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "12 住宅金融支援機構・年金融資・財形融資・公団融資・自治体融資などの公的融資"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+#: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "13 社内融資"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+#: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "14 妻の親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+#: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "15 夫の親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/kariire.rst
+#: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "16 その他"
 msgstr ""
 

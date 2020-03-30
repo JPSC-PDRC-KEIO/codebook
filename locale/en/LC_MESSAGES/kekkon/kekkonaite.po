@@ -9,227 +9,225 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-12 16:29+0900\n"
+"POT-Creation-Date: 2020-03-31 08:44+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.8.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:3
+#: ../../kekkon/kekkonaite.rst:3
 msgid "結婚相手に重視する要素"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:9
+#: ../../kekkon/kekkonaite.rst:9
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:10
+#: ../../kekkon/kekkonaite.rst:10
 msgid "あなたは、結婚相手にはどのような要素を重視しますか。以下の要素についてあなたのお考えを選んでください。（それぞれ〇は１つずつ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:12
+#: ../../kekkon/kekkonaite.rst:12
 msgid "今後とも結婚するご意思のない方は次ページの問3にお進みください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "変数名"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "重視する"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "＜ー－－"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "－－－＞"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "重視しない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "親しい友人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162A </variable/Q1162A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "人生に共に立ち向かう人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162B </variable/Q1162B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "一心同体の人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162C </variable/Q1162C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "趣味を共有する人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162D </variable/Q1162D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "経済的に頼れる人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162E </variable/Q1162E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "父親のように保護してくれる人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162F </variable/Q1162F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "心の支えになる人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162G </variable/Q1162G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "性的に魅力のある人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162H </variable/Q1162H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "子供のように甘えてくれる人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162I </variable/Q1162I>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "空気のような存在"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162J </variable/Q1162J>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "可愛い人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162K </variable/Q1162K>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "家事や育児に協力的な人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162L </variable/Q1162L>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "学歴が高く、安定した仕事についている人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162M </variable/Q1162M>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "家庭を第一に考える人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162N </variable/Q1162N>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "自分にない性格を持っている人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162O </variable/Q1162O>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "容姿のいい人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162P </variable/Q1162P>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:37
+#: ../../kekkon/kekkonaite.rst:37
 msgid "有配偶の方へは次（ :doc:`otto_image_yu` ) のように質問しています。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:62
+#: ../../kekkon/kekkonaite.rst:62
 msgid "付問：（1）から（16）の中で、あなたが結婚相手に最も重視する要素はどれですか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "コード（1から16）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid "結婚相手に最も重視する要素"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:1
+#: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1163 </variable/Q1163>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:70
-msgid "課題"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonaite.rst:70
-msgid "リンクはダミーなので修正する"
-msgstr ""
-
 #~ msgid "Todo"
+#~ msgstr ""
+
+#~ msgid "課題"
+#~ msgstr ""
+
+#~ msgid "リンクはダミーなので修正する"
 #~ msgstr ""
 
