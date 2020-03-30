@@ -1,16 +1,17 @@
 .. 注釈の文章変更
 
-.. |nt1| replace:: この質問項目の変数名と選択肢には調査回によって変更があります。
-.. |nt2| replace:: この質問項目の変数名には調査回によって変更があります。
+.. |nt1| replace:: この質問項目の変数名と選択肢は調査回で異なります。
+.. |nt2| replace:: この質問項目の変数名は調査回によって異なります。
 .. |s| unicode:: 0xA0
    :trim:
 .. |nt3| replace:: 初回調査
 .. |nt4| replace:: その人
 .. |nt5| replace:: 回答者本人
 
-.. |n| unicode:: U+30FB
+.. |n| unicode:: U+30FB  .. 中点
 .. |space| unicode:: U+0020 .. 半角スペース
 .. |emspace| unicode:: U+2003 .. em space いわゆるクワタ
 
-
+.. |endash| unicode:: U+2013 .. en dash
+   :trim:
 .. |lline| unicode:: U+005F  .. Low Line 下線
