@@ -14,15 +14,16 @@ Q222
 質問文
 ==================
 
-   時給はいくらですか。
 
-   1時間当たり
+   時給はいくらですか。 1時間当たり
+
    
 .. rst-class:: answer
 選択肢 / 記入欄
 ======================
 
-       ＿ 万 ＿ ＿ ＿ ＿ 円
+  |lline| 万 |lline| |lline| |lline| |lline|　円
+
 
 
 .. rst-class:: overflow
@@ -115,6 +116,9 @@ Q222
    * p26_1
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> refs/remotes/origin/master
 .. index:: Q222

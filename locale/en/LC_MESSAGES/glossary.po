@@ -4,68 +4,101 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-26 10:13+0900\n"
-"PO-Revision-Date: 2020-03-26 10:45+0900\n"
+"POT-Creation-Date: 2020-03-31 08:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: en\n"
-"X-Generator: Poedit 2.3\n"
+"Generated-By: Babel 2.8.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/glossary.rst:4
+#: ../../glossary.rst:4
 msgid "用語集"
-msgstr "Glossary"
+msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/glossary.rst:6
+#: ../../glossary.rst:6
 msgid "調査年"
-msgstr "Year of survey"
+msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/glossary.rst:8
+#: ../../glossary.rst:8
 msgid "JPSCの調査年は、\"p + 数字\"で表記しています。この数字は第1回調査（1993年）から数えての通し番号です。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/glossary.rst:9
+#: ../../glossary.rst:9
+msgid "初回調査"
+msgstr ""
+
+#: ../../glossary.rst:11
+msgid ""
+"コードブックで初回調査と言及されている用語は回答者が継続調査に初めて参加した年の調査です。初回調査の年は各コーホートによって異なります( "
+":doc:`ref </id_panel/cohort>` "
+")。JPSCの第1回調査（1993年)を必ずしも指す用語ではないのでご注意ください。初回調査では、毎年継続して尋ねている項目以外の内容を数多く質問しています。自身の教育歴や職歴など主に調査参加以前の情報になります。"
+msgstr ""
+
+#: ../../glossary.rst:12
+msgid "有配偶と無配偶"
+msgstr ""
+
+#: ../../glossary.rst:14
+msgid ""
+"JPSCの調査票は有配偶票と無配偶票の2つに大きく分けられます。質問内容の多くはこれら2つの調査票で共通ですが、有配偶、無配偶それぞれ一方にしか尋ねていない質問や両者で質問のフォーマットが異なるものもあります。その対象者が有配偶か無配偶のいずれの状態にあるかは"
+" :doc:`/kihon/Q1` を参照してください。"
+msgstr ""
+
+#: ../../glossary.rst:15
+msgid "配偶者"
+msgstr ""
+
+#: ../../glossary.rst:17
+msgid "JPSCの対象者はすべて女性になります。よって配偶者は夫のことを指します。"
+msgstr ""
+
+#: ../../glossary.rst:18
+msgid "新婚"
+msgstr ""
+
+#: ../../glossary.rst:20
+msgid "調査期間中に結婚した対象者には、メインの有配偶票の他に付加的な質問票（新婚票)を配布して回答をお願いしています。新婚票には結婚にかかった費用、配偶者とその親の基本情報についての質問が記載されています。"
+msgstr ""
+
+#: ../../glossary.rst:21
 msgid "収録シート"
-msgstr "Data files (csv)"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/glossary.rst:11
-msgid ""
-"JPSCデータは各年5枚のCSVファイルに納められています。変数名ページの\"収録シート\"に記載されている文字列(e.g. p1_1)は、提供データの"
-"CSVファイルの名前に相当し、当該変数はそのCSVファイルに含まれています。 またこの情報を用いることで、その変数が表す項目が第何回調査"
-"に含まれているかを知ることができます。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/glossary.rst:13
+#: ../../glossary.rst:23
+msgid ""
+"JPSCデータは各年5枚のCSVファイルに納められています。変数名ページの\"収録シート\"に記載されている文字列(e.g. "
+"p1_1)は、提供データのCSVファイルの名前に相当し、当該変数はそのCSVファイルに含まれています。 "
+"またこの情報を用いることで、その変数が表す項目が第何回調査に含まれているかを知ることができます。"
+msgstr ""
+
+#: ../../glossary.rst:25
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/glossary.rst:15
-msgid ""
-"JPSCでは固定長形式でデータを保存しているため、各変数が持てる桁があらかじめ決められています。回答者がその桁を超える値を記入していた"
-"場合には、ここで記載されている数字が割り当てられています。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/glossary.rst:16
+#: ../../glossary.rst:27
+msgid "JPSCでは固定長形式でデータを保存しているため、各変数が持てる桁があらかじめ決められています。回答者がその桁を超える値を記入していた場合には、ここで記載されている数字が割り当てられています。"
+msgstr ""
+
+#: ../../glossary.rst:28
 msgid "無回答コード"
-msgstr "Non-Response"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/glossary.rst:18
-msgid ""
-"回答すべき質問に対して記入がなかった回答には、この数字が割り当てられています。ただし回答の対象条件に当てはまらない場合、例えば有配"
-"偶限定の質問に対する無配偶の対象者など、質問自体に回答する必要がない場合ではブランクとなっていますのでご注意ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/glossary.rst:19
+#: ../../glossary.rst:30
+msgid "回答すべき質問に対して記入がなかった回答には、この数字が割り当てられています。ただし回答の対象条件に当てはまらない場合、例えば有配偶限定の質問に対する無配偶の対象者など、質問自体に回答する必要がない場合ではブランクとなっていますのでご注意ください。"
+msgstr ""
+
+#: ../../glossary.rst:31
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/glossary.rst:21
-msgid "blank"
 msgstr ""
+
+#: ../../glossary.rst:33
+msgid "JPSCは訪問留置法による自記式調査です。対象者がどのように回答すればよいか理解できない状況が発生することがあり、一部の対象者は直接の回答をせず自身の状況について欄外に説明を残しています。JPSC実施者側で、その記入内容をどの選択肢のコードに割り振るかを判断できなかった場合に、このコードを割り当てています。"
+msgstr ""
+

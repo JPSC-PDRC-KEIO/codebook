@@ -9,82 +9,82 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2020-03-31 08:44+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.8.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q493KH.rst:5
+#: ../../variable/Q493KH.rst:5
 msgid "生活時間：交際・つきあい／時間（平日）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q493KH.rst:9
+#: ../../variable/Q493KH.rst:9
 msgid "変数名"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q493KH.rst:11
+#: ../../variable/Q493KH.rst:11
 msgid "Q493KH"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q493KH.rst:15
+#: ../../variable/Q493KH.rst:15
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q493KH.rst:18
+#: ../../variable/Q493KH.rst:18
 msgid ""
 "日常の生活行動を次の６つに分けた場合、通常の平日、休日にそれぞれ合計でおおよそ何時間費やしていますか。 "
 "あなたの場合とご主人の場合についてお答え下さい。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q493KH.rst:19
+#: ../../variable/Q493KH.rst:19
 msgid "同時に複数のことをした場合は、主なもののほうでお答え下さい。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q493KH.rst:22
+#: ../../variable/Q493KH.rst:22
 msgid "交際・つきあい／時間（平日）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q493KH.rst:28
+#: ../../variable/Q493KH.rst:28
 msgid "選択肢 / 記入欄"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q493KH.rst:30
-msgid "＿＿時間"
+#: ../../variable/Q493KH.rst:30
+msgid "＿ ＿ 時間"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q493KH.rst:36
+#: ../../variable/Q493KH.rst:36
 msgid "桁あふれコード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q493KH.rst:37
+#: ../../variable/Q493KH.rst:37
 msgid "98"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q493KH.rst:42
+#: ../../variable/Q493KH.rst:42
 msgid "分類不能の回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q493KH.rst:48
+#: ../../variable/Q493KH.rst:48
 msgid "無回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q493KH.rst:49
+#: ../../variable/Q493KH.rst:49
 msgid "99"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q493KH.rst:54
+#: ../../variable/Q493KH.rst:54
 msgid "備考"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q493KH.rst:60
+#: ../../variable/Q493KH.rst:60
 msgid "収録シート"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q493KH.rst:65
+#: ../../variable/Q493KH.rst:65
 msgid "p2_3"
 msgstr ""
 
@@ -97,5 +97,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "＿＿時間"
 #~ msgstr ""
 

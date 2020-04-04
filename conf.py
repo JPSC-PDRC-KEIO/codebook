@@ -31,13 +31,16 @@ html_last_updated_fmt = "%b %d, %Y"
 # extensions = [
 #    'sphinx.ext.todo',
 #    'sphinx.ext.githubpages',]
+"""
 extensions = [
     "sphinx.ext.todo",
     "sphinx.ext.graphviz",
     "sphinxcontrib.inkscapeconverter",
 ]
-blockdiag_html_image_format = "SVG"
-inkscape_converter_bin = "/usr/bin/inkscape"
+"""
+
+# blockdiag_html_image_format = "SVG"
+# inkscape_converter_bin = "/usr/bin/inkscape"
 # Fontpath for blockdiag (truetype font)
 
 # Add any paths that contain templates here, relative to this directory.
@@ -84,6 +87,7 @@ html_theme_path = ["sphinx_rtd_theme.get_html_theme_path()"]
 # documentation.
 #
 html_theme_options = {
+    "logo_only": True,
     "titles_only": True,
     "navigation_depth": 3,
     "sticky_navigation": False,
@@ -107,6 +111,7 @@ html_static_path = ["_static"]
 html_sidebars = {
     "**": ["links.html"]
 }
+
 # 国際化
 locale_dirs = ["locale/"]  # path is example but recommended.
 gettext_compact = False  # optional.
@@ -123,3 +128,4 @@ def setup(app):
 admonitionlabels["note"] = u"notice"
 admonitionlabels["warning"] = u"warning"
 admonitionlabels["hint"] = u""
+admonitionlabels["caution"] = "caution"

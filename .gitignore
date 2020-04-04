@@ -217,6 +217,9 @@ $RECYCLE.BIN/
 *.sql
 *.sqlite
 
+# Emacs auto save files
+########################
+\#*#
 
 
 

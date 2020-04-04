@@ -9,30 +9,133 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2020-03-31 08:44+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.8.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou_8.rst:3
+#: ../../seisaku/zouzei_taiou_8.rst:3
 msgid "消費税8％への対応"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou_8.rst:6
+#: ../../seisaku/zouzei_taiou_8.rst:6
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou_8.rst:7
+#: ../../seisaku/zouzei_taiou_8.rst:7
 msgid "平成26年4月から消費税率が8％に変更となりました。消費税率の引き上げによってお宅ではどのような対応をしましたか。消費税8％引き上げ時と現在の各時点についてお考えください。（それぞれ〇は１つずつ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei_taiou_8.rst:89
-msgid ""
-"付問：　"
-"18歳以下のお子さんのいらっしゃる方にお聞きします。消費税率の引き上げによってお宅ではどのような対応をしましたか。消費税8％引き上げ時と現在の各時点についてお考えください。（それぞれ〇は１つずつ）"
+#: ../../seisaku/zouzei_taiou_8.rst:10
+msgid "各対応の実施の有無"
 msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid "2014年4月頃まで"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid "8％増税後の調査時"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid "食料品など生活必需品の買い物を見直し"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid ":doc:`Q1188A </variable/Q1188A>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid ":doc:`Q1189A </variable/Q1189A>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid "光熱費を節約"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid ":doc:`Q1188B </variable/Q1188B>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid ":doc:`Q1189B </variable/Q1189B>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid "衣服や化粧品など奢侈品の買い物の見直し"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid ":doc:`Q1188C </variable/Q1188C>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid ":doc:`Q1189C </variable/Q1189C>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid "保険やローンなどの固定費の見直し"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid ":doc:`Q1188D </variable/Q1188D>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid ":doc:`Q1189D </variable/Q1189D>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid "家電や自動車など高額商品の購入の見直し"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid ":doc:`Q1188E </variable/Q1188E>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid ":doc:`Q1189E </variable/Q1189E>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid "外食・交際・娯楽費の見直し"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid ":doc:`Q1188F </variable/Q1188F>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid ":doc:`Q1189F </variable/Q1189F>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:23
+msgid "子どもがいる人では"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid "子供の教育費（学校・塾・習い事など）の見直し"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid ":doc:`Q1190A </variable/Q1190A>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid "その他の子ども費用（服・ゲーム・おもちゃなど）の見直し"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_8.rst:1
+msgid ":doc:`Q1190B </variable/Q1190B>`"
+msgstr ""
+
+#~ msgid ""
+#~ "付問：　"
+#~ "18歳以下のお子さんのいらっしゃる方にお聞きします。消費税率の引き上げによってお宅ではどのような対応をしましたか。消費税8％引き上げ時と現在の各時点についてお考えください。（それぞれ〇は１つずつ）"
+#~ msgstr ""
 

@@ -9,102 +9,102 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2020-03-31 08:44+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.8.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:5
+#: ../../variable/Q9001CH.rst:5
 msgid "生活時間（調整版）：勉学／時間（平日）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:9
+#: ../../variable/Q9001CH.rst:9
 msgid "変数名"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:11
+#: ../../variable/Q9001CH.rst:11
 msgid "Q9001CH"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:15
+#: ../../variable/Q9001CH.rst:15
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:18
+#: ../../variable/Q9001CH.rst:18
 msgid ""
 "日常の生活行動を次の６つに分けた場合、通常の平日、休日にそれぞれ合計でおおよそ何時間費やしていますか。 "
 "あなたの場合とご主人の場合についてお答え下さい。 同時に複数のことをした場合は、主なもののほうでお答え下さい。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:21
+#: ../../variable/Q9001CH.rst:21
 msgid "勉学／時間（平日）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:27
+#: ../../variable/Q9001CH.rst:27
 msgid "選択肢 / 記入欄"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:29
-msgid "＿＿時間"
+#: ../../variable/Q9001CH.rst:29
+msgid "＿ ＿ 時間"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:35
+#: ../../variable/Q9001CH.rst:35
 msgid "桁あふれコード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:36
+#: ../../variable/Q9001CH.rst:36
 msgid "98"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:41
+#: ../../variable/Q9001CH.rst:41
 msgid "分類不能の回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:47
+#: ../../variable/Q9001CH.rst:47
 msgid "無回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:48
+#: ../../variable/Q9001CH.rst:48
 msgid "99"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:53
+#: ../../variable/Q9001CH.rst:53
 msgid "備考"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:59
+#: ../../variable/Q9001CH.rst:59
 msgid "収録シート"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:64
+#: ../../variable/Q9001CH.rst:64
 msgid "p21abcd_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:66
+#: ../../variable/Q9001CH.rst:66
 msgid "p21e_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:68
+#: ../../variable/Q9001CH.rst:68
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:70
+#: ../../variable/Q9001CH.rst:70
 msgid "p23_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:72
+#: ../../variable/Q9001CH.rst:72
 msgid "p24_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:74
+#: ../../variable/Q9001CH.rst:74
 msgid "p25_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9001CH.rst:76
+#: ../../variable/Q9001CH.rst:76
 msgid "p26_3"
 msgstr ""
 
@@ -112,5 +112,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "＿＿時間"
 #~ msgstr ""
 

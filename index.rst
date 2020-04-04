@@ -37,32 +37,21 @@ JPSC データ
    id_panel/sheetEX
 
 
-コードブックの利用にあたって
-----------------------------------------------------
+
+収録コンテンツ
+---------------------------------------------
 * **はじめに**:|emspace| :doc:`riyo`
+* **対象者番号、調査回について**:|emspace| :doc:`id_panel/index`
+* **主要調査項目について**:|emspace| :doc:`komoku`
 * **用語がわからないときは**:|emspace| :doc:`glossary`
-* **データ、コードブックへの質問は**:|emspace| :doc:`contact`
-　
+
 .. toctree::
-   :caption: 利用にあたって
+   :caption: 収録コンテンツ
    :maxdepth: 1
    :hidden:
 
    riyo
-   glossary
-
-
-
-収録変数の一覧
--------------------------
-* **対象者番号、調査回について**:|emspace| :doc:`id_panel/index`
-* **主要調査項目について**:|emspace| :doc:`komoku`
-
-
-.. toctree::
-   :caption: 収録変数
-   :maxdepth: 1
-   :hidden:
-
    id_panel/index
    komoku
+   glossary
+

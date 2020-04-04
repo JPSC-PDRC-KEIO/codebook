@@ -9,181 +9,136 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-19 15:52+0900\n"
+"POT-Creation-Date: 2020-03-31 08:44+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.8.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:3
+#: ../../multi_var/Q1185.rst:3
 msgid "勤務先の評価"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:6
+#: ../../multi_var/Q1185.rst:6
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:8
+#: ../../multi_var/Q1185.rst:8
 msgid "あなたの勤めている会社やお仕事について、以下のことはどれくらいあてはまりますか。（それぞれ〇は１つずつ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid "変数名"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
-msgid "あてはまる"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst
-msgid "まあ"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst
-msgid "あまり"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst
-msgid "あてはまらない"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst
-msgid "ほとんど"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
-msgid "わからない"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid "給与がよい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185A </variable/Q1185A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
-msgid "1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
-msgid "2"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
-msgid "3"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
-msgid "4"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
-msgid "5"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid "労働時間が長い"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185B </variable/Q1185B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid "休日・休暇をとりやすい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q120C </variable/Q1185C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid "通勤時間が短い"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185D </variable/Q1185D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid "転勤がない・少ない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185E </variable/Q1185E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid "安定している・失業のおそれがない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185F </variable/Q1185F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid "将来、発展する可能性がある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185G </variable/Q1185G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid "結婚・出産後も続けやすい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185H </variable/Q1185H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid "技術が身につく"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185I </variable/Q1185I>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid "能力が生かせる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185J </variable/Q1185J>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid "仕事内容に興味がある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185K </variable/Q1185K>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid "人間関係が良好である"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185L </variable/Q1185L>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid "昇進・地位向上の機会がある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1185.rst:1
+#: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185M </variable/Q1185M>`"
 msgstr ""
 
@@ -197,5 +152,38 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "ほとんどあて"
+#~ msgstr ""
+
+#~ msgid "あてはまる"
+#~ msgstr ""
+
+#~ msgid "まあ"
+#~ msgstr ""
+
+#~ msgid "あまり"
+#~ msgstr ""
+
+#~ msgid "あてはまらない"
+#~ msgstr ""
+
+#~ msgid "ほとんど"
+#~ msgstr ""
+
+#~ msgid "わからない"
+#~ msgstr ""
+
+#~ msgid "1"
+#~ msgstr ""
+
+#~ msgid "2"
+#~ msgstr ""
+
+#~ msgid "3"
+#~ msgstr ""
+
+#~ msgid "4"
+#~ msgstr ""
+
+#~ msgid "5"
 #~ msgstr ""
 

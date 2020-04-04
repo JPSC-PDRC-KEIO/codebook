@@ -9,192 +9,192 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2020-03-31 08:44+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.8.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:5
+#: ../../variable/Q275.rst:5
 msgid "収入管理タイプ7：本人のこづかいをもらったか"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:9
+#: ../../variable/Q275.rst:9
 msgid "変数名"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:11
+#: ../../variable/Q275.rst:11
 msgid "Q275"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:15
+#: ../../variable/Q275.rst:15
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:18
+#: ../../variable/Q275.rst:18
 msgid "あなた自身は日常生活費やこづかいをもらいましたか"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:21
+#: ../../variable/Q275.rst:21
 msgid "もらった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:27
+#: ../../variable/Q275.rst:27
 msgid "選択肢 / 記入欄"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:29
-msgid "＿＿万＿＿千円"
+#: ../../variable/Q275.rst:29
+msgid "＿ ＿ 万 ＿ ＿ 千円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:35
+#: ../../variable/Q275.rst:35
 msgid "桁あふれコード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:36
+#: ../../variable/Q275.rst:36
 msgid "998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:41
+#: ../../variable/Q275.rst:41
 msgid "分類不能の回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:47
+#: ../../variable/Q275.rst:47
 msgid "無回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:48
+#: ../../variable/Q275.rst:48
 msgid "999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:53
+#: ../../variable/Q275.rst:53
 msgid "備考"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:59
+#: ../../variable/Q275.rst:59
 msgid "収録シート"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:64
+#: ../../variable/Q275.rst:64
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:66
+#: ../../variable/Q275.rst:66
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:68
+#: ../../variable/Q275.rst:68
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:70
+#: ../../variable/Q275.rst:70
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:72
+#: ../../variable/Q275.rst:72
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:74
+#: ../../variable/Q275.rst:74
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:76
+#: ../../variable/Q275.rst:76
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:78
+#: ../../variable/Q275.rst:78
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:80
+#: ../../variable/Q275.rst:80
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:82
+#: ../../variable/Q275.rst:82
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:84
+#: ../../variable/Q275.rst:84
 msgid "p10_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:86
+#: ../../variable/Q275.rst:86
 msgid "p11ab_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:88
+#: ../../variable/Q275.rst:88
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:90
+#: ../../variable/Q275.rst:90
 msgid "p12_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:92
+#: ../../variable/Q275.rst:92
 msgid "p13_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:94
+#: ../../variable/Q275.rst:94
 msgid "p14_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:96
+#: ../../variable/Q275.rst:96
 msgid "p15_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:98
+#: ../../variable/Q275.rst:98
 msgid "p16abc_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:100
+#: ../../variable/Q275.rst:100
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:102
+#: ../../variable/Q275.rst:102
 msgid "p17_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:104
+#: ../../variable/Q275.rst:104
 msgid "p18_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:106
+#: ../../variable/Q275.rst:106
 msgid "p19_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:108
+#: ../../variable/Q275.rst:108
 msgid "p20_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:110
+#: ../../variable/Q275.rst:110
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:112
+#: ../../variable/Q275.rst:112
 msgid "p21e_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:114
+#: ../../variable/Q275.rst:114
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:116
+#: ../../variable/Q275.rst:116
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:118
+#: ../../variable/Q275.rst:118
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:120
+#: ../../variable/Q275.rst:120
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q275.rst:122
+#: ../../variable/Q275.rst:122
 msgid "p26_1"
 msgstr ""
 
@@ -202,5 +202,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "＿＿万＿＿千円"
 #~ msgstr ""
 
