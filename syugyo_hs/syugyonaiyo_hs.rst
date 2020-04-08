@@ -7,7 +7,9 @@
 
    /variable/Q1047
    gensyoku_hs/gen_syokugyo_hs
-   gensyoku_hs/kaisya_zokusei_hs
+   勤務先の従業員数 </variable/Q216>
+   勤務先の業種 <gensyoku_hs/gyousyu_hs>
+   gensyoku_hs/kaisya_seturitu_hs 
    gensyoku_hs/syokumu_hs
    kyuyo_hs
    roudoujikan&kyuka_hs

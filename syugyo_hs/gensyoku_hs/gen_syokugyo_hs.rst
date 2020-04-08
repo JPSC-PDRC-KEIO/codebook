@@ -15,7 +15,7 @@
 
 
 .. csv-table::
-    :header: "", "第1～第3回", "第4回～"
+    :header: "", "第1回 |endash| 第3回", "第4回 |endash|"
     :widths: 5, 10, 10
 
      "変数名", ":doc:`Q215 </variable/Q215>`", ":doc:`Q860 </variable/Q860>`"
