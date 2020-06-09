@@ -4,47 +4,49 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-31 17:58+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-06-09 16:54+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #: ../../kaigo/index.rst:3
 msgid "介護について"
-msgstr ""
+msgstr "Caregiving"
 
 #: ../../kaigo/index.rst:7
 msgid "介護をしているか"
-msgstr ""
+msgstr "Have you provided nursing care to someone closely related to you?"
 
 #: ../../kaigo/index.rst:16
 msgid "介護しているのは誰か"
-msgstr ""
+msgstr "Who is the person (or who are the people) for whom you provide nursing care? If you provide nursing care to multiple people, please answer for those who are closest to you (up to three people)."
 
 #: ../../kaigo/index.rst:1
 msgid "続柄"
-msgstr ""
+msgstr "Relationship"
 
 #: ../../kaigo/index.rst:1
 msgid "住まい"
-msgstr ""
+msgstr "Residence"
 
 #: ../../kaigo/index.rst:1
 msgid "あなたが主な介護者か"
-msgstr ""
+msgstr "Are you the main care giver?"
 
 #: ../../kaigo/index.rst:1
 msgid "1人目"
-msgstr ""
+msgstr "Person1"
 
 #: ../../kaigo/index.rst:1
 msgid ":doc:`Q1220A_1 </variable/Q1220A_1>`"
@@ -60,7 +62,7 @@ msgstr ""
 
 #: ../../kaigo/index.rst:1
 msgid "2人目"
-msgstr ""
+msgstr "Person2"
 
 #: ../../kaigo/index.rst:1
 msgid ":doc:`Q1220A_2 </variable/Q1220A_2>`"
@@ -76,7 +78,7 @@ msgstr ""
 
 #: ../../kaigo/index.rst:1
 msgid "3人目"
-msgstr ""
+msgstr "Person3"
 
 #: ../../kaigo/index.rst:1
 msgid ":doc:`Q1220A_3 </variable/Q1220A_3>`"
@@ -92,85 +94,84 @@ msgstr ""
 
 #: ../../kaigo/index.rst:27
 msgid "コード表"
-msgstr ""
+msgstr "Code table"
 
 #: ../../kaigo/index.rst
 msgid "01 自分の父親"
-msgstr ""
+msgstr "01 Father"
 
 #: ../../kaigo/index.rst
 msgid "02 自分の母親"
-msgstr ""
+msgstr "02 Mother"
 
 #: ../../kaigo/index.rst
 msgid "03 自分の祖父母"
-msgstr ""
+msgstr "03 Grandfather/Ｇrandmother"
 
 #: ../../kaigo/index.rst
 msgid "04 配偶者"
-msgstr ""
+msgstr "04 Spouse"
 
 #: ../../kaigo/index.rst
 msgid "05 自分の兄弟姉妹"
-msgstr ""
+msgstr "05 Sibling"
 
 #: ../../kaigo/index.rst
 msgid "06 自分の子ども"
-msgstr ""
+msgstr "06 Child"
 
 #: ../../kaigo/index.rst
 msgid "07 配偶者の父親"
-msgstr ""
+msgstr "07 Spouse’s father"
 
 #: ../../kaigo/index.rst
 msgid "08 配偶者の母親"
-msgstr ""
+msgstr "08 Spouse’s mother"
 
 #: ../../kaigo/index.rst
 msgid "09 配偶者の兄弟姉妹"
-msgstr ""
+msgstr "09 Spouse’s sibling"
 
 #: ../../kaigo/index.rst
 msgid "10 配偶者の祖父母"
-msgstr ""
+msgstr "10 Spouse’s grandfather/grandmother"
 
 #: ../../kaigo/index.rst
 msgid "11 その他"
-msgstr ""
+msgstr "11 Other"
 
 #: ../../kaigo/index.rst
 msgid "21 あなたと同居"
-msgstr ""
+msgstr "21 Lives with me"
 
 #: ../../kaigo/index.rst
 msgid "22 別居（ひとり暮らし）"
-msgstr ""
+msgstr "22 Lives alone elsewhere"
 
 #: ../../kaigo/index.rst
 msgid "23 別居（夫婦のみ）"
-msgstr ""
+msgstr "23 Lives elsewhere with his/her spouse"
 
 #: ../../kaigo/index.rst
 msgid "24 別居（他の親族と同居）"
-msgstr ""
+msgstr "24 Lives elsewhere with family member(s) or relative(s)"
 
 #: ../../kaigo/index.rst
 msgid "25 施設や病院"
-msgstr ""
+msgstr "25 Lives at a care facility or hospital"
 
 #: ../../kaigo/index.rst
 msgid "26 その他"
-msgstr ""
+msgstr "26 Other"
 
 #: ../../kaigo/index.rst:50
 msgid "介護をしている時間"
-msgstr ""
+msgstr "Hours for caregiving"
 
 #: ../../kaigo/index.rst:59
 msgid "介護の負担感・不安感"
-msgstr ""
+msgstr "Burden and anxiety about caregiving"
 
 #: ../../kaigo/index.rst:66
 msgid "前回調査時から1年間に死亡した親の介護についての質問が「:doc:`/seikatsu_hendou/shibou/kaigo`」にありますのでご参照ください。"
-msgstr ""
-
+msgstr "Please refer to :doc:`/seikatsu_hendou/shibou/kaigo` question about nursing care for parents who died within one year since the last survey."
