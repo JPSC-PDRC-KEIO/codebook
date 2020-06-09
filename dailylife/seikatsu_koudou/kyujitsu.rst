@@ -21,13 +21,13 @@
 
 
 .. csv-table:: **休日の曜日**
-   :header: " ", "日曜日", "月曜日", "火曜日", "水曜日", "木曜日", "金曜日", "土曜日", "決まっていない", "仕事についていない"
-   :widths: 3, 1, 1, 1, 1, 1, 1, 1, 2, 2
+   :header: " ", "日曜日", "月曜日", "火曜日", "水曜日", "木曜日", "金曜日", "土曜日", "決まっていない"
+   :widths: 3, 1, 1, 1, 1, 1, 1, 1, 2
 
    "| 本人
-   | （有配偶・無配偶共通）", :doc:`Q499A </variable/Q499A>`, :doc:`Q499B </variable/Q499B>`, :doc:`Q499C </variable/Q499C>`, :doc:`Q499D </variable/Q499D>`, :doc:`Q499E </variable/Q499E>`, :doc:`Q499F </variable/Q499F>`, :doc:`Q499G </variable/Q499G>`, :doc:`Q499H </variable/Q499H>`, :doc:`Q497B </variable/Q497B>`
+   | （有配偶・無配偶共通）", :doc:`Q499A </variable/Q499A>`, :doc:`Q499B </variable/Q499B>`, :doc:`Q499C </variable/Q499C>`, :doc:`Q499D </variable/Q499D>`, :doc:`Q499E </variable/Q499E>`, :doc:`Q499F </variable/Q499F>`, :doc:`Q499G </variable/Q499G>`, :doc:`Q499H </variable/Q499H>`
    "| ご主人
-   | （有配偶のみ）",  :doc:`Q500A </variable/Q500A>`, :doc:`Q500B </variable/Q500B>`, :doc:`Q500C </variable/Q500C>`, :doc:`Q500D </variable/Q500D>`, :doc:`Q500E </variable/Q500E>`, :doc:`Q500F </variable/Q500F>`, :doc:`Q500G </variable/Q500G>`, :doc:`Q500H </variable/Q500H>`, :doc:`Q498B </variable/Q498B>`
+   | （有配偶のみ）",  :doc:`Q500A </variable/Q500A>`, :doc:`Q500B </variable/Q500B>`, :doc:`Q500C </variable/Q500C>`, :doc:`Q500D </variable/Q500D>`, :doc:`Q500E </variable/Q500E>`, :doc:`Q500F </variable/Q500F>`, :doc:`Q500G </variable/Q500G>`, :doc:`Q500H </variable/Q500H>`
 
 
 .. toctree::
