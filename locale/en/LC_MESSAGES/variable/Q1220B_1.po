@@ -22,7 +22,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1220B_1.rst:5
 msgid "介護について：誰を（1人目住まい）"
-msgstr "Care giving: The person who receive care (Residence of person1)"
+msgstr "Caregiving: The person who receive care (Residence of person1)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1220B_1.rst:9
 msgid "変数名"

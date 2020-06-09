@@ -22,7 +22,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1221.rst:5
 msgid "介護について：時間"
-msgstr "Care giving: Hours per week"
+msgstr "Caregiving: Hours per week"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1221.rst:9
 msgid "変数名"

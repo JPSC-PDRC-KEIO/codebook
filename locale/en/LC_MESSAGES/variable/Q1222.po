@@ -22,7 +22,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:5
 msgid "介護について：負担感"
-msgstr "Care giving: Feeling of burden"
+msgstr "Caregiving: Feeling of burden"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:9
 msgid "変数名"

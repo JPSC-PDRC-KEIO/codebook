@@ -22,7 +22,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1220A_3.rst:5
 msgid "介護について：誰を（3人目続柄）"
-msgstr "Care giving: The person who receives care (Relationship of person3)"
+msgstr "Caregiving: The person who receives care (Relationship of person3)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1220A_3.rst:9
 msgid "変数名"
