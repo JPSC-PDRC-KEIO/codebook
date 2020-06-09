@@ -1,30 +1,50 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# This file is distributed under the same license as the JPSC codebook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: JPSC codebook 0.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-31 17:58+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Project-Id-"
+"Version: JPSC "
+"codebook 0.1\n"
+"Report-Msgid-Bugs-"
+"To: \n"
+"POT-Creation-"
+"Date: 2020-05-30 "
+"14:10+0900\n"
+"PO-Revision-Date: "
+"2020-06-09 "
+"11:30+0900\n"
+"Language-Team: \n"
+"MIME-Version: "
+"1.0\n"
+"Content-Type: "
+"text/plain; "
+"charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"X-Generator: "
+"Poedit 2.3.1\n"
+"Last-"
+"Translator: \n"
+"Plural-Forms: "
+"nplurals=2; "
+"plural=(n != 1);\n"
+"Language: en\n"
 
 #: ../../variable/Q1019.rst:5
-msgid "育児サービス利用の有無"
+msgid ""
+"育児サービス利用の"
+"有無"
 msgstr ""
+"Use of child-care "
+"services"
 
 #: ../../variable/Q1019.rst:9
 msgid "変数名"
 msgstr ""
+"Variable name"
 
 #: ../../variable/Q1019.rst:11
 msgid "Q1019"
@@ -32,35 +52,72 @@ msgstr ""
 
 #: ../../variable/Q1019.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../variable/Q1019.rst:18
-msgid "（未就学のお子さんがいらっしゃる方へ）あなたは、そのお子さんのために認可保育所、無認可保育所、幼稚園、ベビーシッター・家政婦、親戚・知人などによる育児サービスを利用していますか。"
+msgid ""
+"（未就学のお子さん"
+"がいらっしゃる方"
+"へ）あなたは、その"
+"お子さんのために認"
+"可保育所、無認可保"
+"育所、幼稚園、ベ"
+"ビーシッター・家政"
+"婦、親戚・知人など"
+"による育児サービス"
+"を利用しています"
+"か。"
 msgstr ""
+"Do you use any "
+"child-care "
+"services for your "
+"child(ren) "
+"provided by an "
+"authorized "
+"nursery school, "
+"unauthorized "
+"nursery school, "
+"kindergarten, "
+"babysitter, "
+"housekeeper, your "
+"relatives, your "
+"friends, etc.?"
 
 #: ../../variable/Q1019.rst:24
-msgid "選択肢 / 記入欄"
+msgid ""
+"選択肢 / 記入欄"
 msgstr ""
+"Choices / Entry "
+"field"
 
 #: ../../variable/Q1019.rst:27
 msgid "利用している"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q1019.rst:29
-msgid "利用していない"
-msgstr ""
+msgid ""
+"利用していない"
+msgstr "No"
 
 #: ../../variable/Q1019.rst:36
-msgid "桁あふれコード"
+msgid ""
+"桁あふれコード"
 msgstr ""
+"Outside-code-"
+"range responses"
 
 #: ../../variable/Q1019.rst:42
-msgid "分類不能の回答コード"
+msgid ""
+"分類不能の回答コー"
+"ド"
 msgstr ""
+"Unclassifiable "
+"Response"
 
 #: ../../variable/Q1019.rst:48
 msgid "無回答コード"
 msgstr ""
+"Non-Response"
 
 #: ../../variable/Q1019.rst:49
 msgid "3"
@@ -68,11 +125,13 @@ msgstr ""
 
 #: ../../variable/Q1019.rst:54
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: ../../variable/Q1019.rst:60
+#, fuzzy
 msgid "収録シート"
 msgstr ""
+"Data files (csv)"
 
 #: ../../variable/Q1019.rst:65
 msgid "p10_4"
@@ -153,13 +212,3 @@ msgstr ""
 #: ../../variable/Q1019.rst:103
 msgid "p26_4"
 msgstr ""
-
-#~ msgid "変数名: Q1019"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-
-#~ msgid "あなたは、そのお子さんのために認可保育所、無認可保育所、幼稚園、ベビーシッター・家政婦、親戚・知人などによる育児サービスを利用していますか。"
-#~ msgstr ""
-
