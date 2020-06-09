@@ -1,94 +1,94 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# This file is distributed under the same license as the JPSC codebook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-31 17:58+0900\n"
-"PO-Revision-Date: 2020-06-09 14:57+0900\n"
-"Last-Translator: \n"
-"Language: en\n"
+"POT-Creation-Date: 2020-06-09 15:52+0900\n"
+"PO-Revision-Date: 2020-06-09 17:58+0900\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
 "X-Generator: Poedit 2.3.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja_JP\n"
 
-#: ../../index.rst:3
-msgid "JPSC コードブック"
-msgstr "JPSC code book"
-
-#: ../../index.rst:5
-msgid ""
-"このドキュメンテーションには、「消費生活に関するパネル調査」 "
-"（Japanese Panel Surveys of Consumers: JPSC）の 調査概要や提供データ"
-"に含まれる変数の説明などの情報が収録されています。 JPSCデータセットを"
-"利用、分析する際の資料としてご活用ください。"
-msgstr ""
-
-#: ../../index.rst:13
+#: /mnt/c/Users/JPSC/code_books/codebook/index.rst:17
+#: /mnt/c/Users/JPSC/code_books/codebook/index.rst:13
 msgid "調査について"
 msgstr "About the survey"
 
-#: ../../index.rst:14
+#: /mnt/c/Users/JPSC/code_books/codebook/index.rst:48
+#: /mnt/c/Users/JPSC/code_books/codebook/index.rst:42
+msgid "収録コンテンツ"
+msgstr "Contents"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/index.rst:3
+msgid "JPSC コードブック"
+msgstr "JPSC code book"
+
+#: /mnt/c/Users/JPSC/code_books/codebook/index.rst:5
 msgid ""
-"**調査対象者の構成、サンプリング方法の情報は**:|emspace| :doc:`gaiyo`"
+"このドキュメンテーションには、「消費生活に関するパネル"
+"調査」 （Japanese Panel Surveys of Consumers: JPSC）の "
+"調査概要や提供データに含まれる変数の説明などの情報が収"
+"録されています。 JPSCデータセットを利用、分析する際の資"
+"料としてご活用ください。"
+msgstr ""
+
+#: /mnt/c/Users/JPSC/code_books/codebook/index.rst:14
+msgid ""
+"**調査対象者の構成、サンプリング方法の情報は**:|"
+"emspace| :doc:`gaiyo`"
 msgstr "**About the JPSC sample**:|emspace| :doc:`gaiyo`"
 
-#: ../../index.rst:15
-msgid "**調査票を取得するには**:|emspace| :doc:`tyosahyo`"
-msgstr "**Get the questionnaires**:|emspace| :doc:`tyosahyo`"
+#: /mnt/c/Users/JPSC/code_books/codebook/index.rst:15
+msgid ""
+"**調査票を取得するには**:|emspace| :doc:`tyosahyo`"
+msgstr ""
+"**Get the questionnaires**:|emspace| :doc:`tyosahyo`"
 
-#: ../../index.rst:28
+#: /mnt/c/Users/JPSC/code_books/codebook/index.rst:28
 msgid "JPSC データ"
 msgstr "JPSC dataset"
 
-#: ../../index.rst:29
-msgid "**JPSCデータを貸りるには**:|emspace| :doc:`data_riyo`"
-msgstr "**Acquiring the data**:|emspace| :doc:`data_riyo`"
-
-#: ../../index.rst:30
+#: /mnt/c/Users/JPSC/code_books/codebook/index.rst:29
 msgid ""
-"**データの内容（収録ファイル、変数の命名法）**:|emspace| :doc:"
-"`id_panel/sheetEX`"
-msgstr "**Dealing with the data**:|emspace| :doc:`id_panel/sheetEX`"
+"**JPSCデータを貸りるには**:|emspace| :doc:`data_riyo`"
+msgstr ""
+"**Acquiring the data**:|emspace| :doc:`data_riyo`"
 
-#: ../../index.rst:41
-msgid "コードブックの利用にあたって"
-msgstr "Usage of this documentation"
+#: /mnt/c/Users/JPSC/code_books/codebook/index.rst:30
+msgid ""
+"**データの内容（収録ファイル、変数の命名法）**:|"
+"emspace| :doc:`id_panel/sheetEX`"
+msgstr ""
+"**Dealing with the data**:|emspace| :doc:`id_panel/"
+"sheetEX`"
 
-#: ../../index.rst:42
+#: /mnt/c/Users/JPSC/code_books/codebook/index.rst:43
 msgid "**はじめに**:|emspace| :doc:`riyo`"
 msgstr "**Getting started**:|emspace| :doc:`riyo`"
 
-#: ../../index.rst:43
-msgid "**用語がわからないときは**:|emspace| :doc:`glossary`"
-msgstr "**Getting meaning**:|emspace| :doc:`glossary`"
+#: /mnt/c/Users/JPSC/code_books/codebook/index.rst:44
+msgid ""
+"**対象者番号、調査回について**:|emspace| :doc:"
+"`id_panel/index`"
+msgstr ""
+"**Respondent IDs and waves**:|emspace| :doc:`id_panel/"
+"index`"
 
-#: ../../index.rst:44
-msgid "**データ、コードブックへの質問は**:|emspace| :doc:`contact`"
-msgstr "**Getting help**:|emspace| :doc:`contact`"
-
-#: ../../index.rst:57
-msgid "収録変数の一覧"
-msgstr "Variables"
-
-#: ../../index.rst:58
-msgid "**対象者番号、調査回について**:|emspace| :doc:`id_panel/index`"
-msgstr "**Respondent IDs and waves**:|emspace| :doc:`id_panel/index`"
-
-#: ../../index.rst:59
+#: /mnt/c/Users/JPSC/code_books/codebook/index.rst:45
 msgid "**主要調査項目について**:|emspace| :doc:`komoku`"
-msgstr "**Main topics in the survey**:|emspace| :doc:`komoku`"
+msgstr ""
+"**Main topics in the survey**:|emspace| :doc:`komoku`"
 
-#~ msgid "利用にあたって"
-#~ msgstr "Usage"
-
-#~ msgid "収録変数"
-#~ msgstr "Variables"
+#: /mnt/c/Users/JPSC/code_books/codebook/index.rst:46
+msgid ""
+"**用語がわからないときは**:|emspace| :doc:`glossary`"
+msgstr "**Getting meaning**:|emspace| :doc:`glossary`"
