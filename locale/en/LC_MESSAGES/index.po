@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-31 17:58+0900\n"
-"PO-Revision-Date: 2020-03-26 10:43+0900\n"
+"PO-Revision-Date: 2020-06-09 14:57+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #: ../../index.rst:3
 msgid "JPSC コードブック"
@@ -25,9 +26,10 @@ msgstr "JPSC code book"
 
 #: ../../index.rst:5
 msgid ""
-"このドキュメンテーションには、「消費生活に関するパネル調査」 （Japanese Panel Surveys of Consumers: "
-"JPSC）の 調査概要や提供データに含まれる変数の説明などの情報が収録されています。 "
-"JPSCデータセットを利用、分析する際の資料としてご活用ください。"
+"このドキュメンテーションには、「消費生活に関するパネル調査」 "
+"（Japanese Panel Surveys of Consumers: JPSC）の 調査概要や提供データ"
+"に含まれる変数の説明などの情報が収録されています。 JPSCデータセットを"
+"利用、分析する際の資料としてご活用ください。"
 msgstr ""
 
 #: ../../index.rst:13
@@ -35,7 +37,8 @@ msgid "調査について"
 msgstr "About the survey"
 
 #: ../../index.rst:14
-msgid "**調査対象者の構成、サンプリング方法の情報は**:|emspace| :doc:`gaiyo`"
+msgid ""
+"**調査対象者の構成、サンプリング方法の情報は**:|emspace| :doc:`gaiyo`"
 msgstr "**About the JPSC sample**:|emspace| :doc:`gaiyo`"
 
 #: ../../index.rst:15
@@ -51,7 +54,9 @@ msgid "**JPSCデータを貸りるには**:|emspace| :doc:`data_riyo`"
 msgstr "**Acquiring the data**:|emspace| :doc:`data_riyo`"
 
 #: ../../index.rst:30
-msgid "**データの内容（収録ファイル、変数の命名法）**:|emspace| :doc:`id_panel/sheetEX`"
+msgid ""
+"**データの内容（収録ファイル、変数の命名法）**:|emspace| :doc:"
+"`id_panel/sheetEX`"
 msgstr "**Dealing with the data**:|emspace| :doc:`id_panel/sheetEX`"
 
 #: ../../index.rst:41
@@ -64,7 +69,7 @@ msgstr "**Getting started**:|emspace| :doc:`riyo`"
 
 #: ../../index.rst:43
 msgid "**用語がわからないときは**:|emspace| :doc:`glossary`"
-msgstr "**Getting meaning**:|emspace| :doc:`riyo`"
+msgstr "**Getting meaning**:|emspace| :doc:`glossary`"
 
 #: ../../index.rst:44
 msgid "**データ、コードブックへの質問は**:|emspace| :doc:`contact`"
@@ -87,4 +92,3 @@ msgstr "**Main topics in the survey**:|emspace| :doc:`komoku`"
 
 #~ msgid "収録変数"
 #~ msgstr "Variables"
-
