@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-31 08:44+0900\n"
+"POT-Creation-Date: 2020-03-26 10:13+0900\n"
 "PO-Revision-Date: 2020-03-19 21:41+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -17,44 +17,44 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"Generated-By: Babel 2.4.0\n"
 
-#: ../../riyo.rst:3
+#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:3
 msgid "調査項目・変数の見つけ方"
 msgstr "How to find items"
 
-#: ../../riyo.rst:6
+#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:6
 msgid "どんな調査項目があるかを知りたい"
 msgstr ""
 
-#: ../../riyo.rst:8
+#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:8
 msgid ""
 "「 :doc:`komoku` 」 のページでは調査項目を分野別に階層構造で分類、整理しています [#]_ 。 "
 "関心のある分野についてどのような質問が収録されているかを俯瞰的、網羅的に知りたい場合は、 まず、:doc:`komoku` "
 "のページからその分野のデイレクトリをたどっていくとよいでしょう。"
 msgstr ""
 
-#: ../../riyo.rst:13
+#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:13
 msgid "特定の項目や変数名を調べたい"
 msgstr ""
 
-#: ../../riyo.rst:15
+#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:15
 msgid "特定の項目や変数についてピンポイントで調べたい場合は、そのキーワードや変数名（e.g. Q1）をサイドバーの検索窓に入力して検索してください。"
 msgstr ""
 
-#: ../../riyo.rst:16
+#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:16
 msgid ""
 "なお、質問の内容は同じでも、質問文のワーディングや選択肢のコードを変更した場合には、原則、変数名を変更しています。例えば、対象者本人の "
 ":doc:`syugyo/syugyojoutai` は、第2回調査で選択肢に変更を加えたため、変数名も変更されています。"
 msgstr ""
 
-#: ../../riyo.rst:17
+#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:17
 msgid ""
 "このように項目の変数名を変更しているものについては、変数名の変遷についての説明ページを原則として設けていますが、現段階ではまだ完全には網羅できてはいません。お使いになる変数が第何回の調査からデータに含まれているかは、各変数のページの"
 " :term:`収録シート` の項で確認できます。"
 msgstr ""
 
-#: ../../riyo.rst:21
+#: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:21
 msgid "調査項目の分類はJPSCの :doc:`調査票<tyosahyo>` に準拠していますが、調査票の構成と若干異なる箇所があります。"
 msgstr ""
 

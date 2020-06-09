@@ -1,202 +1,245 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# This file is distributed under the same license as the JPSC codebook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: JPSC codebook 0.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Project-Id-"
+"Version: JPSC "
+"codebook 0.1\n"
+"Report-Msgid-Bugs-"
+"To: \n"
+"POT-Creation-"
+"Date: 2020-05-30 "
+"14:10+0900\n"
+"PO-Revision-Date: "
+"2020-05-31 "
+"15:10+0900\n"
+"Language-Team: \n"
+"MIME-Version: "
+"1.0\n"
+"Content-Type: "
+"text/plain; "
+"charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"X-Generator: "
+"Poedit 2.3.1\n"
+"Last-"
+"Translator: \n"
+"Plural-Forms: "
+"nplurals=2; "
+"plural=(n != 1);\n"
+"Language: en\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:5
-msgid "結婚に向けた行動：その他"
+#: ../../variable/Q568I.rst:5
+msgid ""
+"結婚に向けた行動："
+"その他"
 msgstr ""
+"Steps taking "
+"toward marriage: "
+"Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:9
+#: ../../variable/Q568I.rst:9
 msgid "変数名"
 msgstr ""
+"Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:11
+#: ../../variable/Q568I.rst:11
 msgid "Q568I"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:15
+#: ../../variable/Q568I.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:18
-msgid "あなたは、この1年間（調査前年10月～調査年9月）に、結婚に向けた次のような行動をしましたか。（〇はいくつでも）"
+#: ../../variable/Q568I.rst:18
+msgid ""
+"あなたは、この1年"
+"間（調査前年10月～"
+"調査年9月）に、結"
+"婚に向けた次のよう"
+"な行動をしました"
+"か。（〇はいくつで"
+"も）"
 msgstr ""
+"Have you done "
+"taken any of the "
+"following steps "
+"toward getting "
+"married in the "
+"past year (from "
+"October of the "
+"previous year to "
+"survey year "
+"September)?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:21
+#: ../../variable/Q568I.rst:21
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:27
-msgid "選択肢 / 記入欄"
+#: ../../variable/Q568I.rst:27
+msgid ""
+"選択肢 / 記入欄"
 msgstr ""
+"Choices / Entry "
+"field"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:30
+#: ../../variable/Q568I.rst:30
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:32
+#: ../../variable/Q568I.rst:32
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:39
-msgid "桁あふれコード"
+#: ../../variable/Q568I.rst:39
+msgid ""
+"桁あふれコード"
 msgstr ""
+"Outside-code-"
+"range responses"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:45
-msgid "分類不能の回答コード"
+#: ../../variable/Q568I.rst:45
+msgid ""
+"分類不能の回答コー"
+"ド"
 msgstr ""
+"Unclassifiable "
+"Response"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:51
+#: ../../variable/Q568I.rst:51
 msgid "無回答コード"
 msgstr ""
+"Non-Response"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:52
+#: ../../variable/Q568I.rst:52
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:57
+#: ../../variable/Q568I.rst:57
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:63
+#: ../../variable/Q568I.rst:63
 msgid "収録シート"
 msgstr ""
+"Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:68
+#: ../../variable/Q568I.rst:68
 msgid "p2_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:70
+#: ../../variable/Q568I.rst:70
 msgid "p3_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:72
+#: ../../variable/Q568I.rst:72
 msgid "p4_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:74
+#: ../../variable/Q568I.rst:74
 msgid "p5a_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:76
+#: ../../variable/Q568I.rst:76
 msgid "p5b_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:78
+#: ../../variable/Q568I.rst:78
 msgid "p6_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:80
+#: ../../variable/Q568I.rst:80
 msgid "p7_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:82
+#: ../../variable/Q568I.rst:82
 msgid "p8_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:84
+#: ../../variable/Q568I.rst:84
 msgid "p9_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:86
+#: ../../variable/Q568I.rst:86
 msgid "p10_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:88
+#: ../../variable/Q568I.rst:88
 msgid "p11ab_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:90
+#: ../../variable/Q568I.rst:90
 msgid "p11c_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:92
+#: ../../variable/Q568I.rst:92
 msgid "p12_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:94
+#: ../../variable/Q568I.rst:94
 msgid "p13_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:96
+#: ../../variable/Q568I.rst:96
 msgid "p14_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:98
+#: ../../variable/Q568I.rst:98
 msgid "p15_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:100
+#: ../../variable/Q568I.rst:100
 msgid "p16abc_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:102
+#: ../../variable/Q568I.rst:102
 msgid "p16d_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:104
+#: ../../variable/Q568I.rst:104
 msgid "p17_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:106
+#: ../../variable/Q568I.rst:106
 msgid "p18_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:108
+#: ../../variable/Q568I.rst:108
 msgid "p19_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:110
+#: ../../variable/Q568I.rst:110
 msgid "p20_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:112
+#: ../../variable/Q568I.rst:112
 msgid "p21abcd_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:114
+#: ../../variable/Q568I.rst:114
 msgid "p21e_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:116
+#: ../../variable/Q568I.rst:116
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:118
+#: ../../variable/Q568I.rst:118
 msgid "p23_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:120
+#: ../../variable/Q568I.rst:120
 msgid "p24_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:122
+#: ../../variable/Q568I.rst:122
 msgid "p25_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q568I.rst:124
+#: ../../variable/Q568I.rst:124
 msgid "p26_3"
 msgstr ""
-
-#~ msgid "変数名: Q568I"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-

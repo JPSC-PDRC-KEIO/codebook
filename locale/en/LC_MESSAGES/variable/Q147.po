@@ -8,22 +8,25 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-31 08:44+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-31 17:58+0900\n"
+"PO-Revision-Date: 2020-05-24 17:55+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"Generated-By: Babel 2.6.0\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #: ../../variable/Q147.rst:5
 msgid "職務〔第1～第17回〕"
-msgstr ""
+msgstr "category of employee [1st wave - 17th wave]"
 
 #: ../../variable/Q147.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../variable/Q147.rst:11
 msgid "Q147"
@@ -35,7 +38,7 @@ msgstr "Question"
 
 #: ../../variable/Q147.rst:18
 msgid "あなたの職務は次のどれですか。"
-msgstr ""
+msgstr "What category of employee are you?"
 
 #: ../../variable/Q147.rst:24
 msgid "選択肢 / 記入欄"
@@ -51,7 +54,7 @@ msgstr "Part-time employee"
 
 #: ../../variable/Q147.rst:31
 msgid "嘱託・その他"
-msgstr ""
+msgstr "Fixed-term employee / other"
 
 #: ../../variable/Q147.rst:38
 msgid "桁あふれコード"
@@ -152,13 +155,3 @@ msgstr "p16d_1"
 #: ../../variable/Q147.rst:105
 msgid "p17_1"
 msgstr "p17_1"
-
-#~ msgid "変数名: Q147"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-
-#~ msgid "職務"
-#~ msgstr ""
-

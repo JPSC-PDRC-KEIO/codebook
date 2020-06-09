@@ -36,7 +36,7 @@ msgid "選択肢"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/suimin.rst:1
-msgid "時間　（＿＿時間）"
+msgid "時間　（＿ ＿ 時間）"
 msgstr "hours（＿＿hours）"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/suimin.rst:1

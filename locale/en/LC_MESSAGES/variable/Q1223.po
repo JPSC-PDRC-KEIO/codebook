@@ -4,27 +4,29 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-05-11 16:50+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:5
 msgid "介護についての不安"
-msgstr ""
+msgstr "Anxiety about caregiving"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:11
 msgid "Q1223"
@@ -32,47 +34,47 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:18
 msgid "今後の家族や近親者に対する介護に、どの程度不安を感じていますか。"
-msgstr ""
+msgstr "How worried are you about care that you will provide to your family member(s) and/or relative(s) in the future?"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Choices / Fields"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:27
 msgid "非常に不安である"
-msgstr ""
+msgstr "Very worried"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:29
 msgid "不安を感じている"
-msgstr ""
+msgstr "Worried"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:31
 msgid "少し不安を感じている"
-msgstr ""
+msgstr "A little worried"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:33
 msgid "不安を感じていない"
-msgstr ""
+msgstr "Not worried"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:35
 msgid "わからない"
-msgstr ""
+msgstr "Don’t know"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:42
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Outside-code-range responses"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:48
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable Response"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:54
 msgid "無回答コード"
-msgstr ""
+msgstr "Non-Response"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:55
 msgid "6"
@@ -80,11 +82,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:60
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:66
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:71
 msgid "p25_4"
@@ -92,11 +94,4 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1223.rst:73
 msgid "p26_4"
-msgstr ""
-
-#~ msgid "変数名: Q1223"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-
+msgstr "p26_4"

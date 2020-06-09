@@ -9,84 +9,96 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2020-03-31 17:58+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.6.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1214.rst:5
-msgid "現在介護をしているか"
+#: ../../variable/Q1214.rst:5
+msgid "増税延期への意見"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1214.rst:9
+#: ../../variable/Q1214.rst:9
 msgid "変数名"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1214.rst:11
+#: ../../variable/Q1214.rst:11
 msgid "Q1214"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1214.rst:15
+#: ../../variable/Q1214.rst:15
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1214.rst:18
-msgid "あなたは、現在、身近な人を介護していますか。"
+#: ../../variable/Q1214.rst:18
+msgid "消費税10％への増税が延期されていることについて、あなたはどう思いますか。（〇は一つだけ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1214.rst:24
+#: ../../variable/Q1214.rst:24
 msgid "選択肢 / 記入欄"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1214.rst:27
-msgid "現在している"
+#: ../../variable/Q1214.rst:27
+msgid "賛成"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1214.rst:29
-msgid "現在していない"
+#: ../../variable/Q1214.rst:29
+msgid "どちらかというと賛成"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1214.rst:36
+#: ../../variable/Q1214.rst:31
+msgid "どちらでもない"
+msgstr ""
+
+#: ../../variable/Q1214.rst:33
+msgid "どちらかというと反対"
+msgstr ""
+
+#: ../../variable/Q1214.rst:35
+msgid "反対"
+msgstr ""
+
+#: ../../variable/Q1214.rst:40
 msgid "桁あふれコード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1214.rst:37
+#: ../../variable/Q1214.rst:41
 msgid "998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1214.rst:42
+#: ../../variable/Q1214.rst:46
 msgid "分類不能の回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1214.rst:48
+#: ../../variable/Q1214.rst:52
 msgid "無回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1214.rst:49
-msgid "999"
+#: ../../variable/Q1214.rst:53
+msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1214.rst:54
+#: ../../variable/Q1214.rst:58
 msgid "備考"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1214.rst:60
+#: ../../variable/Q1214.rst:64
 msgid "収録シート"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1214.rst:65
+#: ../../variable/Q1214.rst:69
 msgid "p24_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1214.rst:67
+#: ../../variable/Q1214.rst:71
 msgid "p25_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1214.rst:69
+#: ../../variable/Q1214.rst:73
 msgid "p26_3"
 msgstr ""
 
@@ -118,5 +130,20 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "6"
+#~ msgstr ""
+
+#~ msgid "現在介護をしているか"
+#~ msgstr ""
+
+#~ msgid "あなたは、現在、身近な人を介護していますか。"
+#~ msgstr ""
+
+#~ msgid "現在している"
+#~ msgstr ""
+
+#~ msgid "現在していない"
+#~ msgstr ""
+
+#~ msgid "999"
 #~ msgstr ""
 

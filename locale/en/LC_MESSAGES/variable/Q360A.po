@@ -9,192 +9,192 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-31 08:44+0900\n"
+"POT-Creation-Date: 2020-02-04 16:39+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"Generated-By: Babel 2.4.0\n"
 
-#: ../../variable/Q360A.rst:5
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:5
 msgid "貯蓄目標額：遺産"
 msgstr ""
 
-#: ../../variable/Q360A.rst:9
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:9
 msgid "変数名"
 msgstr ""
 
-#: ../../variable/Q360A.rst:11
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:11
 msgid "Q360A"
 msgstr ""
 
-#: ../../variable/Q360A.rst:15
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:15
 msgid "質問文"
 msgstr ""
 
-#: ../../variable/Q360A.rst:18
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:18
 msgid "次に、（2）で「あり」とお答えいただいた貯蓄のそれぞれについて、どのくらいの貯蓄額を目標にしているかをご記入下さい。"
 msgstr ""
 
-#: ../../variable/Q360A.rst:21
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:21
 msgid "遺産として残すため"
 msgstr ""
 
-#: ../../variable/Q360A.rst:27
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:27
 msgid "選択肢 / 記入欄"
 msgstr ""
 
-#: ../../variable/Q360A.rst:29
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:29
 msgid "＿ 億 ＿ ＿ ＿ 0 万円"
 msgstr ""
 
-#: ../../variable/Q360A.rst:35
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:35
 msgid "桁あふれコード"
 msgstr ""
 
-#: ../../variable/Q360A.rst:36
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:36
 msgid "99998"
 msgstr ""
 
-#: ../../variable/Q360A.rst:41
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:41
 msgid "分類不能の回答コード"
 msgstr ""
 
-#: ../../variable/Q360A.rst:47
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:47
 msgid "無回答コード"
 msgstr ""
 
-#: ../../variable/Q360A.rst:48
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:48
 msgid "99999"
 msgstr ""
 
-#: ../../variable/Q360A.rst:53
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:53
 msgid "備考"
 msgstr ""
 
-#: ../../variable/Q360A.rst:59
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:59
 msgid "収録シート"
 msgstr ""
 
-#: ../../variable/Q360A.rst:64
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:64
 msgid "p1_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:66
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:66
 msgid "p2_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:68
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:68
 msgid "p3_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:70
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:70
 msgid "p4_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:72
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:72
 msgid "p5a_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:74
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:74
 msgid "p5b_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:76
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:76
 msgid "p6_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:78
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:78
 msgid "p7_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:80
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:80
 msgid "p8_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:82
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:82
 msgid "p9_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:84
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:84
 msgid "p10_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:86
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:86
 msgid "p11ab_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:88
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:88
 msgid "p11c_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:90
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:90
 msgid "p12_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:92
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:92
 msgid "p13_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:94
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:94
 msgid "p14_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:96
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:96
 msgid "p15_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:98
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:98
 msgid "p16abc_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:100
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:100
 msgid "p16d_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:102
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:102
 msgid "p17_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:104
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:104
 msgid "p18_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:106
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:106
 msgid "p19_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:108
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:108
 msgid "p20_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:110
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:110
 msgid "p21abcd_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:112
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:112
 msgid "p21e_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:114
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:114
 msgid "p22_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:116
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:116
 msgid "p23_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:118
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:118
 msgid "p24_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:120
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:120
 msgid "p25_2"
 msgstr ""
 
-#: ../../variable/Q360A.rst:122
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q360A.rst:122
 msgid "p26_2"
 msgstr ""
 
@@ -202,8 +202,5 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-
-#~ msgid "＿億＿＿＿0万円"
 #~ msgstr ""
 

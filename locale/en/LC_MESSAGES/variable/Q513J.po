@@ -1,174 +1,167 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# This file is distributed under the same license as the JPSC codebook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-05-30 14:10+0900\n"
+"PO-Revision-Date: 2020-06-02 09:40+0900\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 2.3.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:5
+#: ../../variable/Q513J.rst:5
 msgid "出産を望まない理由：子どもが嫌い（有配偶）"
-msgstr ""
+msgstr "Reasons for not to have child-birth (married): Don’t like children"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:9
+#: ../../variable/Q513J.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:11
+#: ../../variable/Q513J.rst:11
 msgid "Q513J"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:15
+#: ../../variable/Q513J.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:18
+#: ../../variable/Q513J.rst:18
 msgid "なぜ欲しくないのですか。（〇はいくつでも）"
-msgstr ""
+msgstr "Why don’t you want to have a child or another child?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:21
+#: ../../variable/Q513J.rst:21
 msgid "子どもが嫌いだから"
-msgstr ""
+msgstr "Because I don’t like children"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:27
+#: ../../variable/Q513J.rst:27
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Choices / Entry field"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:30
+#: ../../variable/Q513J.rst:30
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:32
+#: ../../variable/Q513J.rst:32
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:39
+#: ../../variable/Q513J.rst:39
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Outside-code-range responses"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:45
+#: ../../variable/Q513J.rst:45
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable Response"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:51
+#: ../../variable/Q513J.rst:51
 msgid "無回答コード"
-msgstr ""
+msgstr "Non-Response"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:52
+#: ../../variable/Q513J.rst:52
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:57
+#: ../../variable/Q513J.rst:57
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:63
+#: ../../variable/Q513J.rst:63
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:68
+#: ../../variable/Q513J.rst:68
 msgid "p2_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:70
+#: ../../variable/Q513J.rst:70
 msgid "p5a_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:72
+#: ../../variable/Q513J.rst:72
 msgid "p5b_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:74
+#: ../../variable/Q513J.rst:74
 msgid "p8_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:76
+#: ../../variable/Q513J.rst:76
 msgid "p11c_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:78
+#: ../../variable/Q513J.rst:78
 msgid "p12_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:80
+#: ../../variable/Q513J.rst:80
 msgid "p13_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:82
+#: ../../variable/Q513J.rst:82
 msgid "p14_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:84
+#: ../../variable/Q513J.rst:84
 msgid "p15_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:86
+#: ../../variable/Q513J.rst:86
 msgid "p16abc_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:88
+#: ../../variable/Q513J.rst:88
 msgid "p16d_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:90
+#: ../../variable/Q513J.rst:90
 msgid "p17_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:92
+#: ../../variable/Q513J.rst:92
 msgid "p18_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:94
+#: ../../variable/Q513J.rst:94
 msgid "p19_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:96
+#: ../../variable/Q513J.rst:96
 msgid "p20_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:98
+#: ../../variable/Q513J.rst:98
 msgid "p21abcd_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:100
+#: ../../variable/Q513J.rst:100
 msgid "p21e_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:102
+#: ../../variable/Q513J.rst:102
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:104
+#: ../../variable/Q513J.rst:104
 msgid "p23_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:106
+#: ../../variable/Q513J.rst:106
 msgid "p24_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:108
+#: ../../variable/Q513J.rst:108
 msgid "p25_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q513J.rst:110
+#: ../../variable/Q513J.rst:110
 msgid "p26_3"
 msgstr ""
-
-#~ msgid "変数名: Q513J"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-

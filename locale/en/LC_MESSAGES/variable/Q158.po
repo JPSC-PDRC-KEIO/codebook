@@ -4,19 +4,21 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-05-24 22:37+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:5
 msgid "勤務先の育児休業制度設立時期"
@@ -24,7 +26,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:11
 msgid "Q158"
@@ -32,7 +34,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:18
 msgid "あなたの勤めている会社等では、いつ育児休業制度が作られましたか。"
@@ -40,7 +42,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Choices / Entry field"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:27
 msgid "10年以上前"
@@ -64,19 +66,19 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:37
 msgid "わからない"
-msgstr ""
+msgstr "Don’t know"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:44
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Outside-code-range responses"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:50
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable Response"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:56
 msgid "無回答コード"
-msgstr ""
+msgstr "Non-Response"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:57
 msgid "7"
@@ -84,47 +86,40 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:62
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:68
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:73
 msgid "p2_1"
-msgstr ""
+msgstr "p2_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:75
 msgid "p5a_1"
-msgstr ""
+msgstr "p5a_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:77
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:79
 msgid "p6_1"
-msgstr ""
+msgstr "p6_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:81
 msgid "p7_1"
-msgstr ""
+msgstr "p7_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:83
 msgid "p8_1"
-msgstr ""
+msgstr "p8_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:85
 msgid "p9_1"
-msgstr ""
+msgstr "p9_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:87
 msgid "p10_1"
-msgstr ""
-
-#~ msgid "変数名: Q158"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-
+msgstr "p10_1"

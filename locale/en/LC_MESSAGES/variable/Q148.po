@@ -4,27 +4,29 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-19 15:52+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-05-24 21:11+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:5
 msgid "給与の支給方法"
-msgstr ""
+msgstr "How salary is paid"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:11
 msgid "Q148"
@@ -32,47 +34,47 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:18
 msgid "あなたの仕事の給与は、時給計算ですか、日給計算ですか。"
-msgstr ""
+msgstr "Are you paid monthly, weekly, daily, or hourly?"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Choices / Entry field"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:27
 msgid "月給"
-msgstr ""
+msgstr "Monthly"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:29
 msgid "週給"
-msgstr ""
+msgstr "Weekly"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:31
 msgid "日給"
-msgstr ""
+msgstr "Daily"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:33
 msgid "時給"
-msgstr ""
+msgstr "Hourly"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:35
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:42
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Outside-code-range responses"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:48
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable Response"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:54
 msgid "無回答コード"
-msgstr ""
+msgstr "Non-Response"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:55
 msgid "6"
@@ -80,11 +82,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:60
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:66
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:71
 msgid "p1_1"
@@ -205,13 +207,3 @@ msgstr ""
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q148.rst:129
 msgid "p26_1"
 msgstr ""
-
-#~ msgid "変数名: Q148"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-
-#~ msgid "その他（　　　　　）"
-#~ msgstr ""
-

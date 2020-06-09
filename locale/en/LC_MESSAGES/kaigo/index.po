@@ -1,0 +1,176 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-31 17:58+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../kaigo/index.rst:3
+msgid "介護について"
+msgstr ""
+
+#: ../../kaigo/index.rst:7
+msgid "介護をしているか"
+msgstr ""
+
+#: ../../kaigo/index.rst:16
+msgid "介護しているのは誰か"
+msgstr ""
+
+#: ../../kaigo/index.rst:1
+msgid "続柄"
+msgstr ""
+
+#: ../../kaigo/index.rst:1
+msgid "住まい"
+msgstr ""
+
+#: ../../kaigo/index.rst:1
+msgid "あなたが主な介護者か"
+msgstr ""
+
+#: ../../kaigo/index.rst:1
+msgid "1人目"
+msgstr ""
+
+#: ../../kaigo/index.rst:1
+msgid ":doc:`Q1220A_1 </variable/Q1220A_1>`"
+msgstr ""
+
+#: ../../kaigo/index.rst:1
+msgid ":doc:`Q1220B_1 </variable/Q1220B_1>`"
+msgstr ""
+
+#: ../../kaigo/index.rst:1
+msgid ":doc:`Q1220C_1 </variable/Q1220C_1>`"
+msgstr ""
+
+#: ../../kaigo/index.rst:1
+msgid "2人目"
+msgstr ""
+
+#: ../../kaigo/index.rst:1
+msgid ":doc:`Q1220A_2 </variable/Q1220A_2>`"
+msgstr ""
+
+#: ../../kaigo/index.rst:1
+msgid ":doc:`Q1220B_2 </variable/Q1220B_2>`"
+msgstr ""
+
+#: ../../kaigo/index.rst:1
+msgid ":doc:`Q1220C_1 </variable/Q1220C_2>`"
+msgstr ""
+
+#: ../../kaigo/index.rst:1
+msgid "3人目"
+msgstr ""
+
+#: ../../kaigo/index.rst:1
+msgid ":doc:`Q1220A_3 </variable/Q1220A_3>`"
+msgstr ""
+
+#: ../../kaigo/index.rst:1
+msgid ":doc:`Q1220B_3 </variable/Q1220B_3>`"
+msgstr ""
+
+#: ../../kaigo/index.rst:1
+msgid ":doc:`Q1220C_3 </variable/Q1220C_3>`"
+msgstr ""
+
+#: ../../kaigo/index.rst:27
+msgid "コード表"
+msgstr ""
+
+#: ../../kaigo/index.rst
+msgid "01 自分の父親"
+msgstr ""
+
+#: ../../kaigo/index.rst
+msgid "02 自分の母親"
+msgstr ""
+
+#: ../../kaigo/index.rst
+msgid "03 自分の祖父母"
+msgstr ""
+
+#: ../../kaigo/index.rst
+msgid "04 配偶者"
+msgstr ""
+
+#: ../../kaigo/index.rst
+msgid "05 自分の兄弟姉妹"
+msgstr ""
+
+#: ../../kaigo/index.rst
+msgid "06 自分の子ども"
+msgstr ""
+
+#: ../../kaigo/index.rst
+msgid "07 配偶者の父親"
+msgstr ""
+
+#: ../../kaigo/index.rst
+msgid "08 配偶者の母親"
+msgstr ""
+
+#: ../../kaigo/index.rst
+msgid "09 配偶者の兄弟姉妹"
+msgstr ""
+
+#: ../../kaigo/index.rst
+msgid "10 配偶者の祖父母"
+msgstr ""
+
+#: ../../kaigo/index.rst
+msgid "11 その他"
+msgstr ""
+
+#: ../../kaigo/index.rst
+msgid "21 あなたと同居"
+msgstr ""
+
+#: ../../kaigo/index.rst
+msgid "22 別居（ひとり暮らし）"
+msgstr ""
+
+#: ../../kaigo/index.rst
+msgid "23 別居（夫婦のみ）"
+msgstr ""
+
+#: ../../kaigo/index.rst
+msgid "24 別居（他の親族と同居）"
+msgstr ""
+
+#: ../../kaigo/index.rst
+msgid "25 施設や病院"
+msgstr ""
+
+#: ../../kaigo/index.rst
+msgid "26 その他"
+msgstr ""
+
+#: ../../kaigo/index.rst:50
+msgid "介護をしている時間"
+msgstr ""
+
+#: ../../kaigo/index.rst:59
+msgid "介護の負担感・不安感"
+msgstr ""
+
+#: ../../kaigo/index.rst:66
+msgid "前回調査時から1年間に死亡した親の介護についての質問が「:doc:`/seikatsu_hendou/shibou/kaigo`」にありますのでご参照ください。"
+msgstr ""
+

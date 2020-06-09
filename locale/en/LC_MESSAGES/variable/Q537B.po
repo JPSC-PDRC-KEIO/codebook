@@ -4,27 +4,29 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-05-30 16:59+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537B.rst:5
 msgid "受講先：職業訓練学校"
-msgstr ""
+msgstr "Schools attended: Occupational training school"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537B.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537B.rst:11
 msgid "Q537B"
@@ -32,31 +34,31 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537B.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537B.rst:18
 msgid "通ったのはどのような学校ですか。（通信教育を含む）（〇はいくつでも）"
-msgstr ""
+msgstr "What kind of courses have you taken? (Include correspondence courses)  (Circle as many as apply to you.)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537B.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Choices / Entry field"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537B.rst:26
 msgid "職業訓練学校"
-msgstr ""
+msgstr "Occupational training school"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537B.rst:32
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Outside-code-range responses"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537B.rst:38
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable Response"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537B.rst:44
 msgid "無回答コード"
-msgstr ""
+msgstr "Non-Response"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537B.rst:45
 msgid "3"
@@ -64,11 +66,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537B.rst:50
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537B.rst:56
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537B.rst:61
 msgid "p2_3"
@@ -149,10 +151,3 @@ msgstr ""
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537B.rst:99
 msgid "p26_3"
 msgstr ""
-
-#~ msgid "変数名: Q537B"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-

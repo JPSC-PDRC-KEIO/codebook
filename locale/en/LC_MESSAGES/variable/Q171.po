@@ -4,27 +4,29 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-05-25 23:07+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:5
 msgid "研修・講習会への参加日数"
-msgstr ""
+msgstr "Number of days participating in seminars or courses"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:11
 msgid "Q171"
@@ -32,51 +34,51 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:18
 msgid "この１年間（調査前年10月～調査年９月）に、すべて合わせて何日ぐらい研修会や講習会に参加しましたか。"
-msgstr ""
+msgstr "How many total days did you participate in seminars and courses in the past year (from October of the previous year to survey year September)?"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Choices / Entry field"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:27
 msgid "1日以内"
-msgstr ""
+msgstr "Within 1 day"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:29
 msgid "2日～5日"
-msgstr ""
+msgstr "2 to 5 days"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:31
 msgid "6日～10日"
-msgstr ""
+msgstr "6 to 10 days"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:33
 msgid "11日～20日"
-msgstr ""
+msgstr "11 to 20 days"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:35
 msgid "21日～30日"
-msgstr ""
+msgstr "21 to 30 days"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:37
 msgid "1ヵ月以上"
-msgstr ""
+msgstr "1 month or more"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:44
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Outside-code-range responses"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:50
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable Response"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:56
 msgid "無回答コード"
-msgstr ""
+msgstr "Non-Response"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:57
 msgid "7"
@@ -84,83 +86,83 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:62
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:68
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:73
 msgid "p2_1"
-msgstr ""
+msgstr "p2_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:75
 msgid "p3_1"
-msgstr ""
+msgstr "p3_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:77
 msgid "p4_1"
-msgstr ""
+msgstr "p4_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:79
 msgid "p5a_1"
-msgstr ""
+msgstr "p5a_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:81
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:83
 msgid "p6_1"
-msgstr ""
+msgstr "p6_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:85
 msgid "p7_1"
-msgstr ""
+msgstr "p7_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:87
 msgid "p8_1"
-msgstr ""
+msgstr "p8_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:89
 msgid "p9_1"
-msgstr ""
+msgstr "p9_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:91
 msgid "p10_1"
-msgstr ""
+msgstr "p10_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:93
 msgid "p11ab_1"
-msgstr ""
+msgstr "p11ab_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:95
 msgid "p11c_1"
-msgstr ""
+msgstr "p11c_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:97
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:99
 msgid "p13_1"
-msgstr ""
+msgstr "p13_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:101
 msgid "p14_1"
-msgstr ""
+msgstr "p14_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:103
 msgid "p15_1"
-msgstr ""
+msgstr "p15_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:105
 msgid "p16abc_1"
-msgstr ""
+msgstr "p16abc_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:107
 msgid "p16d_1"
-msgstr ""
+msgstr "p16d_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:109
 msgid "p17_1"
@@ -205,10 +207,3 @@ msgstr ""
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:129
 msgid "p26_1"
 msgstr ""
-
-#~ msgid "変数名: Q171"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-

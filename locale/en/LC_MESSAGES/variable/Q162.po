@@ -4,27 +4,29 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-19 15:52+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-05-24 22:41+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q162.rst:5
 msgid "勤務先の介護休業制度の有無"
-msgstr ""
+msgstr "Care leave system"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q162.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q162.rst:11
 msgid "Q162"
@@ -32,39 +34,39 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q162.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q162.rst:18
 msgid "あなたの勤めている会社等には「介護休業制度」がありますか。"
-msgstr ""
+msgstr "Does your current company or organization operate a “care leave system”?"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q162.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Choices / Entry field"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q162.rst:27
 msgid "ある"
-msgstr ""
+msgstr "Yes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q162.rst:29
 msgid "ない"
-msgstr ""
+msgstr "No"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q162.rst:31
 msgid "知らない"
-msgstr ""
+msgstr "Don’t know"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q162.rst:38
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Outside-code-range responses"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q162.rst:44
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable Response"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q162.rst:50
 msgid "無回答コード"
-msgstr ""
+msgstr "Non-Response"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q162.rst:51
 msgid "4"
@@ -72,23 +74,16 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q162.rst:56
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q162.rst:58
 msgid "|nt1| 詳しくはこちら（:doc:`/syugyo/jouken/kaigokyuka`）をご参照ください。"
-msgstr ""
+msgstr "|nt1| Please refer here（:doc:`/syugyo/jouken/kaigokyuka`）for details."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q162.rst:62
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q162.rst:67
 msgid "p2_1"
-msgstr ""
-
-#~ msgid "変数名: Q162"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-
+msgstr "p2_1"

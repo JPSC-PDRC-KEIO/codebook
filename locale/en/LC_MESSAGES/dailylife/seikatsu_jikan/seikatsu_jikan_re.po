@@ -34,7 +34,7 @@ msgid ""
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_re.rst:13
-msgid "単位は、＿＿時間＿0分"
+msgid "単位は、＿ ＿ 時間＿0分"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_re.rst:16
@@ -50,7 +50,7 @@ msgid "休日"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_re.rst:1
-msgid "＿＿時間"
+msgid "＿ ＿ 時間"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/seikatsu_jikan_re.rst:1

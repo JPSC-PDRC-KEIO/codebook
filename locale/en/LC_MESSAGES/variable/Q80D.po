@@ -9,168 +9,168 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2020-03-31 17:58+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.6.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:5
+#: ../../variable/Q80D.rst:5
 msgid "育児時間の利用時間数"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:9
+#: ../../variable/Q80D.rst:9
 msgid "変数名"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:11
+#: ../../variable/Q80D.rst:11
 msgid "Q80D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:15
+#: ../../variable/Q80D.rst:15
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:18
+#: ../../variable/Q80D.rst:18
 msgid "あなたは、育児時間をどのくらい利用しましたか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:24
+#: ../../variable/Q80D.rst:24
 msgid "選択肢 / 記入欄"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:26
-msgid "毎日＿時間"
+#: ../../variable/Q80D.rst:26
+msgid "毎日 ＿ 時間"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:32
+#: ../../variable/Q80D.rst:32
 msgid "桁あふれコード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:33
+#: ../../variable/Q80D.rst:33
 msgid "8"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:38
+#: ../../variable/Q80D.rst:38
 msgid "分類不能の回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:44
+#: ../../variable/Q80D.rst:44
 msgid "無回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:45
+#: ../../variable/Q80D.rst:45
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:50
+#: ../../variable/Q80D.rst:50
 msgid "備考"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:56
+#: ../../variable/Q80D.rst:56
 msgid "収録シート"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:61
+#: ../../variable/Q80D.rst:61
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:63
+#: ../../variable/Q80D.rst:63
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:65
+#: ../../variable/Q80D.rst:65
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:67
+#: ../../variable/Q80D.rst:67
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:69
+#: ../../variable/Q80D.rst:69
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:71
+#: ../../variable/Q80D.rst:71
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:73
+#: ../../variable/Q80D.rst:73
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:75
+#: ../../variable/Q80D.rst:75
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:77
+#: ../../variable/Q80D.rst:77
 msgid "p10_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:79
+#: ../../variable/Q80D.rst:79
 msgid "p11ab_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:81
+#: ../../variable/Q80D.rst:81
 msgid "p12_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:83
+#: ../../variable/Q80D.rst:83
 msgid "p13_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:85
+#: ../../variable/Q80D.rst:85
 msgid "p14_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:87
+#: ../../variable/Q80D.rst:87
 msgid "p15_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:89
+#: ../../variable/Q80D.rst:89
 msgid "p16abc_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:91
+#: ../../variable/Q80D.rst:91
 msgid "p17_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:93
+#: ../../variable/Q80D.rst:93
 msgid "p18_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:95
+#: ../../variable/Q80D.rst:95
 msgid "p19_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:97
+#: ../../variable/Q80D.rst:97
 msgid "p20_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:99
+#: ../../variable/Q80D.rst:99
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:101
+#: ../../variable/Q80D.rst:101
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:103
+#: ../../variable/Q80D.rst:103
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:105
+#: ../../variable/Q80D.rst:105
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:107
+#: ../../variable/Q80D.rst:107
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q80D.rst:109
+#: ../../variable/Q80D.rst:109
 msgid "p26_1"
 msgstr ""
 
@@ -178,5 +178,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "毎日＿時間"
 #~ msgstr ""
 

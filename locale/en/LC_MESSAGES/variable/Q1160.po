@@ -9,116 +9,120 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2020-03-31 17:58+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.6.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:5
+#: ../../variable/Q1160.rst:5
 msgid "子育て費用への公的支援への希望"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:9
+#: ../../variable/Q1160.rst:9
 msgid "変数名"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:11
+#: ../../variable/Q1160.rst:11
 msgid "Q1160"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:15
+#: ../../variable/Q1160.rst:15
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:18
+#: ../../variable/Q1160.rst:18
 msgid "子どもの養育・教育費負担を緩和するためにはいろいろな公的支援の方法が考えられますが、あなたは次のどの方法がよいと思いますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:24
+#: ../../variable/Q1160.rst:24
 msgid "選択肢 / 記入欄"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:27
-msgid "子ども手当のような現金給付"
+#: ../../variable/Q1160.rst:27
+msgid "「児童手当」のような現金給付"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:29
+#: ../../variable/Q1160.rst:29
 msgid "税制上の優遇(扶養控除など)"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:31
+#: ../../variable/Q1160.rst:31
 msgid "保育園や幼稚園、学校などの教育費の負担軽減あるいは無償化"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:33
+#: ../../variable/Q1160.rst:33
 msgid "保育・教育のための施設の拡充"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:35
+#: ../../variable/Q1160.rst:35
 msgid "どんな方法も必要ない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:42
+#: ../../variable/Q1160.rst:42
 msgid "桁あふれコード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:48
+#: ../../variable/Q1160.rst:48
 msgid "分類不能の回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:54
+#: ../../variable/Q1160.rst:54
 msgid "無回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:55
+#: ../../variable/Q1160.rst:55
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:60
+#: ../../variable/Q1160.rst:60
 msgid "備考"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:66
+#: ../../variable/Q1160.rst:62
+msgid "「児童手当」の名称は、2010年から2013年までは「子ども手当」と変更されていました。"
+msgstr ""
+
+#: ../../variable/Q1160.rst:66
 msgid "収録シート"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:71
+#: ../../variable/Q1160.rst:71
 msgid "p19_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:73
+#: ../../variable/Q1160.rst:73
 msgid "p20_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:75
+#: ../../variable/Q1160.rst:75
 msgid "p21abcd_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:77
+#: ../../variable/Q1160.rst:77
 msgid "p21e_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:79
+#: ../../variable/Q1160.rst:79
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:81
+#: ../../variable/Q1160.rst:81
 msgid "p23_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:83
+#: ../../variable/Q1160.rst:83
 msgid "p24_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:85
+#: ../../variable/Q1160.rst:85
 msgid "p25_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1160.rst:87
+#: ../../variable/Q1160.rst:87
 msgid "p26_3"
 msgstr ""
 
@@ -126,5 +130,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "子ども手当のような現金給付"
 #~ msgstr ""
 

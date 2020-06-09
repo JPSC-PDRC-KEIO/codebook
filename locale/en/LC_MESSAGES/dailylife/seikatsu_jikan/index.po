@@ -44,7 +44,7 @@ msgstr ""
 "off, choose the most important of the two."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/index.rst:13
-msgid "単位は、＿＿時間＿0分"
+msgid "単位は、＿ ＿ 時間＿0分"
 msgstr "Time unit is ＿＿hours＿0 minutes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/index.rst:16
@@ -73,7 +73,7 @@ msgid "休日"
 msgstr "Day off"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/index.rst:1
-msgid "＿＿時間"
+msgid "＿ ＿ 時間"
 msgstr "＿＿ hours"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_jikan/index.rst:1

@@ -120,7 +120,7 @@ msgstr ""
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
 
-#~ msgid "＿＿時間"
+#~ msgid "＿ ＿ 時間"
 #~ msgstr ""
 
 #~ msgid "98"

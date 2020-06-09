@@ -1,30 +1,37 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# This file is distributed under the same license as the JPSC codebook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: JPSC codebook 0.1\n"
+"Project-Id-Version: JPSC codebook "
+"0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-31 08:44+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-05-30 "
+"14:10+0900\n"
+"PO-Revision-Date: 2020-06-01 "
+"09:20+0900\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; "
+"charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"X-Generator: Poedit 2.3.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n !"
+"= 1);\n"
+"Language: en\n"
 
 #: ../../variable/Q494BH.rst:5
 msgid "生活時間：仕事／時間（休日）"
 msgstr ""
+"Time spending per day: For work / "
+"hours (day off)"
 
 #: ../../variable/Q494BH.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../variable/Q494BH.rst:11
 msgid "Q494BH"
@@ -32,33 +39,43 @@ msgstr ""
 
 #: ../../variable/Q494BH.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../variable/Q494BH.rst:18
 msgid ""
-"日常の生活行動を次の６つに分けた場合、通常の平日、休日にそれぞれ合計でおおよそ何時間費やしていますか。 "
-"あなたの場合とご主人の場合についてお答え下さい。"
+"日常の生活行動を次の６つに分けた場合、"
+"通常の平日、休日にそれぞれ合計でおおよ"
+"そ何時間費やしていますか。 あなたの場"
+"合とご主人の場合についてお答え下さい。"
 msgstr ""
+"How many hours do you spend in total "
+"per workday and per day off for each "
+"of 6 activities listed below?"
 
 #: ../../variable/Q494BH.rst:19
-msgid "同時に複数のことをした場合は、主なもののほうでお答え下さい。"
+msgid ""
+"同時に複数のことをした場合は、主なもの"
+"のほうでお答え下さい。"
 msgstr ""
+"If you do two or more activities on "
+"weekdays or days off, choose the most "
+"important of the two."
 
 #: ../../variable/Q494BH.rst:22
 msgid "仕事／時間（休日）"
-msgstr ""
+msgstr "For work / hours (day off)"
 
 #: ../../variable/Q494BH.rst:28
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Choices / Entry field"
 
 #: ../../variable/Q494BH.rst:30
 msgid "＿ ＿ 時間"
-msgstr ""
+msgstr "＿ ＿ hours"
 
 #: ../../variable/Q494BH.rst:36
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Outside-code-range responses"
 
 #: ../../variable/Q494BH.rst:37
 msgid "98"
@@ -66,11 +83,11 @@ msgstr ""
 
 #: ../../variable/Q494BH.rst:42
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable Response"
 
 #: ../../variable/Q494BH.rst:48
 msgid "無回答コード"
-msgstr ""
+msgstr "Non-Response"
 
 #: ../../variable/Q494BH.rst:49
 msgid "99"
@@ -78,11 +95,11 @@ msgstr ""
 
 #: ../../variable/Q494BH.rst:54
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: ../../variable/Q494BH.rst:60
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: ../../variable/Q494BH.rst:65
 msgid "p1_3"
@@ -203,18 +220,3 @@ msgstr ""
 #: ../../variable/Q494BH.rst:123
 msgid "p26_3"
 msgstr ""
-
-#~ msgid "変数名: Q494BH"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "日常の生活行動を次の６つに分けた場合、通常の平日、休日にそれぞれ合計でおおよそ何時間費やしていますか。 "
-#~ "あなたの場合とご主人の場合についてお答え下さい。 同時に複数のことをした場合は、主なもののほうでお答え下さい。"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-
-#~ msgid "＿＿時間"
-#~ msgstr ""
-

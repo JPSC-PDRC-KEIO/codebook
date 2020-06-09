@@ -1,182 +1,226 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# This file is distributed under the same license as the JPSC codebook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: JPSC codebook 0.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Project-Id-"
+"Version: JPSC "
+"codebook 0.1\n"
+"Report-Msgid-Bugs-"
+"To: \n"
+"POT-Creation-"
+"Date: 2020-05-30 "
+"14:10+0900\n"
+"PO-Revision-Date: "
+"2020-06-01 "
+"10:36+0900\n"
+"Language-Team: \n"
+"MIME-Version: "
+"1.0\n"
+"Content-Type: "
+"text/plain; "
+"charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"X-Generator: "
+"Poedit 2.3.1\n"
+"Last-"
+"Translator: \n"
+"Plural-Forms: "
+"nplurals=2; "
+"plural=(n != 1);\n"
+"Language: en\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:5
-msgid "週の休日数（無職）"
+#: ../../variable/Q497B.rst:5
+msgid ""
+"週の休日数（無職）"
 msgstr ""
+"Number of days "
+"off per week "
+"(unemployed)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:9
+#: ../../variable/Q497B.rst:9
 msgid "変数名"
 msgstr ""
+"Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:11
+#: ../../variable/Q497B.rst:11
 msgid "Q497B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:15
+#: ../../variable/Q497B.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:18
-msgid "あなた（とご主人）は１週間に何日休みの日がありますか。（週2日休みの場合は、2.0とお答えください。隔週の休みは0.5と換算してください。）"
+#: ../../variable/Q497B.rst:18
+msgid ""
+"あなた（とご主人）"
+"は１週間に何日休み"
+"の日がありますか。"
+"（週2日休みの場合"
+"は、2.0とお答えく"
+"ださい。隔週の休み"
+"は0.5と換算してく"
+"ださい。）"
 msgstr ""
+"How many days off "
+"do you or your "
+"husband have a "
+"week? (Count a "
+"day off every 2 "
+"weeks as a half "
+"day and enter it "
+"as 0.5.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:21
-msgid "x 仕事に就いていない"
+#: ../../variable/Q497B.rst:21
+msgid ""
+"x 仕事に就いていな"
+"い"
 msgstr ""
+"x Unemployed"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:27
-msgid "選択肢 / 記入欄"
+#: ../../variable/Q497B.rst:27
+msgid ""
+"選択肢 / 記入欄"
 msgstr ""
+"Choices / Entry "
+"field"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:29
+#: ../../variable/Q497B.rst:29
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:35
-msgid "桁あふれコード"
+#: ../../variable/Q497B.rst:35
+msgid ""
+"桁あふれコード"
 msgstr ""
+"Outside-code-"
+"range responses"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:41
-msgid "分類不能の回答コード"
+#: ../../variable/Q497B.rst:41
+msgid ""
+"分類不能の回答コー"
+"ド"
 msgstr ""
+"Unclassifiable "
+"Response"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:47
+#: ../../variable/Q497B.rst:47
 msgid "無回答コード"
 msgstr ""
+"Non-Response"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:48
+#: ../../variable/Q497B.rst:48
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:53
+#: ../../variable/Q497B.rst:53
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:59
+#: ../../variable/Q497B.rst:59
 msgid "収録シート"
 msgstr ""
+"Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:64
+#: ../../variable/Q497B.rst:64
 msgid "p2_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:66
+#: ../../variable/Q497B.rst:66
 msgid "p3_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:68
+#: ../../variable/Q497B.rst:68
 msgid "p4_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:70
+#: ../../variable/Q497B.rst:70
 msgid "p5a_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:72
+#: ../../variable/Q497B.rst:72
 msgid "p5b_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:74
+#: ../../variable/Q497B.rst:74
 msgid "p6_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:76
+#: ../../variable/Q497B.rst:76
 msgid "p7_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:78
+#: ../../variable/Q497B.rst:78
 msgid "p8_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:80
+#: ../../variable/Q497B.rst:80
 msgid "p9_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:82
+#: ../../variable/Q497B.rst:82
 msgid "p10_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:84
+#: ../../variable/Q497B.rst:84
 msgid "p14_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:86
+#: ../../variable/Q497B.rst:86
 msgid "p15_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:88
+#: ../../variable/Q497B.rst:88
 msgid "p16abc_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:90
+#: ../../variable/Q497B.rst:90
 msgid "p16d_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:92
+#: ../../variable/Q497B.rst:92
 msgid "p17_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:94
+#: ../../variable/Q497B.rst:94
 msgid "p18_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:96
+#: ../../variable/Q497B.rst:96
 msgid "p19_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:98
+#: ../../variable/Q497B.rst:98
 msgid "p20_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:100
+#: ../../variable/Q497B.rst:100
 msgid "p21abcd_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:102
+#: ../../variable/Q497B.rst:102
 msgid "p21e_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:104
+#: ../../variable/Q497B.rst:104
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:106
+#: ../../variable/Q497B.rst:106
 msgid "p23_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:108
+#: ../../variable/Q497B.rst:108
 msgid "p24_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:110
+#: ../../variable/Q497B.rst:110
 msgid "p25_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q497B.rst:112
+#: ../../variable/Q497B.rst:112
 msgid "p26_3"
 msgstr ""
-
-#~ msgid "変数名: Q497B"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-

@@ -9,84 +9,84 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2020-03-31 17:58+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.6.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1190A.rst:5
+#: ../../variable/Q1190A.rst:5
 msgid "消費税8％への対応（子どもがいる人）：子どもの教育費の見直し"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1190A.rst:9
+#: ../../variable/Q1190A.rst:9
 msgid "変数名"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1190A.rst:11
+#: ../../variable/Q1190A.rst:11
 msgid "Q1190A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1190A.rst:15
+#: ../../variable/Q1190A.rst:15
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1190A.rst:18
-msgid "18歳以下のお子さんのいらっしゃる方にお聞きします。消費税率の引き上げによってお宅ではどのような対応をしましたか。消費税8％引き上げ時と現在の各時点についてお考えください。（それぞれ〇は１つずつ）"
+#: ../../variable/Q1190A.rst:18
+msgid "（18歳以下のお子さんのいらっしゃる方にお聞きします。）消費税率の引き上げによってお宅ではどのような対応をしましたか。消費税8％引き上げ時と現在の各時点についてお考えください。（それぞれ〇は１つずつ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1190A.rst:21
+#: ../../variable/Q1190A.rst:21
 msgid "子供の教育費（学校・塾・習い事など）の見直し"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1190A.rst:27
+#: ../../variable/Q1190A.rst:27
 msgid "選択肢 / 記入欄"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1190A.rst:30
+#: ../../variable/Q1190A.rst:30
 msgid "やった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1190A.rst:32
+#: ../../variable/Q1190A.rst:32
 msgid "やらなかった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1190A.rst:39
+#: ../../variable/Q1190A.rst:39
 msgid "桁あふれコード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1190A.rst:40
+#: ../../variable/Q1190A.rst:40
 msgid "8"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1190A.rst:45
+#: ../../variable/Q1190A.rst:45
 msgid "分類不能の回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1190A.rst:51
+#: ../../variable/Q1190A.rst:51
 msgid "無回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1190A.rst:52
+#: ../../variable/Q1190A.rst:52
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1190A.rst:57
+#: ../../variable/Q1190A.rst:57
 msgid "備考"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1190A.rst:63
+#: ../../variable/Q1190A.rst:63
 msgid "収録シート"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1190A.rst:68
+#: ../../variable/Q1190A.rst:68
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1190A.rst:70
+#: ../../variable/Q1190A.rst:70
 msgid "p23_3"
 msgstr ""
 
@@ -94,5 +94,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "18歳以下のお子さんのいらっしゃる方にお聞きします。消費税率の引き上げによってお宅ではどのような対応をしましたか。消費税8％引き上げ時と現在の各時点についてお考えください。（それぞれ〇は１つずつ）"
 #~ msgstr ""
 

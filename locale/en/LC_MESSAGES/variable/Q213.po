@@ -9,196 +9,196 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-31 08:44+0900\n"
+"POT-Creation-Date: 2020-03-19 15:52+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"Generated-By: Babel 2.4.0\n"
 
-#: ../../variable/Q213.rst:5
-msgid "配偶者の就業状態 [第2回 |endash| ]"
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:5
+msgid "配偶者の就業状態〔第2回～〕"
 msgstr ""
 
-#: ../../variable/Q213.rst:9
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:9
 msgid "変数名"
 msgstr ""
 
-#: ../../variable/Q213.rst:11
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:11
 msgid "Q213"
 msgstr ""
 
-#: ../../variable/Q213.rst:15
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:15
 msgid "質問文"
 msgstr ""
 
-#: ../../variable/Q213.rst:18
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:18
 msgid "あなたのご主人は現在、仕事についていますか。"
 msgstr ""
 
-#: ../../variable/Q213.rst:24
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:24
 msgid "選択肢 / 記入欄"
 msgstr ""
 
-#: ../../variable/Q213.rst:27
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:27
 msgid "仕事についている"
 msgstr ""
 
-#: ../../variable/Q213.rst:29
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:29
 msgid "休職中（仕事から離れているが元の仕事に戻ることになっている状態）"
 msgstr ""
 
-#: ../../variable/Q213.rst:31
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:31
 msgid "学生"
 msgstr ""
 
-#: ../../variable/Q213.rst:33
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:33
 msgid "その他の無職"
 msgstr ""
 
-#: ../../variable/Q213.rst:40
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:40
 msgid "桁あふれコード"
 msgstr ""
 
-#: ../../variable/Q213.rst:46
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:46
 msgid "分類不能の回答コード"
 msgstr ""
 
-#: ../../variable/Q213.rst:52
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:52
 msgid "無回答コード"
 msgstr ""
 
-#: ../../variable/Q213.rst:53
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:53
 msgid "5"
 msgstr ""
 
-#: ../../variable/Q213.rst:58
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:58
 msgid "備考"
 msgstr ""
 
-#: ../../variable/Q213.rst:60
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:60
 msgid "|nt1| 詳しくはこちら（:doc:`/syugyo_hs/syugyojoutai_hs`）をご参照ください。"
 msgstr ""
 
-#: ../../variable/Q213.rst:64
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:64
 msgid "収録シート"
 msgstr ""
 
-#: ../../variable/Q213.rst:69
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:69
 msgid "p2_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:71
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:71
 msgid "p3_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:73
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:73
 msgid "p4_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:75
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:75
 msgid "p5a_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:77
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:77
 msgid "p5b_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:79
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:79
 msgid "p6_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:81
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:81
 msgid "p7_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:83
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:83
 msgid "p8_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:85
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:85
 msgid "p9_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:87
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:87
 msgid "p10_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:89
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:89
 msgid "p11ab_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:91
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:91
 msgid "p11c_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:93
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:93
 msgid "p12_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:95
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:95
 msgid "p13_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:97
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:97
 msgid "p14_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:99
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:99
 msgid "p15_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:101
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:101
 msgid "p16abc_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:103
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:103
 msgid "p16d_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:105
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:105
 msgid "p17_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:107
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:107
 msgid "p18_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:109
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:109
 msgid "p19_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:111
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:111
 msgid "p20_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:113
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:113
 msgid "p21abcd_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:115
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:115
 msgid "p21e_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:117
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:117
 msgid "p22_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:119
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:119
 msgid "p23_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:121
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:121
 msgid "p24_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:123
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:123
 msgid "p25_1"
 msgstr ""
 
-#: ../../variable/Q213.rst:125
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q213.rst:125
 msgid "p26_1"
 msgstr ""
 
@@ -206,8 +206,5 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-
-#~ msgid "配偶者の就業状態〔第2回～〕"
 #~ msgstr ""
 

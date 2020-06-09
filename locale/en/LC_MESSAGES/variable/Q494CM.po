@@ -1,218 +1,225 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# This file is distributed under the same license as the JPSC codebook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: JPSC codebook 0.1\n"
+"Project-Id-Version: JPSC codebook "
+"0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-05-30 "
+"14:10+0900\n"
+"PO-Revision-Date: 2020-06-01 "
+"09:21+0900\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; "
+"charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 2.3.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n !"
+"= 1);\n"
+"Language: en\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:5
+#: ../../variable/Q494CM.rst:5
 msgid "生活時間：勉学／分（休日）"
 msgstr ""
+"Time spending per day: For schoolwork "
+"(studies) / minutes (day off)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:9
+#: ../../variable/Q494CM.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:11
+#: ../../variable/Q494CM.rst:11
 msgid "Q494CM"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:15
+#: ../../variable/Q494CM.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:18
+#: ../../variable/Q494CM.rst:18
 msgid ""
-"日常の生活行動を次の６つに分けた場合、通常の平日、休日にそれぞれ合計でおおよそ何時間費やしていますか。 "
-"あなたの場合とご主人の場合についてお答え下さい。（10分単位でご記入下さい）"
+"日常の生活行動を次の６つに分けた場合、"
+"通常の平日、休日にそれぞれ合計でおおよ"
+"そ何時間費やしていますか。 あなたの場"
+"合とご主人の場合についてお答え下さい。"
+"（10分単位でご記入下さい）"
 msgstr ""
+"How many hours do you spend in total "
+"per workday and per day off for each "
+"of 6 activities listed below?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:19
-msgid "同時に複数のことをした場合は、主なもののほうでお答え下さい。"
+#: ../../variable/Q494CM.rst:19
+msgid ""
+"同時に複数のことをした場合は、主なもの"
+"のほうでお答え下さい。"
 msgstr ""
+"If you do two or more activities on "
+"weekdays or days off, choose the most "
+"important of the two."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:22
+#: ../../variable/Q494CM.rst:22
 msgid "勉学／分（休日）"
 msgstr ""
+"For schoolwork (studies) / minutes "
+"(day off)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:28
+#: ../../variable/Q494CM.rst:28
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Choices / Entry field"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:30
+#: ../../variable/Q494CM.rst:30
 msgid "＿0分"
-msgstr ""
+msgstr "＿ 0 minutes"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:36
+#: ../../variable/Q494CM.rst:36
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Outside-code-range responses"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:37
+#: ../../variable/Q494CM.rst:37
 msgid "8"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:42
+#: ../../variable/Q494CM.rst:42
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable Response"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:48
+#: ../../variable/Q494CM.rst:48
 msgid "無回答コード"
-msgstr ""
+msgstr "Non-Response"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:49
+#: ../../variable/Q494CM.rst:49
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:54
+#: ../../variable/Q494CM.rst:54
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:60
+#: ../../variable/Q494CM.rst:60
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:65
+#: ../../variable/Q494CM.rst:65
 msgid "p1_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:67
+#: ../../variable/Q494CM.rst:67
 msgid "p2_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:69
+#: ../../variable/Q494CM.rst:69
 msgid "p3_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:71
+#: ../../variable/Q494CM.rst:71
 msgid "p4_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:73
+#: ../../variable/Q494CM.rst:73
 msgid "p5a_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:75
+#: ../../variable/Q494CM.rst:75
 msgid "p5b_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:77
+#: ../../variable/Q494CM.rst:77
 msgid "p6_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:79
+#: ../../variable/Q494CM.rst:79
 msgid "p7_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:81
+#: ../../variable/Q494CM.rst:81
 msgid "p8_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:83
+#: ../../variable/Q494CM.rst:83
 msgid "p9_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:85
+#: ../../variable/Q494CM.rst:85
 msgid "p10_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:87
+#: ../../variable/Q494CM.rst:87
 msgid "p11ab_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:89
+#: ../../variable/Q494CM.rst:89
 msgid "p11c_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:91
+#: ../../variable/Q494CM.rst:91
 msgid "p12_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:93
+#: ../../variable/Q494CM.rst:93
 msgid "p13_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:95
+#: ../../variable/Q494CM.rst:95
 msgid "p14_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:97
+#: ../../variable/Q494CM.rst:97
 msgid "p15_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:99
+#: ../../variable/Q494CM.rst:99
 msgid "p16abc_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:101
+#: ../../variable/Q494CM.rst:101
 msgid "p16d_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:103
+#: ../../variable/Q494CM.rst:103
 msgid "p17_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:105
+#: ../../variable/Q494CM.rst:105
 msgid "p18_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:107
+#: ../../variable/Q494CM.rst:107
 msgid "p19_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:109
+#: ../../variable/Q494CM.rst:109
 msgid "p20_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:111
+#: ../../variable/Q494CM.rst:111
 msgid "p21abcd_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:113
+#: ../../variable/Q494CM.rst:113
 msgid "p21e_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:115
+#: ../../variable/Q494CM.rst:115
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:117
+#: ../../variable/Q494CM.rst:117
 msgid "p23_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:119
+#: ../../variable/Q494CM.rst:119
 msgid "p24_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:121
+#: ../../variable/Q494CM.rst:121
 msgid "p25_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q494CM.rst:123
+#: ../../variable/Q494CM.rst:123
 msgid "p26_3"
 msgstr ""
-
-#~ msgid "変数名: Q494CM"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "日常の生活行動を次の６つに分けた場合、通常の平日、休日にそれぞれ合計でおおよそ何時間費やしていますか。 "
-#~ "あなたの場合とご主人の場合についてお答え下さい。（10分単位でご記入下さい） "
-#~ "同時に複数のことをした場合は、主なもののほうでお答え下さい。"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-
