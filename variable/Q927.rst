@@ -48,7 +48,7 @@ Q927
 .. rst-class:: not_available
 無回答コード
 -------------------------------------
-  5
+  4
 
 
 .. rst-class:: bikou

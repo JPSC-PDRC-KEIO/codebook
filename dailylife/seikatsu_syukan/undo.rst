@@ -17,3 +17,9 @@
    :widths: 5, 5, 5, 5, 5, 5, 5, 5
 
    運動, :doc:`Q1132 </variable/Q1132>`,"1","2","3","4","5","6"
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q1132

@@ -20,7 +20,7 @@
     :widths: 5, 10, 10, 10
 
     "1人目", ":doc:`Q1220A_1 </variable/Q1220A_1>`", ":doc:`Q1220B_1 </variable/Q1220B_1>`", ":doc:`Q1220C_1 </variable/Q1220C_1>`"
-    "2人目", ":doc:`Q1220A_2 </variable/Q1220A_2>`", ":doc:`Q1220B_2 </variable/Q1220B_2>`", ":doc:`Q1220C_1 </variable/Q1220C_2>`"
+    "2人目", ":doc:`Q1220A_2 </variable/Q1220A_2>`", ":doc:`Q1220B_2 </variable/Q1220B_2>`", ":doc:`Q1220C_2 </variable/Q1220C_2>`"
     "3人目", ":doc:`Q1220A_3 </variable/Q1220A_3>`", ":doc:`Q1220B_3 </variable/Q1220B_3>`", ":doc:`Q1220C_3 </variable/Q1220C_3>`"
 
 

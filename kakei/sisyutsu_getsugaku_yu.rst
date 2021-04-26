@@ -42,10 +42,10 @@
    :widths: 15, 15
 
    家族共通の貯蓄, :doc:`Q294B </variable/Q294B>`
-   本人のための貯蓄, :doc:`Q294B </variable/Q294B>`
-   配偶者のための貯蓄, :doc:`Q294B </variable/Q294B>`
-   子どものための貯蓄, :doc:`Q294B </variable/Q294B>`
-   それ以外の方のための貯蓄, :doc:`Q294B </variable/Q294B>`
+   本人のための貯蓄, :doc:`Q294C </variable/Q294C>`
+   配偶者のための貯蓄, :doc:`Q294D </variable/Q294D>`
+   子どものための貯蓄, :doc:`Q294E </variable/Q294E>`
+   それ以外の方のための貯蓄, :doc:`Q294F </variable/Q294F>`
 
 
 生活費内訳
