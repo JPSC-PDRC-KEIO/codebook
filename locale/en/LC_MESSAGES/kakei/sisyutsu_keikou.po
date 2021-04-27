@@ -9,16 +9,107 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_keikou.rst:3
-msgid "支出の傾向"
+#: ../../kakei/sisyutsu_keikou.rst:3
+msgid "お金の使い方"
 msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:6
+msgid "質問文"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:8
+msgid "あなた方ご夫婦は、お金に対して細かい方だと思いますか、ルーズな方だと思いますか。ご主人については、あなたの評価をお聞かせください。（それぞれ〇は１つずつ）"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:12
+msgid "選択肢"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:1
+msgid "項目"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:1
+msgid "変数名"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:1
+msgid "細かい"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:1
+msgid "やや細かい"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:1
+msgid "ちょうどよい"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:1
+msgid "ややルーズ"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:1
+msgid "ルーズ"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:1
+msgid "あなた"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:1
+msgid ":doc:`Q1198 </variable/Q1198>`"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:1
+msgid "1"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:1
+msgid "2"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:1
+msgid "3"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:1
+msgid "4"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:1
+msgid "5"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:1
+msgid "ご主人"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:1
+msgid ":doc:`Q1199 </variable/Q1199>`"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:23
+msgid "備考"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:25
+msgid "Q1198は無配偶票と共通の変数です。"
+msgstr ""
+
+#: ../../kakei/sisyutsu_keikou.rst:27
+msgid "無配偶票の質問文は「あなたは、お金に対して細かい方だと思いますか、ルーズな方だと思いますか。」となっています。"
+msgstr ""
+
+#~ msgid "支出の傾向"
+#~ msgstr ""
 

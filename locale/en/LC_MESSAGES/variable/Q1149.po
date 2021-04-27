@@ -9,110 +9,114 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:5
+#: ../../variable/Q1149.rst:5
 msgid "次の住まいの計画の有無"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:9
+#: ../../variable/Q1149.rst:9
 msgid "変数名"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:11
+#: ../../variable/Q1149.rst:11
 msgid "Q1149"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:15
+#: ../../variable/Q1149.rst:15
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:18
+#: ../../variable/Q1149.rst:18
 msgid ""
 "今後のお住まいの計画や考え方についておたずねします。; "
 "あなた方ご夫婦は、今のお住まいからの移転や、新しい住宅の建築、あるいは購入の計画をお持ちですか。（〇は１つだけ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:24
+#: ../../variable/Q1149.rst:24
 msgid "選択肢 / 記入欄"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:27
+#: ../../variable/Q1149.rst:27
 msgid "具体的な計画がある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:29
+#: ../../variable/Q1149.rst:29
 msgid "具体的な計画はないが考えている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:31
+#: ../../variable/Q1149.rst:31
 msgid "さしあたり何も考えていない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:38
+#: ../../variable/Q1149.rst:38
 msgid "桁あふれコード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:44
+#: ../../variable/Q1149.rst:44
 msgid "分類不能の回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:50
-msgid "無回答コード"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:51
+#: ../../variable/Q1149.rst:45
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:56
+#: ../../variable/Q1149.rst:50
+msgid "無回答コード"
+msgstr ""
+
+#: ../../variable/Q1149.rst:51
+msgid "5"
+msgstr ""
+
+#: ../../variable/Q1149.rst:56
 msgid "備考"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:62
+#: ../../variable/Q1149.rst:62
 msgid "収録シート"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:67
+#: ../../variable/Q1149.rst:67
 msgid "p19_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:69
+#: ../../variable/Q1149.rst:69
 msgid "p20_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:71
+#: ../../variable/Q1149.rst:71
 msgid "p21abcd_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:73
+#: ../../variable/Q1149.rst:73
 msgid "p21e_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:75
+#: ../../variable/Q1149.rst:75
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:77
+#: ../../variable/Q1149.rst:77
 msgid "p23_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:79
+#: ../../variable/Q1149.rst:79
 msgid "p24_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:81
+#: ../../variable/Q1149.rst:81
 msgid "p25_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1149.rst:83
+#: ../../variable/Q1149.rst:83
 msgid "p26_3"
 msgstr ""
 

@@ -4,51 +4,129 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-17 00:12+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"PO-Revision-Date: 2021-04-26 15:05+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"Generated-By: Babel 2.9.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
+"Language: en\n"
 
 #: ../../id_panel/cohort.rst:3
 msgid "調査対象者の構成"
-msgstr ""
+msgstr "Composition of survey targets"
 
-#: ../../id_panel/cohort.rst:6
-msgid "コーホートA：1993年の第1回調査の際に抽出した対象者"
+#: ../../id_panel/cohort.rst:5
+msgid ""
+"JPSCは **女性** を対象にした調査です。抽出した時期によって、次の5つの"
+"集団（コーホート)があります。 各集団間は年齢が連続するように、より若い"
+"集団を抽出するように設計しています。よって、これらの集団は出生コーホー"
+"トとして区別することができます。 各対象者がどのコーホートに属するか"
+"は、 :doc:`対象者のID </id_panel/ID>` で知ることができます。"
 msgstr ""
-
-#: ../../id_panel/cohort.rst:7
-msgid "コーホートB：1997年の第5回調査の際に新たに抽出した対象者"
-msgstr ""
-
-#: ../../id_panel/cohort.rst:8
-msgid "コーホートC：2003年の第11回調査の際に新たに抽出した対象者"
-msgstr ""
-
-#: ../../id_panel/cohort.rst:9
-msgid "コーホートD：2008年の第16回調査の際に新たに抽出した対象者"
-msgstr ""
+"The JPSC is a survey of women. There are five cohorts, depending on "
+"when they were selected. The age between each group is designed to be "
+"continuous, so that the younger group is extracted. Therefore, these "
+"populations can be distinguished as birth cohorts. You can find out "
+"which cohort each subject belongs to by the respondent's ID."
 
 #: ../../id_panel/cohort.rst:10
-msgid "コーホートE：2013年の第21回調査の際に新たに抽出した対象者"
-msgstr ""
+msgid "コーホートA"
+msgstr "Cohort A"
+
+#: ../../id_panel/cohort.rst:12
+msgid "1993年の第1回調査の際に抽出した対象者"
+msgstr "Respondents selected during the first survey in 1993"
 
 #: ../../id_panel/cohort.rst:13
-msgid "構成図"
+msgid "初回調査時点(1993年10月1日)で、24～34歳の女性 （11歳幅）"
 msgstr ""
+"Women aged 24-34 (11 year range) at the time of the first survey "
+"(October 1, 1993)"
 
-#~ msgid "調査回と対象者"
-#~ msgstr ""
+#: ../../id_panel/cohort.rst:14
+msgid "1958年10月2日～1969年10月1日　出生"
+msgstr "Born October 2, 1958 to October 1, 1969"
 
-#~ msgid "対象者の構成"
-#~ msgstr ""
+#: ../../id_panel/cohort.rst:17
+msgid "コーホートB"
+msgstr "Cohort B"
 
+#: ../../id_panel/cohort.rst:19
+msgid "1997年の第5回調査の際に新たに抽出した対象者"
+msgstr "Newly selected respondents during the 5th survey in 1997"
+
+#: ../../id_panel/cohort.rst:20
+msgid "初回調査時点（1997年10月1日）で、24～27歳の女性 (4歳幅)"
+msgstr ""
+"Women aged 24-27 (4 year range) at the time of the first survey "
+"(October 1, 1997)"
+
+#: ../../id_panel/cohort.rst:21
+msgid "1969年10月2日～1973年10月1日　出生"
+msgstr "Born October 2, 1969 to October 1, 1973"
+
+#: ../../id_panel/cohort.rst:24
+msgid "コーホートC"
+msgstr "Cohort C"
+
+#: ../../id_panel/cohort.rst:26
+msgid "2003年の第11回調査の際に新たに抽出した対象者"
+msgstr "Newly selected respondents for the 11th survey in 2003"
+
+#: ../../id_panel/cohort.rst:27
+msgid "初回調査時点（2003年10月1日）で、24～29歳の女性 (6歳幅)"
+msgstr ""
+"Women aged 24-29 (6 year range) at the time of the first survey "
+"(October 1, 2003)"
+
+#: ../../id_panel/cohort.rst:28
+msgid "1973年10月2日～1979年10月1日　出生"
+msgstr "Born October 2, 1973 to October 1, 1979"
+
+#: ../../id_panel/cohort.rst:31
+msgid "コーホートD"
+msgstr "Cohort D"
+
+#: ../../id_panel/cohort.rst:33
+msgid "2008年の第16回調査の際に新たに抽出した対象者"
+msgstr "Newly selected respondents for the 16th survey in 2008"
+
+#: ../../id_panel/cohort.rst:34
+msgid "初回調査時点（2008年10月1日）で、24～28歳の女性 (5歳幅)"
+msgstr ""
+"Women aged 24-28 (5 year range) at the time of the first survey "
+"(October 1, 2008)"
+
+#: ../../id_panel/cohort.rst:35
+msgid "1979年10月2日～1984年10月1日　出生"
+msgstr "Born October 2, 1979 to October 1, 1984"
+
+#: ../../id_panel/cohort.rst:38
+msgid "コーホートE"
+msgstr "Cohort E"
+
+#: ../../id_panel/cohort.rst:40
+msgid "2013年の第21回調査の際に新たに抽出した対象者"
+msgstr "Newly selected respondents for the 21st survey in 2013"
+
+#: ../../id_panel/cohort.rst:41
+msgid "初回調査時点（2013年10月1日）で、24～28歳の女性 (5歳幅)"
+msgstr ""
+"Women aged 24-28 (5 year range) at the time of the first survey "
+"(October 1, 2013)"
+
+#: ../../id_panel/cohort.rst:42
+msgid "1984年10月2日～1989年10月1日　出生"
+msgstr "Born October 2, 1984 to October 1, 1989"
+
+#: ../../id_panel/cohort.rst:48
+msgid "構成図"
+msgstr "configuration drawing"

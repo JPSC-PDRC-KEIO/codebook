@@ -9,68 +9,79 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-31 17:58+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.9.0\n"
 
-#: ../../kakei/gessyu.rst:1 ../../kakei/gessyu.rst:3
+#: ../../kakei/gessyu.rst:11
+msgid "収入"
+msgstr ""
+
+#: ../../kakei/gessyu.rst:18
+msgid "勤め人か否か"
+msgstr ""
+
+#: ../../kakei/gessyu.rst:3
 msgid "月収（手取り）"
 msgstr ""
 
 #: ../../kakei/gessyu.rst:6
-msgid "質問文"
+msgid "概要"
 msgstr ""
 
 #: ../../kakei/gessyu.rst:7
-msgid "この９月の手取り収入（収入総額から税金、社会保険料を差し引いた額）はどれくらいですか。 （ボーナス、臨時の給与は除きます）"
+msgid ""
+"配偶者と本人の９月の手取り収入（収入総額から税金、社会保険料を差し引いた額）について尋ねています。 "
+"ボーナス、臨時の給与は除くように回答の指示をしています。 第1回調査から第10回調査までは、勤め人か否かを最初に尋ねて、「1. "
+"勤め人である」と回答した人だけが収入を回答しています。第11回調査以降は、勤め人か否かの条件指定をなくしています。"
 msgstr ""
 
-#: ../../kakei/gessyu.rst:1
-msgid "項目"
+#: ../../kakei/gessyu.rst:26
+msgid ""
+"月の勤労収入についての質問はほかに、就業の項目に **税込み** の月給額（本人 :doc:`Q149</variable/Q149>` , "
+"配偶者 :doc:`Q220</variable/Q220>` "
+"）を聞いたものがあります。ただし、就業の項目では千円単位までの記入、本質問では万円単位での記入になります。また、就業の項目では、日給や時給制の仕事で月給額が記載されていないケースがあるのでご注意ください。(c.f."
+" :doc:`/syugyo/jouken/kyuyo` 、 :doc:`/syugyo_hs/kyuyo_hs` )"
 msgstr ""
 
-#: ../../kakei/gessyu.rst:1
-msgid "本人"
-msgstr ""
+#~ msgid "質問文"
+#~ msgstr ""
 
-#: ../../kakei/gessyu.rst:1
-msgid "配偶者"
-msgstr ""
+#~ msgid "この９月の手取り収入（収入総額から税金、社会保険料を差し引いた額）はどれくらいですか。 （ボーナス、臨時の給与は除きます）"
+#~ msgstr ""
 
-#: ../../kakei/gessyu.rst:1
-msgid "第1～第10回"
-msgstr ""
+#~ msgid "項目"
+#~ msgstr ""
 
-#: ../../kakei/gessyu.rst:1
-msgid "勤め人か否か"
-msgstr ""
+#~ msgid "本人"
+#~ msgstr ""
 
-#: ../../kakei/gessyu.rst:1
-msgid ":doc:`Q308A </variable/Q308A>`"
-msgstr ""
+#~ msgid "配偶者"
+#~ msgstr ""
 
-#: ../../kakei/gessyu.rst:1
-msgid ":doc:`Q307A </variable/Q307A>`"
-msgstr ""
+#~ msgid "第1～第10回"
+#~ msgstr ""
 
-#: ../../kakei/gessyu.rst:1
-msgid "第1回～"
-msgstr ""
+#~ msgid ":doc:`Q308A </variable/Q308A>`"
+#~ msgstr ""
 
-#: ../../kakei/gessyu.rst:1
-msgid ":doc:`Q308B </variable/Q308B>`"
-msgstr ""
+#~ msgid ":doc:`Q307A </variable/Q307A>`"
+#~ msgstr ""
 
-#: ../../kakei/gessyu.rst:1
-msgid ":doc:`Q307B </variable/Q307B>`"
-msgstr ""
+#~ msgid "第1回～"
+#~ msgstr ""
 
-#: ../../kakei/gessyu.rst:21
-msgid "月の勤労収入についての質問にはほかに、本人の税込みの「月給額（:doc:`Q149</variable/Q149>`）」を聞いたものがあります。ただし、同質問では千円単位までの記入、本質問では万単位での記入となっています。"
-msgstr ""
+#~ msgid ":doc:`Q308B </variable/Q308B>`"
+#~ msgstr ""
+
+#~ msgid ":doc:`Q307B </variable/Q307B>`"
+#~ msgstr ""
+
+#~ msgid "月の勤労収入についての質問にはほかに、本人の税込みの「月給額（:doc:`Q149</variable/Q149>`）」を聞いたものがあります。ただし、同質問では千円単位までの記入、本質問では万単位での記入となっています。"
+#~ msgstr ""
 

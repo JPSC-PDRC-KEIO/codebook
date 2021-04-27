@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-28 14:33+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: 2020-01-30 11:48+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -17,53 +17,54 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/suimin.rst:3
+#: ../../dailylife/seikatsu_syukan/suimin.rst:3
 msgid "睡眠時間"
 msgstr "sleeping hours"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/suimin.rst:6
+#: ../../dailylife/seikatsu_syukan/suimin.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/suimin.rst:8
+#: ../../dailylife/seikatsu_syukan/suimin.rst:8
 msgid "ふだんのあなたの睡眠時間をお答えください。"
 msgstr "How many hours of sleep do you normally get? "
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/suimin.rst:11
+#: ../../dailylife/seikatsu_syukan/suimin.rst:11
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/suimin.rst:1
-msgid "時間　（＿ ＿ 時間）"
+#: ../../dailylife/seikatsu_syukan/suimin.rst:1
+#, fuzzy
+msgid "時間　（＿＿時間）"
 msgstr "hours（＿＿hours）"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/suimin.rst:1
+#: ../../dailylife/seikatsu_syukan/suimin.rst:1
 msgid "分　（＿０分）"
 msgstr "minutes（＿＿minutes）"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/suimin.rst:1
+#: ../../dailylife/seikatsu_syukan/suimin.rst:1
 msgid "平日１日平均"
 msgstr "Daily average on a weekday"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/suimin.rst:1
+#: ../../dailylife/seikatsu_syukan/suimin.rst:1
 msgid ":doc:`Q1196H </variable/Q1196H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/suimin.rst:1
+#: ../../dailylife/seikatsu_syukan/suimin.rst:1
 msgid ":doc:`Q1196M </variable/Q1196M>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/suimin.rst:1
+#: ../../dailylife/seikatsu_syukan/suimin.rst:1
 msgid "休日１日平均"
 msgstr "Daily average on a day off"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/suimin.rst:1
+#: ../../dailylife/seikatsu_syukan/suimin.rst:1
 msgid ":doc:`Q1197H </variable/Q1197H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_syukan/suimin.rst:1
+#: ../../dailylife/seikatsu_syukan/suimin.rst:1
 msgid ":doc:`Q1197M </variable/Q1197M>`"
 msgstr ""
 

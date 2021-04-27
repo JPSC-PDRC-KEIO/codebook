@@ -8,25 +8,36 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-17 04:33+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: 2020-03-19 21:31+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: en\n"
-"X-Generator: Poedit 2.3\n"
+"Generated-By: Babel 2.9.0\n"
 
 #: ../../contact.rst:3
 msgid "お問い合わせ先"
 msgstr "Contact information"
 
 #: ../../contact.rst:5
-msgid "ページに関して不明な点や不備等がありましたら下記までメールにてご連絡ください。"
-msgstr "If you have any questions about the JPSC data or are having problems using this documentation, please contact us by e-mail."
+msgid "データやコードブックに関する質問は、下記までメールにてご連絡ください。"
+msgstr ""
 
 #: ../../contact.rst:7
-msgid "慶應義塾大学パネル設計・解析センター JPSC部門 <jpschelp@pdrc.keio.ac.jp>"
-msgstr "JPSC Department of Panel Data Research Center at Keio University <jpschelp@pdrc.keio.ac.jp>"
+#, fuzzy
+msgid "慶應義塾大学 パネルデータ設計・解析センター JPSC部門 <jpschelp@pdrc.keio.ac.jp>"
+msgstr ""
+"JPSC Department of Panel Data Research Center at Keio University "
+"<jpschelp@pdrc.keio.ac.jp>"
+
+#~ msgid "ページに関して不明な点や不備等がありましたら下記までメールにてご連絡ください。"
+#~ msgstr ""
+#~ "If you have any questions about "
+#~ "the JPSC data or are having "
+#~ "problems using this documentation, please "
+#~ "contact us by e-mail."
+

@@ -9,14 +9,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-31 17:58+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.9.0\n"
 
 #: ../../kekkon/kekkonaite.rst:3
 msgid "結婚相手に重視する要素"
@@ -31,7 +31,7 @@ msgid "あなたは、結婚相手にはどのような要素を重視します�
 msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:12
-msgid "今後とも結婚するご意思のない方は次ページの問3にお進みください。"
+msgid "今後とも結婚するご意思のない方は次ページにお進みください。"
 msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
@@ -139,7 +139,7 @@ msgid ":doc:`Q1162H </variable/Q1162H>`"
 msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
-msgid "子供のように甘えてくれる人"
+msgid "子どものように甘えてくれる人"
 msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
@@ -211,10 +211,6 @@ msgid "付問：（1）から（16）の中で、あなたが結婚相手に最�
 msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
-msgid "コード（1から16）"
-msgstr ""
-
-#: ../../kekkon/kekkonaite.rst:1
 msgid "結婚相手に最も重視する要素"
 msgstr ""
 
@@ -229,5 +225,14 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "リンクはダミーなので修正する"
+#~ msgstr ""
+
+#~ msgid "今後とも結婚するご意思のない方は次ページの問3にお進みください。"
+#~ msgstr ""
+
+#~ msgid "子供のように甘えてくれる人"
+#~ msgstr ""
+
+#~ msgid "コード（1から16）"
 #~ msgstr ""
 

@@ -9,66 +9,230 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_hiyou_all.rst:3
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:3
 msgid "子どもの教育関係費用"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_hiyou_all.rst:6
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:6
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_hiyou_all.rst:7
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:7
 msgid ""
 "この1年間（平成23年10月～平成24年9月）にお子さんにかかった教育関係の費用は大体いくらぐらいでしたか。お子さんの在学先と学年、養育費をお答えください。かかっていない場合は、0円と記入してください。（学年などの項目で、該当しない場合は、無記入のままにして下さい。）"
 " 携帯電話代・給食費・お小遣いはいずれにも含めないでください"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_hiyou_all.rst:11
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:11
 msgid "*教育関係費用の例*"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_hiyou_all.rst:1
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
 msgid "学校関連費用"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_hiyou_all.rst:1
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
 msgid "授業料・保育料・入学金・学校行事・教材代・部活動費・通学定期代・制服・通学かばんなど"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_hiyou_all.rst:1
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
 msgid "学校以外の学習費"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_hiyou_all.rst:1
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
 msgid "学習塾・英会話・参考書・通信教育など"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_hiyou_all.rst:1
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
 msgid "お稽古事・習い事"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_hiyou_all.rst:1
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
 msgid "ピアノ・水泳・そろばんなど"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_hiyou_all.rst:1
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
 msgid "自宅外仕送り"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_hiyou_all.rst:1
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
 msgid "自宅外の子への仕送り・住居費など"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_hiyou_all.rst:19
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:19
 msgid "携帯電話代・給食費・お小遣いはいずれにも含めないでください"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid "性別"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid "在学先"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid "学年"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid "学校区分"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid "学校関連のお金"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid "第１子"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1137A </variable/Q1137A>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1137B </variable/Q1137B>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1137C </variable/Q1137C>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1137D </variable/Q1137D>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1137E </variable/Q1137E>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1137F </variable/Q1137F>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1137G </variable/Q1137G>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1137H </variable/Q1137H>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid "第２子"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1138A </variable/Q1138A>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1138B </variable/Q1138B>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1138C </variable/Q1138C>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1138D </variable/Q1138D>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1138E </variable/Q1138E>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1138F </variable/Q1138F>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1138G </variable/Q1138G>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1138H </variable/Q1138H>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid "第３子"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1139A </variable/Q1139A>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1139B </variable/Q1139B>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1139C </variable/Q1139C>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1139D </variable/Q1139D>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1139E </variable/Q1139E>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1139F </variable/Q1139F>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1139G </variable/Q1139G>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1139H </variable/Q1139H>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid "第４子以降"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1140A </variable/Q1140A>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1140B </variable/Q1140B>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1140C </variable/Q1140C>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1140D </variable/Q1140D>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1140E </variable/Q1140E>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1140F </variable/Q1140F>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1140G </variable/Q1140G>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/kyouiku_hiyou_all.rst:1
+msgid ":doc:`Q1140H </variable/Q1140H>`"
 msgstr ""
 

@@ -1,26 +1,30 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-30 14:10+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: 2020-06-02 09:43+0900\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3.1\n"
 "Last-Translator: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
 
 #: ../../variable/Q513F.rst:5
-msgid "出産を望まない理由：子どもを育てるのは容易ではない（有配偶）"
-msgstr "Reasons for not to have child-birth (married): Not easy to bring up a child"
+#, fuzzy
+msgid "出産を望まない理由（有配偶）：子どもを育てるのは容易ではない"
+msgstr ""
+"Reasons for not to have child-birth (married): Not easy to bring up a "
+"child"
 
 #: ../../variable/Q513F.rst:9
 msgid "変数名"
@@ -40,7 +44,9 @@ msgstr "Why don’t you want to have a child or another child?"
 
 #: ../../variable/Q513F.rst:21
 msgid "子どもを一人前に育てるのは容易ではないから"
-msgstr "Because I think it is not easy to bring up a child to be a full-fledged member of society"
+msgstr ""
+"Because I think it is not easy to bring up a child to be a full-fledged "
+"member of society"
 
 #: ../../variable/Q513F.rst:27
 msgid "選択肢 / 記入欄"
@@ -165,3 +171,4 @@ msgstr ""
 #: ../../variable/Q513F.rst:110
 msgid "p26_3"
 msgstr ""
+

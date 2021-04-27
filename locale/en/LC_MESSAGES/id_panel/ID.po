@@ -9,136 +9,144 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:3
-msgid "本人の番号（ID）"
+#: ../../id_panel/ID.rst:3
+msgid "調査対象者の番号（ID）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:7
+#: ../../id_panel/ID.rst:7
 msgid "変数名：ID"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:11
+#: ../../id_panel/ID.rst:11
 msgid "説明"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:13
-msgid "本人に一意に割り振った数字です。 数字によって、調査開始時期と出生コーホートも区別することができます。"
+#: ../../id_panel/ID.rst:13
+msgid ""
+"調査対象者に一意に割り振った数字です。 この数字によって、その対象者が調査に参加した調査回と出生コーホート（ :doc:`ref "
+"</id_panel/cohort>` )も区別することができます。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:17
+#: ../../id_panel/ID.rst:17
 msgid "ID:1～1500"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:19
+#: ../../id_panel/ID.rst:19
 msgid "第1回調査（1993年）で抽出したサンプル　（コーホートＡ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:20
+#: ../../id_panel/ID.rst:20
 msgid "初回調査時点(1993年10月1日)で、24～34歳の女性 （11歳幅）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:21
+#: ../../id_panel/ID.rst:21
 msgid "1958年10月2日～1969年10月1日　出生"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:22
+#: ../../id_panel/ID.rst:22
 msgid "初回対象数　1,500人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:25
+#: ../../id_panel/ID.rst:25
 msgid "ID:2001～2500"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:27
+#: ../../id_panel/ID.rst:27
 msgid "第5回調査（1997年）で抽出したサンプル　（コーホートＢ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:28
+#: ../../id_panel/ID.rst:28
 msgid "初回調査時点（1997年10月1日）で、24～27歳の女性 (4歳幅)"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:29
+#: ../../id_panel/ID.rst:29
 msgid "1969年10月2日～1973年10月1日　出生"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:30
+#: ../../id_panel/ID.rst:30
 msgid "初回対象数　500人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:33
+#: ../../id_panel/ID.rst:33
 msgid "ID:3001～3838"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:35
+#: ../../id_panel/ID.rst:35
 msgid "第11回調査（2003年）で抽出したサンプル　（コーホートＣ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:36
+#: ../../id_panel/ID.rst:36
 msgid "初回調査時点（2003年10月1日）で、24～29歳の女性 (6歳幅)"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:37
+#: ../../id_panel/ID.rst:37
 msgid "1973年10月2日～1979年10月1日　出生"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:38
+#: ../../id_panel/ID.rst:38
 msgid "初回対象数　836人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:39
+#: ../../id_panel/ID.rst:39
 msgid "3178,3403のIDは欠番"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:42
+#: ../../id_panel/ID.rst:42
 msgid "ID:4001～4645"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:44
+#: ../../id_panel/ID.rst:44
 msgid "第16回調査（2008年）で抽出したサンプル　（コーホートＤ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:45
+#: ../../id_panel/ID.rst:45
 msgid "初回調査時点（2008年10月1日）で、24～28歳の女性 (5歳幅)"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:46
+#: ../../id_panel/ID.rst:46
 msgid "1979年10月2日～1984年10月1日　出生"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:47
+#: ../../id_panel/ID.rst:47
 msgid "初回対象数 636人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:48
+#: ../../id_panel/ID.rst:48
 msgid "4342,4343,4401,4407,4435,4447,4448,4515,4644の9つのIDは欠番"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:51
+#: ../../id_panel/ID.rst:51
 msgid "ID:5001～5648"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:53
+#: ../../id_panel/ID.rst:53
 msgid "第21回調査（2013年）で抽出したサンプル　（コーホートＥ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:54
+#: ../../id_panel/ID.rst:54
 msgid "初回調査時点（2013年10月1日）で、24～28歳の女性 (5歳幅)"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:55
+#: ../../id_panel/ID.rst:55
 msgid "1984年10月2日～1989年10月1日　出生"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/ID.rst:56
+#: ../../id_panel/ID.rst:56
 msgid "初回対象数 648人"
 msgstr ""
+
+#~ msgid "本人の番号（ID）"
+#~ msgstr ""
+
+#~ msgid "本人に一意に割り振った数字です。 数字によって、調査開始時期と出生コーホートも区別することができます。"
+#~ msgstr ""
 

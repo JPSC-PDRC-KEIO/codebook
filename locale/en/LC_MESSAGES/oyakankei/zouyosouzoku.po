@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-31 17:58+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: 2020-01-30 10:40+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.9.0\n"
 
 #: ../../oyakankei/zouyosouzoku.rst:3
 msgid "親からの贈与・相続"
@@ -28,7 +28,8 @@ msgid "質問文"
 msgstr "Question"
 
 #: ../../oyakankei/zouyosouzoku.rst:7
-msgid "あなたは、この１年間（平成14年10月～平成15年９月）にあなたの親から金融資産や実物資産をもらったことがありますか。もらった場合はその価値をご記入下さい。"
+#, fuzzy
+msgid "あなたは、この１年間（調査前年10月～調査年9月）にあなたの親から金融資産や実物資産をもらったことがありますか。もらった場合はその価値をご記入下さい。"
 msgstr ""
 "Have you and your husband received financial and real assets from your "
 "husband’s parent(s) during the past year (October 2015 - — September "
@@ -48,7 +49,19 @@ msgid "実物資産"
 msgstr ""
 
 #: ../../oyakankei/zouyosouzoku.rst:1
-msgid "生前贈与"
+msgid "生前贈与の有無"
+msgstr ""
+
+#: ../../oyakankei/zouyosouzoku.rst:1
+msgid ":doc:`Q1227A </variable/Q1227A>`"
+msgstr ""
+
+#: ../../oyakankei/zouyosouzoku.rst:1
+msgid ":doc:`Q1227B </variable/Q1227B>`"
+msgstr ""
+
+#: ../../oyakankei/zouyosouzoku.rst:1
+msgid "生前贈与の金額"
 msgstr ""
 
 #: ../../oyakankei/zouyosouzoku.rst:1
@@ -72,7 +85,19 @@ msgid ":doc:`Q328B </variable/Q328B>`"
 msgstr ""
 
 #: ../../oyakankei/zouyosouzoku.rst:1
-msgid "遺産相続"
+msgid "遺産相続の有無"
+msgstr ""
+
+#: ../../oyakankei/zouyosouzoku.rst:1
+msgid ":doc:`Q1227C </variable/Q1227C>`"
+msgstr ""
+
+#: ../../oyakankei/zouyosouzoku.rst:1
+msgid ":doc:`Q1227D </variable/Q1227D>`"
+msgstr ""
+
+#: ../../oyakankei/zouyosouzoku.rst:1
+msgid "遺産相続の金額"
 msgstr ""
 
 #: ../../oyakankei/zouyosouzoku.rst:1
@@ -95,8 +120,20 @@ msgstr ""
 msgid ":doc:`Q328D </variable/Q328D>`"
 msgstr ""
 
-#: ../../oyakankei/zouyosouzoku.rst:1 ../../oyakankei/zouyosouzoku.rst:19
+#: ../../oyakankei/zouyosouzoku.rst:1 ../../oyakankei/zouyosouzoku.rst:21
 msgid "義親"
+msgstr ""
+
+#: ../../oyakankei/zouyosouzoku.rst:1
+msgid ":doc:`Q1228A </variable/Q1228A>`"
+msgstr ""
+
+#: ../../oyakankei/zouyosouzoku.rst:1
+msgid ":doc:`Q1228B </variable/Q1228B>`"
+msgstr ""
+
+#: ../../oyakankei/zouyosouzoku.rst:1
+msgid "生前贈与"
 msgstr ""
 
 #: ../../oyakankei/zouyosouzoku.rst:1
@@ -113,6 +150,18 @@ msgstr ""
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q330B </variable/Q330B>`"
+msgstr ""
+
+#: ../../oyakankei/zouyosouzoku.rst:1
+msgid ":doc:`Q1228C </variable/Q1228C>`"
+msgstr ""
+
+#: ../../oyakankei/zouyosouzoku.rst:1
+msgid ":doc:`Q1228D </variable/Q1228D>`"
+msgstr ""
+
+#: ../../oyakankei/zouyosouzoku.rst:1
+msgid "遺産相続"
 msgstr ""
 
 #: ../../oyakankei/zouyosouzoku.rst:1

@@ -9,28 +9,38 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei.rst:3
+#: ../../seisaku/zouzei.rst:3
 msgid "消費税増税について"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei.rst:8
-msgid "消費税８％増税前の質問（2012・2013年）"
+#: ../../seisaku/zouzei.rst:8
+msgid "消費税8％増税前の質問（2012・2013年）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei.rst:19
-msgid "消費税８％増税時と増税後の質問（2014・2015年）"
+#: ../../seisaku/zouzei.rst:19
+msgid "消費税8％増税時と増税後の質問（2014・2015年）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zouzei.rst:31
+#: ../../seisaku/zouzei.rst:31
 msgid "消費税10％増税をめぐる質問（2016・2017年）"
 msgstr ""
+
+#: ../../seisaku/zouzei.rst:42
+msgid "消費税10％増税時の質問（2019年）"
+msgstr ""
+
+#~ msgid "消費税８％増税前の質問（2012・2013年）"
+#~ msgstr ""
+
+#~ msgid "消費税８％増税時と増税後の質問（2014・2015年）"
+#~ msgstr ""
 

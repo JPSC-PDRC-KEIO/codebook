@@ -1,0 +1,112 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../seisaku/zouzei_taiou_10.rst:3
+msgid "消費税10％への対応"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:6
+msgid "質問文"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:7
+msgid "消費税率が10％に増税となったら、お宅ではどのような対応をするつもりですか。（それぞれ〇は１つずつ）"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:10
+msgid "各対応の実施の有無"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:1
+msgid "項目"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:1
+msgid "変数名"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:1
+msgid "食料品など生活必需品の買い物を見直し"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:1
+msgid ":doc:`Q1236A </variable/Q1236A>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:1
+msgid "光熱費を節約"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:1
+msgid ":doc:`Q1236B </variable/Q1236B>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:1
+msgid "衣服や化粧品など奢侈品の買い物の見直し"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:1
+msgid ":doc:`Q1236C </variable/Q1236C>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:1
+msgid "保険やローンなどの固定費の見直し"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:1
+msgid ":doc:`Q1236D </variable/Q1236D>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:1
+msgid "家電や自動車など高額商品の購入の見直し"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:1
+msgid ":doc:`Q1236E </variable/Q1236E>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:1
+msgid "外食・交際・娯楽費の見直し"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:1
+msgid ":doc:`Q1236F </variable/Q1236F>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:23
+msgid "子どもがいる人では"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:1
+msgid "子供の教育費（学校・塾・習い事など）の見直し"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:1
+msgid ":doc:`Q1237A </variable/Q1237A>`"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:1
+msgid "その他の子ども費用（服・ゲーム・おもちゃなど）の見直し"
+msgstr ""
+
+#: ../../seisaku/zouzei_taiou_10.rst:1
+msgid ":doc:`Q1237B </variable/Q1237B>`"
+msgstr ""
+

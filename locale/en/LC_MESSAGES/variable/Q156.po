@@ -8,194 +8,199 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: 2020-03-25 15:30+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 2.3\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:5
-msgid "創立時期"
-msgstr "Time of foundation"
+#: ../../variable/Q156.rst:5
+msgid "創立時期〔～第26回〕"
+msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:9
+#: ../../variable/Q156.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:11
+#: ../../variable/Q156.rst:11
 msgid "Q156"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:15
+#: ../../variable/Q156.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:18
+#: ../../variable/Q156.rst:18
 msgid "現在勤めている会社等の創立時期はいつですか。（注　公務員の方は創立時期にかかわりなく、「官公庁」に〇をして下さい）"
-msgstr "When was the company or organization you work for established? (Note: If you are an official, circle “Public agency”.)"
+msgstr ""
+"When was the company or organization you work for established? (Note: If "
+"you are an official, circle “Public agency”.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:24
+#: ../../variable/Q156.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Choices / Entry field"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:27
+#: ../../variable/Q156.rst:27
 msgid "戦前"
 msgstr "Before the world war two"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:29
+#: ../../variable/Q156.rst:29
 msgid "昭和20年代"
 msgstr "Showa 20s (1945 - 1954)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:31
+#: ../../variable/Q156.rst:31
 msgid "昭和30年代"
 msgstr "Showa 30s (1955 - 1964)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:33
+#: ../../variable/Q156.rst:33
 msgid "昭和40年代"
 msgstr "Showa 40s (1965 - 1974)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:35
+#: ../../variable/Q156.rst:35
 msgid "昭和50年代"
 msgstr "Showa 50s (1975 - 1984)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:37
+#: ../../variable/Q156.rst:37
 msgid "昭和60～63年"
 msgstr "Show 60 - 63 (1985 - 1988)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:39
+#: ../../variable/Q156.rst:39
 msgid "平成元年以降"
 msgstr "Heisei 1 and subsequent (1989 - )"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:41
+#: ../../variable/Q156.rst:41
 msgid "官公庁"
 msgstr "Public agency"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:48
+#: ../../variable/Q156.rst:48
 msgid "桁あふれコード"
 msgstr "Outside-code-range responses"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:54
+#: ../../variable/Q156.rst:54
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable Response"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:60
+#: ../../variable/Q156.rst:60
 msgid "無回答コード"
 msgstr "Non-Response"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:61
+#: ../../variable/Q156.rst:61
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:66
+#: ../../variable/Q156.rst:66
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:72
+#: ../../variable/Q156.rst:72
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:77
+#: ../../variable/Q156.rst:77
 msgid "p2_1"
 msgstr "p2_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:79
+#: ../../variable/Q156.rst:79
 msgid "p5a_1"
 msgstr "p5a_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:81
+#: ../../variable/Q156.rst:81
 msgid "p5b_1"
 msgstr "p5b_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:83
+#: ../../variable/Q156.rst:83
 msgid "p6_1"
 msgstr "p6_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:85
+#: ../../variable/Q156.rst:85
 msgid "p7_1"
 msgstr "p7_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:87
+#: ../../variable/Q156.rst:87
 msgid "p8_1"
 msgstr "p8_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:89
+#: ../../variable/Q156.rst:89
 msgid "p9_1"
 msgstr "p9_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:91
+#: ../../variable/Q156.rst:91
 msgid "p10_1"
 msgstr "p10_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:93
+#: ../../variable/Q156.rst:93
 msgid "p12_1"
 msgstr "p12_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:95
+#: ../../variable/Q156.rst:95
 msgid "p13_1"
 msgstr "p13_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:97
+#: ../../variable/Q156.rst:97
 msgid "p14_1"
 msgstr "p14_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:99
+#: ../../variable/Q156.rst:99
 msgid "p15_1"
 msgstr "p15_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:101
+#: ../../variable/Q156.rst:101
 msgid "p16abc_1"
 msgstr "p16abc_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:103
+#: ../../variable/Q156.rst:103
 msgid "p16d_1"
 msgstr "p16d_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:105
+#: ../../variable/Q156.rst:105
 msgid "p17_1"
 msgstr "p17_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:107
+#: ../../variable/Q156.rst:107
 msgid "p18_1"
 msgstr "p18_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:109
+#: ../../variable/Q156.rst:109
 msgid "p19_1"
 msgstr "p19_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:111
+#: ../../variable/Q156.rst:111
 msgid "p20_1"
 msgstr "p20_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:113
+#: ../../variable/Q156.rst:113
 msgid "p21abcd_1"
 msgstr "p21abcd_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:115
+#: ../../variable/Q156.rst:115
 msgid "p21e_1"
 msgstr "p21e_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:117
+#: ../../variable/Q156.rst:117
 msgid "p22_1"
 msgstr "p22_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:119
+#: ../../variable/Q156.rst:119
 msgid "p23_1"
 msgstr "p23_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:121
+#: ../../variable/Q156.rst:121
 msgid "p24_1"
 msgstr "p24_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:123
+#: ../../variable/Q156.rst:123
 msgid "p25_1"
 msgstr "p25_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q156.rst:125
+#: ../../variable/Q156.rst:125
 msgid "p26_1"
 msgstr "p26_1"
+
+#~ msgid "創立時期"
+#~ msgstr "Time of foundation"
+

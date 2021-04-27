@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../kekkon/kajibuntan.rst:3
+msgid "家事分担について"
+msgstr ""
+
+#: ../../kekkon/kajibuntan.rst:6
+msgid "質問文"
+msgstr ""
+
+#: ../../kekkon/kajibuntan.rst:8
+msgid "炊事・洗濯・掃除などの家事について、ご夫婦でどの程度分担しあっていますか。全体を100％としたときの、それぞれの貢献分をお答えください。"
+msgstr ""
+
+#: ../../kekkon/kajibuntan.rst:1
+msgid "項目"
+msgstr ""
+
+#: ../../kekkon/kajibuntan.rst:1
+msgid "変数名"
+msgstr ""
+
+#: ../../kekkon/kajibuntan.rst:1
+msgid "回答"
+msgstr ""
+
+#: ../../kekkon/kajibuntan.rst:1
+msgid "夫"
+msgstr ""
+
+#: ../../kekkon/kajibuntan.rst:1
+msgid ":doc:`Q1233A </variable/Q1233A>`"
+msgstr ""
+
+#: ../../kekkon/kajibuntan.rst:1
+msgid "＿ ＿ ＿ ％"
+msgstr ""
+
+#: ../../kekkon/kajibuntan.rst:1
+msgid "妻"
+msgstr ""
+
+#: ../../kekkon/kajibuntan.rst:1
+msgid ":doc:`Q1233B </variable/Q1233B>`"
+msgstr ""
+

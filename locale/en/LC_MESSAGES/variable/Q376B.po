@@ -9,44 +9,44 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-31 17:58+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.9.0\n"
 
-#: ../../variable/Q376B.rst:5
-msgid "住宅建築時期〔第2～第6回〕"
+#: ../../variable/Q376B.rst:6
+msgid "住宅建築時期[第2回 |endash| 第6回〕"
 msgstr ""
 
-#: ../../variable/Q376B.rst:9
+#: ../../variable/Q376B.rst:10
 msgid "変数名"
 msgstr ""
 
-#: ../../variable/Q376B.rst:11
+#: ../../variable/Q376B.rst:12
 msgid "Q376B"
 msgstr ""
 
-#: ../../variable/Q376B.rst:15
+#: ../../variable/Q376B.rst:16
 msgid "質問文"
 msgstr ""
 
-#: ../../variable/Q376B.rst:18
+#: ../../variable/Q376B.rst:19
 msgid "建築の時期はいつ頃ですか。"
 msgstr ""
 
-#: ../../variable/Q376B.rst:24
+#: ../../variable/Q376B.rst:25
 msgid "選択肢 / 記入欄"
 msgstr ""
 
-#: ../../variable/Q376B.rst:26
+#: ../../variable/Q376B.rst:27
 msgid "＿ ＿ 年 (西暦下2桁)"
 msgstr ""
 
-#: ../../variable/Q376B.rst:32
+#: ../../variable/Q376B.rst:33
 msgid "桁あふれコード"
 msgstr ""
 
@@ -54,19 +54,19 @@ msgstr ""
 msgid "分類不能の回答コード"
 msgstr ""
 
-#: ../../variable/Q376B.rst:44
+#: ../../variable/Q376B.rst:45
 msgid "無回答コード"
 msgstr ""
 
-#: ../../variable/Q376B.rst:45
+#: ../../variable/Q376B.rst:46
 msgid "99"
 msgstr ""
 
-#: ../../variable/Q376B.rst:50
+#: ../../variable/Q376B.rst:51
 msgid "備考"
 msgstr ""
 
-#: ../../variable/Q376B.rst:56
+#: ../../variable/Q376B.rst:57
 msgid "収録シート"
 msgstr ""
 
@@ -104,5 +104,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "＿＿年 (西暦下2桁)"
+#~ msgstr ""
+
+#~ msgid "住宅建築時期〔第2～第6回〕"
 #~ msgstr ""
 

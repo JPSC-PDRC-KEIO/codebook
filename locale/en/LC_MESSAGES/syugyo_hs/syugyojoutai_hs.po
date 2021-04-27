@@ -9,81 +9,77 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-24 18:42+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:3
+#: ../../syugyo_hs/syugyojoutai_hs.rst:3
 msgid "就業状態（配偶者）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:6
+#: ../../syugyo_hs/syugyojoutai_hs.rst:6
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:7
+#: ../../syugyo_hs/syugyojoutai_hs.rst:7
 msgid "あなたのご主人は現在（調査年９月）、仕事についていますか。(仕事には常勤従業員、パート、アルバイト、嘱託、自営、家族従業などすべて含みます。ただし、学生アルバイトは除きます。)"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:11
+#: ../../syugyo_hs/syugyojoutai_hs.rst:11
 msgid "|nt1|"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:1
+#: ../../syugyo_hs/syugyojoutai_hs.rst:1
 msgid "第1回"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:1
-msgid "第2回～"
+#: ../../syugyo_hs/syugyojoutai_hs.rst:1
+msgid "第2回以降"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:1
+#: ../../syugyo_hs/syugyojoutai_hs.rst:1
 msgid "変数名"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:1
+#: ../../syugyo_hs/syugyojoutai_hs.rst:1
 msgid ":doc:`Q1026 </variable/Q1026>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:1
+#: ../../syugyo_hs/syugyojoutai_hs.rst:1
 msgid ":doc:`Q213 </variable/Q213>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst:1
+#: ../../syugyo_hs/syugyojoutai_hs.rst:1
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst
-msgid "1.仕事についている"
+#: ../../syugyo_hs/syugyojoutai_hs.rst
+msgid "1. 仕事についている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst
-msgid "2.学生"
+#: ../../syugyo_hs/syugyojoutai_hs.rst
+msgid "2. 学生"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst
-msgid "3.専業主婦"
+#: ../../syugyo_hs/syugyojoutai_hs.rst
+msgid "3. 無職"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst
-msgid "4.その他"
+#: ../../syugyo_hs/syugyojoutai_hs.rst
+msgid "2. 休職中"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst
-msgid "2.休職中"
+#: ../../syugyo_hs/syugyojoutai_hs.rst
+msgid "3. 学生"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst
-msgid "3.学生"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syugyojoutai_hs.rst
-msgid "4.その他の無職"
+#: ../../syugyo_hs/syugyojoutai_hs.rst
+msgid "4. その他の無職"
 msgstr ""
 
 #~ msgid "配偶者の就業状態"
@@ -108,5 +104,29 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "変数"
+#~ msgstr ""
+
+#~ msgid "第2回～"
+#~ msgstr ""
+
+#~ msgid "1.仕事についている"
+#~ msgstr ""
+
+#~ msgid "2.学生"
+#~ msgstr ""
+
+#~ msgid "3.専業主婦"
+#~ msgstr ""
+
+#~ msgid "4.その他"
+#~ msgstr ""
+
+#~ msgid "2.休職中"
+#~ msgstr ""
+
+#~ msgid "3.学生"
+#~ msgstr ""
+
+#~ msgid "4.その他の無職"
 #~ msgstr ""
 

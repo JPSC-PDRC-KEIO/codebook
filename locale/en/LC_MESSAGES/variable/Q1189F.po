@@ -9,80 +9,80 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1189F.rst:5
-msgid "消費税８％への対応（増税後）：外食・交際・娯楽費の見直し"
+#: ../../variable/Q1189F.rst:5
+msgid "消費税8％への対応（増税後）：外食・交際・娯楽費の見直し"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1189F.rst:9
+#: ../../variable/Q1189F.rst:9
 msgid "変数名"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1189F.rst:11
+#: ../../variable/Q1189F.rst:11
 msgid "Q1189F"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1189F.rst:15
+#: ../../variable/Q1189F.rst:15
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1189F.rst:18
+#: ../../variable/Q1189F.rst:18
 msgid "平成26年4月から消費税率が8％に変更となりました。消費税率の引き上げによってお宅ではどのような対応をしましたか。消費税8％引き上げ時と現在の各時点についてお考えください。（それぞれ〇は１つずつ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1189F.rst:21
+#: ../../variable/Q1189F.rst:21
 msgid "外食・交際・娯楽費の見直し"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1189F.rst:27
+#: ../../variable/Q1189F.rst:27
 msgid "選択肢 / 記入欄"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1189F.rst:30
+#: ../../variable/Q1189F.rst:30
 msgid "やっている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1189F.rst:32
+#: ../../variable/Q1189F.rst:32
 msgid "やっていない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1189F.rst:39
+#: ../../variable/Q1189F.rst:39
 msgid "桁あふれコード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1189F.rst:45
+#: ../../variable/Q1189F.rst:45
 msgid "分類不能の回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1189F.rst:51
+#: ../../variable/Q1189F.rst:51
 msgid "無回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1189F.rst:52
+#: ../../variable/Q1189F.rst:52
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1189F.rst:57
+#: ../../variable/Q1189F.rst:57
 msgid "備考"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1189F.rst:63
+#: ../../variable/Q1189F.rst:63
 msgid "収録シート"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1189F.rst:68
+#: ../../variable/Q1189F.rst:68
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1189F.rst:70
+#: ../../variable/Q1189F.rst:70
 msgid "p23_3"
 msgstr ""
 
@@ -90,5 +90,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "消費税８％への対応（増税後）：外食・交際・娯楽費の見直し"
 #~ msgstr ""
 

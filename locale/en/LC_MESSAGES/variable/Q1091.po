@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-31 17:58+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: 2020-03-25 15:29+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.9.0\n"
 
 #: ../../variable/Q1091.rst:5
 msgid "創立年"
@@ -44,13 +44,16 @@ msgid "選択肢 / 記入欄"
 msgstr "Choices / Entry field"
 
 #: ../../variable/Q1091.rst:26
-#, fuzzy
-msgid "平成 ＿ ＿ 年"
-msgstr "Year＿＿"
+msgid "平成 |lline| |lline| 年"
+msgstr ""
 
 #: ../../variable/Q1091.rst:32
 msgid "桁あふれコード"
 msgstr "Outside-code-range responses"
+
+#: ../../variable/Q1091.rst:33
+msgid "9998"
+msgstr ""
 
 #: ../../variable/Q1091.rst:38
 msgid "分類不能の回答コード"
@@ -61,66 +64,76 @@ msgid "無回答コード"
 msgstr "Non-Response"
 
 #: ../../variable/Q1091.rst:45
-msgid "9"
+msgid "9999"
 msgstr ""
 
 #: ../../variable/Q1091.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q1091.rst:56
+#: ../../variable/Q1091.rst:51
+msgid "調査票の記入は元号だが、データ上は西暦4桁が記載"
+msgstr ""
+
+#: ../../variable/Q1091.rst:57
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q1091.rst:61
+#: ../../variable/Q1091.rst:62
 msgid "p16abc_1"
 msgstr ""
 
-#: ../../variable/Q1091.rst:63
+#: ../../variable/Q1091.rst:64
 msgid "p16d_1"
 msgstr ""
 
-#: ../../variable/Q1091.rst:65
+#: ../../variable/Q1091.rst:66
 msgid "p17_1"
 msgstr ""
 
-#: ../../variable/Q1091.rst:67
+#: ../../variable/Q1091.rst:68
 msgid "p18_1"
 msgstr ""
 
-#: ../../variable/Q1091.rst:69
+#: ../../variable/Q1091.rst:70
 msgid "p19_1"
 msgstr ""
 
-#: ../../variable/Q1091.rst:71
+#: ../../variable/Q1091.rst:72
 msgid "p20_1"
 msgstr ""
 
-#: ../../variable/Q1091.rst:73
+#: ../../variable/Q1091.rst:74
 msgid "p21abcd_1"
 msgstr ""
 
-#: ../../variable/Q1091.rst:75
+#: ../../variable/Q1091.rst:76
 msgid "p21e_1"
 msgstr ""
 
-#: ../../variable/Q1091.rst:77
+#: ../../variable/Q1091.rst:78
 msgid "p22_1"
 msgstr ""
 
-#: ../../variable/Q1091.rst:79
+#: ../../variable/Q1091.rst:80
 msgid "p23_1"
 msgstr ""
 
-#: ../../variable/Q1091.rst:81
+#: ../../variable/Q1091.rst:82
 msgid "p24_1"
 msgstr ""
 
-#: ../../variable/Q1091.rst:83
+#: ../../variable/Q1091.rst:84
 msgid "p25_1"
 msgstr ""
 
-#: ../../variable/Q1091.rst:85
+#: ../../variable/Q1091.rst:86
 msgid "p26_1"
 msgstr ""
+
+#~ msgid "平成 ＿ ＿ 年"
+#~ msgstr "Year＿＿"
+
+#~ msgid "9"
+#~ msgstr ""
 

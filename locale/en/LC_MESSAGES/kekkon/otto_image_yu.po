@@ -8,220 +8,226 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: 2020-01-30 16:20+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 2.2.4\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:3
+#: ../../kekkon/otto_image_yu.rst:3
 msgid "配偶者のイメージ"
 msgstr "Descriptions of your husband"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:6
+#: ../../kekkon/otto_image_yu.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:8
+#: ../../kekkon/otto_image_yu.rst:8
 msgid "あなたにとって、今のご主人はどのような存在ですか。以下のイメージについてあなたのお考えを選んでください。（〇はそれぞれ１つずつ）"
-msgstr "What is your current husband like in terms of his relationship with you? Please choose one answer for each of the following (choose one for each)."
+msgstr ""
+"What is your current husband like in terms of his relationship with you? "
+"Please choose one answer for each of the following (choose one for each)."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "項目"
 msgstr "items"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst ../../kekkon/otto_image_yu.rst:1
 msgid "そう思う"
 msgstr "Agree"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst
+#: ../../kekkon/otto_image_yu.rst
 msgid "どちらかといえば"
 msgstr "Somewhat"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst ../../kekkon/otto_image_yu.rst:1
 msgid "そう思わない"
 msgstr "Disagree"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "親しい友人"
 msgstr "A good friend"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1166A </variable/Q1166A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "人生に共に立ち向かう人"
 msgstr "Someone to take on life with"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1166B </variable/Q1166B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "一心同体の人"
 msgstr "Very close, as if we are the same person"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1166C </variable/Q1166C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "趣味を共有する人"
 msgstr "Has common interests"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1166D </variable/Q1166D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "経済的に頼れる人"
 msgstr "Financially reliable"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1166E </variable/Q1166E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "父親のように保護してくれる人"
 msgstr " A protector, like a father"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1166F </variable/Q1166F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "心の支えになる人"
 msgstr "Supports me psychologically"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1166G </variable/Q1166G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "性的に魅力のある人"
 msgstr "Sexually attractive"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1166H </variable/Q1166H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "子供のように甘えてくれる人"
 msgstr "Wants my attention like a child"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1166I </variable/Q1166I>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "空気のような存在"
 msgstr "Like air"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1166J </variable/Q1166J>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "可愛い人"
 msgstr "Cute"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1166K </variable/Q1166K>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "家事や育児に協力的な人"
 msgstr "Helps me with household chores and childcare"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1166L </variable/Q1166L>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "世話がやける人"
 msgstr "Needs a lot of attention"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1166M </variable/Q1166M>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "自由を束縛する人"
 msgstr "Limits my freedom"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1166N </variable/Q1166N>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "経済的に頼りない人"
 msgstr "Financially unreliable"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1166O </variable/Q1166O>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "そりがあわない"
 msgstr "Not easy to get on well with"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1166P </variable/Q1166P>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:35
-msgid "付問1：1から16の中で、あなたのご主人に最も近いイメージはどれですか"
-msgstr "Additional question: From (1) to (16) above, please choose the one that, in your view, best describes your husband."
+#: ../../kekkon/otto_image_yu.rst:35
+#, fuzzy
+msgid "付問1：上記の中で、あなたのご主人に最も近いイメージはどれですか。"
+msgstr ""
+"Additional question: From (1) to (16) above, please choose the one that, "
+"in your view, best describes your husband."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid "1位"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1167 </variable/Q1167>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:43
+#: ../../kekkon/otto_image_yu.rst:43
 msgid "第１回調査のみ、次（ :doc:`otto_image1` ）のように質問しています。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:45
+#: ../../kekkon/otto_image_yu.rst:45
 msgid "また無配偶の方へは次（ :doc:`kekkonaite` ) のように質問しています。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:48
-msgid "付問2：では現実の配偶者のイメージにかかわらずあなたパートナーに対して最も重視する要素は、1から16の中でどれですか"
+#: ../../kekkon/otto_image_yu.rst:48
+msgid "付問2：では現実の配偶者のイメージにかかわらず、あなたがパートナーに対して最も重視する要素は、上記の中でどれですか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image_yu.rst:1
+#: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1217 </variable/Q1217>`"
 msgstr ""
+
+#~ msgid "付問2：では現実の配偶者のイメージにかかわらずあなたパートナーに対して最も重視する要素は、1から16の中でどれですか"
+#~ msgstr ""
+

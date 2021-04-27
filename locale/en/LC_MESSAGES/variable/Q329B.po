@@ -9,176 +9,176 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:5
-msgid "生前贈与：実物資産（配偶者の親）"
+#: ../../variable/Q329B.rst:5
+msgid "生前贈与：実物資産の金額（配偶者の親）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:9
+#: ../../variable/Q329B.rst:9
 msgid "変数名"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:11
+#: ../../variable/Q329B.rst:11
 msgid "Q329B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:15
+#: ../../variable/Q329B.rst:15
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:18
+#: ../../variable/Q329B.rst:18
 msgid "あなた方ご夫婦は、この１年間（調査前年10月～調査年9月）にご主人の親から金融資産や実物資産をもらったことがありますか。もらった場合はその価値をご記入下さい。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:21
+#: ../../variable/Q329B.rst:21
 msgid "生前贈与として・実物資産"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:27
+#: ../../variable/Q329B.rst:27
 msgid "選択肢 / 記入欄"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:29
+#: ../../variable/Q329B.rst:29
 msgid "＿ ＿ ＿ ＿ 万円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:35
+#: ../../variable/Q329B.rst:35
 msgid "桁あふれコード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:36
+#: ../../variable/Q329B.rst:36
 msgid "9998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:41
+#: ../../variable/Q329B.rst:41
 msgid "分類不能の回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:47
+#: ../../variable/Q329B.rst:47
 msgid "無回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:48
+#: ../../variable/Q329B.rst:48
 msgid "9999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:53
+#: ../../variable/Q329B.rst:53
 msgid "備考"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:59
+#: ../../variable/Q329B.rst:59
 msgid "収録シート"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:64
+#: ../../variable/Q329B.rst:64
 msgid "p2_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:66
+#: ../../variable/Q329B.rst:66
 msgid "p5b_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:68
+#: ../../variable/Q329B.rst:68
 msgid "p6_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:70
+#: ../../variable/Q329B.rst:70
 msgid "p7_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:72
+#: ../../variable/Q329B.rst:72
 msgid "p8_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:74
+#: ../../variable/Q329B.rst:74
 msgid "p9_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:76
+#: ../../variable/Q329B.rst:76
 msgid "p10_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:78
+#: ../../variable/Q329B.rst:78
 msgid "p11ab_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:80
+#: ../../variable/Q329B.rst:80
 msgid "p11c_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:82
+#: ../../variable/Q329B.rst:82
 msgid "p12_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:84
+#: ../../variable/Q329B.rst:84
 msgid "p13_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:86
+#: ../../variable/Q329B.rst:86
 msgid "p14_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:88
+#: ../../variable/Q329B.rst:88
 msgid "p15_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:90
+#: ../../variable/Q329B.rst:90
 msgid "p16abc_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:92
+#: ../../variable/Q329B.rst:92
 msgid "p16d_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:94
+#: ../../variable/Q329B.rst:94
 msgid "p17_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:96
+#: ../../variable/Q329B.rst:96
 msgid "p18_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:98
+#: ../../variable/Q329B.rst:98
 msgid "p19_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:100
+#: ../../variable/Q329B.rst:100
 msgid "p20_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:102
+#: ../../variable/Q329B.rst:102
 msgid "p21abcd_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:104
+#: ../../variable/Q329B.rst:104
 msgid "p21e_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:106
+#: ../../variable/Q329B.rst:106
 msgid "p22_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:108
+#: ../../variable/Q329B.rst:108
 msgid "p23_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:110
+#: ../../variable/Q329B.rst:110
 msgid "p24_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:112
+#: ../../variable/Q329B.rst:112
 msgid "p25_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q329B.rst:114
+#: ../../variable/Q329B.rst:114
 msgid "p26_2"
 msgstr ""
 
@@ -186,5 +186,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "生前贈与：実物資産（配偶者の親）"
 #~ msgstr ""
 

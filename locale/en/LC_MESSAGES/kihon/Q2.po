@@ -8,70 +8,69 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 18:31+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: 2020-02-04 18:35+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 2.2.4\n"
+"Generated-By: Babel 2.9.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q2.rst:3
+#: ../../kihon/Q2.rst:3
 msgid "地域ブロック"
 msgstr "Regional Block"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q2.rst:7
+#: ../../kihon/Q2.rst:7
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q2.rst:9
+#: ../../kihon/Q2.rst:9
 msgid "Q2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q2.rst:13
+#: ../../kihon/Q2.rst:13
 msgid "コード"
 msgstr "Code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q2.rst:15
+#: ../../kihon/Q2.rst:15
 msgid "北海道"
 msgstr "Hokkaido"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q2.rst:16
+#: ../../kihon/Q2.rst:16
 msgid "東北"
 msgstr "Tohoku"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q2.rst:17
+#: ../../kihon/Q2.rst:17
 msgid "関東"
 msgstr "Kanto"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q2.rst:18
+#: ../../kihon/Q2.rst:18
 msgid "中部"
 msgstr "Chubu"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q2.rst:19
+#: ../../kihon/Q2.rst:19
 msgid "近畿"
 msgstr "Kinki"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q2.rst:20
+#: ../../kihon/Q2.rst:20
 msgid "中国"
 msgstr "Chugoku"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q2.rst:21
+#: ../../kihon/Q2.rst:21
 msgid "四国"
 msgstr "Shikoku"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q2.rst:22
+#: ../../kihon/Q2.rst:22
 msgid "九州"
 msgstr "Kyushu"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q2.rst:26
+#: ../../kihon/Q2.rst:26
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q2.rst:28
-msgid "学部生のユーザーには公開していません。"
-msgstr "Not available to undergraduate users."
+#~ msgid "学部生のユーザーには公開していません。"
+#~ msgstr "Not available to undergraduate users."
+

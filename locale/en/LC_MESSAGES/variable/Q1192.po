@@ -9,80 +9,80 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2021-04-15 14:59+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1192.rst:5
-msgid "消費税８％による負担増"
+#: ../../variable/Q1192.rst:5
+msgid "消費税8％による負担増"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1192.rst:9
+#: ../../variable/Q1192.rst:9
 msgid "変数名"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1192.rst:11
+#: ../../variable/Q1192.rst:11
 msgid "Q1192"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1192.rst:15
+#: ../../variable/Q1192.rst:15
 msgid "質問文"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1192.rst:18
+#: ../../variable/Q1192.rst:18
 msgid "消費税率が8％に上がったことで、あなたのご家庭にとってどの程度負担が増えましたか。（〇は１つだけ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1192.rst:24
+#: ../../variable/Q1192.rst:24
 msgid "選択肢 / 記入欄"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1192.rst:27
+#: ../../variable/Q1192.rst:27
 msgid "あまりかわっていない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1192.rst:29
+#: ../../variable/Q1192.rst:29
 msgid "やや負担が増えた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1192.rst:31
+#: ../../variable/Q1192.rst:31
 msgid "かなり負担が増えた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1192.rst:38
+#: ../../variable/Q1192.rst:38
 msgid "桁あふれコード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1192.rst:44
+#: ../../variable/Q1192.rst:44
 msgid "分類不能の回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1192.rst:50
+#: ../../variable/Q1192.rst:50
 msgid "無回答コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1192.rst:51
+#: ../../variable/Q1192.rst:51
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1192.rst:56
+#: ../../variable/Q1192.rst:56
 msgid "備考"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1192.rst:62
+#: ../../variable/Q1192.rst:62
 msgid "収録シート"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1192.rst:67
+#: ../../variable/Q1192.rst:67
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1192.rst:69
+#: ../../variable/Q1192.rst:69
 msgid "p23_3"
 msgstr ""
 
@@ -90,5 +90,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "消費税８％による負担増"
 #~ msgstr ""
 
