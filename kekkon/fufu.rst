@@ -11,3 +11,6 @@
    /variable/Q508
    /multi_var/Q1209
    /variable/Q1210
+   /multi_var/Q1231
+   /variable/Q1232
+   kajibuntan
