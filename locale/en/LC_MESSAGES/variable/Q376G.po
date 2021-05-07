@@ -43,7 +43,7 @@ msgid "選択肢 / 記入欄"
 msgstr ""
 
 #: ../../variable/Q376G.rst:26
-msgid "<<<<<<< HEAD"
+msgid ""
 msgstr ""
 
 #: ../../variable/Q376G.rst:27

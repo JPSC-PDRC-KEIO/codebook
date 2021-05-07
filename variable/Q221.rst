@@ -117,9 +117,4 @@ Q221
    * p26_1
 
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> refs/remotes/origin/master
 .. index:: Q221

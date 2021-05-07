@@ -40,7 +40,7 @@ msgstr ""
 
 #: ../../variable/Q375A.rst:30 ../../variable/Q375A.rst:47
 #: ../../variable/Q375A.rst:71
-msgid "<<<<<<< HEAD"
+msgid ""
 msgstr ""
 
 #: ../../variable/Q375A.rst:31
@@ -60,7 +60,7 @@ msgid "分類不能の回答コード"
 msgstr ""
 
 #: ../../variable/Q375A.rst:51 ../../variable/Q375A.rst:113
-msgid ">>>>>>> refs/remotes/origin/master"
+msgid ""
 msgstr ""
 
 #: ../../variable/Q375A.rst:56

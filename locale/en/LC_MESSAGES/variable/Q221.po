@@ -195,7 +195,7 @@ msgid "p26_1"
 msgstr ""
 
 #: ../../variable/Q221.rst:120
-msgid "<<<<<<< HEAD"
+msgid ""
 msgstr ""
 
 #~ msgid "変数名: Q221"

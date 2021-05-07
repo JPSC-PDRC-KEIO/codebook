@@ -112,20 +112,20 @@
    :maxdepth: 1
    :hidden:
 
-   ../variable/Q375A
-   ../variable/Q375B
-   ../variable/Q375C
-   ../variable/Q375D
-   ../variable/Q375E
-   ../variable/Q375F
-   ../variable/Q802
-   ../variable/Q372
-   ../variable/Q376A
-   ../variable/Q376B
-   ../variable/Q376C
-   ../variable/Q376D
-   ../variable/Q376E
-   ../variable/Q376F
-   ../variable/Q889
-   ../variable/Q890
-   ../variable/Q891
+   /variable/Q375A
+   /variable/Q375B
+   /variable/Q375C
+   /variable/Q375D
+   /variable/Q375E
+   /variable/Q375F
+   /variable/Q802
+   /variable/Q372
+   /variable/Q376A
+   /variable/Q376B
+   /variable/Q376C
+   /variable/Q376D
+   /variable/Q376E
+   /variable/Q376F
+   /variable/Q889
+   /variable/Q890
+   /variable/Q891

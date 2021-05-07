@@ -25,7 +25,7 @@
 
     "| 持ち家一戸建（敷地は自己所有)
     | 持ち家マンション（敷地は区分所有）
-    | 持ち家一戸建、マンション（敷地は借地）", ":doc:`Q375G </variable/Q375G>`", ":doc:`Q376G </variable/Q376G>`", ":doc:`Q1037 </variable/Q31037>`"
+    | 持ち家一戸建、マンション（敷地は借地）", ":doc:`Q375G </variable/Q375G>`", ":doc:`Q376G </variable/Q376G>`", ":doc:`Q1037 </variable/Q1037>`"
 
 
 .. csv-table:: 賃貸・その他
