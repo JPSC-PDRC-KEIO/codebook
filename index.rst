@@ -23,13 +23,13 @@ JPSCデータセットを利用、分析する際の資料としてご活用く�
    tyosahyo
 
 
-
 JPSC データ
 -----------------
 * **JPSCデータを貸りるには**:|emspace| :doc:`data_riyo`
 * **データの内容（収録ファイル、変数の命名法）**:|emspace| :doc:`id_panel/sheetEX`
 
 .. toctree::
+   :caption: JPSC データ
    :maxdepth: 1
    :hidden:
 
