@@ -4,149 +4,159 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-15 14:59+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-05-10 11:09+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id\n"
+"X-Generator: Poedit 2.4.3\n"
 
 #: ../../id_panel/ID.rst:3
 msgid "調査対象者の番号（ID）"
-msgstr ""
+msgstr "Survey respondent's number (ID)"
 
 #: ../../id_panel/ID.rst:7
 msgid "変数名：ID"
-msgstr ""
+msgstr "Variable name: ID"
 
 #: ../../id_panel/ID.rst:11
 msgid "説明"
-msgstr ""
+msgstr "Description"
 
 #: ../../id_panel/ID.rst:13
 msgid ""
-"調査対象者に一意に割り振った数字です。 この数字によって、その対象者が調査に参加した調査回と出生コーホート（ :doc:`ref "
-"</id_panel/cohort>` )も区別することができます。"
+"調査対象者に一意に割り振った数字です。 この数字によって、その対象"
+"者が調査に参加した調査回と出生コーホート（ :doc:`ref </id_panel/"
+"cohort>` )も区別することができます。"
 msgstr ""
+"This number also allows us to distinguish the survey times and "
+"birth cohorts （ :doc:`ref </id_panel/cohort>` ) in which the "
+"respondent participated in the survey."
 
 #: ../../id_panel/ID.rst:17
 msgid "ID:1～1500"
-msgstr ""
+msgstr "ID: 1 to 1500"
 
 #: ../../id_panel/ID.rst:19
 msgid "第1回調査（1993年）で抽出したサンプル　（コーホートＡ）"
-msgstr ""
+msgstr "Sample selected in the first survey (1993) (Cohort A)"
 
 #: ../../id_panel/ID.rst:20
 msgid "初回調査時点(1993年10月1日)で、24～34歳の女性 （11歳幅）"
 msgstr ""
+"Women aged 24-34 (11 years range) at the time of the first "
+"survey (October 1, 1993)."
 
 #: ../../id_panel/ID.rst:21
 msgid "1958年10月2日～1969年10月1日　出生"
-msgstr ""
+msgstr "Born October 2, 1958 to October 1, 1969"
 
 #: ../../id_panel/ID.rst:22
 msgid "初回対象数　1,500人"
-msgstr ""
+msgstr "Initial target number: 1,500 people"
 
 #: ../../id_panel/ID.rst:25
 msgid "ID:2001～2500"
-msgstr ""
+msgstr "ID: 2001-2500"
 
 #: ../../id_panel/ID.rst:27
 msgid "第5回調査（1997年）で抽出したサンプル　（コーホートＢ）"
-msgstr ""
+msgstr "Sample selected in the 5th survey (1997) (Cohort B)"
 
 #: ../../id_panel/ID.rst:28
 msgid "初回調査時点（1997年10月1日）で、24～27歳の女性 (4歳幅)"
 msgstr ""
+"Women aged 24-27 (4 years range) at the time of the first survey "
+"(October 1, 1997)"
 
 #: ../../id_panel/ID.rst:29
 msgid "1969年10月2日～1973年10月1日　出生"
-msgstr ""
+msgstr "Born October 2, 1969 to October 1, 1973"
 
 #: ../../id_panel/ID.rst:30
 msgid "初回対象数　500人"
-msgstr ""
+msgstr "Initial target number: 500 people"
 
 #: ../../id_panel/ID.rst:33
 msgid "ID:3001～3838"
-msgstr ""
+msgstr "ID: 3001-3838"
 
 #: ../../id_panel/ID.rst:35
 msgid "第11回調査（2003年）で抽出したサンプル　（コーホートＣ）"
-msgstr ""
+msgstr "Sample selected in the 11th survey (2003) (Cohort C)"
 
 #: ../../id_panel/ID.rst:36
 msgid "初回調査時点（2003年10月1日）で、24～29歳の女性 (6歳幅)"
 msgstr ""
+"Women aged 24-29 (6 years range) at the time of the first survey "
+"(October 1, 2003)"
 
 #: ../../id_panel/ID.rst:37
 msgid "1973年10月2日～1979年10月1日　出生"
-msgstr ""
+msgstr "Born October 2, 1973 to October 1, 1979"
 
 #: ../../id_panel/ID.rst:38
 msgid "初回対象数　836人"
-msgstr ""
+msgstr "Number of initial targets: 836"
 
 #: ../../id_panel/ID.rst:39
 msgid "3178,3403のIDは欠番"
-msgstr ""
+msgstr "IDs 3178 and 3403 are missing"
 
 #: ../../id_panel/ID.rst:42
 msgid "ID:4001～4645"
-msgstr ""
+msgstr "ID: 4001-4645"
 
 #: ../../id_panel/ID.rst:44
 msgid "第16回調査（2008年）で抽出したサンプル　（コーホートＤ）"
-msgstr ""
+msgstr "Sample selected in the 16th survey (2008) (Cohort D)"
 
 #: ../../id_panel/ID.rst:45
 msgid "初回調査時点（2008年10月1日）で、24～28歳の女性 (5歳幅)"
 msgstr ""
+"Women aged 24-28 (5 years range) at the time of the first survey "
+"(October 1, 2008)"
 
 #: ../../id_panel/ID.rst:46
 msgid "1979年10月2日～1984年10月1日　出生"
-msgstr ""
+msgstr "Born October 2, 1979 to October 1, 1984"
 
 #: ../../id_panel/ID.rst:47
 msgid "初回対象数 636人"
-msgstr ""
+msgstr "Number of initial targets: 636"
 
 #: ../../id_panel/ID.rst:48
 msgid "4342,4343,4401,4407,4435,4447,4448,4515,4644の9つのIDは欠番"
 msgstr ""
+"The nine IDs 4342, 4343, 4401, 4407, 4435, 4447, 4448, 4515, and "
+"4644 are missing"
 
 #: ../../id_panel/ID.rst:51
 msgid "ID:5001～5648"
-msgstr ""
+msgstr "ID:5001-5648"
 
 #: ../../id_panel/ID.rst:53
 msgid "第21回調査（2013年）で抽出したサンプル　（コーホートＥ）"
-msgstr ""
+msgstr "Sample selected for the 21st survey (2013) (Cohort E)"
 
 #: ../../id_panel/ID.rst:54
 msgid "初回調査時点（2013年10月1日）で、24～28歳の女性 (5歳幅)"
 msgstr ""
+"Women aged 24-28 (5 years range) at the time of the first survey "
+"(October 1, 2013)."
 
 #: ../../id_panel/ID.rst:55
 msgid "1984年10月2日～1989年10月1日　出生"
-msgstr ""
+msgstr "Born October 2, 1984 to October 1, 1989"
 
 #: ../../id_panel/ID.rst:56
 msgid "初回対象数 648人"
-msgstr ""
-
-#~ msgid "本人の番号（ID）"
-#~ msgstr ""
-
-#~ msgid "本人に一意に割り振った数字です。 数字によって、調査開始時期と出生コーホートも区別することができます。"
-#~ msgstr ""
-
+msgstr "Number of initial targets: 648"

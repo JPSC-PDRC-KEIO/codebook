@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-26 10:13+0900\n"
-"PO-Revision-Date: 2020-03-19 21:41+0900\n"
+"PO-Revision-Date: 2021-05-10 10:54+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 2.4.3\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:3
 msgid "調査項目・変数の見つけ方"
@@ -25,48 +26,52 @@ msgstr "How to find items"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:6
 msgid "どんな調査項目があるかを知りたい"
-msgstr ""
+msgstr "I want to know what kind of survey items are available"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:8
 msgid ""
-"「 :doc:`komoku` 」 のページでは調査項目を分野別に階層構造で分類、整理しています [#]_ 。 "
-"関心のある分野についてどのような質問が収録されているかを俯瞰的、網羅的に知りたい場合は、 まず、:doc:`komoku` "
-"のページからその分野のデイレクトリをたどっていくとよいでしょう。"
+"「 :doc:`komoku` 」 のページでは調査項目を分野別に階層構造で分類、整理しています [#]_ 。 関心のある分野についてどのような質問が収録されているかを"
+"俯瞰的、網羅的に知りたい場合は、 まず、:doc:`komoku` のページからその分野のデイレクトリをたどっていくとよいでしょう。"
 msgstr ""
+"The \"Survey items\" page categorizes and organizes survey items by field in a hierarchical structure [1].  If you want to get a bird's eye view "
+"of what questions are included in your area of interest, you can start by going to the Survey items page and follow the directories in that area."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:13
 msgid "特定の項目や変数名を調べたい"
-msgstr ""
+msgstr "I want to look up a specific item or variable name."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:15
 msgid "特定の項目や変数についてピンポイントで調べたい場合は、そのキーワードや変数名（e.g. Q1）をサイドバーの検索窓に入力して検索してください。"
 msgstr ""
+" If you want to pinpoint a specific item or variable, you can search for it by typing the keyword or variable name (e.g. Q1) in the search window "
+"in the sidebar. "
 
 #: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:16
 msgid ""
-"なお、質問の内容は同じでも、質問文のワーディングや選択肢のコードを変更した場合には、原則、変数名を変更しています。例えば、対象者本人の "
-":doc:`syugyo/syugyojoutai` は、第2回調査で選択肢に変更を加えたため、変数名も変更されています。"
+"なお、質問の内容は同じでも、質問文のワーディングや選択肢のコードを変更した場合には、原則、変数名を変更しています。例えば、対象者本人の :doc:"
+"`syugyo/syugyojoutai` は、第2回調査で選択肢に変更を加えたため、変数名も変更されています。"
 msgstr ""
+"Note that, in principle, variable names are changed when the question is the same, but the wording of the question or the code of the choices is "
+"changed.　For example, in the second survey, changes were made to the  :doc:`syugyo/syugyojoutai`  option regarding the respondents themselves, "
+"so the variable names were also changed."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:17
 msgid ""
-"このように項目の変数名を変更しているものについては、変数名の変遷についての説明ページを原則として設けていますが、現段階ではまだ完全には網羅できてはいません。お使いになる変数が第何回の調査からデータに含まれているかは、各変数のページの"
-" :term:`収録シート` の項で確認できます。"
+"このように項目の変数名を変更しているものについては、変数名の変遷についての説明ページを原則として設けていますが、現段階ではまだ完全には網羅できては"
+"いません。お使いになる変数が第何回の調査からデータに含まれているかは、各変数のページの :term:`収録シート` の項で確認できます。"
 msgstr ""
+"For items where the variable name of the item has been changed in this way, we have, in principle, provided a page explaining the change in the "
+"variable name, but it is not yet completely comprehensive at this stage. You can check \"how many surveys include the variable you are using in "
+"the data\" from the first survey in the Recording Sheets section of each variable's page."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:21
 msgid "調査項目の分類はJPSCの :doc:`調査票<tyosahyo>` に準拠していますが、調査票の構成と若干異なる箇所があります。"
 msgstr ""
+"The classification of the survey items is based on the JPSC :doc:'questionnaire<tyosahyo>`, but there are some differences from the structure of "
+"the questionnaire."
 
 #~ msgid "利用にあたって"
 #~ msgstr "About this system"
 
 #~ msgid "**問い合わせ先**"
 #~ msgstr "**Contact**"
-
-#~ msgid "このように項目の変数名を変更しているものについては、変数名の変遷についての説明ページを原則として設けていますが、現段階ではまだ完全には網羅できてはいません。お使いになる変数が第何回の調査からデータに含まれているかを各変数のページの収録シートの項で確認するよう注意してください。"
-#~ msgstr ""
-
-#~ msgid "このように項目の変数名を変更しているものについては、変数名の変遷についての説明ページを原則として設けていますが、現段階ではまだ完全には網羅できてはいません。お使いになる変数が第何回の調査からデータに含まれているかは、各変数のページの収録シートの項で確認できます。"
-#~ msgstr ""
-

@@ -4,19 +4,20 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-15 14:59+0900\n"
-"PO-Revision-Date: 2020-03-17 06:03+0900\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-05-10 10:37+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.4.3\n"
 
 #: ../../tyosahyo.rst:3
 msgid "調査票"
@@ -24,14 +25,16 @@ msgstr "Questionnaires"
 
 #: ../../tyosahyo.rst:5
 msgid ""
-"`日本語版（PDRCサイト内から一括ダウンロード) "
-"<https://www.pdrc.keio.ac.jp/paneldata/datasets/jpsc#jpsc_etsuran>`_"
+"`日本語版（PDRCサイト内から一括ダウンロード) <https://www.pdrc.keio.ac."
+"jp/paneldata/datasets/jpsc#jpsc_etsuran>`_"
 msgstr ""
+"'Japanese version (batch download from the PDRC website) \v<https://www."
+"pdrc.keio.ac.jp/paneldata/datasets/jpsc#jpsc_etsuran>`_"
 
 #: ../../tyosahyo.rst:7
-msgid "`英語版（HTML:主な項目のみ） <https://jpscdocs-en.readthedocs.io/en/latest/>`_"
+msgid ""
+"`英語版（HTML:主な項目のみ） <https://jpscdocs-en.readthedocs.io/en/"
+"latest/>`_"
 msgstr ""
-
-#~ msgid "`英語版（HTML:主な項目のみ） <https://www.   >`_"
-#~ msgstr ""
-
+"'English version (HTML: main items only)<https://jpscdocs-en.readthedocs."
+"io/en/latest/>`_"

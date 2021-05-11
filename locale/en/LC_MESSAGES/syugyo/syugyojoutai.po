@@ -9,19 +9,21 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-15 14:59+0900\n"
-"PO-Revision-Date: 2020-03-24 18:10+0900\n"
+"PO-Revision-Date: 2021-05-11 10:29+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.0\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: ../../syugyo/syugyojoutai.rst:3
+#, fuzzy
 msgid "就業状態"
-msgstr "Woking status"
+msgstr "Working status"
 
 #: ../../syugyo/syugyojoutai.rst:6
 msgid "質問文"
@@ -29,11 +31,13 @@ msgstr "Question"
 
 #: ../../syugyo/syugyojoutai.rst:7
 #, fuzzy
-msgid "あなたは、現在（調査年９月）、仕事についていますか。（仕事には常勤従業員、パート、アルバイト、嘱託、自営、家族従業などすべて含みます。ただし、学生アルバイトは除きます。)"
+msgid ""
+"あなたは、現在（調査年９月）、仕事についていますか。（仕事には常勤従業員、パート、アルバイ"
+"ト、嘱託、自営、家族従業などすべて含みます。ただし、学生アルバイトは除きます。)"
 msgstr ""
-"Are you currently working? (Include all jobs such as full-time and part-"
-"time jobs, part-time engagements, self-employment and family business "
-"employment, but exclude student part-time jobs.)"
+"Are you currently working? (Include all jobs such as full-time and part-time jobs, part-"
+"time engagements, self-employment and family business employment, but exclude student part-"
+"time jobs.)"
 
 #: ../../syugyo/syugyojoutai.rst:10
 msgid "|nt1|"
@@ -104,4 +108,3 @@ msgstr "4.House wife"
 #, fuzzy
 msgid "5. その他の無職"
 msgstr "5.Other unemployed"
-
