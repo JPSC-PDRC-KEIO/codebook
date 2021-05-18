@@ -4,99 +4,100 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-05-17 13:29+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:5
 msgid "初婚時期：月"
-msgstr ""
+msgstr "First Marriage Period: Months"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:11
 msgid "Q1044B"
-msgstr ""
+msgstr "Q1044B"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Questionnaire"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:18
 msgid "あなたがはじめて結婚されたのはいつですか。"
-msgstr ""
+msgstr "When did you get married for the first time?"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:26
 msgid "＿ ＿ 月"
-msgstr ""
+msgstr "It was in＿(months)."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:32
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:33
 msgid "98"
-msgstr ""
+msgstr "98"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:38
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response codes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:44
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:45
 msgid "99"
-msgstr ""
+msgstr "99"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:50
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:56
 msgid "収録シート"
-msgstr ""
+msgstr "Recording Sheet"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:61
 msgid "p11c_1"
-msgstr ""
+msgstr "p11c_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:63
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:65
 msgid "p16d_1"
-msgstr ""
+msgstr "p16d_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:67
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044B.rst:69
 msgid "p21e_1"
-msgstr ""
+msgstr "p21e_1"
 
 #~ msgid "変数名: Q1044B"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
