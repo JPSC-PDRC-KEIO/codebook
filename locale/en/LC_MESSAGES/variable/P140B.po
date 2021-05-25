@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2020-02-25 18:24+0900\n"
+"PO-Revision-Date: 2021-05-21 14:16+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.3\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:5
 msgid "現在の配偶者との結婚時期：月"
@@ -42,7 +42,7 @@ msgstr "When did you get married to your present husband?"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:24
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:26
 msgid "＿ ＿ 月"
@@ -50,7 +50,7 @@ msgstr "Month ＿＿＿＿"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:32
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:33
 msgid "98"
@@ -58,11 +58,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:38
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response codes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:44
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:45
 msgid "99"

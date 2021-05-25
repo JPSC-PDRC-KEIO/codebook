@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-03 17:58+0900\n"
-"PO-Revision-Date: 2020-02-26 16:17+0900\n"
+"PO-Revision-Date: 2021-05-22 18:18+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 2.4.3\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q674.rst:5
 msgid "中学校区分（配偶者）"
@@ -37,37 +38,35 @@ msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q674.rst:18
 msgid "ご主人が卒業した中学校は次のうちどれでしたか。"
-msgstr "What kind of junior high school did your husband attend?"
+msgstr "Which type of junior high school did your husband graduate from?"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q674.rst:24
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q674.rst:27
-#, fuzzy
 msgid "公立の中学校"
-msgstr "Private"
+msgstr "Public junior high school"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q674.rst:29
-#, fuzzy
 msgid "国立の中学校"
-msgstr "Private"
+msgstr "National junior high school"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q674.rst:31
 msgid "私立の中学校"
-msgstr "Private"
+msgstr "Private  junior high school"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q674.rst:38
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q674.rst:44
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response codes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q674.rst:50
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q674.rst:51
 msgid "4"
@@ -78,7 +77,9 @@ msgid "備考"
 msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q674.rst:58
-msgid "第20回までは、公立と国立を分けず、選択肢1.を「公立・国立」としていました。"
+msgid ""
+"第20回までは、公立と国立を分けず、選択肢1.を「公立・国立」としていまし"
+"た。"
 msgstr ""
 "Until the 20th wave, the public and national schools were not separatly "
 "classified, so choice1 was “public and national.”"
@@ -209,7 +210,3 @@ msgstr ""
 
 #~ msgid "公立・国立の中学校"
 #~ msgstr "Public"
-
-#~ msgid "3"
-#~ msgstr ""
-

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-19 15:52+0900\n"
-"PO-Revision-Date: 2020-03-25 15:58+0900\n"
+"PO-Revision-Date: 2021-05-21 14:44+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.3\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9.rst:3
 msgid "現在の就学状況〔第1～9回〕"
@@ -42,7 +42,7 @@ msgstr "Your Student or worker status"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9.rst:17
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9.rst:19
 msgid "未就学"
@@ -74,15 +74,15 @@ msgstr "Other answer"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9.rst:31
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9.rst:35
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response codes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9.rst:39
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9.rst:40
 msgid "8"
@@ -90,7 +90,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9.rst:43
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9.rst:45
 msgid "|nt1| 詳しくはこちら（:doc:`/kihon/syugaku`）をご参照ください。"

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-03 20:09+0900\n"
-"PO-Revision-Date: 2020-03-03 20:35+0900\n"
+"PO-Revision-Date: 2021-05-24 11:29+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -18,11 +18,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.3\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q39R.rst:5
 msgid "家族7：現在の就学・就労"
-msgstr "Family-member7: Student or worker status [10th wave]"
+msgstr "Family7: Student or worker status [10th wave]"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q39R.rst:9
 msgid "変数名"
@@ -42,11 +42,11 @@ msgstr "Student or Worker status"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q39R.rst:21
 msgid "家族7"
-msgstr "Family-member7"
+msgstr "Family7"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q39R.rst:27
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q39R.rst:30
 msgid "未就学"
@@ -86,15 +86,15 @@ msgstr "Other"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q39R.rst:53
 msgid "桁あふれコード"
-msgstr "Outside-code-range response"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q39R.rst:59
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response codes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q39R.rst:65
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q39R.rst:66
 msgid "10"
