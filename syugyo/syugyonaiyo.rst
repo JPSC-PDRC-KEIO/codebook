@@ -13,7 +13,7 @@
    gensyoku/kaisya_seturitu
    gensyoku/syokumu
    jouken/kyuyo
-   jouken/roudoujikan&kyuka
+   jouken/roudoujikan_kyuka
    jouken/syakaihoken_kanyu
    jouken/ikujikyuka
    jouken/kaigokyuka

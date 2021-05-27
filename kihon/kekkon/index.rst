@@ -14,7 +14,7 @@
    :maxdepth: 1
 
    syokon
-   kekkon&risibetsu
+   kekkon_risibetsu
    kekkonkikan
 
    

@@ -12,7 +12,7 @@
    gensyoku_hs/kaisya_seturitu_hs 
    gensyoku_hs/syokumu_hs
    kyuyo_hs
-   roudoujikan&kyuka_hs
+   roudoujikan_kyuka_hs
    /variable/Q1031
    /variable/Q1049
    syugyo_keitai_hs

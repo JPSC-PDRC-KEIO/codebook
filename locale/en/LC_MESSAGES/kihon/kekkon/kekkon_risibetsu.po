@@ -20,11 +20,11 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.4.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/kekkon&risibetsu.rst:3
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/kekkon_risibetsu.rst:3
 msgid "結婚経験・離死別経験"
 msgstr "Past separation from or loss of a spouse"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/kekkon&risibetsu.rst:11
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/kekkon_risibetsu.rst:11
 msgid ""
 "初回調査の折には、その時点での無配偶者に結婚経験を、有配偶"
 "者に離死別経験を、それぞれ聞いています。第12・17回調査で"
@@ -38,7 +38,7 @@ msgstr ""
 "asked about their experiences of separation and "
 "bereavement."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/kekkon&risibetsu.rst:13
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/kekkon_risibetsu.rst:13
 msgid ""
 "なお、第6回にも離死別経験を聞いていますが、変数名が異なり"
 "ます（有配偶は :doc:`Q877</variable/Q877>`、 無配偶は :"
