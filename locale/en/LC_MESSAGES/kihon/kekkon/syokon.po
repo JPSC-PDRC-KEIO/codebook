@@ -87,27 +87,13 @@ msgid "無配偶：第21回"
 msgstr "Unmarried: 21st"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:32
-msgid ""
-"初婚年・月の変数名は Q1044A・Q1044B です。ただし、第2回調査（コーホートA初回）と第5回調査"
-"（コーホートB初回）は、:doc:`/variable/Q527A`・:doc:`/variable/Q527B` を使用しています。なお、"
-"第11回調査以降は、年月欄か結婚年齢欄かのいずれかに記入いただくようにしています。"
-msgstr ""
-"The variable names for the year and month of first marriage are Q1044A and Q1044B. However, "
-"for the 2nd survey (Cohort A first time) and the 5th survey (Cohort B first time), /variable/"
-"Q527A and /variable/Q527B are used. From the 11th survey onward, the respondents are asked to "
-"fill in either the Year and Month column or the Marriage Age column."
+msgid "初婚年・月の変数名はQ1044A・Q1044Bです。ただし、第2回調査（コーホートA初回）と第5回調査（コーホートB初回）は、 :doc:`Q527A</variable/Q527A>` ・ :doc:`Q527B</variable/Q527B>` を使用しています。なお、第11回調査以降は、年月欄か結婚年齢欄かのいずれかに記入いただくようにしています。"
+msgstr "The variable names for the year and month of first marriage are Q1044A and Q1044B. However, for the 2nd survey \(Cohort A first time\) and the 5th survey \(Cohort B first time\), :doc:`/variable/Q527A` and :doc:`/variable/Q527B` are used. From the 11th survey onward, the respondents are asked to fill in either the Year and Month column or the Marriage Age column."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:34
-msgid ""
-"コーホートA～Dには複数回質問をしていますが、これは、記入漏れ等への対処のためです。調査回が新し"
-"いほどデータ数は多くなりますが、調査からの離脱者も多くなります。ご注意ください。"
-msgstr ""
-"Cohorts A through D are asked multiple times in order to avoid omissions. The newer the "
-"survey, the more data we have, but also the more people who drop out of the survey. Please be "
-"careful."
+msgid "コーホートA～Dには複数回質問をしていますが、これは、記入漏れ等への対処のためです。調査回が新しいほどデータ数は多くなりますが、調査からの離脱者も多くなります。ご注意ください。"
+msgstr "Cohorts A through D are asked multiple times in order to avoid omissions. The newer the survey, the more data we have, but also the more people who drop out of the survey. Please be careful."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:36
 msgid "また、有配偶と無配偶の調査回の相違にもご注意ください。"
-msgstr ""
-"Also, please note the difference in the number of times the survey is administered between "
-"married and unmarried respondents."
+msgstr "Also, please note the difference in the number of times the survey is administered between married and unmarried respondents."

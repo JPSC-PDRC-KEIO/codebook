@@ -25,16 +25,12 @@ msgstr "Questionnaires"
 
 #: ../../tyosahyo.rst:5
 msgid ""
-"`日本語版（PDRCサイト内から一括ダウンロード) <https://www.pdrc.keio.ac."
-"jp/paneldata/datasets/jpsc#jpsc_etsuran>`_"
+"`日本語版（PDRCサイト内から一括ダウンロード) <https://www.pdrc.keio.ac.jp/paneldata/datasets/jpsc#jpsc_etsuran>`_"
 msgstr ""
-"'Japanese version (batch download from the PDRC website) \v<https://www."
-"pdrc.keio.ac.jp/paneldata/datasets/jpsc#jpsc_etsuran>`_"
+"`Japanese version (batch download from the PDRC website) <https://www.pdrc.keio.ac.jp/paneldata/datasets/jpsc#jpsc_etsuran>`_"
 
 #: ../../tyosahyo.rst:7
 msgid ""
-"`英語版（HTML:主な項目のみ） <https://jpscdocs-en.readthedocs.io/en/"
-"latest/>`_"
+"`英語版（HTML:主な項目のみ） <https://jpscdocs-en.readthedocs.io/en/latest/>`_"
 msgstr ""
-"'English version (HTML: main items only)<https://jpscdocs-en.readthedocs."
-"io/en/latest/>`_"
+"`English version (HTML: main items only) <https://jpscdocs-en.readthedocs.io/en/latest/>`_"

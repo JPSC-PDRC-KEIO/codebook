@@ -43,8 +43,8 @@ msgstr "I want to look up a specific item or variable name."
 #: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:15
 msgid "特定の項目や変数についてピンポイントで調べたい場合は、そのキーワードや変数名（e.g. Q1）をサイドバーの検索窓に入力して検索してください。"
 msgstr ""
-" If you want to pinpoint a specific item or variable, you can search for it by typing the keyword or variable name (e.g. Q1) in the search window "
-"in the sidebar. "
+"If you want to pinpoint a specific item or variable, you can search for it by typing the keyword or variable name (e.g. Q1) in the search window"
+"in the sidebar."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:16
 msgid ""
