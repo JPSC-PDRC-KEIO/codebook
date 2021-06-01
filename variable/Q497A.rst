@@ -30,7 +30,7 @@ Q497A
 .. rst-class:: overflow
 桁あふれコード
 -------------------------------
-  8
+  98
 
 
 .. rst-class:: not_available
@@ -42,7 +42,7 @@ Q497A
 .. rst-class:: not_available
 無回答コード
 -------------------------------------
-  9
+  99
 
 
 .. rst-class:: bikou
