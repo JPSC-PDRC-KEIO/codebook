@@ -27,7 +27,7 @@ msgstr ""
 msgid "勤務先の業種"
 msgstr ""
 
-#: ../../syugyo/syugyonaiyo.rst:3
+#: ../../syugyo/syugyonaiyo.rst:2
 msgid "就業の内容"
 msgstr "Details of employment"
 

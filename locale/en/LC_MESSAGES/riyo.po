@@ -48,12 +48,8 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:16
 msgid ""
-"なお、質問の内容は同じでも、質問文のワーディングや選択肢のコードを変更した場合には、原則、変数名を変更しています。例えば、対象者本人の :doc:"
-"`syugyo/syugyojoutai` は、第2回調査で選択肢に変更を加えたため、変数名も変更されています。"
-msgstr ""
-"Note that, in principle, variable names are changed when the question is the same, but the wording of the question or the code of the choices is "
-"changed.　For example, in the second survey, changes were made to the  :doc:`syugyo/syugyojoutai`  option regarding the respondents themselves, "
-"so the variable names were also changed."
+"なお、質問の内容は同じでも、質問文のワーディングや選択肢のコードを変更した場合には、原則、変数名を変更しています。例えば、対象者本人の :doc:`syugyo/syugyojoutai` は、第2回調査で選択肢に変更を加えたため、変数名も変更されています。"
+msgstr "Note that, in principle, variable names are changed when the question is the same, but the wording of the question or the code of the choices is changed.　For example, in the second survey, changes were made to the  :doc:`syugyo/syugyojoutai`  option regarding the respondents themselves, so the variable names were also changed."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:17
 msgid ""

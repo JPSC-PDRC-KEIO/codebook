@@ -1,7 +1,7 @@
 .. 注釈の文章変更
 
-.. |nt1| replace:: この質問項目の変数名と選択肢は調査回で異なります。 The variable names and choices for this questionnaire differ among survey times.
-.. |nt2| replace:: この質問項目の変数名は調査回によって異なります。 The variable names for this questionnaire differ among survey times.
+.. |nt1| replace:: この質問項目の変数名と選択肢は調査回で異なります。 ／The variable names and choices for this questionnaire differ among survey times.
+.. |nt2| replace:: この質問項目の変数名は調査回によって異なります。 ／The variable names for this questionnaire differ among survey times.
 .. |s| unicode:: 0xA0
    :trim:
 .. |nt3| replace:: 初回調査 initial

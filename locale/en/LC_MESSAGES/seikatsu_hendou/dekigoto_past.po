@@ -78,7 +78,7 @@ msgstr "Multiple debts/bankruptcy"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "離婚・別居"
-msgstr "7\tDivorce/separation"
+msgstr "Divorce/separation"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "転勤や単身赴任"

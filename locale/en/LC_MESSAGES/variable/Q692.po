@@ -80,10 +80,10 @@ msgstr ""
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q692.rst:61
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q692.rst:63
 #, fuzzy
-msgid "|nt1| 詳しくはこちら（:doc:`/kihon_kazoku/oya_giri`）をご参照ください。"
-msgstr "|nt1| For more information, please click here （:doc:`/kihon_kazoku/oya_giri`）."
+msgid "詳しくはこちら（:doc:`/kihon_kazoku/oya_giri`）をご参照ください。"
+msgstr "For more information, please click here \(:doc:`/kihon_kazoku/oya_giri`\)."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q692.rst:66
 msgid "収録シート"

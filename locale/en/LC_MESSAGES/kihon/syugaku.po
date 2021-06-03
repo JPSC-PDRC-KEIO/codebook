@@ -58,7 +58,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:1
 msgid "選択肢"
-msgstr ""
+msgstr "Choices"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
 msgid "1.未就学"
