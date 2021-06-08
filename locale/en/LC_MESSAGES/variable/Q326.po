@@ -50,7 +50,7 @@ msgstr "Choices / Entry field"
 
 #: ../../variable/Q326.rst:29
 msgid "＿ ＿万円"
-msgstr "__ __ __ ten thousand yen"
+msgstr "_ _ ten thousand yen"
 
 #: ../../variable/Q326.rst:31
 msgid "もらわない"
