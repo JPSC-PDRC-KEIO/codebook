@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-15 14:59+0900\n"
-"PO-Revision-Date: 2021-06-03 12:11+0900\n"
+"PO-Revision-Date: 2021-06-04 11:10+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -20,31 +20,36 @@ msgstr ""
 "Generated-By: Babel 2.9.0\n"
 "X-Generator: Poedit 2.4.3\n"
 
-#: ../../syugyo/syugyojoutai.rst:2
+#: ../../syugyo/syugyojoutai.rst:3
 msgid "就業状態"
 msgstr "Working status"
 
-#: ../../syugyo/syugyojoutai.rst:5
+#: ../../syugyo/syugyojoutai.rst:6
 msgid "質問文"
 msgstr "Question"
 
 #: ../../syugyo/syugyojoutai.rst:7
-msgid "あなたは、現在（調査年９月）、仕事についていますか。（仕事には常勤従業員、パート、アルバイト、嘱託、自営、家族従業などすべて含みます。ただし、学生アルバイトは除きます。）"
-msgstr "Are you currently working? \(Include all jobs such as full-time and part-time jobs, part-time engagements, self-employment and family business employment, but exclude student part-time jobs.\)"
+msgid ""
+"あなたは、現在（調査年９月）、仕事についていますか。（仕事には常勤従業員、パート、アルバイ"
+"ト、嘱託、自営、家族従業などすべて含みます。ただし、学生アルバイトは除きます。)"
+msgstr ""
+"Do you have a job at present (as of September 2011)? (Work includes full-time, part-time, "
+"temporary, self-employed, and family employment. However, part-time jobs for students are "
+"excluded.)"
 
 #: ../../syugyo/syugyojoutai.rst:10
 msgid "|nt1|"
 msgstr ""
 
-#: ../../syugyo/syugyojoutai.rst:14
+#: ../../syugyo/syugyojoutai.rst:1
 msgid "第1回"
 msgstr "1st wave"
 
-#: ../../syugyo/syugyojoutai.rst:14
+#: ../../syugyo/syugyojoutai.rst:1
 msgid "第2回以降"
 msgstr "2nd wave -"
 
-#: ../../syugyo/syugyojoutai.rst:17
+#: ../../syugyo/syugyojoutai.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
@@ -56,38 +61,38 @@ msgstr ""
 msgid ":doc:`Q142 </variable/Q142>`"
 msgstr ""
 
-#: ../../syugyo/syugyojoutai.rst:18
+#: ../../syugyo/syugyojoutai.rst:1
 msgid "選択肢"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
-#: ../../syugyo/syugyojoutai.rst:18
+#: ../../syugyo/syugyojoutai.rst
 msgid "1. 仕事についている"
-msgstr "1.In work"
+msgstr "1.Working"
 
-#: ../../syugyo/syugyojoutai.rst:19
+#: ../../syugyo/syugyojoutai.rst
 msgid "2. 学生"
 msgstr "2.Students"
 
-#: ../../syugyo/syugyojoutai.rst:20
+#: ../../syugyo/syugyojoutai.rst
 msgid "3. 専業主婦"
 msgstr "3.Housewife"
 
-#: ../../syugyo/syugyojoutai.rst:21
+#: ../../syugyo/syugyojoutai.rst
 msgid "4. その他"
 msgstr "4.Other"
 
-#: ../../syugyo/syugyojoutai.rst:22
+#: ../../syugyo/syugyojoutai.rst
 msgid "2. 休職中"
 msgstr "2.In temporary retirement"
 
-#: ../../syugyo/syugyojoutai.rst:23
+#: ../../syugyo/syugyojoutai.rst
 msgid "3. 学生"
 msgstr "3.Student"
 
-#: ../../syugyo/syugyojoutai.rst:24
+#: ../../syugyo/syugyojoutai.rst
 msgid "4. 専業主婦"
-msgstr "4.House wife"
+msgstr "4.Housewife"
 
-#: ../../syugyo/syugyojoutai.rst:25
+#: ../../syugyo/syugyojoutai.rst
 msgid "5. その他の無職"
 msgstr "5.Other unemployed"

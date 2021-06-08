@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-19 15:52+0900\n"
-"PO-Revision-Date: 2021-06-01 13:35+0900\n"
+"PO-Revision-Date: 2021-06-04 13:33+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -30,15 +30,15 @@ msgstr "Please answer the following questions about major events that you or you
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:7
 msgid "（1）あなたが、中学を卒業してから現在までのあいだで、あなたやあなたのご家族に次のような大きな出来事がありましたか。（〇はいくつでも）"
-msgstr "\(1\) Between the time you graduated from junior high school and now, have you or your family experienced any of the following major events? (circle as many as you like)"
+msgstr "(1) Between the time you graduated from junior high school and now, have you or your family experienced any of the following major events? (circle as many as you like)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:9
 msgid "（2）その結果どのようなことが起こりましたか。あなたが覚えている限りで、次の中からいくつでもお答えください。（〇はいくつでも）"
-msgstr "\(2\) What happened as a result? Please answer as many of the following questions as you can remember. Please choose as many as you can remember."
+msgstr "(2) What happened as a result? Please answer as many of the following questions as you can remember. (Circle as many items as apply to you)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:12
 msgid "中学卒業～現在に起きた大きな出来事"
-msgstr "Big events after graduation from junior high school"
+msgstr "Major events after graduation from junior high school"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "どれもなかった"
@@ -46,7 +46,7 @@ msgstr "None of the above"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst
 msgid "手術や長期療養を要する"
-msgstr "Serious illness requiring surgery"
+msgstr "Serious illness that requires surgery"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst
 msgid "ような重い病気"
@@ -78,7 +78,7 @@ msgstr "Multiple debts/bankruptcy"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "離婚・別居"
-msgstr "Divorce/separation"
+msgstr "7\tDivorce/separation"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_past.rst:1
 msgid "転勤や単身赴任"
