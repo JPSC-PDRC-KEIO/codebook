@@ -81,7 +81,6 @@ msgid "備考"
 msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q692.rst:63
-#, fuzzy
 msgid "詳しくはこちら（:doc:`/kihon_kazoku/oya_giri`）をご参照ください。"
 msgstr "For more information, please click here \(:doc:`/kihon_kazoku/oya_giri`\)."
 

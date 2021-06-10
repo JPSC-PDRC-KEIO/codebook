@@ -31,11 +31,11 @@ msgstr "Question"
 #: ../../syugyo/syugyojoutai.rst:7
 msgid ""
 "あなたは、現在（調査年９月）、仕事についていますか。（仕事には常勤従業員、パート、アルバイ"
-"ト、嘱託、自営、家族従業などすべて含みます。ただし、学生アルバイトは除きます。)"
+"ト、嘱託、自営、家族従業などすべて含みます。ただし、学生アルバイトは除きます。）"
 msgstr ""
-"Do you have a job at present (as of September 2011)? (Work includes full-time, part-time, "
+"Do you have a job at present \(as of September 2011)? (Work includes full-time, part-time, "
 "temporary, self-employed, and family employment. However, part-time jobs for students are "
-"excluded.)"
+"excluded.\)"
 
 #: ../../syugyo/syugyojoutai.rst:10
 msgid "|nt1|"
