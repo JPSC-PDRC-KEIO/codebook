@@ -8,92 +8,107 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2021-06-17 10:35+0900\n"
 "PO-Revision-Date: 2021-05-14 10:44+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en_US\n"
-"X-Generator: Poedit 2.4.3\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:3
+#: ../../kihon/kekkon/syokon.rst:3
 msgid "初婚時期"
 msgstr "Time of first marriage"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:13
+#: ../../kihon/kekkon/syokon.rst:13
 msgid "**初婚時期の調査について**"
 msgstr "Survey on the timing of first marriage"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:15
+#: ../../kihon/kekkon/syokon.rst:15
 msgid "下記の調査回に初婚年・月を聞いています。"
-msgstr "The year and month of first marriage are asked in the following survey times."
+msgstr ""
+"The year and month of first marriage are asked in the following survey "
+"times."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:16
+#: ../../kihon/kekkon/syokon.rst:16
 msgid "●コーホートA"
 msgstr "●Cohort A"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:17
+#: ../../kihon/kekkon/syokon.rst:17
 msgid "有配偶：第2回・第12回・第17回"
 msgstr "Married: 2nd, 12th, 17th"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:18
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:21
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:24
+#: ../../kihon/kekkon/syokon.rst:18 ../../kihon/kekkon/syokon.rst:21
+#: ../../kihon/kekkon/syokon.rst:24
 msgid "無配偶：第12回・第17回"
 msgstr "Unmarried: 12th and 17th"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:19
+#: ../../kihon/kekkon/syokon.rst:19
 msgid "●コーホートB"
 msgstr "●Cohort B"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:20
+#: ../../kihon/kekkon/syokon.rst:20
 msgid "有配偶：第5回・第12回・第17回"
 msgstr "Married: 5th, 12th, 17th"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:22
+#: ../../kihon/kekkon/syokon.rst:22
 msgid "●コーホートC"
 msgstr "●Cohort C"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:23
+#: ../../kihon/kekkon/syokon.rst:23
 msgid "有配偶：第11回・第12回・第17回"
 msgstr "Married: 11th, 12th, 17th"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:25
+#: ../../kihon/kekkon/syokon.rst:25
 msgid "●コーホートD"
 msgstr "●Cohort D"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:26
+#: ../../kihon/kekkon/syokon.rst:26
 msgid "有配偶：第16回・第17回"
 msgstr "Married: 16th, 17th"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:27
+#: ../../kihon/kekkon/syokon.rst:27
 msgid "無配偶：第17回"
 msgstr "Unmarried: 17th"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:28
+#: ../../kihon/kekkon/syokon.rst:28
 msgid "●コーホートE"
 msgstr "●Cohort E"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:29
+#: ../../kihon/kekkon/syokon.rst:29
 msgid "有配偶：第21回"
 msgstr "Married: 21st"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:30
+#: ../../kihon/kekkon/syokon.rst:30
 msgid "無配偶：第21回"
 msgstr "Unmarried: 21st"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:32
-msgid "初婚年・月の変数名はQ1044A・Q1044Bです。ただし、第2回調査（コーホートA初回）と第5回調査（コーホートB初回）は、 :doc:`Q527A</variable/Q527A>` ・ :doc:`Q527B</variable/Q527B>` を使用しています。なお、第11回調査以降は、年月欄か結婚年齢欄かのいずれかに記入いただくようにしています。"
-msgstr "The variable names for the year and month of first marriage are Q1044A and Q1044B. However, for the 2nd survey \(Cohort A first time\) and the 5th survey \(Cohort B first time\), :doc:`/variable/Q527A` and :doc:`/variable/Q527B` are used. From the 11th survey onward, the respondents are asked to fill in either the Year and Month column or the Marriage Age column."
+#: ../../kihon/kekkon/syokon.rst:32
+msgid ""
+"初婚年・月の変数名は Q1044A・Q1044B です。ただし、第2回調査（コーホートA初回）と第5回調査（コーホートB初回）は、 "
+":doc:`Q527A</variable/Q527A>` ・ :doc:`Q527B</variable/Q527B>` "
+"を使用しています。なお、第11回調査以降は、年月欄か結婚年齢欄かのいずれかに記入いただくようにしています。"
+msgstr ""
+"The variable names for the year and month of first marriage are Q1044A "
+"and Q1044B. However, for the 2nd survey \\(Cohort A first time\\) and the"
+" 5th survey \\(Cohort B first time\\), :doc:`/variable/Q527A` and "
+":doc:`/variable/Q527B` are used. From the 11th survey onward, the "
+"respondents are asked to fill in either the Year and Month column or the "
+"Marriage Age column."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:34
+#: ../../kihon/kekkon/syokon.rst:34
 msgid "コーホートA～Dには複数回質問をしていますが、これは、記入漏れ等への対処のためです。調査回が新しいほどデータ数は多くなりますが、調査からの離脱者も多くなります。ご注意ください。"
-msgstr "Cohorts A through D are asked multiple times in order to avoid omissions. The newer the survey, the more data we have, but also the more people who drop out of the survey. Please be careful."
+msgstr ""
+"Cohorts A through D are asked multiple times in order to avoid omissions."
+" The newer the survey, the more data we have, but also the more people "
+"who drop out of the survey. Please be careful."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kekkon/syokon.rst:36
+#: ../../kihon/kekkon/syokon.rst:36
 msgid "また、有配偶と無配偶の調査回の相違にもご注意ください。"
-msgstr "Also, please note the difference in the number of times the survey is administered between married and unmarried respondents."
+msgstr ""
+"Also, please note the difference in the number of times the survey is "
+"administered between married and unmarried respondents."
+

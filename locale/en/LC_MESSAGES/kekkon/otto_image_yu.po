@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"POT-Creation-Date: 2021-06-17 10:35+0900\n"
 "PO-Revision-Date: 2020-01-30 16:20+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -111,7 +111,7 @@ msgstr ""
 
 #: ../../kekkon/otto_image_yu.rst:1
 msgid "父親のように保護してくれる人"
-msgstr " A protector, like a father"
+msgstr "A protector, like a father"
 
 #: ../../kekkon/otto_image_yu.rst:1
 msgid ":doc:`Q1166F </variable/Q1166F>`"
@@ -134,7 +134,7 @@ msgid ":doc:`Q1166H </variable/Q1166H>`"
 msgstr ""
 
 #: ../../kekkon/otto_image_yu.rst:1
-msgid "子供のように甘えてくれる人"
+msgid "子どものように甘えてくれる人"
 msgstr "Wants my attention like a child"
 
 #: ../../kekkon/otto_image_yu.rst:1
