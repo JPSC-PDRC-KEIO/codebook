@@ -4,199 +4,200 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2021-06-17 10:35+0900\n"
+"PO-Revision-Date: 2021-06-18 13:37+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.0\n"
+"X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:5
-msgid "現職開始時期：月（配偶者）"
-msgstr ""
+#: ../../variable/Q691B.rst:5
+msgid "現職従事期間：月（配偶者）"
+msgstr "Duration of current employment: months (spouse)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:9
+#: ../../variable/Q691B.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:11
+#: ../../variable/Q691B.rst:11
 msgid "Q691B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:15
+#: ../../variable/Q691B.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:18
-msgid "ご主人は、現在の仕事（勤め人の方は会社、それ以外の方は職種）をいつから続けていますか。"
-msgstr ""
+#: ../../variable/Q691B.rst:18
+msgid "ご主人は、現在の仕事（勤め人の方は会社、それ以外の方は職種）をいつから続けていますか。（従事期間）"
+msgstr "How long has your husband been working at his current job (company if you are employed, job title if you are not)?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:24
+#: ../../variable/Q691B.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:26
+#: ../../variable/Q691B.rst:26
 msgid "＿ ＿ 月"
-msgstr ""
+msgstr "It was in＿(months)."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:32
+#: ../../variable/Q691B.rst:32
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:33
+#: ../../variable/Q691B.rst:33
 msgid "98"
-msgstr ""
+msgstr "98"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:38
+#: ../../variable/Q691B.rst:38
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response codes"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:44
+#: ../../variable/Q691B.rst:44
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:45
+#: ../../variable/Q691B.rst:45
 msgid "99"
-msgstr ""
+msgstr "99"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:50
+#: ../../variable/Q691B.rst:50
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:56
+#: ../../variable/Q691B.rst:55
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:61
+#: ../../variable/Q691B.rst:60
 msgid "p1_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:63
+#: ../../variable/Q691B.rst:62
 msgid "p2_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:65
+#: ../../variable/Q691B.rst:64
 msgid "p3_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:67
+#: ../../variable/Q691B.rst:66
 msgid "p4_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:69
+#: ../../variable/Q691B.rst:68
 msgid "p5a_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:71
+#: ../../variable/Q691B.rst:70
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:73
+#: ../../variable/Q691B.rst:72
 msgid "p6_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:75
+#: ../../variable/Q691B.rst:74
 msgid "p7_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:77
+#: ../../variable/Q691B.rst:76
 msgid "p8_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:79
+#: ../../variable/Q691B.rst:78
 msgid "p9_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:81
+#: ../../variable/Q691B.rst:80
 msgid "p10_5"
-msgstr ""
+msgstr "p10_5"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:83
+#: ../../variable/Q691B.rst:82
 msgid "p11ab_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:85
+#: ../../variable/Q691B.rst:84
 msgid "p11c_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:87
+#: ../../variable/Q691B.rst:86
 msgid "p12_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:89
+#: ../../variable/Q691B.rst:88
 msgid "p13_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:91
+#: ../../variable/Q691B.rst:90
 msgid "p14_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:93
+#: ../../variable/Q691B.rst:92
 msgid "p15_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:95
+#: ../../variable/Q691B.rst:94
 msgid "p16abc_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:97
+#: ../../variable/Q691B.rst:96
 msgid "p16d_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:99
+#: ../../variable/Q691B.rst:98
 msgid "p17_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:101
+#: ../../variable/Q691B.rst:100
 msgid "p18_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:103
+#: ../../variable/Q691B.rst:102
 msgid "p19_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:105
+#: ../../variable/Q691B.rst:104
 msgid "p20_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:107
+#: ../../variable/Q691B.rst:106
 msgid "p21abcd_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:109
+#: ../../variable/Q691B.rst:108
 msgid "p21e_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:111
+#: ../../variable/Q691B.rst:110
 msgid "p22_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:113
+#: ../../variable/Q691B.rst:112
 msgid "p23_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:115
+#: ../../variable/Q691B.rst:114
 msgid "p24_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:117
+#: ../../variable/Q691B.rst:116
 msgid "p25_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q691B.rst:119
+#: ../../variable/Q691B.rst:118
 msgid "p26_5"
-msgstr ""
+msgstr "p26_5"
 
 #~ msgid "変数名: Q691B"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
