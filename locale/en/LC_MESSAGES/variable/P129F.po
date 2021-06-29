@@ -42,7 +42,7 @@ msgstr "Please answer the following questions about major events that you or you
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P129F.rst:21
 msgid "（1）あなたが、中学を卒業してから現在までのあいだで、あなたやあなたのご家族に次のような大きな出来事がありましたか。（〇はいくつでも）"
-msgstr "Between the time you graduated from junior high school and now, have you or your family experienced any of the following major events? (circle as many as you like)"
+msgstr "\(1) Between the time you graduated from junior high school and now, have you or your family experienced any of the following major events? (circle as many as you like)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P129F.rst:24
 msgid "多重債務・倒産・破産"
