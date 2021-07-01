@@ -122,7 +122,7 @@ rst_prolog = u"""
 """
 # CSSの追加
 def setup(app):
-    app.add_stylesheet("my.css")
+    app.add_css_file("my.css")
 
 
 admonitionlabels["note"] = u"notice"
