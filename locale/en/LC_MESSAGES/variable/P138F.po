@@ -4,27 +4,29 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-07-05 11:18+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P138F.rst:5
 msgid "大きな出来事の経験：家出や行方不明-->転居"
-msgstr ""
+msgstr "Major event experienced：Runaway or missing--> moving"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P138F.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P138F.rst:11
 msgid "P138F"
@@ -32,59 +34,59 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P138F.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P138F.rst:18
 msgid "あなたやあなたのご家族に起こった大きな出来事についてうかがいます。"
-msgstr ""
+msgstr "Please answer the following questions about major events that you or your family have experienced."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P138F.rst:21
 msgid "（1）あなたが、中学を卒業してから現在までのあいだで、あなたやあなたのご家族に次のような大きな出来事がありましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "\(1) Between the time you graduated from junior high school and now, have you or your family experienced any of the following major events? (circle as many as you like)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P138F.rst:24
 msgid "（2）その結果どのようなことが起こりましたか。あなたが覚えている限りで、次の中からいくつでもお答えください。（〇はいくつでも）"
-msgstr ""
+msgstr "\(2) What happened as a result? Please answer as many of the following questions as you can remember. (Circle as many as you like)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P138F.rst:27
 msgid "家出や行方不明-->転居した"
-msgstr ""
+msgstr "Runaway or missing--> moved away"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P138F.rst:33
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P138F.rst:36
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P138F.rst:38
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P138F.rst:45
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P138F.rst:51
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response codes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P138F.rst:57
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P138F.rst:58
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P138F.rst:63
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P138F.rst:69
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P138F.rst:74
 msgid "p1_4"
@@ -111,4 +113,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2021-06-07 10:47+0900\n"
+"PO-Revision-Date: 2021-07-06 13:30+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -50,7 +50,7 @@ msgstr "\(2) What happened as a result? Please answer as many of the following q
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P131C.rst:27
 msgid "精神的問題-->世話（介護・看病など）が大変だった"
-msgstr "Mental problems->Care has become difficult"
+msgstr "Mental problems->Daily care (long-term care, nursing care, etc. )has become difficult."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P131C.rst:33
 msgid "選択肢 / 記入欄"

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2021-06-07 10:19+0900\n"
+"PO-Revision-Date: 2021-07-05 14:20+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:5
 msgid "大きな出来事の経験：転勤や単身赴任"
-msgstr "Major event experienced ：job transfer or taking up a new post leaving one's family behind"
+msgstr "Major event experienced ：job transfer/unaccompanied transfe"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:9
 msgid "変数名"
@@ -46,7 +46,7 @@ msgstr "\(1) Between the time you graduated from junior high school and now, hav
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:24
 msgid "転勤や単身赴任"
-msgstr "job transfer or taking up a new post leaving one's family behind"
+msgstr "Job transfer/unaccompanied transfer"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:30
 msgid "選択肢 / 記入欄"
