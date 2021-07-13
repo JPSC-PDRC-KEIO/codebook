@@ -4,27 +4,29 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-07-07 13:11+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:5
 msgid "遺産相続の有無（有配偶）"
-msgstr ""
+msgstr "Status of inheritance (married)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:11
 msgid "Q89"
@@ -32,159 +34,158 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:18
 msgid "この1年間（調査前年10月～調査年9月）に複数の親を亡くされた方は、相続の問題が解決した方を次の中から1人選び〇をつけて下さい。以下の質問はその方についてお答え下さい。（〇は１つだけ）"
-msgstr ""
+msgstr "If you have lost more than one parent in the past year (October of the previous year to September of the survey year), please circle the number of the person whose inheritance problems have been resolved from the following list. Please answer the following questions about that person. (Circle only one)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:27
 msgid "あなたの父"
-msgstr ""
+msgstr "Your father"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:29
 msgid "あなたの母"
-msgstr ""
+msgstr "Your mother"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:31
 msgid "夫の父"
-msgstr ""
+msgstr "Your husband's father"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:33
 msgid "夫の母"
-msgstr ""
+msgstr "Your husband's mother"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:35
 msgid "あなたや夫の養親"
-msgstr ""
+msgstr "Your or your husband's adoptive parents"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:42
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:48
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response codes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:54
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:60
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:66
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:71
 msgid "p2_1"
-msgstr ""
+msgstr "p2_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:73
 msgid "p3_1"
-msgstr ""
+msgstr "p3_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:75
 msgid "p4_1"
-msgstr ""
+msgstr "p4_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:77
 msgid "p5a_1"
-msgstr ""
+msgstr "p5a_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:79
 msgid "p6_1"
-msgstr ""
+msgstr "p6_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:81
 msgid "p7_1"
-msgstr ""
+msgstr "p7_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:83
 msgid "p8_1"
-msgstr ""
+msgstr "p8_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:85
 msgid "p9_1"
-msgstr ""
+msgstr "p9_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:87
 msgid "p10_1"
-msgstr ""
+msgstr "p10_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:89
 msgid "p11ab_1"
-msgstr ""
+msgstr "p11ab_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:91
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:93
 msgid "p13_1"
-msgstr ""
+msgstr "p13_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:95
 msgid "p14_1"
-msgstr ""
+msgstr "p14_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:97
 msgid "p15_1"
-msgstr ""
+msgstr "p15_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:99
 msgid "p16abc_1"
-msgstr ""
+msgstr "p16abc_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:101
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:103
 msgid "p18_1"
-msgstr ""
+msgstr "p18_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:105
 msgid "p19_1"
-msgstr ""
+msgstr "p19_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:107
 msgid "p20_1"
-msgstr ""
+msgstr "p20_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:109
 msgid "p21abcd_1"
-msgstr ""
+msgstr "p21abcd_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:111
 msgid "p22_1"
-msgstr ""
+msgstr "p22_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:113
 msgid "p23_1"
-msgstr ""
+msgstr "p23_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:115
 msgid "p24_1"
-msgstr ""
+msgstr "p24_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:117
 msgid "p25_1"
-msgstr ""
+msgstr "p25_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q89.rst:119
 msgid "p26_1"
-msgstr ""
+msgstr "p26_1"
 
 #~ msgid "変数名: Q89"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
