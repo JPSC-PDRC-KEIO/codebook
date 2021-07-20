@@ -22,3 +22,4 @@
    kenkou/index
    seisaku/index
    sonota/index
+   covid19/index
