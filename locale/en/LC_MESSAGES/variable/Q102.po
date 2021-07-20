@@ -4,27 +4,29 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-07-12 15:08+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:5
 msgid "主たる介護者（有配偶）"
-msgstr ""
+msgstr "Primary long-term caregiver (married)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:11
 msgid "Q102"
@@ -32,71 +34,71 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:18
 msgid "主な介護者はどなたでしたか。（〇は１つだけ）"
-msgstr ""
+msgstr "Who was a primary long-term caregiver? (circle only one)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:27
 msgid "あなた自身"
-msgstr ""
+msgstr "You"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:29
 msgid "あなたのきょうだい（その配偶者）"
-msgstr ""
+msgstr "Your sibling (or their spouse)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:31
 msgid "あなたの親"
-msgstr ""
+msgstr "Your parent"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:33
 msgid "あなたの夫"
-msgstr ""
+msgstr "Your husband"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:35
 msgid "あなたの夫のきょうだい（その配偶者）"
-msgstr ""
+msgstr "Your husband's sibling ( his/her spouse)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:37
 msgid "あなたの夫の親"
-msgstr ""
+msgstr "Your husband's parent"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:39
 msgid "その他の親戚"
-msgstr ""
+msgstr "Other relative"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:41
 msgid "介護保険利用のホームヘルパーなど"
-msgstr ""
+msgstr "Home helpers using long-term care insurance, etc."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:43
 msgid "介護施設の職員"
-msgstr ""
+msgstr "Long-term care facility staff"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:45
 msgid "介護保険利用以外の家政婦や付添婦"
-msgstr ""
+msgstr "Housekeepers and attendants other than those using long-term care insurance"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:47
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:54
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:60
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response codes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:66
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:67
 msgid "12"
@@ -104,11 +106,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:72
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:78
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:83
 msgid "p2_1"
@@ -152,7 +154,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:103
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:105
 msgid "p13_1"
@@ -172,7 +174,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:113
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:115
 msgid "p18_1"
@@ -215,4 +217,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

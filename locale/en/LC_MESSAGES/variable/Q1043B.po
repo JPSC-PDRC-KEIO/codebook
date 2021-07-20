@@ -4,27 +4,27 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-07-12 11:18+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1043B.rst:5
 msgid "遺産相続した子：介護していた"
-msgstr ""
+msgstr "Children who received the inheritance: support long-term care"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1043B.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1043B.rst:11
 msgid "Q1043B"
@@ -32,15 +32,15 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1043B.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1043B.rst:18
 msgid "遺産を全部または多く相続した子（または子の配偶者）は以下のことをしましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "Did children (or their spouse) who inherited all or more than the other siblings do following things? (circle as many as you like)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1043B.rst:21
 msgid "亡くなった方の介護をしていた"
-msgstr ""
+msgstr "support long-term care for the deceased"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1043B.rst:27
 msgid "選択肢 / 記入欄"
@@ -48,23 +48,23 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1043B.rst:30
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1043B.rst:32
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1043B.rst:39
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1043B.rst:45
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response codes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1043B.rst:51
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1043B.rst:52
 msgid "3"
@@ -76,7 +76,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1043B.rst:63
 msgid "収録シート"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1043B.rst:68
 msgid "p12_1"
@@ -143,4 +143,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

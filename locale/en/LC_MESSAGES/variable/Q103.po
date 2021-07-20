@@ -4,27 +4,29 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-07-12 14:19+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:5
 msgid "主たる介護者（無配偶）"
-msgstr ""
+msgstr "Primary long-erm caregiver (unmarried)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:11
 msgid "Q103"
@@ -32,59 +34,59 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:18
 msgid "主な介護者はどなたでしたか。（〇は１つだけ）"
-msgstr ""
+msgstr "Who was a primary long-term caregiver? (circle only one)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:27
 msgid "あなた自身"
-msgstr ""
+msgstr "You"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:29
 msgid "あなたのきょうだい（その配偶者）"
-msgstr ""
+msgstr "Your sibling (or their spouse)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:31
 msgid "あなたの親"
-msgstr ""
+msgstr "Your parent"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:33
 msgid "その他の親戚"
-msgstr ""
+msgstr "Other relative"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:35
 msgid "介護保険利用のホームヘルパーなど"
-msgstr ""
+msgstr "Home helpers using long-term care insurance, etc."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:37
 msgid "介護施設の職員"
-msgstr ""
+msgstr "Long-term care facility staff"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:39
 msgid "介護保険利用以外の家政婦や付添婦"
-msgstr ""
+msgstr "Housekeepers and attendants other than those using long-term care insurance"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:41
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:48
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:54
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response codes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:60
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:61
 msgid "9"
@@ -92,11 +94,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:66
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:72
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:77
 msgid "p2_1"
@@ -140,7 +142,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:97
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:99
 msgid "p13_1"
@@ -160,7 +162,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:107
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q103.rst:109
 msgid "p18_1"
@@ -203,4 +205,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
