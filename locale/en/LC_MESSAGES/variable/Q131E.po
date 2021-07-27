@@ -4,183 +4,184 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-07-27 13:55+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:5
 msgid "本人に起きた出来事：新しく習い事などを始めた"
-msgstr ""
+msgstr "What life circumsutance changed: started a new course of study"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:11
 msgid "Q131E"
-msgstr ""
+msgstr "Q131E"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:18
 msgid "この1年間（調査前年10月～調査年9月）にあなた自身に次のような出来事がありましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "Have you experienced any of the following events for the past year (Octorber of the previous year to September of the survey year)? (Circle as many as pertain to you)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:21
 msgid "新しく習い事などを始めた"
-msgstr ""
+msgstr "Started a new course of study"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:27
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:30
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:32
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:39
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:45
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response codes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:51
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:52
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:57
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:63
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:68
 msgid "p2_1"
-msgstr ""
+msgstr "p2_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:70
 msgid "p3_1"
-msgstr ""
+msgstr "p3_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:72
 msgid "p4_1"
-msgstr ""
+msgstr "p4_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:74
 msgid "p5a_1"
-msgstr ""
+msgstr "p5a_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:76
 msgid "p6_1"
-msgstr ""
+msgstr "p6_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:78
 msgid "p7_1"
-msgstr ""
+msgstr "p7_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:80
 msgid "p8_1"
-msgstr ""
+msgstr "p8_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:82
 msgid "p9_1"
-msgstr ""
+msgstr "p9_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:84
 msgid "p10_1"
-msgstr ""
+msgstr "p10_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:86
 msgid "p11ab_1"
-msgstr ""
+msgstr "p11ab_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:88
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:90
 msgid "p13_1"
-msgstr ""
+msgstr "p13_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:92
 msgid "p14_1"
-msgstr ""
+msgstr "p14_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:94
 msgid "p15_1"
-msgstr ""
+msgstr "p15_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:96
 msgid "p16abc_1"
-msgstr ""
+msgstr "p16abc_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:98
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:100
 msgid "p18_1"
-msgstr ""
+msgstr "p18_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:102
 msgid "p19_1"
-msgstr ""
+msgstr "p19_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:104
 msgid "p20_1"
-msgstr ""
+msgstr "p20_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:106
 msgid "p21abcd_1"
-msgstr ""
+msgstr "p21abcd_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:108
 msgid "p22_1"
-msgstr ""
+msgstr "p22_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:110
 msgid "p23_1"
-msgstr ""
+msgstr "p23_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:112
 msgid "p24_1"
-msgstr ""
+msgstr "p24_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:114
 msgid "p25_1"
-msgstr ""
+msgstr "p25_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q131E.rst:116
 msgid "p26_1"
-msgstr ""
+msgstr "p26_1"
 
 #~ msgid "変数名: Q131E"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

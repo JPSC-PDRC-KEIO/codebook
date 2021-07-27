@@ -4,100 +4,98 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-19 21:54+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-07-27 14:18+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:4
 msgid "病気・療養による生活変化"
-msgstr ""
+msgstr "Changes in life circumstances due to illness and medical treatment"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:8
 msgid "質問文（複数回答）"
-msgstr ""
+msgstr "Question ( multiple answers )"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:9
 msgid "この1年間（調査前年10月～調査年9月）に手術や長期療養を要するような重い病気や、うつ状態など精神的な問題があった方にお伺いします。"
-msgstr ""
+msgstr "For those who have had serious illnesses or mental health issues such as depression that require surgery or long-term medical treatment during the past year (October of the previous year to September of the survey year)."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:10
 msgid "そのことによって生活に大きな変化がありましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "Has this changed your life significantly? (Circle as many as pertain to you)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:1
 msgid "項目"
-msgstr ""
+msgstr "items"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:1
 msgid "変数"
-msgstr ""
+msgstr "Variable"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:1
 msgid "仕事が続けられなくなってやめたり転職した"
-msgstr ""
+msgstr "You quit or changed jobs because you couldn't keep working."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:1
 msgid ":doc:`Q132A </variable/Q132A>`"
-msgstr ""
+msgstr ":doc:`Q132A </variable/Q132A>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:1
 msgid "離婚や別居をした"
-msgstr ""
+msgstr "You were divorced or separated"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:1
 msgid ":doc:`Q132B </variable/Q132B>`"
-msgstr ""
+msgstr ":doc:`Q132B </variable/Q132B>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:1
 msgid "休学や退学をした"
-msgstr ""
+msgstr "You took a leave of absence or dropped out of school"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:1
 msgid ":doc:`Q132C </variable/Q132C>`"
-msgstr ""
+msgstr ":doc:`Q132C </variable/Q132C>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:1
 msgid "親の家に戻った（同居した）"
-msgstr ""
+msgstr "You moved back into your parents' house ( lived with them)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:1
 msgid ":doc:`Q132D </variable/Q132D>`"
-msgstr ""
+msgstr ":doc:`Q132D </variable/Q132D>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:1
 msgid "長期入院となった"
-msgstr ""
+msgstr "You were hospitalized for a long time."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:1
 msgid ":doc:`Q132E </variable/Q132E>`"
-msgstr ""
+msgstr ":doc:`Q132E </variable/Q132E>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Others"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:1
 msgid ":doc:`Q132F </variable/Q132F>`"
-msgstr ""
+msgstr ":doc:`Q132F </variable/Q132F>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:1
 msgid "特に変化はなかった"
-msgstr ""
+msgstr "There was no change."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q132.rst:1
 msgid ":doc:`Q132G </variable/Q132G>`"
-msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
+msgstr ":doc:`Q132G </variable/Q132G>`"

@@ -4,172 +4,170 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-19 21:54+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-07-27 14:37+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:3
 msgid "病気・療養時の費用調達"
-msgstr ""
+msgstr "Funding for illness and medical treatment"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:7
 msgid "質問文（複数回答）"
-msgstr ""
+msgstr "Question ( multiple answers )"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:8
 msgid "この1年間（調査前年10月～調査年9月）に手術や長期療養を要するような重い病気や、うつ状態など精神的な問題があった方にお伺いします。"
-msgstr ""
+msgstr "For those who have had serious illnesses or mental health issues such as depression that require surgery or long-term medical treatment during the past year (October of the previous year to September of the survey year)."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:9
 msgid "その時のあなたの生活費や療養費は誰が支えていましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "How did you pay for your living expenses and medical expenses at that time? ( Circle as many as pertain to you)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:13
 msgid "有配偶"
-msgstr ""
+msgstr "Married"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid "変数"
-msgstr ""
+msgstr "Variable"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid "夫の収入や預貯金"
-msgstr ""
+msgstr "Husband's income and savings"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q133A </variable/Q133A>`"
-msgstr ""
+msgstr ":doc:`Q133A </variable/Q133A>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid "あなた自身の収入や預貯金"
-msgstr ""
+msgstr "Your own income and savings"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q133B </variable/Q133B>`"
-msgstr ""
+msgstr ":doc:`Q133B </variable/Q133B>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid "親の収入や預貯金"
-msgstr ""
+msgstr "Parents' income and savings"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q133C </variable/Q133C>`"
-msgstr ""
+msgstr ":doc:`Q133C </variable/Q133C>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid "夫やあなたの資産売却"
-msgstr ""
+msgstr "Selling your husband's or your assets"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q133D </variable/Q133D>`"
-msgstr ""
+msgstr ":doc:`Q133D </variable/Q133D>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid "親の資産売却"
-msgstr ""
+msgstr "Selling parents' assets"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q133E </variable/Q133E>`"
-msgstr ""
+msgstr ":doc:`Q133E </variable/Q133E>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid "公的な年金や医療給付・助成金"
-msgstr ""
+msgstr "Public pension and medical benefits / subsidies"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q133F </variable/Q133F>`"
-msgstr ""
+msgstr ":doc:`Q133F </variable/Q133F>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid "民間の保険給付や保険金の解約金"
-msgstr ""
+msgstr "Private insurance benefits and insurance surrender charges"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q133G </variable/Q133G>`"
-msgstr ""
+msgstr ":doc:`Q133G </variable/Q133G>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid "金融機関などからの借金"
-msgstr ""
+msgstr "Loan from a financial institution"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q133H </variable/Q133H>`"
-msgstr ""
+msgstr ":doc:`Q133H </variable/Q133H>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid "親などからの借金"
-msgstr ""
+msgstr "Loan from parents"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q133I </variable/Q133I>`"
-msgstr ""
+msgstr ":doc:`Q133I </variable/Q133I>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Others"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q133J </variable/Q133J>`"
-msgstr ""
+msgstr ":doc:`Q133J </variable/Q133J>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:32
 msgid "無配偶"
-msgstr ""
+msgstr "Unmarried"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q134A </variable/Q134A>`"
-msgstr ""
+msgstr ":doc:`Q134A </variable/Q134A>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q134B </variable/Q134B>`"
-msgstr ""
+msgstr ":doc:`Q134B </variable/Q134B>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid "あなたの資産売却"
-msgstr ""
+msgstr "Selling Your Assets"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q134C </variable/Q134C>`"
-msgstr ""
+msgstr ":doc:`Q134C </variable/Q134C>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q134D </variable/Q134D>`"
-msgstr ""
+msgstr ":doc:`Q134D </variable/Q134D>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q134E </variable/Q134E>`"
-msgstr ""
+msgstr ":doc:`Q134E </variable/Q134E>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q134F </variable/Q134F>`"
-msgstr ""
+msgstr ":doc:`Q134F </variable/Q134F>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q134G </variable/Q134G>`"
-msgstr ""
+msgstr ":doc:`Q134G </variable/Q134G>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q134H </variable/Q134H>`"
-msgstr ""
+msgstr ":doc:`Q134H </variable/Q134H>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q133.rst:1
 msgid ":doc:`Q134I </variable/Q134I>`"
-msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
+msgstr ":doc:`Q134I </variable/Q134I>`"
