@@ -8,17 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"POT-Creation-Date: 2021-06-17 10:35+0900\n"
 "PO-Revision-Date: 2021-04-30 14:41+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.0\n"
-"X-Generator: Poedit 2.4.3\n"
 
 #: ../../id_panel/sampleDS.rst:3
 msgid "サンプルデザイン"
@@ -28,58 +27,92 @@ msgstr "Sample design"
 msgid "コーホートA"
 msgstr "Cohort A"
 
-#: ../../id_panel/sampleDS.rst:8 ../../id_panel/sampleDS.rst:59 ../../id_panel/sampleDS.rst:83 ../../id_panel/sampleDS.rst:106
+#: ../../id_panel/sampleDS.rst:8 ../../id_panel/sampleDS.rst:59
+#: ../../id_panel/sampleDS.rst:83 ../../id_panel/sampleDS.rst:106
 msgid "**層化**"
 msgstr "**Stratification**"
 
-#: ../../id_panel/sampleDS.rst:10 ../../id_panel/sampleDS.rst:61 ../../id_panel/sampleDS.rst:85 ../../id_panel/sampleDS.rst:108
+#: ../../id_panel/sampleDS.rst:10 ../../id_panel/sampleDS.rst:61
+#: ../../id_panel/sampleDS.rst:85 ../../id_panel/sampleDS.rst:108
 msgid "ア．全国の都道府県を8ブロックに分類した。"
-msgstr "\A. The prefectures of Japan were classified into eight blocks."
+msgstr "\\A. The prefectures of Japan were classified into eight blocks."
 
-#: ../../id_panel/sampleDS.rst:11 ../../id_panel/sampleDS.rst:62 ../../id_panel/sampleDS.rst:97 ../../id_panel/sampleDS.rst:109
+#: ../../id_panel/sampleDS.rst:11 ../../id_panel/sampleDS.rst:62
+#: ../../id_panel/sampleDS.rst:86 ../../id_panel/sampleDS.rst:109
 msgid "イ．各ブロック内でさらに、都市規模によって次のように分類し、層化した。"
-msgstr "\B. The number of cities in each block. Within each block, the cities were further classified and stratified by city size as follows."
+msgstr ""
+"\\B. The number of cities in each block. Within each block, the cities "
+"were further classified and stratified by city size as follows."
 
 #: ../../id_panel/sampleDS.rst:13
 msgid "13大都市（札幌市、仙台市、千葉市、東京都区、横浜市、川崎市、名古屋市、京都市、大阪市、神戸市、広島市、北九州市、福岡市）"
-msgstr "13 major cities (Sapporo, Sendai, Chiba, Tokyo metropolitan area, Yokohama, Kawasaki, Nagoya, Kyoto, Osaka, Kobe, Hiroshima, Kitakyushu, Fukuoka)"
+msgstr ""
+"13 major cities (Sapporo, Sendai, Chiba, Tokyo metropolitan area, "
+"Yokohama, Kawasaki, Nagoya, Kyoto, Osaka, Kobe, Hiroshima, Kitakyushu, "
+"Fukuoka)"
 
-#: ../../id_panel/sampleDS.rst:14 ../../id_panel/sampleDS.rst:65 ../../id_panel/sampleDS.rst:89 ../../id_panel/sampleDS.rst:112
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1 ../../id_panel/sampleDS.rst:14
+#: ../../id_panel/sampleDS.rst:65 ../../id_panel/sampleDS.rst:89
+#: ../../id_panel/sampleDS.rst:112
 msgid "その他の市"
 msgstr "Other cities"
 
-#: ../../id_panel/sampleDS.rst:15 ../../id_panel/sampleDS.rst:66 ../../id_panel/sampleDS.rst:90 ../../id_panel/sampleDS.rst:113
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1 ../../id_panel/sampleDS.rst:15
+#: ../../id_panel/sampleDS.rst:66 ../../id_panel/sampleDS.rst:90
+#: ../../id_panel/sampleDS.rst:113
 msgid "町村"
 msgstr "Towns or villages"
 
 #: ../../id_panel/sampleDS.rst:17
 msgid "（注）ここでいう市とは、1993年4月1日現在による市政施行の地域とした。"
-msgstr "\(Note) Cities in this section are defined as areas where municipal government was in effect as of April 1, 1993."
+msgstr ""
+"\\(Note) Cities in this section are defined as areas where municipal "
+"government was in effect as of April 1, 1993."
 
-#: ../../id_panel/sampleDS.rst:19 ../../id_panel/sampleDS.rst:45 ../../id_panel/sampleDS.rst:70 ../../id_panel/sampleDS.rst:194
+#: ../../id_panel/sampleDS.rst:19 ../../id_panel/sampleDS.rst:45
+#: ../../id_panel/sampleDS.rst:70 ../../id_panel/sampleDS.rst:94
 #: ../../id_panel/sampleDS.rst:117
 msgid "**標本数の配分**"
 msgstr "**Sample distribution**"
 
 #: ../../id_panel/sampleDS.rst:21
 msgid "各都市規模別の層での推定母集団の大きさにより、年齢構成・配偶関係（1992年3月31日現在で24～34歳の年齢別、配偶関係別人口数）を考慮して、1,500の標本数を比例配分した。"
-msgstr "Depending on the size of the estimated population in each city-size stratum, a sample size of 1,500 was proportionally distributed, taking into account the age structure and marital status (the number of people aged 24-34 by age and marital status as of March 31, 1992)."
+msgstr ""
+"Depending on the size of the estimated population in each city-size "
+"stratum, a sample size of 1,500 was proportionally distributed, taking "
+"into account the age structure and marital status (the number of people "
+"aged 24-34 by age and marital status as of March 31, 1992)."
 
-#: ../../id_panel/sampleDS.rst:23 ../../id_panel/sampleDS.rst:50 ../../id_panel/sampleDS.rst:74 ../../id_panel/sampleDS.rst:98 ../../id_panel/sampleDS.rst:121
+#: ../../id_panel/sampleDS.rst:23 ../../id_panel/sampleDS.rst:50
+#: ../../id_panel/sampleDS.rst:74 ../../id_panel/sampleDS.rst:121
 msgid "**抽出**"
 msgstr "**Sampling**"
 
 #: ../../id_panel/sampleDS.rst:25
 msgid "ア．第1次抽出単位となる調査地点として、平成2年国勢調査時に設定された調査区を使用した。"
-msgstr "\A. The survey area established at the time of the 1990 census was used as the survey point to serve as the primary extraction unit."
+msgstr ""
+"\\A. The survey area established at the time of the 1990 census was used "
+"as the survey point to serve as the primary extraction unit."
 
 #: ../../id_panel/sampleDS.rst:26
 msgid "イ．調査地点（国勢調査区）の抽出数については、1調査地点あたりの標本数が12になるよう、各層に割り当てられた標本数から算出し決定した。"
-msgstr "\B. The number of survey points (census tracts) The number of survey sites (census tracts) was determined by calculating the number of samples assigned to each stratum so that the sample size per survey site would be 12."
+msgstr ""
+"\\B. The number of survey points (census tracts) The number of survey "
+"sites (census tracts) was determined by calculating the number of samples"
+" assigned to each stratum so that the sample size per survey site would "
+"be 12."
 
 #: ../../id_panel/sampleDS.rst:27
 msgid "ウ．調査地点（調査区）の抽出は、層内での抽出地点数が2地点以上割り当てられた層について、以下のように抽出間隔を算出し、等間隔法によって抽出した。"
-msgstr "\C． Extraction of study sites (study area) was carried out using the equal interval method by calculating the extraction intervals as follows for the strata where the number of extraction sites within a stratum was assigned to two or more sites."
+msgstr ""
+"\\C． Extraction of study sites (study area) was carried out using the "
+"equal interval method by calculating the extraction intervals as follows "
+"for the strata where the number of extraction sites within a stratum was "
+"assigned to two or more sites."
 
 #: ../../id_panel/sampleDS.rst
 msgid "層での調査区数（計）"
@@ -95,7 +128,10 @@ msgstr "Number of survey sites extracted in stratum"
 
 #: ../../id_panel/sampleDS.rst:33
 msgid "エ．抽出に際しての各層内の市町村の配列順序は、平成2年国勢調査時の「都道府県・市区町村コード表」の配列順序に従った。"
-msgstr "\D. The order of cities, towns, and villages in each stratum in the extraction follows the order of the \"Prefectural and Municipal Code Table\" at the time of the 1990 census."
+msgstr ""
+"\\D. The order of cities, towns, and villages in each stratum in the "
+"extraction follows the order of the \"Prefectural and Municipal Code "
+"Table\" at the time of the 1990 census."
 
 #: ../../id_panel/sampleDS.rst:34
 msgid "オ．抽出調査地点での対象者の抽出は、調査地点の住所（町・丁目・街区・番地等を指定）により、住民基本台帳から等間隔抽出法によって抽出した。"
@@ -107,99 +143,1416 @@ msgstr ""
 
 #: ../../id_panel/sampleDS.rst:36
 msgid "キ．以上の作業の結果得られた層別の標本数、調査地点数は表-1のとおりである。"
-msgstr "\H. The number of samples by stratum and the number of survey sites obtained as a result of the above work are shown in Table-1."
+msgstr ""
+"\\H. The number of samples by stratum and the number of survey sites "
+"obtained as a result of the above work are shown in Table-1."
 
-#: ../../id_panel/sampleDS.rst:38
+#: ../../id_panel/cohortA.rst:1
 msgid "**表- 1　コーホートAの層別推定母集団数、標本サイズ、調査地点数**"
-msgstr "Table 1 Estimated population size, sample size, and number of survey sites by stratum for Cohort A"
+msgstr ""
+"**Table 1 Estimated population size, sample size, and number of survey "
+"sites by stratum for Cohort A**"
 
-#: ../../id_panel/sampleDS.rst:44
+#: ../../id_panel/cohortA.rst:4
+msgid "**表- 1- 1　層別推定母集団数**"
+msgstr "**Table 1-1 Estimated population size**"
+""
+""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+msgid "13大都市"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "計"
+msgstr "Total"
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "北海道"
+msgstr "Hokkaido"
+
+#: ../../id_panel/cohortA.rst:1
+msgid "272,755"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "328,511"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "177,644"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "778,910"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "東北"
+msgstr "Tohoku"
+
+#: ../../id_panel/cohortA.rst:1
+msgid "143,956"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "710,759"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "439,852"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "1,294,567"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "関東"
+msgstr "Kanto"
+
+#: ../../id_panel/cohortA.rst:1
+msgid "2,261,067"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "3,035,727"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "612,586"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "5,909,380"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "中部"
+msgstr "Chubu"
+
+#: ../../id_panel/cohortA.rst:1
+msgid "330,121"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "1,982,543"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "787,642"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "3,100,306"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "近畿"
+msgstr "Kinki"
+
+#: ../../id_panel/cohortA.rst:1
+msgid "791,651"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "1,684,208"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "331,368"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "2,807,227"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "中国"
+msgstr "Chugoku"
+
+#: ../../id_panel/cohortA.rst:1
+msgid "158,655"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "578,830"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "220,257"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "957,742"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "四国"
+msgstr "Shikoku"
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "0"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "343,032"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "175,300"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "518,332"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "九州"
+msgstr "Kyushu"
+
+#: ../../id_panel/cohortA.rst:1
+msgid "327,575"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "1,019,476"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "580,010"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "1,927,061"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "4,285,780"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "9,683,086"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "3,324,659"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "17,293,525"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:21
+msgid "**表- 1- 2　標本サイズ**"
+msgstr "**Table 1-2 Sample size**"
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1
+msgid "24"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortD.rst:1
+msgid "36"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "12"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+msgid "72"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "60"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "108"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "192"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "264"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "516"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "168"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "276"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "144"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "240"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortD.rst:1
+msgid "48"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "84"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "156"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "372"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "840"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "288"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1
+msgid "1,500"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:37
+msgid "**表- 1- 3　調査地点数**"
+msgstr "**Table 1-3 Number of survey sites**"
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "2"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "3"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "1"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "6"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "5"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "9"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+msgid "16"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortD.rst:1 ../../id_panel/cohortE.rst:1
+msgid "22"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+msgid "43"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+msgid "14"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "23"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+msgid "20"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "4"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "7"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "13"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+msgid "31"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+msgid "70"
+msgstr ""
+
+#: ../../id_panel/cohortA.rst:1 ../../id_panel/cohortB.rst:1
+#: ../../id_panel/cohortC.rst:1
+msgid "125"
+msgstr ""
+
+#: ../../id_panel/sampleDS.rst:41
 msgid "コーホートB"
 msgstr "Cohort B"
 
-#: ../../id_panel/sampleDS.rst:46
+#: ../../id_panel/sampleDS.rst:43
 msgid "サンプルデザインは標本数の配分を除いてコーホートAと同じである。コーホートAの回答者は、ほぼ国勢調査と同様の分布となったが、無配偶単身者だけは若干国勢調査の比率を下回っていた。そこで、コーホートBは標本数の配分の際に無配偶単身者の比率に配慮している。"
 msgstr ""
 
-#: ../../id_panel/sampleDS.rst:50
+#: ../../id_panel/sampleDS.rst:47
 msgid "各都市規模別の層での推定母集団の大きさにより、年齢構成・配偶関係（1996年3月31日現在で24～27歳の年齢別、配偶関係別人口数、無配偶者の単身世帯数）を考慮して、500の標本数を比例配分した。層別の標本数、調査地点数は表-2のとおりである。"
 msgstr ""
 
-#: ../../id_panel/sampleDS.rst:55
-msgid ""
-"正規対象者1名に対し、配偶状況と世帯状況を考慮して、以下のように予備対象者を付した。有配偶者には3名、無配偶・非単身者には3名、無配偶・単身者には5名を付した。"
+#: ../../id_panel/sampleDS.rst:52
+msgid "正規対象者1名に対し、配偶状況と世帯状況を考慮して、以下のように予備対象者を付した。有配偶者には3名、無配偶・非単身者には3名、無配偶・単身者には5名を付した。"
 msgstr ""
 
-#: ../../id_panel/sampleDS.rst:57
+#: ../../id_panel/cohortB.rst:1
 msgid "**表- 2　コーホートBの層別推定母集団数、標本サイズ、調査地点数**"
-msgstr "**Table 1 Estimated population size, sample size, and number of survey sites by stratum for Cohort B**"
+msgstr "**Table 2 Estimated population size, sample size, and number of survey "
+"sites by stratum for Cohort B**"
 
-#: ../../id_panel/sampleDS.rst:64
+#: ../../id_panel/cohortB.rst:4
+msgid "**表- 2- 1　層別推定母集団数**"
+msgstr "**Table 2-1 Estimated population size**"
+
+#: ../../id_panel/cohortB.rst:1
+msgid "315,837"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "354,942"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "163,782"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "834,561"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "165,648"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "717,759"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "403,002"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "1,286,409"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "2,759,343"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "3,683,433"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "623,364"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "7,066,140"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "385,263"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "2,239,332"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "831,210"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "3,455,805"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "942,807"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "1,994,082"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "345,852"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "3,282,741"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "180,561"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "607,938"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "209,568"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "998,067"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "359,337"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "168,459"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "527,796"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "363,696"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "1,041,798"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "557,448"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "1,962,942"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "5,113,155"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "10,998,621"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "3,302,685"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "19,414,461"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:20
+msgid "**表- 2- 2　標本サイズ**"
+msgstr "**Table 2-2 Sample size**"
+
+#: ../../id_panel/cohortB.rst:1 ../../id_panel/cohortC.rst:1
+#: ../../id_panel/cohortD.rst:1 ../../id_panel/cohortE.rst:1
+msgid "8"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "10"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "33"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "98"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1 ../../id_panel/cohortD.rst:1
+msgid "184"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "61"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "90"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1 ../../id_panel/cohortD.rst:1
+msgid "25"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "55"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "85"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1 ../../id_panel/cohortC.rst:1
+#: ../../id_panel/cohortD.rst:1 ../../id_panel/cohortE.rst:1
+msgid "15"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "26"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "49"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "132"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "295"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "73"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:1
+msgid "500"
+msgstr ""
+
+#: ../../id_panel/cohortB.rst:36
+msgid "**表- 2- 3　調査地点数**"
+msgstr "**Table 2-3 number of survey sites**"
+
+#: ../../id_panel/sampleDS.rst:57
 msgid "コーホートC"
 msgstr "Cohort C"
 
-#: ../../id_panel/sampleDS.rst:71
+#: ../../id_panel/sampleDS.rst:64
 msgid "14大都市（札幌市、仙台市、さいたま市、千葉市、東京都区、横浜市、川崎市、名古屋市、京都市、大阪市、神戸市、広島市、北九州市、福岡市）"
 msgstr ""
 
-#: ../../id_panel/sampleDS.rst:75
+#: ../../id_panel/sampleDS.rst:68
 msgid "（注）ここでいう市とは、2003年4月1日現在による市政施行の地域とした。"
-msgstr "\(Note) Cities in this section are defined as areas where municipal government was in effect as of April 1, 1993."
+msgstr ""
+"\\(Note) Cities in this section are defined as areas where municipal "
+"government was in effect as of April 1, 1993."
 
-#: ../../id_panel/sampleDS.rst:79
+#: ../../id_panel/sampleDS.rst:72
 msgid "各都市規模別の層での推定母集団の大きさにより、年齢構成・配偶関係（2003年3月31日現在で24～29歳の年齢別、配偶関係別人口数）を考慮して、836の標本を比例配分した。層別の標本数、調査地点数は表-3のとおりである。"
 msgstr ""
 
-#: ../../id_panel/sampleDS.rst:83 ../../id_panel/sampleDS.rst:136
+#: ../../id_panel/sampleDS.rst:76 ../../id_panel/sampleDS.rst:123
 msgid "調査地点毎の調査対象数は各都市規模層の年齢構成・配偶関係の配分数に応じて4～9対象を割り当てた。また、正規対象数１名につき、配偶状況と世帯状況を考慮して、以下のように予備対象者を付した。有配偶者には3名、無配偶・非単身者には4名、無配偶・単身者には7名を付した。"
 msgstr ""
 
-#: ../../id_panel/sampleDS.rst:85
+#: ../../id_panel/cohortC.rst:1
 msgid "**表- 3　コーホートCの層別推定母集団数、標本サイズ、調査地点数**"
-msgstr "**Table 3  Estimated population size, sample size, and number of survey sites by stratum for Cohort C**"
+msgstr ""
+"**Table 3 Estimated population size, sample size, and number of survey "
+"sites by stratum for Cohort C**"
 
-#: ../../id_panel/sampleDS.rst:91
+#: ../../id_panel/cohortC.rst:4
+msgid "**表- 3- 1　層別推定母集団数**"
+msgstr "**Table 3-1  Estimated population size**"
+
+
+#: ../../id_panel/cohortC.rst:1
+msgid "14大都市"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "540,756"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "613,383"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "265,566"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "1,419,705"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "317,436"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "1,244,232"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "665,448"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "2,227,116"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "4,679,379"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "6,137,133"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "1,135,146"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "11,951,658"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "614,394"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "4,021,920"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "1,447,863"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "6,084,177"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "1,565,124"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "3,533,046"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "628,206"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "5,726,376"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "337,476"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "1,169,547"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "385,989"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "1,893,012"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "681,645"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "299,001"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "980,646"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "675,927"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "1,902,615"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "962,382"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "3,540,924"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "8,730,492"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "19,303,521"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "5,789,601"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "33,823,614"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:20
+msgid "**表- 3- 2　標本サイズ**"
+msgstr "**Table 3-2 Sample size**"
+
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "11"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "32"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+msgid "29"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+msgid "17"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "52"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+msgid "118"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "158"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "305"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortE.rst:1
+msgid "19"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "97"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "35"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "151"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortE.rst:1
+msgid "40"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "87"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "141"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortE.rst:1
+msgid "28"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortE.rst:1
+msgid "45"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortD.rst:1
+#: ../../id_panel/cohortE.rst:1
+msgid "18"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "86"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "220"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "477"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "139"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "836"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:36
+msgid "**表- 3- 3　調査地点数**"
+msgstr "**Table 3-3 Number of survey sites**"
+
+#: ../../id_panel/cohortC.rst:1 ../../id_panel/cohortE.rst:1
+msgid "21"
+msgstr ""
+
+#: ../../id_panel/cohortC.rst:1
+msgid "69"
+msgstr ""
+
+#: ../../id_panel/sampleDS.rst:81
 msgid "コーホートD"
 msgstr "Cohort D"
 
-#: ../../id_panel/sampleDS.rst:98
-msgid ""
-"18大都市（札幌市、仙台市、さいたま市、千葉市、東京都区、横浜市、川崎市、新潟市、静岡市、浜松市、名古屋市、京都市、大阪市、堺市、神戸市、広島市、北九州市、福岡市）"
+#: ../../id_panel/sampleDS.rst:88
+msgid "18大都市（札幌市、仙台市、さいたま市、千葉市、東京都区、横浜市、川崎市、新潟市、静岡市、浜松市、名古屋市、京都市、大阪市、堺市、神戸市、広島市、北九州市、福岡市）"
 msgstr ""
 
-#: ../../id_panel/sampleDS.rst:102
+#: ../../id_panel/sampleDS.rst:92
 msgid "（注）ここでいう市とは、2008年4月1日現在による市政施行の地域とした。"
-msgstr "\(Note) Cities in this section are defined as areas where municipal government was in effect as of April 1, 1993."
+msgstr ""
+"\\(Note) Cities in this section are defined as areas where municipal "
+"government was in effect as of April 1, 1993."
 
-#: ../../id_panel/sampleDS.rst:106
+#: ../../id_panel/sampleDS.rst:96
 msgid "各都市規模別の層での推定母集団の大きさにより、年齢構成・配偶関係（2008年3月31日現在で24～28歳の年齢別、配偶関係別人口数）を考慮して、636の標本を比例配分した。層別の標本数、調査地点数は表-4のとおりである。"
 msgstr ""
 
-#: ../../id_panel/sampleDS.rst:108
-msgid "調査地点毎の調査対象数は各都市規模層の年齢構成・配偶関係の配分数に応じて4～9対象を割り当てた。また、正規対象数１名につき、配偶状況と世帯状況を考慮して、以下のように予備対象者を付した。有配偶者には3名、無配偶・非単身者には4名、無配偶・単身者には7名を付した。"
+#: ../../id_panel/sampleDS.rst:98
+msgid ""
+"**抽出** "
+"調査地点毎の調査対象数は各都市規模層の年齢構成・配偶関係の配分数に応じて4～9対象を割り当てた。また、正規対象数１名につき、配偶状況と世帯状況を考慮して、以下のように予備対象者を付した。有配偶者には3名、無配偶・非単身者には4名、無配偶・単身者には7名を付した。"
 msgstr ""
 
-#: ../../id_panel/sampleDS.rst:111
+#: ../../id_panel/cohortD.rst:1
 msgid "**表- 4　コーホートDの層別推定母集団数、標本サイズ、調査地点数**"
 msgstr ""
+"**Table 4 Estimated population size, sample size, and number of survey "
+"sites by stratum for Cohort D**"
 
-#: ../../id_panel/sampleDS.rst:117
+#: ../../id_panel/cohortD.rst:4
+msgid "**表- 4- 1　層別推定母集団数**"
+msgstr "**Table 4-1 Estimated population size**"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "18大都市"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "66,227"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "69,550"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "24,681"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "160,458"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "37,916"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "175,721"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "46,499"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "260,136"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "539,215"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "709,813"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "64,797"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "1,313,825"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "133,722"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "451,572"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "69,476"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "654,770"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "206,915"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "385,174"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "34,559"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "626,648"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "37,244"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "155,344"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "15,805"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "208,393"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "92,753"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "15,981"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "108,734"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "85,115"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "290,154"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "65,475"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "440,744"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "1,106,354"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "2,330,081"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "337,273"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "3,773,708"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:21
+msgid "**表- 4- 2　標本サイズ**"
+msgstr "**Table 4-2 Sample size**"
+
+#: ../../id_panel/cohortD.rst:1 ../../id_panel/cohortE.rst:1
+msgid "44"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "89"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "217"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "75"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "110"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "34"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1 ../../id_panel/cohortE.rst:1
+msgid "63"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "102"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "385"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "56"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1 ../../id_panel/cohortE.rst:1
+msgid "625"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:37
+msgid "**表- 4- 3　調査地点数**"
+msgstr "**Table 4-3 Number of survey sites**"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "79"
+msgstr ""
+
+#: ../../id_panel/cohortD.rst:1
+msgid "130"
+msgstr ""
+
+#: ../../id_panel/sampleDS.rst:104
 msgid "コーホートE"
 msgstr "Cohort E"
 
-#: ../../id_panel/sampleDS.rst:124
-msgid ""
-"21大都市（札幌市、仙台市、さいたま市、千葉市、東京都区、横浜市、川崎市、相模原市、新潟市、静岡市、浜松市、名古屋市、京都市、大阪市、堺市、神戸市、岡山市、広島市、北九州市、福岡市、熊本市）"
+#: ../../id_panel/sampleDS.rst:111
+msgid "21大都市（札幌市、仙台市、さいたま市、千葉市、東京都区、横浜市、川崎市、相模原市、新潟市、静岡市、浜松市、名古屋市、京都市、大阪市、堺市、神戸市、岡山市、広島市、北九州市、福岡市、熊本市）"
 msgstr ""
 
-#: ../../id_panel/sampleDS.rst:128
+#: ../../id_panel/sampleDS.rst:115
 msgid "（注）ここでいう市とは、2013年4月1日現在による市政施行の地域とした。"
-msgstr "\(Note) Cities in this section are defined as areas where municipal government was in effect as of April 1, 1993."
+msgstr ""
+"\\(Note) Cities in this section are defined as areas where municipal "
+"government was in effect as of April 1, 1993."
 
-#: ../../id_panel/sampleDS.rst:132
-msgid "各都市規模別の層での推定母集団の大きさにより、年齢構成・配偶関係（2013年3月31日現在で24～28歳の年齢別、配偶関係別人口数）を考慮して、625"の標本を比例配分した。層別の対象数、調査地点数は表-5のとおりである。"
+#: ../../id_panel/sampleDS.rst:119
+msgid "各都市規模別の層での推定母集団の大きさにより、年齢構成・配偶関係（2013年3月31日現在で24～28歳の年齢別、配偶関係別人口数）を考慮して、625の標本を比例配分した。層別の対象数、調査地点数は表-5のとおりである。"
+msgstr ""
+"Depending on the size of the estimated population in each city-size "
+"stratum, a sample size of 1,500 was proportionally distributed, taking "
+"into account the age structure and marital status (the number of people "
+"aged 24-34 by age and marital status as of March 31, 1992)."
+
+#: ../../id_panel/cohortE.rst:2
+msgid "**表- 5　コーホートEの層別推定母集団数、標本サイズ、調査地点数**"
+msgstr "**Table 5 Estimated population size, sample size, and number of survey "
+"sites by stratum for Cohort E**"
+
+#: ../../id_panel/cohortE.rst:4
+msgid "**表- 5- 1　層別推定母集団数**"
+msgstr "**Table 5-1 Estimated population size**"
+
+#: ../../id_panel/cohortE.rst:1
+msgid "21大都市"
 msgstr ""
 
-#: ../../id_panel/sampleDS.rst:138
-msgid "**表- 5　コーホートＥの層別推定母集団数、標本サイズ、調査地点数**"
-msgstr "**Table 1 Estimated population size, sample size, and number of survey sites by stratum for Cohort E**"
+#: ../../id_panel/cohortE.rst:1
+msgid "60,858"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "58,665"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "20,731"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "140,254"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "34,186"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "151,987"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "40,590"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "226,763"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "529,768"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "631,066"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "47,369"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "1,208,203"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "125,493"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "419,440"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "50,945"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "595,878"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "194,725"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "345,567"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "29,450"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "569,742"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "54,925"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "122,797"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "12,914"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "190,636"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "83,412"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "13,903"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "97,315"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "101,576"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "248,224"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "53,685"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "403,485"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "1,101,531"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "2,061,158"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "269,587"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "3,432,276"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:21
+msgid "**表- 5- 2　標本サイズ**"
+msgstr "**Table 5-2 Sample size**"
+
+#: ../../id_panel/cohortE.rst:1
+msgid "42"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "96"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "115"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "219"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "76"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "109"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "103"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "199"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "376"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:1
+msgid "50"
+msgstr ""
+
+#: ../../id_panel/cohortE.rst:37
+msgid "**表- 5- 3　調査地点数**"
+msgstr "**Table 5-3 number of survey sites**"
+
+#: ../../id_panel/cohortE.rst:1
+msgid "128"
+msgstr ""
+
+#~ msgid "**表- 4　コーホートDの層別推定母集団数、標本サイズ、調査地点数**"
+#~ msgstr ""
+
+#~ msgid "各都市規模別の層での推定母集団の大きさにより、年齢構成・配偶関係（2013年3月31日現在で24～28歳の年齢別、配偶関係別人口数）を考慮して、625\"の標本を比例配分した。層別の対象数、調査地点数は表-5のとおりである。"
+#~ msgstr ""
+
