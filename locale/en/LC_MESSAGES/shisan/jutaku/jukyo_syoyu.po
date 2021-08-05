@@ -30,7 +30,6 @@ msgstr ""
 "ownership is in your family’s name, please regard it as your ownership.)"
 
 #: ../../shisan/jutaku/jukyo_syoyu.rst:9
-#, fuzzy
 msgid "住居の所有関係"
 msgstr "Residencial ownership"
 

@@ -39,7 +39,6 @@ msgid "項目"
 msgstr "items"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q67.rst:1
-#, fuzzy
 msgid "変数名"
 msgstr "Variable name"
 

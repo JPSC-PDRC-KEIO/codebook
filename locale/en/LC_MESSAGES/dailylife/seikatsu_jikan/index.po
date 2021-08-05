@@ -41,7 +41,6 @@ msgstr ""
 " choose the most important of the two."
 
 #: ../../dailylife/seikatsu_jikan/index.rst:13
-#, fuzzy
 msgid "単位は、＿＿時間＿0分"
 msgstr "Time unit is ＿＿hours＿0 minutes"
 
@@ -68,7 +67,6 @@ msgid "休日"
 msgstr "Day off"
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
-#, fuzzy
 msgid "＿＿時間"
 msgstr "＿＿ hours"
 

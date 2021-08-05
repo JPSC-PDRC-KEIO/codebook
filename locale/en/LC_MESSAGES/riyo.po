@@ -63,7 +63,7 @@ msgstr ""
 #: /mnt/c/Users/JPSC/code_books/codebook/riyo.rst:21
 msgid "調査項目の分類はJPSCの :doc:`調査票<tyosahyo>` に準拠していますが、調査票の構成と若干異なる箇所があります。"
 msgstr ""
-"The classification of the survey items is based on the JPSC :doc:'questionnaire<tyosahyo>`, but there are some differences from the structure of "
+"The classification of the survey items is based on the JPSC :doc:`Questionnaire<tyosahyo>` , but there are some differences from the structure of "
 "the questionnaire."
 
 #~ msgid "利用にあたって"

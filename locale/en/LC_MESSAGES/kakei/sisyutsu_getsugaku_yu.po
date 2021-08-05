@@ -174,7 +174,6 @@ msgid ":doc:`Q294F </variable/Q294F>`"
 msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_yu.rst:52
-#, fuzzy
 msgid "生活費内訳"
 msgstr "Living expenses total"
 

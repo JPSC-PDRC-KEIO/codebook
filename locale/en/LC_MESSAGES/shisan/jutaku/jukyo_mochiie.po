@@ -147,14 +147,12 @@ msgid "（親の関与があった場合）"
 msgstr ""
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
-#, fuzzy
 msgid ":doc:`Q375F </variable/Q375F>`"
-msgstr "Year :doc:`P33A </variable/P33A>`"
+msgstr ""
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:39
-#, fuzzy
 msgid "住宅"
-msgstr "Because I could draw a winning ticket of living in a public apartment."
+msgstr ""
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "延べ床面積（実数）"
@@ -165,14 +163,12 @@ msgid "延べ床面積（カテゴリー）"
 msgstr ""
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid ":doc:`Q802 </variable/Q802>`"
-msgstr "Year :doc:`P33A </variable/P33A>`"
+msgstr ""
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid ":doc:`Q372 </variable/Q372>`"
-msgstr "Year :doc:`P33A </variable/P33A>`"
+msgstr ""
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "住宅の名義人（有配偶）"
@@ -183,32 +179,28 @@ msgid "住宅の名義人（無配偶）"
 msgstr ""
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid ":doc:`Q376C </variable/Q376C>`"
-msgstr "Year :doc:`P33A </variable/P33A>`"
+msgstr ""
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid ":doc:`Q376D </variable/Q376D>`"
-msgstr "Year :doc:`P33A </variable/P33A>`"
+msgstr ""
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "住宅取得の方法"
 msgstr ""
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
-#, fuzzy
 msgid ":doc:`Q376E </variable/Q376E>`"
-msgstr "Year :doc:`P33A </variable/P33A>`"
+msgstr ""
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "住宅取得に関与した親"
 msgstr ""
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
-#, fuzzy
 msgid ":doc:`Q376F </variable/Q376F>`"
-msgstr "Year :doc:`P33A </variable/P33A>`"
+msgstr ""
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:57
 msgid ":doc:`Q372 </variable/Q372>` は延べ床面積の実数値を各選択肢の範囲で分割したカテゴリカル変数です。"
@@ -229,7 +221,6 @@ msgid "選択肢"
 msgstr "Select / Fill in"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
-#, fuzzy
 msgid "コード処理"
 msgstr "Code"
 
@@ -239,39 +230,35 @@ msgstr "1st to 9th wave"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "1.妻"
-msgstr "1.Wife"
+msgstr "\1.Wife"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "2.夫"
-msgstr "2.Husband"
+msgstr "\2.Husband"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid "3.妻と夫の共同名義"
-msgstr "3.wife and husband"
+msgstr "\3.wife and husband"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "4.妻又は夫といずれかの親との共同名義"
 msgstr ""
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid "5.妻の親"
-msgstr "My grandparent"
+msgstr "\5.My grandparent"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid "6.夫の親"
-msgstr "My grand parent"
+msgstr "\6.My grand parent"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "7.その他"
 msgstr "7.Other"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid "8.わからない"
-msgstr "Don’t know"
+msgstr "8.Don’t know"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid "選択肢と同じ"
@@ -302,9 +289,8 @@ msgid "5.その他"
 msgstr "5. Others"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid "6.わからない"
-msgstr "Don’t know"
+msgstr "6.Don’t know"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 #, fuzzy
@@ -364,7 +350,7 @@ msgstr "4.Others"
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 #, fuzzy
 msgid "5.わからない"
-msgstr "Don't know"
+msgstr "\5.Don't know"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "2.親"
@@ -377,7 +363,7 @@ msgstr "3. Others"
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 #, fuzzy
 msgid "4.わからない"
-msgstr "Don’t know"
+msgstr "\4.Don’t know"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 #, fuzzy

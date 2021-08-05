@@ -89,14 +89,12 @@ msgid "事務職（一般事務など）"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:47
-#, fuzzy
 msgid "技能・作業職（工員など）"
 msgstr ""
 "Skilled employee (skilled worker, police, clerk, deliveryman, driver, artisan, "
 "cleaner, etc.)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:49
-#, fuzzy
 msgid "販売サービス職（店員など）"
 msgstr "Sales & service employee (shop employee, sales person, etc.)"
 

@@ -25,10 +25,9 @@ msgstr "Contact information"
 
 #: ../../contact.rst:5
 msgid "データやコードブックに関する質問は、下記までメールにてご連絡ください。"
-msgstr ""
+msgstr "If you have any questions about the JPSC data or are having problems using this documentation, please contact us by e-mail."
 
 #: ../../contact.rst:7
-#, fuzzy
 msgid "慶應義塾大学 パネルデータ設計・解析センター JPSC部門 <jpschelp@pdrc.keio.ac.jp>"
 msgstr ""
 "JPSC Department of Panel Data Research Center at Keio University "

@@ -28,22 +28,18 @@ msgid "この項目は以下のように選択肢と変数が変化してきて�
 msgstr "In this item, choices and variables have changed as follows."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/syugaku_hs.rst:1
-#, fuzzy
 msgid "第1～第9回"
 msgstr "**Wave 1 - 9**"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/syugaku_hs.rst:1
-#, fuzzy
 msgid "第10回"
 msgstr "**Wave 10**"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/syugaku_hs.rst:1
-#, fuzzy
 msgid "第11回～"
 msgstr "**Wave 11 -**"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/syugaku_hs.rst:1
-#, fuzzy
 msgid "変数名"
 msgstr "Variable name"
 

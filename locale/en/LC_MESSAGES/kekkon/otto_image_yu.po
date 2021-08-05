@@ -198,7 +198,6 @@ msgid ":doc:`Q1166P </variable/Q1166P>`"
 msgstr ""
 
 #: ../../kekkon/otto_image_yu.rst:35
-#, fuzzy
 msgid "付問1：上記の中で、あなたのご主人に最も近いイメージはどれですか。"
 msgstr ""
 "Additional question: From (1) to (16) above, please choose the one that, "

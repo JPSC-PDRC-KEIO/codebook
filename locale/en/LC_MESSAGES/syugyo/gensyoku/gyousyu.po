@@ -35,21 +35,19 @@ msgstr ""
 "employer.)"
 
 #: ../../syugyo/gensyoku/gyousyu.rst:12
-#, fuzzy
 msgid ""
 "第1回から第20回までは12分類（:doc:`Q146 "
 "</variable/Q146>`）で対象者に尋ねていて、第21回からは16分類（:doc:`Q1182 "
 "</variable/Q1182>`）で尋ねています。 ただし旧分類に基づいた変数（:doc:`Q146 "
 "</variable/Q146>`）は、第21回以降のデータにも12分類にリコードして残しています。"
 msgstr ""
-"From the 1st to the 20th, categorized into 12 choices (: doc: `Q146 </ "
-"variable / Q146>`), and from the 21st, 16 choices (: doc: `Q1182 </ "
-"variable / Q1182>`) categorized into into. However, the variable based on"
+"From the 1st to the 20th, categorized into 12 choices (:doc:`Q146 </"
+"variable/Q146>`), and from the 21st, 16 choices (:doc:`Q1182 </"
+"variable/Q1182>`) categorized into into. However, the variable based on"
 " the old classification (Q146) is retained in the data from the 21st "
 "wave."
 
 #: ../../syugyo/gensyoku/gyousyu.rst:15
-#, fuzzy
 msgid ""
 "配偶者も、同様に、旧12分類 :doc:`Q217 </variable/Q217>` と新16分類 :doc:`Q1183 "
 "</variable/Q1183>` に分かれています。"

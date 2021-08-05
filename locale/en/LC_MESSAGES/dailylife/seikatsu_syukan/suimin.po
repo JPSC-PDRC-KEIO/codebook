@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../dailylife/seikatsu_syukan/suimin.rst:3
 msgid "睡眠時間"
-msgstr "sleeping hours"
+msgstr "Sleeping hours"
 
 #: ../../dailylife/seikatsu_syukan/suimin.rst:6
 msgid "質問文"
@@ -36,7 +36,6 @@ msgid "選択肢"
 msgstr ""
 
 #: ../../dailylife/seikatsu_syukan/suimin.rst:1
-#, fuzzy
 msgid "時間　（＿＿時間）"
 msgstr "hours（＿＿hours）"
 
