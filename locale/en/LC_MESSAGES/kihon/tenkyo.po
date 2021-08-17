@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-19 17:46+0900\n"
-"PO-Revision-Date: 2021-05-10 11:56+0900\n"
+"PO-Revision-Date: 2021-08-10 11:40+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -18,12 +18,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 2.4.3\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:3
-#, fuzzy
 msgid "引越し経歴"
-msgstr "Career of moving\vMoving history"
+msgstr "Moving history"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:7
 msgid "質問文"
@@ -51,9 +50,8 @@ msgid "引っ越し理由"
 msgstr "Reason for the move"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
-#, fuzzy
 msgid "一番最近の引っ越し（転居1）"
-msgstr "The latest move (Move1)\vMost recent move (Move 1)"
+msgstr "Most recent move (Move 1)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst
 msgid "年 :doc:`P33A </variable/P33A>`"
@@ -72,9 +70,8 @@ msgid ":doc:`P33D </variable/P33D>`"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
-#, fuzzy
 msgid "転居1の一つ前の引っ越し（転居2）"
-msgstr "The move one time befor Move1 (Move2)\vMove prior to move 1 (Move 2)"
+msgstr "Move prior to move 1 (Move 2)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst
 msgid "年 :doc:`P34A </variable/P34A>`"
@@ -93,9 +90,8 @@ msgid ":doc:`P34D </variable/P34D>`"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
-#, fuzzy
 msgid "転居1のニつ前の引っ越し（転居3）"
-msgstr "The move two times befor Move1 (Move3)\vMove prior to move 2 (Move 3)"
+msgstr "Move prior to move 2 (Move 3)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst
 msgid "年 :doc:`P35A </variable/P35A>`"
@@ -114,9 +110,8 @@ msgid ":doc:`P35D </variable/P35D>`"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
-#, fuzzy
 msgid "転居1の三つ前の引っ越し（転居4）"
-msgstr "The move three times befor Move1 (Move4)\vMove prior to move 4 (Move 5)"
+msgstr "Move prior to move 3 (Move 4)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst
 msgid "年 :doc:`P36A </variable/P36A>`"
@@ -135,9 +130,8 @@ msgid ":doc:`P36D </variable/P36D>`"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
-#, fuzzy
 msgid "転居1の四つ前の引っ越し（転居5）"
-msgstr "The move four times befor Move1 (Move5)\vMove prior to move 4 (Move 5)"
+msgstr "Move prior to move 4 (Move 5)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst
 msgid "年 :doc:`P37A </variable/P37A>`"

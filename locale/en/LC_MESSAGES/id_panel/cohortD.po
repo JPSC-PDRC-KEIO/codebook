@@ -1,0 +1,401 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-17 10:35+0900\n"
+"PO-Revision-Date: 2021-08-17 13:46+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 3.0\n"
+
+#: ../../id_panel/cohortD.rst:2
+msgid "**コーホートDの層別推定母集団数、標本サイズ、調査地点数**"
+msgstr "**Estimated population size, sample size, and number of survey sites by stratum for Cohort D**"
+
+#: ../../id_panel/cohortD.rst:4
+msgid "**表- 4- 1　層別推定母集団数**"
+msgstr "**Table 4- 1 The number of presumed mother sets at each stratum**"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "18大都市"
+msgstr "18 major cities"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "その他の市"
+msgstr "Other cities"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "町村"
+msgstr "Towns or villages"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "計"
+msgstr "Total"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "北海道"
+msgstr "Hokkaido"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "66,227"
+msgstr "66,227"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "69,550"
+msgstr "69,550"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "24,681"
+msgstr "24,681"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "160,458"
+msgstr "160,458"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "東北"
+msgstr "Tohoku"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "37,916"
+msgstr "37,916"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "175,721"
+msgstr "175,721"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "46,499"
+msgstr "46,499"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "260,136"
+msgstr "260,136"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "関東"
+msgstr "Kanto"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "539,215"
+msgstr "539,215"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "709,813"
+msgstr "709,813"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "64,797"
+msgstr "64,797"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "1,313,825"
+msgstr "1,313,825"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "中部"
+msgstr "Chubu"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "133,722"
+msgstr "133,722"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "451,572"
+msgstr "451,572"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "69,476"
+msgstr "69,476"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "654,770"
+msgstr "654,770"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "近畿"
+msgstr "Kinki"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "206,915"
+msgstr "206,915"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "385,174"
+msgstr "385,174"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "34,559"
+msgstr "34,559"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "626,648"
+msgstr "626,648"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "中国"
+msgstr "Chugoku"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "37,244"
+msgstr "37,244"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "155,344"
+msgstr "155,344"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "15,805"
+msgstr "15,805"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "208,393"
+msgstr "208,393"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "四国"
+msgstr "Shikoku"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "0"
+msgstr "0"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "92,753"
+msgstr "92,753"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "15,981"
+msgstr "15,981"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "108,734"
+msgstr "108,734"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "九州"
+msgstr "Kyushu"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "85,115"
+msgstr "85,115"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "290,154"
+msgstr "290,154"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "65,475"
+msgstr "65,475"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "440,744"
+msgstr "440,744"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "1,106,354"
+msgstr "1,106,354"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "2,330,081"
+msgstr "2,330,081"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "337,273"
+msgstr "337,273"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "3,773,708"
+msgstr "3,773,708"
+
+#: ../../id_panel/cohortD.rst:21
+msgid "**表- 4- 2　標本サイズ**"
+msgstr "**Table 4- 2 Sample size**"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "11"
+msgstr "11"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "4"
+msgstr "4"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "26"
+msgstr "26"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "7"
+msgstr "7"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "29"
+msgstr "29"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "8"
+msgstr "8"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "44"
+msgstr "44"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "89"
+msgstr "89"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "118"
+msgstr "118"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "10"
+msgstr "10"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "217"
+msgstr "217"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "23"
+msgstr "23"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "75"
+msgstr "75"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "12"
+msgstr "12"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "110"
+msgstr "110"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "34"
+msgstr "34"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "63"
+msgstr "63"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "5"
+msgstr "5"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "102"
+msgstr "102"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "6"
+msgstr "6"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "3"
+msgstr "3"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "35"
+msgstr "35"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "15"
+msgstr "15"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "18"
+msgstr "18"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "14"
+msgstr "14"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "48"
+msgstr "48"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "73"
+msgstr "73"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "184"
+msgstr "184"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "385"
+msgstr "385"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "56"
+msgstr "56"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "625"
+msgstr "625"
+
+#: ../../id_panel/cohortD.rst:37
+msgid "**表- 4- 3　調査地点数**"
+msgstr "**Table 4- 3 Number of survey sites**"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "2"
+msgstr "2"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "1"
+msgstr "1"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "22"
+msgstr "22"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "43"
+msgstr "43"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "17"
+msgstr "17"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "25"
+msgstr "25"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "20"
+msgstr "20"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "9"
+msgstr "9"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "13"
+msgstr "13"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "36"
+msgstr "36"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "79"
+msgstr "79"
+
+#: ../../id_panel/cohortD.rst:1
+msgid "130"
+msgstr "130"
