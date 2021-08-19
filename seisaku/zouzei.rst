@@ -46,4 +46,4 @@
 
    /variable/Q1234
    /variable/Q1235
-   zouzei_taiou_pre10
+   zouzei_taiou_10
