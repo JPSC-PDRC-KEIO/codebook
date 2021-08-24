@@ -4,83 +4,85 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-15 14:59+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-08-17 14:52+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 3.0\n"
 
 #: ../../syugyo_hs/syugyojoutai_hs.rst:3
 msgid "就業状態（配偶者）"
-msgstr ""
+msgstr "Working status (spouse)"
 
 #: ../../syugyo_hs/syugyojoutai_hs.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../syugyo_hs/syugyojoutai_hs.rst:7
 msgid "あなたのご主人は現在（調査年９月）、仕事についていますか。(仕事には常勤従業員、パート、アルバイト、嘱託、自営、家族従業などすべて含みます。ただし、学生アルバイトは除きます。)"
-msgstr ""
+msgstr "Does your husband have a job at present (as of September, survey year)? (Work includes full-time, part-time, temporary, self-employed, and family employment. However, part-time jobs for students are excluded.)"
 
 #: ../../syugyo_hs/syugyojoutai_hs.rst:11
 msgid "|nt1|"
-msgstr ""
+msgstr "|nt1|"
 
 #: ../../syugyo_hs/syugyojoutai_hs.rst:1
 msgid "第1回"
-msgstr ""
+msgstr "1st wave"
 
 #: ../../syugyo_hs/syugyojoutai_hs.rst:1
 msgid "第2回以降"
-msgstr ""
+msgstr "2nd wave -"
 
 #: ../../syugyo_hs/syugyojoutai_hs.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../syugyo_hs/syugyojoutai_hs.rst:1
 msgid ":doc:`Q1026 </variable/Q1026>`"
-msgstr ""
+msgstr ":doc:`Q1026 </variable/Q1026>`"
 
 #: ../../syugyo_hs/syugyojoutai_hs.rst:1
 msgid ":doc:`Q213 </variable/Q213>`"
-msgstr ""
+msgstr ":doc:`Q213 </variable/Q213>`"
 
 #: ../../syugyo_hs/syugyojoutai_hs.rst:1
 msgid "選択肢"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: ../../syugyo_hs/syugyojoutai_hs.rst
 msgid "1. 仕事についている"
-msgstr ""
+msgstr "1.Working"
 
 #: ../../syugyo_hs/syugyojoutai_hs.rst
 msgid "2. 学生"
-msgstr ""
+msgstr "2. Students"
 
 #: ../../syugyo_hs/syugyojoutai_hs.rst
 msgid "3. 無職"
-msgstr ""
+msgstr "3. Unemployed"
 
 #: ../../syugyo_hs/syugyojoutai_hs.rst
 msgid "2. 休職中"
-msgstr ""
+msgstr "2. Off duty"
 
 #: ../../syugyo_hs/syugyojoutai_hs.rst
 msgid "3. 学生"
-msgstr ""
+msgstr "3. Students"
 
 #: ../../syugyo_hs/syugyojoutai_hs.rst
 msgid "4. その他の無職"
-msgstr ""
+msgstr "4. Other unemployed"
 
 #~ msgid "配偶者の就業状態"
 #~ msgstr ""
@@ -129,4 +131,3 @@ msgstr ""
 
 #~ msgid "4.その他の無職"
 #~ msgstr ""
-

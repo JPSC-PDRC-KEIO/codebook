@@ -4,100 +4,98 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-19 21:54+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-08-23 17:48+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:4
 msgid "病気・療養時の相談相手"
-msgstr ""
+msgstr "Consultation during illness and recuperation"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:8
 msgid "質問文（複数回答）"
-msgstr ""
+msgstr "Question ( multiple answers )"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:9
 msgid "この1年間（調査前年10月～調査年9月）に手術や長期療養を要するような重い病気や、うつ状態など精神的な問題があった方にお伺いします。"
-msgstr ""
+msgstr "For those who have had serious illnesses or mental health issues such as depression that require surgery or long-term medical treatment during the past year (October of the previous year to September of the survey year)."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:10
 msgid "療養生活の相談相手はだれでしたか。（〇はいくつでも）"
-msgstr ""
+msgstr "Who did you consult with during your treatment? (Circle as many as pertain to you)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
 msgid "変数"
-msgstr ""
+msgstr "Variable"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
 msgid "医師などの医療、福祉などの専門家"
-msgstr ""
+msgstr "Medical and welfare professionals such as doctors"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
 msgid ":doc:`Q135A </variable/Q135A>`"
-msgstr ""
+msgstr ":doc:`Q135A </variable/Q135A>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
 msgid "宗教者"
-msgstr ""
+msgstr "Clergy"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
 msgid ":doc:`Q135B </variable/Q135B>`"
-msgstr ""
+msgstr ":doc:`Q135B </variable/Q135B>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
 msgid "親やきょうだい"
-msgstr ""
+msgstr "Parents or siblings"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
 msgid ":doc:`Q135C </variable/Q135C>`"
-msgstr ""
+msgstr ":doc:`Q135C </variable/Q135C>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
 msgid "夫や子ども"
-msgstr ""
+msgstr "Husband or children"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
 msgid ":doc:`Q135D </variable/Q135D>`"
-msgstr ""
+msgstr ":doc:`Q135D </variable/Q135D>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
 msgid "友人"
-msgstr ""
+msgstr "Friends"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
 msgid ":doc:`Q135E </variable/Q135E>`"
-msgstr ""
+msgstr ":doc:`Q135E </variable/Q135E>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
 msgid ":doc:`Q135F </variable/Q135F>`"
-msgstr ""
+msgstr ":doc:`Q135F </variable/Q135F>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
 msgid "特にいなかった"
-msgstr ""
+msgstr "No one in particular"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
 msgid ":doc:`Q135G </variable/Q135G>`"
-msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
+msgstr ":doc:`Q135G </variable/Q135G>`"

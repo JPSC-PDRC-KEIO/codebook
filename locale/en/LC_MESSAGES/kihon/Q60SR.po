@@ -42,7 +42,7 @@ msgstr "Choices / Entry field"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:17
 msgid "中学校"
-msgstr "Junior high school."
+msgstr "Junior high school"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:18
 msgid "専門・専修（高校卒せず専門・専修学校卒業）"
