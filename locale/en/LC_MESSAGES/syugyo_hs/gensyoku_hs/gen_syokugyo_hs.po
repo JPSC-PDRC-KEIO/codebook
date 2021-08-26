@@ -54,56 +54,56 @@ msgstr "Select / Fill in"
 
 #: ../../syugyo_hs/gensyoku_hs/gen_syokugyo_hs.rst
 msgid "1.農林漁業（自営者）"
-msgstr "Agriculture, Forestry, or Fisheries (Self-employed)"
+msgstr "\1. Agriculture, Forestry, or Fisheries (Self-employed)"
 
 #: ../../syugyo_hs/gensyoku_hs/gen_syokugyo_hs.rst
 msgid "2.農林漁業（家族従業者）"
-msgstr "Agriculture, Forestry, or Fisheries (Family employee)"
+msgstr "\2. Agriculture, Forestry, or Fisheries (Family employee)"
 
 #: ../../syugyo_hs/gensyoku_hs/gen_syokugyo_hs.rst
 msgid "3.小規模〔9人以下〕の商業・工業・サービス業（自営者）"
-msgstr "Small-scale [less than 9 persons] commercial, industrial, and service businesses (self-employed)"
+msgstr "\3. Small-scale [less than 9 persons] commercial, industrial, and service businesses (self-employed)"
 
 #: ../../syugyo_hs/gensyoku_hs/gen_syokugyo_hs.rst
 msgid "4.小規模〔9人以下〕の商業・工業・サービス業（家族従業者）"
-msgstr "Small-scale [9 or fewer] commercial, industrial, and service businesses (family employees)"
+msgstr "\4. Small-scale [9 or fewer] commercial, industrial, and service businesses (family employees)"
 
 #: ../../syugyo_hs/gensyoku_hs/gen_syokugyo_hs.rst
 msgid "5.自由業"
-msgstr "5. Freelance"
+msgstr "\5. Freelance"
 
 #: ../../syugyo_hs/gensyoku_hs/gen_syokugyo_hs.rst
 msgid "6.管理職"
-msgstr "6. Management"
+msgstr "\6. Management"
 
 #: ../../syugyo_hs/gensyoku_hs/gen_syokugyo_hs.rst
 msgid "7.専門職"
-msgstr " 7. Professiona"
+msgstr "\7. Professiona"
 
 #: ../../syugyo_hs/gensyoku_hs/gen_syokugyo_hs.rst
 msgid "8.技術職"
-msgstr "8. Engineering"
+msgstr "\8. Engineering"
 
 #: ../../syugyo_hs/gensyoku_hs/gen_syokugyo_hs.rst
 msgid "9.教員"
-msgstr "Teacher"
+msgstr "\9. Teacher"
 
 #: ../../syugyo_hs/gensyoku_hs/gen_syokugyo_hs.rst
 msgid "10.事務職"
-msgstr "10. Clerical work"
+msgstr "\10. Clerical work"
 
 #: ../../syugyo_hs/gensyoku_hs/gen_syokugyo_hs.rst
 msgid "11.技能・作業職"
-msgstr "11. Skilled and general labor jobs"
+msgstr "\11. Skilled and general labor jobs"
 
 #: ../../syugyo_hs/gensyoku_hs/gen_syokugyo_hs.rst
 msgid "12.販売サービス職"
-msgstr "12. Sales and service jobs"
+msgstr "\12. Sales and service jobs"
 
 #: ../../syugyo_hs/gensyoku_hs/gen_syokugyo_hs.rst
 msgid "13.自宅で賃仕事"
-msgstr "13. Work from home for wages"
+msgstr "\13. Work from home for wages"
 
 #: ../../syugyo_hs/gensyoku_hs/gen_syokugyo_hs.rst
 msgid "14.その他の職業"
-msgstr "14. Other occupations"
+msgstr "\14. Other occupations"

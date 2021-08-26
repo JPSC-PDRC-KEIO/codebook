@@ -9,26 +9,30 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-17 10:35+0900\n"
-"PO-Revision-Date: 2021-06-11 15:43+0900\n"
+"PO-Revision-Date: 2021-06-18 15:00+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.0\n"
+"X-Generator: Poedit 3.0\n"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:3
 msgid "持ち家（一戸建て・マンション）について"
 msgstr "Owned house (single-family house or apartment)"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:5
-msgid "昨年10月1日以降に転居して現在持ち家に住んでいる方、もしくは現在住んでいる土地・住宅を購入・増改築・名義変更した方に聞いています。"
+msgid ""
+"昨年10月1日以降に転居して現在持ち家に住んでいる方、もしくは現在住んでいる土"
+"地・住宅を購入・増改築・名義変更した方に聞いています。"
 msgstr ""
-"We asked those who moved to a new house after October 1 last year and "
-"currently live in your own house, or those who bought, extended, or "
-"changed the name of the land or house where you currently live."
+"I am asking this question to those who have moved since October 1 of last "
+"year and are currently living in a home they own, or who have purchased, "
+"added an extension, remodeled the house, or changed the name of the land or "
+"house they are currently living in."
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:7
 msgid "第1～第6回（住宅建築時期は第2回から）"
@@ -36,11 +40,11 @@ msgstr "1st - 6th waves (Housing construction period starts from 2nd wave)"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid "敷地取得年"
-msgstr "Year of land dressing acquisition"
+msgstr "Year the land was acquired"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid "住宅取得年"
-msgstr "Housing acquisition year"
+msgstr "year the house was acquired"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid "住宅建築時期"
@@ -48,15 +52,15 @@ msgstr "Housing construction period"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid ":doc:`Q375A </variable/Q375A>`"
-msgstr ""
+msgstr ":doc:`Q375A </variable/Q375A>`"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid ":doc:`Q376A </variable/Q376A>`"
-msgstr ""
+msgstr ":doc:`Q376A </variable/Q376A>`"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid ":doc:`Q376B </variable/Q376B>`"
-msgstr ""
+msgstr ":doc:`Q376B </variable/Q376B>`"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:14
 msgid "第7回～"
@@ -64,35 +68,35 @@ msgstr "7th wave -"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid ":doc:`Q889 </variable/Q889>`"
-msgstr ""
+msgstr ":doc:`Q889 </variable/Q889>`"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid ":doc:`Q890 </variable/Q890>`"
-msgstr ""
+msgstr ":doc:`Q890 </variable/Q890>`"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid ":doc:`Q891 </variable/Q891>`"
-msgstr ""
+msgstr ":doc:`Q891 </variable/Q891>`"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:20
 msgid ""
-"第6回までは、「住宅取得年」は :doc:`Q376A </variable/Q376A>`、「住宅建築時期」は :doc:`Q376B "
-"</variable/Q376B>` にて聞いていました。"
+"第6回までは、「住宅取得年」は :doc:`Q376A </variable/Q376A>`、「住宅建築時"
+"期」は :doc:`Q376B </variable/Q376B>` にて聞いていました。"
 msgstr ""
-"Up to the 6th edition, \"year of housing acquisition\" was asked in "
-":doc:`Q376A </variable/Q376A>` and \"time of housing construction\" was "
-"asked in :doc:`Q376B </variable/Q376B>`."
+"Up to the 6th edition, \"year the house was acquired\" was asked in :doc:"
+"`Q376A </variable/Q376A>` and \"time of housing construction\" was asked in :"
+"doc:`Q376B </variable/Q376B>`."
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:22
-msgid "調査票では元号でたずねていますが、レコードでは西暦下2桁に変換しています。"
+msgid ""
+"調査票では元号でたずねていますが、レコードでは西暦下2桁に変換しています。"
 msgstr ""
-"In the questionnaire, the question is asked in the original year, but in "
-"the records, it is converted to the last two digits of the Western "
-"calendar."
+"In the questionnaire, the question is asked in the original year, but in the "
+"records, it is converted to the last two digits of the Western calendar."
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:25
 msgid "敷地"
-msgstr "site"
+msgstr "Premises"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid "項目"
@@ -104,113 +108,123 @@ msgstr "Variable name"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid "敷地面積"
-msgstr "Laying ground area"
+msgstr "Property size"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid ":doc:`Q375B </variable/Q375B>`"
-msgstr ""
+msgstr ":doc:`Q375B </variable/Q375B>`"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "敷地の名義人（有配偶）"
-msgstr ""
+msgstr "Owner of the premises. (married couple)"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "敷地の名義人（無配偶）"
-msgstr ""
+msgstr "Owner of the premises. (married couple)"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid ":doc:`Q375C </variable/Q375C>`"
-msgstr ""
+msgstr ":doc:`Q375C </variable/Q375C>`"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid ":doc:`Q375D </variable/Q375D>`"
-msgstr ""
+msgstr ":doc:`Q375D </variable/Q375D>`"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "敷地取得の方法"
-msgstr ""
+msgstr "Method of the premises acquisition"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "（本人・配偶者名義の場合）"
-msgstr ""
+msgstr "( In the case of own name and spouse's name)"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid ":doc:`Q375E </variable/Q375E>`"
-msgstr ""
+msgstr ":doc:`Q375E </variable/Q375E>`"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "敷地取得に関与した親"
-msgstr ""
+msgstr "Parents involved in premises acquisition"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "（親の関与があった場合）"
-msgstr ""
+msgstr "(If there was parental involvement)"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid ":doc:`Q375F </variable/Q375F>`"
-msgstr ""
+msgstr ":doc:`Q375F </variable/Q375F>`"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:39
 msgid "住宅"
-msgstr ""
+msgstr "House"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "延べ床面積（実数）"
-msgstr ""
+msgstr "Total floor space (actual number)"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "延べ床面積（カテゴリー）"
-msgstr ""
+msgstr "Total floor space (category)"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid ":doc:`Q802 </variable/Q802>`"
-msgstr ""
+msgstr ":doc:`Q802 </variable/Q802>`"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid ":doc:`Q372 </variable/Q372>`"
-msgstr ""
+msgstr ":doc:`Q372 </variable/Q372>`"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "住宅の名義人（有配偶）"
-msgstr ""
+msgstr "Owner of the house (married)"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "住宅の名義人（無配偶）"
-msgstr ""
+msgstr "Owner of the house (unmarried)"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid ":doc:`Q376C </variable/Q376C>`"
-msgstr ""
+msgstr ":doc:`Q376C </variable/Q376C>`"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid ":doc:`Q376D </variable/Q376D>`"
-msgstr ""
+msgstr ":doc:`Q376D </variable/Q376D>`"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "住宅取得の方法"
-msgstr ""
+msgstr "How the home was acquired"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid ":doc:`Q376E </variable/Q376E>`"
-msgstr ""
+msgstr ":doc:`Q376E </variable/Q376E>`"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "住宅取得に関与した親"
-msgstr ""
+msgstr "Parents involved in home acquisition"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid ":doc:`Q376F </variable/Q376F>`"
-msgstr ""
+msgstr ":doc:`Q376F </variable/Q376F>`"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:57
-msgid ":doc:`Q372 </variable/Q372>` は延べ床面積の実数値を各選択肢の範囲で分割したカテゴリカル変数です。"
+msgid ""
+":doc:`Q372 </variable/Q372>` は延べ床面積の実数値を各選択肢の範囲で分割したカ"
+"テゴリカル変数です。"
 msgstr ""
+"Q372 is a categorical variable that divides the actual value of total floor "
+"space by the number range of each option."
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:60
 msgid ""
-"下記のように、第10回以降の「敷地の名義人（:doc:`Q375C </variable/Q375C>` 、 :doc:`Q375D "
-"</variable/Q375D>`）」の選択肢は第1～第9回と異なり、さらに複数回答となっています。ただし回答コードは第1～第9回に合わせてデータ処理しています。"
+"下記のように、第10回以降の「敷地の名義人（:doc:`Q375C </variable/Q375C>` 、 :"
+"doc:`Q375D </variable/Q375D>`）」の選択肢は第1～第9回と異なり、さらに複数回答"
+"となっています。ただし回答コードは第1～第9回に合わせてデータ処理しています。"
 msgstr ""
+"As shown below, the choices for \"Owner of the premises (:doc:`Q375C </"
+"variable/Q375C>` , :doc:`Q375D </variable/Q375D>`)\" the 10th and later "
+"editions are different from the 1st to 9th editions, and moreover, there are "
+"multiple answers. However, the answer codes have been processed according to "
+"the data of the 1st to 9th sessions."
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:63
 msgid "有配偶"
@@ -222,7 +236,7 @@ msgstr "Select / Fill in"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid "コード処理"
-msgstr "Code"
+msgstr "coding"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid "第1～第9回"
@@ -230,39 +244,40 @@ msgstr "1st to 9th wave"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "1.妻"
-msgstr "\1.Wife"
+msgstr "\1. Wife"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "2.夫"
-msgstr "\2.Husband"
+msgstr "\2. Husband"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "3.妻と夫の共同名義"
-msgstr "\3.wife and husband"
+msgstr "\3. Joint ownership of husband and wife"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "4.妻又は夫といずれかの親との共同名義"
 msgstr ""
+"\4. Joint ownership of husband or wife and either parents."
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "5.妻の親"
-msgstr "\5.My grandparent"
+msgstr "\5. Wife's parents"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "6.夫の親"
-msgstr "\6.My grand parent"
+msgstr "\6. Husband's parents"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "7.その他"
-msgstr "7.Other"
+msgstr "\7. Others"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "8.わからない"
-msgstr "8.Don’t know"
+msgstr "\8. Don’t know"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid "選択肢と同じ"
-msgstr ""
+msgstr "Same as options"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:1
 msgid "第10回以降"
@@ -270,66 +285,59 @@ msgstr "10th wave -"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "1.あなた本人"
-msgstr ""
+msgstr "\1. You yourself"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "2.ご主人"
-msgstr "2.Husband"
+msgstr "\2. Husband"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "3.あなたの親"
-msgstr "3. Your parents"
+msgstr "\3. Your parents"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "4.ご主人の親"
-msgstr "4. Your husband's parents"
+msgstr "\4. Your husband's parents"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "5.その他"
-msgstr "5. Others"
+msgstr "\5. Others"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "6.わからない"
-msgstr "6.Don’t know"
+msgstr "\6. Don’t know"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid "1.に〇→1"
-msgstr "1"
+msgstr "Put a \"○\" in \"1\" → 1"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid "2.に〇→2"
-msgstr "2"
+msgstr "Put a \"○\" in \"2\" → 2"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid "3.に〇→5"
-msgstr "1 2 3 4 5"
+msgstr "Put a \"○\" in \"3\" → 5"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid "4.に〇→6"
-msgstr "Student in grades 4 to 6 of primary school"
+msgstr "Put a \"○\" in \"4\" → 6"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid "1.と2.に〇→3"
-msgstr "1 2 3 4 5"
+msgstr "Put a \"○\" in 1. and 2. → 3"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "1.もしくは2.と3.もしくは4に〇→4"
-msgstr ""
+msgstr "○ for 1. or 2. and 3. or 4 -> 4"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid "5.に〇→7"
-msgstr "5"
+msgstr "Put a \"○\" in \"5\" → 7"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid "6.に〇→8"
-msgstr "6"
+msgstr "Put a \"○\" in \"6\" → 8"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:90
 msgid "無配偶"
@@ -337,52 +345,43 @@ msgstr "unmarried"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "2.親との共同名義"
-msgstr ""
+msgstr "\2. Joint ownership with parents"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "3.親の名義"
-msgstr "3. Parent's name"
+msgstr "\3. Parent's ownership"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "4.その他"
-msgstr "4.Others"
+msgstr "\4. Others"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid "5.わからない"
-msgstr "\5.Don't know"
+msgstr "\5. Don't know"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "2.親"
-msgstr "2. Parents"
+msgstr "\2. Parents"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
 msgid "3.その他"
-msgstr "3. Others"
+msgstr "\3. Others"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid "4.わからない"
-msgstr "\4.Don’t know"
+msgstr "\4. Don’t know"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid "2.に〇→3"
-msgstr "1 2 3 4 5"
+msgstr "Put a \"○\" in \"2\" → 3"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid "3.に〇→4"
-msgstr "1 2 3 4 5"
+msgstr "Put a \"○\" in \"3\" → 4"
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst
-#, fuzzy
 msgid "4.に〇→5"
-msgstr "1 2 3 4 5"
+msgstr "Put a \"○\" in \"4\" → 5"
 
 #~ msgid ":doc:`Q376D </variable/Q376D>`\""
 #~ msgstr "Year :doc:`P33A </variable/P33A>`"
-
-#~ msgid ":doc:`Q372 </variable/Q372>` は延べ床面積の実数をカテゴリー別にリコーディングしたものです。"
-#~ msgstr ""
-
