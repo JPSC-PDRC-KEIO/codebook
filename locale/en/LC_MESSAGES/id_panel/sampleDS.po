@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-17 10:35+0900\n"
-"PO-Revision-Date: 2021-08-17 14:06+0900\n"
+"PO-Revision-Date: 2021-08-30 14:49+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -112,11 +112,11 @@ msgstr "\\D. The order of cities, towns, and villages in each stratum in the ext
 
 #: ../../id_panel/sampleDS.rst:34
 msgid "オ．抽出調査地点での対象者の抽出は、調査地点の住所（町・丁目・街区・番地等を指定）により、住民基本台帳から等間隔抽出法によって抽出した。"
-msgstr ""
+msgstr "\E. The respondents at the survey points were extracted from the Basic Resident Register using the equal interval extraction method according to the address of the survey point (specifying the town, street, city block, street number, etc.)."
 
 #: ../../id_panel/sampleDS.rst:35
 msgid "カ．この調査は完了指定数調査としたため、上記の正規対象者1について予備対象者3を付した。"
-msgstr ""
+msgstr "\F. Since this survey was designed to be a survey with a specified number of completions, a reserve respondent 3 was added to the regular respondent 1 above."
 
 #: ../../id_panel/sampleDS.rst:36
 msgid "キ．以上の作業の結果得られた層別の標本数、調査地点数は表-1のとおりである。"

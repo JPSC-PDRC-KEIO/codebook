@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-17 10:35+0900\n"
-"PO-Revision-Date: 2021-08-17 13:30+0900\n"
+"PO-Revision-Date: 2021-08-30 14:41+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -26,7 +26,7 @@ msgstr "**Estimated population size, sample size, and number of survey sites by 
 
 #: ../../id_panel/cohortA.rst:4
 msgid "**表- 1- 1　層別推定母集団数**"
-msgstr "**Table 1- 1 The number of presumed mother sets at each stratum**"
+msgstr "**Table 1- 1 Estimated population size by stratum**"
 
 #: ../../id_panel/cohortA.rst:1
 msgid "13大都市"

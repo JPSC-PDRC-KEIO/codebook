@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-24 10:30+0900\n"
-"PO-Revision-Date: 2021-04-19 13:11+0900\n"
+"PO-Revision-Date: 2021-08-30 14:44+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sheetEX.rst:3
 msgid "提供データの内容"
@@ -34,16 +34,16 @@ msgstr "The data file is provided in CSV format, and the variable name is includ
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sheetEX.rst:9
 msgid ""
-"JPSCでは調査回を”ｐ+調査回”で表しており、各フォルダにはそれぞれの調査回のデータが含まれています。例えば、”p1”フォルダには第1回調査データのCSVファイル群が含まれ"
-"ます。"
+"JPSCでは調査回を”ｐ+調査回”で表しており、各フォルダにはそれぞれの調査回のデータが含まれています。例えば、”p1”フォルダには第1回調査データのCSVファイル群が含ま"
+"れます。"
 msgstr ""
 "In JPSC, the survey times are represented by \"p + survey times\", and each folder contains the data of each survey time. For example, the \"p1\" folder "
 "contains the CSV files of the 1st survey data."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sheetEX.rst:10
 msgid ""
-"新規コーホートを補充した年は、既存コーホートと新規コーホートの2種類のデータセット（フォルダ）があります．例えば、第11回調査には”p11ab” と”p11c”の2種類のデータ"
-"セットがあります。"
+"新規コーホートを補充した年は、既存コーホートと新規コーホートの2種類のデータセット（フォルダ）があります．例えば、第11回調査には”p11ab” と”p11c”の2種類のデー"
+"タセットがあります。"
 msgstr ""
 "In years when a new cohort is added, there are two datasets (folders), one for the existing cohort and one for the new cohort. For example, for the 11th "
 "survey, there are two datasets, \"p11ab\" and \"p11c\"."
@@ -64,11 +64,11 @@ msgstr "Variable names are numbered serially with Q or P as a prefix. This numbe
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sheetEX.rst:18
 msgid ""
-"同じ質問項目には、各調査回で共通の変数名を割り当てています。ただし、調査の内容は同じであっても、質問文や回答の選択肢を変更した場合は、原則、変数名を変更してい"
-"ます。（e.g. :doc:`/syugyo/syugyojoutai` ）"
+"同じ質問項目には、各調査回で共通の変数名を割り当てています。ただし、調査の内容は同じであっても、質問文や回答の選択肢を変更した場合は、原則、変数名を変更して"
+"います。（e.g. :doc:`/syugyo/syugyojoutai` ）"
 msgstr ""
 "The same question item is assigned a common variable name for each survey. However, even if the content of the survey is the same, if the question text or "
-"answer options are changed, in principle, the variable name is changed. (E.g. working status)"
+"answer options are changed, in principle, the variable name is changed. （e.g. :doc:`/syugyo/syugyojoutai` ）"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/id_panel/sheetEX.rst:19
 msgid "Pで始まる変数群は、原則として対象者が調査に初めて参加した年のみに収録されています。主に調査以前の情報になります。"
