@@ -86,7 +86,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
 msgid "子どもの結婚資金に"
-msgstr "To  save for our child(ren)’s wedding(s)"
+msgstr "To save for our child(ren)’s wedding(s)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
 msgid ":doc:`Q353C </variable/Q353C>`"
@@ -98,11 +98,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
 msgid "マイホーム（土地を含む）の取得（建て替え、買い替えを含む）のため"
-msgstr ""
+msgstr "To purchase (or renovate or replace) our house (with lot)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
 msgid ":doc:`Q354C </variable/Q354C>`"
-msgstr "To purchase (or renovate or replace) our house (with lot)"
+msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
 msgid ":doc:`Q354A </variable/Q354A>`"
@@ -122,7 +122,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
 msgid "レジャー資金に"
-msgstr " To save to spend on leisure "
+msgstr "To save to spend on leisure "
 
 #: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/tyochiku_mokutekibetsu.rst:1
 msgid ":doc:`Q356C </variable/Q356C>`"

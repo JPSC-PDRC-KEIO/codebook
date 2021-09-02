@@ -194,7 +194,6 @@ msgid "各細目の記入欄は10万円の位までですが、生活費合計�
 msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_yu.rst:1
-#, fuzzy
 msgid "変数"
 msgstr "Variable name"
 

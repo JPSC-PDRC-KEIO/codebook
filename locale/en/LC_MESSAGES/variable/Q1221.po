@@ -44,9 +44,8 @@ msgid "選択肢 / 記入欄"
 msgstr "Choices / Entry field"
 
 #: ../../variable/Q1221.rst:26
-#, fuzzy
 msgid "週あたり＿ ＿ ＿ 時間"
-msgstr "_ _ _ hours per week"
+msgstr "\_ _ _ hours per week"
 
 #: ../../variable/Q1221.rst:32
 msgid "桁あふれコード"

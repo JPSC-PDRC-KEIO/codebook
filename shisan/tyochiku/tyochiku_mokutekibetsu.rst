@@ -14,7 +14,7 @@
    :header: "項目", "目的", "目標額"
 
    "夫婦の老後の生活に備えるため", ":doc:`Q350C </variable/Q350C>`", ":doc:`Q350A </variable/Q350A>`"
-   "病気、災害、その他不時の出費に備えるため", ":doc:`Q351A </variable/Q351A>`", ":doc:`Q350B </variable/Q350B>`"
+   "病気、災害、その他不時の出費に備えるため", ":doc:`Q351C </variable/Q351C>`", ":doc:`Q351A </variable/Q351A>`"
    "子どもの教育費に", ":doc:`Q352C </variable/Q352C>`", ":doc:`Q352A </variable/Q352A>`"
    "子どもの結婚資金に", ":doc:`Q353C </variable/Q353C>`", ":doc:`Q353A </variable/Q353A>`"
    "マイホーム（土地を含む）の取得（建て替え、買い替えを含む）のため", ":doc:`Q354C </variable/Q354C>`", ":doc:`Q354A </variable/Q354A>`"
