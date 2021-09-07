@@ -4,83 +4,85 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-08-31 17:29+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:5
 msgid "結婚による住居変化"
-msgstr ""
+msgstr "Change of residence due to marriage"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:11
 msgid "Q708"
-msgstr ""
+msgstr "Q708"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:18
 msgid "結婚後による居住の変化は次のうちどれになりますか。"
-msgstr ""
+msgstr "Which of the following is a change in your residence after marriage?"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:27
 msgid "あなたがご主人の家に引っ越した"
-msgstr ""
+msgstr "You moved into your husband's house."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:29
 msgid "ご主人があなたの家に引っ越した"
-msgstr ""
+msgstr "Your husband moved into your house."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:31
 msgid "家を新しく借りた"
-msgstr ""
+msgstr "You rented a new house."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:33
 msgid "家（土地または住宅のみも含みます）を新しく購入した（新築も親との共同名義も含みます）"
-msgstr ""
+msgstr "Purchased(including new construction and joint ownership with parents) a new house (including land or house only) ."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:40
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:46
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response codes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:52
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:53
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:58
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:64
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:69
 msgid "p3_2"
@@ -176,11 +178,10 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:115
 msgid "p26_2"
-msgstr ""
+msgstr "p26_2"
 
 #~ msgid "変数名: Q708"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

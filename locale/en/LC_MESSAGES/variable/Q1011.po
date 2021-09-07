@@ -4,27 +4,29 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-09-07 13:27+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1011.rst:5
 msgid "健康状態"
-msgstr ""
+msgstr "State of health"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1011.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1011.rst:11
 msgid "Q1011"
@@ -32,59 +34,59 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1011.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1011.rst:18
 msgid "ふだんのあなたの健康状態はどうですか。"
-msgstr ""
+msgstr "How is your health in everyday life?"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1011.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1011.rst:27
 msgid "とても健康"
-msgstr ""
+msgstr "Excellent health"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1011.rst:29
 msgid "まあ健康"
-msgstr ""
+msgstr "Above average health"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1011.rst:31
 msgid "ふつう"
-msgstr ""
+msgstr "Average health"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1011.rst:33
 msgid "あまり健康ではない"
-msgstr ""
+msgstr "Below average health"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1011.rst:35
 msgid "まったく健康でない"
-msgstr ""
+msgstr "Poor health"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1011.rst:42
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1011.rst:48
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response codes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1011.rst:54
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1011.rst:55
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1011.rst:60
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1011.rst:66
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1011.rst:71
 msgid "p10_4"
@@ -171,4 +173,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

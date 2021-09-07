@@ -25,7 +25,7 @@ msgstr "Time of first marriage"
 
 #: ../../kihon/kekkon/syokon.rst:13
 msgid "**初婚時期の調査について**"
-msgstr "Survey on the timing of first marriage"
+msgstr "**Survey on the timing of first marriage**"
 
 #: ../../kihon/kekkon/syokon.rst:15
 msgid "下記の調査回に初婚年・月を聞いています。"
@@ -94,8 +94,8 @@ msgid ""
 msgstr ""
 "The variable names for the year and month of first marriage are Q1044A "
 "and Q1044B. However, for the 2nd survey \\(Cohort A first time\\) and the"
-" 5th survey \\(Cohort B first time\\), :doc:`/variable/Q527A` and "
-":doc:`/variable/Q527B` are used. From the 11th survey onward, the "
+" 5th survey \\(Cohort B first time\\), :doc:`Q527A</variable/Q527A>` and "
+":doc:`Q527B</variable/Q527B>` are used. From the 11th survey onward, the "
 "respondents are asked to fill in either the Year and Month column or the "
 "Marriage Age column."
 

@@ -4,27 +4,29 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-09-07 13:29+0900\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1012.rst:5
 msgid "主観的な若さ"
-msgstr ""
+msgstr "Subjective youth"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1012.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1012.rst:11
 msgid "Q1012"
@@ -32,59 +34,59 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1012.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1012.rst:18
 msgid "あなたは自分の身体について、同年齢の人と比べて若い方だと思いますか。"
-msgstr ""
+msgstr "Do you think you are in better physical condition than most people your age?"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1012.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1012.rst:27
 msgid "若い方だと思う"
-msgstr ""
+msgstr "Much better than average"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1012.rst:29
 msgid "やや若い方だと思う"
-msgstr ""
+msgstr "A little better than average"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1012.rst:31
 msgid "ふつう"
-msgstr ""
+msgstr "Average"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1012.rst:33
 msgid "やや老けている方だと思う"
-msgstr ""
+msgstr "A little below average"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1012.rst:35
 msgid "老けている方だと思う"
-msgstr ""
+msgstr "Way below average"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1012.rst:42
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1012.rst:48
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response codes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1012.rst:54
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1012.rst:55
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1012.rst:60
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1012.rst:66
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1012.rst:71
 msgid "p10_4"
@@ -171,4 +173,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

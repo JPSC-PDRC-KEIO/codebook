@@ -9,192 +9,191 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-15 14:59+0900\n"
-"PO-Revision-Date: 2020-01-30 10:40+0900\n"
+"PO-Revision-Date: 2021-09-07 13:37+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.0\n"
+"X-Generator: Poedit 3.0\n"
 
 #: ../../oyakankei/zouyosouzoku.rst:3
 msgid "親からの贈与・相続"
-msgstr ""
+msgstr "Gifts or inheritance from parents"
 
 #: ../../oyakankei/zouyosouzoku.rst:6
 msgid "質問文"
 msgstr "Question"
 
 #: ../../oyakankei/zouyosouzoku.rst:7
-#, fuzzy
-msgid "あなたは、この１年間（調査前年10月～調査年9月）にあなたの親から金融資産や実物資産をもらったことがありますか。もらった場合はその価値をご記入下さい。"
+msgid ""
+"あなたは、この１年間（調査前年10月～調査年9月）にあなたの親から金融資産や実物資産"
+"をもらったことがありますか。もらった場合はその価値をご記入下さい。"
 msgstr ""
-"Have you and your husband received financial and real assets from your "
-"husband’s parent(s) during the past year (October 2015 - — September "
-"2016)?   If you have, please fill in the current value of the assets "
-"below."
+"Have you received any financial or real assets from your parents in the past "
+"year (October of the previous year to September of the survey year)? If you so, "
+"please fill in the value."
 
 #: ../../oyakankei/zouyosouzoku.rst:1 ../../oyakankei/zouyosouzoku.rst:9
 msgid "実親"
-msgstr ""
+msgstr "Your own parents"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid "金融資産"
-msgstr ""
+msgstr "Financial assets"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid "実物資産"
-msgstr ""
+msgstr "Real assets"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid "生前贈与の有無"
-msgstr ""
+msgstr "Did you receive an inheritance advance?"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q1227A </variable/Q1227A>`"
-msgstr ""
+msgstr ":doc:`Q1227A </variable/Q1227A>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q1227B </variable/Q1227B>`"
-msgstr ""
+msgstr ":doc:`Q1227B </variable/Q1227B>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid "生前贈与の金額"
-msgstr ""
+msgstr "Amount of inheritance advance"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q327A </variable/Q327A>`"
-msgstr ""
+msgstr ":doc:`Q327A </variable/Q327A>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q327B </variable/Q327B>`"
-msgstr ""
+msgstr ":doc:`Q327B </variable/Q327B>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid "生前贈与の期待"
-msgstr ""
+msgstr "Expectation of Inheritance advance"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q328A </variable/Q328A>`"
-msgstr ""
+msgstr ":doc:`Q328A </variable/Q328A>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q328B </variable/Q328B>`"
-msgstr ""
+msgstr ":doc:`Q328B </variable/Q328B>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid "遺産相続の有無"
-msgstr ""
+msgstr "Inheritance Status"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q1227C </variable/Q1227C>`"
-msgstr ""
+msgstr ":doc:`Q1227C </variable/Q1227C>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q1227D </variable/Q1227D>`"
-msgstr ""
+msgstr ":doc:`Q1227D </variable/Q1227D>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid "遺産相続の金額"
-msgstr ""
+msgstr "Amount of inheritance"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q327C </variable/Q327C>`"
-msgstr ""
+msgstr ":doc:`Q327C </variable/Q327C>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q327D </variable/Q327D>`"
-msgstr ""
+msgstr ":doc:`Q327D </variable/Q327D>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid "遺産相続の期待"
-msgstr ""
+msgstr "Inheritance expectation"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q328C </variable/Q328C>`"
-msgstr ""
+msgstr ":doc:`Q328C </variable/Q328C>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q328D </variable/Q328D>`"
-msgstr ""
+msgstr ":doc:`Q328D </variable/Q328D>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1 ../../oyakankei/zouyosouzoku.rst:21
 msgid "義親"
-msgstr ""
+msgstr "Parents-in-law"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q1228A </variable/Q1228A>`"
-msgstr ""
+msgstr ":doc:`Q1228A </variable/Q1228A>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q1228B </variable/Q1228B>`"
-msgstr ""
+msgstr ":doc:`Q1228B </variable/Q1228B>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid "生前贈与"
-msgstr ""
+msgstr "Inheritance advance"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q329A </variable/Q329A>`"
-msgstr ""
+msgstr ":doc:`Q329A </variable/Q329A>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q329B </variable/Q329B>`"
-msgstr ""
+msgstr ":doc:`Q329B </variable/Q329B>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q330A </variable/Q330A>`"
-msgstr ""
+msgstr ":doc:`Q330A </variable/Q330A>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q330B </variable/Q330B>`"
-msgstr ""
+msgstr ":doc:`Q330B </variable/Q330B>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q1228C </variable/Q1228C>`"
-msgstr ""
+msgstr ":doc:`Q1228C </variable/Q1228C>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q1228D </variable/Q1228D>`"
-msgstr ""
+msgstr ":doc:`Q1228D </variable/Q1228D>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid "遺産相続"
-msgstr ""
+msgstr "Inheritance"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q329C </variable/Q329C>`"
-msgstr ""
+msgstr ":doc:`Q329C </variable/Q329C>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q329D </variable/Q329D>`"
-msgstr ""
+msgstr ":doc:`Q329D </variable/Q329D>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q330C </variable/Q330C>`"
-msgstr ""
+msgstr ":doc:`Q330C </variable/Q330C>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q330D </variable/Q330D>`"
-msgstr ""
+msgstr ":doc:`Q330D </variable/Q330D>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid "遺産相続の可能性"
-msgstr ""
+msgstr "Possibility of inheritance"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q1034 </variable/Q1034>`"
-msgstr ""
+msgstr ":doc:`Q1034 </variable/Q1034>`"
 
 #: ../../oyakankei/zouyosouzoku.rst:1
 msgid ":doc:`Q1035 </variable/Q1035>`"
-msgstr ""
+msgstr ":doc:`Q1035 </variable/Q1035>`"
 
 #~ msgid "あなた方ご夫婦は、親から将来相続を受けることになると思いますか。"
 #~ msgstr ""
-#~ "Do you and your husband expect to"
-#~ " receive financial and real assets "
-#~ "from your parent(s) in the future?"
-
+#~ "Do you and your husband expect to receive financial and real assets from your "
+#~ "parent(s) in the future?"
