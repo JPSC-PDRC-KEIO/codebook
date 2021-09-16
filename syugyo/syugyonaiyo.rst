@@ -8,8 +8,8 @@
 
    /variable/Q1045
    gensyoku/gensyoku_syokugyo
-   勤務先の従業員数 </variable/Q145>
-   勤務先の業種 <gensyoku/gyousyu>
+   /variable/Q145
+   gensyoku/gyousyu
    gensyoku/kaisya_seturitu
    gensyoku/syokumu
    jouken/kyuyo

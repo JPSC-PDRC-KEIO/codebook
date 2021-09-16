@@ -37,7 +37,7 @@ msgstr ""
 "Poedit 2.3\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q145.rst:5
-msgid "従業員数"
+msgid "勤務先の従業員数"
 msgstr ""
 "Number of "
 "employees at work"

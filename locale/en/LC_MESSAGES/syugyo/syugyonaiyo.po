@@ -19,13 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.0\n"
 
-#: ../../syugyo/syugyonaiyo.rst:6
-msgid "勤務先の従業員数"
-msgstr ""
 
-#: ../../syugyo/syugyonaiyo.rst:6
-msgid "勤務先の業種"
-msgstr ""
 
 #: ../../syugyo/syugyonaiyo.rst:2
 msgid "就業の内容"

@@ -19,8 +19,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.0\n"
 
-#: ../../syugyo/gensyoku/gyousyu.rst:3
-msgid "業種"
+#: ../../syugyo/gensyoku/gyousyu.rst:2
+msgid "勤務先の業種"
 msgstr "Industry category"
 
 #: ../../syugyo/gensyoku/gyousyu.rst:6
