@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-28 13:39+0900\n"
-"PO-Revision-Date: 2020-02-04 10:36+0900\n"
+"PO-Revision-Date: 2021-09-21 14:35+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kenkou/index.rst:3
 msgid "健康について"
@@ -26,4 +26,4 @@ msgstr "Health"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kenkou/index.rst:13
 msgid "1年間に起きた病気・療養については、「生活の変動」の中の「:doc:`/seikatsu_hendou/dekigoto/byouki`」をご参照ください。"
-msgstr ""
+msgstr "Please refer to \":doc:`/seikatsu_hendou/dekigoto/byouki`\" in \"What life circumstances changed\" for information on illnesses and medical treatment that occurred during the year."

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-28 14:50+0900\n"
-"PO-Revision-Date: 2020-03-09 10:44+0900\n"
+"PO-Revision-Date: 2021-09-13 14:13+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:5
 msgid "小中学校時の居住地（配偶者）"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:24
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:27
 msgid "北海道"
@@ -243,15 +243,15 @@ msgstr "Foreign countries"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:128
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:134
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response codes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:140
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:146
 msgid "備考"
@@ -303,7 +303,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:177
 msgid "p10_5"
-msgstr ""
+msgstr "p10_5"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:179
 msgid "p11ab_5"
@@ -379,4 +379,4 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:215
 msgid "p26_5"
-msgstr ""
+msgstr "p26_5"

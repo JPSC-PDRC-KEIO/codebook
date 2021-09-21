@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-28 14:33+0900\n"
-"PO-Revision-Date: 2020-01-30 16:46+0900\n"
+"PO-Revision-Date: 2021-09-14 14:12+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/sonota/yujin/index.rst:3
 msgid "友人関係"
@@ -29,20 +30,19 @@ msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/sonota/yujin/index.rst:8
 msgid "現在付き合いのある友人の人数を、以下のきっかけごとにお答え下さい。"
-msgstr ""
+msgstr "Please indicate the number of friends you currently have for each of the following reasons."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/sonota/yujin/index.rst:10
 msgid "ここでいう「友人」とは、あなたと1対1の関係で付き合いがある（会ったり、電話で話したり、メールしたりする）友人をいいます。グループ交際の場合は含みません。"
-msgstr ""
+msgstr "The term \"friend\" here refers to a friend who has a one-on-one relationship with you (you meet, talk on the phone, email, etc.). This does not include group relationships."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/sonota/yujin/index.rst:12
 msgid "また、出会った「きっかけ」が重複する場合は、主なきっかけでお答えください。"
-msgstr ""
+msgstr "If there is an overlap in the \"reason\" for meeting, please answer with the main reason."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/sonota/yujin/index.rst:15
 msgid "選択肢"
-msgstr ""
+msgstr "Select"
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr "Choices / Entry field"
-
