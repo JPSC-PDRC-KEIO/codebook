@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-26 16:05+0900\n"
-"PO-Revision-Date: 2020-02-26 16:16+0900\n"
+"PO-Revision-Date: 2021-09-27 13:40+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P5.rst:5
 msgid "中学校区分"
@@ -46,7 +46,7 @@ msgstr "What kind of junior high school did you attend?"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P5.rst:27
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P5.rst:30
 msgid "公立"
@@ -62,15 +62,15 @@ msgstr "Private"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P5.rst:41
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P5.rst:47
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P5.rst:53
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P5.rst:54
 msgid "3"

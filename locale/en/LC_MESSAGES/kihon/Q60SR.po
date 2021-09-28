@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-26 14:16+0900\n"
-"PO-Revision-Date: 2021-08-10 13:21+0900\n"
+"PO-Revision-Date: 2021-09-27 13:39+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -38,16 +38,15 @@ msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:15
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:17
 msgid "中学校"
-msgstr "Junior high school"
+msgstr "Junior high school."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:18
 msgid "専門・専修（高校卒せず専門・専修学校卒業）"
-msgstr ""
-"Vocational school or  Specialized Training College (non-tertiary education)"
+msgstr "Vocational school or  Specialized Training College (non-tertiary education)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:19
 msgid "高校"
