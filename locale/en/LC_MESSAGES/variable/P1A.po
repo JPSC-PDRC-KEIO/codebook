@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2020-02-28 15:03+0900\n"
+"PO-Revision-Date: 2021-10-01 14:03+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P1A.rst:5
 msgid "きょうだい数：男"
@@ -46,7 +46,7 @@ msgstr "male"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P1A.rst:27
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P1A.rst:29
 msgid "＿＿人"
@@ -54,23 +54,23 @@ msgstr "＿＿male siblings"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P1A.rst:35
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P1A.rst:36
 msgid "98"
-msgstr ""
+msgstr "98"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P1A.rst:41
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P1A.rst:47
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P1A.rst:48
 msgid "99"
-msgstr ""
+msgstr "99"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P1A.rst:53
 msgid "備考"
@@ -90,12 +90,12 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P1A.rst:68
 msgid "p11c_1"
-msgstr ""
+msgstr "p11c_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P1A.rst:70
 msgid "p16d_1"
-msgstr ""
+msgstr "p16d_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P1A.rst:72
 msgid "p21e_1"
-msgstr ""
+msgstr "p21e_1"

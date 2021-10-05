@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-25 10:23+0900\n"
-"PO-Revision-Date: 2020-02-25 11:47+0900\n"
+"PO-Revision-Date: 2021-10-04 13:49+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q12_hs.rst:3
 msgid "性別（配偶者）"
@@ -46,19 +46,19 @@ msgstr "Your husband's sex"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q12_hs.rst:17
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q12_hs.rst:21
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q12_hs.rst:25
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q12_hs.rst:29
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q12_hs.rst:34
 msgid "備考"
