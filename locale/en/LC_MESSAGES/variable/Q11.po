@@ -8,12 +8,12 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-05 11:06+0900\n"
-"PO-Revision-Date: 2020-03-05 14:03+0900\n"
+"PO-Revision-Date: 2021-10-08 14:12+0900\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 3.0\n"
 "Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: en\n"
@@ -44,7 +44,7 @@ msgstr "Family-member2 (In the case of Married, Family-member2 is husband)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:27
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:29
 msgid "＜有配偶＞"
@@ -149,15 +149,15 @@ msgstr "My brother or sister"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:97
 msgid "桁あふれコード"
-msgstr "Outside-code-range response"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:103
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:109
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:115
 msgid "備考"
@@ -172,38 +172,47 @@ msgid "p1_1"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:128
+#, fuzzy
 msgid "p2_1"
 msgstr "p2_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:130
+#, fuzzy
 msgid "p3_1"
 msgstr "p3_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:132
+#, fuzzy
 msgid "p4_1"
 msgstr "p4_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:134
+#, fuzzy
 msgid "p5a_1"
 msgstr "p5a_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:136
+#, fuzzy
 msgid "p5b_1"
 msgstr "p5b_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:138
+#, fuzzy
 msgid "p6_1"
 msgstr "p6_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:140
+#, fuzzy
 msgid "p7_1"
 msgstr "p7_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:142
+#, fuzzy
 msgid "p8_1"
 msgstr "p8_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:144
+#, fuzzy
 msgid "p9_1"
 msgstr "p9_1"
 
@@ -212,77 +221,96 @@ msgid "p10_1"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:148
+#, fuzzy
 msgid "p11ab_1"
 msgstr "p11ab_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:150
+#, fuzzy
 msgid "p11c_1"
 msgstr "p11c_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:152
+#, fuzzy
 msgid "p12_1"
 msgstr "p12_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:154
+#, fuzzy
 msgid "p13_1"
 msgstr "p13_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:156
+#, fuzzy
 msgid "p14_1"
 msgstr "p14_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:158
+#, fuzzy
 msgid "p15_1"
 msgstr "p15_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:160
+#, fuzzy
 msgid "p16abc_1"
 msgstr "p16abc_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:162
+#, fuzzy
 msgid "p16d_1"
 msgstr "p16d_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:164
+#, fuzzy
 msgid "p17_1"
 msgstr "p17_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:166
+#, fuzzy
 msgid "p18_1"
 msgstr "p18_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:168
+#, fuzzy
 msgid "p19_1"
 msgstr "p19_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:170
+#, fuzzy
 msgid "p20_1"
 msgstr "p20_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:172
+#, fuzzy
 msgid "p21abcd_1"
 msgstr "p21abcd_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:174
+#, fuzzy
 msgid "p21e_1"
 msgstr "p21e_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:176
+#, fuzzy
 msgid "p22_1"
 msgstr "p22_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:178
+#, fuzzy
 msgid "p23_1"
 msgstr "p23_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:180
+#, fuzzy
 msgid "p24_1"
 msgstr "p24_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:182
+#, fuzzy
 msgid "p25_1"
 msgstr "p25_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q11.rst:184
+#, fuzzy
 msgid "p26_1"
 msgstr "p26_1"

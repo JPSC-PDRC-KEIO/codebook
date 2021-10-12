@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-26 13:47+0900\n"
-"PO-Revision-Date: 2021-05-25 14:10+0900\n"
+"PO-Revision-Date: 2021-10-12 11:22+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 2.4.3\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:5
 msgid "職務（義父）"
@@ -70,7 +70,7 @@ msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:48
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response codes"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:54
 msgid "無回答コード"
@@ -86,7 +86,7 @@ msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:62
 msgid "この質問項目の選択肢は調査回によって変更があります。詳しくはこちら（:doc:`/kihon_kazoku/oya_giri`）をご参照ください。"
-msgstr ""
+msgstr "The choices for this questionnaire differ among survey times. Please refer to here (:doc:`/multi_var/Q185`) for details."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:67
 msgid "収録シート"

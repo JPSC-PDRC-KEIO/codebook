@@ -37,11 +37,11 @@ msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19.rst:17
 msgid "現在の就学・就労状況"
-msgstr ""
+msgstr "Student or Worker status"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19.rst:19
 msgid "家族3"
-msgstr ""
+msgstr "Family3"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q19.rst:26
 msgid "選択肢 / 記入欄"

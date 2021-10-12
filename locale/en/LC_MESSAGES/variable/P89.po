@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-26 13:14+0900\n"
-"PO-Revision-Date: 2021-05-24 14:47+0900\n"
+"PO-Revision-Date: 2021-10-12 10:17+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 2.4.3\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:5
 msgid "職種（実父）"
@@ -66,37 +66,35 @@ msgstr "Small (9 or fewer employees) business/factory (Family workeremployee)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:35
 msgid "自由業（開業医など）"
-msgstr ""
+msgstr "Free enterprise (e.g. general practitioners)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:37
 msgid "管理職（会社の部長以上など）"
-msgstr ""
+msgstr "Managerial positions (e.g. department head of a company or higher)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:39
 msgid "専門職（病院勤務医師など）"
-msgstr ""
+msgstr "Professionals (hospital doctors, etc.)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:41
 msgid "技術職（技術者など）"
-msgstr ""
+msgstr "Engineering (technician, etc.)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:43
 msgid "教員（小・中・高校など）"
-msgstr ""
+msgstr "Teachers (elementary, junior high, high school, etc.)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:45
 msgid "事務職（一般事務など）"
-msgstr ""
+msgstr "Clerical work (general office work, etc.)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:47
 msgid "技能・作業職（工員など）"
-msgstr ""
-"Skilled employee (skilled worker, police, clerk, deliveryman, driver, artisan, "
-"cleaner, etc.)"
+msgstr "Technical/operational jobs (e.g. construction workers)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:49
 msgid "販売サービス職（店員など）"
-msgstr "Sales & service employee (shop employee, sales person, etc.)"
+msgstr "Sales service jobs (clerks, etc.)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:51
 msgid "自宅で賃仕事（内職）"
@@ -112,7 +110,7 @@ msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:66
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response codes"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:67
 msgid "15"

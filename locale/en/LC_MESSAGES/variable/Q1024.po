@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-25 16:31+0900\n"
-"PO-Revision-Date: 2021-05-24 14:54+0900\n"
+"PO-Revision-Date: 2021-10-12 10:26+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 2.4.3\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1024.rst:5
 msgid "最終学歴（実母）〔第3回～〕"
@@ -49,7 +49,7 @@ msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1024.rst:27
 msgid "中学校"
-msgstr "Junior high school."
+msgstr "Junior high school"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1024.rst:29
 msgid "高等学校"
@@ -85,7 +85,7 @@ msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1024.rst:54
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response codes"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1024.rst:60
 msgid "無回答コード"

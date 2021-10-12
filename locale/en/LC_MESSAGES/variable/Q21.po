@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-05 13:07+0900\n"
-"PO-Revision-Date: 2020-03-05 14:35+0900\n"
+"PO-Revision-Date: 2021-10-11 11:41+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -18,11 +18,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q21.rst:5
 msgid "家族4：続柄"
-msgstr "Family-member4: Relationship"
+msgstr "Family4: Relationship"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q21.rst:9
 msgid "変数名"
@@ -42,11 +42,11 @@ msgstr "Relationship to you"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q21.rst:21
 msgid "家族4"
-msgstr "Family-member4"
+msgstr "Family4"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q21.rst:27
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q21.rst:30
 msgid "＜有配偶＞"
@@ -151,15 +151,15 @@ msgstr "My brother or sister"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q21.rst:98
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q21.rst:104
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q21.rst:110
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q21.rst:116
 msgid "備考"

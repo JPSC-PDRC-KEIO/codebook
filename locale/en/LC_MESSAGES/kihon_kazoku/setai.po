@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-28 18:29+0900\n"
-"PO-Revision-Date: 2020-03-05 10:21+0900\n"
+"PO-Revision-Date: 2021-10-11 13:50+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:3
 msgid "世帯員の状況"
@@ -90,7 +90,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
 msgid "家族2"
-msgstr "Family-member2"
+msgstr "Family2"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
 msgid ":doc:`Q11</variable/Q11>`"
@@ -118,7 +118,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
 msgid "家族3"
-msgstr "Family-member3"
+msgstr "Family3"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
 msgid ":doc:`Q16</variable/Q16>`"
@@ -146,7 +146,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
 msgid "家族4"
-msgstr "Family-member4"
+msgstr "Family4"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
 msgid ":doc:`Q21</variable/Q21>`"
@@ -174,7 +174,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
 msgid "家族5"
-msgstr "Family-member5"
+msgstr "Family5"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
 msgid ":doc:`Q26</variable/Q26>`"
@@ -202,7 +202,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
 msgid "家族6"
-msgstr "Family-member6"
+msgstr "Family6"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
 msgid ":doc:`Q31</variable/Q31>`"
@@ -230,7 +230,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
 msgid "家族7"
-msgstr "Family-member7"
+msgstr "Family7"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
 msgid ":doc:`Q36</variable/Q36>`"
@@ -258,7 +258,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
 msgid "家族8"
-msgstr "Family-member8"
+msgstr "Family8"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
 msgid ":doc:`Q41</variable/Q41>`"
@@ -286,7 +286,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
 msgid "家族9"
-msgstr "Family-member9"
+msgstr "Family9"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
 msgid ":doc:`Q46</variable/Q46>`"
@@ -314,7 +314,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
 msgid "家族10"
-msgstr "Family-member10"
+msgstr "Family10"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/setai.rst:1
 msgid ":doc:`Q51</variable/Q51>`"
