@@ -16,9 +16,9 @@
     住宅ローン返済, :doc:`Q309A </variable/Q309A>`
     家賃、地代, :doc:`Q309B </variable/Q309B>`
     生活費, :doc:`Q309C </variable/Q309C>`
-    子どもの費用（教育費、服、その他の費用）, :doc:`Q309D </variable/Q309D>`
-    その他, :doc:`Q309EA </variable/Q309E>`
-    出してもらっているものはない, :doc:`Q309F </variable/Q309F>`
+    子どもの費用（教育費、服、その他の費用）, :doc:`Q309F </variable/Q309F>`
+    その他, :doc:`Q309D </variable/Q309D>`
+    出してもらっているものはない, :doc:`Q309E </variable/Q309E>`
 
 あなた自身の親から出してもらっている金額は月に合計いくらですか。
 
@@ -44,9 +44,9 @@
     住宅ローン返済, :doc:`Q310A </variable/Q310A>`
     家賃、地代, :doc:`Q310B </variable/Q310B>`
     生活費, :doc:`Q310C </variable/Q310C>`
-    子どもの費用（教育費、服、その他の費用）, :doc:`Q310D </variable/Q310D>`
-    その他, :doc:`Q310EA </variable/Q310E>`
-    出してもらっているものはない, :doc:`Q310F </variable/Q310F>`
+    子どもの費用（教育費、服、その他の費用）, :doc:`Q310F </variable/Q310F>`
+    その他, :doc:`Q310D </variable/Q310D>`
+    出してもらっているものはない, :doc:`Q310E </variable/Q310E>`
 
 ご主人の親から出してもらっている金額は月に合計いくらですか。
 
