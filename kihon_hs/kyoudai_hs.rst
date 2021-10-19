@@ -9,3 +9,6 @@
    /variable/Q672
    /variable/Q671A
    /variable/Q671B
+
+
+.. note:: 「:doc:`きょうだい数：男（配偶者）</variable/Q671A>`」の回答は配偶者を含む値となっています。
