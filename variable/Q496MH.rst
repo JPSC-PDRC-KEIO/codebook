@@ -34,7 +34,7 @@ Q496MH
 .. rst-class:: overflow
 桁あふれコード
 -------------------------------
-  98
+
 
 
 .. rst-class:: not_available
