@@ -10,3 +10,4 @@
    pet
    /variable/Q1171
    sisyutsu_keikou
+   cashless

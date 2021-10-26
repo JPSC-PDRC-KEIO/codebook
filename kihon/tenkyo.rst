@@ -76,3 +76,9 @@
    /variable/P37B
    /variable/P37C
    /variable/P37D
+   /kihon/ken1
+   /kihon/ken2
+   /kihon/ken3
+   /kihon/ken4
+   /kihon/ken5
+
