@@ -33,7 +33,7 @@ Q9001CM
 .. rst-class:: overflow
 桁あふれコード
 -------------------------------
-  8
+
 
 
 .. rst-class:: not_available
@@ -79,3 +79,4 @@ Q9001CM
 
 
 .. index:: Q9001CM
+

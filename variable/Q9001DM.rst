@@ -33,7 +33,7 @@ Q9001DM
 .. rst-class:: overflow
 桁あふれコード
 -------------------------------
-  8
+
 
 
 .. rst-class:: not_available

@@ -33,7 +33,7 @@ Q9003AM
 .. rst-class:: overflow
 桁あふれコード
 -------------------------------
-  8
+
 
 
 .. rst-class:: not_available
@@ -79,3 +79,4 @@ Q9003AM
 
 
 .. index:: Q9003AM
+

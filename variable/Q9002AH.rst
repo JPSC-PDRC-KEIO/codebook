@@ -33,7 +33,7 @@ Q9002AH
 .. rst-class:: overflow
 桁あふれコード
 -------------------------------
-  98
+
 
 
 .. rst-class:: not_available
@@ -79,3 +79,4 @@ Q9002AH
 
 
 .. index:: Q9002AH
+

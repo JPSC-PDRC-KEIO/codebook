@@ -33,7 +33,7 @@ Q9004BH
 .. rst-class:: overflow
 桁あふれコード
 -------------------------------
-  98
+
 
 
 .. rst-class:: not_available
@@ -79,3 +79,4 @@ Q9004BH
 
 
 .. index:: Q9004BH
+

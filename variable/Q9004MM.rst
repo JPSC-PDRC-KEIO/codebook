@@ -33,7 +33,7 @@ Q9004MM
 .. rst-class:: overflow
 桁あふれコード
 -------------------------------
-  8
+
 
 
 .. rst-class:: not_available
@@ -79,3 +79,4 @@ Q9004MM
 
 
 .. index:: Q9004MM
+

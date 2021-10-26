@@ -33,7 +33,7 @@ Q9004IM
 .. rst-class:: overflow
 桁あふれコード
 -------------------------------
-  8
+
 
 
 .. rst-class:: not_available
@@ -79,3 +79,4 @@ Q9004IM
 
 
 .. index:: Q9004IM
+
