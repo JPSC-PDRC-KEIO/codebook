@@ -27,7 +27,7 @@
     "第１子", ":doc:`Q1137A </variable/Q1137A>`", ":doc:`Q1137B </variable/Q1137B>`", ":doc:`Q1137C </variable/Q1137C>`", ":doc:`Q1137D </variable/Q1137D>`", ":doc:`Q1137E </variable/Q1137E>`", ":doc:`Q1137F </variable/Q1137F>`", ":doc:`Q1137G </variable/Q1137G>`", ":doc:`Q1137H </variable/Q1137H>`"
     "第２子", ":doc:`Q1138A </variable/Q1138A>`", ":doc:`Q1138B </variable/Q1138B>`", ":doc:`Q1138C </variable/Q1138C>`", ":doc:`Q1138D </variable/Q1138D>`", ":doc:`Q1138E </variable/Q1138E>`", ":doc:`Q1138F </variable/Q1138F>`", ":doc:`Q1138G </variable/Q1138G>`", ":doc:`Q1138H </variable/Q1138H>`"
     "第３子", ":doc:`Q1139A </variable/Q1139A>`", ":doc:`Q1139B </variable/Q1139B>`", ":doc:`Q1139C </variable/Q1139C>`", ":doc:`Q1139D </variable/Q1139D>`", ":doc:`Q1139E </variable/Q1139E>`", ":doc:`Q1139F </variable/Q1139F>`", ":doc:`Q1139G </variable/Q1139G>`", ":doc:`Q1139H </variable/Q1139H>`"
-    "第４子以降", ":doc:`Q1140A </variable/Q1140A>`", ":doc:`Q1140B </variable/Q1140B>`", ":doc:`Q1140C </variable/Q1140C>`", ":doc:`Q1140D </variable/Q1140D>`", ":doc:`Q1140E </variable/Q1140E>`", ":doc:`Q1140F </variable/Q1140F>`", ":doc:`Q1140G </variable/Q1140G>`", ":doc:`Q1140H </variable/Q1140H>`"
+    "第４子以降", "－", "－", "－", "－", ":doc:`Q1140E </variable/Q1140E>`", ":doc:`Q1140F </variable/Q1140F>`", ":doc:`Q1140G </variable/Q1140G>`", ":doc:`Q1140H </variable/Q1140H>`"
 
 .. list-table:: **在学先コード表**
    :widths: 15, 15

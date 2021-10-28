@@ -5,7 +5,6 @@
 .. toctree::
    :maxdepth: 1
 
-
    /variable/Q880
    /variable/Q159
    /variable/Q160
@@ -27,3 +26,14 @@
     | 3.会社等に制度はあるが、自分には資格があるかどうかわからない
     | 4.会社等に制度がない
     | 5.会社等に制度があるかどうかわからない"
+
+    
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q880
+   /variable/Q159
+   /variable/Q160
+   /variable/Q157
+   

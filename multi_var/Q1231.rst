@@ -35,6 +35,6 @@
    /variable/Q1231A
    /variable/Q1231B
    /variable/Q1231C
-   /variable/Q1231C
+   /variable/Q1231D
    /variable/Q1231E
    /variable/Q1231F

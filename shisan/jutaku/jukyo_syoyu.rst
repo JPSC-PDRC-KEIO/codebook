@@ -45,9 +45,9 @@
    :maxdepth: 1
    :hidden:
 
-   ../variable/Q373
-   ../variable/Q374
-   ../variable/Q375G
-   ../variable/Q376G
-   ../variable/Q1036
-   ../variable/Q1037
+   /variable/Q373
+   /variable/Q374
+   /variable/Q375G
+   /variable/Q376G
+   /variable/Q1036
+   /variable/Q1037

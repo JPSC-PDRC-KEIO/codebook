@@ -5,7 +5,6 @@
 .. toctree::
    :maxdepth: 1
 
-
    /variable/Q881
    /variable/Q164
    /variable/Q165
@@ -20,7 +19,7 @@
     :header: "", "第2回", "第5回～"
     :widths: 5, 10, 10
 
-     "変数名", ":doc:`Q157 </variable/Q157>`", ":doc:`Q880 </variable/Q880>`"
+     "変数名", ":doc:`Q162 </variable/Q162>`", ":doc:`Q881 </variable/Q881>`"
      "選択肢", "| 1.ある
     | 2.ない
     | 3.知らない", "| 1.会社等に制度があり、自分にも資格がある
@@ -28,3 +27,14 @@
     | 3.会社等に制度はあるが、自分には資格があるかどうかわからない
     | 4.会社等に制度がない
     | 5.会社等に制度があるかどうかわからない"
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   /variable/Q881
+   /variable/Q164
+   /variable/Q165
+   /variable/Q162
+   
