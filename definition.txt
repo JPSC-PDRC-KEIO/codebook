@@ -7,6 +7,8 @@
 .. |nt3| replace:: 初回調査 initial
 .. |nt4| replace:: その人
 .. |nt5| replace:: 回答者本人 respondent
+.. |nt6| replace:: この質問項目の選択肢は調査回で異なります。 ／The choices for this questionnaire differ among survey times.
+
 
 .. |n| unicode:: U+30FB  .. 中点
 .. |space| unicode:: U+0020 .. 半角スペース

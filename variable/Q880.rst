@@ -59,7 +59,7 @@ Q880
 備考
 ==================
 
-|nt1| 詳しくはこちら（:doc:`/jyoken/ikujikyuka`）をご参照ください。 
+|nt1| 詳しくはこちら（:doc:`/syugyo/jouken/ikujikyuka`）をご参照ください。 
 
 .. rst-class:: include_sheet
 収録シート
