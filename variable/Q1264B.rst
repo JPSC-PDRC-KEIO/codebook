@@ -1,0 +1,80 @@
+.. title:: Q1264B
+.. rst-class:: item
+
+====================================================================================================
+公的経済支援の申請・雇用保険の失業手当
+====================================================================================================
+
+.. rst-class:: varname
+
+変数名
+==================
+
+Q1264B
+
+.. rst-class:: question
+
+質問文
+==================
+
+
+   No directive entry for "rst-class" in module "docutils.parsers.rst.languages.en".
+Trying "rst-class" as canonical directive name.
+
+
+   Unknown directive type "rst-class".
+
+
+
+.. rst-class:: answer
+
+選択肢 / 記入欄
+======================
+
+  
+
+
+
+.. rst-class:: overflow
+
+桁あふれコード
+-------------------------------
+  
+
+
+.. rst-class:: not_classified
+
+分類不能の回答コード
+-------------------------------------
+  
+
+
+.. rst-class:: not_available
+
+無回答コード
+-------------------------------------
+  3
+
+
+.. rst-class:: bikou
+
+備考
+==================
+ 
+
+
+
+.. rst-class:: include_sheet
+
+収録シート
+=======================================
+.. hlist::
+   :columns: 3
+   
+   
+   * p28_5
+   
+   
+
+
+.. index:: Q1264B
