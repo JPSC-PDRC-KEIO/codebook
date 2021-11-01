@@ -1,0 +1,80 @@
+.. title:: Q1246F
+.. rst-class:: item
+
+====================================================================================================
+平日夕方世話をしている人・近隣の人・子供の友達の親
+====================================================================================================
+
+.. rst-class:: varname
+
+変数名
+==================
+
+Q1246F
+
+.. rst-class:: question
+
+質問文
+==================
+
+
+   No directive entry for "rst-class" in module "docutils.parsers.rst.languages.en".
+Trying "rst-class" as canonical directive name.
+
+
+   Unknown directive type "rst-class".
+
+
+
+.. rst-class:: answer
+
+選択肢 / 記入欄
+======================
+
+  
+
+
+
+.. rst-class:: overflow
+
+桁あふれコード
+-------------------------------
+  
+
+
+.. rst-class:: not_classified
+
+分類不能の回答コード
+-------------------------------------
+  
+
+
+.. rst-class:: not_available
+
+無回答コード
+-------------------------------------
+  3
+
+
+.. rst-class:: bikou
+
+備考
+==================
+ 
+
+
+
+.. rst-class:: include_sheet
+
+収録シート
+=======================================
+.. hlist::
+   :columns: 3
+   
+   
+   * p28_4
+   
+   
+
+
+.. index:: Q1246F

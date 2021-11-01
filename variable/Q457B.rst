@@ -1,22 +1,36 @@
 .. title:: Q457B
 .. rst-class:: item
+
 ====================================================================================================
 ルームエアコン　購入費用
 ====================================================================================================
 
 .. rst-class:: varname
+
 変数名
 ==================
 
 Q457B
 
 .. rst-class:: question
+
 質問文
 ==================
 
 
+   No directive entry for "rst-class" in module "docutils.parsers.rst.languages.en".
+Trying "rst-class" as canonical directive name.
+
+
+   Unknown directive type "rst-class".
+
+
+   Explicit markup ends without a blank line; unexpected unindent.
+
+
 
 .. rst-class:: answer
+
 選択肢 / 記入欄
 ======================
 
@@ -25,30 +39,36 @@ Q457B
 
 
 .. rst-class:: overflow
+
 桁あふれコード
 -------------------------------
   98
 
 
-.. rst-class:: not_available
+.. rst-class:: not_classified
+
 分類不能の回答コード
 -------------------------------------
   
 
 
 .. rst-class:: not_available
+
 無回答コード
 -------------------------------------
   99
 
 
 .. rst-class:: bikou
+
 備考
 ==================
+ 
 
 
 
 .. rst-class:: include_sheet
+
 収録シート
 =======================================
 .. hlist::
@@ -90,6 +110,10 @@ Q457B
    * p25_3
    
    * p26_3
+   
+   * p27_3
+   
+   * p28_3
    
    
 

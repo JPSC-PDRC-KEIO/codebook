@@ -1,0 +1,80 @@
+.. title:: Q1288MM
+.. rst-class:: item
+
+====================================================================================================
+本人時間（指示があった休日）・基礎時間　分
+====================================================================================================
+
+.. rst-class:: varname
+
+変数名
+==================
+
+Q1288MM
+
+.. rst-class:: question
+
+質問文
+==================
+
+
+   No directive entry for "rst-class" in module "docutils.parsers.rst.languages.en".
+Trying "rst-class" as canonical directive name.
+
+
+   Unknown directive type "rst-class".
+
+
+
+.. rst-class:: answer
+
+選択肢 / 記入欄
+======================
+
+  
+
+
+
+.. rst-class:: overflow
+
+桁あふれコード
+-------------------------------
+  8
+
+
+.. rst-class:: not_classified
+
+分類不能の回答コード
+-------------------------------------
+  
+
+
+.. rst-class:: not_available
+
+無回答コード
+-------------------------------------
+  9
+
+
+.. rst-class:: bikou
+
+備考
+==================
+ 
+
+
+
+.. rst-class:: include_sheet
+
+収録シート
+=======================================
+.. hlist::
+   :columns: 3
+   
+   
+   * p28_5
+   
+   
+
+
+.. index:: Q1288MM

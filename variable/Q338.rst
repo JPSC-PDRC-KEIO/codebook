@@ -1,22 +1,36 @@
 .. title:: Q338
 .. rst-class:: item
+
 ====================================================================================================
 有価証券の売却額（世帯として）
 ====================================================================================================
 
 .. rst-class:: varname
+
 変数名
 ==================
 
 Q338
 
 .. rst-class:: question
+
 質問文
 ==================
 
 
+   No directive entry for "rst-class" in module "docutils.parsers.rst.languages.en".
+Trying "rst-class" as canonical directive name.
+
+
+   Unknown directive type "rst-class".
+
+
+   Explicit markup ends without a blank line; unexpected unindent.
+
+
 
 .. rst-class:: answer
+
 選択肢 / 記入欄
 ======================
 
@@ -25,30 +39,36 @@ Q338
 
 
 .. rst-class:: overflow
+
 桁あふれコード
 -------------------------------
   9998
 
 
-.. rst-class:: not_available
+.. rst-class:: not_classified
+
 分類不能の回答コード
 -------------------------------------
   
 
 
 .. rst-class:: not_available
+
 無回答コード
 -------------------------------------
   9999
 
 
 .. rst-class:: bikou
+
 備考
 ==================
+ 
 
 
 
 .. rst-class:: include_sheet
+
 収録シート
 =======================================
 .. hlist::
@@ -114,6 +134,10 @@ Q338
    * p25_2
    
    * p26_2
+   
+   * p27_2
+   
+   * p28_2
    
    
 
