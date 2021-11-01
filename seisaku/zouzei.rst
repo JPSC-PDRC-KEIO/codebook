@@ -46,4 +46,15 @@
 
    /variable/Q1234
    /variable/Q1235
-   zouzei_taiou_pre10
+   zouzei_taiou_10
+
+
+消費税10％増税時の質問（2020年）
+----------------------------------------------
+
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q1259
+   zouzei_taiou_after10

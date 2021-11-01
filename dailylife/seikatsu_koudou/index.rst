@@ -5,6 +5,8 @@
 .. toctree::
    :maxdepth: 1
 
-   seikatsu_jikan
+   shigoto_nissuu
+   shigoto_nissuu_hs
+   /variable/Q1254
    kyujitsu
    ryokou
