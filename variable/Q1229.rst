@@ -24,16 +24,6 @@ Q1229
    （1）QRコード・バーコード決済
 
 
-   No directive entry for "rst-class" in module "docutils.parsers.rst.languages.en".
-Trying "rst-class" as canonical directive name.
-
-
-   Unknown directive type "rst-class".
-
-
-   Explicit markup ends without a blank line; unexpected unindent.
-
-
 
 .. rst-class:: answer
 
