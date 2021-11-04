@@ -18,13 +18,6 @@ Q1243D
 ==================
 
 
-   No directive entry for "rst-class" in module "docutils.parsers.rst.languages.en".
-Trying "rst-class" as canonical directive name.
-
-
-   Unknown directive type "rst-class".
-
-
 
 .. rst-class:: answer
 

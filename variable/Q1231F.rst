@@ -24,16 +24,6 @@ Q1231F
    （6）私の働き方や収入について
 
 
-   No directive entry for "rst-class" in module "docutils.parsers.rst.languages.en".
-Trying "rst-class" as canonical directive name.
-
-
-   Unknown directive type "rst-class".
-
-
-   Explicit markup ends without a blank line; unexpected unindent.
-
-
 
 .. rst-class:: answer
 

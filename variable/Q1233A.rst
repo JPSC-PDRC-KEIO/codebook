@@ -21,16 +21,6 @@ Q1233A
    炊事・洗濯・掃除などの家事について、ご夫婦でどの程度分担しあっていますか。全体を100％としたときの、それぞれの貢献分をお答えください。
 
 
-   No directive entry for "rst-class" in module "docutils.parsers.rst.languages.en".
-Trying "rst-class" as canonical directive name.
-
-
-   Unknown directive type "rst-class".
-
-
-   Explicit markup ends without a blank line; unexpected unindent.
-
-
 
 .. rst-class:: answer
 

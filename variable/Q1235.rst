@@ -21,16 +21,6 @@ Q1235
    消費税が10％に増税される（された）ことについて、あなたはどう思いますか。（〇は1つだけ）
 
 
-   No directive entry for "rst-class" in module "docutils.parsers.rst.languages.en".
-Trying "rst-class" as canonical directive name.
-
-
-   Unknown directive type "rst-class".
-
-
-   Explicit markup ends without a blank line; unexpected unindent.
-
-
 
 .. rst-class:: answer
 
