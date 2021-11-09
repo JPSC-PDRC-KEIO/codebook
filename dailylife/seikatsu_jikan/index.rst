@@ -2,13 +2,15 @@
 生活時間
 =============================================
 
-質問文
------------------
 
-あなたとご主人の生活時間についてうかがいます。
-日常の生活行動を次の６つに分けた場合、通常の平日、休日にそれぞれ合計でおおよそ何時間費やしていますか。
-あなたの場合とご主人の場合についてお答えください。（10分単位でご記入ください）
-同時に複数のことをした場合は、主なものの方でお答え下さい。
+本人の生活時間（有配偶・無配偶共通）
+----------------------------------------
+
+あなたの生活時間についておたずねします。日常の生活行動を仕事や家事などの次の６つに分けた場合、平日、休日におおよそ何時間費やしていますか。10 分単位でご記入下さい。
+
+同時に複数のことをした場合は、主なもののほうでお答え下さい。平日について、在宅勤務等で仕事を行った日はそちらへの記入もお願いします。
+
+平日がほぼ在宅勤務等であった場合は、在宅勤務の欄のみ記入してください。
 
 単位は、＿＿時間＿0分
 
@@ -18,7 +20,7 @@
    なお、この質問では生活時間を6項目に分けてたずねていますが、第2回（:doc:`生活時間（第2回） <seikatsu_jikan_2>`）のみ13項目に分けてたずねています。
 
 
-.. csv-table:: 本人の生活時間（有配偶・無配偶共通）
+.. csv-table::
    :header: "", "平日", "", "休日", ""
    :widths: 40,15,15,15,15
 
@@ -31,8 +33,30 @@
    "上記以外の睡眠、食事、入浴、身の回りの用事など", :doc:`Q493MH </variable/Q493MH>`,:doc:`Q493MM </variable/Q493MM>`,:doc:`Q494MH </variable/Q494MH>`,:doc:`Q494MM </variable/Q494MM>`
 
 
+在宅勤務があると答えた方
+*************************
 
-.. csv-table:: 配偶者の生活時間（有配偶のみ）
+
+.. csv-table::
+   :header: "", "平日", ""
+   :widths: 40,15,15
+
+   " ", ＿＿時間, ＿分
+   "通勤・通学",                            :doc:`Q1250AH </variable/Q1250AH>`,:doc:`Q1250AM </variable/Q1250AM>`
+   "仕事",                                :doc:`Q1250BH </variable/Q1250BH>`,:doc:`Q1250BM </variable/Q1250BM>`
+   "勉学",                                :doc:`Q1250CH </variable/Q1250CH>`,:doc:`Q1250CM </variable/Q1250CM>`
+   "家事・育児",                            :doc:`Q1250DH </variable/Q1250DH>`,:doc:`Q1250DM </variable/Q1250DM>`
+   "趣味・娯楽・交際など",                     :doc:`Q1250IH </variable/Q1250IH>`,:doc:`Q1250IM </variable/Q1250IM>`
+   "上記以外の睡眠、食事、入浴、身の回りの用事など", :doc:`Q1250MH </variable/Q1250MH>`,:doc:`Q1250MM </variable/Q1250MM>`
+
+
+
+配偶者の生活時間（有配偶のみ）
+-----------------------------------
+
+ご主人の生活時間についておたずねします。平日と在宅勤務の平日、休日の生活時間をお答え下さい。在宅勤務がない場合（無職も含む）は、通常の平日と休日の欄だけお答え下さい。
+
+.. csv-table:: 
    :header: "", "平日", "", "休日", ""
    :widths: 40,15,15,15,15
 
@@ -46,6 +70,21 @@
 
 
 
+在宅勤務があると答えた方
+*************************
+
+
+.. csv-table::
+   :header: "", "平日", ""
+   :widths: 40,15,15
+
+   " ", ＿＿時間, ＿分
+   "通勤・通学",                            :doc:`Q1253AH </variable/Q1253AH>`,:doc:`Q1253AM </variable/Q1253AM>`
+   "仕事",                                :doc:`Q1253BH </variable/Q1253BH>`,:doc:`Q1253BM </variable/Q1253BM>`
+   "勉学",                                :doc:`Q1253CH </variable/Q1253CH>`,:doc:`Q1253CM </variable/Q1253CM>`
+   "家事・育児",                            :doc:`Q1253DH </variable/Q1253DH>`,:doc:`Q1253DM </variable/Q1253DM>`
+   "趣味・娯楽・交際など",                     :doc:`Q1253IH </variable/Q1253IH>`,:doc:`Q1253IM </variable/Q1253IM>`
+   "上記以外の睡眠、食事、入浴、身の回りの用事など", :doc:`Q1253MH </variable/Q1253MH>`,:doc:`Q1253MM </variable/Q1253MM>`
 
 .. toctree::
    :maxdepth: 1
@@ -101,3 +140,27 @@
    /variable/Q496MM
    seikatsu_jikan_2
    seikatsu_jikan_re
+   /variable/Q1250AH
+   /variable/Q1250BH
+   /variable/Q1250CH
+   /variable/Q1250DH
+   /variable/Q1250IH
+   /variable/Q1250MH
+   /variable/Q1250AM
+   /variable/Q1250BM
+   /variable/Q1250CM
+   /variable/Q1250DM
+   /variable/Q1250IM
+   /variable/Q1250MM
+   /variable/Q1253AH
+   /variable/Q1253BH
+   /variable/Q1253CH
+   /variable/Q1253DH
+   /variable/Q1253IH
+   /variable/Q1253MH
+   /variable/Q1253AM
+   /variable/Q1253BM
+   /variable/Q1253CM
+   /variable/Q1253DM
+   /variable/Q1253IM
+   /variable/Q1253MM
