@@ -185,7 +185,7 @@ msgid "p25_5"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49S.rst:120
-#, fuzzy
+#, 
 msgid "p26_5"
 msgstr "p26_5"
 

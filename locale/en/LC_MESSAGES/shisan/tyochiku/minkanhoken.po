@@ -28,7 +28,7 @@ msgid "質問文"
 msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:8
-#, fuzzy
+#, 
 msgid ""
 "あなた方ご夫婦は、次の保険にどのくらい保険料を払っていますか。 "
 "（保険には簡易保険、郵便保険、生命保険、個人年金保険、積立型損害保険、障害保険、学資保険などを含みます。）"
@@ -68,7 +68,7 @@ msgid "昨年1年間の保険料"
 msgstr "Premium paid in the past year"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
-#, fuzzy
+#, 
 msgid "払い込み保険料総額"
 msgstr "Total of premiums paid"
 

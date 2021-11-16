@@ -77,7 +77,7 @@ msgid "総務省が設定している全国の都道府県及び市区町村の�
 msgstr "This is the code for all prefectures and municipalities in Japan set by the Ministry of Internal Affairs and Communications."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:56
-#, fuzzy
+#, 
 msgid "一般のユーザーには公開していません。"
 msgstr "It is not disclose to undergruduate students.\vIt is not available to the general public."
 

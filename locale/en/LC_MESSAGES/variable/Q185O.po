@@ -125,22 +125,22 @@ msgid "p12_1"
 msgstr "p12_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185O.rst:90
-#, fuzzy
+#, 
 msgid "p13_1"
 msgstr "p13_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185O.rst:92
-#, fuzzy
+#, 
 msgid "p14_1"
 msgstr "p14_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185O.rst:94
-#, fuzzy
+#, 
 msgid "p15_1"
 msgstr "p15_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185O.rst:96
-#, fuzzy
+#, 
 msgid "p16abc_1"
 msgstr "p16abc_1"
 

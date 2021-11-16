@@ -81,7 +81,7 @@ msgid "仕事に就いている"
 msgstr "Worker"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q54S.rst:46
-#, fuzzy
+#, 
 msgid "無職"
 msgstr "Not working"
 

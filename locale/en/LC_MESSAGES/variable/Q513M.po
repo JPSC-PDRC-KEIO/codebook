@@ -20,7 +20,7 @@ msgstr ""
 "Generated-By: Babel 2.9.0\n"
 
 #: ../../variable/Q513M.rst:5
-#, fuzzy
+#, 
 msgid "出産を望まない理由（有配偶）：その他（有配偶）"
 msgstr "Reasons for not to have child-birth (married): Other"
 

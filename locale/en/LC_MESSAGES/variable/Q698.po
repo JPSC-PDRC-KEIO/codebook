@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-26 13:16+0900\n"
-"PO-Revision-Date: 2021-10-12 11:09+0900\n"
+"PO-Revision-Date: 2021-11-02 14:07+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -38,7 +38,7 @@ msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:18
 msgid "その勤め先の従業員は会社全体で何人くらいですか（でしたか）。;（注　従業員数には、臨時職員・アルバイトは除きます。公務員の方は従業員数にかかわりなく「官公庁」に〇をしてください。）"
-msgstr ""
+msgstr "How many employees does (or did) the company have as a whole? (Note: The number of employees excludes temporary and part-time employees. If you are a civil servant, please circle \"Government and municipal offices\" regardless of the number of employees."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:24
 msgid "選択肢 / 記入欄"

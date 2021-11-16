@@ -85,6 +85,6 @@ msgid "収録シート"
 msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q157.rst:67
-#, fuzzy
+#, 
 msgid "p2_1"
 msgstr "p2_1"

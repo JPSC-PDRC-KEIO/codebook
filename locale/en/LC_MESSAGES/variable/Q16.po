@@ -172,47 +172,47 @@ msgid "p1_1"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:128
-#, fuzzy
+#, 
 msgid "p2_1"
 msgstr "p2_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:130
-#, fuzzy
+#, 
 msgid "p3_1"
 msgstr "p3_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:132
-#, fuzzy
+#, 
 msgid "p4_1"
 msgstr "p4_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:134
-#, fuzzy
+#, 
 msgid "p5a_1"
 msgstr "p5a_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:136
-#, fuzzy
+#, 
 msgid "p5b_1"
 msgstr "p5b_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:138
-#, fuzzy
+#, 
 msgid "p6_1"
 msgstr "p6_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:140
-#, fuzzy
+#, 
 msgid "p7_1"
 msgstr "p7_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:142
-#, fuzzy
+#, 
 msgid "p8_1"
 msgstr "p8_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:144
-#, fuzzy
+#, 
 msgid "p9_1"
 msgstr "p9_1"
 
@@ -221,96 +221,96 @@ msgid "p10_1"
 msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:148
-#, fuzzy
+#, 
 msgid "p11ab_1"
 msgstr "p11ab_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:150
-#, fuzzy
+#, 
 msgid "p11c_1"
 msgstr "p11c_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:152
-#, fuzzy
+#, 
 msgid "p12_1"
 msgstr "p12_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:154
-#, fuzzy
+#, 
 msgid "p13_1"
 msgstr "p13_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:156
-#, fuzzy
+#, 
 msgid "p14_1"
 msgstr "p14_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:158
-#, fuzzy
+#, 
 msgid "p15_1"
 msgstr "p15_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:160
-#, fuzzy
+#, 
 msgid "p16abc_1"
 msgstr "p16abc_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:162
-#, fuzzy
+#, 
 msgid "p16d_1"
 msgstr "p16d_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:164
-#, fuzzy
+#, 
 msgid "p17_1"
 msgstr "p17_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:166
-#, fuzzy
+#, 
 msgid "p18_1"
 msgstr "p18_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:168
-#, fuzzy
+#, 
 msgid "p19_1"
 msgstr "p19_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:170
-#, fuzzy
+#, 
 msgid "p20_1"
 msgstr "p20_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:172
-#, fuzzy
+#, 
 msgid "p21abcd_1"
 msgstr "p21abcd_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:174
-#, fuzzy
+#, 
 msgid "p21e_1"
 msgstr "p21e_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:176
-#, fuzzy
+#, 
 msgid "p22_1"
 msgstr "p22_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:178
-#, fuzzy
+#, 
 msgid "p23_1"
 msgstr "p23_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:180
-#, fuzzy
+#, 
 msgid "p24_1"
 msgstr "p24_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:182
-#, fuzzy
+#, 
 msgid "p25_1"
 msgstr "p25_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:184
-#, fuzzy
+#, 
 msgid "p26_1"
 msgstr "p26_1"

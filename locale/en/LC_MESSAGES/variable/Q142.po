@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q142.rst:5
 msgid "就業状態 [第2回 |endash|]"
-msgstr ""
+msgstr "Working status [2nd wave - ]"
 
 #: ../../variable/Q142.rst:9
 msgid "変数名"
@@ -36,7 +36,7 @@ msgid "質問文"
 msgstr "Question"
 
 #: ../../variable/Q142.rst:18
-#, fuzzy
+#, 
 msgid "あなたは現在（調査年9月）、仕事についていますか。（仕事には、常勤従業員、パート、アルバイト、嘱託、自営、家族従業などすべて含みます。ただし、学生アルバイトは除きます。）"
 msgstr ""
 "Are you currently working? (Include all jobs such as full-time and part-"
@@ -94,47 +94,47 @@ msgid "収録シート"
 msgstr "Data files (csv)"
 
 #: ../../variable/Q142.rst:71
-#, fuzzy
+#, 
 msgid "p2_1"
 msgstr "p2_1"
 
 #: ../../variable/Q142.rst:73
-#, fuzzy
+#, 
 msgid "p3_1"
 msgstr "p3_1"
 
 #: ../../variable/Q142.rst:75
-#, fuzzy
+#, 
 msgid "p4_1"
 msgstr "p4_1"
 
 #: ../../variable/Q142.rst:77
-#, fuzzy
+#, 
 msgid "p5a_1"
 msgstr "p5a_1"
 
 #: ../../variable/Q142.rst:79
-#, fuzzy
+#, 
 msgid "p5b_1"
 msgstr "p5b_1"
 
 #: ../../variable/Q142.rst:81
-#, fuzzy
+#, 
 msgid "p6_1"
 msgstr "p6_1"
 
 #: ../../variable/Q142.rst:83
-#, fuzzy
+#, 
 msgid "p7_1"
 msgstr "p7_1"
 
 #: ../../variable/Q142.rst:85
-#, fuzzy
+#, 
 msgid "p8_1"
 msgstr "p8_1"
 
 #: ../../variable/Q142.rst:87
-#, fuzzy
+#, 
 msgid "p9_1"
 msgstr "p9_1"
 
@@ -143,97 +143,97 @@ msgid "p10_1"
 msgstr "p10_1"
 
 #: ../../variable/Q142.rst:91
-#, fuzzy
+#, 
 msgid "p11ab_1"
 msgstr "p11ab_1"
 
 #: ../../variable/Q142.rst:93
-#, fuzzy
+#, 
 msgid "p11c_1"
 msgstr "p11c_1"
 
 #: ../../variable/Q142.rst:95
-#, fuzzy
+#, 
 msgid "p12_1"
 msgstr "p12_1"
 
 #: ../../variable/Q142.rst:97
-#, fuzzy
+#, 
 msgid "p13_1"
 msgstr "p13_1"
 
 #: ../../variable/Q142.rst:99
-#, fuzzy
+#, 
 msgid "p14_1"
 msgstr "p14_1"
 
 #: ../../variable/Q142.rst:101
-#, fuzzy
+#, 
 msgid "p15_1"
 msgstr "p15_1"
 
 #: ../../variable/Q142.rst:103
-#, fuzzy
+#, 
 msgid "p16abc_1"
 msgstr "p16abc_1"
 
 #: ../../variable/Q142.rst:105
-#, fuzzy
+#, 
 msgid "p16d_1"
 msgstr "p16d_1"
 
 #: ../../variable/Q142.rst:107
-#, fuzzy
+#, 
 msgid "p17_1"
 msgstr "p17_1"
 
 #: ../../variable/Q142.rst:109
-#, fuzzy
+#, 
 msgid "p18_1"
 msgstr "p18_1"
 
 #: ../../variable/Q142.rst:111
-#, fuzzy
+#, 
 msgid "p19_1"
 msgstr "p19_1"
 
 #: ../../variable/Q142.rst:113
-#, fuzzy
+#, 
 msgid "p20_1"
 msgstr "p20_1"
 
 #: ../../variable/Q142.rst:115
-#, fuzzy
+#, 
 msgid "p21abcd_1"
 msgstr "p21abcd_1"
 
 #: ../../variable/Q142.rst:117
-#, fuzzy
+#, 
 msgid "p21e_1"
 msgstr "p21e_1"
 
 #: ../../variable/Q142.rst:119
-#, fuzzy
+#, 
 msgid "p22_1"
 msgstr "p22_1"
 
 #: ../../variable/Q142.rst:121
-#, fuzzy
+#, 
 msgid "p23_1"
 msgstr "p23_1"
 
 #: ../../variable/Q142.rst:123
-#, fuzzy
+#, 
 msgid "p24_1"
 msgstr "p24_1"
 
 #: ../../variable/Q142.rst:125
-#, fuzzy
+#, 
 msgid "p25_1"
 msgstr "p25_1"
 
 #: ../../variable/Q142.rst:127
-#, fuzzy
+#, 
 msgid "p26_1"
 msgstr "p26_1"
 
@@ -243,6 +243,5 @@ msgstr "p26_1"
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
 
-#~ msgid "就業状態〔第2回～〕"
-#~ msgstr "Working status [2nd wave - ]"
+
 

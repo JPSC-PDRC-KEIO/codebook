@@ -73,7 +73,7 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:53
-#, fuzzy
+#, 
 msgid "5"
 msgstr "Don't know"
 

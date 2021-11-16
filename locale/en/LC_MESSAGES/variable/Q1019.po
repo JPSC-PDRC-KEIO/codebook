@@ -128,7 +128,6 @@ msgid "備考"
 msgstr "Remarks"
 
 #: ../../variable/Q1019.rst:60
-#, fuzzy
 msgid "収録シート"
 msgstr ""
 "Data files (csv)"
