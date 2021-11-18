@@ -61,7 +61,7 @@ Q1232H
    「平均＿ ＿ 時間 ＿ ＿ 分」かを尋ねている質問の、時間についての変数です。
 
 
-   詳しくはこちら（:doc:`/kekkon/heikinkaiwajikan`）をご覧下さい。
+   詳しくはこちら（:doc:`/kekkon/kaiwajikan`）をご覧下さい。
 
 
 

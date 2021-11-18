@@ -94,5 +94,4 @@
    /variable/Q1292DM
    /variable/Q1292IM
    /variable/Q1292MM
-   seikatsu_jikan_2
-   seikatsu_jikan_re
+

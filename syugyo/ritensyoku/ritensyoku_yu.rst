@@ -9,7 +9,7 @@
    /variable/Q1030
    /multi_var/Q185
    /multi_var/Q187
-   ../jouken/koyouhoken_yu
+   koyouhoken_yu
    /variable/Q188
    /variable/Q193
    /variable/Q194

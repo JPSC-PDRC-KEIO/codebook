@@ -82,6 +82,7 @@
    /variable/Q493BM
    /variable/Q493CM
    /variable/Q493DM
+   /variable/Q493EM
    /variable/Q493FM
    /variable/Q493GM
    /variable/Q493HM
@@ -107,6 +108,7 @@
    /variable/Q494BM
    /variable/Q494CM
    /variable/Q494DM
+   /variable/Q494EM
    /variable/Q494FM
    /variable/Q494GM
    /variable/Q494HM
@@ -132,6 +134,7 @@
    /variable/Q495BM
    /variable/Q495CM
    /variable/Q495DM
+   /variable/Q495EM
    /variable/Q495FM
    /variable/Q495GM
    /variable/Q495HM
@@ -157,6 +160,7 @@
    /variable/Q496BM
    /variable/Q496CM
    /variable/Q496DM
+   /variable/Q496EM
    /variable/Q496FM
    /variable/Q496GM
    /variable/Q496HM

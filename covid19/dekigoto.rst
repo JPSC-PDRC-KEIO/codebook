@@ -41,5 +41,6 @@
    /variable/Q1293F
    /variable/Q1293G
    /variable/Q1293H
+   /variable/Q1293I
    /variable/Q1293J
    /variable/Q1293K

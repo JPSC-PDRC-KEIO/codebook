@@ -10,7 +10,7 @@
    /variable/Q264
    /multi_var/Q260
    /multi_var/Q262
-   koyouhoken_hsmu
+   koyouhoken_mu_hs
    /variable/Q263
    /variable/Q266
    /multi_var/Q269

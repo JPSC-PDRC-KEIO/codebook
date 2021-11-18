@@ -15,9 +15,9 @@
     "光熱費を節約", ":doc:`Q1256B </variable/Q1256B>`", ":doc:`Q1255B </variable/Q1255B>`"
     "衣服や化粧品など奢侈品の買い物の見直し", ":doc:`Q1256C </variable/Q1256C>`", ":doc:`Q1255C </variable/Q1255C>`"
     "保険やローンなどの固定費の見直し", ":doc:`Q1256D </variable/Q1256D>`", ":doc:`Q1255D </variable/Q1255D>`"
-    "家電や自動車など高額商品の購入の見直し", ":doc:`Q1256E </variable/Q1256E>`", ":doc:`Q1255E </variable/Q1255E>`"
-    "外食・交際・娯楽費の見直し", ":doc:`Q1256F </variable/Q1256F>`", ":doc:`Q1255F </variable/Q1255F>`"
-
+    "外食・交際・娯楽費の見直し", ":doc:`Q1256E </variable/Q1256E>`", ":doc:`Q1255E </variable/Q1255E>`"
+    "家電や自動車など高額商品の購入の見直し", ":doc:`Q1256F </variable/Q1256F>`", ":doc:`Q1255F </variable/Q1255F>`"
+    "安価なものを購入して支出をおさえる", ":doc:`Q1256G </variable/Q1256G>`", ":doc:`Q1255G </variable/Q1255G>`"
 
 子どもがいる人では
 ------------------------
@@ -40,12 +40,14 @@
    /variable/Q1256D
    /variable/Q1256E
    /variable/Q1256F
+   /variable/Q1256G
    /variable/Q1255A
    /variable/Q1255B
    /variable/Q1255C
    /variable/Q1255D
    /variable/Q1255E
    /variable/Q1255F
+   /variable/Q1255G
    /variable/Q1258A
    /variable/Q1258B
    /variable/Q1257A

@@ -5,7 +5,7 @@
 .. toctree::
    :maxdepth: 1
 
-   /variable/Q247
+   /multi_var/Q247
    /variable/Q241
    /variable/Q242
    /variable/Q243

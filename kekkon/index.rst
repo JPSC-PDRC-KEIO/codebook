@@ -10,4 +10,3 @@
    /variable/Q708
    fufu
    kekkonikou
-   kaiwajikan

@@ -60,8 +60,6 @@
    /variable/Q1041G
    /variable/Q1041H
    /variable/Q1041I
-   /variable/Q1041H
-   /variable/Q1041I
    /variable/Q1041J
    /variable/Q1041K
    /variable/Q1041L

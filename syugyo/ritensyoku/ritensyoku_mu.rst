@@ -10,7 +10,7 @@
    /variable/Q1117
    /variable/Q202
    /multi_var/Q198
-   jouken/koyouhoken_mu
+   koyouhoken_mu
    /multi_var/Q200
    /variable/Q201
    /variable/Q204

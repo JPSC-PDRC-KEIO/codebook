@@ -37,6 +37,7 @@
    /variable/Q697
    /variable/Q698
    /variable/Q699
+   /variable/Q322
    /variable/Q839
    /variable/Q1077
 

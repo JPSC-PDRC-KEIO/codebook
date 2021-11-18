@@ -9,7 +9,7 @@
    /variable/Q1033
    /multi_var/Q247
    /multi_var/Q249
-   koyouhoken_hsyu
+   koyouhoken_yu_hs
    /variable/Q250
    /variable/Q255
    /variable/Q256

@@ -79,7 +79,7 @@
    祖父母, :doc:`Q300L </variable/Q300L>`
    兄弟姉妹, :doc:`Q300M </variable/Q300M>`
    子ども, :doc:`Q300P </variable/Q300P>`
-   その他, :doc:`QQ868 </variable/Q868>`
+   その他, :doc:`Q868 </variable/Q868>`
 
 .. note::
    第2～4回では、無配偶の「その他」は「あなたの子ども」を含んでおり、変数名は :doc:`Q300N </variable/Q300N>` でした。
@@ -134,3 +134,4 @@
    /variable/Q300N
    /variable/Q300O
    /variable/Q300P
+   /variable/Q868

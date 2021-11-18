@@ -95,5 +95,4 @@
    /variable/Q1288DM
    /variable/Q1288IM
    /variable/Q1288MM
-   seikatsu_jikan_2
-   seikatsu_jikan_re
+   
