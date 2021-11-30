@@ -66,7 +66,7 @@ msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q680.rst:46
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q680.rst:52
 msgid "無回答コード"

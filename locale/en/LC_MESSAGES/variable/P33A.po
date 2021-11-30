@@ -46,7 +46,7 @@ msgstr "Move1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P33A.rst:26
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P33A.rst:28
 msgid "＿＿年"
@@ -54,7 +54,7 @@ msgstr "Year ＿＿＿＿"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P33A.rst:34
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P33A.rst:35
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P33A.rst:47
@@ -63,11 +63,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P33A.rst:40
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P33A.rst:46
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P33A.rst:52
 msgid "備考"

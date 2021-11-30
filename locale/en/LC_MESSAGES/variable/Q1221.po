@@ -41,7 +41,7 @@ msgstr "How much overall care-related burden do you feel you are bearing?"
 
 #: ../../variable/Q1221.rst:24
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: ../../variable/Q1221.rst:26
 msgid "週あたり＿ ＿ ＿ 時間"
@@ -49,7 +49,7 @@ msgstr "\_ _ _ hours per week"
 
 #: ../../variable/Q1221.rst:32
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: ../../variable/Q1221.rst:33
 msgid "998"
@@ -57,11 +57,11 @@ msgstr ""
 
 #: ../../variable/Q1221.rst:38
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1221.rst:44
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: ../../variable/Q1221.rst:45
 msgid "999"

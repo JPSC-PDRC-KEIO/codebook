@@ -100,5 +100,5 @@ msgid "6"
 msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
-#~ msgstr "Choices / Entry field"
+#~ msgstr "Select / Fill in"
 

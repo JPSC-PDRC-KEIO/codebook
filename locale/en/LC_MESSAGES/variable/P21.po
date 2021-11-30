@@ -62,7 +62,7 @@ msgstr "Almost all of my expenses were(are)paid by myself."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P21.rst:40
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P21.rst:46
 msgid "分類不能の回答コード"

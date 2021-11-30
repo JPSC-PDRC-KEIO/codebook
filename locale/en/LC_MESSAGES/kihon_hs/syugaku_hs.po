@@ -113,4 +113,4 @@ msgid "10.その他"
 msgstr "10.Other"
 
 #~ msgid "選択肢 / 記入欄"
-#~ msgstr "Choices / Entry field"
+#~ msgstr "Select / Fill in"

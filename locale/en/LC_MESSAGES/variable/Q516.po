@@ -40,7 +40,7 @@ msgstr "Which do you want to have, a boy or a girl?"
 
 #: ../../variable/Q516.rst:24
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: ../../variable/Q516.rst:27
 msgid "男の子"
@@ -52,15 +52,15 @@ msgstr "Girl"
 
 #: ../../variable/Q516.rst:36
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: ../../variable/Q516.rst:42
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q516.rst:48
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: ../../variable/Q516.rst:49
 msgid "3"

@@ -42,7 +42,7 @@ msgstr "How many total days did you participate in seminars and courses in the p
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:24
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:27
 msgid "1日以内"
@@ -70,15 +70,15 @@ msgstr "1 month or more"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:44
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:50
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:56
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q171.rst:57
 msgid "7"

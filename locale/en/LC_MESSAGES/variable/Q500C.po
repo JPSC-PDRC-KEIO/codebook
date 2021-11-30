@@ -40,7 +40,7 @@ msgstr "What day is your husband’s day off in the week? (Includes a day off ev
 
 #: ../../variable/Q500C.rst:24
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: ../../variable/Q500C.rst:26
 msgid "火曜日"
@@ -48,15 +48,15 @@ msgstr "Tuesday"
 
 #: ../../variable/Q500C.rst:32
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: ../../variable/Q500C.rst:38
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q500C.rst:44
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: ../../variable/Q500C.rst:45
 msgid "3"

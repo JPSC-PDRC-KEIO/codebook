@@ -118,7 +118,7 @@ msgstr ""
 
 #: ../../glossary.rst:31
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response codes"
+msgstr "Unclassifiable response code"
 
 #: ../../glossary.rst:33
 msgid ""

@@ -42,7 +42,7 @@ msgstr "How many days did you actually work in the past year (from October of th
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q155.rst:24
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q155.rst:27
 msgid "50日未満"
@@ -86,15 +86,15 @@ msgstr "300 days or more"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q155.rst:52
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q155.rst:58
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q155.rst:64
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q155.rst:65
 msgid "11"

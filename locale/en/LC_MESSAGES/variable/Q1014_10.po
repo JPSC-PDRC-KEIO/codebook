@@ -62,7 +62,7 @@ msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:45
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response codes"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:51
 msgid "無回答コード"

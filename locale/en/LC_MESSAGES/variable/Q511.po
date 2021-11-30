@@ -71,8 +71,7 @@ msgstr ""
 msgid ""
 "選択肢 / 記入欄"
 msgstr ""
-"Choices / Entry "
-"field"
+"Select / Fill in"
 
 #: ../../variable/Q511.rst:27
 msgid "是非、欲しい"
@@ -95,8 +94,7 @@ msgstr "No"
 msgid ""
 "桁あふれコード"
 msgstr ""
-"Outside-code-"
-"range responses"
+"Overflow code"
 
 #: ../../variable/Q511.rst:44
 msgid ""
@@ -109,7 +107,7 @@ msgstr ""
 #: ../../variable/Q511.rst:50
 msgid "無回答コード"
 msgstr ""
-"Non-Response"
+"No response code"
 
 #: ../../variable/Q511.rst:51
 msgid "4"

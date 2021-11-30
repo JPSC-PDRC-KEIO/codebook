@@ -42,7 +42,7 @@ msgstr "Why did you choose to attend that school? (Circle only one.)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:24
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:27
 msgid "偏差値が合格ラインにあったから"
@@ -70,15 +70,15 @@ msgstr "It just seemed like the right thing to do."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:44
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:50
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:56
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:57
 msgid "7"

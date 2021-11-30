@@ -74,7 +74,7 @@ msgstr ""
 
 #: ../../variable/Q493MH.rst:28
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: ../../variable/Q493MH.rst:30
 msgid "＿ ＿ 時間"
@@ -82,7 +82,7 @@ msgstr "＿ ＿ hours"
 
 #: ../../variable/Q493MH.rst:36
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: ../../variable/Q493MH.rst:37
 msgid "98"
@@ -90,11 +90,11 @@ msgstr ""
 
 #: ../../variable/Q493MH.rst:42
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q493MH.rst:48
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: ../../variable/Q493MH.rst:49
 msgid "99"

@@ -40,7 +40,7 @@ msgstr "When do you want to get married by?"
 
 #: ../../variable/Q565.rst:24
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: ../../variable/Q565.rst:26
 msgid "＿＿歳"
@@ -48,7 +48,7 @@ msgstr "about ____ years old"
 
 #: ../../variable/Q565.rst:32
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: ../../variable/Q565.rst:33
 msgid "98"
@@ -56,11 +56,11 @@ msgstr ""
 
 #: ../../variable/Q565.rst:38
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q565.rst:44
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: ../../variable/Q565.rst:45
 msgid "99"

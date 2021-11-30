@@ -78,15 +78,15 @@ msgstr "We have no overtime work"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q154.rst:48
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q154.rst:54
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q154.rst:60
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q154.rst:61
 msgid "9"

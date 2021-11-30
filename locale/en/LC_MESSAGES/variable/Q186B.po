@@ -42,7 +42,7 @@ msgstr "How many months were you receiving unemployment benefits?"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186B.rst:24
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186B.rst:26
 msgid "＿ ＿ ヵ月"
@@ -50,7 +50,7 @@ msgstr "＿ ＿ months"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186B.rst:32
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186B.rst:33
 msgid "98"
@@ -58,11 +58,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186B.rst:38
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186B.rst:44
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186B.rst:45
 msgid "99"

@@ -45,7 +45,7 @@ msgstr "Student or worker status of husband"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:18
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:20
 msgid "未就学"
@@ -89,15 +89,15 @@ msgstr "Other"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:32
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:36
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:40
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:43
 msgid "備考"

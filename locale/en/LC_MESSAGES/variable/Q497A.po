@@ -75,8 +75,7 @@ msgstr ""
 msgid ""
 "選択肢 / 記入欄"
 msgstr ""
-"Choices / Entry "
-"field"
+"Select / Fill in"
 
 #: ../../variable/Q497A.rst:26
 msgid "＿ ＿ 日"
@@ -86,8 +85,7 @@ msgstr "__ __ days"
 msgid ""
 "桁あふれコード"
 msgstr ""
-"Outside-code-"
-"range responses"
+"Overflow code"
 
 #: ../../variable/Q497A.rst:33
 msgid "8"
@@ -104,7 +102,7 @@ msgstr ""
 #: ../../variable/Q497A.rst:44
 msgid "無回答コード"
 msgstr ""
-"Non-Response"
+"No response code"
 
 #: ../../variable/Q497A.rst:45
 msgid "9"

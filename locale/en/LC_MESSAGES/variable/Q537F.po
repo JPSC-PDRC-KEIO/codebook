@@ -40,7 +40,7 @@ msgstr "What kind of courses have you taken? (Include correspondence courses)  (
 
 #: ../../variable/Q537F.rst:24
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: ../../variable/Q537F.rst:26
 msgid "大学（科目履修、聴講生、研究生など）"
@@ -48,15 +48,15 @@ msgstr "University or college (completed some courses, or as auditor or research
 
 #: ../../variable/Q537F.rst:32
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: ../../variable/Q537F.rst:38
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q537F.rst:44
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: ../../variable/Q537F.rst:45
 msgid "3"

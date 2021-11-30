@@ -42,7 +42,7 @@ msgstr "What is your main job at present? (Circle only one answer.)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q859.rst:24
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q859.rst:27
 msgid "農林漁業（自営者）"
@@ -98,11 +98,11 @@ msgstr "Paying job at home (home worker)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q859.rst:58
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q859.rst:64
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable Response"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q859.rst:65
 msgid "15"
@@ -110,7 +110,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q859.rst:70
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q859.rst:71
 msgid "14"

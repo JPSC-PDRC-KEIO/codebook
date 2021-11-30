@@ -44,7 +44,7 @@ msgstr "Your age"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q8.rst:24
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q8.rst:26
 msgid "＿＿歳"
@@ -52,15 +52,15 @@ msgstr "＿＿years old"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q8.rst:32
 msgid "桁あふれコード"
-msgstr "Outside-code-range response"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q8.rst:38
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q8.rst:44
 msgid "無回答コード"
-msgstr "Non-response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q8.rst:50
 msgid "備考"

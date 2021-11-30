@@ -113,7 +113,7 @@ msgid "10.その他"
 msgstr "10.Other"
 
 #~ msgid "選択肢 / 記入欄"
-#~ msgstr "Choices / Entry field"
+#~ msgstr "Select / Fill in"
 
 #~ msgid "この項目は以下のように選択肢と変数が変化してきています。"
 #~ msgstr "In this item, choices and variables have changed as follows."

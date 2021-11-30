@@ -84,8 +84,7 @@ msgstr ""
 msgid ""
 "選択肢 / 記入欄"
 msgstr ""
-"Choices / Entry "
-"field"
+"Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q145.rst:27
 msgid "1～4人"
@@ -125,8 +124,7 @@ msgstr ""
 msgid ""
 "桁あふれコード"
 msgstr ""
-"Outside-code-"
-"range responses"
+"Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q145.rst:54
 msgid ""
@@ -139,7 +137,7 @@ msgstr ""
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q145.rst:60
 msgid "無回答コード"
 msgstr ""
-"Non-Response"
+"No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q145.rst:61
 msgid "9"

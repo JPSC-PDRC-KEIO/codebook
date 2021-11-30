@@ -66,7 +66,7 @@ msgstr "Graduate school"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q61SR.rst:22
 msgid "無回答"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q61SR.rst:26
 msgid "備考"

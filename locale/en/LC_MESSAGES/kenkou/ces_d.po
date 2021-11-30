@@ -178,4 +178,4 @@ msgid ":doc:`Q1093_12 </variable/Q1093_12>`"
 msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
-#~ msgstr "Choices / Entry field"
+#~ msgstr "Select / Fill in"

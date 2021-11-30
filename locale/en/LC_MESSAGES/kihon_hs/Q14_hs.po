@@ -82,7 +82,7 @@ msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:32
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response codes"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:36
 msgid "無回答コード"

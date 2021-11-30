@@ -54,7 +54,7 @@ msgstr "＿＿female siblings"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q671B.rst:35
 msgid "桁あふれコード"
-msgstr "Outside-code-range responses"
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q671B.rst:36
 msgid "98"

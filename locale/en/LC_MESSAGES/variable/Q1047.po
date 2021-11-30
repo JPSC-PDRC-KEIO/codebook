@@ -42,7 +42,7 @@ msgstr "Is your husband currently working more than one job?"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1047.rst:24
 msgid "選択肢 / 記入欄"
-msgstr "Choices / Entry field"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1047.rst:27
 msgid "複数の仕事についている"
@@ -58,7 +58,7 @@ msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1047.rst:42
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response codes"
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1047.rst:48
 msgid "無回答コード"

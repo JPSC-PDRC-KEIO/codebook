@@ -90,8 +90,7 @@ msgstr ""
 msgid ""
 "選択肢 / 記入欄"
 msgstr ""
-"Choices / Entry "
-"field"
+"Select / Fill in"
 
 #: ../../variable/Q542B.rst:26
 msgid ""
@@ -104,8 +103,7 @@ msgstr ""
 msgid ""
 "桁あふれコード"
 msgstr ""
-"Outside-code-"
-"range responses"
+"Overflow code"
 
 #: ../../variable/Q542B.rst:33
 msgid "998"
@@ -122,7 +120,7 @@ msgstr ""
 #: ../../variable/Q542B.rst:44
 msgid "無回答コード"
 msgstr ""
-"Non-Response"
+"No response code"
 
 #: ../../variable/Q542B.rst:45
 msgid "999"

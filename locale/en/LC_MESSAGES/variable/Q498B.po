@@ -82,8 +82,7 @@ msgstr "x Unemployed"
 msgid ""
 "選択肢 / 記入欄"
 msgstr ""
-"Choices / Entry "
-"field"
+"Select / Fill in"
 
 #: ../../variable/Q498B.rst:29
 msgid "はい"
@@ -93,8 +92,7 @@ msgstr "Yes"
 msgid ""
 "桁あふれコード"
 msgstr ""
-"Outside-code-range "
-"responses"
+"Overflow code"
 
 #: ../../variable/Q498B.rst:41
 msgid ""
@@ -106,7 +104,7 @@ msgstr ""
 
 #: ../../variable/Q498B.rst:47
 msgid "無回答コード"
-msgstr "Non-Response"
+msgstr "No response code"
 
 #: ../../variable/Q498B.rst:48
 msgid "2"
