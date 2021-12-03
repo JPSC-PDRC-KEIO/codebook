@@ -17,7 +17,7 @@ version = "0.1"
 # The full version, including alpha/beta/rc tags
 release = "1"
 
-html_last_updated_fmt = "%b %d, %Y"
+html_last_updated_fmt = "%Y-%m-%d"
 
 # -- General configuration ---------------------------------------------------
 
