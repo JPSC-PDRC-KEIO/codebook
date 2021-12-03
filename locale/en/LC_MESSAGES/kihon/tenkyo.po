@@ -79,7 +79,7 @@ msgstr "Year :doc:`P34A </variable/P34A>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst
 msgid "月 :doc:`P34B </variable/P34B>`"
-msgstr "月 :doc:`P34B </variable/P34B>`"
+msgstr "Month :doc:`P34B </variable/P34B>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/tenkyo.rst:1
 msgid ":doc:`KEN2 <ken2>`"

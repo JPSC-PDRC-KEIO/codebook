@@ -16,7 +16,7 @@
    :header: "", "続柄", "性別", "年齢", "就学・就労", "同居・別居", "配偶関係"
    :widths: 5, 5, 5, 5, 5, 5, 5
 
-   "本人", "--", "--", "--", "--", "--", "--"
+   "本人", ":doc:`Q6</kihon/Q6>`", ":doc:`Q7</kihon/Q7>`", ":doc:`Q8</variable/Q8>`", ":doc:`Q9S</kihon/Q9S>`", ":doc:`Q10</kihon/Q10>`", ":doc:`Q1014_1</kihon/Q1014_1>`"
    "家族2", ":doc:`Q11</variable/Q11>`", ":doc:`Q12</variable/Q12>`", ":doc:`Q13</variable/Q13>`", ":doc:`Q14S</variable/Q14S>`", ":doc:`Q15</variable/Q15>`", ":doc:`Q1014_2</variable/Q1014_2>`"
    "家族3", ":doc:`Q16</variable/Q16>`", ":doc:`Q17</variable/Q17>`", ":doc:`Q18</variable/Q18>`", ":doc:`Q19S</variable/Q19S>`", ":doc:`Q20</variable/Q20>`", ":doc:`Q1014_3</variable/Q1014_3>`"
    "家族4", ":doc:`Q21</variable/Q21>`", ":doc:`Q22</variable/Q22>`", ":doc:`Q23</variable/Q23>`", ":doc:`Q24S</variable/Q24S>`", ":doc:`Q25</variable/Q25>`", ":doc:`Q1014_4</variable/Q1014_4>`"
@@ -107,6 +107,7 @@
    :maxdepth: 1
    :hidden:
 
+   /kihon/Q10
    /variable/Q11
    /variable/Q12
    /variable/Q13

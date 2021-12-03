@@ -8,6 +8,7 @@
    tsusan_mu
    /variable/P41A
    /variable/P41B
+   /variable/P42
    /variable/P44A
    /variable/P44B
    /variable/P45
