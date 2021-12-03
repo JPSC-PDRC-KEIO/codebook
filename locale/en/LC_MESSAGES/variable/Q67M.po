@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2020-05-24 23:50+0900\n"
+"PO-Revision-Date: 2021-12-03 09:24+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 2.3.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q67M.rst:5
 msgid "世帯構成の変動：特に何もない"
@@ -42,7 +42,7 @@ msgstr "Which changes occurred in your household in the past year (from October 
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q67M.rst:21
 msgid "特に何もない"
-msgstr ""
+msgstr "No change"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q67M.rst:27
 msgid "選択肢 / 記入欄"
