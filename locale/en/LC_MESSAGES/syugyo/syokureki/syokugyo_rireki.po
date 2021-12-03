@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokugyo_rireki.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokugyo_rireki.rst:8
 msgid "あなたが、仕事についていたかどうかを、あなたが満18歳の時から昨年までの1年ごとにお答えください。"
@@ -35,7 +35,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokugyo_rireki.rst:285
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokugyo_rireki.rst:287
 msgid "コーホートAにはコーホートBとともに第5回で質問しています（37才まで）"

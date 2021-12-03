@@ -50,7 +50,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q943.rst:45
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""

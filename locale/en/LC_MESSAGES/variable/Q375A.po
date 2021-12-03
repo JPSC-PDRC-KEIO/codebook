@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q375A.rst:13
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../variable/Q375A.rst:15
 msgid "Q375A"
@@ -27,7 +27,7 @@ msgstr ""
 
 #: ../../variable/Q375A.rst:19
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../variable/Q375A.rst:22
 msgid "その敷地はいつ取得（贈与・相続を含む）しましたか。"
@@ -35,7 +35,7 @@ msgstr ""
 
 #: ../../variable/Q375A.rst:28
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: ../../variable/Q375A.rst:30 ../../variable/Q375A.rst:47
 #: ../../variable/Q375A.rst:71
@@ -48,7 +48,7 @@ msgstr ""
 
 #: ../../variable/Q375A.rst:40
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: ../../variable/Q375A.rst:41
 msgid "9998"
@@ -56,7 +56,7 @@ msgstr ""
 
 #: ../../variable/Q375A.rst:46
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q375A.rst:51 ../../variable/Q375A.rst:113
 msgid ""
@@ -64,7 +64,7 @@ msgstr ""
 
 #: ../../variable/Q375A.rst:56
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: ../../variable/Q375A.rst:57
 msgid "9999"
@@ -72,11 +72,11 @@ msgstr ""
 
 #: ../../variable/Q375A.rst:62
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: ../../variable/Q375A.rst:68
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: ../../variable/Q375A.rst:74 ../../variable/Q375A.rst:95
 msgid "p1_2"

@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../variable/Q1234.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../variable/Q1234.rst:11
 msgid "Q1234"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../variable/Q1234.rst:16
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../variable/Q1234.rst:18
 msgid "消費税が10％に上がる（上がった）ことで、あなたのご家庭にとってどの程度負担が増えそうですか。（〇は1つだけ）"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../variable/Q1234.rst:22
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: ../../variable/Q1234.rst:24
 msgid "あまりかわらない"
@@ -55,15 +55,15 @@ msgstr ""
 
 #: ../../variable/Q1234.rst:32
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: ../../variable/Q1234.rst:37
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1234.rst:42
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: ../../variable/Q1234.rst:43
 msgid "4"
@@ -71,11 +71,11 @@ msgstr ""
 
 #: ../../variable/Q1234.rst:47
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: ../../variable/Q1234.rst:51
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: ../../variable/Q1234.rst:56
 msgid "p2_1"

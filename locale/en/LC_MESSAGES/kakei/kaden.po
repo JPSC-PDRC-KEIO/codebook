@@ -25,7 +25,7 @@ msgstr "Durable consumer goods"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kakei/kaden.rst:8
 msgid "現在、あなた方ご夫婦は次のものをいくつ保有していますか。その台数を記入してください。持っていない場合は、0を ご記入ください。"

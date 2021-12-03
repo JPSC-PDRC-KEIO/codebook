@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../shisan/jutaku/jukyo_syoyu.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../shisan/jutaku/jukyo_syoyu.rst
 msgid "持ち家一戸建（敷地は自己所有)"

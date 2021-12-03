@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_yuu.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_yuu.rst:7
 msgid "今後、自分の生活の中でより充実させたいと思う事柄はどれですか。以下の選択肢から三つを選び番号をご記入ください。"

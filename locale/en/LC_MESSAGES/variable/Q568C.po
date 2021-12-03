@@ -73,7 +73,7 @@ msgstr ""
 
 #: ../../variable/Q568C.rst:27
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 "Select / Fill in"
 
 #: ../../variable/Q568C.rst:30
@@ -86,12 +86,12 @@ msgstr "No"
 
 #: ../../variable/Q568C.rst:39
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 "Overflow code"
 
 #: ../../variable/Q568C.rst:45
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 "Unclassifiable response code"
 
 #: ../../variable/Q568C.rst:51

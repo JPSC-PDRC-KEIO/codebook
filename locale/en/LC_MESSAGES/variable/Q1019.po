@@ -43,7 +43,7 @@ msgstr ""
 
 #: ../../variable/Q1019.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 "Variable name"
 
 #: ../../variable/Q1019.rst:11
@@ -114,7 +114,7 @@ msgstr ""
 
 #: ../../variable/Q1019.rst:48
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 "No response code"
 
 #: ../../variable/Q1019.rst:49
@@ -127,7 +127,7 @@ msgstr "Remarks"
 
 #: ../../variable/Q1019.rst:60
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 "Data files (csv)"
 
 #: ../../variable/Q1019.rst:65

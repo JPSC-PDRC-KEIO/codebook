@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:7
 msgid "生活の領域を以下の8つに分けた場合、あなたは、それぞれの領域をどの程度重要だと思いますか。8つの領域のそれぞれについてお答えください。"
@@ -35,7 +35,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid "非常に重要"

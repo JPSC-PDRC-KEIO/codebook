@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image1.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kekkon/otto_image1.rst:8
 msgid "あなたにとって、ご主人はどのような存在ですか。ご主人のイメージに最も近いものから順に３つ（3位まで）選んでください。"

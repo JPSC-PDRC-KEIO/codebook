@@ -35,7 +35,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q568.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q568.rst:1
 msgid "親戚や家族の紹介でお見合をした"

@@ -39,7 +39,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
 msgid "犬（室外で）"

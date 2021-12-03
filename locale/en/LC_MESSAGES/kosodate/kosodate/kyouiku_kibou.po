@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:7
 msgid "子どもに、将来、どこまで教育を受けさせたいですか。該当する回答欄に、コード表の番号を記入してください。"

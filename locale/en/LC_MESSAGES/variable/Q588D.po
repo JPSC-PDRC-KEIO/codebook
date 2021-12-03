@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q588D.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q588D.rst:11
 msgid "Q588D"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q588D.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q588D.rst:18
 msgid "あなたはこの1年間にどんな趣味・娯楽等の活動を行いましたか。行った趣味・娯楽等の活動について、以下の項目にご記入ください。1.「1年間に行った趣味・娯楽等の活動」2.「一緒に活動した主な人」は、次ページのコード表からあてはまる「コード番号」をご記入ください。"
@@ -39,11 +39,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q588D.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q588D.rst:32
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q588D.rst:33
 msgid "998"
@@ -51,11 +51,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q588D.rst:38
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q588D.rst:44
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q588D.rst:45
 msgid "999"
@@ -63,11 +63,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q588D.rst:50
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q588D.rst:56
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q588D.rst:61
 msgid "p2_4"

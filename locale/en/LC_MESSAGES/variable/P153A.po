@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P153A.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P153A.rst:11
 msgid "P153A"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P153A.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P153A.rst:18
 msgid "かりに、もう一度人生をやり直せるとしたら、次の各項目について、あなたはどうしたいですか。"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P153A.rst:30
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P153A.rst:33
 msgid "正社員で働きたい"
@@ -71,15 +71,15 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P153A.rst:48
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P153A.rst:54
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P153A.rst:60
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P153A.rst:61
 msgid "6"
@@ -87,11 +87,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P153A.rst:66
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P153A.rst:72
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P153A.rst:77
 msgid "p1_4"

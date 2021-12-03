@@ -79,7 +79,7 @@ msgstr ""
 
 #: ../../variable/Q568G.rst:27
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 "Select / Fill in"
 
 #: ../../variable/Q568G.rst:30
@@ -92,7 +92,7 @@ msgstr "No"
 
 #: ../../variable/Q568G.rst:39
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 "Overflow code"
 
 #: ../../variable/Q568G.rst:45
@@ -116,7 +116,7 @@ msgstr "Remarks"
 
 #: ../../variable/Q568G.rst:63
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 "Data files (csv)"
 
 #: ../../variable/Q568G.rst:68

@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../variable/Q1066.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../variable/Q1066.rst:11
 msgid "Q1066"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../variable/Q1066.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../variable/Q1066.rst:18
 msgid "8月の支給額はいくらですか。"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../variable/Q1066.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: ../../variable/Q1066.rst:26
 msgid "＿ ＿ 万 ＿ ＿ ＿ ＿ 円"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../variable/Q1066.rst:32
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: ../../variable/Q1066.rst:33
 msgid "999998"
@@ -55,11 +55,11 @@ msgstr ""
 
 #: ../../variable/Q1066.rst:38
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1066.rst:44
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: ../../variable/Q1066.rst:45
 msgid "999999"
@@ -67,11 +67,11 @@ msgstr ""
 
 #: ../../variable/Q1066.rst:50
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: ../../variable/Q1066.rst:56
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: ../../variable/Q1066.rst:61
 msgid "p12_4"

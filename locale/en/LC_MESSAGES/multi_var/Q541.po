@@ -35,7 +35,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q541.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q541.rst:1
 msgid "これまでの仕事を発展させるために役立ちそうな知識や資格などを得るため"

@@ -27,7 +27,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1210.rst:10
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1210.rst:11
 msgid "あなた方ご夫婦は、家族の生活費について収支を把握していますか。（それぞれ〇は１つずつ）"
@@ -55,15 +55,15 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1210.rst:23
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1210.rst:27
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1210.rst:31
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1210.rst:32
 msgid "5"
@@ -71,7 +71,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1210.rst:36
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1210.rst:40
 msgid "p24_3"

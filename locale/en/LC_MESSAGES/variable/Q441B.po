@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441B.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441B.rst:11
 msgid "Q441B"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441B.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441B.rst:18
 msgid "ご主人の名義について、クレジットカードを利用するにあたって、何か制約条件をつけていますか。該当するものに〇をつけて下さい。"
@@ -43,7 +43,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441B.rst:27
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441B.rst:30
 msgid "はい"
@@ -55,15 +55,15 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441B.rst:39
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441B.rst:45
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441B.rst:51
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441B.rst:52
 msgid "3"
@@ -71,11 +71,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441B.rst:57
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441B.rst:63
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441B.rst:68
 msgid "p1_2"

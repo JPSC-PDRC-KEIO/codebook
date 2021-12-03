@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:11
 msgid "Q950"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:18
 msgid "ない方がよいと思う理由として、次の度の意見に近いですか。（〇は１つ）"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:27
 msgid "収入を得ている主婦や独身者にくらべて、専業主婦（一定額以下の収入の人を含む）のいる世帯を優遇していて不平等だから"
@@ -59,15 +59,15 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:40
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:46
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:52
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:53
 msgid "5"
@@ -75,11 +75,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:58
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:64
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:69
 msgid "p4_4"

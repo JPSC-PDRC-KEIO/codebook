@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:7
 msgid ""

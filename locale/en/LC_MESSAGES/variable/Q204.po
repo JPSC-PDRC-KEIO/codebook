@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../variable/Q204.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../variable/Q204.rst:11
 msgid "Q204"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../variable/Q204.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../variable/Q204.rst:18
 msgid "この1年間（調査前年10月～調査年9月）に、何ヶ月勤めましたか。"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../variable/Q204.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: ../../variable/Q204.rst:27
 msgid "＿ ＿ ヵ月"
@@ -51,7 +51,7 @@ msgstr ""
 
 #: ../../variable/Q204.rst:36
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: ../../variable/Q204.rst:37
 msgid "98"
@@ -59,11 +59,11 @@ msgstr ""
 
 #: ../../variable/Q204.rst:42
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q204.rst:48
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: ../../variable/Q204.rst:49
 msgid "99"
@@ -71,11 +71,11 @@ msgstr ""
 
 #: ../../variable/Q204.rst:54
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: ../../variable/Q204.rst:60
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: ../../variable/Q204.rst:65
 msgid "p2_1"

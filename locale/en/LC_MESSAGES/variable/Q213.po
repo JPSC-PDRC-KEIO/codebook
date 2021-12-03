@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../variable/Q213.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../variable/Q213.rst:11
 msgid "Q213"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../variable/Q213.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../variable/Q213.rst:18
 msgid "あなたのご主人は現在、仕事についていますか。"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../variable/Q213.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: ../../variable/Q213.rst:27
 msgid "仕事についている"
@@ -59,15 +59,15 @@ msgstr ""
 
 #: ../../variable/Q213.rst:40
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: ../../variable/Q213.rst:46
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q213.rst:52
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: ../../variable/Q213.rst:53
 msgid "5"
@@ -75,7 +75,7 @@ msgstr ""
 
 #: ../../variable/Q213.rst:58
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: ../../variable/Q213.rst:60
 msgid "|nt1| 詳しくはこちら（:doc:`/syugyo_hs/syugyojoutai_hs`）をご参照ください。"
@@ -83,7 +83,7 @@ msgstr ""
 
 #: ../../variable/Q213.rst:64
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: ../../variable/Q213.rst:69
 msgid "p2_1"

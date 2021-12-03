@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kakei/hoken.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kakei/hoken.rst:8
 msgid "現在、あなたご自身は、どのような公的医療保障制度に加入していますか。"

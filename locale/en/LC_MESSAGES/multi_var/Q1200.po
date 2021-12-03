@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../multi_var/Q1200.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../multi_var/Q1200.rst:8
 msgid "3年後のあなたの働き方の希望について、以下のことはどれくらいあてはまりますか。（それぞれ〇は１つずつ）"
@@ -35,7 +35,7 @@ msgstr ""
 
 #: ../../multi_var/Q1200.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../multi_var/Q1200.rst:1
 msgid "今より権限や責任がある仕事がしたい"

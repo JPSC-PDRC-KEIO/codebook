@@ -24,7 +24,7 @@ msgstr "Family3: Relationship"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q16.rst:11
 msgid "Q16"

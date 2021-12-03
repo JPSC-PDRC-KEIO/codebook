@@ -90,7 +90,7 @@ msgstr "Please refer to here (:doc:`/multi_var/Q185`) for details."
 
 #: ../../variable/Q692.rst:68
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: ../../variable/Q692.rst:73
 msgid "p1_5"

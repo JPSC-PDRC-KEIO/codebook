@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q872.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q872.rst:11
 msgid "Q872"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q872.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q872.rst:18
 msgid "地球温暖化の原因となっている二酸化炭素の量を減らすために、炭素税をいう税を導入するべきだという意見があります。（炭素税とは、燃料の中に含まれる炭素の量に比例して燃料にかけられる税金で、燃料の使用を節約させるなどの効果を持つといわれています。ヨーロッパの一部の国ではすでに導入しているところもありますが、仮に日本でもこの炭素税が導入されることになると、製品の値上がりなどを通じて国民の負担につながると考えられます。）あなたは、このような環境保全のための税金を導入することについてどのように思いますか。"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q872.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q872.rst:27
 msgid "積極的に導入するべき"
@@ -59,15 +59,15 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q872.rst:40
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q872.rst:46
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q872.rst:52
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q872.rst:53
 msgid "5"
@@ -75,11 +75,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q872.rst:58
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q872.rst:64
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q872.rst:69
 msgid "p6_4"

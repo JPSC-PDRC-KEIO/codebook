@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/seikatsu_jikan_re.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../dailylife/seikatsu_jikan/seikatsu_jikan_re.rst:8
 msgid ""

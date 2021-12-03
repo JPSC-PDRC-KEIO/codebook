@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:7
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/hiyou_how.rst:10
 msgid "その費用をどのように賄いましたか。 :doc:`kekkonhiyou` のA・B・Cの金額それぞれの内訳をご記入ください。"

@@ -42,7 +42,7 @@ msgstr ""
 
 #: ../../variable/Q498B.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 "Variable name"
 
 #: ../../variable/Q498B.rst:11
@@ -116,7 +116,7 @@ msgstr "Remarks"
 
 #: ../../variable/Q498B.rst:59
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 "Data files (csv)"
 
 #: ../../variable/Q498B.rst:64

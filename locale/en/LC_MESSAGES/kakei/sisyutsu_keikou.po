@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_keikou.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../kakei/sisyutsu_keikou.rst:8
 msgid "あなた方ご夫婦は、お金に対して細かい方だと思いますか、ルーズな方だと思いますか。ご主人については、あなたの評価をお聞かせください。（それぞれ〇は１つずつ）"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_keikou.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../kakei/sisyutsu_keikou.rst:1
 msgid "細かい"
@@ -99,7 +99,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_keikou.rst:23
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: ../../kakei/sisyutsu_keikou.rst:25
 msgid "Q1198は無配偶票と共通の変数です。"

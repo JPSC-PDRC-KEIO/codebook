@@ -123,7 +123,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P61.rst:55
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""

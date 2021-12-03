@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:7
 msgid "中学生以下のお子さんのうち一番年上のお子さんは何かお稽古事（学習塾、英会話等を除く）をなさっていますか。（〇はいくつでも）"
@@ -35,7 +35,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/keikogoto.rst:1
 msgid "学校以外のスポーツ教室やスポーツ・クラブに通っている"

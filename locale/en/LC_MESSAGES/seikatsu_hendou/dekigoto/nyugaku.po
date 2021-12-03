@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:8
 msgid "この1年間（平成22年10月～平成23年9月）に、お子さんが *小学校以上の学校* に入学された方にお聞きします。"
@@ -45,7 +45,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/nyugaku.rst:1
 msgid "日頃の収入"

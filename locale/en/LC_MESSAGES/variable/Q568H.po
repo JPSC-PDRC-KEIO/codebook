@@ -44,7 +44,7 @@ msgstr ""
 
 #: ../../variable/Q568H.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 "Variable name"
 
 #: ../../variable/Q568H.rst:11
@@ -108,7 +108,7 @@ msgstr ""
 
 #: ../../variable/Q568H.rst:51
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 "No response code"
 
 #: ../../variable/Q568H.rst:52
@@ -121,7 +121,7 @@ msgstr "Remarks"
 
 #: ../../variable/Q568H.rst:63
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 "Data files (csv)"
 
 #: ../../variable/Q568H.rst:68

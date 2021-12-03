@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../variable/Q347.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../variable/Q347.rst:11
 msgid "Q347"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../variable/Q347.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../variable/Q347.rst:18
 msgid "あなた方ご夫婦が現在考えておられる貯蓄の合計目標額はいくらぐらいですか。"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../variable/Q347.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: ../../variable/Q347.rst:26
 msgid "＿ ＿ 億 ＿ ＿ 00万円"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../variable/Q347.rst:32
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: ../../variable/Q347.rst:33
 msgid "999998"
@@ -55,11 +55,11 @@ msgstr ""
 
 #: ../../variable/Q347.rst:38
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q347.rst:44
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: ../../variable/Q347.rst:45
 msgid "999999"
@@ -67,11 +67,11 @@ msgstr ""
 
 #: ../../variable/Q347.rst:50
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: ../../variable/Q347.rst:56
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: ../../variable/Q347.rst:61
 msgid "p1_2"

@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../multi_var/Q1231.rst:7
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../multi_var/Q1231.rst:8
 msgid "以下のようなことについて、ご夫婦でどのように話し合いをされて、決められていますか。（それぞれ〇は１つずつ）"
@@ -35,7 +35,7 @@ msgstr ""
 
 #: ../../multi_var/Q1231.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../multi_var/Q1231.rst
 msgid "特に相談せず、"

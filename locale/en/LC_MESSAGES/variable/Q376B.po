@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../variable/Q376B.rst:10
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../variable/Q376B.rst:12
 msgid "Q376B"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../variable/Q376B.rst:16
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../variable/Q376B.rst:19
 msgid "建築の時期はいつ頃ですか。"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../variable/Q376B.rst:25
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: ../../variable/Q376B.rst:27
 msgid "＿ ＿ 年 (西暦下2桁)"
@@ -47,15 +47,15 @@ msgstr ""
 
 #: ../../variable/Q376B.rst:33
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: ../../variable/Q376B.rst:38
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q376B.rst:45
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: ../../variable/Q376B.rst:46
 msgid "99"
@@ -63,11 +63,11 @@ msgstr ""
 
 #: ../../variable/Q376B.rst:51
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: ../../variable/Q376B.rst:57
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: ../../variable/Q376B.rst:61
 msgid "p2_2"

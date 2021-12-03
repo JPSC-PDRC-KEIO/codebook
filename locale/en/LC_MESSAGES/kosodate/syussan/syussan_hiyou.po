@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:8
 msgid "出産に関わる費用はどれくらいでしたか。"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
 msgid "病院に支払った費用（定期検診も含む）"

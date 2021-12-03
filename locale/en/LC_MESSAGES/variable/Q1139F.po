@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../variable/Q1139F.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../variable/Q1139F.rst:11
 msgid "Q1139F"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../variable/Q1139F.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../variable/Q1139F.rst:18
 msgid "この1年間（調査前年10月～調査年9月)にお子さんにかかった教育関係の費用は大体いくらぐらいでしたか。"
@@ -43,7 +43,7 @@ msgstr ""
 
 #: ../../variable/Q1139F.rst:27
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: ../../variable/Q1139F.rst:29
 msgid "＿ ＿ ＿ 万円"
@@ -51,7 +51,7 @@ msgstr ""
 
 #: ../../variable/Q1139F.rst:35
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: ../../variable/Q1139F.rst:36
 msgid "998"
@@ -59,11 +59,11 @@ msgstr ""
 
 #: ../../variable/Q1139F.rst:41
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1139F.rst:47
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: ../../variable/Q1139F.rst:48
 msgid "999"
@@ -71,11 +71,11 @@ msgstr ""
 
 #: ../../variable/Q1139F.rst:53
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: ../../variable/Q1139F.rst:59
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: ../../variable/Q1139F.rst:64
 msgid "p18_4"

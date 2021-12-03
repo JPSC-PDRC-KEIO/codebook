@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../seisaku/zouzei_taiou_8.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../seisaku/zouzei_taiou_8.rst:7
 msgid "平成26年4月から消費税率が8％に変更となりました。消費税率の引き上げによってお宅ではどのような対応をしましたか。消費税8％引き上げ時と現在の各時点についてお考えください。（それぞれ〇は１つずつ）"

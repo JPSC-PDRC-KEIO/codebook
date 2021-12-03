@@ -69,7 +69,7 @@ msgstr ""
 
 #: ../../variable/Q1224.rst:44
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: ../../variable/Q1224.rst:47
 msgid "収録シート"

@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../syugyo_hs/gensyoku_hs/gyousyu_hs.rst:7
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../syugyo_hs/gensyoku_hs/gyousyu_hs.rst:9
 msgid "その勤め先の業種は次のどれに該当しますか。（派遣社員の方は、派遣元の業種についてお答えください）"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../syugyo_hs/gensyoku_hs/gyousyu_hs.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../syugyo_hs/gensyoku_hs/gyousyu_hs.rst:1
 msgid ":doc:`Q217 </variable/Q217>`"

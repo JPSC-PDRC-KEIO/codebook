@@ -26,7 +26,7 @@ msgstr ""
 
 #: ../../variable/P50.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../variable/P50.rst:11
 msgid "P50"
@@ -34,7 +34,7 @@ msgstr ""
 
 #: ../../variable/P50.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../variable/P50.rst:18
 msgid "月に何日ぐらい働いていますか。"
@@ -42,7 +42,7 @@ msgstr ""
 
 #: ../../variable/P50.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: ../../variable/P50.rst:26
 msgid "＿ ＿ 日"
@@ -50,7 +50,7 @@ msgstr ""
 
 #: ../../variable/P50.rst:32
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: ../../variable/P50.rst:33
 msgid "98"
@@ -58,11 +58,11 @@ msgstr ""
 
 #: ../../variable/P50.rst:38
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: ../../variable/P50.rst:44
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: ../../variable/P50.rst:45
 msgid "99"
@@ -70,11 +70,11 @@ msgstr ""
 
 #: ../../variable/P50.rst:50
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: ../../variable/P50.rst:56
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: ../../variable/P50.rst:61
 msgid "p1_1"

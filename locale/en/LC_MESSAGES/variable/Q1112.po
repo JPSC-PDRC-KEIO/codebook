@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../variable/Q1112.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../variable/Q1112.rst:11
 msgid "Q1112"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../variable/Q1112.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../variable/Q1112.rst:18
 msgid "あなたの職務は次のどれですか。"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../variable/Q1112.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: ../../variable/Q1112.rst:27
 msgid "正社員・正職員"
@@ -63,15 +63,15 @@ msgstr ""
 
 #: ../../variable/Q1112.rst:42
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: ../../variable/Q1112.rst:48
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1112.rst:54
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: ../../variable/Q1112.rst:55
 msgid "6"
@@ -79,11 +79,11 @@ msgstr ""
 
 #: ../../variable/Q1112.rst:60
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: ../../variable/Q1112.rst:66
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: ../../variable/Q1112.rst:71
 msgid "p18_1"

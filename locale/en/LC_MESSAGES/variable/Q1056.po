@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../variable/Q1056.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../variable/Q1056.rst:11
 msgid "Q1056"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../variable/Q1056.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../variable/Q1056.rst:18
 msgid "あなたご自身は現在、公的年金制度（国民年金、厚生年金、共済年金）にどのような資格で加入していますか。(〇は１つだけ)"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../variable/Q1056.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: ../../variable/Q1056.rst:27
 msgid "第１号被保険者（第２号、第３号以外の方：自営業者や自営業者の妻など）※国民年金の保険料納付を免除（一部免除を含む）されている方も含みます。"
@@ -59,15 +59,15 @@ msgstr ""
 
 #: ../../variable/Q1056.rst:40
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: ../../variable/Q1056.rst:46
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1056.rst:52
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: ../../variable/Q1056.rst:53
 msgid "5"
@@ -75,11 +75,11 @@ msgstr ""
 
 #: ../../variable/Q1056.rst:58
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: ../../variable/Q1056.rst:64
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: ../../variable/Q1056.rst:69
 msgid "p12_3"

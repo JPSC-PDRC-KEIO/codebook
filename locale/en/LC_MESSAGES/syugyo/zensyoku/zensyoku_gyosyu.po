@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/zensyoku_gyosyu.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/zensyoku_gyosyu.rst:7
 msgid "前職の勤め先の業種は次のどれに該当しますか。"

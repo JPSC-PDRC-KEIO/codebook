@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_gendogaku.rst:8
 msgid "クレジットカードを利用するにあたって、何か制約条件を付けていますか。該当するものに〇をつけてください。 （〇は２つまで）"

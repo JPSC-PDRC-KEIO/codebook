@@ -26,7 +26,7 @@ msgstr "Day off"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:8
 msgid "あなたとご主人は1週間に何日お休みの日がありますか。（週2日休みの場合は2.0とお答えください。隔週の休みは0.5と換算してください）"

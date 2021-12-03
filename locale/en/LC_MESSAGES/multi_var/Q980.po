@@ -39,7 +39,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:1
 msgid "これまでの仕事を発展させるために役立ちそうな知識や資格などを得るため"
@@ -79,7 +79,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:32
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""

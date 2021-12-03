@@ -31,7 +31,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "本人から親へ"
@@ -67,7 +67,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:21
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku_mu.rst:22
 msgid "この9月に、あなたの財布から（親に渡した分を除く）、どのように支出なさいましたか。（現金を支払ったものの他、クレジット・ローンで購入したもの、銀行・郵便局（ゆうちょ銀行）から自動的に引き落とした分も含みます）。支出がなかったものについては0と記入して下さい。"

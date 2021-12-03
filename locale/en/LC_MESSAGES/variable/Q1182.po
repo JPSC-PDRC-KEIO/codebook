@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../variable/Q1182.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../variable/Q1182.rst:11
 msgid "Q1182"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../variable/Q1182.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../variable/Q1182.rst:18
 msgid "その勤め先の業種は次のどれに該当しますか。（派遣社員の方は、派遣元の業種についてお答えください）"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../variable/Q1182.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: ../../variable/Q1182.rst:27
 msgid "農業、林業"
@@ -107,15 +107,15 @@ msgstr ""
 
 #: ../../variable/Q1182.rst:64
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: ../../variable/Q1182.rst:70
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1182.rst:76
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: ../../variable/Q1182.rst:77
 msgid "17"
@@ -123,11 +123,11 @@ msgstr ""
 
 #: ../../variable/Q1182.rst:82
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: ../../variable/Q1182.rst:88
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: ../../variable/Q1182.rst:93
 msgid "p21abcd_1"

@@ -42,7 +42,7 @@ msgstr "How many hours of unpaid overtime, so-called “service overtime” do y
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q154.rst:24
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q154.rst:27
 msgid "0時間"

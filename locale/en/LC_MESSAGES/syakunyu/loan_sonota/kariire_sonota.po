@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:8
 msgid "現在の借り入れについて、以下の項目にご記入ください。「借りた目的」「借入先」「借りた理由」は、下のコード表からあてはまる「コード番号」をご記入ください。"

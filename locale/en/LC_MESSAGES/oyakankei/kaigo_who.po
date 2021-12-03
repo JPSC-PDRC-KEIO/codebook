@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/oyakankei/kaigo_who.rst:7
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/oyakankei/kaigo_who.rst:8
 msgid "あなたが介護している方はどなたですか。複数いる場合は、かかわりの多い方から3人までお答え下さい。"

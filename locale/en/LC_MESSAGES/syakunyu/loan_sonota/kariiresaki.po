@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:7
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:8
 msgid "その場合、借入れ先としてどの機関を考えますか。下の9つの中から、あなたが考える順に３つを選び、番号を▢にご記入下さい。"
@@ -35,7 +35,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:1
 msgid "1位"

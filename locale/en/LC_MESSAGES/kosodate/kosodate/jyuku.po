@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:7
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:8
 msgid "中学生以下のお子さんのうち一番年上のお子さんはは学習塾や予備校（家庭教師を含む）、英会話等に通っていますか。（〇はいくつでも）"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
 msgid "学校（幼稚園）の成績が良くなると思うから"

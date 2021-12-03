@@ -167,7 +167,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kakei/Q283.rst:160
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kakei/Q283.rst:161
 msgid "19-20"
@@ -175,7 +175,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kakei/Q283.rst:165
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kakei/Q283.rst:169
 msgid "p17_1"

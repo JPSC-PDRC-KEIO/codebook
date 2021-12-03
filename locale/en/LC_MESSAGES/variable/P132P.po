@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P132P.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P132P.rst:11
 msgid "P132P"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P132P.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P132P.rst:18
 msgid "あなたやあなたのご家族に起こった大きな出来事についてうかがいます。"
@@ -51,7 +51,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P132P.rst:33
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P132P.rst:36
 msgid "はい"
@@ -63,15 +63,15 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P132P.rst:45
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P132P.rst:51
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P132P.rst:57
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P132P.rst:58
 msgid "3"
@@ -79,11 +79,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P132P.rst:63
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P132P.rst:69
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P132P.rst:74
 msgid "p1_4"

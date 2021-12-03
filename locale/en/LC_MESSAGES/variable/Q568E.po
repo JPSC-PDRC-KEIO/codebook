@@ -83,12 +83,12 @@ msgstr "No"
 
 #: ../../variable/Q568E.rst:39
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 "Overflow code"
 
 #: ../../variable/Q568E.rst:45
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 "Unclassifiable response code"
 
 #: ../../variable/Q568E.rst:51

@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../seisaku/zouzei_taiou_10.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../seisaku/zouzei_taiou_10.rst:7
 msgid "消費税率が10％に増税となったら、お宅ではどのような対応をするつもりですか。（それぞれ〇は１つずつ）"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../seisaku/zouzei_taiou_10.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../seisaku/zouzei_taiou_10.rst:1
 msgid "食料品など生活必需品の買い物を見直し"

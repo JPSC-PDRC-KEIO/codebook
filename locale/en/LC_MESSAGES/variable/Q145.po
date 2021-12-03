@@ -44,7 +44,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q145.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q145.rst:11
@@ -136,7 +136,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q145.rst:60
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q145.rst:61
@@ -149,7 +149,7 @@ msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q145.rst:72
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q145.rst:77

@@ -35,7 +35,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/kaigokyuka.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/kaigokyuka.rst:1
 msgid ":doc:`Q157 </variable/Q157>`"

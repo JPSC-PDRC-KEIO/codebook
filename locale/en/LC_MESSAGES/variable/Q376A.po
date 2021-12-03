@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../variable/Q376A.rst:10
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../variable/Q376A.rst:12
 msgid "Q376A"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../variable/Q376A.rst:16
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../variable/Q376A.rst:19
 msgid "その住宅はいつ取得（贈与・相続を含む）しましたか。"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../variable/Q376A.rst:25
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: ../../variable/Q376A.rst:27
 msgid "＿ ＿ 年 (西暦下2桁)"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../variable/Q376A.rst:33
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: ../../variable/Q376A.rst:34
 msgid "9998"
@@ -55,11 +55,11 @@ msgstr ""
 
 #: ../../variable/Q376A.rst:39
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q376A.rst:45
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: ../../variable/Q376A.rst:46
 msgid "9999"
@@ -67,11 +67,11 @@ msgstr ""
 
 #: ../../variable/Q376A.rst:51
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: ../../variable/Q376A.rst:57
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: ../../variable/Q376A.rst:61
 msgid "p1_2"

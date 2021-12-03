@@ -74,7 +74,7 @@ msgstr ""
 
 #: ../../variable/Q568F.rst:27
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 "Select / Fill in"
 
 #: ../../variable/Q568F.rst:30
@@ -87,7 +87,7 @@ msgstr "No"
 
 #: ../../variable/Q568F.rst:39
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 "Overflow code"
 
 #: ../../variable/Q568F.rst:45

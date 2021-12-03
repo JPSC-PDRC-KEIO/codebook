@@ -27,23 +27,23 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q1014_1.rst:12
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q1014_1.rst:16
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q1014_1.rst:21
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q1014_1.rst:25
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q1014_1.rst:29
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q1014_1.rst:30
 msgid "3"
@@ -51,7 +51,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q1014_1.rst:34
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q1014_1.rst:38
 msgid "p10_5"

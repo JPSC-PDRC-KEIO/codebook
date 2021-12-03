@@ -23,7 +23,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken1.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken1.rst:11
 msgid "KEN1"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken1.rst:14
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken1.rst:17
 msgid "現在からさかのぼって５回までの引っ越しについて、以下の項目を記入して下さい。"
@@ -239,7 +239,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken1.rst:75
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken1.rst:77
 msgid "学部生のユーザーには公開していません。"
@@ -247,7 +247,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken1.rst:82
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken1.rst:87
 msgid "p1pref"

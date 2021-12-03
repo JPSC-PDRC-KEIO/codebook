@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../variable/Q1232.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../variable/Q1232.rst:11
 msgid "Q1232"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../variable/Q1232.rst:16
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../variable/Q1232.rst:18
 msgid "ご夫婦の、1日の平均的な会話時間を教えてください。"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../variable/Q1232.rst:22
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: ../../variable/Q1232.rst:24
 msgid "平均 ＿ ＿ 時間 ＿ ＿ 分"
@@ -47,15 +47,15 @@ msgstr ""
 
 #: ../../variable/Q1232.rst:28
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: ../../variable/Q1232.rst:33
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1232.rst:38
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: ../../variable/Q1232.rst:39
 msgid "10"
@@ -63,11 +63,11 @@ msgstr ""
 
 #: ../../variable/Q1232.rst:43
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: ../../variable/Q1232.rst:47
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: ../../variable/Q1232.rst:52
 msgid "p2_1"

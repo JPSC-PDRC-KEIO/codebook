@@ -28,7 +28,7 @@ msgstr ""
 #: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:9
 #: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:36
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:10
 msgid "次のもののうち、あなた自身の親から一部でも出してもらっているものはありますか。（〇はいくつでも）"

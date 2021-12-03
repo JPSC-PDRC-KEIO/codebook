@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../syakunyu/loan_jutaku/kariire.rst:6
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst:8
 msgid "現在の借り入れについて、以下の項目にご記入ください。「1.借りた目的」「2.借入先」は、次ページのコード表からあてはまる「コード番号」をご記入ください。"

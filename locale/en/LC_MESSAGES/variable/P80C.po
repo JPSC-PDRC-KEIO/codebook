@@ -24,7 +24,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P80C.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P80C.rst:11
 msgid "P80C"
@@ -32,7 +32,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P80C.rst:15
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P80C.rst:18
 msgid "現制度では主婦の方でも一定以上の収入がある場合、所得税がかけられることになっています。そしてご主人の税金を計算するときに配偶者控除が受けられなくなったり、あるいはご主人の会社から配偶者手当が支給されなくなったりすることもあります。また、厚生年金や健康保険、失業保険についても一定の収入の人は加入しなければならないことになっています。"
@@ -44,19 +44,19 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P80C.rst:27
 msgid "選択肢 / 記入欄"
-msgstr ""
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P80C.rst:35
 msgid "桁あふれコード"
-msgstr ""
+msgstr "Overflow code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P80C.rst:41
 msgid "分類不能の回答コード"
-msgstr ""
+msgstr "Unclassifiable response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P80C.rst:47
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P80C.rst:48
 msgid "3"
@@ -64,11 +64,11 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P80C.rst:53
 msgid "備考"
-msgstr ""
+msgstr "Remarks"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P80C.rst:59
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/P80C.rst:64
 msgid "p1_3"

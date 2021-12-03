@@ -42,7 +42,7 @@ msgstr "Where was the place of death? (Please answer about the mosr recent peopl
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q85G.rst:16
 msgid "選択肢"
-msgstr "Select"
+msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q85G.rst:17
 msgid "病院; 2. 自宅; 3. その他（具体的に　　　　　　）"

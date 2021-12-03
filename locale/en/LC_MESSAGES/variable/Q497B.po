@@ -43,7 +43,7 @@ msgstr ""
 
 #: ../../variable/Q497B.rst:9
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 "Variable name"
 
 #: ../../variable/Q497B.rst:11
@@ -107,7 +107,7 @@ msgstr ""
 
 #: ../../variable/Q497B.rst:47
 msgid "無回答コード"
-msgstr ""
+msgstr "No response code"
 "No response code"
 
 #: ../../variable/Q497B.rst:48
@@ -120,7 +120,7 @@ msgstr "Remarks"
 
 #: ../../variable/Q497B.rst:59
 msgid "収録シート"
-msgstr ""
+msgstr "Data files (csv)"
 "Data files (csv)"
 
 #: ../../variable/Q497B.rst:64
