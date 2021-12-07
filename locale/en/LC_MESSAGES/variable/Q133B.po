@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2021-08-23 17:47+0900\n"
+"PO-Revision-Date: 2021-12-06 11:10+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -38,7 +38,7 @@ msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q133B.rst:18
 msgid "この1年間（調査前年10月～調査年9月）に手術や長期療養を要するような重い病気や、うつ状態など精神的な問題があった方にお伺いします。その時のあなたの生活費や療養費は誰が支えていましたか。（〇はいくつでも）"
-msgstr "For those who have had serious illnesses or mental health issues such as depression that require surgery or long-term medical treatment during the past year (October of the previous year to September of the survey year). Who supported your living and medical expenses at that time? (Circle as many as pertain to you)"
+msgstr "For those who have had serious illnesses or mental health issues such as depression, that require surgery or long-term medical treatment during the past year (October of the previous year to September of the survey year). How did you pay for your living expenses and medical expenses at that time? (Circle as many as pertain to you)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q133B.rst:21
 msgid "あなた自身の収入や預貯金"

@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-12-06 14:58+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:5
 msgid "病気・療養時の費用調達（無配偶）：民間の保険給付や保険金の解約金"
-msgstr ""
+msgstr "Funding for illness and medical treatment（Unmarried）：Private insurance benefits and insurance surrender charges"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:9
 msgid "変数名"
@@ -35,15 +37,15 @@ msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:18
 msgid "この1年間（調査前年10月～調査年9月）に手術や長期療養を要するような重い病気や、うつ状態など精神的な問題があった方にお伺いします。"
-msgstr ""
+msgstr "For those who have had serious illnesses or mental health issues such as depression, that require surgery or long-term medical treatment during the past year (October of the previous year to September of the survey year)."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:19
 msgid "その時のあなたの生活費や療養費は誰が支えていましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "How did you pay for your living expenses and medical expenses at that time? (Circle as many as pertain to you)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:22
 msgid "民間の保険給付や保険金の解約金"
-msgstr ""
+msgstr "Private insurance benefits and insurance surrender charges"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:28
 msgid "選択肢 / 記入欄"
@@ -51,11 +53,11 @@ msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:31
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:33
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:40
 msgid "桁あふれコード"
@@ -79,87 +81,87 @@ msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:69
 msgid "p2_1"
-msgstr ""
+msgstr "p2_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:71
 msgid "p3_1"
-msgstr ""
+msgstr "p3_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:73
 msgid "p4_1"
-msgstr ""
+msgstr "p4_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:75
 msgid "p5a_1"
-msgstr ""
+msgstr "p5a_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:77
 msgid "p6_1"
-msgstr ""
+msgstr "p6_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:79
 msgid "p7_1"
-msgstr ""
+msgstr "p7_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:81
 msgid "p8_1"
-msgstr ""
+msgstr "p8_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:83
 msgid "p9_1"
-msgstr ""
+msgstr "p9_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:85
 msgid "p10_1"
-msgstr ""
+msgstr "p10_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:87
 msgid "p11ab_1"
-msgstr ""
+msgstr "p11ab_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:89
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:91
 msgid "p13_1"
-msgstr ""
+msgstr "p13_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:93
 msgid "p14_1"
-msgstr ""
+msgstr "p14_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:95
 msgid "p15_1"
-msgstr ""
+msgstr "p15_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:97
 msgid "p16abc_1"
-msgstr ""
+msgstr "p16abc_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:99
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:101
 msgid "p18_1"
-msgstr ""
+msgstr "p18_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:103
 msgid "p19_1"
-msgstr ""
+msgstr "p19_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:105
 msgid "p20_1"
-msgstr ""
+msgstr "p20_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:107
 msgid "p21abcd_1"
-msgstr ""
+msgstr "p21abcd_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:109
 msgid "p22_1"
-msgstr ""
+msgstr "p22_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q134F.rst:111
 msgid "p23_1"
@@ -175,4 +177,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
