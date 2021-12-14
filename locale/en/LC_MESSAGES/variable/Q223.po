@@ -19,7 +19,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:5
 msgid "労働時間（配偶者）"
-msgstr ""
+msgstr "working hours (spouse)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:9
 msgid "変数名"
@@ -27,7 +27,7 @@ msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:11
 msgid "Q223"
-msgstr ""
+msgstr "Q223"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:15
 msgid "質問文"
@@ -35,7 +35,7 @@ msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:18
 msgid "実際に勤務する労働時間は通常週にどのくらいですか。"
-msgstr ""
+msgstr "How many hours does your spouse work per week in general?"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:24
 msgid "選択肢 / 記入欄"
@@ -43,43 +43,43 @@ msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:27
 msgid "15時間未満"
-msgstr ""
+msgstr "Less than 15 hours"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:29
 msgid "15～21時間"
-msgstr ""
+msgstr "5 to 21 hours"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:31
 msgid "22～34時間"
-msgstr ""
+msgstr "22 to 34 hours"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:33
 msgid "35～42時間"
-msgstr ""
+msgstr "35 to 42 hours"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:35
 msgid "43～45時間"
-msgstr ""
+msgstr "43 to 45 hours"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:37
 msgid "46～48時間"
-msgstr ""
+msgstr "46 to 48 hours"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:39
 msgid "49～54時間"
-msgstr ""
+msgstr "49 to 54 hours"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:41
 msgid "55～59時間"
-msgstr ""
+msgstr "55 to 59 hours"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:43
 msgid "60～64時間"
-msgstr ""
+msgstr "60 to 64 hours"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:45
 msgid "65時間以上"
-msgstr ""
+msgstr "More than 65 hours"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q223.rst:52
 msgid "桁あふれコード"

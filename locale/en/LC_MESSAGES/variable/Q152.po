@@ -82,7 +82,7 @@ msgstr "60 to 64 hours"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q152.rst:45
 msgid "65時間以上"
-msgstr "More than 64 hours"
+msgstr "More than 65 hours"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q152.rst:52
 msgid "桁あふれコード"
