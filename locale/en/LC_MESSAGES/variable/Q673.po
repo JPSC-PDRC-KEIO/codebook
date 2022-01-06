@@ -8,375 +8,383 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-28 14:50+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2021-10-04 14:26+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 3.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:5
+#: ../../variable/Q673.rst:6
 msgid "小中学校時の居住地（配偶者）"
 msgstr "Place of residence in elementary and junior-high school (spouse)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:9
+#: ../../variable/Q673.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:11
+#: ../../variable/Q673.rst:13
 msgid "Q673"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:15
+#: ../../variable/Q673.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:18
-msgid ""
-"ご主人は、小・中学生の時どこに住んでいましたか。小・中学生の９年間で一"
-"番長く住んでいた県をお答え下さい。"
+#: ../../variable/Q673.rst:21
+msgid "ご主人は、小・中学生の時どこに住んでいましたか。小・中学生の９年間で一番長く住んでいた県をお答え下さい。"
 msgstr ""
 "Where was your husband living during his elementary and junior high "
 "school years? Please circle the prefecture that represents the longest "
 "time period of residence during these years."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:24
+#: ../../variable/Q673.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:27
+#: ../../variable/Q673.rst:30
 msgid "北海道"
 msgstr "Hokkaido"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:29
+#: ../../variable/Q673.rst:31
 msgid "青森県"
 msgstr "Aomori"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:31
+#: ../../variable/Q673.rst:32
 msgid "岩手県"
 msgstr "Iwate"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:33
+#: ../../variable/Q673.rst:33
 msgid "宮城県"
 msgstr "Miyagi"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:35
+#: ../../variable/Q673.rst:34
 msgid "秋田県"
 msgstr "Akita"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:37
+#: ../../variable/Q673.rst:35
 msgid "山形県"
 msgstr "Yamagata"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:39
+#: ../../variable/Q673.rst:36
 msgid "福島県"
 msgstr "Fukushima"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:41
+#: ../../variable/Q673.rst:37
 msgid "茨城県"
 msgstr "Ibaraki"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:43
+#: ../../variable/Q673.rst:38
 msgid "栃木県"
 msgstr "Tochigi"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:45
+#: ../../variable/Q673.rst:39
 msgid "群馬県"
 msgstr "Gunma"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:47
+#: ../../variable/Q673.rst:40
 msgid "埼玉県"
 msgstr "Saitama"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:49
+#: ../../variable/Q673.rst:41
 msgid "千葉県"
 msgstr "Chiba"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:51
+#: ../../variable/Q673.rst:42
 msgid "東京都"
 msgstr "Tokyo"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:53
+#: ../../variable/Q673.rst:43
 msgid "神奈川県"
 msgstr "Kanagawa"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:55
+#: ../../variable/Q673.rst:44
 msgid "新潟県"
 msgstr "Niigata"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:57
+#: ../../variable/Q673.rst:45
 msgid "富山県"
 msgstr "Toyama"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:59
+#: ../../variable/Q673.rst:46
 msgid "石川県"
 msgstr "Ishikawa"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:61
+#: ../../variable/Q673.rst:47
 msgid "福井県"
 msgstr "Fukui"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:63
+#: ../../variable/Q673.rst:48
 msgid "山梨県"
 msgstr "Yamanashi"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:65
+#: ../../variable/Q673.rst:49
 msgid "長野県"
 msgstr "Nagano"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:67
+#: ../../variable/Q673.rst:50
 msgid "岐阜県"
 msgstr "Gifu"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:69
+#: ../../variable/Q673.rst:51
 msgid "静岡県"
 msgstr "Shizuoka"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:71
+#: ../../variable/Q673.rst:52
 msgid "愛知県"
 msgstr "Aichi"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:73
+#: ../../variable/Q673.rst:53
 msgid "三重県"
 msgstr "Mie"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:75
+#: ../../variable/Q673.rst:54
 msgid "滋賀県"
 msgstr "Shiga"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:77
+#: ../../variable/Q673.rst:55
 msgid "京都府"
 msgstr "Kyoto"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:79
+#: ../../variable/Q673.rst:56
 msgid "大阪府"
 msgstr "Osaka"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:81
+#: ../../variable/Q673.rst:57
 msgid "兵庫県"
 msgstr "Hyogo"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:83
+#: ../../variable/Q673.rst:58
 msgid "奈良県"
 msgstr "Nara"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:85
+#: ../../variable/Q673.rst:59
 msgid "和歌山県"
 msgstr "Wakayama"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:87
+#: ../../variable/Q673.rst:60
 msgid "鳥取県"
 msgstr "Tottori"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:89
+#: ../../variable/Q673.rst:61
 msgid "島根県"
 msgstr "Shimane"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:91
+#: ../../variable/Q673.rst:62
 msgid "岡山県"
 msgstr "Okayama"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:93
+#: ../../variable/Q673.rst:63
 msgid "広島県"
 msgstr "Hiroshima"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:95
+#: ../../variable/Q673.rst:64
 msgid "山口県"
 msgstr "Yamaguchi"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:97
+#: ../../variable/Q673.rst:65
 msgid "徳島県"
 msgstr "Tokushima"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:99
+#: ../../variable/Q673.rst:66
 msgid "香川県"
 msgstr "Kagawa"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:101
+#: ../../variable/Q673.rst:67
 msgid "愛媛県"
 msgstr "Ehime"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:103
+#: ../../variable/Q673.rst:68
 msgid "高知県"
 msgstr "Kochi"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:105
+#: ../../variable/Q673.rst:69
 msgid "福岡県"
 msgstr "Fukuoka"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:107
+#: ../../variable/Q673.rst:70
 msgid "佐賀県"
 msgstr "Saga"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:109
+#: ../../variable/Q673.rst:71
 msgid "長崎県"
 msgstr "Nagasaki"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:111
+#: ../../variable/Q673.rst:72
 msgid "熊本県"
 msgstr "Kumamoto"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:113
+#: ../../variable/Q673.rst:73
 msgid "大分県"
 msgstr "Oita"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:115
+#: ../../variable/Q673.rst:74
 msgid "宮崎県"
 msgstr "Miyazaki"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:117
+#: ../../variable/Q673.rst:75
 msgid "鹿児島県"
 msgstr "Kagoshima"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:119
+#: ../../variable/Q673.rst:76
 msgid "沖縄県"
 msgstr "Okinawa"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:121
+#: ../../variable/Q673.rst:77
 msgid "外国"
 msgstr "Foreign countries"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:128
+#: ../../variable/Q673.rst:85
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:134
+#: ../../variable/Q673.rst:92
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:140
+#: ../../variable/Q673.rst:99
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:146
+#: ../../variable/Q673.rst:106
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:152
+#: ../../variable/Q673.rst:114
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:157
+#: ../../variable/Q673.rst:119
 msgid "p1_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:159
+#: ../../variable/Q673.rst:121
 msgid "p2_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:161
+#: ../../variable/Q673.rst:123
 msgid "p3_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:163
+#: ../../variable/Q673.rst:125
 msgid "p4_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:165
+#: ../../variable/Q673.rst:127
 msgid "p5a_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:167
+#: ../../variable/Q673.rst:129
 msgid "p5b_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:169
+#: ../../variable/Q673.rst:131
 msgid "p6_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:171
+#: ../../variable/Q673.rst:133
 msgid "p7_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:173
+#: ../../variable/Q673.rst:135
 msgid "p8_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:175
+#: ../../variable/Q673.rst:137
 msgid "p9_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:177
+#: ../../variable/Q673.rst:139
 msgid "p10_5"
 msgstr "p10_5"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:179
+#: ../../variable/Q673.rst:141
 msgid "p11ab_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:181
+#: ../../variable/Q673.rst:143
 msgid "p11c_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:183
+#: ../../variable/Q673.rst:145
 msgid "p12_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:185
+#: ../../variable/Q673.rst:147
 msgid "p13_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:187
+#: ../../variable/Q673.rst:149
 msgid "p14_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:189
+#: ../../variable/Q673.rst:151
 msgid "p15_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:191
+#: ../../variable/Q673.rst:153
 msgid "p16abc_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:193
+#: ../../variable/Q673.rst:155
 msgid "p16d_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:195
+#: ../../variable/Q673.rst:157
 msgid "p17_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:197
+#: ../../variable/Q673.rst:159
 msgid "p18_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:199
+#: ../../variable/Q673.rst:161
 msgid "p19_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:201
+#: ../../variable/Q673.rst:163
 msgid "p20_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:203
+#: ../../variable/Q673.rst:165
 msgid "p21abcd_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:205
+#: ../../variable/Q673.rst:167
 msgid "p21e_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:207
+#: ../../variable/Q673.rst:169
 msgid "p22_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:209
+#: ../../variable/Q673.rst:171
 msgid "p23_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:211
+#: ../../variable/Q673.rst:173
 msgid "p24_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:213
+#: ../../variable/Q673.rst:175
 msgid "p25_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q673.rst:215
+#: ../../variable/Q673.rst:177
 msgid "p26_5"
 msgstr "p26_5"
+
+#: ../../variable/Q673.rst:179
+
+msgid "p27_5"
+msgstr "p26_5"
+
+#: ../../variable/Q673.rst:181
+
+msgid "p28_5"
+msgstr "p26_5"
+

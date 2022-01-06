@@ -8,44 +8,152 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-24 18:42+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2021-09-06 14:50+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 3.0\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/nensyutyosei.rst:3
+#: ../../seisaku/nensyutyosei.rst:3
 msgid "年収調整について"
 msgstr "Annual Income Adjustments"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/nensyutyosei.rst:6
+#: ../../seisaku/nensyutyosei.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/nensyutyosei.rst:7
+#: ../../seisaku/nensyutyosei.rst:7
 msgid "あなたは昨年、年収が一定額を超えないように調整しましたか。"
-msgstr "Did you adjust your annual income so as not to exceed a certain amount last year?"
+msgstr ""
+"Did you adjust your annual income so as not to exceed a certain amount "
+"last year?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/nensyutyosei.rst:1
+#: ../../seisaku/nensyutyosei.rst:1
 msgid "項目"
 msgstr "Items"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/nensyutyosei.rst:1
+#: ../../seisaku/nensyutyosei.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/nensyutyosei.rst:1
+#: ../../seisaku/nensyutyosei.rst:1
 msgid "調整した／しなかった"
 msgstr "Yes/No"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/nensyutyosei.rst:1
+#: ../../seisaku/nensyutyosei.rst:1
 msgid ":doc:`Q1211 </variable/Q1211>`"
+msgstr ":doc:`Q1211 </variable/Q1211>`"
+
+#: ../../seisaku/nensyutyosei.rst:1
+msgid "調整した理由"
+msgstr ""
+
+#: ../../seisaku/nensyutyosei.rst:1
+msgid "自分自身に所得税がかかるから"
+msgstr ""
+
+#: ../../seisaku/nensyutyosei.rst:1
+
+msgid ":doc:`Q1212A </variable/Q1212A>`"
+msgstr ":doc:`Q1211 </variable/Q1211>`"
+
+#: ../../seisaku/nensyutyosei.rst:1
+msgid "配偶者の配偶者控除や配偶者特別控除がなくなるから"
+msgstr ""
+
+#: ../../seisaku/nensyutyosei.rst:1
+
+msgid ":doc:`Q1212B </variable/Q1212B>`"
+msgstr ":doc:`Q1211 </variable/Q1211>`"
+
+#: ../../seisaku/nensyutyosei.rst:1
+msgid "配偶者の配偶者手当がもらえなくなるから"
+msgstr ""
+
+#: ../../seisaku/nensyutyosei.rst:1
+
+msgid ":doc:`Q1212C </variable/Q1212C>`"
+msgstr ":doc:`Q1211 </variable/Q1211>`"
+
+#: ../../seisaku/nensyutyosei.rst:1
+msgid "配偶者の健康保険の被保険者からはずれて自分で健康保険に加入しなければならないから"
+msgstr ""
+
+#: ../../seisaku/nensyutyosei.rst:1
+
+msgid ":doc:`Q1212D </variable/Q1212D>`"
+msgstr ":doc:`Q1211 </variable/Q1211>`"
+
+#: ../../seisaku/nensyutyosei.rst:1
+msgid "雇用保険に加入しなければならないから"
+msgstr ""
+
+#: ../../seisaku/nensyutyosei.rst:1
+
+msgid ":doc:`Q1212E </variable/Q1212E>`"
+msgstr ":doc:`Q1211 </variable/Q1211>`"
+
+#: ../../seisaku/nensyutyosei.rst:1
+msgid "配偶者の会社にあなたが働いていることを知られてしまうから"
+msgstr ""
+
+#: ../../seisaku/nensyutyosei.rst:1
+
+msgid ":doc:`Q1212F </variable/Q1212F>`"
+msgstr ":doc:`Q1211 </variable/Q1211>`"
+
+#: ../../seisaku/nensyutyosei.rst:1
+msgid "各種手当の支給条件の限度を意識しているから"
+msgstr ""
+
+#: ../../seisaku/nensyutyosei.rst:1
+
+msgid ":doc:`Q1212G </variable/Q1212G>`"
+msgstr ":doc:`Q1211 </variable/Q1211>`"
+
+#: ../../seisaku/nensyutyosei.rst:1
+msgid "各種サービス利用の収入段階を意識しているから"
+msgstr ""
+
+#: ../../seisaku/nensyutyosei.rst:1
+
+msgid ":doc:`Q1212H </variable/Q1212H>`"
+msgstr ":doc:`Q1211 </variable/Q1211>`"
+
+#: ../../seisaku/nensyutyosei.rst ../../seisaku/nensyutyosei.rst:1
+msgid "その他"
+msgstr ""
+
+#: ../../seisaku/nensyutyosei.rst:1
+
+msgid ":doc:`Q1212I </variable/Q1212I>`"
+msgstr ":doc:`Q1211 </variable/Q1211>`"
+
+#: ../../seisaku/nensyutyosei.rst:1
+
+msgid "調整しなかった理由"
+msgstr "Yes/No"
+
+#: ../../seisaku/nensyutyosei.rst
+msgid "調整するほど収入はなかった,"
+msgstr ""
+
+#: ../../seisaku/nensyutyosei.rst
+msgid "調整を考えることもあったが、関係なく働いた,"
+msgstr ""
+
+#: ../../seisaku/nensyutyosei.rst
+msgid "調整など考えずに働いた"
+msgstr ""
+
+#: ../../seisaku/nensyutyosei.rst:1
+
+msgid ":doc:`Q1213 </variable/Q1213>`"
 msgstr ":doc:`Q1211 </variable/Q1211>`"
 
 #~ msgid "変数名"
@@ -53,3 +161,4 @@ msgstr ":doc:`Q1211 </variable/Q1211>`"
 
 #~ msgid "変数"
 #~ msgstr ""
+

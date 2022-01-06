@@ -8,169 +8,177 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-31 17:58+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q80C.rst:5
+#: ../../variable/Q80C.rst:6
 msgid "育児休業の利用月数"
 msgstr ""
 
-#: ../../variable/Q80C.rst:9
+#: ../../variable/Q80C.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q80C.rst:11
+#: ../../variable/Q80C.rst:13
 msgid "Q80C"
 msgstr ""
 
-#: ../../variable/Q80C.rst:15
+#: ../../variable/Q80C.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q80C.rst:18
+#: ../../variable/Q80C.rst:21
 msgid "あなたは、育児休業制度をどのくらい利用しましたか。"
 msgstr ""
 
-#: ../../variable/Q80C.rst:24
+#: ../../variable/Q80C.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q80C.rst:26
+#: ../../variable/Q80C.rst:30
 msgid "＿ ＿ ヵ月"
 msgstr ""
 
-#: ../../variable/Q80C.rst:32
+#: ../../variable/Q80C.rst:37
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q80C.rst:33
+#: ../../variable/Q80C.rst:38
 msgid "98"
 msgstr ""
 
-#: ../../variable/Q80C.rst:38
+#: ../../variable/Q80C.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q80C.rst:44
+#: ../../variable/Q80C.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q80C.rst:45
+#: ../../variable/Q80C.rst:52
 msgid "99"
 msgstr ""
 
-#: ../../variable/Q80C.rst:50
+#: ../../variable/Q80C.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q80C.rst:56
+#: ../../variable/Q80C.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q80C.rst:61
+#: ../../variable/Q80C.rst:71
 msgid "p2_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:63
+#: ../../variable/Q80C.rst:73
 msgid "p3_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:65
+#: ../../variable/Q80C.rst:75
 msgid "p4_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:67
+#: ../../variable/Q80C.rst:77
 msgid "p5a_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:69
+#: ../../variable/Q80C.rst:79
 msgid "p6_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:71
+#: ../../variable/Q80C.rst:81
 msgid "p7_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:73
+#: ../../variable/Q80C.rst:83
 msgid "p8_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:75
+#: ../../variable/Q80C.rst:85
 msgid "p9_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:77
+#: ../../variable/Q80C.rst:87
 msgid "p10_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:79
+#: ../../variable/Q80C.rst:89
 msgid "p11ab_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:81
+#: ../../variable/Q80C.rst:91
 msgid "p12_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:83
+#: ../../variable/Q80C.rst:93
 msgid "p13_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:85
+#: ../../variable/Q80C.rst:95
 msgid "p14_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:87
+#: ../../variable/Q80C.rst:97
 msgid "p15_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:89
+#: ../../variable/Q80C.rst:99
 msgid "p16abc_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:91
+#: ../../variable/Q80C.rst:101
 msgid "p17_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:93
+#: ../../variable/Q80C.rst:103
 msgid "p18_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:95
+#: ../../variable/Q80C.rst:105
 msgid "p19_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:97
+#: ../../variable/Q80C.rst:107
 msgid "p20_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:99
+#: ../../variable/Q80C.rst:109
 msgid "p21abcd_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:101
+#: ../../variable/Q80C.rst:111
 msgid "p22_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:103
+#: ../../variable/Q80C.rst:113
 msgid "p23_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:105
+#: ../../variable/Q80C.rst:115
 msgid "p24_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:107
+#: ../../variable/Q80C.rst:117
 msgid "p25_1"
 msgstr ""
 
-#: ../../variable/Q80C.rst:109
+#: ../../variable/Q80C.rst:119
 msgid "p26_1"
+msgstr ""
+
+#: ../../variable/Q80C.rst:121
+msgid "p27_1"
+msgstr ""
+
+#: ../../variable/Q80C.rst:123
+msgid "p28_1"
 msgstr ""
 
 #~ msgid "変数名: Q80C"

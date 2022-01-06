@@ -8,64 +8,64 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q1231E.rst:5
+#: ../../variable/Q1231E.rst:6
 msgid "夫婦での話し合い：夫の働き方や収入について"
 msgstr ""
 
-#: ../../variable/Q1231E.rst:9
+#: ../../variable/Q1231E.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q1231E.rst:11
+#: ../../variable/Q1231E.rst:13
 msgid "Q1231E"
 msgstr ""
 
-#: ../../variable/Q1231E.rst:16
+#: ../../variable/Q1231E.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q1231E.rst:18
+#: ../../variable/Q1231E.rst:21
 msgid "以下のようなことについて、ご夫婦でどのように話し合いをされて、決められていますか。（それぞれ〇は１つずつ）"
 msgstr ""
 
-#: ../../variable/Q1231E.rst:21
+#: ../../variable/Q1231E.rst:24
 msgid "（5）夫の働き方や収入について"
 msgstr ""
 
-#: ../../variable/Q1231E.rst:25
+#: ../../variable/Q1231E.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q1231E.rst:27
+#: ../../variable/Q1231E.rst:33
 msgid "特に相談せず、 夫が決めた"
 msgstr ""
 
-#: ../../variable/Q1231E.rst:29
+#: ../../variable/Q1231E.rst:34
 msgid "特に相談せず、私が決めた"
 msgstr ""
 
-#: ../../variable/Q1231E.rst:31
+#: ../../variable/Q1231E.rst:35
 msgid "特に相談せず、なんとなく決まっている"
 msgstr ""
 
-#: ../../variable/Q1231E.rst:33
+#: ../../variable/Q1231E.rst:36
 msgid "2人で相談して、合意して決めた"
 msgstr ""
 
-#: ../../variable/Q1231E.rst:35
+#: ../../variable/Q1231E.rst:37
 msgid "2人で相談して、ほぼ夫の意見が通った"
 msgstr ""
 
-#: ../../variable/Q1231E.rst:37
+#: ../../variable/Q1231E.rst:38
 msgid "2人で相談して、ほぼ私の意見が通った"
 msgstr ""
 
@@ -73,135 +73,118 @@ msgstr ""
 msgid "2人で相談して妥協の結果"
 msgstr ""
 
-#: ../../variable/Q1231E.rst:41
+#: ../../variable/Q1231E.rst:40
 msgid "特に相談することはない"
 msgstr ""
 
-#: ../../variable/Q1231E.rst:43
+#: ../../variable/Q1231E.rst:41
 msgid "その他"
 msgstr ""
 
-#: ../../variable/Q1231E.rst:47
+#: ../../variable/Q1231E.rst:49
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q1231E.rst:52
+#: ../../variable/Q1231E.rst:56
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q1231E.rst:57
+#: ../../variable/Q1231E.rst:63
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q1231E.rst:58
+#: ../../variable/Q1231E.rst:64
 msgid "10"
 msgstr ""
 
-#: ../../variable/Q1231E.rst:62
+#: ../../variable/Q1231E.rst:70
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q1231E.rst:66
+#: ../../variable/Q1231E.rst:78
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q1231E.rst:71
-msgid "p2_1"
-msgstr ""
-
-#: ../../variable/Q1231E.rst:73
-msgid "p5a_1"
-msgstr ""
-
-#: ../../variable/Q1231E.rst:75
-msgid "p5b_1"
-msgstr ""
-
-#: ../../variable/Q1231E.rst:77
-msgid "p6_1"
-msgstr ""
-
-#: ../../variable/Q1231E.rst:79
-msgid "p7_1"
-msgstr ""
-
-#: ../../variable/Q1231E.rst:81
-msgid "p8_1"
-msgstr ""
-
 #: ../../variable/Q1231E.rst:83
-msgid "p9_1"
+msgid "p27_3"
 msgstr ""
 
 #: ../../variable/Q1231E.rst:85
-msgid "p10_1"
+msgid "p28_3"
 msgstr ""
 
-#: ../../variable/Q1231E.rst:87
-msgid "p12_1"
-msgstr ""
+#~ msgid "p2_1"
+#~ msgstr ""
 
-#: ../../variable/Q1231E.rst:89
-msgid "p13_1"
-msgstr ""
+#~ msgid "p5a_1"
+#~ msgstr ""
 
-#: ../../variable/Q1231E.rst:91
-msgid "p14_1"
-msgstr ""
+#~ msgid "p5b_1"
+#~ msgstr ""
 
-#: ../../variable/Q1231E.rst:93
-msgid "p15_1"
-msgstr ""
+#~ msgid "p6_1"
+#~ msgstr ""
 
-#: ../../variable/Q1231E.rst:95
-msgid "p16abc_1"
-msgstr ""
+#~ msgid "p7_1"
+#~ msgstr ""
 
-#: ../../variable/Q1231E.rst:97
-msgid "p16d_1"
-msgstr ""
+#~ msgid "p8_1"
+#~ msgstr ""
 
-#: ../../variable/Q1231E.rst:99
-msgid "p17_1"
-msgstr ""
+#~ msgid "p9_1"
+#~ msgstr ""
 
-#: ../../variable/Q1231E.rst:101
-msgid "p18_1"
-msgstr ""
+#~ msgid "p10_1"
+#~ msgstr ""
 
-#: ../../variable/Q1231E.rst:103
-msgid "p19_1"
-msgstr ""
+#~ msgid "p12_1"
+#~ msgstr ""
 
-#: ../../variable/Q1231E.rst:105
-msgid "p20_1"
-msgstr ""
+#~ msgid "p13_1"
+#~ msgstr ""
 
-#: ../../variable/Q1231E.rst:107
-msgid "p21abcd_1"
-msgstr ""
+#~ msgid "p14_1"
+#~ msgstr ""
 
-#: ../../variable/Q1231E.rst:109
-msgid "p21e_1"
-msgstr ""
+#~ msgid "p15_1"
+#~ msgstr ""
 
-#: ../../variable/Q1231E.rst:111
-msgid "p22_1"
-msgstr ""
+#~ msgid "p16abc_1"
+#~ msgstr ""
 
-#: ../../variable/Q1231E.rst:113
-msgid "p23_1"
-msgstr ""
+#~ msgid "p16d_1"
+#~ msgstr ""
 
-#: ../../variable/Q1231E.rst:115
-msgid "p24_1"
-msgstr ""
+#~ msgid "p17_1"
+#~ msgstr ""
 
-#: ../../variable/Q1231E.rst:117
-msgid "p25_1"
-msgstr ""
+#~ msgid "p18_1"
+#~ msgstr ""
 
-#: ../../variable/Q1231E.rst:119
-msgid "p26_1"
-msgstr ""
+#~ msgid "p19_1"
+#~ msgstr ""
+
+#~ msgid "p20_1"
+#~ msgstr ""
+
+#~ msgid "p21abcd_1"
+#~ msgstr ""
+
+#~ msgid "p21e_1"
+#~ msgstr ""
+
+#~ msgid "p22_1"
+#~ msgstr ""
+
+#~ msgid "p23_1"
+#~ msgstr ""
+
+#~ msgid "p24_1"
+#~ msgstr ""
+
+#~ msgid "p25_1"
+#~ msgstr ""
+
+#~ msgid "p26_1"
+#~ msgstr ""
 

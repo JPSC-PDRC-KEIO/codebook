@@ -8,105 +8,113 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:5
+#: ../../variable/Q444AG.rst:6
 msgid "耐久消費財（保有））：携帯電話・スマートフォン"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:9
+#: ../../variable/Q444AG.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:11
+#: ../../variable/Q444AG.rst:13
 msgid "Q444AG"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:15
+#: ../../variable/Q444AG.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:18
+#: ../../variable/Q444AG.rst:21
 msgid "現在あなた方ご夫婦は次のものをいくつ保有していますか。ご家族全員分の台数を記入してください"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:21
+#: ../../variable/Q444AG.rst:24
 msgid "携帯電話・スマートフォン"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:27
+#: ../../variable/Q444AG.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:29
+#: ../../variable/Q444AG.rst:33
 msgid "＿＿台"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:35
+#: ../../variable/Q444AG.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:36
+#: ../../variable/Q444AG.rst:41
 msgid "8"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:41
+#: ../../variable/Q444AG.rst:47
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:47
+#: ../../variable/Q444AG.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:48
+#: ../../variable/Q444AG.rst:55
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:53
+#: ../../variable/Q444AG.rst:61
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:59
+#: ../../variable/Q444AG.rst:69
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:64
+#: ../../variable/Q444AG.rst:74
 msgid "p19_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:66
+#: ../../variable/Q444AG.rst:76
 msgid "p20_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:68
+#: ../../variable/Q444AG.rst:78
 msgid "p21abcd_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:70
+#: ../../variable/Q444AG.rst:80
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:72
+#: ../../variable/Q444AG.rst:82
 msgid "p23_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:74
+#: ../../variable/Q444AG.rst:84
 msgid "p24_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:76
+#: ../../variable/Q444AG.rst:86
 msgid "p25_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AG.rst:78
+#: ../../variable/Q444AG.rst:88
 msgid "p26_3"
+msgstr ""
+
+#: ../../variable/Q444AG.rst:90
+msgid "p27_3"
+msgstr ""
+
+#: ../../variable/Q444AG.rst:92
+msgid "p28_3"
 msgstr ""
 
 #~ msgid "変数名: Q444AG"

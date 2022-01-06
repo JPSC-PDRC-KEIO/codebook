@@ -8,283 +8,261 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-05 13:07+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2021-05-24 13:56+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 2.4.3\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:5
+#: ../../variable/Q51.rst:6
 msgid "家族10：続柄"
 msgstr "Family10: Relationship"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:9
+#: ../../variable/Q51.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:11
+#: ../../variable/Q51.rst:13
 msgid "Q51"
 msgstr "Q51"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:15
+#: ../../variable/Q51.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:18
+#: ../../variable/Q51.rst:21
 msgid "あなたとの続き柄"
 msgstr "Relationship to you"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:21
+#: ../../variable/Q51.rst:24
 msgid "家族10"
 msgstr "Family10"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:27
+#: ../../variable/Q51.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:30
-msgid "＜有配偶＞"
-msgstr "**Married**"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:32
-msgid "本人（妻）"
-msgstr "Me (respondent)"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:34
-msgid "ご主人"
-msgstr "Husband"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:36
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:71
-msgid "子ども(第１子)"
-msgstr "First child"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:38
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:73
-msgid "子ども(第２子)"
-msgstr "Second child"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:40
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:75
-msgid "子ども(第３子)"
-msgstr "Third child"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:42
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:77
-msgid "子ども(第4子)"
-msgstr "Fourth child"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:44
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:79
-msgid "子ども(第5子以下)"
-msgstr "Fifth or later child"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:46
-msgid "妻の父母"
-msgstr "My parent"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:48
-msgid "夫の父母"
-msgstr "My husband's parent"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:50
-msgid "妻の祖父母"
-msgstr "My grandparent"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:52
-msgid "夫の祖父母"
-msgstr "My grand parent"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:54
-msgid "妻の兄弟姉妹"
-msgstr "My brother or sister"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:56
-msgid "夫の兄弟姉妹"
-msgstr "My husband's brother or sister"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:58
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:87
-msgid "子どもの配偶者"
-msgstr "My child’s spouse"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:60
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:89
-msgid "孫"
-msgstr "My grand child"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:62
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:91
-msgid "その他の親族"
-msgstr "Other relatives"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:64
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:93
-msgid "その他"
-msgstr "Other"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:67
-msgid "＜無配偶＞"
-msgstr "**Single**"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:69
-msgid "本人"
-msgstr "Me"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:81
-msgid "自分の父母"
-msgstr "My parent"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:83
-msgid "自分の祖父母"
-msgstr "My grandparent"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:85
-msgid "自分の兄弟姉妹"
-msgstr "My brother or sister"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:98
+#: ../../variable/Q51.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:104
+#: ../../variable/Q51.rst:47
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:110
+#: ../../variable/Q51.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:116
+#: ../../variable/Q51.rst:61
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:122
+#: ../../variable/Q51.rst:69
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:127
+#: ../../variable/Q51.rst:74
 msgid "p1_1"
 msgstr "p1_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:129
+#: ../../variable/Q51.rst:76
 msgid "p2_1"
 msgstr "p2_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:131
+#: ../../variable/Q51.rst:78
 msgid "p3_1"
 msgstr "p3_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:133
+#: ../../variable/Q51.rst:80
 msgid "p4_1"
 msgstr "p4_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:135
+#: ../../variable/Q51.rst:82
 msgid "p5a_1"
 msgstr "p5a_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:137
+#: ../../variable/Q51.rst:84
 msgid "p5b_1"
 msgstr "p5b_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:139
+#: ../../variable/Q51.rst:86
 msgid "p6_1"
 msgstr "p6_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:141
+#: ../../variable/Q51.rst:88
 msgid "p7_1"
 msgstr "p7_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:143
+#: ../../variable/Q51.rst:90
 msgid "p8_1"
 msgstr "p8_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:145
+#: ../../variable/Q51.rst:92
 msgid "p9_1"
 msgstr "p9_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:147
+#: ../../variable/Q51.rst:94
 msgid "p10_1"
 msgstr "p10_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:149
+#: ../../variable/Q51.rst:96
 msgid "p11ab_1"
 msgstr "p11ab_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:151
+#: ../../variable/Q51.rst:98
 msgid "p11c_1"
 msgstr "p11c_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:153
+#: ../../variable/Q51.rst:100
 msgid "p12_1"
 msgstr "p12_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:155
+#: ../../variable/Q51.rst:102
 msgid "p13_1"
 msgstr "p13_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:157
+#: ../../variable/Q51.rst:104
 msgid "p14_1"
 msgstr "p14_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:159
+#: ../../variable/Q51.rst:106
 msgid "p15_1"
 msgstr "p15_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:161
+#: ../../variable/Q51.rst:108
 msgid "p16abc_1"
 msgstr "p16abc_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:163
+#: ../../variable/Q51.rst:110
 msgid "p16d_1"
 msgstr "p16d_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:165
+#: ../../variable/Q51.rst:112
 msgid "p17_1"
 msgstr "p17_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:167
+#: ../../variable/Q51.rst:114
 msgid "p18_1"
 msgstr "p18_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:169
+#: ../../variable/Q51.rst:116
 msgid "p19_1"
 msgstr "p19_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:171
+#: ../../variable/Q51.rst:118
 msgid "p20_1"
 msgstr "p20_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:173
+#: ../../variable/Q51.rst:120
 msgid "p21abcd_1"
 msgstr "p21abcd_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:175
+#: ../../variable/Q51.rst:122
 msgid "p21e_1"
 msgstr "p21e_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:177
+#: ../../variable/Q51.rst:124
 msgid "p22_1"
 msgstr "p22_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:179
+#: ../../variable/Q51.rst:126
 msgid "p23_1"
 msgstr "p23_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:181
+#: ../../variable/Q51.rst:128
 msgid "p24_1"
 msgstr "p24_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:183
+#: ../../variable/Q51.rst:130
 msgid "p25_1"
 msgstr "p25_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q51.rst:185
+#: ../../variable/Q51.rst:132
 msgid "p26_1"
 msgstr "p26_1"
+
+#: ../../variable/Q51.rst:134
+
+msgid "p27_1"
+msgstr "p7_1"
+
+#: ../../variable/Q51.rst:136
+
+msgid "p28_1"
+msgstr "p8_1"
+
+#~ msgid "＜有配偶＞"
+#~ msgstr "**Married**"
+
+#~ msgid "本人（妻）"
+#~ msgstr "Me (respondent)"
+
+#~ msgid "ご主人"
+#~ msgstr "Husband"
+
+#~ msgid "子ども(第１子)"
+#~ msgstr "First child"
+
+#~ msgid "子ども(第２子)"
+#~ msgstr "Second child"
+
+#~ msgid "子ども(第３子)"
+#~ msgstr "Third child"
+
+#~ msgid "子ども(第4子)"
+#~ msgstr "Fourth child"
+
+#~ msgid "子ども(第5子以下)"
+#~ msgstr "Fifth or later child"
+
+#~ msgid "妻の父母"
+#~ msgstr "My parent"
+
+#~ msgid "夫の父母"
+#~ msgstr "My husband's parent"
+
+#~ msgid "妻の祖父母"
+#~ msgstr "My grandparent"
+
+#~ msgid "夫の祖父母"
+#~ msgstr "My grand parent"
+
+#~ msgid "妻の兄弟姉妹"
+#~ msgstr "My brother or sister"
+
+#~ msgid "夫の兄弟姉妹"
+#~ msgstr "My husband's brother or sister"
+
+#~ msgid "子どもの配偶者"
+#~ msgstr "My child’s spouse"
+
+#~ msgid "孫"
+#~ msgstr "My grand child"
+
+#~ msgid "その他の親族"
+#~ msgstr "Other relatives"
+
+#~ msgid "その他"
+#~ msgstr "Other"
+
+#~ msgid "＜無配偶＞"
+#~ msgstr "**Single**"
+
+#~ msgid "本人"
+#~ msgstr "Me"
+
+#~ msgid "自分の父母"
+#~ msgstr "My parent"
+
+#~ msgid "自分の祖父母"
+#~ msgstr "My grandparent"
+
+#~ msgid "自分の兄弟姉妹"
+#~ msgstr "My brother or sister"
+

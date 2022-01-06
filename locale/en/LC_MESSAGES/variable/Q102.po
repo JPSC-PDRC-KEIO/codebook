@@ -8,212 +8,224 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2021-07-12 15:08+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 3.0\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:5
+#: ../../variable/Q102.rst:6
 msgid "主たる介護者（有配偶）"
 msgstr "Primary long-term caregiver (married)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:9
+#: ../../variable/Q102.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:11
+#: ../../variable/Q102.rst:13
 msgid "Q102"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:15
+#: ../../variable/Q102.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:18
+#: ../../variable/Q102.rst:21
 msgid "主な介護者はどなたでしたか。（〇は１つだけ）"
 msgstr "Who was a primary long-term caregiver? (circle only one)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:24
+#: ../../variable/Q102.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:27
+#: ../../variable/Q102.rst:30
 msgid "あなた自身"
 msgstr "You"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:29
+#: ../../variable/Q102.rst:31
 msgid "あなたのきょうだい（その配偶者）"
 msgstr "Your sibling (or their spouse)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:31
+#: ../../variable/Q102.rst:32
 msgid "あなたの親"
 msgstr "Your parent"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:33
+#: ../../variable/Q102.rst:33
 msgid "あなたの夫"
 msgstr "Your husband"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:35
+#: ../../variable/Q102.rst:34
 msgid "あなたの夫のきょうだい（その配偶者）"
 msgstr "Your husband's sibling ( his/her spouse)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:37
+#: ../../variable/Q102.rst:35
 msgid "あなたの夫の親"
 msgstr "Your husband's parent"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:39
+#: ../../variable/Q102.rst:36
 msgid "その他の親戚"
 msgstr "Other relative"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:41
+#: ../../variable/Q102.rst:37
 msgid "介護保険利用のホームヘルパーなど"
 msgstr "Home helpers using long-term care insurance, etc."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:43
+#: ../../variable/Q102.rst:38
 msgid "介護施設の職員"
 msgstr "Long-term care facility staff"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:45
+#: ../../variable/Q102.rst:39
 msgid "介護保険利用以外の家政婦や付添婦"
-msgstr "Housekeepers and attendants other than those using long-term care insurance"
+msgstr ""
+"Housekeepers and attendants other than those using long-term care "
+"insurance"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:47
+#: ../../variable/Q102.rst:40
 msgid "その他"
 msgstr "Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:54
+#: ../../variable/Q102.rst:48
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:60
+#: ../../variable/Q102.rst:55
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:66
+#: ../../variable/Q102.rst:62
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:67
+#: ../../variable/Q102.rst:63
 msgid "12"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:72
+#: ../../variable/Q102.rst:69
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:78
+#: ../../variable/Q102.rst:77
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:83
+#: ../../variable/Q102.rst:82
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:85
+#: ../../variable/Q102.rst:84
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:87
+#: ../../variable/Q102.rst:86
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:89
+#: ../../variable/Q102.rst:88
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:91
+#: ../../variable/Q102.rst:90
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:93
+#: ../../variable/Q102.rst:92
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:95
+#: ../../variable/Q102.rst:94
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:97
+#: ../../variable/Q102.rst:96
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:99
+#: ../../variable/Q102.rst:98
 msgid "p10_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:101
+#: ../../variable/Q102.rst:100
 msgid "p11ab_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:103
+#: ../../variable/Q102.rst:102
 msgid "p12_1"
 msgstr "p12_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:105
+#: ../../variable/Q102.rst:104
 msgid "p13_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:107
+#: ../../variable/Q102.rst:106
 msgid "p14_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:109
+#: ../../variable/Q102.rst:108
 msgid "p15_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:111
+#: ../../variable/Q102.rst:110
 msgid "p16abc_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:113
+#: ../../variable/Q102.rst:112
 msgid "p17_1"
 msgstr "p17_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:115
+#: ../../variable/Q102.rst:114
 msgid "p18_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:117
+#: ../../variable/Q102.rst:116
 msgid "p19_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:119
+#: ../../variable/Q102.rst:118
 msgid "p20_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:121
+#: ../../variable/Q102.rst:120
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:123
+#: ../../variable/Q102.rst:122
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:125
+#: ../../variable/Q102.rst:124
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:127
+#: ../../variable/Q102.rst:126
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:129
+#: ../../variable/Q102.rst:128
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q102.rst:131
+#: ../../variable/Q102.rst:130
 msgid "p26_1"
 msgstr ""
+
+#: ../../variable/Q102.rst:132
+
+msgid "p27_1"
+msgstr "p17_1"
+
+#: ../../variable/Q102.rst:134
+
+msgid "p28_1"
+msgstr "p12_1"
 
 #~ msgid "変数名: Q102"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
+

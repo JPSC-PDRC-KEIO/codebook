@@ -8,189 +8,197 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:5
+#: ../../variable/Q926.rst:6
 msgid "家庭の収入への満足度"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:9
+#: ../../variable/Q926.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:11
+#: ../../variable/Q926.rst:13
 msgid "Q926"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:15
+#: ../../variable/Q926.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:18
+#: ../../variable/Q926.rst:21
 msgid "ご家庭の現在の収入に満足していますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:24
+#: ../../variable/Q926.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:27
+#: ../../variable/Q926.rst:30
 msgid "とても満足"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:29
+#: ../../variable/Q926.rst:31
 msgid "ほぼ満足"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:31
+#: ../../variable/Q926.rst:32
 msgid "やや不満"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:33
+#: ../../variable/Q926.rst:33
 msgid "とても不満"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:40
+#: ../../variable/Q926.rst:41
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:46
+#: ../../variable/Q926.rst:48
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:52
+#: ../../variable/Q926.rst:55
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:53
+#: ../../variable/Q926.rst:56
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:58
+#: ../../variable/Q926.rst:62
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:64
+#: ../../variable/Q926.rst:70
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:69
+#: ../../variable/Q926.rst:75
 msgid "p3_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:71
+#: ../../variable/Q926.rst:77
 msgid "p4_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:73
+#: ../../variable/Q926.rst:79
 msgid "p5a_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:75
+#: ../../variable/Q926.rst:81
 msgid "p5b_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:77
+#: ../../variable/Q926.rst:83
 msgid "p6_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:79
+#: ../../variable/Q926.rst:85
 msgid "p7_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:81
+#: ../../variable/Q926.rst:87
 msgid "p8_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:83
+#: ../../variable/Q926.rst:89
 msgid "p9_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:85
+#: ../../variable/Q926.rst:91
 msgid "p10_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:87
+#: ../../variable/Q926.rst:93
 msgid "p11ab_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:89
+#: ../../variable/Q926.rst:95
 msgid "p11c_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:91
+#: ../../variable/Q926.rst:97
 msgid "p12_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:93
+#: ../../variable/Q926.rst:99
 msgid "p13_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:95
+#: ../../variable/Q926.rst:101
 msgid "p14_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:97
+#: ../../variable/Q926.rst:103
 msgid "p15_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:99
+#: ../../variable/Q926.rst:105
 msgid "p16abc_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:101
+#: ../../variable/Q926.rst:107
 msgid "p16d_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:103
+#: ../../variable/Q926.rst:109
 msgid "p17_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:105
+#: ../../variable/Q926.rst:111
 msgid "p18_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:107
+#: ../../variable/Q926.rst:113
 msgid "p19_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:109
+#: ../../variable/Q926.rst:115
 msgid "p20_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:111
+#: ../../variable/Q926.rst:117
 msgid "p21abcd_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:113
+#: ../../variable/Q926.rst:119
 msgid "p21e_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:115
+#: ../../variable/Q926.rst:121
 msgid "p22_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:117
+#: ../../variable/Q926.rst:123
 msgid "p23_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:119
+#: ../../variable/Q926.rst:125
 msgid "p24_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:121
+#: ../../variable/Q926.rst:127
 msgid "p25_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q926.rst:123
+#: ../../variable/Q926.rst:129
 msgid "p26_4"
+msgstr ""
+
+#: ../../variable/Q926.rst:131
+msgid "p27_4"
+msgstr ""
+
+#: ../../variable/Q926.rst:133
+msgid "p28_4"
 msgstr ""
 
 #~ msgid "変数名: Q926"

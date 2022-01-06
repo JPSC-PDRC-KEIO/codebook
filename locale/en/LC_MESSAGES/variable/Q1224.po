@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2020-05-11 17:26+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -17,66 +17,74 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q1224.rst:5
+#: ../../variable/Q1224.rst:6
 msgid "現在介護をしているか"
 msgstr "Are you giving care?"
 
-#: ../../variable/Q1224.rst:9
+#: ../../variable/Q1224.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q1224.rst:11
+#: ../../variable/Q1224.rst:13
 msgid "Q1224"
 msgstr ""
 
-#: ../../variable/Q1224.rst:16
+#: ../../variable/Q1224.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q1224.rst:18
+#: ../../variable/Q1224.rst:21
 msgid "あなたは、現在、身近な人の介護をしていますか。"
 msgstr "Have you provided nursing care to someone closely related to you?"
 
-#: ../../variable/Q1224.rst:22
+#: ../../variable/Q1224.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q1224.rst:24
+#: ../../variable/Q1224.rst:30
 msgid "現在している"
 msgstr "Currently providing "
 
-#: ../../variable/Q1224.rst:25
+#: ../../variable/Q1224.rst:31
 msgid "現在していない"
 msgstr "Not currently providing"
 
-#: ../../variable/Q1224.rst:29
+#: ../../variable/Q1224.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q1224.rst:34
+#: ../../variable/Q1224.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q1224.rst:39
+#: ../../variable/Q1224.rst:53
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q1224.rst:40
+#: ../../variable/Q1224.rst:54
 msgid "3"
 msgstr ""
 
-#: ../../variable/Q1224.rst:44
+#: ../../variable/Q1224.rst:60
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q1224.rst:47
+#: ../../variable/Q1224.rst:68
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q1224.rst:51
+#: ../../variable/Q1224.rst:73
 msgid "p26_4"
+msgstr ""
+
+#: ../../variable/Q1224.rst:75
+msgid "p27_4"
+msgstr ""
+
+#: ../../variable/Q1224.rst:77
+msgid "p28_4"
 msgstr ""
 
 #~ msgid "998"

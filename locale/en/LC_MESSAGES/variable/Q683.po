@@ -8,194 +8,204 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2021-10-04 14:07+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 3.0\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:5
+#: ../../variable/Q683.rst:6
 msgid "大学区分（配偶者）"
 msgstr "Category of collage or university (spouse)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:9
+#: ../../variable/Q683.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:11
+#: ../../variable/Q683.rst:13
 msgid "Q683"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:15
+#: ../../variable/Q683.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:18
+#: ../../variable/Q683.rst:21
 msgid "その大学は私立・公立・国立のうちどれですか。"
-msgstr "Was the collage or university private, public (municipal or prefectural), or national?"
+msgstr ""
+"Was the collage or university private, public (municipal or prefectural),"
+" or national?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:24
+#: ../../variable/Q683.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:27
+#: ../../variable/Q683.rst:30
 msgid "私立"
 msgstr "Private"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:29
+#: ../../variable/Q683.rst:31
 msgid "公立"
 msgstr "Public (municipal or prefectural)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:31
+#: ../../variable/Q683.rst:32
 msgid "国立"
 msgstr "National"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:38
+#: ../../variable/Q683.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:44
+#: ../../variable/Q683.rst:47
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:50
+#: ../../variable/Q683.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:51
+#: ../../variable/Q683.rst:55
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:56
+#: ../../variable/Q683.rst:61
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:62
+#: ../../variable/Q683.rst:69
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:67
+#: ../../variable/Q683.rst:74
 msgid "p1_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:69
+#: ../../variable/Q683.rst:76
 msgid "p2_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:71
+#: ../../variable/Q683.rst:78
 msgid "p3_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:73
+#: ../../variable/Q683.rst:80
 msgid "p4_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:75
+#: ../../variable/Q683.rst:82
 msgid "p5a_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:77
+#: ../../variable/Q683.rst:84
 msgid "p5b_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:79
+#: ../../variable/Q683.rst:86
 msgid "p6_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:81
+#: ../../variable/Q683.rst:88
 msgid "p7_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:83
+#: ../../variable/Q683.rst:90
 msgid "p8_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:85
+#: ../../variable/Q683.rst:92
 msgid "p9_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:87
+#: ../../variable/Q683.rst:94
 msgid "p10_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:89
+#: ../../variable/Q683.rst:96
 msgid "p11ab_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:91
+#: ../../variable/Q683.rst:98
 msgid "p11c_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:93
+#: ../../variable/Q683.rst:100
 msgid "p12_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:95
+#: ../../variable/Q683.rst:102
 msgid "p13_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:97
+#: ../../variable/Q683.rst:104
 msgid "p14_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:99
+#: ../../variable/Q683.rst:106
 msgid "p15_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:101
+#: ../../variable/Q683.rst:108
 msgid "p16abc_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:103
+#: ../../variable/Q683.rst:110
 msgid "p16d_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:105
+#: ../../variable/Q683.rst:112
 msgid "p17_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:107
+#: ../../variable/Q683.rst:114
 msgid "p18_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:109
+#: ../../variable/Q683.rst:116
 msgid "p19_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:111
+#: ../../variable/Q683.rst:118
 msgid "p20_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:113
+#: ../../variable/Q683.rst:120
 msgid "p21abcd_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:115
+#: ../../variable/Q683.rst:122
 msgid "p21e_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:117
+#: ../../variable/Q683.rst:124
 msgid "p22_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:119
+#: ../../variable/Q683.rst:126
 msgid "p23_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:121
+#: ../../variable/Q683.rst:128
 msgid "p24_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:123
+#: ../../variable/Q683.rst:130
 msgid "p25_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q683.rst:125
+#: ../../variable/Q683.rst:132
 msgid "p26_5"
 msgstr ""
+
+#: ../../variable/Q683.rst:134
+msgid "p27_5"
+msgstr ""
+
+#: ../../variable/Q683.rst:136
+msgid "p28_5"
+msgstr ""
+

@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1253DM.rst:6
+msgid "生活時間（配偶者）：家事・育児／分（平日・在宅勤務の日）"
+msgstr ""
+
+#: ../../variable/Q1253DM.rst:11
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1253DM.rst:13
+msgid "Q1253DM"
+msgstr ""
+
+#: ../../variable/Q1253DM.rst:18
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1253DM.rst:21
+msgid "ご主人の生活時間についておたずねします。平日と在宅勤務の平日、休日の生活時間をお答え下さい。在宅勤務がない場合（無職も含む）は、通常の平日と休日の欄だけお答え下さい。"
+msgstr ""
+
+#: ../../variable/Q1253DM.rst:24
+msgid "平日・在宅勤務の日：家事・育児"
+msgstr ""
+
+#: ../../variable/Q1253DM.rst:33
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1253DM.rst:35
+msgid "＿ 0 分"
+msgstr ""
+
+#: ../../variable/Q1253DM.rst:42
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1253DM.rst:49
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code’"
+
+#: ../../variable/Q1253DM.rst:56
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1253DM.rst:57
+msgid "9"
+msgstr ""
+
+#: ../../variable/Q1253DM.rst:63
+msgid "備考"
+msgstr "Remarks"
+
+#: ../../variable/Q1253DM.rst:71
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1253DM.rst:76
+msgid "p28_3"
+msgstr ""
+

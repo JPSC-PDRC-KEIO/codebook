@@ -1,195 +1,205 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-30 14:10+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2020-05-31 08:35+0900\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3.1\n"
 "Last-Translator: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q567F.rst:5
+#: ../../variable/Q567F.rst:6
 msgid "結婚したくない理由：結婚にこだわらない"
 msgstr "Reason not to get married: Keep relationships without being married"
 
-#: ../../variable/Q567F.rst:9
+#: ../../variable/Q567F.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q567F.rst:11
+#: ../../variable/Q567F.rst:13
 msgid "Q567F"
 msgstr ""
 
-#: ../../variable/Q567F.rst:15
+#: ../../variable/Q567F.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q567F.rst:18
+#: ../../variable/Q567F.rst:21
 msgid "（結婚したくない）理由は何ですか。（〇は３つまで）"
 msgstr "Why do you not get married?"
 
-#: ../../variable/Q567F.rst:21
+#: ../../variable/Q567F.rst:24
 msgid "結婚という形にこだわらずに異性とつきあう方がいいから"
 msgstr "It‘s better to have relationships with men without being married"
 
-#: ../../variable/Q567F.rst:27
+#: ../../variable/Q567F.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q567F.rst:30
+#: ../../variable/Q567F.rst:33
 msgid "はい"
 msgstr "Yes"
 
-#: ../../variable/Q567F.rst:32
+#: ../../variable/Q567F.rst:34
 msgid "いいえ"
 msgstr "No"
 
-#: ../../variable/Q567F.rst:39
+#: ../../variable/Q567F.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q567F.rst:45
+#: ../../variable/Q567F.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q567F.rst:51
+#: ../../variable/Q567F.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q567F.rst:52
+#: ../../variable/Q567F.rst:57
 msgid "3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:57
+#: ../../variable/Q567F.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q567F.rst:63
+#: ../../variable/Q567F.rst:71
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q567F.rst:68
+#: ../../variable/Q567F.rst:76
 msgid "p2_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:70
+#: ../../variable/Q567F.rst:78
 msgid "p3_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:72
+#: ../../variable/Q567F.rst:80
 msgid "p4_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:74
+#: ../../variable/Q567F.rst:82
 msgid "p5a_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:76
+#: ../../variable/Q567F.rst:84
 msgid "p5b_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:78
+#: ../../variable/Q567F.rst:86
 msgid "p6_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:80
+#: ../../variable/Q567F.rst:88
 msgid "p7_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:82
+#: ../../variable/Q567F.rst:90
 msgid "p8_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:84
+#: ../../variable/Q567F.rst:92
 msgid "p9_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:86
+#: ../../variable/Q567F.rst:94
 msgid "p10_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:88
+#: ../../variable/Q567F.rst:96
 msgid "p11ab_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:90
+#: ../../variable/Q567F.rst:98
 msgid "p11c_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:92
+#: ../../variable/Q567F.rst:100
 msgid "p12_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:94
+#: ../../variable/Q567F.rst:102
 msgid "p13_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:96
+#: ../../variable/Q567F.rst:104
 msgid "p14_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:98
+#: ../../variable/Q567F.rst:106
 msgid "p15_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:100
+#: ../../variable/Q567F.rst:108
 msgid "p16abc_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:102
+#: ../../variable/Q567F.rst:110
 msgid "p16d_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:104
+#: ../../variable/Q567F.rst:112
 msgid "p17_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:106
+#: ../../variable/Q567F.rst:114
 msgid "p18_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:108
+#: ../../variable/Q567F.rst:116
 msgid "p19_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:110
+#: ../../variable/Q567F.rst:118
 msgid "p20_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:112
+#: ../../variable/Q567F.rst:120
 msgid "p21abcd_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:114
+#: ../../variable/Q567F.rst:122
 msgid "p21e_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:116
+#: ../../variable/Q567F.rst:124
 msgid "p22_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:118
+#: ../../variable/Q567F.rst:126
 msgid "p23_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:120
+#: ../../variable/Q567F.rst:128
 msgid "p24_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:122
+#: ../../variable/Q567F.rst:130
 msgid "p25_3"
 msgstr ""
 
-#: ../../variable/Q567F.rst:124
+#: ../../variable/Q567F.rst:132
 msgid "p26_3"
 msgstr ""
+
+#: ../../variable/Q567F.rst:134
+msgid "p27_3"
+msgstr ""
+
+#: ../../variable/Q567F.rst:136
+msgid "p28_3"
+msgstr ""
+

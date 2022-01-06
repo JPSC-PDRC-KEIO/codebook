@@ -1,56 +1,57 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-30 14:10+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2020-05-30 20:08+0900\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3.1\n"
 "Last-Translator: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q564.rst:5
+#: ../../variable/Q564.rst:6
 msgid "結婚への意向"
 msgstr "Intention to marry"
 
-#: ../../variable/Q564.rst:9
+#: ../../variable/Q564.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q564.rst:11
+#: ../../variable/Q564.rst:13
 msgid "Q564"
 msgstr ""
 
-#: ../../variable/Q564.rst:15
+#: ../../variable/Q564.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q564.rst:18
+#: ../../variable/Q564.rst:21
 msgid "結婚（法律にもとづくもの）はしたいですか。"
 msgstr "Do you want to get married (Legally)?"
 
-#: ../../variable/Q564.rst:24
+#: ../../variable/Q564.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q564.rst:27
+#: ../../variable/Q564.rst:30
 msgid "まもなく結婚することが決まっている"
 msgstr "I plan to get married soon"
 
-#: ../../variable/Q564.rst:29
+#: ../../variable/Q564.rst:31
 msgid "すぐにでもしたい"
 msgstr "I want to get married as soon as I can"
 
-#: ../../variable/Q564.rst:31
+#: ../../variable/Q564.rst:32
 msgid "今はしたくないが、いずれはしたい"
 msgstr "I want to but not right now"
 
@@ -58,7 +59,7 @@ msgstr "I want to but not right now"
 msgid "必ずしもしなくてよい"
 msgstr "I don’t necessarily want to"
 
-#: ../../variable/Q564.rst:35
+#: ../../variable/Q564.rst:34
 msgid "したくない"
 msgstr "I don’t want to get married"
 
@@ -66,142 +67,151 @@ msgstr "I don’t want to get married"
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q564.rst:48
+#: ../../variable/Q564.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q564.rst:49
+#: ../../variable/Q564.rst:50
 msgid "6"
 msgstr ""
 
-#: ../../variable/Q564.rst:54
+#: ../../variable/Q564.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q564.rst:55
+#: ../../variable/Q564.rst:57
 msgid "7"
 msgstr ""
 
-#: ../../variable/Q564.rst:60
+#: ../../variable/Q564.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q564.rst:66
+#: ../../variable/Q564.rst:71
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q564.rst:71
+#: ../../variable/Q564.rst:76
 msgid "p2_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:73
+#: ../../variable/Q564.rst:78
 msgid "p3_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:75
+#: ../../variable/Q564.rst:80
 msgid "p4_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:77
+#: ../../variable/Q564.rst:82
 msgid "p5a_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:79
+#: ../../variable/Q564.rst:84
 msgid "p5b_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:81
+#: ../../variable/Q564.rst:86
 msgid "p6_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:83
+#: ../../variable/Q564.rst:88
 msgid "p7_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:85
+#: ../../variable/Q564.rst:90
 msgid "p8_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:87
+#: ../../variable/Q564.rst:92
 msgid "p9_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:89
+#: ../../variable/Q564.rst:94
 msgid "p10_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:91
+#: ../../variable/Q564.rst:96
 msgid "p11ab_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:93
+#: ../../variable/Q564.rst:98
 msgid "p11c_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:95
+#: ../../variable/Q564.rst:100
 msgid "p12_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:97
+#: ../../variable/Q564.rst:102
 msgid "p13_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:99
+#: ../../variable/Q564.rst:104
 msgid "p14_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:101
+#: ../../variable/Q564.rst:106
 msgid "p15_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:103
+#: ../../variable/Q564.rst:108
 msgid "p16abc_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:105
+#: ../../variable/Q564.rst:110
 msgid "p16d_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:107
+#: ../../variable/Q564.rst:112
 msgid "p17_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:109
+#: ../../variable/Q564.rst:114
 msgid "p18_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:111
+#: ../../variable/Q564.rst:116
 msgid "p19_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:113
+#: ../../variable/Q564.rst:118
 msgid "p20_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:115
+#: ../../variable/Q564.rst:120
 msgid "p21abcd_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:117
+#: ../../variable/Q564.rst:122
 msgid "p21e_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:119
+#: ../../variable/Q564.rst:124
 msgid "p22_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:121
+#: ../../variable/Q564.rst:126
 msgid "p23_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:123
+#: ../../variable/Q564.rst:128
 msgid "p24_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:125
+#: ../../variable/Q564.rst:130
 msgid "p25_3"
 msgstr ""
 
-#: ../../variable/Q564.rst:127
+#: ../../variable/Q564.rst:132
 msgid "p26_3"
 msgstr ""
+
+#: ../../variable/Q564.rst:134
+msgid "p27_3"
+msgstr ""
+
+#: ../../variable/Q564.rst:136
+msgid "p28_3"
+msgstr ""
+

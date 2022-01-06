@@ -8,169 +8,177 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:5
+#: ../../variable/Q712C.rst:6
 msgid "結婚費用の内訳：挙式披露宴（本人側）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:9
+#: ../../variable/Q712C.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:11
+#: ../../variable/Q712C.rst:13
 msgid "Q712C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:15
+#: ../../variable/Q712C.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:18
+#: ../../variable/Q712C.rst:21
 msgid "ご夫婦の結婚費用はいくらぐらいでしたか（結納、結納返しを除く）。各項目についての双方の支出をご記入ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:21
+#: ../../variable/Q712C.rst:24
 msgid "挙式・披露宴"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:27
+#: ../../variable/Q712C.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:29
+#: ../../variable/Q712C.rst:33
 msgid "＿ ＿ ＿ ＿ 万円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:35
+#: ../../variable/Q712C.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:36
+#: ../../variable/Q712C.rst:41
 msgid "998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:41
+#: ../../variable/Q712C.rst:47
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:47
+#: ../../variable/Q712C.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:48
+#: ../../variable/Q712C.rst:55
 msgid "999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:53
+#: ../../variable/Q712C.rst:61
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:59
+#: ../../variable/Q712C.rst:69
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:64
+#: ../../variable/Q712C.rst:74
 msgid "p3_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:66
+#: ../../variable/Q712C.rst:76
 msgid "p4_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:68
+#: ../../variable/Q712C.rst:78
 msgid "p5a_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:70
+#: ../../variable/Q712C.rst:80
 msgid "p6_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:72
+#: ../../variable/Q712C.rst:82
 msgid "p7_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:74
+#: ../../variable/Q712C.rst:84
 msgid "p8_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:76
+#: ../../variable/Q712C.rst:86
 msgid "p9_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:78
+#: ../../variable/Q712C.rst:88
 msgid "p10_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:80
+#: ../../variable/Q712C.rst:90
 msgid "p11ab_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:82
+#: ../../variable/Q712C.rst:92
 msgid "p12_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:84
+#: ../../variable/Q712C.rst:94
 msgid "p13_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:86
+#: ../../variable/Q712C.rst:96
 msgid "p14_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:88
+#: ../../variable/Q712C.rst:98
 msgid "p15_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:90
+#: ../../variable/Q712C.rst:100
 msgid "p16abc_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:92
+#: ../../variable/Q712C.rst:102
 msgid "p17_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:94
+#: ../../variable/Q712C.rst:104
 msgid "p18_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:96
+#: ../../variable/Q712C.rst:106
 msgid "p19_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:98
+#: ../../variable/Q712C.rst:108
 msgid "p20_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:100
+#: ../../variable/Q712C.rst:110
 msgid "p21abcd_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:102
+#: ../../variable/Q712C.rst:112
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:104
+#: ../../variable/Q712C.rst:114
 msgid "p23_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:106
+#: ../../variable/Q712C.rst:116
 msgid "p24_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:108
+#: ../../variable/Q712C.rst:118
 msgid "p25_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q712C.rst:110
+#: ../../variable/Q712C.rst:120
 msgid "p26_3"
+msgstr ""
+
+#: ../../variable/Q712C.rst:122
+msgid "p27_3"
+msgstr ""
+
+#: ../../variable/Q712C.rst:124
+msgid "p28_3"
 msgstr ""
 
 #~ msgid "変数名: Q712C"

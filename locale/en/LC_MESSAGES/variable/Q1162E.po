@@ -8,117 +8,125 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:5
+#: ../../variable/Q1162E.rst:6
 msgid "結婚相手に重視する要素：経済的に頼れる人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:9
+#: ../../variable/Q1162E.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:11
+#: ../../variable/Q1162E.rst:13
 msgid "Q1162E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:15
+#: ../../variable/Q1162E.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:18
+#: ../../variable/Q1162E.rst:21
 msgid "あなたは、結婚相手にはどのような要素を重視しますか。;以下の要素についてあなたのお考えを選んでください。（それぞれ〇はひとつずつ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:21
+#: ../../variable/Q1162E.rst:24
 msgid "経済的に頼れる人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:27
+#: ../../variable/Q1162E.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:30
+#: ../../variable/Q1162E.rst:33
 msgid "重視する"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:32
+#: ../../variable/Q1162E.rst:34
 msgid "＞重視する＞＞重視しない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:34
+#: ../../variable/Q1162E.rst:35
 msgid "＞＞重視する＞重視しない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:36
+#: ../../variable/Q1162E.rst:36
 msgid "重視しない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:43
+#: ../../variable/Q1162E.rst:44
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:49
+#: ../../variable/Q1162E.rst:51
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:55
+#: ../../variable/Q1162E.rst:58
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:56
+#: ../../variable/Q1162E.rst:59
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:61
+#: ../../variable/Q1162E.rst:65
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:67
+#: ../../variable/Q1162E.rst:73
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:72
+#: ../../variable/Q1162E.rst:78
 msgid "p19_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:74
+#: ../../variable/Q1162E.rst:80
 msgid "p20_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:76
+#: ../../variable/Q1162E.rst:82
 msgid "p21abcd_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:78
+#: ../../variable/Q1162E.rst:84
 msgid "p21e_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:80
+#: ../../variable/Q1162E.rst:86
 msgid "p22_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:82
+#: ../../variable/Q1162E.rst:88
 msgid "p23_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:84
+#: ../../variable/Q1162E.rst:90
 msgid "p24_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:86
+#: ../../variable/Q1162E.rst:92
 msgid "p25_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1162E.rst:88
+#: ../../variable/Q1162E.rst:94
 msgid "p26_4"
+msgstr ""
+
+#: ../../variable/Q1162E.rst:96
+msgid "p27_4"
+msgstr ""
+
+#: ../../variable/Q1162E.rst:98
+msgid "p28_4"
 msgstr ""
 
 #~ msgid "変数名: Q1162E"

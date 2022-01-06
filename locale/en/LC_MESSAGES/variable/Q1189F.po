@@ -8,80 +8,80 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q1189F.rst:5
-msgid "消費税8％への対応（増税後）：外食・交際・娯楽費の見直し"
+#: ../../variable/Q1189F.rst:6
+msgid "消費税８％への対応（増税後）：外食・交際・娯楽費の見直し"
 msgstr ""
 
-#: ../../variable/Q1189F.rst:9
+#: ../../variable/Q1189F.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q1189F.rst:11
+#: ../../variable/Q1189F.rst:13
 msgid "Q1189F"
 msgstr ""
 
-#: ../../variable/Q1189F.rst:15
+#: ../../variable/Q1189F.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q1189F.rst:18
+#: ../../variable/Q1189F.rst:21
 msgid "平成26年4月から消費税率が8％に変更となりました。消費税率の引き上げによってお宅ではどのような対応をしましたか。消費税8％引き上げ時と現在の各時点についてお考えください。（それぞれ〇は１つずつ）"
 msgstr ""
 
-#: ../../variable/Q1189F.rst:21
+#: ../../variable/Q1189F.rst:24
 msgid "外食・交際・娯楽費の見直し"
 msgstr ""
 
-#: ../../variable/Q1189F.rst:27
+#: ../../variable/Q1189F.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q1189F.rst:30
+#: ../../variable/Q1189F.rst:33
 msgid "やっている"
 msgstr ""
 
-#: ../../variable/Q1189F.rst:32
+#: ../../variable/Q1189F.rst:34
 msgid "やっていない"
 msgstr ""
 
-#: ../../variable/Q1189F.rst:39
+#: ../../variable/Q1189F.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q1189F.rst:45
+#: ../../variable/Q1189F.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q1189F.rst:51
+#: ../../variable/Q1189F.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q1189F.rst:52
+#: ../../variable/Q1189F.rst:57
 msgid "3"
 msgstr ""
 
-#: ../../variable/Q1189F.rst:57
+#: ../../variable/Q1189F.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q1189F.rst:63
+#: ../../variable/Q1189F.rst:71
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q1189F.rst:68
+#: ../../variable/Q1189F.rst:76
 msgid "p22_3"
 msgstr ""
 
-#: ../../variable/Q1189F.rst:70
+#: ../../variable/Q1189F.rst:78
 msgid "p23_3"
 msgstr ""
 
@@ -92,5 +92,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "消費税８％への対応（増税後）：外食・交際・娯楽費の見直し"
+#~ msgstr ""
+
+#~ msgid "消費税8％への対応（増税後）：外食・交際・娯楽費の見直し"
 #~ msgstr ""
 

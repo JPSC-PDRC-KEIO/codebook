@@ -8,108 +8,115 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:5
+#: ../../variable/Q9002CM.rst:6
 msgid "生活時間（調整版）：勉学／分（休日）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:9
+#: ../../variable/Q9002CM.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:11
+#: ../../variable/Q9002CM.rst:13
 msgid "Q9002CM"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:15
+#: ../../variable/Q9002CM.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:18
+#: ../../variable/Q9002CM.rst:21
 msgid ""
 "日常の生活行動を次の６つに分けた場合、通常の平日、休日にそれぞれ合計でおおよそ何時間費やしていますか。 "
 "あなたの場合とご主人の場合についてお答え下さい。 同時に複数のことをした場合は、主なもののほうでお答え下さい。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:21
+#: ../../variable/Q9002CM.rst:24
 msgid "勉学／分（休日）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:27
+#: ../../variable/Q9002CM.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:29
+#: ../../variable/Q9002CM.rst:33
 msgid "＿0分"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:35
+#: ../../variable/Q9002CM.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:36
-msgid "8"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:41
+#: ../../variable/Q9002CM.rst:47
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:47
+#: ../../variable/Q9002CM.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:48
+#: ../../variable/Q9002CM.rst:55
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:53
+#: ../../variable/Q9002CM.rst:61
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:59
+#: ../../variable/Q9002CM.rst:69
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:64
+#: ../../variable/Q9002CM.rst:74
 msgid "p21abcd_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:66
+#: ../../variable/Q9002CM.rst:76
 msgid "p21e_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:68
+#: ../../variable/Q9002CM.rst:78
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:70
+#: ../../variable/Q9002CM.rst:80
 msgid "p23_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:72
+#: ../../variable/Q9002CM.rst:82
 msgid "p24_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:74
+#: ../../variable/Q9002CM.rst:84
 msgid "p25_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9002CM.rst:76
+#: ../../variable/Q9002CM.rst:86
 msgid "p26_3"
+msgstr ""
+
+#: ../../variable/Q9002CM.rst:88
+msgid "p27_3"
+msgstr ""
+
+#: ../../variable/Q9002CM.rst:90
+msgid "p28_3"
 msgstr ""
 
 #~ msgid "変数名: Q9002CM"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "8"
 #~ msgstr ""
 

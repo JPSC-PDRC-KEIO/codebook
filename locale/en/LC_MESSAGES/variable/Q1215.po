@@ -8,89 +8,97 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:5
+#: ../../variable/Q1215.rst:6
 msgid "子どもについての悩みの有無"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:9
+#: ../../variable/Q1215.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:11
+#: ../../variable/Q1215.rst:13
 msgid "Q1215"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:15
+#: ../../variable/Q1215.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:18
+#: ../../variable/Q1215.rst:21
 msgid "現在、あなたは子どものことについて悩んでいますか。（〇は１つだけ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:24
+#: ../../variable/Q1215.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:27
+#: ../../variable/Q1215.rst:30
 msgid "とても悩んでいる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:29
+#: ../../variable/Q1215.rst:31
 msgid "少し悩んでいる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:31
+#: ../../variable/Q1215.rst:32
 msgid "あまり悩んでいない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:33
+#: ../../variable/Q1215.rst:33
 msgid "まったく悩んでいない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:40
+#: ../../variable/Q1215.rst:41
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:46
+#: ../../variable/Q1215.rst:48
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:52
+#: ../../variable/Q1215.rst:55
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:53
+#: ../../variable/Q1215.rst:56
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:58
+#: ../../variable/Q1215.rst:62
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:64
+#: ../../variable/Q1215.rst:70
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:69
+#: ../../variable/Q1215.rst:75
 msgid "p24_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:71
+#: ../../variable/Q1215.rst:77
 msgid "p25_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1215.rst:73
+#: ../../variable/Q1215.rst:79
 msgid "p26_4"
+msgstr ""
+
+#: ../../variable/Q1215.rst:81
+msgid "p27_4"
+msgstr ""
+
+#: ../../variable/Q1215.rst:83
+msgid "p28_4"
 msgstr ""
 
 #~ msgid "変数名: Q1215"

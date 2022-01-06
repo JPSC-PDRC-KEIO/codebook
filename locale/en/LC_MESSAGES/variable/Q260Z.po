@@ -8,97 +8,105 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:5
+#: ../../variable/Q260Z.rst:6
 msgid "離職理由（配偶者無職）：妻の妊娠・出産のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:9
+#: ../../variable/Q260Z.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:11
+#: ../../variable/Q260Z.rst:13
 msgid "Q260Z"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:15
+#: ../../variable/Q260Z.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:18
+#: ../../variable/Q260Z.rst:21
 msgid "どのような理由で、ご主人は１年前（昨年9月末）の会社等をやめたのですか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:21
+#: ../../variable/Q260Z.rst:24
 msgid "妻の妊娠のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:27
+#: ../../variable/Q260Z.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:30
+#: ../../variable/Q260Z.rst:33
 msgid "はい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:32
+#: ../../variable/Q260Z.rst:34
 msgid "いいえ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:39
+#: ../../variable/Q260Z.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:45
+#: ../../variable/Q260Z.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:51
+#: ../../variable/Q260Z.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:52
+#: ../../variable/Q260Z.rst:57
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:57
+#: ../../variable/Q260Z.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:63
+#: ../../variable/Q260Z.rst:71
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:68
+#: ../../variable/Q260Z.rst:76
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:70
+#: ../../variable/Q260Z.rst:78
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:72
+#: ../../variable/Q260Z.rst:80
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:74
+#: ../../variable/Q260Z.rst:82
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:76
+#: ../../variable/Q260Z.rst:84
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260Z.rst:78
+#: ../../variable/Q260Z.rst:86
 msgid "p26_1"
+msgstr ""
+
+#: ../../variable/Q260Z.rst:88
+msgid "p27_1"
+msgstr ""
+
+#: ../../variable/Q260Z.rst:90
+msgid "p28_1"
 msgstr ""
 
 #~ msgid "変数名: Q260Z"

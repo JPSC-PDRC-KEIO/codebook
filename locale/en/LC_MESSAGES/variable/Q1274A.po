@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1274A.rst:6
+msgid "昨年との生活の変化：友人・知人との交流"
+msgstr ""
+
+#: ../../variable/Q1274A.rst:11
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1274A.rst:13
+msgid "Q1274A"
+msgstr ""
+
+#: ../../variable/Q1274A.rst:18
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1274A.rst:21
+msgid "昨年の10 月ごろ（前回の調査の回答時期）と比べて、以下のことはどの程度変わりましたか。（〇は１つずつ）"
+msgstr ""
+
+#: ../../variable/Q1274A.rst:24
+msgid "友人・知人との交流"
+msgstr ""
+
+#: ../../variable/Q1274A.rst:33
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1274A.rst:35
+msgid "大きく増えた"
+msgstr ""
+
+#: ../../variable/Q1274A.rst:36
+msgid "少し増えた"
+msgstr ""
+
+#: ../../variable/Q1274A.rst:37
+msgid "変わらない"
+msgstr ""
+
+#: ../../variable/Q1274A.rst:38
+msgid "少し減った"
+msgstr ""
+
+#: ../../variable/Q1274A.rst:39
+msgid "大きく減った"
+msgstr ""
+
+#: ../../variable/Q1274A.rst:40
+msgid "該当しない"
+msgstr ""
+
+#: ../../variable/Q1274A.rst:47
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1274A.rst:54
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code’"
+
+#: ../../variable/Q1274A.rst:61
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1274A.rst:62
+msgid "7"
+msgstr ""
+
+#: ../../variable/Q1274A.rst:68
+msgid "備考"
+msgstr "Remarks"
+
+#: ../../variable/Q1274A.rst:76
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1274A.rst:81
+msgid "p28_5"
+msgstr ""
+

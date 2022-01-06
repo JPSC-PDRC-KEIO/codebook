@@ -8,149 +8,157 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:5
+#: ../../variable/Q1038C.rst:6
 msgid "国内旅行（業務出張、研修）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:9
+#: ../../variable/Q1038C.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:11
+#: ../../variable/Q1038C.rst:13
 msgid "Q1038C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:15
+#: ../../variable/Q1038C.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:18
+#: ../../variable/Q1038C.rst:21
 msgid "あなたはこの1年間（調査前年10月～調査年9月）に1泊2日以上の旅行をしましたか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:21
+#: ../../variable/Q1038C.rst:24
 msgid "国内・業務出張・研修・その他の業務関連"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:27
+#: ../../variable/Q1038C.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:30
+#: ../../variable/Q1038C.rst:33
 msgid "しなかった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:32
+#: ../../variable/Q1038C.rst:34
 msgid "した"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:34
+#: ../../variable/Q1038C.rst:35
 msgid "この1年間は仕事についていない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:41
+#: ../../variable/Q1038C.rst:43
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:47
+#: ../../variable/Q1038C.rst:50
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:53
+#: ../../variable/Q1038C.rst:57
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:59
+#: ../../variable/Q1038C.rst:64
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:65
+#: ../../variable/Q1038C.rst:72
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:70
+#: ../../variable/Q1038C.rst:77
 msgid "p11ab_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:72
+#: ../../variable/Q1038C.rst:79
 msgid "p11c_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:74
+#: ../../variable/Q1038C.rst:81
 msgid "p12_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:76
+#: ../../variable/Q1038C.rst:83
 msgid "p13_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:78
+#: ../../variable/Q1038C.rst:85
 msgid "p14_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:80
+#: ../../variable/Q1038C.rst:87
 msgid "p15_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:82
+#: ../../variable/Q1038C.rst:89
 msgid "p16abc_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:84
+#: ../../variable/Q1038C.rst:91
 msgid "p16d_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:86
+#: ../../variable/Q1038C.rst:93
 msgid "p17_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:88
+#: ../../variable/Q1038C.rst:95
 msgid "p18_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:90
+#: ../../variable/Q1038C.rst:97
 msgid "p19_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:92
+#: ../../variable/Q1038C.rst:99
 msgid "p20_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:94
+#: ../../variable/Q1038C.rst:101
 msgid "p21abcd_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:96
+#: ../../variable/Q1038C.rst:103
 msgid "p21e_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:98
+#: ../../variable/Q1038C.rst:105
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:100
+#: ../../variable/Q1038C.rst:107
 msgid "p23_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:102
+#: ../../variable/Q1038C.rst:109
 msgid "p24_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:104
+#: ../../variable/Q1038C.rst:111
 msgid "p25_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1038C.rst:106
+#: ../../variable/Q1038C.rst:113
 msgid "p26_3"
+msgstr ""
+
+#: ../../variable/Q1038C.rst:115
+msgid "p27_3"
+msgstr ""
+
+#: ../../variable/Q1038C.rst:117
+msgid "p28_3"
 msgstr ""
 
 #~ msgid "変数名: Q1038C"

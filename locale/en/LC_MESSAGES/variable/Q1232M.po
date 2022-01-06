@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1232M.rst:6
+msgid "夫婦の１日の平均会話時間（分）"
+msgstr ""
+
+#: ../../variable/Q1232M.rst:11
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1232M.rst:13
+msgid "Q1232M"
+msgstr ""
+
+#: ../../variable/Q1232M.rst:18
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1232M.rst:21
+msgid "ご夫婦の、1日の平均的な会話時間を教えてください。"
+msgstr ""
+
+#: ../../variable/Q1232M.rst:28
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1232M.rst:30
+msgid "＿ ＿ 分"
+msgstr ""
+
+#: ../../variable/Q1232M.rst:37
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1232M.rst:44
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code’"
+
+#: ../../variable/Q1232M.rst:51
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1232M.rst:52
+msgid "99"
+msgstr ""
+
+#: ../../variable/Q1232M.rst:58
+msgid "備考"
+msgstr "Remarks"
+
+#: ../../variable/Q1232M.rst:61
+msgid "「平均＿ ＿ 時間 ＿ ＿ 分」かを尋ねている質問の、時間についての変数です。"
+msgstr ""
+
+#: ../../variable/Q1232M.rst:64
+msgid "詳しくはこちら（:doc:`/kekkon/kaiwajikan`）をご覧下さい。"
+msgstr ""
+
+#: ../../variable/Q1232M.rst:72
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1232M.rst:77
+msgid "p27_3"
+msgstr ""
+
+#: ../../variable/Q1232M.rst:79
+msgid "p28_3"
+msgstr ""
+

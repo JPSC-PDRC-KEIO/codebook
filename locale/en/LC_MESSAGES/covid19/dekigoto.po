@@ -1,0 +1,138 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../covid19/dekigoto.rst:3
+msgid "新型コロナウイルス感染症の影響による出来事"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:7
+msgid "質問文（複数回答）"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:8
+msgid "あなたのお宅では、新型コロナウイルス感染症の影響で、次のような出来事がありましたか。（〇はいくつでも）"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid "項目"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid "変数"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid "転居や地方への移住を検討した"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid ":doc:`Q1293A </variable/Q1293A>`"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid "政府・自治体の要請をうけて休業した"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid ":doc:`Q1293B </variable/Q1293B>`"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid "家計補填のため仕事を増やした・就職した"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid ":doc:`Q1293C </variable/Q1293C>`"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid "家族の生活変化に対応するため仕事をやめた・減らした"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid ":doc:`Q1293D </variable/Q1293D>`"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid "親や子ども、孫との面会を制限した"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid ":doc:`Q1293E </variable/Q1293E>`"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid "子どもが特別奨学金や学費の減免を受けた"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid ":doc:`Q1293F </variable/Q1293F>`"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid "子どもが進路変更（休学・退学を含む）や就職先などを変更した"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid ":doc:`Q1293G </variable/Q1293G>`"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid "婚活を積極的におこなった"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid ":doc:`Q1293H </variable/Q1293H>`"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid "婚約や結婚の時期を変更した"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid ":doc:`Q1293I </variable/Q1293I>`"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid "その他"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid ":doc:`Q1293J </variable/Q1293J>`"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid "その他：特にない"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:1
+msgid ":doc:`Q1293K </variable/Q1293K>`"
+msgstr ""
+
+#: ../../covid19/dekigoto.rst:29
+msgid "備考"
+msgstr "Remarks"
+
+#: ../../covid19/dekigoto.rst:30
+msgid ""
+":doc:`Q1293H </variable/Q1293H>` 、 :doc:`Q1293I </variable/Q1293I>` "
+"は配偶者のいらっしゃらない方のみが対象です。"
+msgstr ""
+

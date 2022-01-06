@@ -1,163 +1,173 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-30 14:10+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2020-05-30 21:38+0900\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3.1\n"
 "Last-Translator: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q544G.rst:5
+#: ../../variable/Q544G.rst:6
 msgid "受講費用負担者（無配偶）：勤め先"
 msgstr "Person paid the tuition fee (single): My company"
 
-#: ../../variable/Q544G.rst:9
+#: ../../variable/Q544G.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q544G.rst:11
+#: ../../variable/Q544G.rst:13
 msgid "Q544G"
 msgstr ""
 
-#: ../../variable/Q544G.rst:15
+#: ../../variable/Q544G.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q544G.rst:18
+#: ../../variable/Q544G.rst:21
 msgid "その費用はどなたが負担しましたか。（〇はいくつでも）"
 msgstr "Who paid most of the cost? (Circle as many as apply to you.)"
 
-#: ../../variable/Q544G.rst:21
+#: ../../variable/Q544G.rst:24
 msgid "勤め先"
 msgstr "My company"
 
-#: ../../variable/Q544G.rst:27
+#: ../../variable/Q544G.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q544G.rst:30
+#: ../../variable/Q544G.rst:33
 msgid "はい"
 msgstr "Yes"
 
-#: ../../variable/Q544G.rst:32
+#: ../../variable/Q544G.rst:34
 msgid "いいえ"
 msgstr "No"
 
-#: ../../variable/Q544G.rst:39
+#: ../../variable/Q544G.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q544G.rst:45
+#: ../../variable/Q544G.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q544G.rst:51
+#: ../../variable/Q544G.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q544G.rst:52
+#: ../../variable/Q544G.rst:57
 msgid "3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:57
+#: ../../variable/Q544G.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q544G.rst:63
+#: ../../variable/Q544G.rst:71
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q544G.rst:68
+#: ../../variable/Q544G.rst:76
 msgid "p9_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:70
+#: ../../variable/Q544G.rst:78
 msgid "p10_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:72
+#: ../../variable/Q544G.rst:80
 msgid "p11ab_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:74
+#: ../../variable/Q544G.rst:82
 msgid "p11c_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:76
+#: ../../variable/Q544G.rst:84
 msgid "p12_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:78
+#: ../../variable/Q544G.rst:86
 msgid "p13_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:80
+#: ../../variable/Q544G.rst:88
 msgid "p14_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:82
+#: ../../variable/Q544G.rst:90
 msgid "p15_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:84
+#: ../../variable/Q544G.rst:92
 msgid "p16abc_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:86
+#: ../../variable/Q544G.rst:94
 msgid "p16d_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:88
+#: ../../variable/Q544G.rst:96
 msgid "p17_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:90
+#: ../../variable/Q544G.rst:98
 msgid "p18_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:92
+#: ../../variable/Q544G.rst:100
 msgid "p19_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:94
+#: ../../variable/Q544G.rst:102
 msgid "p20_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:96
+#: ../../variable/Q544G.rst:104
 msgid "p21abcd_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:98
+#: ../../variable/Q544G.rst:106
 msgid "p21e_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:100
+#: ../../variable/Q544G.rst:108
 msgid "p22_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:102
+#: ../../variable/Q544G.rst:110
 msgid "p23_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:104
+#: ../../variable/Q544G.rst:112
 msgid "p24_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:106
+#: ../../variable/Q544G.rst:114
 msgid "p25_3"
 msgstr ""
 
-#: ../../variable/Q544G.rst:108
+#: ../../variable/Q544G.rst:116
 msgid "p26_3"
 msgstr ""
+
+#: ../../variable/Q544G.rst:118
+msgid "p27_3"
+msgstr ""
+
+#: ../../variable/Q544G.rst:120
+msgid "p28_3"
+msgstr ""
+

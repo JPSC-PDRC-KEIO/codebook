@@ -8,124 +8,124 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q1092.rst:5
+#: ../../variable/Q1092.rst:6
 msgid "創立年（配偶者）"
 msgstr ""
 
-#: ../../variable/Q1092.rst:9
+#: ../../variable/Q1092.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q1092.rst:11
+#: ../../variable/Q1092.rst:13
 msgid "Q1092"
 msgstr ""
 
-#: ../../variable/Q1092.rst:15
+#: ../../variable/Q1092.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q1092.rst:18
+#: ../../variable/Q1092.rst:21
 msgid "それ（現在勤めている会社等の創立時期）は何年ですか。"
 msgstr ""
 
-#: ../../variable/Q1092.rst:24
+#: ../../variable/Q1092.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q1092.rst:26
-msgid "平成 |lline| |lline| 年"
+#: ../../variable/Q1092.rst:30
+msgid "＿ ＿ ＿ ＿ 年"
 msgstr ""
 
-#: ../../variable/Q1092.rst:32
+#: ../../variable/Q1092.rst:37
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q1092.rst:33
+#: ../../variable/Q1092.rst:38
 msgid "9998"
 msgstr ""
 
-#: ../../variable/Q1092.rst:38
+#: ../../variable/Q1092.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q1092.rst:44
+#: ../../variable/Q1092.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q1092.rst:45
+#: ../../variable/Q1092.rst:52
 msgid "9999"
 msgstr ""
 
-#: ../../variable/Q1092.rst:50
+#: ../../variable/Q1092.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q1092.rst:52
+#: ../../variable/Q1092.rst:61
 msgid "調査票の記入は元号だが、データ上は西暦4桁が記載"
 msgstr ""
 
-#: ../../variable/Q1092.rst:57
+#: ../../variable/Q1092.rst:69
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q1092.rst:62
+#: ../../variable/Q1092.rst:74
 msgid "p16abc_1"
 msgstr ""
 
-#: ../../variable/Q1092.rst:64
+#: ../../variable/Q1092.rst:76
 msgid "p16d_1"
 msgstr ""
 
-#: ../../variable/Q1092.rst:66
+#: ../../variable/Q1092.rst:78
 msgid "p17_1"
 msgstr ""
 
-#: ../../variable/Q1092.rst:68
+#: ../../variable/Q1092.rst:80
 msgid "p18_1"
 msgstr ""
 
-#: ../../variable/Q1092.rst:70
+#: ../../variable/Q1092.rst:82
 msgid "p19_1"
 msgstr ""
 
-#: ../../variable/Q1092.rst:72
+#: ../../variable/Q1092.rst:84
 msgid "p20_1"
 msgstr ""
 
-#: ../../variable/Q1092.rst:74
+#: ../../variable/Q1092.rst:86
 msgid "p21abcd_1"
 msgstr ""
 
-#: ../../variable/Q1092.rst:76
+#: ../../variable/Q1092.rst:88
 msgid "p21e_1"
 msgstr ""
 
-#: ../../variable/Q1092.rst:78
+#: ../../variable/Q1092.rst:90
 msgid "p22_1"
 msgstr ""
 
-#: ../../variable/Q1092.rst:80
+#: ../../variable/Q1092.rst:92
 msgid "p23_1"
 msgstr ""
 
-#: ../../variable/Q1092.rst:82
+#: ../../variable/Q1092.rst:94
 msgid "p24_1"
 msgstr ""
 
-#: ../../variable/Q1092.rst:84
+#: ../../variable/Q1092.rst:96
 msgid "p25_1"
 msgstr ""
 
-#: ../../variable/Q1092.rst:86
+#: ../../variable/Q1092.rst:98
 msgid "p26_1"
 msgstr ""
 
@@ -139,5 +139,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "平成＿＿年"
+#~ msgstr ""
+
+#~ msgid "平成 |lline| |lline| 年"
 #~ msgstr ""
 

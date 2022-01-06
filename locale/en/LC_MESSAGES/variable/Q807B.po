@@ -8,197 +8,205 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:5
+#: ../../variable/Q807B.rst:6
 msgid "住宅ローンの借入れ状況：借り替え・借入先2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:9
+#: ../../variable/Q807B.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:11
+#: ../../variable/Q807B.rst:13
 msgid "Q807B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:15
+#: ../../variable/Q807B.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:18
+#: ../../variable/Q807B.rst:21
 msgid "現在の借入れについて、以下の項目にご記入下さい。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:21
+#: ../../variable/Q807B.rst:24
 msgid "借り替え・借入先2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:27
+#: ../../variable/Q807B.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:30
+#: ../../variable/Q807B.rst:33
 msgid "銀行など金融機関"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:32
+#: ../../variable/Q807B.rst:34
 msgid "住宅金融支援機構・年金金融・財形融資・公団融資・自治体融資などの公的融資"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:34
+#: ../../variable/Q807B.rst:35
 msgid "社内融資"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:36
+#: ../../variable/Q807B.rst:36
 msgid "妻の親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:38
+#: ../../variable/Q807B.rst:37
 msgid "夫の親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:40
+#: ../../variable/Q807B.rst:38
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:47
+#: ../../variable/Q807B.rst:46
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:53
+#: ../../variable/Q807B.rst:53
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:59
+#: ../../variable/Q807B.rst:60
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:65
+#: ../../variable/Q807B.rst:67
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:71
+#: ../../variable/Q807B.rst:75
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:76
+#: ../../variable/Q807B.rst:80
 msgid "p3_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:78
+#: ../../variable/Q807B.rst:82
 msgid "p4_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:80
+#: ../../variable/Q807B.rst:84
 msgid "p5a_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:82
+#: ../../variable/Q807B.rst:86
 msgid "p5b_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:84
+#: ../../variable/Q807B.rst:88
 msgid "p6_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:86
+#: ../../variable/Q807B.rst:90
 msgid "p7_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:88
+#: ../../variable/Q807B.rst:92
 msgid "p8_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:90
+#: ../../variable/Q807B.rst:94
 msgid "p9_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:92
+#: ../../variable/Q807B.rst:96
 msgid "p10_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:94
+#: ../../variable/Q807B.rst:98
 msgid "p11ab_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:96
+#: ../../variable/Q807B.rst:100
 msgid "p11c_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:98
+#: ../../variable/Q807B.rst:102
 msgid "p12_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:100
+#: ../../variable/Q807B.rst:104
 msgid "p13_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:102
+#: ../../variable/Q807B.rst:106
 msgid "p14_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:104
+#: ../../variable/Q807B.rst:108
 msgid "p15_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:106
+#: ../../variable/Q807B.rst:110
 msgid "p16abc_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:108
+#: ../../variable/Q807B.rst:112
 msgid "p16d_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:110
+#: ../../variable/Q807B.rst:114
 msgid "p17_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:112
+#: ../../variable/Q807B.rst:116
 msgid "p18_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:114
+#: ../../variable/Q807B.rst:118
 msgid "p19_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:116
+#: ../../variable/Q807B.rst:120
 msgid "p20_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:118
+#: ../../variable/Q807B.rst:122
 msgid "p21abcd_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:120
+#: ../../variable/Q807B.rst:124
 msgid "p21e_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:122
+#: ../../variable/Q807B.rst:126
 msgid "p22_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:124
+#: ../../variable/Q807B.rst:128
 msgid "p23_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:126
+#: ../../variable/Q807B.rst:130
 msgid "p24_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:128
+#: ../../variable/Q807B.rst:132
 msgid "p25_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q807B.rst:130
+#: ../../variable/Q807B.rst:134
 msgid "p26_2"
+msgstr ""
+
+#: ../../variable/Q807B.rst:136
+msgid "p27_2"
+msgstr ""
+
+#: ../../variable/Q807B.rst:138
+msgid "p28_2"
 msgstr ""
 
 #~ msgid "変数名: Q807B"

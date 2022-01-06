@@ -1,70 +1,47 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: JPSC codebook "
-"0.1\n"
+"Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-30 "
-"14:10+0900\n"
-"PO-Revision-Date: 2020-06-01 "
-"09:15+0900\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; "
-"charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3.1\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"PO-Revision-Date: 2020-06-01 09:15+0900\n"
 "Last-Translator: \n"
-"Plural-Forms: nplurals=2; plural=(n !"
-"= 1);\n"
 "Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q493BM.rst:5
+#: ../../variable/Q493BM.rst:6
 msgid "生活時間：仕事／分（平日）"
-msgstr ""
-"Timespending per day: For work / "
-"minutes (workday)"
+msgstr "Timespending per day: For work / minutes (workday)"
 
-#: ../../variable/Q493BM.rst:9
+#: ../../variable/Q493BM.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q493BM.rst:11
+#: ../../variable/Q493BM.rst:13
 msgid "Q493BM"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:15
+#: ../../variable/Q493BM.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q493BM.rst:18
+#: ../../variable/Q493BM.rst:21
 msgid ""
-"日常の生活行動を次の６つに分けた場合、"
-"通常の平日、休日にそれぞれ合計でおおよ"
-"そ何時間費やしていますか。 あなたの場"
-"合とご主人の場合についてお答え下さい。"
-"（10分単位でご記入下さい）"
+"日常の生活行動を次の６つに分けた場合、通常の平日、休日にそれぞれ合計でおおよそ何時間費やしていますか。 "
+"あなたの場合とご主人の場合についてお答え下さい。（10分単位でご記入下さい）"
 msgstr ""
-"How many hours do you spend in total "
-"per workday and per day off for each "
-"of 6 activities listed below?"
-
-#: ../../variable/Q493BM.rst:19
-msgid ""
-"同時に複数のことをした場合は、主なもの"
-"のほうでお答え下さい。"
-msgstr ""
-"If you do two or more activities on "
-"weekdays or days off, choose the most "
-"important of the two."
-
-#: ../../variable/Q493BM.rst:22
-msgid "仕事／分（平日）"
-msgstr ""
+"How many hours do you spend in total per workday and per day off for each"
+" of 6 activities listed below?"
 
 #: ../../variable/Q493BM.rst:28
 msgid "選択肢 / 記入欄"
@@ -74,150 +51,167 @@ msgstr "Select / Fill in"
 msgid "＿0分"
 msgstr "＿ 0 minutes"
 
-#: ../../variable/Q493BM.rst:36
+#: ../../variable/Q493BM.rst:37
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q493BM.rst:37
-msgid "8"
-msgstr ""
-
-#: ../../variable/Q493BM.rst:42
+#: ../../variable/Q493BM.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q493BM.rst:48
+#: ../../variable/Q493BM.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q493BM.rst:49
+#: ../../variable/Q493BM.rst:52
 msgid "9"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:54
+#: ../../variable/Q493BM.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q493BM.rst:60
+#: ../../variable/Q493BM.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q493BM.rst:65
+#: ../../variable/Q493BM.rst:71
 msgid "p1_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:67
+#: ../../variable/Q493BM.rst:73
 msgid "p2_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:69
+#: ../../variable/Q493BM.rst:75
 msgid "p3_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:71
+#: ../../variable/Q493BM.rst:77
 msgid "p4_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:73
+#: ../../variable/Q493BM.rst:79
 msgid "p5a_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:75
+#: ../../variable/Q493BM.rst:81
 msgid "p5b_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:77
+#: ../../variable/Q493BM.rst:83
 msgid "p6_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:79
+#: ../../variable/Q493BM.rst:85
 msgid "p7_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:81
+#: ../../variable/Q493BM.rst:87
 msgid "p8_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:83
+#: ../../variable/Q493BM.rst:89
 msgid "p9_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:85
+#: ../../variable/Q493BM.rst:91
 msgid "p10_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:87
+#: ../../variable/Q493BM.rst:93
 msgid "p11ab_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:89
+#: ../../variable/Q493BM.rst:95
 msgid "p11c_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:91
+#: ../../variable/Q493BM.rst:97
 msgid "p12_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:93
+#: ../../variable/Q493BM.rst:99
 msgid "p13_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:95
+#: ../../variable/Q493BM.rst:101
 msgid "p14_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:97
+#: ../../variable/Q493BM.rst:103
 msgid "p15_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:99
+#: ../../variable/Q493BM.rst:105
 msgid "p16abc_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:101
+#: ../../variable/Q493BM.rst:107
 msgid "p16d_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:103
+#: ../../variable/Q493BM.rst:109
 msgid "p17_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:105
+#: ../../variable/Q493BM.rst:111
 msgid "p18_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:107
+#: ../../variable/Q493BM.rst:113
 msgid "p19_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:109
+#: ../../variable/Q493BM.rst:115
 msgid "p20_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:111
+#: ../../variable/Q493BM.rst:117
 msgid "p21abcd_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:113
+#: ../../variable/Q493BM.rst:119
 msgid "p21e_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:115
+#: ../../variable/Q493BM.rst:121
 msgid "p22_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:117
+#: ../../variable/Q493BM.rst:123
 msgid "p23_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:119
+#: ../../variable/Q493BM.rst:125
 msgid "p24_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:121
+#: ../../variable/Q493BM.rst:127
 msgid "p25_3"
 msgstr ""
 
-#: ../../variable/Q493BM.rst:123
+#: ../../variable/Q493BM.rst:129
 msgid "p26_3"
 msgstr ""
+
+#: ../../variable/Q493BM.rst:131
+msgid "p27_3"
+msgstr ""
+
+#: ../../variable/Q493BM.rst:133
+msgid "p28_3"
+msgstr ""
+
+#~ msgid "同時に複数のことをした場合は、主なもののほうでお答え下さい。"
+#~ msgstr ""
+#~ "If you do two or more activities"
+#~ " on weekdays or days off, choose "
+#~ "the most important of the two."
+
+#~ msgid "仕事／分（平日）"
+#~ msgstr ""
+
+#~ msgid "8"
+#~ msgstr ""
+

@@ -1,74 +1,49 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: JPSC codebook "
-"0.1\n"
+"Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-30 "
-"14:10+0900\n"
-"PO-Revision-Date: 2020-06-01 "
-"09:38+0900\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; "
-"charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3.1\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"PO-Revision-Date: 2020-06-01 09:38+0900\n"
 "Last-Translator: \n"
-"Plural-Forms: nplurals=2; plural=(n !"
-"= 1);\n"
 "Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q495CM.rst:5
-msgid ""
-"生活時間（配偶者）：勉学／分（平日）"
+#: ../../variable/Q495CM.rst:6
+msgid "生活時間（配偶者）：勉学／分（平日）"
 msgstr ""
-"Time spending per day (spouse): For "
-"schoolwork (studies) / minutes "
+"Time spending per day (spouse): For schoolwork (studies) / minutes "
 "(workday)"
 
-#: ../../variable/Q495CM.rst:9
+#: ../../variable/Q495CM.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q495CM.rst:11
+#: ../../variable/Q495CM.rst:13
 msgid "Q495CM"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:15
+#: ../../variable/Q495CM.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q495CM.rst:18
+#: ../../variable/Q495CM.rst:21
 msgid ""
-"日常の生活行動を次の６つに分けた場合、"
-"通常の平日、休日にそれぞれ合計でおおよ"
-"そ何時間費やしていますか。 あなたの場"
-"合とご主人の場合についてお答え下さい。"
-"（10分単位でご記入下さい）"
+"日常の生活行動を次の６つに分けた場合、通常の平日、休日にそれぞれ合計でおおよそ何時間費やしていますか。 "
+"あなたの場合とご主人の場合についてお答え下さい。（10分単位でご記入下さい）"
 msgstr ""
-"How many hours do you spend in total "
-"per workday and per day off for each "
-"of 6 activities listed below?"
-
-#: ../../variable/Q495CM.rst:19
-msgid ""
-"同時に複数のことをした場合は、主なもの"
-"のほうでお答え下さい。"
-msgstr ""
-"If you do two or more activities on "
-"weekdays or days off, choose the most "
-"important of the two."
-
-#: ../../variable/Q495CM.rst:22
-msgid "勉学／分（平日）"
-msgstr ""
-"For schoolwork (studies) / minutes "
-"(workday)"
+"How many hours do you spend in total per workday and per day off for each"
+" of 6 activities listed below?"
 
 #: ../../variable/Q495CM.rst:28
 msgid "選択肢 / 記入欄"
@@ -78,150 +53,167 @@ msgstr "Select / Fill in"
 msgid "＿0分"
 msgstr "＿ 0 minutes"
 
-#: ../../variable/Q495CM.rst:36
+#: ../../variable/Q495CM.rst:37
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q495CM.rst:37
-msgid "8"
-msgstr ""
-
-#: ../../variable/Q495CM.rst:42
+#: ../../variable/Q495CM.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q495CM.rst:48
+#: ../../variable/Q495CM.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q495CM.rst:49
+#: ../../variable/Q495CM.rst:52
 msgid "9"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:54
+#: ../../variable/Q495CM.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q495CM.rst:60
+#: ../../variable/Q495CM.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q495CM.rst:65
+#: ../../variable/Q495CM.rst:71
 msgid "p1_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:67
+#: ../../variable/Q495CM.rst:73
 msgid "p2_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:69
+#: ../../variable/Q495CM.rst:75
 msgid "p3_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:71
+#: ../../variable/Q495CM.rst:77
 msgid "p4_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:73
+#: ../../variable/Q495CM.rst:79
 msgid "p5a_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:75
+#: ../../variable/Q495CM.rst:81
 msgid "p5b_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:77
+#: ../../variable/Q495CM.rst:83
 msgid "p6_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:79
+#: ../../variable/Q495CM.rst:85
 msgid "p7_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:81
+#: ../../variable/Q495CM.rst:87
 msgid "p8_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:83
+#: ../../variable/Q495CM.rst:89
 msgid "p9_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:85
+#: ../../variable/Q495CM.rst:91
 msgid "p10_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:87
+#: ../../variable/Q495CM.rst:93
 msgid "p11ab_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:89
+#: ../../variable/Q495CM.rst:95
 msgid "p11c_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:91
+#: ../../variable/Q495CM.rst:97
 msgid "p12_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:93
+#: ../../variable/Q495CM.rst:99
 msgid "p13_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:95
+#: ../../variable/Q495CM.rst:101
 msgid "p14_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:97
+#: ../../variable/Q495CM.rst:103
 msgid "p15_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:99
+#: ../../variable/Q495CM.rst:105
 msgid "p16abc_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:101
+#: ../../variable/Q495CM.rst:107
 msgid "p16d_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:103
+#: ../../variable/Q495CM.rst:109
 msgid "p17_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:105
+#: ../../variable/Q495CM.rst:111
 msgid "p18_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:107
+#: ../../variable/Q495CM.rst:113
 msgid "p19_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:109
+#: ../../variable/Q495CM.rst:115
 msgid "p20_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:111
+#: ../../variable/Q495CM.rst:117
 msgid "p21abcd_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:113
+#: ../../variable/Q495CM.rst:119
 msgid "p21e_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:115
+#: ../../variable/Q495CM.rst:121
 msgid "p22_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:117
+#: ../../variable/Q495CM.rst:123
 msgid "p23_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:119
+#: ../../variable/Q495CM.rst:125
 msgid "p24_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:121
+#: ../../variable/Q495CM.rst:127
 msgid "p25_3"
 msgstr ""
 
-#: ../../variable/Q495CM.rst:123
+#: ../../variable/Q495CM.rst:129
 msgid "p26_3"
 msgstr ""
+
+#: ../../variable/Q495CM.rst:131
+msgid "p27_3"
+msgstr ""
+
+#: ../../variable/Q495CM.rst:133
+msgid "p28_3"
+msgstr ""
+
+#~ msgid "同時に複数のことをした場合は、主なもののほうでお答え下さい。"
+#~ msgstr ""
+#~ "If you do two or more activities"
+#~ " on weekdays or days off, choose "
+#~ "the most important of the two."
+
+#~ msgid "勉学／分（平日）"
+#~ msgstr "For schoolwork (studies) / minutes (workday)"
+
+#~ msgid "8"
+#~ msgstr ""
+

@@ -8,327 +8,326 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-24 18:42+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:3
+#: ../../kakei/nensyu.rst:3
 msgid "年収（税込み）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:6
+#: ../../kakei/nensyu.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:9
+#: ../../kakei/nensyu.rst:9
 msgid "有配偶"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:11
+#: ../../kakei/nensyu.rst:11
 msgid ""
 "あなた方ご夫婦、及びご夫婦以外の方が世帯員にいらっしゃればその方が昨年１年間 "
 "（調査年前年１月～調査年前年12月）に得た収入は、財産収入、社会保障給付なども含 め、全体でいくらくらいでしたか。次の１～5の区分でお答え下さい。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "配偶者の年収"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "本人の年収"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "夫婦共通の年収"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst
+#: ../../kakei/nensyu.rst
 msgid "夫婦以外の世帯員"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst
+#: ../../kakei/nensyu.rst
 msgid "の方全員の年収"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "勤め先の収入"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q296A </variable/Q296A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q297A </variable/Q297A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "─"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q299A </variable/Q299A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "事業収入"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q296B </variable/Q296B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q297B </variable/Q297B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q299B </variable/Q299B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "財産収入（昨年１年分）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q296C </variable/Q296C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q297C </variable/Q297C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q298A </variable/Q298A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q299C </variable/Q299C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "社会保障給付（昨年１年分）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q296D </variable/Q296D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q297D </variable/Q297D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q298B </variable/Q298B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q299D </variable/Q299D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "その他の収入（昨年１年分）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q296E </variable/Q296E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q297E </variable/Q297E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q298C </variable/Q298C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q299E </variable/Q299E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "合計"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q296F </variable/Q296F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q297F </variable/Q297F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q298D </variable/Q298D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q299F </variable/Q299F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "夫婦以外に収入があった世帯員"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "夫の父"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300A </variable/Q300A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "夫の母"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300B </variable/Q300B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "本人の父"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300C </variable/Q300C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "本人の母"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300D </variable/Q300D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "夫の祖父母"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300E </variable/Q300E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "本人の祖父母"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300F </variable/Q300F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "夫・本人の兄弟姉妹"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300H </variable/Q300H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "夫婦の子ども"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300O </variable/Q300O>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300I </variable/Q300I>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:43
+#: ../../kakei/nensyu.rst:43
 msgid ""
 "第2～4回では、「夫の兄弟姉妹」（ :doc:`Q300G </variable/Q300G>` ）、「あなたの兄弟姉妹」（ "
 ":doc:`Q300H </variable/Q300H>` ）と分けて聞いています。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:48
+#: ../../kakei/nensyu.rst:48
 msgid "無配偶"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:50
+#: ../../kakei/nensyu.rst:50
 msgid ""
 "あなた、及びあなた以外の方が世帯員にいらっしゃればその方が昨年１年間 "
 "（調査年前年１月～調査年前年12月）に得た収入は、財産収入、社会保障給付なども含 め、全体でいくらくらいでしたか。次の１～5の区分でお答え下さい。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "あなたの年収"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "あなた以外の世帯員の方全員の年収"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:68
+#: ../../kakei/nensyu.rst:1 ../../kakei/nensyu.rst:68
 msgid "本人以外に収入があった世帯員"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:70
+#: ../../kakei/nensyu.rst:70
 msgid "その方はどなたですか。（該当する方すべてに〇）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "父"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300J </variable/Q300J>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "母"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300K </variable/Q300K>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "祖父母"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300L </variable/Q300L>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "兄弟姉妹"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300M </variable/Q300M>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid "子ども"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
+#: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300P </variable/Q300P>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:1
-msgid ":doc:`QQ868 </variable/Q868>`"
+#: ../../kakei/nensyu.rst:1
+msgid ":doc:`Q868 </variable/Q868>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/nensyu.rst:85
+#: ../../kakei/nensyu.rst:85
 msgid "第2～4回では、無配偶の「その他」は「あなたの子ども」を含んでおり、変数名は :doc:`Q300N </variable/Q300N>` でした。"
 msgstr ""
 
@@ -336,5 +335,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "変数"
+#~ msgstr ""
+
+#~ msgid ":doc:`QQ868 </variable/Q868>`"
 #~ msgstr ""
 

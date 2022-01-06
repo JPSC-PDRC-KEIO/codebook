@@ -1,0 +1,183 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../covid19/kosodate/sewa_normal.rst:3
+msgid "お子さんの世話について（平常時）"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:7
+msgid "平日の夕方にお子さんを世話している人"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:9
+#: ../../covid19/kosodate/sewa_normal.rst:36
+msgid ""
+"第１子から第３子のお子さんについて、平日の夕方（16～18 時頃）に最も長く一緒にいる人・場所はどちらですか。上記の１～14 "
+"の中から１つずつお答えください。該当するお子さんが中学校を既に卒業している場合は０とお答えください。"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "項目"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "変数"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "あなた"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid ":doc:`Q1243A </variable/Q1243A>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "お子さんの父親"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid ":doc:`Q1243B </variable/Q1243B>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "お子さんの祖父母・親戚"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid ":doc:`Q1243C </variable/Q1243C>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "お子さんのきょうだい"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid ":doc:`Q1243D </variable/Q1243D>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "お子さんの友だち"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid ":doc:`Q1243E </variable/Q1243E>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "近隣の人や子どもの友だちの親"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid ":doc:`Q1243F </variable/Q1243F>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "あなたの友人・知人"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid ":doc:`Q1243G </variable/Q1243G>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "ベビーシッター・家政婦など"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid ":doc:`Q1243H </variable/Q1243H>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "保育園・学童保育など"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid ":doc:`Q1243I </variable/Q1243I>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "塾・習い事など"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid ":doc:`Q1243J </variable/Q1243J>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "部活・クラブ活動など"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid ":doc:`Q1243K </variable/Q1243K>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "一人でいる（世話の必要あり）"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid ":doc:`Q1243L </variable/Q1243L>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "一人でいる（世話の必要なし）"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid ":doc:`Q1243M </variable/Q1243M>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "その他"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid ":doc:`Q1243N </variable/Q1243N>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:34
+msgid "平日の夕方に最もお子さんと長くいた人"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "第1子"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid ":doc:`Q1244A </variable/Q1244A>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "第2子"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid ":doc:`Q1244B </variable/Q1244B>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid "第3子"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_normal.rst:1
+msgid ":doc:`Q1244C </variable/Q1244C>`"
+msgstr ""
+

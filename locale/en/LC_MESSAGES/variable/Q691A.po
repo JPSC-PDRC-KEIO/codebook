@@ -8,192 +8,203 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-17 10:35+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2021-06-18 13:29+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
-"X-Generator: Poedit 3.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q691A.rst:5
+#: ../../variable/Q691A.rst:6
 msgid "現職従事期間：年（配偶者）"
 msgstr "Duration of current employment: years (spouse)"
 
-#: ../../variable/Q691A.rst:9
+#: ../../variable/Q691A.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q691A.rst:11
+#: ../../variable/Q691A.rst:13
 msgid "Q691A"
 msgstr ""
 
-#: ../../variable/Q691A.rst:15
+#: ../../variable/Q691A.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q691A.rst:18
+#: ../../variable/Q691A.rst:21
 msgid "ご主人は、現在の仕事（勤め人の方は会社、それ以外の方は職種）をいつから続けていますか。（従事期間）"
-msgstr "How long has your husband been working at his current job (company if you are employed, job title if you are not)?"
+msgstr ""
+"How long has your husband been working at his current job (company if you"
+" are employed, job title if you are not)?"
 
-#: ../../variable/Q691A.rst:24
+#: ../../variable/Q691A.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q691A.rst:26
+#: ../../variable/Q691A.rst:30
 msgid "＿ ＿年"
 msgstr "＿ ＿years"
 
-#: ../../variable/Q691A.rst:32
+#: ../../variable/Q691A.rst:37
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q691A.rst:33
+#: ../../variable/Q691A.rst:38
 msgid "98"
 msgstr "98"
 
-#: ../../variable/Q691A.rst:38
+#: ../../variable/Q691A.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q691A.rst:44
+#: ../../variable/Q691A.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q691A.rst:45
+#: ../../variable/Q691A.rst:52
 msgid "99"
 msgstr "99"
 
-#: ../../variable/Q691A.rst:50
+#: ../../variable/Q691A.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q691A.rst:55
+#: ../../variable/Q691A.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q691A.rst:60
+#: ../../variable/Q691A.rst:71
 msgid "p1_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:62
+#: ../../variable/Q691A.rst:73
 msgid "p2_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:64
+#: ../../variable/Q691A.rst:75
 msgid "p3_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:66
+#: ../../variable/Q691A.rst:77
 msgid "p4_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:68
+#: ../../variable/Q691A.rst:79
 msgid "p5a_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:70
+#: ../../variable/Q691A.rst:81
 msgid "p5b_1"
 msgstr "p5b_1"
 
-#: ../../variable/Q691A.rst:72
+#: ../../variable/Q691A.rst:83
 msgid "p6_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:74
+#: ../../variable/Q691A.rst:85
 msgid "p7_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:76
+#: ../../variable/Q691A.rst:87
 msgid "p8_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:78
+#: ../../variable/Q691A.rst:89
 msgid "p9_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:80
+#: ../../variable/Q691A.rst:91
 msgid "p10_5"
 msgstr "p10_5"
 
-#: ../../variable/Q691A.rst:82
+#: ../../variable/Q691A.rst:93
 msgid "p11ab_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:84
+#: ../../variable/Q691A.rst:95
 msgid "p11c_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:86
+#: ../../variable/Q691A.rst:97
 msgid "p12_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:88
+#: ../../variable/Q691A.rst:99
 msgid "p13_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:90
+#: ../../variable/Q691A.rst:101
 msgid "p14_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:92
+#: ../../variable/Q691A.rst:103
 msgid "p15_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:94
+#: ../../variable/Q691A.rst:105
 msgid "p16abc_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:96
+#: ../../variable/Q691A.rst:107
 msgid "p16d_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:98
+#: ../../variable/Q691A.rst:109
 msgid "p17_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:100
+#: ../../variable/Q691A.rst:111
 msgid "p18_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:102
+#: ../../variable/Q691A.rst:113
 msgid "p19_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:104
+#: ../../variable/Q691A.rst:115
 msgid "p20_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:106
+#: ../../variable/Q691A.rst:117
 msgid "p21abcd_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:108
+#: ../../variable/Q691A.rst:119
 msgid "p21e_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:110
+#: ../../variable/Q691A.rst:121
 msgid "p22_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:112
+#: ../../variable/Q691A.rst:123
 msgid "p23_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:114
+#: ../../variable/Q691A.rst:125
 msgid "p24_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:116
+#: ../../variable/Q691A.rst:127
 msgid "p25_5"
 msgstr ""
 
-#: ../../variable/Q691A.rst:118
+#: ../../variable/Q691A.rst:129
 msgid "p26_5"
+msgstr "p26_5"
+
+#: ../../variable/Q691A.rst:131
+
+msgid "p27_5"
+msgstr "p26_5"
+
+#: ../../variable/Q691A.rst:133
+
+msgid "p28_5"
 msgstr "p26_5"
 
 #~ msgid "変数名: Q691A"
@@ -201,3 +212,4 @@ msgstr "p26_5"
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
+

@@ -8,40 +8,40 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q439.rst:5
+#: ../../variable/Q439.rst:6
 msgid "クレジットカード利用の有無"
 msgstr ""
 
-#: ../../variable/Q439.rst:9
+#: ../../variable/Q439.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q439.rst:11
+#: ../../variable/Q439.rst:13
 msgid "Q439"
 msgstr ""
 
-#: ../../variable/Q439.rst:15
+#: ../../variable/Q439.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q439.rst:18
+#: ../../variable/Q439.rst:21
 msgid "あなた方ご夫婦はクレジットカードをご利用ですか。"
 msgstr ""
 
-#: ../../variable/Q439.rst:26
+#: ../../variable/Q439.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q439.rst:29
+#: ../../variable/Q439.rst:30
 msgid "利用している"
 msgstr ""
 
@@ -49,7 +49,7 @@ msgstr ""
 msgid "カードは持っているがほとんど利用していない"
 msgstr ""
 
-#: ../../variable/Q439.rst:33
+#: ../../variable/Q439.rst:32
 msgid "カードは持っていない"
 msgstr ""
 
@@ -57,152 +57,160 @@ msgstr ""
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q439.rst:46
+#: ../../variable/Q439.rst:47
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q439.rst:52
+#: ../../variable/Q439.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q439.rst:53
+#: ../../variable/Q439.rst:55
 msgid "4"
 msgstr ""
 
-#: ../../variable/Q439.rst:58
+#: ../../variable/Q439.rst:61
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q439.rst:60
+#: ../../variable/Q439.rst:64
 msgid "無配偶票と共通の変数です。"
 msgstr ""
 
-#: ../../variable/Q439.rst:62
+#: ../../variable/Q439.rst:67
 msgid "無配偶票の質問文は「あなたはクレジットカードをご利用ですか。」となっています。"
 msgstr ""
 
-#: ../../variable/Q439.rst:66
+#: ../../variable/Q439.rst:75
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q439.rst:71
+#: ../../variable/Q439.rst:80
 msgid "p1_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:73
+#: ../../variable/Q439.rst:82
 msgid "p2_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:75
+#: ../../variable/Q439.rst:84
 msgid "p3_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:77
+#: ../../variable/Q439.rst:86
 msgid "p4_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:79
+#: ../../variable/Q439.rst:88
 msgid "p5a_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:81
+#: ../../variable/Q439.rst:90
 msgid "p5b_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:83
+#: ../../variable/Q439.rst:92
 msgid "p6_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:85
+#: ../../variable/Q439.rst:94
 msgid "p7_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:87
+#: ../../variable/Q439.rst:96
 msgid "p8_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:89
+#: ../../variable/Q439.rst:98
 msgid "p9_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:91
+#: ../../variable/Q439.rst:100
 msgid "p10_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:93
+#: ../../variable/Q439.rst:102
 msgid "p11ab_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:95
+#: ../../variable/Q439.rst:104
 msgid "p11c_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:97
+#: ../../variable/Q439.rst:106
 msgid "p12_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:99
+#: ../../variable/Q439.rst:108
 msgid "p13_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:101
+#: ../../variable/Q439.rst:110
 msgid "p14_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:103
+#: ../../variable/Q439.rst:112
 msgid "p15_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:105
+#: ../../variable/Q439.rst:114
 msgid "p16abc_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:107
+#: ../../variable/Q439.rst:116
 msgid "p16d_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:109
+#: ../../variable/Q439.rst:118
 msgid "p17_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:111
+#: ../../variable/Q439.rst:120
 msgid "p18_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:113
+#: ../../variable/Q439.rst:122
 msgid "p19_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:115
+#: ../../variable/Q439.rst:124
 msgid "p20_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:117
+#: ../../variable/Q439.rst:126
 msgid "p21abcd_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:119
+#: ../../variable/Q439.rst:128
 msgid "p21e_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:121
+#: ../../variable/Q439.rst:130
 msgid "p22_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:123
+#: ../../variable/Q439.rst:132
 msgid "p23_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:125
+#: ../../variable/Q439.rst:134
 msgid "p24_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:127
+#: ../../variable/Q439.rst:136
 msgid "p25_2"
 msgstr ""
 
-#: ../../variable/Q439.rst:129
+#: ../../variable/Q439.rst:138
 msgid "p26_2"
+msgstr ""
+
+#: ../../variable/Q439.rst:140
+msgid "p27_2"
+msgstr ""
+
+#: ../../variable/Q439.rst:142
+msgid "p28_2"
 msgstr ""
 
 #~ msgid "変数名: Q439"

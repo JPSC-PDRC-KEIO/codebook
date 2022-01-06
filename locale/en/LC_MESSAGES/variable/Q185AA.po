@@ -8,98 +8,109 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2020-05-25 22:30+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 2.3.1\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:5
+#: ../../variable/Q185AA.rst:6
 msgid "離職理由：育児・子育てのため"
 msgstr "Reason for leaving job: Chaild care"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:9
+#: ../../variable/Q185AA.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:11
+#: ../../variable/Q185AA.rst:13
 msgid "Q185AA"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:15
+#: ../../variable/Q185AA.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:18
+#: ../../variable/Q185AA.rst:21
 msgid "どのような理由で、あなたは１年前（昨年9月末）の会社等をやめたのですか。(〇はいくつでも)"
-msgstr "Why did you leave the company or organization where you worked one year ago (at the end of September of the previous year of the survey)? (Circle as many as apply to you.)"
+msgstr ""
+"Why did you leave the company or organization where you worked one year "
+"ago (at the end of September of the previous year of the survey)? (Circle"
+" as many as apply to you.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:21
+#: ../../variable/Q185AA.rst:24
 msgid "育児・子育てのため"
 msgstr "Because I had to care for my child"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:27
+#: ../../variable/Q185AA.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:30
+#: ../../variable/Q185AA.rst:33
 msgid "はい"
 msgstr "Yes"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:32
+#: ../../variable/Q185AA.rst:34
 msgid "いいえ"
 msgstr "No"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:39
+#: ../../variable/Q185AA.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:45
+#: ../../variable/Q185AA.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:51
+#: ../../variable/Q185AA.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:52
+#: ../../variable/Q185AA.rst:57
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:57
+#: ../../variable/Q185AA.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:63
+#: ../../variable/Q185AA.rst:71
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:68
+#: ../../variable/Q185AA.rst:76
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:70
+#: ../../variable/Q185AA.rst:78
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:72
+#: ../../variable/Q185AA.rst:80
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:74
+#: ../../variable/Q185AA.rst:82
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:76
+#: ../../variable/Q185AA.rst:84
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q185AA.rst:78
+#: ../../variable/Q185AA.rst:86
 msgid "p26_1"
 msgstr ""
+
+#: ../../variable/Q185AA.rst:88
+msgid "p27_1"
+msgstr ""
+
+#: ../../variable/Q185AA.rst:90
+msgid "p28_1"
+msgstr ""
+

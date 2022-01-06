@@ -8,156 +8,163 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2021-05-24 13:59+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 2.4.3\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:5
+#: ../../variable/Q1014_10.rst:6
 msgid "家族10：配偶関係"
 msgstr "Family10: Marital status"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:9
+#: ../../variable/Q1014_10.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:11
+#: ../../variable/Q1014_10.rst:13
 msgid "Q1014_10"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:15
+#: ../../variable/Q1014_10.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:18
+#: ../../variable/Q1014_10.rst:21
 msgid "配偶関係"
 msgstr "Marital status"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:21
+#: ../../variable/Q1014_10.rst:24
 msgid "家族10"
 msgstr "Family10"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:27
+#: ../../variable/Q1014_10.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:30
+#: ../../variable/Q1014_10.rst:33
 msgid "独身"
 msgstr "Single"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:32
+#: ../../variable/Q1014_10.rst:34
 msgid "結婚している"
 msgstr "Married"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:39
+#: ../../variable/Q1014_10.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:45
+#: ../../variable/Q1014_10.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:51
+#: ../../variable/Q1014_10.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:52
+#: ../../variable/Q1014_10.rst:57
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:57
+#: ../../variable/Q1014_10.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:63
+#: ../../variable/Q1014_10.rst:71
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:68
+#: ../../variable/Q1014_10.rst:76
 msgid "p10_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:70
+#: ../../variable/Q1014_10.rst:78
 msgid "p11ab_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:72
+#: ../../variable/Q1014_10.rst:80
 msgid "p11c_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:74
+#: ../../variable/Q1014_10.rst:82
 msgid "p12_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:76
+#: ../../variable/Q1014_10.rst:84
 msgid "p13_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:78
+#: ../../variable/Q1014_10.rst:86
 msgid "p14_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:80
+#: ../../variable/Q1014_10.rst:88
 msgid "p15_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:82
+#: ../../variable/Q1014_10.rst:90
 msgid "p16abc_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:84
+#: ../../variable/Q1014_10.rst:92
 msgid "p16d_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:86
+#: ../../variable/Q1014_10.rst:94
 msgid "p17_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:88
+#: ../../variable/Q1014_10.rst:96
 msgid "p18_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:90
+#: ../../variable/Q1014_10.rst:98
 msgid "p19_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:92
+#: ../../variable/Q1014_10.rst:100
 msgid "p20_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:94
+#: ../../variable/Q1014_10.rst:102
 msgid "p21abcd_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:96
+#: ../../variable/Q1014_10.rst:104
 msgid "p21e_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:98
+#: ../../variable/Q1014_10.rst:106
 msgid "p22_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:100
+#: ../../variable/Q1014_10.rst:108
 msgid "p23_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:102
+#: ../../variable/Q1014_10.rst:110
 msgid "p24_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:104
+#: ../../variable/Q1014_10.rst:112
 msgid "p25_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1014_10.rst:106
+#: ../../variable/Q1014_10.rst:114
 msgid "p26_5"
+msgstr ""
+
+#: ../../variable/Q1014_10.rst:116
+msgid "p27_5"
+msgstr ""
+
+#: ../../variable/Q1014_10.rst:118
+msgid "p28_5"
 msgstr ""
 
 #~ msgid "変数名: Q1014_10"
@@ -165,3 +172,4 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
+

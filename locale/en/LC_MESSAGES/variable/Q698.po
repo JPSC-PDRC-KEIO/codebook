@@ -8,216 +8,231 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-26 13:16+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2021-11-02 14:07+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 3.0\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:5
+#: ../../variable/Q698.rst:6
 msgid "勤務先従業員数（義父）"
 msgstr "Number of employees at work (father-in-law)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:9
+#: ../../variable/Q698.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:11
+#: ../../variable/Q698.rst:13
 msgid "Q698"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:15
+#: ../../variable/Q698.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:18
-msgid "その勤め先の従業員は会社全体で何人くらいですか（でしたか）。;（注　従業員数には、臨時職員・アルバイトは除きます。公務員の方は従業員数にかかわりなく「官公庁」に〇をしてください。）"
-msgstr "How many employees does (or did) the company have as a whole? (Note: The number of employees excludes temporary and part-time employees. If you are a civil servant, please circle \"Government and municipal offices\" regardless of the number of employees."
+#: ../../variable/Q698.rst:21
+msgid ""
+"その勤め先の従業員は会社全体で何人くらいですか（でしたか）。;（注　"
+"従業員数には、臨時職員・アルバイトは除きます。公務員の方は従業員数にかかわりなく「官公庁」に〇をしてください。）"
+msgstr ""
+"How many employees does (or did) the company have as a whole? (Note: The "
+"number of employees excludes temporary and part-time employees. If you "
+"are a civil servant, please circle \"Government and municipal offices\" "
+"regardless of the number of employees."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:24
+#: ../../variable/Q698.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:27
+#: ../../variable/Q698.rst:30
 msgid "1～4人"
 msgstr "1 to 4 people"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:29
+#: ../../variable/Q698.rst:31
 msgid "5～9人"
 msgstr "5 to 9 people"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:31
+#: ../../variable/Q698.rst:32
 msgid "10～29人"
 msgstr "10～29 people"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:33
+#: ../../variable/Q698.rst:33
 msgid "30～99人"
 msgstr "30 to 99 people"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:35
+#: ../../variable/Q698.rst:34
 msgid "100～499人"
 msgstr "100～499 people"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:37
+#: ../../variable/Q698.rst:35
 msgid "500～999人"
 msgstr "500 to 999 people"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:39
+#: ../../variable/Q698.rst:36
 msgid "1000人以上"
 msgstr "1000 people or more"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:41
+#: ../../variable/Q698.rst:37
 msgid "官公庁"
 msgstr "Government and Municipal Office"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:48
+#: ../../variable/Q698.rst:45
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:54
+#: ../../variable/Q698.rst:52
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:60
+#: ../../variable/Q698.rst:59
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:61
+#: ../../variable/Q698.rst:60
 msgid "9"
 msgstr "9"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:66
+#: ../../variable/Q698.rst:66
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:72
+#: ../../variable/Q698.rst:74
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:77
+#: ../../variable/Q698.rst:79
 msgid "p1_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:79
+#: ../../variable/Q698.rst:81
 msgid "p2_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:81
+#: ../../variable/Q698.rst:83
 msgid "p3_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:83
+#: ../../variable/Q698.rst:85
 msgid "p4_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:85
+#: ../../variable/Q698.rst:87
 msgid "p5a_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:87
+#: ../../variable/Q698.rst:89
 msgid "p5b_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:89
+#: ../../variable/Q698.rst:91
 msgid "p6_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:91
+#: ../../variable/Q698.rst:93
 msgid "p7_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:93
+#: ../../variable/Q698.rst:95
 msgid "p8_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:95
+#: ../../variable/Q698.rst:97
 msgid "p9_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:97
+#: ../../variable/Q698.rst:99
 msgid "p10_5"
 msgstr "p10_5"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:99
+#: ../../variable/Q698.rst:101
 msgid "p11ab_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:101
+#: ../../variable/Q698.rst:103
 msgid "p11c_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:103
+#: ../../variable/Q698.rst:105
 msgid "p12_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:105
+#: ../../variable/Q698.rst:107
 msgid "p13_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:107
+#: ../../variable/Q698.rst:109
 msgid "p14_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:109
+#: ../../variable/Q698.rst:111
 msgid "p15_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:111
+#: ../../variable/Q698.rst:113
 msgid "p16abc_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:113
+#: ../../variable/Q698.rst:115
 msgid "p16d_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:115
+#: ../../variable/Q698.rst:117
 msgid "p17_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:117
+#: ../../variable/Q698.rst:119
 msgid "p18_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:119
+#: ../../variable/Q698.rst:121
 msgid "p19_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:121
+#: ../../variable/Q698.rst:123
 msgid "p20_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:123
+#: ../../variable/Q698.rst:125
 msgid "p21abcd_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:125
+#: ../../variable/Q698.rst:127
 msgid "p21e_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:127
+#: ../../variable/Q698.rst:129
 msgid "p22_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:129
+#: ../../variable/Q698.rst:131
 msgid "p23_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:131
+#: ../../variable/Q698.rst:133
 msgid "p24_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:133
+#: ../../variable/Q698.rst:135
 msgid "p25_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q698.rst:135
+#: ../../variable/Q698.rst:137
 msgid "p26_5"
+msgstr "p26_5"
+
+#: ../../variable/Q698.rst:139
+
+msgid "p27_5"
+msgstr "p26_5"
+
+#: ../../variable/Q698.rst:141
+
+msgid "p28_5"
 msgstr "p26_5"
 
 #~ msgid "変数名: Q698"
@@ -228,3 +243,4 @@ msgstr "p26_5"
 
 #~ msgid "1000人以上 8. 官公庁"
 #~ msgstr ""
+

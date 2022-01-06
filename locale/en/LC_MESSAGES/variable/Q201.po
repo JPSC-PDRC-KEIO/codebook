@@ -8,177 +8,185 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:5
+#: ../../variable/Q201.rst:6
 msgid "離職・転職等への意識（無職）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:9
+#: ../../variable/Q201.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:11
+#: ../../variable/Q201.rst:13
 msgid "Q201"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:15
+#: ../../variable/Q201.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:18
+#: ../../variable/Q201.rst:21
 msgid "やめたり、仕事を変えたことについて、どう思っていますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:24
+#: ../../variable/Q201.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:27
+#: ../../variable/Q201.rst:30
 msgid "1.よかったと思っている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:29
+#: ../../variable/Q201.rst:31
 msgid "2.仕方がなかったと思っている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:31
+#: ../../variable/Q201.rst:32
 msgid "3.後悔している"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:33
+#: ../../variable/Q201.rst:33
 msgid "4.その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:40
+#: ../../variable/Q201.rst:41
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:46
+#: ../../variable/Q201.rst:48
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:52
+#: ../../variable/Q201.rst:55
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:53
+#: ../../variable/Q201.rst:56
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:58
+#: ../../variable/Q201.rst:62
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:64
+#: ../../variable/Q201.rst:70
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:69
+#: ../../variable/Q201.rst:75
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:71
+#: ../../variable/Q201.rst:77
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:73
+#: ../../variable/Q201.rst:79
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:75
+#: ../../variable/Q201.rst:81
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:77
+#: ../../variable/Q201.rst:83
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:79
+#: ../../variable/Q201.rst:85
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:81
+#: ../../variable/Q201.rst:87
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:83
+#: ../../variable/Q201.rst:89
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:85
+#: ../../variable/Q201.rst:91
 msgid "p10_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:87
+#: ../../variable/Q201.rst:93
 msgid "p11ab_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:89
+#: ../../variable/Q201.rst:95
 msgid "p12_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:91
+#: ../../variable/Q201.rst:97
 msgid "p13_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:93
+#: ../../variable/Q201.rst:99
 msgid "p14_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:95
+#: ../../variable/Q201.rst:101
 msgid "p15_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:97
+#: ../../variable/Q201.rst:103
 msgid "p16abc_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:99
+#: ../../variable/Q201.rst:105
 msgid "p17_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:101
+#: ../../variable/Q201.rst:107
 msgid "p18_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:103
+#: ../../variable/Q201.rst:109
 msgid "p19_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:105
+#: ../../variable/Q201.rst:111
 msgid "p20_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:107
+#: ../../variable/Q201.rst:113
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:109
+#: ../../variable/Q201.rst:115
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:111
+#: ../../variable/Q201.rst:117
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:113
+#: ../../variable/Q201.rst:119
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:115
+#: ../../variable/Q201.rst:121
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q201.rst:117
+#: ../../variable/Q201.rst:123
 msgid "p26_1"
+msgstr ""
+
+#: ../../variable/Q201.rst:125
+msgid "p27_1"
+msgstr ""
+
+#: ../../variable/Q201.rst:127
+msgid "p28_1"
 msgstr ""
 
 #~ msgid "変数名: Q201"

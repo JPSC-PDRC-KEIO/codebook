@@ -8,226 +8,234 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2021-10-04 14:08+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 3.0\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:5
+#: ../../variable/Q684.rst:6
 msgid "大学の専攻（配偶者）"
 msgstr "Area of specialization at college or university (spouse)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:9
+#: ../../variable/Q684.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:11
+#: ../../variable/Q684.rst:13
 msgid "Q684"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:15
+#: ../../variable/Q684.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:18
+#: ../../variable/Q684.rst:21
 msgid "専攻されたのは次のいずれですか。"
 msgstr "What was your husband's area of concentration?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:24
+#: ../../variable/Q684.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:27
+#: ../../variable/Q684.rst:30
 msgid "文学系"
 msgstr "Literature"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:29
+#: ../../variable/Q684.rst:31
 msgid "教育系"
 msgstr "Education"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:31
+#: ../../variable/Q684.rst:32
 msgid "法律・政治系"
 msgstr "Law/Politics"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:33
+#: ../../variable/Q684.rst:33
 msgid "経済・経営・商業系"
 msgstr "Economics/Business Administration/Commerce"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:35
+#: ../../variable/Q684.rst:34
 msgid "芸術系"
 msgstr "Fine Arts"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:37
+#: ../../variable/Q684.rst:35
 msgid "理学・工学系"
 msgstr "Science/Engineering"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:39
+#: ../../variable/Q684.rst:36
 msgid "家政・文系"
 msgstr "Home Economics (culture)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:41
+#: ../../variable/Q684.rst:37
 msgid "家政・理系"
 msgstr "Home Economics (science)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:43
+#: ../../variable/Q684.rst:38
 msgid "医学・歯学・薬学系"
 msgstr "Medicine/Dentistry/Pharmacology"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:45
+#: ../../variable/Q684.rst:39
 msgid "その他の文系"
 msgstr "Other Social Sciences"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:47
+#: ../../variable/Q684.rst:40
 msgid "その他の理系"
 msgstr "Other Physical Sciences"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:54
+#: ../../variable/Q684.rst:48
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:60
+#: ../../variable/Q684.rst:55
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:66
+#: ../../variable/Q684.rst:62
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:67
+#: ../../variable/Q684.rst:63
 msgid "12"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:72
+#: ../../variable/Q684.rst:69
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:78
+#: ../../variable/Q684.rst:77
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:83
+#: ../../variable/Q684.rst:82
 msgid "p1_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:85
+#: ../../variable/Q684.rst:84
 msgid "p2_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:87
+#: ../../variable/Q684.rst:86
 msgid "p3_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:89
+#: ../../variable/Q684.rst:88
 msgid "p4_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:91
+#: ../../variable/Q684.rst:90
 msgid "p5a_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:93
+#: ../../variable/Q684.rst:92
 msgid "p5b_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:95
+#: ../../variable/Q684.rst:94
 msgid "p6_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:97
+#: ../../variable/Q684.rst:96
 msgid "p7_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:99
+#: ../../variable/Q684.rst:98
 msgid "p8_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:101
+#: ../../variable/Q684.rst:100
 msgid "p9_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:103
+#: ../../variable/Q684.rst:102
 msgid "p10_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:105
+#: ../../variable/Q684.rst:104
 msgid "p11ab_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:107
+#: ../../variable/Q684.rst:106
 msgid "p11c_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:109
+#: ../../variable/Q684.rst:108
 msgid "p12_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:111
+#: ../../variable/Q684.rst:110
 msgid "p13_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:113
+#: ../../variable/Q684.rst:112
 msgid "p14_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:115
+#: ../../variable/Q684.rst:114
 msgid "p15_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:117
+#: ../../variable/Q684.rst:116
 msgid "p16abc_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:119
+#: ../../variable/Q684.rst:118
 msgid "p16d_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:121
+#: ../../variable/Q684.rst:120
 msgid "p17_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:123
+#: ../../variable/Q684.rst:122
 msgid "p18_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:125
+#: ../../variable/Q684.rst:124
 msgid "p19_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:127
+#: ../../variable/Q684.rst:126
 msgid "p20_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:129
+#: ../../variable/Q684.rst:128
 msgid "p21abcd_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:131
+#: ../../variable/Q684.rst:130
 msgid "p21e_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:133
+#: ../../variable/Q684.rst:132
 msgid "p22_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:135
+#: ../../variable/Q684.rst:134
 msgid "p23_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:137
+#: ../../variable/Q684.rst:136
 msgid "p24_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:139
+#: ../../variable/Q684.rst:138
 msgid "p25_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q684.rst:141
+#: ../../variable/Q684.rst:140
 msgid "p26_5"
 msgstr ""
+
+#: ../../variable/Q684.rst:142
+msgid "p27_5"
+msgstr ""
+
+#: ../../variable/Q684.rst:144
+msgid "p28_5"
+msgstr ""
+

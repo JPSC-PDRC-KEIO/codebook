@@ -8,65 +8,65 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2021-09-21 14:33+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
-"X-Generator: Poedit 3.0\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../dailylife/seikatsu_jikan/index.rst:3
 msgid "生活時間"
 msgstr "Daily schedule"
 
-#: ../../dailylife/seikatsu_jikan/index.rst:6
-msgid "質問文"
-msgstr "Question"
+#: ../../dailylife/seikatsu_jikan/index.rst:7
+msgid "本人の生活時間（有配偶・無配偶共通）"
+msgstr "Your daily schedule (common to both married and not married)"
 
-#: ../../dailylife/seikatsu_jikan/index.rst:8
+#: ../../dailylife/seikatsu_jikan/index.rst:9
+
 msgid ""
-"あなたとご主人の生活時間についてうかがいます。 日常の生活行動を次の６つに"
-"分けた場合、通常の平日、休日にそれぞれ合計でおおよそ何時間費やしています"
-"か。 あなたの場合とご主人の場合についてお答えください。（10分単位でご記入"
-"ください） 同時に複数のことをした場合は、主なものの方でお答え下さい。"
+"あなたの生活時間についておたずねします。日常の生活行動を仕事や家事などの次の６つに分けた場合、平日、休日におおよそ何時間費やしていますか。10 "
+"分単位でご記入下さい。"
 msgstr ""
-"Please answer the following questions about your and your husband's "
-"daily schedule. How many hours do you or your husband spend in total per "
+"Please answer the following questions about your and your husband's daily"
+" schedule. How many hours do you or your husband spend in total per "
 "workday and per day off for each of 6 activities listed below? (Please "
 "enter the time in hours and in units of 10 minutes.)\n"
-"If you or your husband do two or more activities on weekdays or days "
-"off, choose the most important of the two."
+"If you or your husband do two or more activities on weekdays or days off,"
+" choose the most important of the two."
+
+#: ../../dailylife/seikatsu_jikan/index.rst:11
+msgid "同時に複数のことをした場合は、主なもののほうでお答え下さい。平日について、在宅勤務等で仕事を行った日はそちらへの記入もお願いします。"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:13
+msgid "平日がほぼ在宅勤務等であった場合は、在宅勤務の欄のみ記入してください。"
+msgstr ""
+
+#: ../../dailylife/seikatsu_jikan/index.rst:15
 msgid "単位は、＿＿時間＿0分"
 msgstr "Time unit is ＿＿hours＿0 minutes"
 
-#: ../../dailylife/seikatsu_jikan/index.rst:16
-msgid ""
-"この質問の変数名は「時間」（末尾H）と「分」（末尾M）に分かれており、"
-"「分」は十の位のみ収録しています。"
-msgstr ""
-"The variable names in this question are divided into \"hours\" (ending "
-"in H) and \"minutes\" (ending in M), with \"minutes\" containing only "
-"the tenth place."
-
 #: ../../dailylife/seikatsu_jikan/index.rst:18
+msgid "この質問の変数名は「時間」（末尾H）と「分」（末尾M）に分かれており、「分」は十の位のみ収録しています。"
+msgstr ""
+"The variable names in this question are divided into \"hours\" (ending in"
+" H) and \"minutes\" (ending in M), with \"minutes\" containing only the "
+"tenth place."
+
+#: ../../dailylife/seikatsu_jikan/index.rst:20
 msgid ""
-"なお、この質問では生活時間を6項目に分けてたずねていますが、第2回（:doc:`"
-"生活時間（第2回） <seikatsu_jikan_2>`）のみ13項目に分けてたずねています。"
+"なお、この質問では生活時間を6項目に分けてたずねていますが、第2回（:doc:`生活時間（第2回） "
+"<seikatsu_jikan_2>`）のみ13項目に分けてたずねています。"
 msgstr ""
 "This question about \"daily schedule\" is divided into 6 items, but the "
 "second question (:doc:`\"daily schedule\" (second question) "
 "<seikatsu_jikan_2>`) is divided into 13 items."
-
-#: ../../dailylife/seikatsu_jikan/index.rst:21
-msgid "本人の生活時間（有配偶・無配偶共通）"
-msgstr "Your daily schedule (common to both married and not married)"
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 msgid "平日"
@@ -204,9 +204,78 @@ msgstr ":doc:`Q494MH </variable/Q494MH>`"
 msgid ":doc:`Q494MM </variable/Q494MM>`"
 msgstr ":doc:`Q494MM </variable/Q494MM>`"
 
-#: ../../dailylife/seikatsu_jikan/index.rst:35
+#: ../../dailylife/seikatsu_jikan/index.rst:37
+#: ../../dailylife/seikatsu_jikan/index.rst:74
+msgid "在宅勤務があると答えた方"
+msgstr ""
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1250AH </variable/Q1250AH>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1250AM </variable/Q1250AM>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1250BH </variable/Q1250BH>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1250BM </variable/Q1250BM>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1250CH </variable/Q1250CH>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1250CM </variable/Q1250CM>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1250DH </variable/Q1250DH>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1250DM </variable/Q1250DM>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1250IH </variable/Q1250IH>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1250IM </variable/Q1250IM>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1250MH </variable/Q1250MH>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1250MM </variable/Q1250MM>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:55
 msgid "配偶者の生活時間（有配偶のみ）"
 msgstr "Your husband's daily living schedule"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:57
+msgid "ご主人の生活時間についておたずねします。平日と在宅勤務の平日、休日の生活時間をお答え下さい。在宅勤務がない場合（無職も含む）は、通常の平日と休日の欄だけお答え下さい。"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 msgid ":doc:`Q495AH </variable/Q495AH>`"
@@ -303,3 +372,67 @@ msgstr ":doc:`Q496MH </variable/Q496MH>`"
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 msgid ":doc:`Q496MM </variable/Q496MM>`"
 msgstr ":doc:`Q496MM </variable/Q496MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1253AH </variable/Q1253AH>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1253AM </variable/Q1253AM>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1253BH </variable/Q1253BH>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1253BM </variable/Q1253BM>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1253CH </variable/Q1253CH>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1253CM </variable/Q1253CM>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1253DH </variable/Q1253DH>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1253DM </variable/Q1253DM>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1253IH </variable/Q1253IH>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1253IM </variable/Q1253IM>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1253MH </variable/Q1253MH>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#: ../../dailylife/seikatsu_jikan/index.rst:1
+
+msgid ":doc:`Q1253MM </variable/Q1253MM>`"
+msgstr ":doc:`Q495MM </variable/Q495MM>`"
+
+#~ msgid "質問文"
+#~ msgstr "Question"
+

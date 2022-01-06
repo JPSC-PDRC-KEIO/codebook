@@ -8,176 +8,158 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q1228A.rst:5
+#: ../../variable/Q1228A.rst:6
 msgid "生前贈与：金融資産の有無（配偶者の親）"
 msgstr ""
 
-#: ../../variable/Q1228A.rst:9
+#: ../../variable/Q1228A.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q1228A.rst:11
+#: ../../variable/Q1228A.rst:13
 msgid "Q1228A"
 msgstr ""
 
-#: ../../variable/Q1228A.rst:15
+#: ../../variable/Q1228A.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q1228A.rst:18
+#: ../../variable/Q1228A.rst:21
 msgid "あなた方ご夫婦は、この１年間（調査前年10月～調査年9月）にご主人の親から金融資産や実物資産をもらったことがありますか。もらった場合はその価値をご記入下さい。"
 msgstr ""
 
-#: ../../variable/Q1228A.rst:21
+#: ../../variable/Q1228A.rst:24
 msgid "生前贈与として・金融資産"
 msgstr ""
 
-#: ../../variable/Q1228A.rst:27
+#: ../../variable/Q1228A.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q1228A.rst:29
+#: ../../variable/Q1228A.rst:33
 msgid "もらったことはない"
 msgstr ""
 
-#: ../../variable/Q1228A.rst:31
+#: ../../variable/Q1228A.rst:34
 msgid "もらったことがある"
 msgstr ""
 
-#: ../../variable/Q1228A.rst:37
+#: ../../variable/Q1228A.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q1228A.rst:43
+#: ../../variable/Q1228A.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q1228A.rst:49
+#: ../../variable/Q1228A.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q1228A.rst:50
+#: ../../variable/Q1228A.rst:57
 msgid "3"
 msgstr ""
 
-#: ../../variable/Q1228A.rst:55
+#: ../../variable/Q1228A.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q1228A.rst:61
+#: ../../variable/Q1228A.rst:71
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q1228A.rst:66
-msgid "p2_2"
-msgstr ""
-
-#: ../../variable/Q1228A.rst:68
-msgid "p5b_2"
-msgstr ""
-
-#: ../../variable/Q1228A.rst:70
-msgid "p6_2"
-msgstr ""
-
-#: ../../variable/Q1228A.rst:72
-msgid "p7_2"
-msgstr ""
-
-#: ../../variable/Q1228A.rst:74
-msgid "p8_2"
-msgstr ""
-
 #: ../../variable/Q1228A.rst:76
-msgid "p9_2"
+msgid "p27_2"
 msgstr ""
 
 #: ../../variable/Q1228A.rst:78
-msgid "p10_2"
+msgid "p28_2"
 msgstr ""
 
-#: ../../variable/Q1228A.rst:80
-msgid "p11ab_2"
-msgstr ""
+#~ msgid "p2_2"
+#~ msgstr ""
 
-#: ../../variable/Q1228A.rst:82
-msgid "p11c_2"
-msgstr ""
+#~ msgid "p5b_2"
+#~ msgstr ""
 
-#: ../../variable/Q1228A.rst:84
-msgid "p12_2"
-msgstr ""
+#~ msgid "p6_2"
+#~ msgstr ""
 
-#: ../../variable/Q1228A.rst:86
-msgid "p13_2"
-msgstr ""
+#~ msgid "p7_2"
+#~ msgstr ""
 
-#: ../../variable/Q1228A.rst:88
-msgid "p14_2"
-msgstr ""
+#~ msgid "p8_2"
+#~ msgstr ""
 
-#: ../../variable/Q1228A.rst:90
-msgid "p15_2"
-msgstr ""
+#~ msgid "p9_2"
+#~ msgstr ""
 
-#: ../../variable/Q1228A.rst:92
-msgid "p16abc_2"
-msgstr ""
+#~ msgid "p10_2"
+#~ msgstr ""
 
-#: ../../variable/Q1228A.rst:94
-msgid "p16d_2"
-msgstr ""
+#~ msgid "p11ab_2"
+#~ msgstr ""
 
-#: ../../variable/Q1228A.rst:96
-msgid "p17_2"
-msgstr ""
+#~ msgid "p11c_2"
+#~ msgstr ""
 
-#: ../../variable/Q1228A.rst:98
-msgid "p18_2"
-msgstr ""
+#~ msgid "p12_2"
+#~ msgstr ""
 
-#: ../../variable/Q1228A.rst:100
-msgid "p19_2"
-msgstr ""
+#~ msgid "p13_2"
+#~ msgstr ""
 
-#: ../../variable/Q1228A.rst:102
-msgid "p20_2"
-msgstr ""
+#~ msgid "p14_2"
+#~ msgstr ""
 
-#: ../../variable/Q1228A.rst:104
-msgid "p21abcd_2"
-msgstr ""
+#~ msgid "p15_2"
+#~ msgstr ""
 
-#: ../../variable/Q1228A.rst:106
-msgid "p21e_2"
-msgstr ""
+#~ msgid "p16abc_2"
+#~ msgstr ""
 
-#: ../../variable/Q1228A.rst:108
-msgid "p22_2"
-msgstr ""
+#~ msgid "p16d_2"
+#~ msgstr ""
 
-#: ../../variable/Q1228A.rst:110
-msgid "p23_2"
-msgstr ""
+#~ msgid "p17_2"
+#~ msgstr ""
 
-#: ../../variable/Q1228A.rst:112
-msgid "p24_2"
-msgstr ""
+#~ msgid "p18_2"
+#~ msgstr ""
 
-#: ../../variable/Q1228A.rst:114
-msgid "p25_2"
-msgstr ""
+#~ msgid "p19_2"
+#~ msgstr ""
 
-#: ../../variable/Q1228A.rst:116
-msgid "p26_2"
-msgstr ""
+#~ msgid "p20_2"
+#~ msgstr ""
+
+#~ msgid "p21abcd_2"
+#~ msgstr ""
+
+#~ msgid "p21e_2"
+#~ msgstr ""
+
+#~ msgid "p22_2"
+#~ msgstr ""
+
+#~ msgid "p23_2"
+#~ msgstr ""
+
+#~ msgid "p24_2"
+#~ msgstr ""
+
+#~ msgid "p25_2"
+#~ msgstr ""
+
+#~ msgid "p26_2"
+#~ msgstr ""
 

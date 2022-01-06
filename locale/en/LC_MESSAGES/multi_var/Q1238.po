@@ -1,0 +1,136 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../multi_var/Q1238.rst:3
+msgid "仕事に関する変化"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:7
+msgid "質問文"
+msgstr "Question"
+
+#: ../../multi_var/Q1238.rst:8
+msgid "昨年の10月ごろ（前回の調査の回答時期）と比べて、以下のことはどの程度変わりましたか。（〇は１つずつ）"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "項目"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../multi_var/Q1238.rst:1
+msgid "大きく増えた"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "少し増えた"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "変わらない"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "少し減った"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "大きく減った"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "該当しない"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "仕事の量・ノルマ"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid ":doc:`Q1238A</variable/Q1238A>`"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "1"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "2"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "3"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "4"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "5"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "6"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "仕事の裁量"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid ":doc:`Q1238B</variable/Q1238B>`"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "深夜・早朝などの時間帯での仕事"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid ":doc:`Q1238C</variable/Q1238C>`"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "オンライン（WEB）・電話での会議・商談"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid ":doc:`Q1238D</variable/Q1238D>`"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "今の勤務先への満足度・愛着度"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid ":doc:`Q1238E</variable/Q1238E>`"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid "他の企業などへの転職希望"
+msgstr ""
+
+#: ../../multi_var/Q1238.rst:1
+msgid ":doc:`Q1238F</variable/Q1238F>`"
+msgstr ""
+

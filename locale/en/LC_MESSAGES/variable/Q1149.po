@@ -8,115 +8,123 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q1149.rst:5
+#: ../../variable/Q1149.rst:6
 msgid "次の住まいの計画の有無"
 msgstr ""
 
-#: ../../variable/Q1149.rst:9
+#: ../../variable/Q1149.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q1149.rst:11
+#: ../../variable/Q1149.rst:13
 msgid "Q1149"
 msgstr ""
 
-#: ../../variable/Q1149.rst:15
+#: ../../variable/Q1149.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q1149.rst:18
+#: ../../variable/Q1149.rst:21
 msgid ""
 "今後のお住まいの計画や考え方についておたずねします。; "
 "あなた方ご夫婦は、今のお住まいからの移転や、新しい住宅の建築、あるいは購入の計画をお持ちですか。（〇は１つだけ）"
 msgstr ""
 
-#: ../../variable/Q1149.rst:24
+#: ../../variable/Q1149.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q1149.rst:27
+#: ../../variable/Q1149.rst:30
 msgid "具体的な計画がある"
 msgstr ""
 
-#: ../../variable/Q1149.rst:29
+#: ../../variable/Q1149.rst:31
 msgid "具体的な計画はないが考えている"
 msgstr ""
 
-#: ../../variable/Q1149.rst:31
+#: ../../variable/Q1149.rst:32
 msgid "さしあたり何も考えていない"
 msgstr ""
 
-#: ../../variable/Q1149.rst:38
+#: ../../variable/Q1149.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q1149.rst:44
+#: ../../variable/Q1149.rst:47
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q1149.rst:45
+#: ../../variable/Q1149.rst:48
 msgid "4"
 msgstr ""
 
-#: ../../variable/Q1149.rst:50
+#: ../../variable/Q1149.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q1149.rst:51
+#: ../../variable/Q1149.rst:55
 msgid "5"
 msgstr ""
 
-#: ../../variable/Q1149.rst:56
+#: ../../variable/Q1149.rst:61
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q1149.rst:62
+#: ../../variable/Q1149.rst:69
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q1149.rst:67
+#: ../../variable/Q1149.rst:74
 msgid "p19_3"
 msgstr ""
 
-#: ../../variable/Q1149.rst:69
+#: ../../variable/Q1149.rst:76
 msgid "p20_3"
 msgstr ""
 
-#: ../../variable/Q1149.rst:71
+#: ../../variable/Q1149.rst:78
 msgid "p21abcd_3"
 msgstr ""
 
-#: ../../variable/Q1149.rst:73
+#: ../../variable/Q1149.rst:80
 msgid "p21e_3"
 msgstr ""
 
-#: ../../variable/Q1149.rst:75
+#: ../../variable/Q1149.rst:82
 msgid "p22_3"
 msgstr ""
 
-#: ../../variable/Q1149.rst:77
+#: ../../variable/Q1149.rst:84
 msgid "p23_3"
 msgstr ""
 
-#: ../../variable/Q1149.rst:79
+#: ../../variable/Q1149.rst:86
 msgid "p24_3"
 msgstr ""
 
-#: ../../variable/Q1149.rst:81
+#: ../../variable/Q1149.rst:88
 msgid "p25_3"
 msgstr ""
 
-#: ../../variable/Q1149.rst:83
+#: ../../variable/Q1149.rst:90
 msgid "p26_3"
+msgstr ""
+
+#: ../../variable/Q1149.rst:92
+msgid "p27_3"
+msgstr ""
+
+#: ../../variable/Q1149.rst:94
+msgid "p28_3"
 msgstr ""
 
 #~ msgid "変数名: Q1149"

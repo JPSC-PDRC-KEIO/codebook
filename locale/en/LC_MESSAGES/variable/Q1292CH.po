@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1292CH.rst:6
+msgid "生活時間（配偶者）：勉学／時間（緊急事態宣言中・指示のあった休業日）"
+msgstr ""
+
+#: ../../variable/Q1292CH.rst:11
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1292CH.rst:13
+msgid "Q1292CH"
+msgstr ""
+
+#: ../../variable/Q1292CH.rst:18
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1292CH.rst:21
+msgid "国の緊急事態宣言が発令されていた期間のご主人の生活時間についておたずねします。平日、在宅勤務のあった平日、休日、会社・雇い主の指示による休業日に分けて、それぞれの生活時間をお答えください。在宅勤務、指示による休業日がない場合は、その回答欄は無記入のままにしてください。"
+msgstr ""
+
+#: ../../variable/Q1292CH.rst:24
+msgid "指示のあった休業日：勉学"
+msgstr ""
+
+#: ../../variable/Q1292CH.rst:33
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1292CH.rst:35
+msgid "＿ ＿ 時間"
+msgstr ""
+
+#: ../../variable/Q1292CH.rst:42
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1292CH.rst:49
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code’"
+
+#: ../../variable/Q1292CH.rst:56
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1292CH.rst:57
+msgid "99"
+msgstr ""
+
+#: ../../variable/Q1292CH.rst:63
+msgid "備考"
+msgstr "Remarks"
+
+#: ../../variable/Q1292CH.rst:71
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1292CH.rst:76
+msgid "p28_5"
+msgstr ""
+

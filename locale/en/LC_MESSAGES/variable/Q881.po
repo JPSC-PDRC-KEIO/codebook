@@ -8,198 +8,211 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-19 15:52+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:5
+#: ../../variable/Q881.rst:6
 msgid "介護休業制度の有無"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:9
+#: ../../variable/Q881.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:11
+#: ../../variable/Q881.rst:13
 msgid "Q881"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:15
+#: ../../variable/Q881.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:18
+#: ../../variable/Q881.rst:21
 msgid "あなたの勤めている会社等には「介護休業制度」がありますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:24
+#: ../../variable/Q881.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:27
+#: ../../variable/Q881.rst:30
 msgid "会社等に制度があり、自分にも資格がある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:29
+#: ../../variable/Q881.rst:31
 msgid "会社等に制度はあるが、自分には資格がない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:31
+#: ../../variable/Q881.rst:32
 msgid "会社等に制度はあるが、自分には資格がの有無どうかわからない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:33
+#: ../../variable/Q881.rst:33
 msgid "会社等に制度がない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:35
+#: ../../variable/Q881.rst:34
 msgid "会社等に制度がの有無どうかわからない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:42
+#: ../../variable/Q881.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:48
+#: ../../variable/Q881.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:49
+#: ../../variable/Q881.rst:50
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:54
+#: ../../variable/Q881.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:55
+#: ../../variable/Q881.rst:57
 msgid "7"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:60
+#: ../../variable/Q881.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:62
-msgid "|nt1| 詳しくはこちら（:doc:`/syugyo/jouken/kaigokyuka`）をご参照ください。"
+#: ../../variable/Q881.rst:66
+msgid ""
+"この項目は途中で変数名や選択肢番号が変わっています。 "
+"詳しくはこちら（:doc:`/syugyo/jouken/kaigokyuka`）をご参照ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:67
+#: ../../variable/Q881.rst:74
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:72
+#: ../../variable/Q881.rst:79
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:74
+#: ../../variable/Q881.rst:81
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:76
+#: ../../variable/Q881.rst:83
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:78
+#: ../../variable/Q881.rst:85
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:80
+#: ../../variable/Q881.rst:87
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:82
+#: ../../variable/Q881.rst:89
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:84
+#: ../../variable/Q881.rst:91
 msgid "p10_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:86
+#: ../../variable/Q881.rst:93
 msgid "p11ab_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:88
+#: ../../variable/Q881.rst:95
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:90
+#: ../../variable/Q881.rst:97
 msgid "p12_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:92
+#: ../../variable/Q881.rst:99
 msgid "p13_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:94
+#: ../../variable/Q881.rst:101
 msgid "p14_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:96
+#: ../../variable/Q881.rst:103
 msgid "p15_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:98
+#: ../../variable/Q881.rst:105
 msgid "p16abc_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:100
+#: ../../variable/Q881.rst:107
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:102
+#: ../../variable/Q881.rst:109
 msgid "p17_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:104
+#: ../../variable/Q881.rst:111
 msgid "p18_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:106
+#: ../../variable/Q881.rst:113
 msgid "p19_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:108
+#: ../../variable/Q881.rst:115
 msgid "p20_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:110
+#: ../../variable/Q881.rst:117
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:112
+#: ../../variable/Q881.rst:119
 msgid "p21e_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:114
+#: ../../variable/Q881.rst:121
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:116
+#: ../../variable/Q881.rst:123
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:118
+#: ../../variable/Q881.rst:125
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:120
+#: ../../variable/Q881.rst:127
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q881.rst:122
+#: ../../variable/Q881.rst:129
 msgid "p26_1"
+msgstr ""
+
+#: ../../variable/Q881.rst:131
+msgid "p27_1"
+msgstr ""
+
+#: ../../variable/Q881.rst:133
+msgid "p28_1"
 msgstr ""
 
 #~ msgid "変数名: Q881"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "|nt1| 詳しくはこちら（:doc:`/syugyo/jouken/kaigokyuka`）をご参照ください。"
 #~ msgstr ""
 

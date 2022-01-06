@@ -8,140 +8,145 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-19 21:54+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:3
+#: ../../kakei/from_oya.rst:3
 msgid "親からの経済的援助"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:6
+#: ../../kakei/from_oya.rst:6
 msgid "実親から"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:9
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:36
+#: ../../kakei/from_oya.rst:9 ../../kakei/from_oya.rst:36
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:10
+#: ../../kakei/from_oya.rst:10
 msgid "次のもののうち、あなた自身の親から一部でも出してもらっているものはありますか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
+#: ../../kakei/from_oya.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
+#: ../../kakei/from_oya.rst:1
 msgid "変数"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
+#: ../../kakei/from_oya.rst:1
 msgid "住宅ローン返済"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
+#: ../../kakei/from_oya.rst:1
 msgid ":doc:`Q309A </variable/Q309A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
+#: ../../kakei/from_oya.rst:1
 msgid "家賃、地代"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
+#: ../../kakei/from_oya.rst:1
 msgid ":doc:`Q309B </variable/Q309B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
+#: ../../kakei/from_oya.rst:1
 msgid "生活費"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
+#: ../../kakei/from_oya.rst:1
 msgid ":doc:`Q309C </variable/Q309C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
+#: ../../kakei/from_oya.rst:1
 msgid "子どもの費用（教育費、服、その他の費用）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
-msgid ":doc:`Q309D </variable/Q309D>`"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
-msgid "その他"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
-msgid ":doc:`Q309EA </variable/Q309E>`"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
-msgid "出してもらっているものはない"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
+#: ../../kakei/from_oya.rst:1
 msgid ":doc:`Q309F </variable/Q309F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:23
+#: ../../kakei/from_oya.rst:1
+msgid "その他"
+msgstr ""
+
+#: ../../kakei/from_oya.rst:1
+msgid ":doc:`Q309D </variable/Q309D>`"
+msgstr ""
+
+#: ../../kakei/from_oya.rst:1
+msgid "出してもらっているものはない"
+msgstr ""
+
+#: ../../kakei/from_oya.rst:1
+msgid ":doc:`Q309E </variable/Q309E>`"
+msgstr ""
+
+#: ../../kakei/from_oya.rst:23
 msgid "あなた自身の親から出してもらっている金額は月に合計いくらですか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
+#: ../../kakei/from_oya.rst:1
 msgid "合計額"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
+#: ../../kakei/from_oya.rst:1
 msgid ":doc:`Q866 </variable/Q866>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:33
+#: ../../kakei/from_oya.rst:33
 msgid "義親から（有配偶)"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:37
+#: ../../kakei/from_oya.rst:37
 msgid "次のもののうち、ご主人の親から一部でも出してもらっているものはありますか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
+#: ../../kakei/from_oya.rst:1
 msgid ":doc:`Q310A </variable/Q310A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
+#: ../../kakei/from_oya.rst:1
 msgid ":doc:`Q310B </variable/Q310B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
+#: ../../kakei/from_oya.rst:1
 msgid ":doc:`Q310C </variable/Q310C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
-msgid ":doc:`Q310D </variable/Q310D>`"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
-msgid ":doc:`Q310EA </variable/Q310E>`"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
+#: ../../kakei/from_oya.rst:1
 msgid ":doc:`Q310F </variable/Q310F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:51
+#: ../../kakei/from_oya.rst:1
+msgid ":doc:`Q310D </variable/Q310D>`"
+msgstr ""
+
+#: ../../kakei/from_oya.rst:1
+msgid ":doc:`Q310E </variable/Q310E>`"
+msgstr ""
+
+#: ../../kakei/from_oya.rst:51
 msgid "ご主人の親から出してもらっている金額は月に合計いくらですか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/from_oya.rst:1
+#: ../../kakei/from_oya.rst:1
 msgid ":doc:`Q867 </variable/Q867>`"
 msgstr ""
 
 #~ msgid "変数名"
+#~ msgstr ""
+
+#~ msgid ":doc:`Q309EA </variable/Q309E>`"
+#~ msgstr ""
+
+#~ msgid ":doc:`Q310EA </variable/Q310E>`"
 #~ msgstr ""
 

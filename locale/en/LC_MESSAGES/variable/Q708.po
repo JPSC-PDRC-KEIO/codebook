@@ -8,176 +8,187 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2021-08-31 17:29+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 3.0\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:5
+#: ../../variable/Q708.rst:6
 msgid "結婚による住居変化"
 msgstr "Change of residence due to marriage"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:9
+#: ../../variable/Q708.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:11
+#: ../../variable/Q708.rst:13
 msgid "Q708"
 msgstr "Q708"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:15
+#: ../../variable/Q708.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:18
+#: ../../variable/Q708.rst:21
 msgid "結婚後による居住の変化は次のうちどれになりますか。"
 msgstr "Which of the following is a change in your residence after marriage?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:24
+#: ../../variable/Q708.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:27
+#: ../../variable/Q708.rst:30
 msgid "あなたがご主人の家に引っ越した"
 msgstr "You moved into your husband's house."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:29
+#: ../../variable/Q708.rst:31
 msgid "ご主人があなたの家に引っ越した"
 msgstr "Your husband moved into your house."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:31
+#: ../../variable/Q708.rst:32
 msgid "家を新しく借りた"
 msgstr "You rented a new house."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:33
+#: ../../variable/Q708.rst:33
 msgid "家（土地または住宅のみも含みます）を新しく購入した（新築も親との共同名義も含みます）"
-msgstr "Purchased(including new construction and joint ownership with parents) a new house (including land or house only) ."
+msgstr ""
+"Purchased(including new construction and joint ownership with parents) a "
+"new house (including land or house only) ."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:40
+#: ../../variable/Q708.rst:41
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:46
+#: ../../variable/Q708.rst:48
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:52
+#: ../../variable/Q708.rst:55
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:53
+#: ../../variable/Q708.rst:56
 msgid "5"
 msgstr "5"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:58
+#: ../../variable/Q708.rst:62
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:64
+#: ../../variable/Q708.rst:70
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:69
+#: ../../variable/Q708.rst:75
 msgid "p3_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:71
+#: ../../variable/Q708.rst:77
 msgid "p4_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:73
+#: ../../variable/Q708.rst:79
 msgid "p5a_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:75
+#: ../../variable/Q708.rst:81
 msgid "p6_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:77
+#: ../../variable/Q708.rst:83
 msgid "p7_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:79
+#: ../../variable/Q708.rst:85
 msgid "p8_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:81
+#: ../../variable/Q708.rst:87
 msgid "p9_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:83
+#: ../../variable/Q708.rst:89
 msgid "p10_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:85
+#: ../../variable/Q708.rst:91
 msgid "p11ab_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:87
+#: ../../variable/Q708.rst:93
 msgid "p12_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:89
+#: ../../variable/Q708.rst:95
 msgid "p13_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:91
+#: ../../variable/Q708.rst:97
 msgid "p14_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:93
+#: ../../variable/Q708.rst:99
 msgid "p15_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:95
+#: ../../variable/Q708.rst:101
 msgid "p16abc_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:97
+#: ../../variable/Q708.rst:103
 msgid "p17_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:99
+#: ../../variable/Q708.rst:105
 msgid "p18_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:101
+#: ../../variable/Q708.rst:107
 msgid "p19_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:103
+#: ../../variable/Q708.rst:109
 msgid "p20_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:105
+#: ../../variable/Q708.rst:111
 msgid "p21abcd_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:107
+#: ../../variable/Q708.rst:113
 msgid "p22_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:109
+#: ../../variable/Q708.rst:115
 msgid "p23_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:111
+#: ../../variable/Q708.rst:117
 msgid "p24_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:113
+#: ../../variable/Q708.rst:119
 msgid "p25_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q708.rst:115
+#: ../../variable/Q708.rst:121
 msgid "p26_2"
+msgstr "p26_2"
+
+#: ../../variable/Q708.rst:123
+
+msgid "p27_2"
+msgstr "p26_2"
+
+#: ../../variable/Q708.rst:125
+
+msgid "p28_2"
 msgstr "p26_2"
 
 #~ msgid "変数名: Q708"
@@ -185,3 +196,4 @@ msgstr "p26_2"
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
+

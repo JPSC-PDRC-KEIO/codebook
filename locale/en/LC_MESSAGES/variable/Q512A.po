@@ -1,167 +1,177 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-30 14:10+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2020-06-01 14:08+0900\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3.1\n"
 "Last-Translator: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q512A.rst:5
+#: ../../variable/Q512A.rst:6
 msgid "出産のための条件：生活費の余裕"
 msgstr "Conditions for giving birth: Living expenses"
 
-#: ../../variable/Q512A.rst:9
+#: ../../variable/Q512A.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q512A.rst:11
+#: ../../variable/Q512A.rst:13
 msgid "Q512A"
 msgstr ""
 
-#: ../../variable/Q512A.rst:15
+#: ../../variable/Q512A.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q512A.rst:18
+#: ../../variable/Q512A.rst:21
 msgid "その条件とは何ですか（〇はいくつでも）"
 msgstr "What is (are) the condition(s)? (Pleas select all that apply.)"
 
-#: ../../variable/Q512A.rst:21
+#: ../../variable/Q512A.rst:24
 msgid "生活費に余裕ができたら"
 msgstr "To be able to pay our living expenses with a child or another child"
 
-#: ../../variable/Q512A.rst:27
+#: ../../variable/Q512A.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q512A.rst:30
+#: ../../variable/Q512A.rst:33
 msgid "はい"
 msgstr "Yes"
 
-#: ../../variable/Q512A.rst:32
+#: ../../variable/Q512A.rst:34
 msgid "いいえ"
 msgstr "No"
 
-#: ../../variable/Q512A.rst:39
+#: ../../variable/Q512A.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q512A.rst:45
+#: ../../variable/Q512A.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q512A.rst:51
+#: ../../variable/Q512A.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q512A.rst:52
+#: ../../variable/Q512A.rst:57
 msgid "3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:57
+#: ../../variable/Q512A.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q512A.rst:63
+#: ../../variable/Q512A.rst:71
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q512A.rst:68
+#: ../../variable/Q512A.rst:76
 msgid "p2_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:70
+#: ../../variable/Q512A.rst:78
 msgid "p5a_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:72
+#: ../../variable/Q512A.rst:80
 msgid "p5b_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:74
+#: ../../variable/Q512A.rst:82
 msgid "p8_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:76
+#: ../../variable/Q512A.rst:84
 msgid "p11c_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:78
+#: ../../variable/Q512A.rst:86
 msgid "p12_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:80
+#: ../../variable/Q512A.rst:88
 msgid "p13_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:82
+#: ../../variable/Q512A.rst:90
 msgid "p14_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:84
+#: ../../variable/Q512A.rst:92
 msgid "p15_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:86
+#: ../../variable/Q512A.rst:94
 msgid "p16abc_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:88
+#: ../../variable/Q512A.rst:96
 msgid "p16d_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:90
+#: ../../variable/Q512A.rst:98
 msgid "p17_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:92
+#: ../../variable/Q512A.rst:100
 msgid "p18_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:94
+#: ../../variable/Q512A.rst:102
 msgid "p19_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:96
+#: ../../variable/Q512A.rst:104
 msgid "p20_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:98
+#: ../../variable/Q512A.rst:106
 msgid "p21abcd_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:100
+#: ../../variable/Q512A.rst:108
 msgid "p21e_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:102
+#: ../../variable/Q512A.rst:110
 msgid "p22_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:104
+#: ../../variable/Q512A.rst:112
 msgid "p23_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:106
+#: ../../variable/Q512A.rst:114
 msgid "p24_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:108
+#: ../../variable/Q512A.rst:116
 msgid "p25_3"
 msgstr ""
 
-#: ../../variable/Q512A.rst:110
+#: ../../variable/Q512A.rst:118
 msgid "p26_3"
 msgstr ""
+
+#: ../../variable/Q512A.rst:120
+msgid "p27_3"
+msgstr ""
+
+#: ../../variable/Q512A.rst:122
+msgid "p28_3"
+msgstr ""
+

@@ -8,96 +8,96 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../variable/Q376A.rst:6
-msgid "住宅取得年 [第1回 |endash| 第6回]"
+msgid "None"
 msgstr ""
 
-#: ../../variable/Q376A.rst:10
+#: ../../variable/Q376A.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q376A.rst:12
+#: ../../variable/Q376A.rst:13
 msgid "Q376A"
 msgstr ""
 
-#: ../../variable/Q376A.rst:16
+#: ../../variable/Q376A.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q376A.rst:19
+#: ../../variable/Q376A.rst:21
 msgid "その住宅はいつ取得（贈与・相続を含む）しましたか。"
 msgstr ""
 
-#: ../../variable/Q376A.rst:25
+#: ../../variable/Q376A.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q376A.rst:27
+#: ../../variable/Q376A.rst:30
 msgid "＿ ＿ 年 (西暦下2桁)"
 msgstr ""
 
-#: ../../variable/Q376A.rst:33
+#: ../../variable/Q376A.rst:37
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q376A.rst:34
+#: ../../variable/Q376A.rst:38
 msgid "9998"
 msgstr ""
 
-#: ../../variable/Q376A.rst:39
+#: ../../variable/Q376A.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q376A.rst:45
+#: ../../variable/Q376A.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q376A.rst:46
+#: ../../variable/Q376A.rst:52
 msgid "9999"
 msgstr ""
 
-#: ../../variable/Q376A.rst:51
+#: ../../variable/Q376A.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q376A.rst:57
+#: ../../variable/Q376A.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q376A.rst:61
+#: ../../variable/Q376A.rst:71
 msgid "p1_2"
 msgstr ""
 
-#: ../../variable/Q376A.rst:63
+#: ../../variable/Q376A.rst:73
 msgid "p2_2"
 msgstr ""
 
-#: ../../variable/Q376A.rst:65
+#: ../../variable/Q376A.rst:75
 msgid "p3_2"
 msgstr ""
 
-#: ../../variable/Q376A.rst:67
+#: ../../variable/Q376A.rst:77
 msgid "p4_2"
 msgstr ""
 
-#: ../../variable/Q376A.rst:69
+#: ../../variable/Q376A.rst:79
 msgid "p5a_2"
 msgstr ""
 
-#: ../../variable/Q376A.rst:71
+#: ../../variable/Q376A.rst:81
 msgid "p5b_2"
 msgstr ""
 
-#: ../../variable/Q376A.rst:73
+#: ../../variable/Q376A.rst:83
 msgid "p6_2"
 msgstr ""
 
@@ -114,5 +114,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "住宅取得年〔第1～第6回〕"
+#~ msgstr ""
+
+#~ msgid "住宅取得年 [第1回 |endash| 第6回]"
 #~ msgstr ""
 

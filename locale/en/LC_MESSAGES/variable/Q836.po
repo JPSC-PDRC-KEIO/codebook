@@ -8,185 +8,193 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:5
+#: ../../variable/Q836.rst:6
 msgid "住宅購入の有無"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:9
+#: ../../variable/Q836.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:11
+#: ../../variable/Q836.rst:13
 msgid "Q836"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:15
+#: ../../variable/Q836.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:18
+#: ../../variable/Q836.rst:21
 msgid "あなた方ご夫婦はこの1年間（調査前年１０月～調査年９月）に、自分たちで住んだり、セカンドハウスとして利用するために土地または住宅を購入しましたか。（新築や親との共同名義のものも含みます）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:24
+#: ../../variable/Q836.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:27
+#: ../../variable/Q836.rst:30
 msgid "土地のみを購入した"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:29
+#: ../../variable/Q836.rst:31
 msgid "家屋のみを購入した"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:31
+#: ../../variable/Q836.rst:32
 msgid "土地と家屋両方を購入した"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:33
+#: ../../variable/Q836.rst:33
 msgid "マンションを購入した"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:35
+#: ../../variable/Q836.rst:34
 msgid "購入しなかった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:42
+#: ../../variable/Q836.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:48
+#: ../../variable/Q836.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:54
+#: ../../variable/Q836.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:55
+#: ../../variable/Q836.rst:57
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:60
+#: ../../variable/Q836.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:66
+#: ../../variable/Q836.rst:71
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:71
+#: ../../variable/Q836.rst:76
 msgid "p5a_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:73
+#: ../../variable/Q836.rst:78
 msgid "p5b_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:75
+#: ../../variable/Q836.rst:80
 msgid "p6_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:77
+#: ../../variable/Q836.rst:82
 msgid "p7_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:79
+#: ../../variable/Q836.rst:84
 msgid "p8_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:81
+#: ../../variable/Q836.rst:86
 msgid "p9_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:83
+#: ../../variable/Q836.rst:88
 msgid "p10_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:85
+#: ../../variable/Q836.rst:90
 msgid "p11ab_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:87
+#: ../../variable/Q836.rst:92
 msgid "p11c_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:89
+#: ../../variable/Q836.rst:94
 msgid "p12_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:91
+#: ../../variable/Q836.rst:96
 msgid "p13_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:93
+#: ../../variable/Q836.rst:98
 msgid "p14_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:95
+#: ../../variable/Q836.rst:100
 msgid "p15_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:97
+#: ../../variable/Q836.rst:102
 msgid "p16abc_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:99
+#: ../../variable/Q836.rst:104
 msgid "p16d_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:101
+#: ../../variable/Q836.rst:106
 msgid "p17_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:103
+#: ../../variable/Q836.rst:108
 msgid "p18_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:105
+#: ../../variable/Q836.rst:110
 msgid "p19_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:107
+#: ../../variable/Q836.rst:112
 msgid "p20_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:109
+#: ../../variable/Q836.rst:114
 msgid "p21abcd_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:111
+#: ../../variable/Q836.rst:116
 msgid "p21e_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:113
+#: ../../variable/Q836.rst:118
 msgid "p22_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:115
+#: ../../variable/Q836.rst:120
 msgid "p23_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:117
+#: ../../variable/Q836.rst:122
 msgid "p24_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:119
+#: ../../variable/Q836.rst:124
 msgid "p25_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q836.rst:121
+#: ../../variable/Q836.rst:126
 msgid "p26_2"
+msgstr ""
+
+#: ../../variable/Q836.rst:128
+msgid "p27_2"
+msgstr ""
+
+#: ../../variable/Q836.rst:130
+msgid "p28_2"
 msgstr ""
 
 #~ msgid "変数名: Q836"

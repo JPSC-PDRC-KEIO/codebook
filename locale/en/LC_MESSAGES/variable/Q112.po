@@ -8,196 +8,208 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2021-07-13 13:54+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 3.0\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:5
+#: ../../variable/Q112.rst:6
 msgid "遺産配分の仕方"
 msgstr "The method of estate distribution"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:9
+#: ../../variable/Q112.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:11
+#: ../../variable/Q112.rst:13
 msgid "Q112"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:15
+#: ../../variable/Q112.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:18
+#: ../../variable/Q112.rst:21
 msgid "亡くなった方の子どもが相続した遺産はどのように配分されましたか。（〇は１つだけ）"
-msgstr "How was the inheritance distributed to the children of the deceased? (Circle only one)"
+msgstr ""
+"How was the inheritance distributed to the children of the deceased? "
+"(Circle only one)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:24
+#: ../../variable/Q112.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:27
+#: ../../variable/Q112.rst:30
 msgid "均等に配分された"
 msgstr "Evenly distributed"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:29
+#: ../../variable/Q112.rst:31
 msgid "きょうだいのうち、長男が全部相続した"
 msgstr "The eldest son inherited everything."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:31
+#: ../../variable/Q112.rst:32
 msgid "きょうだいのうち、長男が多く相続した"
 msgstr "The eldest son inherited more than the other siblings."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:33
+#: ../../variable/Q112.rst:33
 msgid "きょうだいのうち、長男以外の子が全部相続した"
 msgstr "The children other than the eldest son inherited everything."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:35
+#: ../../variable/Q112.rst:34
 msgid "きょうだいのうち、長男以外の子が多く相続した"
 msgstr "The children other than the eldest son inherited more."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:37
+#: ../../variable/Q112.rst:35
 msgid "その他"
 msgstr "Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:39
+#: ../../variable/Q112.rst:36
 msgid "一人っ子の長子が全部相続した"
 msgstr "The only child inherited everything."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:41
+#: ../../variable/Q112.rst:37
 msgid "どの子どもも遺産を全く相続しなかった"
 msgstr "None of the children inherited anything at all."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:48
+#: ../../variable/Q112.rst:45
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:54
+#: ../../variable/Q112.rst:52
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:60
+#: ../../variable/Q112.rst:59
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:66
+#: ../../variable/Q112.rst:66
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:72
+#: ../../variable/Q112.rst:74
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:77
+#: ../../variable/Q112.rst:79
 msgid "p2_1"
 msgstr "p2_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:79
+#: ../../variable/Q112.rst:81
 msgid "p3_1"
 msgstr "p3_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:81
+#: ../../variable/Q112.rst:83
 msgid "p4_1"
 msgstr "p4_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:83
+#: ../../variable/Q112.rst:85
 msgid "p5a_1"
 msgstr "p5a_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:85
+#: ../../variable/Q112.rst:87
 msgid "p6_1"
 msgstr "p6_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:87
+#: ../../variable/Q112.rst:89
 msgid "p7_1"
 msgstr "p7_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:89
+#: ../../variable/Q112.rst:91
 msgid "p8_1"
 msgstr "p8_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:91
+#: ../../variable/Q112.rst:93
 msgid "p9_1"
 msgstr "p9_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:93
+#: ../../variable/Q112.rst:95
 msgid "p10_1"
 msgstr "p10_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:95
+#: ../../variable/Q112.rst:97
 msgid "p11ab_1"
 msgstr "p11ab_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:97
+#: ../../variable/Q112.rst:99
 msgid "p12_1"
 msgstr "p12_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:99
+#: ../../variable/Q112.rst:101
 msgid "p13_1"
 msgstr "p13_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:101
+#: ../../variable/Q112.rst:103
 msgid "p14_1"
 msgstr "p14_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:103
+#: ../../variable/Q112.rst:105
 msgid "p15_1"
 msgstr "p15_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:105
+#: ../../variable/Q112.rst:107
 msgid "p16abc_1"
 msgstr "p16abc_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:107
+#: ../../variable/Q112.rst:109
 msgid "p17_1"
 msgstr "p17_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:109
+#: ../../variable/Q112.rst:111
 msgid "p18_1"
 msgstr "p18_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:111
+#: ../../variable/Q112.rst:113
 msgid "p19_1"
 msgstr "p19_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:113
+#: ../../variable/Q112.rst:115
 msgid "p20_1"
 msgstr "p20_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:115
+#: ../../variable/Q112.rst:117
 msgid "p21abcd_1"
 msgstr "p21abcd_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:117
+#: ../../variable/Q112.rst:119
 msgid "p22_1"
 msgstr "p22_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:119
+#: ../../variable/Q112.rst:121
 msgid "p23_1"
 msgstr "p23_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:121
+#: ../../variable/Q112.rst:123
 msgid "p24_1"
 msgstr "p24_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:123
+#: ../../variable/Q112.rst:125
 msgid "p25_1"
 msgstr "p25_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q112.rst:125
+#: ../../variable/Q112.rst:127
 msgid "p26_1"
 msgstr "p26_1"
+
+#: ../../variable/Q112.rst:129
+
+msgid "p27_1"
+msgstr "p7_1"
+
+#: ../../variable/Q112.rst:131
+
+msgid "p28_1"
+msgstr "p8_1"
 
 #~ msgid "変数名: Q112"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
+

@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../syugyo/ritensyoku/koyouhoken_yu.rst:3
+msgid "雇用保険失業給付の受給"
+msgstr ""
+
+#: ../../syugyo/ritensyoku/koyouhoken_yu.rst:13
+msgid "「雇用保険失業給付受給の有無」については、変数名と選択肢が下記のように変化しています。"
+msgstr ""
+
+#: ../../syugyo/ritensyoku/koyouhoken_yu.rst:1
+msgid "第2～第17回"
+msgstr ""
+
+#: ../../syugyo/ritensyoku/koyouhoken_yu.rst:1
+msgid "第18回～"
+msgstr ""
+
+#: ../../syugyo/ritensyoku/koyouhoken_yu.rst:1
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../syugyo/ritensyoku/koyouhoken_yu.rst:1
+msgid ":doc:`Q186A </variable/Q186A>`"
+msgstr ""
+
+#: ../../syugyo/ritensyoku/koyouhoken_yu.rst:1
+msgid ":doc:`Q1113 </variable/Q1113>`"
+msgstr ""
+
+#: ../../syugyo/ritensyoku/koyouhoken_yu.rst:1
+msgid "選択肢"
+msgstr ""
+
+#: ../../syugyo/ritensyoku/koyouhoken_yu.rst
+msgid "1.受給していた"
+msgstr ""
+
+#: ../../syugyo/ritensyoku/koyouhoken_yu.rst
+msgid "2.受給しなかった"
+msgstr ""
+
+#: ../../syugyo/ritensyoku/koyouhoken_yu.rst
+msgid "3.雇用保険には入っていなかった"
+msgstr ""
+
+#: ../../syugyo/ritensyoku/koyouhoken_yu.rst
+msgid "2.受給している"
+msgstr ""
+
+#: ../../syugyo/ritensyoku/koyouhoken_yu.rst
+msgid "3.現在申請している"
+msgstr ""
+
+#: ../../syugyo/ritensyoku/koyouhoken_yu.rst
+msgid "4.雇用保険に入っていたが受給しなかった"
+msgstr ""
+
+#: ../../syugyo/ritensyoku/koyouhoken_yu.rst
+msgid "5.雇用保険には入っていなかった"
+msgstr ""
+

@@ -8,158 +8,169 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-19 15:52+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:5
+#: ../../variable/Q191V.rst:6
 msgid "現職（会社）の選択理由：結婚・出産後も続けやすい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:9
+#: ../../variable/Q191V.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:11
+#: ../../variable/Q191V.rst:13
 msgid "Q191V"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:15
+#: ../../variable/Q191V.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:18
+#: ../../variable/Q191V.rst:21
 msgid "なぜ、あなたは現在の会社等を選びましたか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:21
+#: ../../variable/Q191V.rst:24
 msgid "結婚・出産後も続けやすい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:27
+#: ../../variable/Q191V.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:30
+#: ../../variable/Q191V.rst:33
 msgid "はい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:32
+#: ../../variable/Q191V.rst:34
 msgid "いいえ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:39
+#: ../../variable/Q191V.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:45
+#: ../../variable/Q191V.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:51
+#: ../../variable/Q191V.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:52
+#: ../../variable/Q191V.rst:57
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:57
+#: ../../variable/Q191V.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:59
-msgid "|nt1| 詳しくはこちら（:doc:`/multi_var/Q191`）をご参照ください。"
+#: ../../variable/Q191V.rst:66
+msgid "この項目は途中で変数名や選択肢番号が変わっています。 詳しくはこちら（:doc:`/multi_var/Q191`）をご参照ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:63
+#: ../../variable/Q191V.rst:74
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:68
+#: ../../variable/Q191V.rst:79
 msgid "p11ab_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:70
+#: ../../variable/Q191V.rst:81
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:72
+#: ../../variable/Q191V.rst:83
 msgid "p12_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:74
+#: ../../variable/Q191V.rst:85
 msgid "p13_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:76
+#: ../../variable/Q191V.rst:87
 msgid "p14_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:78
+#: ../../variable/Q191V.rst:89
 msgid "p15_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:80
+#: ../../variable/Q191V.rst:91
 msgid "p16abc_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:82
+#: ../../variable/Q191V.rst:93
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:84
+#: ../../variable/Q191V.rst:95
 msgid "p17_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:86
+#: ../../variable/Q191V.rst:97
 msgid "p18_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:88
+#: ../../variable/Q191V.rst:99
 msgid "p19_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:90
+#: ../../variable/Q191V.rst:101
 msgid "p20_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:92
+#: ../../variable/Q191V.rst:103
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:94
+#: ../../variable/Q191V.rst:105
 msgid "p21e_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:96
+#: ../../variable/Q191V.rst:107
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:98
+#: ../../variable/Q191V.rst:109
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:100
+#: ../../variable/Q191V.rst:111
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:102
+#: ../../variable/Q191V.rst:113
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191V.rst:104
+#: ../../variable/Q191V.rst:115
 msgid "p26_1"
+msgstr ""
+
+#: ../../variable/Q191V.rst:117
+msgid "p27_1"
+msgstr ""
+
+#: ../../variable/Q191V.rst:119
+msgid "p28_1"
 msgstr ""
 
 #~ msgid "変数名: Q191V"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "|nt1| 詳しくはこちら（:doc:`/multi_var/Q191`）をご参照ください。"
 #~ msgstr ""
 

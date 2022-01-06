@@ -8,193 +8,201 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:5
+#: ../../variable/Q310A.rst:6
 msgid "義親からの経済的援助：住宅ローン返済"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:9
+#: ../../variable/Q310A.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:11
+#: ../../variable/Q310A.rst:13
 msgid "Q310A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:15
+#: ../../variable/Q310A.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:18
+#: ../../variable/Q310A.rst:21
 msgid "それでは、ご主人の親から一部でも出してもらっているものはありますか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:21
+#: ../../variable/Q310A.rst:24
 msgid "住宅ローン返済"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:27
+#: ../../variable/Q310A.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:30
+#: ../../variable/Q310A.rst:33
 msgid "はい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:32
+#: ../../variable/Q310A.rst:34
 msgid "いいえ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:39
+#: ../../variable/Q310A.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:45
+#: ../../variable/Q310A.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:51
+#: ../../variable/Q310A.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:52
+#: ../../variable/Q310A.rst:57
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:57
+#: ../../variable/Q310A.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:63
+#: ../../variable/Q310A.rst:71
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:68
+#: ../../variable/Q310A.rst:76
 msgid "p1_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:70
+#: ../../variable/Q310A.rst:78
 msgid "p2_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:72
+#: ../../variable/Q310A.rst:80
 msgid "p3_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:74
+#: ../../variable/Q310A.rst:82
 msgid "p4_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:76
+#: ../../variable/Q310A.rst:84
 msgid "p5a_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:78
+#: ../../variable/Q310A.rst:86
 msgid "p5b_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:80
+#: ../../variable/Q310A.rst:88
 msgid "p6_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:82
+#: ../../variable/Q310A.rst:90
 msgid "p7_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:84
+#: ../../variable/Q310A.rst:92
 msgid "p8_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:86
+#: ../../variable/Q310A.rst:94
 msgid "p9_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:88
+#: ../../variable/Q310A.rst:96
 msgid "p10_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:90
+#: ../../variable/Q310A.rst:98
 msgid "p11ab_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:92
+#: ../../variable/Q310A.rst:100
 msgid "p11c_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:94
+#: ../../variable/Q310A.rst:102
 msgid "p12_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:96
+#: ../../variable/Q310A.rst:104
 msgid "p13_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:98
+#: ../../variable/Q310A.rst:106
 msgid "p14_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:100
+#: ../../variable/Q310A.rst:108
 msgid "p15_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:102
+#: ../../variable/Q310A.rst:110
 msgid "p16abc_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:104
+#: ../../variable/Q310A.rst:112
 msgid "p16d_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:106
+#: ../../variable/Q310A.rst:114
 msgid "p17_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:108
+#: ../../variable/Q310A.rst:116
 msgid "p18_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:110
+#: ../../variable/Q310A.rst:118
 msgid "p19_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:112
+#: ../../variable/Q310A.rst:120
 msgid "p20_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:114
+#: ../../variable/Q310A.rst:122
 msgid "p21abcd_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:116
+#: ../../variable/Q310A.rst:124
 msgid "p21e_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:118
+#: ../../variable/Q310A.rst:126
 msgid "p22_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:120
+#: ../../variable/Q310A.rst:128
 msgid "p23_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:122
+#: ../../variable/Q310A.rst:130
 msgid "p24_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:124
+#: ../../variable/Q310A.rst:132
 msgid "p25_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q310A.rst:126
+#: ../../variable/Q310A.rst:134
 msgid "p26_2"
+msgstr ""
+
+#: ../../variable/Q310A.rst:136
+msgid "p27_2"
+msgstr ""
+
+#: ../../variable/Q310A.rst:138
+msgid "p28_2"
 msgstr ""
 
 #~ msgid "変数名: Q310A"

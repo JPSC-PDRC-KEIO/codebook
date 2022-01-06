@@ -8,133 +8,141 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:5
+#: ../../variable/Q1093_9.rst:6
 msgid "からだ・心の状態：口数が少ない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:9
+#: ../../variable/Q1093_9.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:11
+#: ../../variable/Q1093_9.rst:13
 msgid "Q1093_9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:15
+#: ../../variable/Q1093_9.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:18
+#: ../../variable/Q1093_9.rst:21
 msgid "この1週間のあなたのからだや心の状態についてお聞きします。以下のような気分やことがらをどのくらい経験しましたか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:21
+#: ../../variable/Q1093_9.rst:24
 msgid "ふだんより口数が少なくなったこと"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:27
+#: ../../variable/Q1093_9.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:30
+#: ../../variable/Q1093_9.rst:33
 msgid "まったくなかった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:32
+#: ../../variable/Q1093_9.rst:34
 msgid "週に1～2日"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:34
+#: ../../variable/Q1093_9.rst:35
 msgid "週に3～4日"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:36
+#: ../../variable/Q1093_9.rst:36
 msgid "ほとんど毎日"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:43
+#: ../../variable/Q1093_9.rst:44
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:49
+#: ../../variable/Q1093_9.rst:51
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:55
+#: ../../variable/Q1093_9.rst:58
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:56
+#: ../../variable/Q1093_9.rst:59
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:61
+#: ../../variable/Q1093_9.rst:65
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:67
+#: ../../variable/Q1093_9.rst:73
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:72
+#: ../../variable/Q1093_9.rst:78
 msgid "p16abc_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:74
+#: ../../variable/Q1093_9.rst:80
 msgid "p16d_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:76
+#: ../../variable/Q1093_9.rst:82
 msgid "p17_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:78
+#: ../../variable/Q1093_9.rst:84
 msgid "p18_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:80
+#: ../../variable/Q1093_9.rst:86
 msgid "p19_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:82
+#: ../../variable/Q1093_9.rst:88
 msgid "p20_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:84
+#: ../../variable/Q1093_9.rst:90
 msgid "p21abcd_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:86
+#: ../../variable/Q1093_9.rst:92
 msgid "p21e_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:88
+#: ../../variable/Q1093_9.rst:94
 msgid "p22_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:90
+#: ../../variable/Q1093_9.rst:96
 msgid "p23_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:92
+#: ../../variable/Q1093_9.rst:98
 msgid "p24_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:94
+#: ../../variable/Q1093_9.rst:100
 msgid "p25_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1093_9.rst:96
+#: ../../variable/Q1093_9.rst:102
 msgid "p26_4"
+msgstr ""
+
+#: ../../variable/Q1093_9.rst:104
+msgid "p27_4"
+msgstr ""
+
+#: ../../variable/Q1093_9.rst:106
+msgid "p28_4"
 msgstr ""
 
 #~ msgid "変数名: Q1093_9"

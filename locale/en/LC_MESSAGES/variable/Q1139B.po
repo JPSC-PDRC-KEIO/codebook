@@ -8,161 +8,169 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:5
+#: ../../variable/Q1139B.rst:6
 msgid "子どもの教育関係費用（第3子）：在学先"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:9
+#: ../../variable/Q1139B.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:11
+#: ../../variable/Q1139B.rst:13
 msgid "Q1139B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:15
+#: ../../variable/Q1139B.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:18
+#: ../../variable/Q1139B.rst:21
 msgid "この1年間（調査前年10月～調査年9月)にお子さんにかかった教育関係の費用は大体いくらぐらいでしたか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:21
+#: ../../variable/Q1139B.rst:24
 msgid "第3子の在学先"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:27
+#: ../../variable/Q1139B.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:30
+#: ../../variable/Q1139B.rst:33
 msgid "未就学（家庭内保育）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:32
+#: ../../variable/Q1139B.rst:34
 msgid "未就学（保育園）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:34
+#: ../../variable/Q1139B.rst:35
 msgid "未就学（幼稚園）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:36
+#: ../../variable/Q1139B.rst:36
 msgid "小学校"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:38
+#: ../../variable/Q1139B.rst:37
 msgid "中学校"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:40
+#: ../../variable/Q1139B.rst:38
 msgid "高校"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:42
+#: ../../variable/Q1139B.rst:39
 msgid "高等専門学校"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:44
+#: ../../variable/Q1139B.rst:40
 msgid "専修学校（専門学校）、各種学校"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:46
+#: ../../variable/Q1139B.rst:41
 msgid "短期大学"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:48
+#: ../../variable/Q1139B.rst:42
 msgid "大学（４年制）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:50
+#: ../../variable/Q1139B.rst:43
 msgid "大学（６年制）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:52
+#: ../../variable/Q1139B.rst:44
 msgid "大学院"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:54
+#: ../../variable/Q1139B.rst:45
 msgid "その他の学校（予備校などを含む）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:56
+#: ../../variable/Q1139B.rst:46
 msgid "在学していない・社会人など"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:63
+#: ../../variable/Q1139B.rst:54
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:69
+#: ../../variable/Q1139B.rst:61
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:75
+#: ../../variable/Q1139B.rst:68
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:76
+#: ../../variable/Q1139B.rst:69
 msgid "99"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:81
+#: ../../variable/Q1139B.rst:75
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:87
+#: ../../variable/Q1139B.rst:83
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:92
+#: ../../variable/Q1139B.rst:88
 msgid "p18_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:94
+#: ../../variable/Q1139B.rst:90
 msgid "p19_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:96
+#: ../../variable/Q1139B.rst:92
 msgid "p20_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:98
+#: ../../variable/Q1139B.rst:94
 msgid "p21abcd_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:100
+#: ../../variable/Q1139B.rst:96
 msgid "p21e_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:102
+#: ../../variable/Q1139B.rst:98
 msgid "p22_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:104
+#: ../../variable/Q1139B.rst:100
 msgid "p23_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:106
+#: ../../variable/Q1139B.rst:102
 msgid "p24_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:108
+#: ../../variable/Q1139B.rst:104
 msgid "p25_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1139B.rst:110
+#: ../../variable/Q1139B.rst:106
 msgid "p26_4"
+msgstr ""
+
+#: ../../variable/Q1139B.rst:108
+msgid "p27_4"
+msgstr ""
+
+#: ../../variable/Q1139B.rst:110
+msgid "p28_4"
 msgstr ""
 
 #~ msgid "変数名: Q1139B"

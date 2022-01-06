@@ -1,0 +1,192 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:3
+msgid "お子さんの世話について（緊急事態宣言中）"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:7
+msgid "休校中・休園中の平日日中にお子さんを世話していた人"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:10
+msgid ""
+"この質問は、:doc:`Q1245 </variable/Q1245>` "
+"で「1．中学生以下の子ども全員が休校・休園になった」「2．中学生以下の子どもで、休校・休園になった子と、ならなかった子（未就園児も含む）がいた」と回答した方にお答えいただく質問です。"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:13
+msgid "休校・休園中の平日の日中（本来であれば、登校・登園していた時間帯）に中学生までのお子さん（たち）のお世話をしていたのはどなたですか。（あてはまるものすべてに○）"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "項目"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "変数"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "あなた"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid ":doc:`Q1246A </variable/Q1246A>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "お子さんの父親"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid ":doc:`Q1246B </variable/Q1246B>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "お子さんの祖父母・親戚"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid ":doc:`Q1246C </variable/Q1246C>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "お子さんのきょうだい"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid ":doc:`Q1246D </variable/Q1246D>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "お子さんの友だち"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid ":doc:`Q1246E </variable/Q1246E>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "近隣の人や子どもの友だちの親"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid ":doc:`Q1246F </variable/Q1246F>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "あなたの友人・知人"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid ":doc:`Q1246G </variable/Q1246G>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "ベビーシッター・家政婦など"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid ":doc:`Q1246H </variable/Q1246H>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "保育園・学童保育など"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid ":doc:`Q1246I </variable/Q1246I>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "塾・習い事など"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid ":doc:`Q1246J </variable/Q1246J>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "部活・クラブ活動など"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid ":doc:`Q1246K </variable/Q1246K>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "一人でいる（世話の必要あり）"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid ":doc:`Q1246L </variable/Q1246L>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "一人でいる（世話の必要なし）"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid ":doc:`Q1246M </variable/Q1246M>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "その他"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid ":doc:`Q1246N </variable/Q1246N>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:37
+msgid "休校中・休園中の平日日中に最もお子さんと長くいた人"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:39
+msgid ""
+"高校生以上のお子さんを含め、第１子から第３子までのお子さんについて、休校・休園中の平日の日中、最も長く一緒にいた人・場所はどちらですか。上記の１～14"
+" の中から１つずつお答えください。未就園児、休校がなかったお子さん、中学校を既に卒業している場合は０とお書きください。"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "第1子"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid ":doc:`Q1247A </variable/Q1247A>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "第2子"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid ":doc:`Q1247B </variable/Q1247B>`"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid "第3子"
+msgstr ""
+
+#: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
+msgid ":doc:`Q1247C </variable/Q1247C>`"
+msgstr ""
+

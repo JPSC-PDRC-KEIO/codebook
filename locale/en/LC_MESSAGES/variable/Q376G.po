@@ -1,200 +1,199 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-#
+
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q376G.rst:5
+#: ../../variable/Q376G.rst:6
 msgid "住宅の現市場価格"
 msgstr ""
 
-#: ../../variable/Q376G.rst:9
+#: ../../variable/Q376G.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q376G.rst:11
+#: ../../variable/Q376G.rst:13
 msgid "Q376G"
 msgstr ""
 
-#: ../../variable/Q376G.rst:15
+#: ../../variable/Q376G.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q376G.rst:18
+#: ../../variable/Q376G.rst:21
 msgid "住宅の現在の市場価格（売るとした場合の価格）はいくらくらいと思いますか。おおよそで結構です。"
 msgstr ""
 
-#: ../../variable/Q376G.rst:24
+#: ../../variable/Q376G.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q376G.rst:26
-msgid ""
+#: ../../variable/Q376G.rst:30
+msgid "＿ ＿ 億 ＿ ＿ ＿ 0万円"
 msgstr ""
 
-#: ../../variable/Q376G.rst:27
-msgid "＿＿億＿＿＿0万円"
-msgstr ""
-
-#: ../../variable/Q376G.rst:36
+#: ../../variable/Q376G.rst:37
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q376G.rst:37
+#: ../../variable/Q376G.rst:38
 msgid "99998"
 msgstr ""
 
-#: ../../variable/Q376G.rst:42
+#: ../../variable/Q376G.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q376G.rst:48
+#: ../../variable/Q376G.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q376G.rst:49
+#: ../../variable/Q376G.rst:52
 msgid "99999"
 msgstr ""
 
-#: ../../variable/Q376G.rst:54
+#: ../../variable/Q376G.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q376G.rst:60
+#: ../../variable/Q376G.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q376G.rst:65
+#: ../../variable/Q376G.rst:71
 msgid "p1_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:67
+#: ../../variable/Q376G.rst:73
 msgid "p2_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:69
+#: ../../variable/Q376G.rst:75
 msgid "p3_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:71
+#: ../../variable/Q376G.rst:77
 msgid "p4_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:73
+#: ../../variable/Q376G.rst:79
 msgid "p5a_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:75
+#: ../../variable/Q376G.rst:81
 msgid "p5b_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:77
+#: ../../variable/Q376G.rst:83
 msgid "p6_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:79
+#: ../../variable/Q376G.rst:85
 msgid "p7_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:81
+#: ../../variable/Q376G.rst:87
 msgid "p8_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:83
+#: ../../variable/Q376G.rst:89
 msgid "p9_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:85
+#: ../../variable/Q376G.rst:91
 msgid "p10_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:87
+#: ../../variable/Q376G.rst:93
 msgid "p11ab_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:89
+#: ../../variable/Q376G.rst:95
 msgid "p11c_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:91
+#: ../../variable/Q376G.rst:97
 msgid "p12_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:93
+#: ../../variable/Q376G.rst:99
 msgid "p13_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:95
+#: ../../variable/Q376G.rst:101
 msgid "p14_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:97
+#: ../../variable/Q376G.rst:103
 msgid "p15_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:99
+#: ../../variable/Q376G.rst:105
 msgid "p16abc_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:101
+#: ../../variable/Q376G.rst:107
 msgid "p16d_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:103
+#: ../../variable/Q376G.rst:109
 msgid "p17_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:105
+#: ../../variable/Q376G.rst:111
 msgid "p18_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:107
+#: ../../variable/Q376G.rst:113
 msgid "p19_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:109
+#: ../../variable/Q376G.rst:115
 msgid "p20_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:111
+#: ../../variable/Q376G.rst:117
 msgid "p21abcd_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:113
+#: ../../variable/Q376G.rst:119
 msgid "p21e_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:115
+#: ../../variable/Q376G.rst:121
 msgid "p22_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:117
+#: ../../variable/Q376G.rst:123
 msgid "p23_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:119
+#: ../../variable/Q376G.rst:125
 msgid "p24_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:121
+#: ../../variable/Q376G.rst:127
 msgid "p25_2"
 msgstr ""
 
-#: ../../variable/Q376G.rst:123
+#: ../../variable/Q376G.rst:129
 msgid "p26_2"
+msgstr ""
+
+#: ../../variable/Q376G.rst:131
+msgid "p27_2"
+msgstr ""
+
+#: ../../variable/Q376G.rst:133
+msgid "p28_2"
 msgstr ""
 
 #~ msgid "変数名: Q376G"
@@ -207,5 +206,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "＿＿ 億 ＿＿＿0万円"
+#~ msgstr ""
+
+#~ msgid "＿＿億＿＿＿0万円"
 #~ msgstr ""
 

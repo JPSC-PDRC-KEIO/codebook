@@ -8,158 +8,192 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 18:31+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2020-02-14 17:35+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
 "Last-Translator: \n"
-"Language-Team: \n"
-"X-Generator: Poedit 2.3\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:3
-msgid "同居・別居"
-msgstr "Together/Separately"
+#: ../../kihon/Q10.rst:3
+msgid "家族1（本人）：同居・別居"
+msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:7
+#: ../../kihon/Q10.rst:7
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:9
+#: ../../kihon/Q10.rst:9
 msgid "Q10"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:13
+#: ../../kihon/Q10.rst:13
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:17
+#: ../../kihon/Q10.rst:16
+
+msgid "あなたとの同居・別居"
+msgstr "Together/Separately"
+
+#: ../../kihon/Q10.rst:19
+msgid "家族1（本人）"
+msgstr ""
+
+#: ../../kihon/Q10.rst:23
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:23
-msgid "桁あふれコード"
-msgstr "Overflow code"
+#: ../../kihon/Q10.rst:25
+msgid "同居"
+msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:27
-msgid "分類不能の回答コード"
-msgstr "Unclassifiable response code"
+#: ../../kihon/Q10.rst:26
+msgid "別居"
+msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:31
-msgid "無回答コード"
-msgstr "No response code"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:36
+#: ../../kihon/Q10.rst:31
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:40
+#: ../../kihon/Q10.rst:36
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:42
-msgid "p10_1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:44
-msgid "p11ab_1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:46
-msgid "p11c_1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:48
-msgid "p12_1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:50
-msgid "p13_1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:52
-msgid "p14_1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:54
-msgid "p15_1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:56
-msgid "p16abc_1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:58
-msgid "p16d_1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:60
-msgid "p17_1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:62
-msgid "p18_1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:64
-msgid "p19_1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:66
+#: ../../kihon/Q10.rst:38
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:68
-msgid "p20_1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:70
-msgid "p21abcd_1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:72
-msgid "p21e_1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:74
-msgid "p22_1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:76
-msgid "p23_1"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:78
+#: ../../kihon/Q10.rst:40
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:80
+#: ../../kihon/Q10.rst:42
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:82
+#: ../../kihon/Q10.rst:44
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:84
+#: ../../kihon/Q10.rst:46
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:86
+#: ../../kihon/Q10.rst:48
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:88
+#: ../../kihon/Q10.rst:50
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:90
+#: ../../kihon/Q10.rst:52
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q10.rst:92
+#: ../../kihon/Q10.rst:54
 msgid "p9_1"
 msgstr ""
+
+#: ../../kihon/Q10.rst:56
+msgid "p10_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:58
+msgid "p11ab_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:60
+msgid "p11c_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:62
+msgid "p12_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:64
+msgid "p13_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:66
+msgid "p14_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:68
+msgid "p15_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:70
+msgid "p16abc_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:72
+msgid "p16d_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:74
+msgid "p17_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:76
+msgid "p18_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:78
+msgid "p19_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:80
+msgid "p20_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:82
+msgid "p21abcd_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:84
+msgid "p21e_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:86
+msgid "p22_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:88
+msgid "p23_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:90
+msgid "p24_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:92
+msgid "p25_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:94
+msgid "p26_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:96
+msgid "p27_1"
+msgstr ""
+
+#: ../../kihon/Q10.rst:98
+msgid "p28_1"
+msgstr ""
+
+#~ msgid "桁あふれコード"
+#~ msgstr "Overflow code"
+
+#~ msgid "分類不能の回答コード"
+#~ msgstr "Unclassifiable response code"
+
+#~ msgid "無回答コード"
+#~ msgstr "No response code"
+

@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1242.rst:6
+msgid "手取り収入の差額：緊急事態宣言中と2020年9月（配偶者）"
+msgstr ""
+
+#: ../../variable/Q1242.rst:11
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1242.rst:13
+msgid "Q1242"
+msgstr ""
+
+#: ../../variable/Q1242.rst:18
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1242.rst:21
+msgid "９月の手取り収入（収入総額から税金、社会保険料などを差し引いた額）（ボーナス、臨時の給与は除きます）と比べて、国の緊急事態宣言発令中（４月、５月のうち収入が最も減った月。変わらなければ５月）の手取り収入はいかがでしたか。"
+msgstr ""
+
+#: ../../variable/Q1242.rst:24
+msgid "ご主人 → ９月の手取り収入と比べて「多かった」もしくは「少なかった」とお答えの場合、差額をご回答ください。"
+msgstr ""
+
+#: ../../variable/Q1242.rst:33
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1242.rst:35
+msgid "＿ ＿ 万 ＿ 千円"
+msgstr ""
+
+#: ../../variable/Q1242.rst:42
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1242.rst:43
+msgid "998"
+msgstr ""
+
+#: ../../variable/Q1242.rst:49
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code’"
+
+#: ../../variable/Q1242.rst:56
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1242.rst:57
+msgid "999"
+msgstr ""
+
+#: ../../variable/Q1242.rst:63
+msgid "備考"
+msgstr "Remarks"
+
+#: ../../variable/Q1242.rst:71
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1242.rst:76
+msgid "p28_2"
+msgstr ""
+

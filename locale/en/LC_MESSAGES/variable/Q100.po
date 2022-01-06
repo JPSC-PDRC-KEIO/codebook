@@ -8,176 +8,188 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2021-07-16 09:23+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 3.0\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:5
+#: ../../variable/Q100.rst:6
 msgid "介護の必要"
 msgstr "Have a need for long-term care"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:9
+#: ../../variable/Q100.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:11
+#: ../../variable/Q100.rst:13
 msgid "Q100"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:15
+#: ../../variable/Q100.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:18
+#: ../../variable/Q100.rst:21
 msgid "亡くなられるまでに介護を必要としましたか。"
-msgstr "Did you need to provide long-term care for your parents before they passed away?"
+msgstr ""
+"Did you need to provide long-term care for your parents before they "
+"passed away?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:24
+#: ../../variable/Q100.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:27
+#: ../../variable/Q100.rst:30
 msgid "必要とした"
 msgstr "Yes"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:29
+#: ../../variable/Q100.rst:31
 msgid "必要としなかった"
 msgstr "No"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:36
+#: ../../variable/Q100.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:42
+#: ../../variable/Q100.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:48
+#: ../../variable/Q100.rst:53
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:49
+#: ../../variable/Q100.rst:54
 msgid "3"
 msgstr "3"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:54
+#: ../../variable/Q100.rst:60
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:60
+#: ../../variable/Q100.rst:68
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:65
+#: ../../variable/Q100.rst:73
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:67
+#: ../../variable/Q100.rst:75
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:69
+#: ../../variable/Q100.rst:77
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:71
+#: ../../variable/Q100.rst:79
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:73
+#: ../../variable/Q100.rst:81
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:75
+#: ../../variable/Q100.rst:83
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:77
+#: ../../variable/Q100.rst:85
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:79
+#: ../../variable/Q100.rst:87
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:81
+#: ../../variable/Q100.rst:89
 msgid "p10_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:83
+#: ../../variable/Q100.rst:91
 msgid "p11ab_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:85
+#: ../../variable/Q100.rst:93
 msgid "p12_1"
 msgstr "p12_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:87
+#: ../../variable/Q100.rst:95
 msgid "p13_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:89
+#: ../../variable/Q100.rst:97
 msgid "p14_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:91
+#: ../../variable/Q100.rst:99
 msgid "p15_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:93
+#: ../../variable/Q100.rst:101
 msgid "p16abc_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:95
+#: ../../variable/Q100.rst:103
 msgid "p17_1"
 msgstr "p17_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:97
+#: ../../variable/Q100.rst:105
 msgid "p18_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:99
+#: ../../variable/Q100.rst:107
 msgid "p19_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:101
+#: ../../variable/Q100.rst:109
 msgid "p20_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:103
+#: ../../variable/Q100.rst:111
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:105
+#: ../../variable/Q100.rst:113
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:107
+#: ../../variable/Q100.rst:115
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:109
+#: ../../variable/Q100.rst:117
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:111
+#: ../../variable/Q100.rst:119
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q100.rst:113
+#: ../../variable/Q100.rst:121
 msgid "p26_1"
 msgstr ""
+
+#: ../../variable/Q100.rst:123
+
+msgid "p27_1"
+msgstr "p17_1"
+
+#: ../../variable/Q100.rst:125
+
+msgid "p28_1"
+msgstr "p12_1"
 
 #~ msgid "変数名: Q100"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
+

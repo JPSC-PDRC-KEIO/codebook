@@ -1,0 +1,132 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:3
+msgid "特別定額給付金の使い途"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:7
+msgid "質問文"
+msgstr "Question"
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:8
+msgid "受け取った特別定額給付金はどのように、いくらぐらい使いましたか。入金口座に意図的に残すことは、貯蓄としてください。"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:12
+msgid "生活費その他の支出別、内訳"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid "項目"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid "家族共通の支出"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid ":doc:`Q1261B </variable/Q1261B>`"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid "本人のための支出"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid ":doc:`Q1261C </variable/Q1261C>`"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid "配偶者のための支出"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid ":doc:`Q1261E </variable/Q1261E>`"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid "子どものための支出"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid ":doc:`Q1261F </variable/Q1261F>`"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid "それ以外の方のための支出"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid ":doc:`Q1261G </variable/Q1261G>`"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:23
+msgid "貯蓄別、内訳"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid "家族共通の貯蓄"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid ":doc:`Q1262B </variable/Q1262B>`"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid "本人のための貯蓄"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid ":doc:`Q1262C </variable/Q1262C>`"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid "配偶者のための貯蓄"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid ":doc:`Q1262D </variable/Q1262D>`"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid "子どものための貯蓄"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid ":doc:`Q1262E </variable/Q1262E>`"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid "それ以外の方のための貯蓄"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:1
+msgid ":doc:`Q1262F </variable/Q1262F>`"
+msgstr ""
+
+#: ../../covid19/tokubetsu_kyufu/kyufukin_uchiwake.rst:35
+msgid "この質問は、 :doc:`Q1260 </variable/Q1260>` で「1．受け取った」と答えた方が回答対象です。"
+msgstr ""
+

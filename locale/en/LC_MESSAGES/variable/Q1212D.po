@@ -8,77 +8,97 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212D.rst:5
+#: ../../variable/Q1212D.rst:6
 msgid "年収調整の理由：健康保険加入"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212D.rst:9
+#: ../../variable/Q1212D.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212D.rst:11
+#: ../../variable/Q1212D.rst:13
 msgid "Q1212D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212D.rst:15
+#: ../../variable/Q1212D.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212D.rst:21
+#: ../../variable/Q1212D.rst:21
+msgid "あなたは昨年、年収が一定額を超えないように調整しましたか。"
+msgstr ""
+
+#: ../../variable/Q1212D.rst:24
+msgid "調整したのはどの理由によるものですか。（〇はいくつでも）"
+msgstr ""
+
+#: ../../variable/Q1212D.rst:27
+msgid "配偶者の健康保険の被保険者からはずれて自分で健康保険に加入しなければならないから"
+msgstr ""
+
+#: ../../variable/Q1212D.rst:33
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212D.rst:24
+#: ../../variable/Q1212D.rst:35
 msgid "はい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212D.rst:26
+#: ../../variable/Q1212D.rst:36
 msgid "いいえ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212D.rst:33
+#: ../../variable/Q1212D.rst:44
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212D.rst:39
+#: ../../variable/Q1212D.rst:51
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212D.rst:45
+#: ../../variable/Q1212D.rst:58
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212D.rst:46
+#: ../../variable/Q1212D.rst:59
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212D.rst:51
+#: ../../variable/Q1212D.rst:65
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212D.rst:57
+#: ../../variable/Q1212D.rst:73
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212D.rst:62
+#: ../../variable/Q1212D.rst:78
 msgid "p24_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212D.rst:64
+#: ../../variable/Q1212D.rst:80
 msgid "p25_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212D.rst:66
+#: ../../variable/Q1212D.rst:82
 msgid "p26_3"
+msgstr ""
+
+#: ../../variable/Q1212D.rst:84
+msgid "p27_3"
+msgstr ""
+
+#: ../../variable/Q1212D.rst:86
+msgid "p28_3"
 msgstr ""
 
 #~ msgid "変数名: Q1212D"

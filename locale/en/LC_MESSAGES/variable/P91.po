@@ -8,107 +8,106 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-06 21:56+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2021-10-12 10:25+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 3.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:5
+#: ../../variable/P91.rst:6
 msgid "職務（実父）"
 msgstr "Type of employee (father)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:9
+#: ../../variable/P91.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:11
+#: ../../variable/P91.rst:13
 msgid "P91"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:15
+#: ../../variable/P91.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:18
+#: ../../variable/P91.rst:21
 msgid "父親の職務はつぎのどれですか。（でしたか）"
 msgstr "Which type of employee is (was) your father?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:24
+#: ../../variable/P91.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:27
+#: ../../variable/P91.rst:30
 msgid "常勤の職員・従業者"
 msgstr "Full-time and permanent employee"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:29
+#: ../../variable/P91.rst:31
 msgid "派遣社員"
 msgstr "Temporary employee"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:31
+#: ../../variable/P91.rst:32
 msgid "契約社員・嘱託・その他"
 msgstr "Fixed-term employee"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:33
+#: ../../variable/P91.rst:33
 msgid "パート・アルバイト"
 msgstr "Part-time employee"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:35
+#: ../../variable/P91.rst:34
 msgid "自営・家族従業者"
 msgstr "Self-employedment or working for thea family business "
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:42
+#: ../../variable/P91.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:48
+#: ../../variable/P91.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:54
+#: ../../variable/P91.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:55
+#: ../../variable/P91.rst:57
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:61
+#: ../../variable/P91.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:63
-msgid "この質問項目の選択肢は調査回によって変更があります。詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`）をご参照ください。"
+#: ../../variable/P91.rst:66
+msgid "|nt6| 詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`）をご参照ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:67
+#: ../../variable/P91.rst:74
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:72
+#: ../../variable/P91.rst:79
 msgid "p1_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:74
+#: ../../variable/P91.rst:81
 msgid "p5b_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:76
+#: ../../variable/P91.rst:83
 msgid "p11c_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:78
+#: ../../variable/P91.rst:85
 msgid "p16d_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P91.rst:80
+#: ../../variable/P91.rst:87
 msgid "p21e_4"
 msgstr ""
 
@@ -129,3 +128,7 @@ msgstr ""
 #~ "The choice of this variable name "
 #~ "was changed by the survey times. "
 #~ "Please refer :doc:`oyajyoho` for details."
+
+#~ msgid "この質問項目の選択肢は調査回によって変更があります。詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`）をご参照ください。"
+#~ msgstr ""
+

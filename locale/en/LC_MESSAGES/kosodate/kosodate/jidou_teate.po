@@ -8,24 +8,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jidou_teate.rst:3
+#: ../../kosodate/kosodate/jidou_teate.rst:3
 msgid "児童手当等の受給"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jidou_teate.rst:13
+#: ../../kosodate/kosodate/jidou_teate.rst:13
 msgid "第2～第10回の「児童手当受給の有無」の変数名は :doc:`Q77</variable/Q77>` です。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jidou_teate.rst:15
-msgid "また、第18回と第19回は、「:doc:`kodomo_teate`」を質問しています。"
-msgstr ""
+#~ msgid "また、第18回と第19回は、「:doc:`kodomo_teate`」を質問しています。"
+#~ msgstr ""
 

@@ -8,137 +8,145 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:5
+#: ../../variable/Q457B.rst:6
 msgid "ルームエアコン　購入費用"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:9
+#: ../../variable/Q457B.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:11
+#: ../../variable/Q457B.rst:13
 msgid "Q457B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:15
+#: ../../variable/Q457B.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:21
+#: ../../variable/Q457B.rst:25
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:23
+#: ../../variable/Q457B.rst:27
 msgid "＿ ＿ 万円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:29
+#: ../../variable/Q457B.rst:34
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:30
+#: ../../variable/Q457B.rst:35
 msgid "98"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:35
+#: ../../variable/Q457B.rst:41
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:41
+#: ../../variable/Q457B.rst:48
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:42
+#: ../../variable/Q457B.rst:49
 msgid "99"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:47
+#: ../../variable/Q457B.rst:55
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:53
+#: ../../variable/Q457B.rst:63
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:58
+#: ../../variable/Q457B.rst:68
 msgid "p2_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:60
+#: ../../variable/Q457B.rst:70
 msgid "p3_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:62
+#: ../../variable/Q457B.rst:72
 msgid "p4_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:64
+#: ../../variable/Q457B.rst:74
 msgid "p5a_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:66
+#: ../../variable/Q457B.rst:76
 msgid "p6_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:68
+#: ../../variable/Q457B.rst:78
 msgid "p7_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:70
+#: ../../variable/Q457B.rst:80
 msgid "p8_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:72
+#: ../../variable/Q457B.rst:82
 msgid "p9_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:74
+#: ../../variable/Q457B.rst:84
 msgid "p10_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:76
+#: ../../variable/Q457B.rst:86
 msgid "p19_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:78
+#: ../../variable/Q457B.rst:88
 msgid "p20_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:80
+#: ../../variable/Q457B.rst:90
 msgid "p21abcd_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:82
+#: ../../variable/Q457B.rst:92
 msgid "p21e_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:84
+#: ../../variable/Q457B.rst:94
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:86
+#: ../../variable/Q457B.rst:96
 msgid "p23_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:88
+#: ../../variable/Q457B.rst:98
 msgid "p24_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:90
+#: ../../variable/Q457B.rst:100
 msgid "p25_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q457B.rst:92
+#: ../../variable/Q457B.rst:102
 msgid "p26_3"
+msgstr ""
+
+#: ../../variable/Q457B.rst:104
+msgid "p27_3"
+msgstr ""
+
+#: ../../variable/Q457B.rst:106
+msgid "p28_3"
 msgstr ""
 
 #~ msgid "変数名: Q457B"

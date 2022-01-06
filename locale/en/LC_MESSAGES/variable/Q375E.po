@@ -8,205 +8,213 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:5
+#: ../../variable/Q375E.rst:6
 msgid "敷地取得方法"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:9
+#: ../../variable/Q375E.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:11
+#: ../../variable/Q375E.rst:13
 msgid "Q375E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:15
+#: ../../variable/Q375E.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:18
+#: ../../variable/Q375E.rst:21
 msgid "（付問6で1～2をお答えの方に）どのように取得しましたか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:24
+#: ../../variable/Q375E.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:27
+#: ../../variable/Q375E.rst:30
 msgid "すべて自己資金（ローンを含む）で購入した"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:29
+#: ../../variable/Q375E.rst:31
 msgid "親から一部資金援助してもらった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:31
+#: ../../variable/Q375E.rst:32
 msgid "親との共同名義で購入した"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:33
+#: ../../variable/Q375E.rst:33
 msgid "親から贈与された"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:35
+#: ../../variable/Q375E.rst:34
 msgid "親から相続した"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:37
+#: ../../variable/Q375E.rst:35
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:44
+#: ../../variable/Q375E.rst:43
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:50
+#: ../../variable/Q375E.rst:50
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:56
+#: ../../variable/Q375E.rst:57
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:57
+#: ../../variable/Q375E.rst:58
 msgid "7"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:62
+#: ../../variable/Q375E.rst:64
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:68
+#: ../../variable/Q375E.rst:72
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:73
+#: ../../variable/Q375E.rst:77
 msgid "p1_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:75
+#: ../../variable/Q375E.rst:79
 msgid "p2_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:77
+#: ../../variable/Q375E.rst:81
 msgid "p3_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:79
+#: ../../variable/Q375E.rst:83
 msgid "p4_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:81
+#: ../../variable/Q375E.rst:85
 msgid "p5a_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:83
+#: ../../variable/Q375E.rst:87
 msgid "p5b_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:85
+#: ../../variable/Q375E.rst:89
 msgid "p6_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:87
+#: ../../variable/Q375E.rst:91
 msgid "p7_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:89
+#: ../../variable/Q375E.rst:93
 msgid "p8_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:91
+#: ../../variable/Q375E.rst:95
 msgid "p9_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:93
+#: ../../variable/Q375E.rst:97
 msgid "p10_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:95
+#: ../../variable/Q375E.rst:99
 msgid "p11ab_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:97
+#: ../../variable/Q375E.rst:101
 msgid "p11c_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:99
+#: ../../variable/Q375E.rst:103
 msgid "p12_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:101
+#: ../../variable/Q375E.rst:105
 msgid "p13_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:103
+#: ../../variable/Q375E.rst:107
 msgid "p14_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:105
+#: ../../variable/Q375E.rst:109
 msgid "p15_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:107
+#: ../../variable/Q375E.rst:111
 msgid "p16abc_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:109
+#: ../../variable/Q375E.rst:113
 msgid "p16d_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:111
+#: ../../variable/Q375E.rst:115
 msgid "p17_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:113
+#: ../../variable/Q375E.rst:117
 msgid "p18_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:115
+#: ../../variable/Q375E.rst:119
 msgid "p19_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:117
+#: ../../variable/Q375E.rst:121
 msgid "p20_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:119
+#: ../../variable/Q375E.rst:123
 msgid "p21abcd_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:121
+#: ../../variable/Q375E.rst:125
 msgid "p21e_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:123
+#: ../../variable/Q375E.rst:127
 msgid "p22_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:125
+#: ../../variable/Q375E.rst:129
 msgid "p23_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:127
+#: ../../variable/Q375E.rst:131
 msgid "p24_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:129
+#: ../../variable/Q375E.rst:133
 msgid "p25_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q375E.rst:131
+#: ../../variable/Q375E.rst:135
 msgid "p26_2"
+msgstr ""
+
+#: ../../variable/Q375E.rst:137
+msgid "p27_2"
+msgstr ""
+
+#: ../../variable/Q375E.rst:139
+msgid "p28_2"
 msgstr ""
 
 #~ msgid "変数名: Q375E"

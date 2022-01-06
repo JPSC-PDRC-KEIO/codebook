@@ -8,133 +8,141 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:5
+#: ../../variable/Q1027.rst:6
 msgid "育児休業制度・育児時間の利用の有無（配偶者）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:9
+#: ../../variable/Q1027.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:11
+#: ../../variable/Q1027.rst:13
 msgid "Q1027"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:15
+#: ../../variable/Q1027.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:18
+#: ../../variable/Q1027.rst:21
 msgid "ご主人は育児休業制度や育児時間を利用しましたか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:24
+#: ../../variable/Q1027.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:27
+#: ../../variable/Q1027.rst:30
 msgid "利用した"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:29
+#: ../../variable/Q1027.rst:31
 msgid "利用しない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:31
+#: ../../variable/Q1027.rst:32
 msgid "そうした制度がない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:38
+#: ../../variable/Q1027.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:44
+#: ../../variable/Q1027.rst:47
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:50
+#: ../../variable/Q1027.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:56
+#: ../../variable/Q1027.rst:61
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:62
+#: ../../variable/Q1027.rst:69
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:67
+#: ../../variable/Q1027.rst:74
 msgid "p11ab_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:69
+#: ../../variable/Q1027.rst:76
 msgid "p12_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:71
+#: ../../variable/Q1027.rst:78
 msgid "p13_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:73
+#: ../../variable/Q1027.rst:80
 msgid "p14_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:75
+#: ../../variable/Q1027.rst:82
 msgid "p15_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:77
+#: ../../variable/Q1027.rst:84
 msgid "p16abc_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:79
+#: ../../variable/Q1027.rst:86
 msgid "p17_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:81
+#: ../../variable/Q1027.rst:88
 msgid "p18_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:83
+#: ../../variable/Q1027.rst:90
 msgid "p19_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:85
+#: ../../variable/Q1027.rst:92
 msgid "p20_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:87
+#: ../../variable/Q1027.rst:94
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:89
+#: ../../variable/Q1027.rst:96
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:91
+#: ../../variable/Q1027.rst:98
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:93
+#: ../../variable/Q1027.rst:100
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:95
+#: ../../variable/Q1027.rst:102
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1027.rst:97
+#: ../../variable/Q1027.rst:104
 msgid "p26_1"
+msgstr ""
+
+#: ../../variable/Q1027.rst:106
+msgid "p27_1"
+msgstr ""
+
+#: ../../variable/Q1027.rst:108
+msgid "p28_1"
 msgstr ""
 
 #~ msgid "変数名: Q1027"

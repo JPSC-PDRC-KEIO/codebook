@@ -8,48 +8,48 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q1167.rst:5
+#: ../../variable/Q1167.rst:6
 msgid "配偶者のイメージ：夫に最も近いイメージ"
 msgstr ""
 
-#: ../../variable/Q1167.rst:9
+#: ../../variable/Q1167.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q1167.rst:11
+#: ../../variable/Q1167.rst:13
 msgid "Q1167"
 msgstr ""
 
-#: ../../variable/Q1167.rst:15
+#: ../../variable/Q1167.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q1167.rst:18
+#: ../../variable/Q1167.rst:21
 msgid "1から16の中で、あなたのご主人に最も近いイメージはどれですか。"
 msgstr ""
 
-#: ../../variable/Q1167.rst:24
+#: ../../variable/Q1167.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q1167.rst:27
+#: ../../variable/Q1167.rst:30
 msgid "親しい友人"
 msgstr ""
 
-#: ../../variable/Q1167.rst:29
+#: ../../variable/Q1167.rst:31
 msgid "人生に共に立ち向かう人"
 msgstr ""
 
-#: ../../variable/Q1167.rst:31
+#: ../../variable/Q1167.rst:32
 msgid "一心同体の人"
 msgstr ""
 
@@ -57,112 +57,120 @@ msgstr ""
 msgid "趣味を共有する人"
 msgstr ""
 
-#: ../../variable/Q1167.rst:35
+#: ../../variable/Q1167.rst:34
 msgid "経済的に頼れる人"
 msgstr ""
 
-#: ../../variable/Q1167.rst:37
+#: ../../variable/Q1167.rst:35
 msgid "父親のように保護してくれる人"
 msgstr ""
 
-#: ../../variable/Q1167.rst:39
+#: ../../variable/Q1167.rst:36
 msgid "心の支えになる人"
 msgstr ""
 
-#: ../../variable/Q1167.rst:41
+#: ../../variable/Q1167.rst:37
 msgid "性的に魅力のある人"
 msgstr ""
 
-#: ../../variable/Q1167.rst:43
+#: ../../variable/Q1167.rst:38
 msgid "子どものように甘えてくれる人"
 msgstr ""
 
-#: ../../variable/Q1167.rst:45
+#: ../../variable/Q1167.rst:39
 msgid "空気のような存在"
 msgstr ""
 
-#: ../../variable/Q1167.rst:47
+#: ../../variable/Q1167.rst:40
 msgid "可愛い人"
 msgstr ""
 
-#: ../../variable/Q1167.rst:49
+#: ../../variable/Q1167.rst:41
 msgid "家事や育児に協力的な人"
 msgstr ""
 
-#: ../../variable/Q1167.rst:51
+#: ../../variable/Q1167.rst:42
 msgid "世話がやける人"
 msgstr ""
 
-#: ../../variable/Q1167.rst:53
+#: ../../variable/Q1167.rst:43
 msgid "自由を束縛する人"
 msgstr ""
 
-#: ../../variable/Q1167.rst:55
+#: ../../variable/Q1167.rst:44
 msgid "経済的に頼りない人"
 msgstr ""
 
-#: ../../variable/Q1167.rst:57
+#: ../../variable/Q1167.rst:45
 msgid "そりがあわない"
 msgstr ""
 
-#: ../../variable/Q1167.rst:64
+#: ../../variable/Q1167.rst:53
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q1167.rst:70
+#: ../../variable/Q1167.rst:60
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q1167.rst:76
+#: ../../variable/Q1167.rst:67
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q1167.rst:77
+#: ../../variable/Q1167.rst:68
 msgid "99"
 msgstr ""
 
-#: ../../variable/Q1167.rst:82
+#: ../../variable/Q1167.rst:74
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q1167.rst:88
+#: ../../variable/Q1167.rst:82
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q1167.rst:93
+#: ../../variable/Q1167.rst:87
 msgid "p19_4"
 msgstr ""
 
-#: ../../variable/Q1167.rst:95
+#: ../../variable/Q1167.rst:89
 msgid "p20_4"
 msgstr ""
 
-#: ../../variable/Q1167.rst:97
+#: ../../variable/Q1167.rst:91
 msgid "p21abcd_4"
 msgstr ""
 
-#: ../../variable/Q1167.rst:99
+#: ../../variable/Q1167.rst:93
 msgid "p21e_4"
 msgstr ""
 
-#: ../../variable/Q1167.rst:101
+#: ../../variable/Q1167.rst:95
 msgid "p22_4"
 msgstr ""
 
-#: ../../variable/Q1167.rst:103
+#: ../../variable/Q1167.rst:97
 msgid "p23_4"
 msgstr ""
 
-#: ../../variable/Q1167.rst:105
+#: ../../variable/Q1167.rst:99
 msgid "p24_4"
 msgstr ""
 
-#: ../../variable/Q1167.rst:107
+#: ../../variable/Q1167.rst:101
 msgid "p25_4"
 msgstr ""
 
-#: ../../variable/Q1167.rst:109
+#: ../../variable/Q1167.rst:103
 msgid "p26_4"
+msgstr ""
+
+#: ../../variable/Q1167.rst:105
+msgid "p27_4"
+msgstr ""
+
+#: ../../variable/Q1167.rst:107
+msgid "p28_4"
 msgstr ""
 
 #~ msgid "変数名: Q1167"

@@ -8,185 +8,193 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:5
+#: ../../variable/Q169.rst:6
 msgid "研修・講習会への派遣の有無"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:9
+#: ../../variable/Q169.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:11
+#: ../../variable/Q169.rst:13
 msgid "Q169"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:15
+#: ../../variable/Q169.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:18
+#: ../../variable/Q169.rst:21
 msgid "この１年間（調査前年10月～調査年９月）に、業務に係わる知識や技能を学ぶために、会社等から派遣されて研修会や講習会などに出席したことがありますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:24
+#: ../../variable/Q169.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:27
+#: ../../variable/Q169.rst:30
 msgid "ある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:29
+#: ../../variable/Q169.rst:31
 msgid "ない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:36
+#: ../../variable/Q169.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:42
+#: ../../variable/Q169.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:48
+#: ../../variable/Q169.rst:53
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:49
+#: ../../variable/Q169.rst:54
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:54
+#: ../../variable/Q169.rst:60
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:60
+#: ../../variable/Q169.rst:68
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:65
+#: ../../variable/Q169.rst:73
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:67
+#: ../../variable/Q169.rst:75
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:69
+#: ../../variable/Q169.rst:77
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:71
+#: ../../variable/Q169.rst:79
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:73
+#: ../../variable/Q169.rst:81
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:75
+#: ../../variable/Q169.rst:83
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:77
+#: ../../variable/Q169.rst:85
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:79
+#: ../../variable/Q169.rst:87
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:81
+#: ../../variable/Q169.rst:89
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:83
+#: ../../variable/Q169.rst:91
 msgid "p10_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:85
+#: ../../variable/Q169.rst:93
 msgid "p11ab_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:87
+#: ../../variable/Q169.rst:95
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:89
+#: ../../variable/Q169.rst:97
 msgid "p12_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:91
+#: ../../variable/Q169.rst:99
 msgid "p13_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:93
+#: ../../variable/Q169.rst:101
 msgid "p14_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:95
+#: ../../variable/Q169.rst:103
 msgid "p15_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:97
+#: ../../variable/Q169.rst:105
 msgid "p16abc_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:99
+#: ../../variable/Q169.rst:107
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:101
+#: ../../variable/Q169.rst:109
 msgid "p17_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:103
+#: ../../variable/Q169.rst:111
 msgid "p18_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:105
+#: ../../variable/Q169.rst:113
 msgid "p19_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:107
+#: ../../variable/Q169.rst:115
 msgid "p20_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:109
+#: ../../variable/Q169.rst:117
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:111
+#: ../../variable/Q169.rst:119
 msgid "p21e_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:113
+#: ../../variable/Q169.rst:121
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:115
+#: ../../variable/Q169.rst:123
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:117
+#: ../../variable/Q169.rst:125
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:119
+#: ../../variable/Q169.rst:127
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q169.rst:121
+#: ../../variable/Q169.rst:129
 msgid "p26_1"
+msgstr ""
+
+#: ../../variable/Q169.rst:131
+msgid "p27_1"
+msgstr ""
+
+#: ../../variable/Q169.rst:133
+msgid "p28_1"
 msgstr ""
 
 #~ msgid "変数名: Q169"

@@ -8,121 +8,109 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q77.rst:5
+#: ../../variable/Q77.rst:6
 msgid "児童手当受給の有無〔第2回～第10回調査〕"
 msgstr ""
 
-#: ../../variable/Q77.rst:9
+#: ../../variable/Q77.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q77.rst:11
+#: ../../variable/Q77.rst:13
 msgid "Q77"
 msgstr ""
 
-#: ../../variable/Q77.rst:15
+#: ../../variable/Q77.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q77.rst:18
+#: ../../variable/Q77.rst:21
 msgid "児童手当給付は受けていますか。"
 msgstr ""
 
-#: ../../variable/Q77.rst:24
+#: ../../variable/Q77.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q77.rst:27
+#: ../../variable/Q77.rst:30
 msgid "受けている"
 msgstr ""
 
-#: ../../variable/Q77.rst:29
+#: ../../variable/Q77.rst:31
 msgid "受けていない"
 msgstr ""
 
-#: ../../variable/Q77.rst:31
+#: ../../variable/Q77.rst:32
 msgid "知らない"
 msgstr ""
 
-#: ../../variable/Q77.rst:38
+#: ../../variable/Q77.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q77.rst:44
+#: ../../variable/Q77.rst:47
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q77.rst:50
+#: ../../variable/Q77.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q77.rst:51
+#: ../../variable/Q77.rst:55
 msgid "4"
 msgstr ""
 
-#: ../../variable/Q77.rst:56
+#: ../../variable/Q77.rst:61
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q77.rst:62
+#: ../../variable/Q77.rst:69
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q77.rst:67
-msgid "p12_4"
+#: ../../variable/Q77.rst:74
+msgid "p2_1"
 msgstr ""
 
-#: ../../variable/Q77.rst:69
-msgid "p13_4"
+#: ../../variable/Q77.rst:76
+msgid "p3_1"
 msgstr ""
 
-#: ../../variable/Q77.rst:71
-msgid "p14_4"
+#: ../../variable/Q77.rst:78
+msgid "p4_1"
 msgstr ""
 
-#: ../../variable/Q77.rst:73
-msgid "p15_4"
+#: ../../variable/Q77.rst:80
+msgid "p5a_1"
 msgstr ""
 
-#: ../../variable/Q77.rst:75
-msgid "p16abc_4"
+#: ../../variable/Q77.rst:82
+msgid "p6_1"
 msgstr ""
 
-#: ../../variable/Q77.rst:77
-msgid "p16d_4"
+#: ../../variable/Q77.rst:84
+msgid "p7_1"
 msgstr ""
 
-#: ../../variable/Q77.rst:79
-msgid "p17_4"
+#: ../../variable/Q77.rst:86
+msgid "p8_1"
 msgstr ""
 
-#: ../../variable/Q77.rst:81
-msgid "p22_4"
+#: ../../variable/Q77.rst:88
+msgid "p9_1"
 msgstr ""
 
-#: ../../variable/Q77.rst:83
-msgid "p23_4"
-msgstr ""
-
-#: ../../variable/Q77.rst:85
-msgid "p24_4"
-msgstr ""
-
-#: ../../variable/Q77.rst:87
-msgid "p25_4"
-msgstr ""
-
-#: ../../variable/Q77.rst:89
-msgid "p26_4"
+#: ../../variable/Q77.rst:90
+msgid "p10_1"
 msgstr ""
 
 #~ msgid "変数名: Q77"
@@ -159,5 +147,41 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "p10_1"
+#~ msgstr ""
+
+#~ msgid "p12_4"
+#~ msgstr ""
+
+#~ msgid "p13_4"
+#~ msgstr ""
+
+#~ msgid "p14_4"
+#~ msgstr ""
+
+#~ msgid "p15_4"
+#~ msgstr ""
+
+#~ msgid "p16abc_4"
+#~ msgstr ""
+
+#~ msgid "p16d_4"
+#~ msgstr ""
+
+#~ msgid "p17_4"
+#~ msgstr ""
+
+#~ msgid "p22_4"
+#~ msgstr ""
+
+#~ msgid "p23_4"
+#~ msgstr ""
+
+#~ msgid "p24_4"
+#~ msgstr ""
+
+#~ msgid "p25_4"
+#~ msgstr ""
+
+#~ msgid "p26_4"
 #~ msgstr ""
 

@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1261G.rst:6
+msgid "特別定額給付金の使い道：それ以外の方のための支出"
+msgstr ""
+
+#: ../../variable/Q1261G.rst:11
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1261G.rst:13
+msgid "Q1261G"
+msgstr ""
+
+#: ../../variable/Q1261G.rst:18
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1261G.rst:21
+msgid "特別定額給付金を「受け取った」と答えた方におたずねします。受け取った特別定額給付金はどのように、いくらぐらい使いましたか。入金口座に意図的に残すことは、貯蓄としてください。"
+msgstr ""
+
+#: ../../variable/Q1261G.rst:24
+msgid "それ以外の方のための支出"
+msgstr ""
+
+#: ../../variable/Q1261G.rst:33
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1261G.rst:35
+msgid "＿ ＿ 万 ＿ 千円"
+msgstr ""
+
+#: ../../variable/Q1261G.rst:42
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1261G.rst:43
+msgid "998"
+msgstr ""
+
+#: ../../variable/Q1261G.rst:49
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code’"
+
+#: ../../variable/Q1261G.rst:56
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1261G.rst:57
+msgid "999"
+msgstr ""
+
+#: ../../variable/Q1261G.rst:63
+msgid "備考"
+msgstr "Remarks"
+
+#: ../../variable/Q1261G.rst:71
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1261G.rst:76
+msgid "p28_3"
+msgstr ""
+

@@ -8,193 +8,201 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-31 17:58+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q440A.rst:5
+#: ../../variable/Q440A.rst:6
 msgid "クレジットカードの保有枚数（本人）"
 msgstr ""
 
-#: ../../variable/Q440A.rst:9
+#: ../../variable/Q440A.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q440A.rst:11
+#: ../../variable/Q440A.rst:13
 msgid "Q440A"
 msgstr ""
 
-#: ../../variable/Q440A.rst:15
+#: ../../variable/Q440A.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q440A.rst:18
+#: ../../variable/Q440A.rst:21
 msgid "クレジットカードを何枚お持ちですか。"
 msgstr ""
 
-#: ../../variable/Q440A.rst:20
+#: ../../variable/Q440A.rst:24
 msgid "あなた"
 msgstr ""
 
-#: ../../variable/Q440A.rst:26
+#: ../../variable/Q440A.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q440A.rst:28
+#: ../../variable/Q440A.rst:33
 msgid "＿ ＿ 枚"
 msgstr ""
 
-#: ../../variable/Q440A.rst:34
+#: ../../variable/Q440A.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q440A.rst:35
+#: ../../variable/Q440A.rst:41
 msgid "98"
 msgstr ""
 
-#: ../../variable/Q440A.rst:40
+#: ../../variable/Q440A.rst:47
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q440A.rst:46
+#: ../../variable/Q440A.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q440A.rst:47
+#: ../../variable/Q440A.rst:55
 msgid "99"
 msgstr ""
 
-#: ../../variable/Q440A.rst:52
+#: ../../variable/Q440A.rst:61
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q440A.rst:58
+#: ../../variable/Q440A.rst:69
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q440A.rst:63
+#: ../../variable/Q440A.rst:74
 msgid "p1_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:65
+#: ../../variable/Q440A.rst:76
 msgid "p2_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:67
+#: ../../variable/Q440A.rst:78
 msgid "p3_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:69
+#: ../../variable/Q440A.rst:80
 msgid "p4_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:71
+#: ../../variable/Q440A.rst:82
 msgid "p5a_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:73
+#: ../../variable/Q440A.rst:84
 msgid "p5b_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:75
+#: ../../variable/Q440A.rst:86
 msgid "p6_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:77
+#: ../../variable/Q440A.rst:88
 msgid "p7_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:79
+#: ../../variable/Q440A.rst:90
 msgid "p8_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:81
+#: ../../variable/Q440A.rst:92
 msgid "p9_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:83
+#: ../../variable/Q440A.rst:94
 msgid "p10_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:85
+#: ../../variable/Q440A.rst:96
 msgid "p11ab_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:87
+#: ../../variable/Q440A.rst:98
 msgid "p11c_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:89
+#: ../../variable/Q440A.rst:100
 msgid "p12_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:91
+#: ../../variable/Q440A.rst:102
 msgid "p13_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:93
+#: ../../variable/Q440A.rst:104
 msgid "p14_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:95
+#: ../../variable/Q440A.rst:106
 msgid "p15_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:97
+#: ../../variable/Q440A.rst:108
 msgid "p16abc_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:99
+#: ../../variable/Q440A.rst:110
 msgid "p16d_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:101
+#: ../../variable/Q440A.rst:112
 msgid "p17_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:103
+#: ../../variable/Q440A.rst:114
 msgid "p18_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:105
+#: ../../variable/Q440A.rst:116
 msgid "p19_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:107
+#: ../../variable/Q440A.rst:118
 msgid "p20_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:109
+#: ../../variable/Q440A.rst:120
 msgid "p21abcd_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:111
+#: ../../variable/Q440A.rst:122
 msgid "p21e_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:113
+#: ../../variable/Q440A.rst:124
 msgid "p22_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:115
+#: ../../variable/Q440A.rst:126
 msgid "p23_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:117
+#: ../../variable/Q440A.rst:128
 msgid "p24_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:119
+#: ../../variable/Q440A.rst:130
 msgid "p25_2"
 msgstr ""
 
-#: ../../variable/Q440A.rst:121
+#: ../../variable/Q440A.rst:132
 msgid "p26_2"
+msgstr ""
+
+#: ../../variable/Q440A.rst:134
+msgid "p27_2"
+msgstr ""
+
+#: ../../variable/Q440A.rst:136
+msgid "p28_2"
 msgstr ""
 
 #~ msgid "変数名: Q440A"

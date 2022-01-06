@@ -8,206 +8,216 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-26 13:47+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2021-10-12 11:22+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 3.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:5
+#: ../../variable/Q699.rst:6
 msgid "職務（義父）"
 msgstr "Type of employee (father-in-law)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:9
+#: ../../variable/Q699.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:11
+#: ../../variable/Q699.rst:13
 msgid "Q699"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:15
+#: ../../variable/Q699.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:18
+#: ../../variable/Q699.rst:21
 msgid "ご主人の父親の職務は次のどれですか（でしたか）。"
 msgstr "What category of employee is(was) your husband's father?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:24
+#: ../../variable/Q699.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:27
+#: ../../variable/Q699.rst:30
 msgid "正社員・正職員"
 msgstr "Full-time and permanent employee "
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:29
+#: ../../variable/Q699.rst:31
 msgid "派遣社員"
 msgstr "Temporary employee"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:31
+#: ../../variable/Q699.rst:32
 msgid "契約社員・嘱託・その他"
 msgstr "Fixed-term employee"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:33
+#: ../../variable/Q699.rst:33
 msgid "パート・アルバイト"
 msgstr "Part-time employee"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:35
+#: ../../variable/Q699.rst:34
 msgid "自営・家族従業者"
 msgstr "Self-employed or working for the family business"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:42
+#: ../../variable/Q699.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:48
+#: ../../variable/Q699.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:54
+#: ../../variable/Q699.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:55
+#: ../../variable/Q699.rst:57
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:60
+#: ../../variable/Q699.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:62
+#: ../../variable/Q699.rst:66
 msgid "この質問項目の選択肢は調査回によって変更があります。詳しくはこちら（:doc:`/kihon_kazoku/oya_giri`）をご参照ください。"
-msgstr "The choices for this questionnaire differ among survey times. Please refer to here (:doc:`/multi_var/Q185`) for details."
+msgstr ""
+"The choices for this questionnaire differ among survey times. Please "
+"refer to here (:doc:`/multi_var/Q185`) for details."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:67
+#: ../../variable/Q699.rst:74
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:72
+#: ../../variable/Q699.rst:79
 msgid "p1_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:74
+#: ../../variable/Q699.rst:81
 msgid "p2_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:76
+#: ../../variable/Q699.rst:83
 msgid "p3_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:78
+#: ../../variable/Q699.rst:85
 msgid "p4_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:80
+#: ../../variable/Q699.rst:87
 msgid "p5a_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:82
+#: ../../variable/Q699.rst:89
 msgid "p5b_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:84
+#: ../../variable/Q699.rst:91
 msgid "p6_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:86
+#: ../../variable/Q699.rst:93
 msgid "p7_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:88
+#: ../../variable/Q699.rst:95
 msgid "p8_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:90
+#: ../../variable/Q699.rst:97
 msgid "p9_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:92
+#: ../../variable/Q699.rst:99
 msgid "p10_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:94
+#: ../../variable/Q699.rst:101
 msgid "p11ab_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:96
+#: ../../variable/Q699.rst:103
 msgid "p11c_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:98
+#: ../../variable/Q699.rst:105
 msgid "p12_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:100
+#: ../../variable/Q699.rst:107
 msgid "p13_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:102
+#: ../../variable/Q699.rst:109
 msgid "p14_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:104
+#: ../../variable/Q699.rst:111
 msgid "p15_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:106
+#: ../../variable/Q699.rst:113
 msgid "p16abc_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:108
+#: ../../variable/Q699.rst:115
 msgid "p16d_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:110
+#: ../../variable/Q699.rst:117
 msgid "p17_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:112
+#: ../../variable/Q699.rst:119
 msgid "p18_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:114
+#: ../../variable/Q699.rst:121
 msgid "p19_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:116
+#: ../../variable/Q699.rst:123
 msgid "p20_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:118
+#: ../../variable/Q699.rst:125
 msgid "p21abcd_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:120
+#: ../../variable/Q699.rst:127
 msgid "p21e_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:122
+#: ../../variable/Q699.rst:129
 msgid "p22_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:124
+#: ../../variable/Q699.rst:131
 msgid "p23_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:126
+#: ../../variable/Q699.rst:133
 msgid "p24_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:128
+#: ../../variable/Q699.rst:135
 msgid "p25_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q699.rst:130
+#: ../../variable/Q699.rst:137
 msgid "p26_5"
 msgstr ""
+
+#: ../../variable/Q699.rst:139
+msgid "p27_5"
+msgstr ""
+
+#: ../../variable/Q699.rst:141
+msgid "p28_5"
+msgstr ""
+

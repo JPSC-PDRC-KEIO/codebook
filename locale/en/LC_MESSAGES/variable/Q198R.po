@@ -8,177 +8,185 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-19 15:52+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:5
+#: ../../variable/Q198R.rst:6
 msgid "離職理由（無職）：解雇された"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:9
+#: ../../variable/Q198R.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:11
+#: ../../variable/Q198R.rst:13
 msgid "Q198R"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:15
+#: ../../variable/Q198R.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:18
+#: ../../variable/Q198R.rst:21
 msgid "どのような理由で、あなたは１年前（昨年9月末）の会社等をやめたのですか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:21
+#: ../../variable/Q198R.rst:24
 msgid "解雇された"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:27
+#: ../../variable/Q198R.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:30
+#: ../../variable/Q198R.rst:33
 msgid "はい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:32
+#: ../../variable/Q198R.rst:34
 msgid "いいえ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:39
+#: ../../variable/Q198R.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:45
+#: ../../variable/Q198R.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:51
+#: ../../variable/Q198R.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:52
+#: ../../variable/Q198R.rst:57
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:57
+#: ../../variable/Q198R.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:59
+#: ../../variable/Q198R.rst:66
 msgid "この質問項目の選択肢には調査回によって変更があります。 詳しくはこちら（:doc:`/multi_var/Q198`）をご参照ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:64
+#: ../../variable/Q198R.rst:74
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:69
+#: ../../variable/Q198R.rst:79
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:71
+#: ../../variable/Q198R.rst:81
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:73
+#: ../../variable/Q198R.rst:83
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:75
+#: ../../variable/Q198R.rst:85
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:77
+#: ../../variable/Q198R.rst:87
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:79
+#: ../../variable/Q198R.rst:89
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:81
+#: ../../variable/Q198R.rst:91
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:83
+#: ../../variable/Q198R.rst:93
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:85
+#: ../../variable/Q198R.rst:95
 msgid "p10_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:87
+#: ../../variable/Q198R.rst:97
 msgid "p11ab_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:89
+#: ../../variable/Q198R.rst:99
 msgid "p12_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:91
+#: ../../variable/Q198R.rst:101
 msgid "p13_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:93
+#: ../../variable/Q198R.rst:103
 msgid "p14_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:95
+#: ../../variable/Q198R.rst:105
 msgid "p15_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:97
+#: ../../variable/Q198R.rst:107
 msgid "p16abc_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:99
+#: ../../variable/Q198R.rst:109
 msgid "p17_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:101
+#: ../../variable/Q198R.rst:111
 msgid "p18_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:103
+#: ../../variable/Q198R.rst:113
 msgid "p19_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:105
+#: ../../variable/Q198R.rst:115
 msgid "p20_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:107
+#: ../../variable/Q198R.rst:117
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:109
+#: ../../variable/Q198R.rst:119
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:111
+#: ../../variable/Q198R.rst:121
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:113
+#: ../../variable/Q198R.rst:123
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:115
+#: ../../variable/Q198R.rst:125
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q198R.rst:117
+#: ../../variable/Q198R.rst:127
 msgid "p26_1"
+msgstr ""
+
+#: ../../variable/Q198R.rst:129
+msgid "p27_1"
+msgstr ""
+
+#: ../../variable/Q198R.rst:131
+msgid "p28_1"
 msgstr ""
 
 #~ msgid "変数名: Q198R"

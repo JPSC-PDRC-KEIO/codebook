@@ -8,16 +8,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/gensyoku_hs/gensyoku_kaishi_hs.rst:3
-msgid "現職開始時期（配偶者）"
+#: ../../syugyo_hs/gensyoku_hs/gensyoku_kaishi_hs.rst:3
+msgid "現職従事期間（配偶者）"
 msgstr ""
+
+#~ msgid "現職開始時期（配偶者）"
+#~ msgstr ""
 

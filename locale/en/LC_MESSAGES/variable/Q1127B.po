@@ -8,113 +8,121 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:5
+#: ../../variable/Q1127B.rst:6
 msgid "ペットの種類：犬（室内で）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:9
+#: ../../variable/Q1127B.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:11
+#: ../../variable/Q1127B.rst:13
 msgid "Q1127B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:15
+#: ../../variable/Q1127B.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:18
+#: ../../variable/Q1127B.rst:21
 msgid "その（飼っているペットの）種類は何ですか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:21
+#: ../../variable/Q1127B.rst:24
 msgid "犬（室内で）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:27
+#: ../../variable/Q1127B.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:30
+#: ../../variable/Q1127B.rst:33
 msgid "はい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:32
+#: ../../variable/Q1127B.rst:34
 msgid "いいえ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:39
+#: ../../variable/Q1127B.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:45
+#: ../../variable/Q1127B.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:51
+#: ../../variable/Q1127B.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:52
+#: ../../variable/Q1127B.rst:57
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:57
+#: ../../variable/Q1127B.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:63
+#: ../../variable/Q1127B.rst:71
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:68
+#: ../../variable/Q1127B.rst:76
 msgid "p18_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:70
+#: ../../variable/Q1127B.rst:78
 msgid "p19_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:72
+#: ../../variable/Q1127B.rst:80
 msgid "p20_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:74
+#: ../../variable/Q1127B.rst:82
 msgid "p21abcd_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:76
+#: ../../variable/Q1127B.rst:84
 msgid "p21e_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:78
+#: ../../variable/Q1127B.rst:86
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:80
+#: ../../variable/Q1127B.rst:88
 msgid "p23_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:82
+#: ../../variable/Q1127B.rst:90
 msgid "p24_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:84
+#: ../../variable/Q1127B.rst:92
 msgid "p25_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1127B.rst:86
+#: ../../variable/Q1127B.rst:94
 msgid "p26_3"
+msgstr ""
+
+#: ../../variable/Q1127B.rst:96
+msgid "p27_3"
+msgstr ""
+
+#: ../../variable/Q1127B.rst:98
+msgid "p28_3"
 msgstr ""
 
 #~ msgid "変数名: Q1127B"

@@ -8,165 +8,173 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:5
+#: ../../variable/Q879F.rst:6
 msgid "支出月額（有配偶・無配偶共通）：保健医療"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:9
+#: ../../variable/Q879F.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:11
+#: ../../variable/Q879F.rst:13
 msgid "Q879F"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:15
+#: ../../variable/Q879F.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:18
+#: ../../variable/Q879F.rst:21
 msgid "保健医療（栄養ドリンク・健康食品も含みます）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:24
+#: ../../variable/Q879F.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:26
+#: ../../variable/Q879F.rst:30
 msgid "＿ ＿ 万 ＿ 千円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:32
+#: ../../variable/Q879F.rst:37
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:33
+#: ../../variable/Q879F.rst:38
 msgid "998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:38
+#: ../../variable/Q879F.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:44
+#: ../../variable/Q879F.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:45
+#: ../../variable/Q879F.rst:52
 msgid "999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:50
+#: ../../variable/Q879F.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:56
+#: ../../variable/Q879F.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:61
+#: ../../variable/Q879F.rst:71
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:63
+#: ../../variable/Q879F.rst:73
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:65
+#: ../../variable/Q879F.rst:75
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:67
+#: ../../variable/Q879F.rst:77
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:69
+#: ../../variable/Q879F.rst:79
 msgid "p10_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:71
+#: ../../variable/Q879F.rst:81
 msgid "p11ab_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:73
+#: ../../variable/Q879F.rst:83
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:75
+#: ../../variable/Q879F.rst:85
 msgid "p12_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:77
+#: ../../variable/Q879F.rst:87
 msgid "p13_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:79
+#: ../../variable/Q879F.rst:89
 msgid "p14_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:81
+#: ../../variable/Q879F.rst:91
 msgid "p15_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:83
+#: ../../variable/Q879F.rst:93
 msgid "p16abc_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:85
+#: ../../variable/Q879F.rst:95
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:87
+#: ../../variable/Q879F.rst:97
 msgid "p17_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:89
+#: ../../variable/Q879F.rst:99
 msgid "p18_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:91
+#: ../../variable/Q879F.rst:101
 msgid "p19_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:93
+#: ../../variable/Q879F.rst:103
 msgid "p20_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:95
+#: ../../variable/Q879F.rst:105
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:97
+#: ../../variable/Q879F.rst:107
 msgid "p21e_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:99
+#: ../../variable/Q879F.rst:109
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:101
+#: ../../variable/Q879F.rst:111
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:103
+#: ../../variable/Q879F.rst:113
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:105
+#: ../../variable/Q879F.rst:115
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879F.rst:107
+#: ../../variable/Q879F.rst:117
 msgid "p26_1"
+msgstr ""
+
+#: ../../variable/Q879F.rst:119
+msgid "p27_1"
+msgstr ""
+
+#: ../../variable/Q879F.rst:121
+msgid "p28_1"
 msgstr ""
 
 #~ msgid "変数名: Q879F"

@@ -8,202 +8,213 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-25 16:31+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2021-10-12 11:23+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 3.0\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:5
+#: ../../variable/Q839.rst:6
 msgid "最終学歴（義母）〔第5回～〕"
 msgstr "Educational achievement at the last school (mother-in-law) [5th wave - ]"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:9
+#: ../../variable/Q839.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:11
+#: ../../variable/Q839.rst:13
 msgid "Q839"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:15
+#: ../../variable/Q839.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:18
+#: ../../variable/Q839.rst:21
 msgid "ご主人の母親の最終学歴は次のうちどれですか。（中退は卒業に含めないでください）"
-msgstr "What was the last school your husband’s mother graduated from? (Exclude a school if he dropped out of it.)"
+msgstr ""
+"What was the last school your husband’s mother graduated from? (Exclude a"
+" school if he dropped out of it.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:24
+#: ../../variable/Q839.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:27
+#: ../../variable/Q839.rst:30
 msgid "中学校"
 msgstr "Junior-high school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:29
+#: ../../variable/Q839.rst:31
 msgid "高等学校"
 msgstr "High School"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:31
+#: ../../variable/Q839.rst:32
 msgid "専門学校・専修学校"
 msgstr "Vocational school or Specialized training school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:33
+#: ../../variable/Q839.rst:33
 msgid "短大"
 msgstr "Junior college"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:35
+#: ../../variable/Q839.rst:34
 msgid "高専"
 msgstr "College of technology"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:37
+#: ../../variable/Q839.rst:35
 msgid "大学"
 msgstr "4 year College or University"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:39
+#: ../../variable/Q839.rst:36
 msgid "大学院"
 msgstr "Graduate school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:41
+#: ../../variable/Q839.rst:37
 msgid "その他"
 msgstr "Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:48
+#: ../../variable/Q839.rst:45
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:54
+#: ../../variable/Q839.rst:52
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:60
+#: ../../variable/Q839.rst:59
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:61
+#: ../../variable/Q839.rst:60
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:66
+#: ../../variable/Q839.rst:66
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:68
-msgid "|nt1| 詳しくはこちら（:doc:`/kihon_kazoku/oya_giri`）をご参照ください。"
+#: ../../variable/Q839.rst:69
+
+msgid "この項目は途中で変数名や選択肢番号が変わっています。 詳しくはこちら（:doc:`/kihon_kazoku/oya_giri`）をご参照ください。"
 msgstr "|nt1| Please refer to here（:doc:`/kihon_kazoku/oya_giri`）for details."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:73
+#: ../../variable/Q839.rst:77
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:78
+#: ../../variable/Q839.rst:82
 msgid "p5a_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:80
+#: ../../variable/Q839.rst:84
 msgid "p5b_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:82
+#: ../../variable/Q839.rst:86
 msgid "p6_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:84
+#: ../../variable/Q839.rst:88
 msgid "p7_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:86
+#: ../../variable/Q839.rst:90
 msgid "p8_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:88
+#: ../../variable/Q839.rst:92
 msgid "p9_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:90
+#: ../../variable/Q839.rst:94
 msgid "p10_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:92
+#: ../../variable/Q839.rst:96
 msgid "p11ab_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:94
+#: ../../variable/Q839.rst:98
 msgid "p11c_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:96
+#: ../../variable/Q839.rst:100
 msgid "p12_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:98
+#: ../../variable/Q839.rst:102
 msgid "p13_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:100
+#: ../../variable/Q839.rst:104
 msgid "p14_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:102
+#: ../../variable/Q839.rst:106
 msgid "p15_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:104
+#: ../../variable/Q839.rst:108
 msgid "p16abc_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:106
+#: ../../variable/Q839.rst:110
 msgid "p16d_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:108
+#: ../../variable/Q839.rst:112
 msgid "p17_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:110
+#: ../../variable/Q839.rst:114
 msgid "p18_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:112
+#: ../../variable/Q839.rst:116
 msgid "p19_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:114
+#: ../../variable/Q839.rst:118
 msgid "p20_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:116
+#: ../../variable/Q839.rst:120
 msgid "p21abcd_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:118
+#: ../../variable/Q839.rst:122
 msgid "p21e_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:120
+#: ../../variable/Q839.rst:124
 msgid "p22_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:122
+#: ../../variable/Q839.rst:126
 msgid "p23_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:124
+#: ../../variable/Q839.rst:128
 msgid "p24_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:126
+#: ../../variable/Q839.rst:130
 msgid "p25_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q839.rst:128
+#: ../../variable/Q839.rst:132
 msgid "p26_2"
 msgstr ""
+
+#: ../../variable/Q839.rst:134
+msgid "p27_2"
+msgstr ""
+
+#: ../../variable/Q839.rst:136
+msgid "p28_2"
+msgstr ""
+

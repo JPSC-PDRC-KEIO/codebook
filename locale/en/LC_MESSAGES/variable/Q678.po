@@ -8,198 +8,208 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2021-10-04 13:54+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 3.0\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:5
+#: ../../variable/Q678.rst:6
 msgid "専門学校の卒業（配偶者）"
 msgstr "Graduation from vocational school (spouse)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:9
+#: ../../variable/Q678.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:11
+#: ../../variable/Q678.rst:13
 msgid "Q678"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:15
+#: ../../variable/Q678.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:18
+#: ../../variable/Q678.rst:21
 msgid "ご主人は専門学校・専修学校には行きましたか。（在学中を含む）"
-msgstr "Did your husband go to a vocational school/special training school? (includes those who are currently attending.)"
+msgstr ""
+"Did your husband go to a vocational school/special training school? "
+"(includes those who are currently attending.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:24
+#: ../../variable/Q678.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:27
+#: ../../variable/Q678.rst:30
 msgid "卒業した"
 msgstr "Graduated"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:29
+#: ../../variable/Q678.rst:31
 msgid "中退した"
 msgstr "Dropped out"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:31
+#: ../../variable/Q678.rst:32
 msgid "在学中"
 msgstr "Attending now"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:33
+#: ../../variable/Q678.rst:33
 msgid "行かなかった"
 msgstr "Didn’t go"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:40
+#: ../../variable/Q678.rst:41
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:46
+#: ../../variable/Q678.rst:48
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:52
+#: ../../variable/Q678.rst:55
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:53
+#: ../../variable/Q678.rst:56
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:58
+#: ../../variable/Q678.rst:62
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:64
+#: ../../variable/Q678.rst:70
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:69
+#: ../../variable/Q678.rst:75
 msgid "p1_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:71
+#: ../../variable/Q678.rst:77
 msgid "p2_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:73
+#: ../../variable/Q678.rst:79
 msgid "p3_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:75
+#: ../../variable/Q678.rst:81
 msgid "p4_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:77
+#: ../../variable/Q678.rst:83
 msgid "p5a_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:79
+#: ../../variable/Q678.rst:85
 msgid "p5b_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:81
+#: ../../variable/Q678.rst:87
 msgid "p6_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:83
+#: ../../variable/Q678.rst:89
 msgid "p7_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:85
+#: ../../variable/Q678.rst:91
 msgid "p8_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:87
+#: ../../variable/Q678.rst:93
 msgid "p9_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:89
+#: ../../variable/Q678.rst:95
 msgid "p10_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:91
+#: ../../variable/Q678.rst:97
 msgid "p11ab_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:93
+#: ../../variable/Q678.rst:99
 msgid "p11c_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:95
+#: ../../variable/Q678.rst:101
 msgid "p12_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:97
+#: ../../variable/Q678.rst:103
 msgid "p13_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:99
+#: ../../variable/Q678.rst:105
 msgid "p14_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:101
+#: ../../variable/Q678.rst:107
 msgid "p15_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:103
+#: ../../variable/Q678.rst:109
 msgid "p16abc_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:105
+#: ../../variable/Q678.rst:111
 msgid "p16d_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:107
+#: ../../variable/Q678.rst:113
 msgid "p17_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:109
+#: ../../variable/Q678.rst:115
 msgid "p18_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:111
+#: ../../variable/Q678.rst:117
 msgid "p19_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:113
+#: ../../variable/Q678.rst:119
 msgid "p20_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:115
+#: ../../variable/Q678.rst:121
 msgid "p21abcd_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:117
+#: ../../variable/Q678.rst:123
 msgid "p21e_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:119
+#: ../../variable/Q678.rst:125
 msgid "p22_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:121
+#: ../../variable/Q678.rst:127
 msgid "p23_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:123
+#: ../../variable/Q678.rst:129
 msgid "p24_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:125
+#: ../../variable/Q678.rst:131
 msgid "p25_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q678.rst:127
+#: ../../variable/Q678.rst:133
 msgid "p26_5"
 msgstr ""
+
+#: ../../variable/Q678.rst:135
+msgid "p27_5"
+msgstr ""
+
+#: ../../variable/Q678.rst:137
+msgid "p28_5"
+msgstr ""
+

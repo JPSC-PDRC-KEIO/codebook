@@ -8,81 +8,97 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212E.rst:5
-msgid "年収調整の理由：各種サービス利用"
+#: ../../variable/Q1212E.rst:6
+msgid "年収調整の理由：雇用保険"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212E.rst:9
+#: ../../variable/Q1212E.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212E.rst:11
+#: ../../variable/Q1212E.rst:13
 msgid "Q1212E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212E.rst:15
+#: ../../variable/Q1212E.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212E.rst:18
-msgid "各種サービス利用の収入段階を意識しているから"
+#: ../../variable/Q1212E.rst:21
+msgid "あなたは昨年、年収が一定額を超えないように調整しましたか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212E.rst:24
+#: ../../variable/Q1212E.rst:24
+msgid "調整したのはどの理由によるものですか。（〇はいくつでも）"
+msgstr ""
+
+#: ../../variable/Q1212E.rst:27
+msgid "雇用保険に加入しなければならないから"
+msgstr ""
+
+#: ../../variable/Q1212E.rst:33
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212E.rst:27
+#: ../../variable/Q1212E.rst:35
 msgid "はい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212E.rst:29
+#: ../../variable/Q1212E.rst:36
 msgid "いいえ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212E.rst:36
+#: ../../variable/Q1212E.rst:44
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212E.rst:42
+#: ../../variable/Q1212E.rst:51
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212E.rst:48
+#: ../../variable/Q1212E.rst:58
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212E.rst:49
+#: ../../variable/Q1212E.rst:59
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212E.rst:54
+#: ../../variable/Q1212E.rst:65
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212E.rst:60
+#: ../../variable/Q1212E.rst:73
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212E.rst:65
+#: ../../variable/Q1212E.rst:78
 msgid "p24_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212E.rst:67
+#: ../../variable/Q1212E.rst:80
 msgid "p25_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1212E.rst:69
+#: ../../variable/Q1212E.rst:82
 msgid "p26_3"
+msgstr ""
+
+#: ../../variable/Q1212E.rst:84
+msgid "p27_3"
+msgstr ""
+
+#: ../../variable/Q1212E.rst:86
+msgid "p28_3"
 msgstr ""
 
 #~ msgid "年収調整の理由：雇用保険加入"
@@ -101,5 +117,11 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "年収調整の理由：各種サービス利用"
+#~ msgstr ""
+
+#~ msgid "各種サービス利用の収入段階を意識しているから"
 #~ msgstr ""
 

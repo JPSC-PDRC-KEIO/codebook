@@ -8,90 +8,98 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2020-05-18 22:27+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 2.3.1\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:5
+#: ../../variable/Q1222.rst:6
 msgid "介護について：負担感"
 msgstr "Caregiving: Feeling of burden"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:9
+#: ../../variable/Q1222.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:11
+#: ../../variable/Q1222.rst:13
 msgid "Q1222"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:15
+#: ../../variable/Q1222.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:18
+#: ../../variable/Q1222.rst:21
 msgid "全体として介護は、どのくらい自分の負担になっていると思いますか。"
 msgstr "How much overall care-related burden do you feel you are bearing?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:24
+#: ../../variable/Q1222.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:27
+#: ../../variable/Q1222.rst:30
 msgid "まったく負担でない"
 msgstr "No burden at all"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:29
+#: ../../variable/Q1222.rst:31
 msgid "多少負担に思う"
 msgstr "Some burden"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:31
+#: ../../variable/Q1222.rst:32
 msgid "世間並みの負担だと思う"
 msgstr "A level of burden that others would normally feel"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:33
+#: ../../variable/Q1222.rst:33
 msgid "かなり負担だと思う"
 msgstr "Considerable burden"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:35
+#: ../../variable/Q1222.rst:34
 msgid "非常に大きな負担である"
 msgstr "Very substantial burden"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:42
+#: ../../variable/Q1222.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:48
+#: ../../variable/Q1222.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:54
+#: ../../variable/Q1222.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:55
+#: ../../variable/Q1222.rst:57
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:60
+#: ../../variable/Q1222.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:66
+#: ../../variable/Q1222.rst:71
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:71
+#: ../../variable/Q1222.rst:76
 msgid "p25_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1222.rst:73
+#: ../../variable/Q1222.rst:78
 msgid "p26_4"
 msgstr ""
+
+#: ../../variable/Q1222.rst:80
+msgid "p27_4"
+msgstr ""
+
+#: ../../variable/Q1222.rst:82
+msgid "p28_4"
+msgstr ""
+

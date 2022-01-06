@@ -8,159 +8,184 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-25 16:31+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2020-03-26 11:03+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 2.3\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst:3
+#: ../../kihon_kazoku/oya_jitsu.rst:3
 msgid "親の情報（実親）"
 msgstr "Parent"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst:6
+#: ../../kihon_kazoku/oya_jitsu.rst:6
 msgid "親は健在か"
 msgstr "Alive or not"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst:19
+#: ../../kihon_kazoku/oya_jitsu.rst:19
 msgid "親の経歴"
 msgstr "Background"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst:33
-msgid ""
-"「最終学歴」については、第1回調査では、中退が卒業に含まれています。また、"
-"変数名と選択肢が下記のように変化しています。"
+#: ../../kihon_kazoku/oya_jitsu.rst:33
+msgid "「最終学歴」については、第1回調査では、中退が卒業に含まれています。また、変数名と選択肢が下記のように変化しています。"
 msgstr ""
 "Regarding \"Educational achievement at the last school\", dropouts are "
 "included in graduation in the1st wave. Also, the variable names and "
 "choices have changed as follows."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst:35
+#: ../../kihon_kazoku/oya_jitsu.rst:35
 msgid "最終学歴（実父・実母）"
 msgstr "Final education (father and mother)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst:1
+#: ../../kihon_kazoku/oya_jitsu.rst:1
 msgid "第1回"
 msgstr "1st wave -"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst:1
+#: ../../kihon_kazoku/oya_jitsu.rst:1
 msgid "第5回～"
 msgstr "5th wave -"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst:1
+#: ../../kihon_kazoku/oya_jitsu.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
+#: ../../kihon_kazoku/oya_jitsu.rst
 msgid "実父 :doc:`P84 </variable/P84>`"
 msgstr "Father :doc:`P84 </variable/P84>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
+#: ../../kihon_kazoku/oya_jitsu.rst
 msgid "実母 :doc:`P92 </variable/P92>`"
 msgstr "Mother :doc:`P92 </variable/P92>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
+#: ../../kihon_kazoku/oya_jitsu.rst
 msgid "実父 :doc:`Q1023 </variable/Q1023>`"
 msgstr "Father :doc:`Q1023 </variable/Q1023>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
+#: ../../kihon_kazoku/oya_jitsu.rst
 msgid "実母 :doc:`Q1024 </variable/Q1024>`"
 msgstr "Mother :doc:`Q1024 </variable/Q1024>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst:1
+#: ../../kihon_kazoku/oya_jitsu.rst:1
 msgid "選択肢"
 msgstr "Choices"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
+#: ../../kihon_kazoku/oya_jitsu.rst
 msgid "1.中学（旧制中学校・高等小学校）卒業"
 msgstr ""
 "1.Junior-high school (junior high school/senior elementary school in old-"
 "education-system)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
+#: ../../kihon_kazoku/oya_jitsu.rst
 msgid "2.高校（旧制中学）卒業"
 msgstr "2.High school (junior high school in old-education-system)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
+#: ../../kihon_kazoku/oya_jitsu.rst
 msgid "3.短大・高専（旧制高校）卒業"
 msgstr ""
 "3.Junior college or College of technology (high school in old-education-"
 "system)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
+#: ../../kihon_kazoku/oya_jitsu.rst
 msgid "4.大学・大学院卒業"
 msgstr "4.Graduated from university and graduate school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
+#: ../../kihon_kazoku/oya_jitsu.rst
 msgid "1.中学校（旧制小学校・高等小学校）"
 msgstr "1.Junior-high school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
+#: ../../kihon_kazoku/oya_jitsu.rst
 msgid "2.高等学校（旧制中学）"
 msgstr "2.High school ((junior high school in old-education-system)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
+#: ../../kihon_kazoku/oya_jitsu.rst
 msgid "3.専門学校・専修学校"
 msgstr "3.Vocational school or Specialized training school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
+#: ../../kihon_kazoku/oya_jitsu.rst
 msgid "4.短大"
 msgstr "4.Junior College"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
+#: ../../kihon_kazoku/oya_jitsu.rst
 msgid "5.高専"
 msgstr "5.Technical College"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
+#: ../../kihon_kazoku/oya_jitsu.rst
 msgid "6.4年制大学"
 msgstr "6.4-year university"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
+#: ../../kihon_kazoku/oya_jitsu.rst
 msgid "7.大学院"
 msgstr "7.Graduate School"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
+#: ../../kihon_kazoku/oya_jitsu.rst
 msgid "8.その他"
 msgstr "8.Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst:55
+#: ../../kihon_kazoku/oya_jitsu.rst:55
 msgid "「職務」については、選択肢が下記のように変化しています。"
 msgstr "The choicies of \"Employment category\" has changed as follow."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst:57
-msgid "職務（実父・実母）"
+#: ../../kihon_kazoku/oya_jitsu.rst:57
+
+msgid "職務（実父）"
 msgstr "Type of employment (father and mother)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
-msgid "1.正社員・正職員"
+#: ../../kihon_kazoku/oya_jitsu.rst:1
+
+msgid "第1回・第5回"
+msgstr "1st wave -"
+
+#: ../../kihon_kazoku/oya_jitsu.rst:1
+msgid "第11回・第16回"
+msgstr ""
+
+#: ../../kihon_kazoku/oya_jitsu.rst:1
+
+msgid "第21回"
+msgstr "1st wave -"
+
+#: ../../kihon_kazoku/oya_jitsu.rst
+
+msgid "1. 正社員・正職員"
 msgstr "1.Full-time and permanent employee"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
-msgid "2.パート・アルバイト"
+#: ../../kihon_kazoku/oya_jitsu.rst
+
+msgid "2. パート・アルバイト"
 msgstr "2.Part-time employee"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
-msgid "3.嘱託・その他"
+#: ../../kihon_kazoku/oya_jitsu.rst
+
+msgid "3. 嘱託・その他"
 msgstr "3.Commissioned or Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
-msgid "2.派遣社員"
-msgstr "2.Temporary employee"
+#: ../../kihon_kazoku/oya_jitsu.rst
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
-msgid "3.契約社員・嘱託・その他"
+msgid "3. 派遣社員・嘱託・その他"
 msgstr "3.Fixed-term employee"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
-msgid "4.パート・アルバイト"
+#: ../../kihon_kazoku/oya_jitsu.rst
+
+msgid "2. 派遣社員"
+msgstr "2.Temporary employee"
+
+#: ../../kihon_kazoku/oya_jitsu.rst
+
+msgid "3. 契約社員・嘱託・その他"
+msgstr "3.Fixed-term employee"
+
+#: ../../kihon_kazoku/oya_jitsu.rst
+
+msgid "4. パート・アルバイト"
 msgstr "4.Part-time employee"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oya_jitsu.rst
-msgid "5.自営・家族従業者"
+#: ../../kihon_kazoku/oya_jitsu.rst
+
+msgid "5. 自営・家族従業者"
 msgstr "5.Self-employed or working for the family business"
+

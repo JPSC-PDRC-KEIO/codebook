@@ -8,189 +8,201 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q149.rst:5
+#: ../../variable/Q149.rst:6
 msgid "月給・週給（月当たり額)"
 msgstr ""
 
-#: ../../variable/Q149.rst:9
+#: ../../variable/Q149.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q149.rst:11
+#: ../../variable/Q149.rst:13
 msgid "Q149"
 msgstr ""
 
-#: ../../variable/Q149.rst:15
+#: ../../variable/Q149.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q149.rst:18
-msgid "あなたは月にいくらぐらいこの仕事から収入を得ていますか。（残業手当を含む、ボーナスを含まない税引き前の収入） 月当たり"
+#: ../../variable/Q149.rst:21
+msgid "あなたは月にいくらぐらいこの仕事から収入を得ていますか。（残業手当を含む、ボーナスを含まない税引き前の収入）"
 msgstr ""
 
-#: ../../variable/Q149.rst:23
-msgid "選択肢 / 記入欄"
-msgstr "Select / Fill in"
-
-#: ../../variable/Q149.rst:25
-msgid "|lline| |lline| |lline| 万 |lline| 千円"
+#: ../../variable/Q149.rst:24
+msgid "月当たり"
 msgstr ""
 
 #: ../../variable/Q149.rst:31
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q149.rst:33
+msgid "＿ ＿ ＿ 万 ＿ 千円"
+msgstr ""
+
+#: ../../variable/Q149.rst:41
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q149.rst:32
+#: ../../variable/Q149.rst:42
 msgid "9998"
 msgstr ""
 
-#: ../../variable/Q149.rst:37
+#: ../../variable/Q149.rst:48
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q149.rst:43
+#: ../../variable/Q149.rst:55
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q149.rst:44
+#: ../../variable/Q149.rst:56
 msgid "9999"
 msgstr ""
 
-#: ../../variable/Q149.rst:49
+#: ../../variable/Q149.rst:62
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q149.rst:55
+#: ../../variable/Q149.rst:70
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q149.rst:60
+#: ../../variable/Q149.rst:75
 msgid "p1_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:62
+#: ../../variable/Q149.rst:77
 msgid "p2_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:64
+#: ../../variable/Q149.rst:79
 msgid "p3_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:66
+#: ../../variable/Q149.rst:81
 msgid "p4_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:68
+#: ../../variable/Q149.rst:83
 msgid "p5a_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:70
+#: ../../variable/Q149.rst:85
 msgid "p5b_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:72
+#: ../../variable/Q149.rst:87
 msgid "p6_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:74
+#: ../../variable/Q149.rst:89
 msgid "p7_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:76
+#: ../../variable/Q149.rst:91
 msgid "p8_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:78
+#: ../../variable/Q149.rst:93
 msgid "p9_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:80
+#: ../../variable/Q149.rst:95
 msgid "p10_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:82
+#: ../../variable/Q149.rst:97
 msgid "p11ab_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:84
+#: ../../variable/Q149.rst:99
 msgid "p11c_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:86
+#: ../../variable/Q149.rst:101
 msgid "p12_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:88
+#: ../../variable/Q149.rst:103
 msgid "p13_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:90
+#: ../../variable/Q149.rst:105
 msgid "p14_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:92
+#: ../../variable/Q149.rst:107
 msgid "p15_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:94
+#: ../../variable/Q149.rst:109
 msgid "p16abc_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:96
+#: ../../variable/Q149.rst:111
 msgid "p16d_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:98
+#: ../../variable/Q149.rst:113
 msgid "p17_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:100
+#: ../../variable/Q149.rst:115
 msgid "p18_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:102
+#: ../../variable/Q149.rst:117
 msgid "p19_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:104
+#: ../../variable/Q149.rst:119
 msgid "p20_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:106
+#: ../../variable/Q149.rst:121
 msgid "p21abcd_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:108
+#: ../../variable/Q149.rst:123
 msgid "p21e_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:110
+#: ../../variable/Q149.rst:125
 msgid "p22_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:112
+#: ../../variable/Q149.rst:127
 msgid "p23_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:114
+#: ../../variable/Q149.rst:129
 msgid "p24_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:116
+#: ../../variable/Q149.rst:131
 msgid "p25_1"
 msgstr ""
 
-#: ../../variable/Q149.rst:118
+#: ../../variable/Q149.rst:133
 msgid "p26_1"
+msgstr ""
+
+#: ../../variable/Q149.rst:135
+msgid "p27_1"
+msgstr ""
+
+#: ../../variable/Q149.rst:137
+msgid "p28_1"
 msgstr ""
 
 #~ msgid "変数名: Q149"
@@ -212,5 +224,11 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "＿ ＿ ＿ 万 ＿ 千円"
+#~ msgstr ""
+
+#~ msgid "あなたは月にいくらぐらいこの仕事から収入を得ていますか。（残業手当を含む、ボーナスを含まない税引き前の収入） 月当たり"
+#~ msgstr ""
+
+#~ msgid "|lline| |lline| |lline| 万 |lline| 千円"
 #~ msgstr ""
 

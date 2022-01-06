@@ -1,0 +1,162 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../covid19/ishiki/kikikanri.rst:3
+msgid "政府／地方自治体の危機対応への満足度"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:7
+msgid "質問文"
+msgstr "Question"
+
+#: ../../covid19/ishiki/kikikanri.rst:8
+msgid ""
+"政府や地方自治体の新型コロナウイルスに対する危機管理対応に、どのくらい満足していますか。 "
+"0（完全に不満）から10（完全に満足）まで範囲の数字を１つ選んでください。（○は１つずつ）"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "項目"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "完全に不満"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "←"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "－"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "→"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "完全に満足"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "非該当"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "（1）政府"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid ":doc:`Q1272A</variable/Q1272A>`"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "0"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "1"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "2"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "3"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "4"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "5"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "6"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "7"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "8"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "9"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "10"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "（1）-1個人や企業への自粛要請策の内容"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid ":doc:`Q1272B</variable/Q1272B>`"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "（1）-2経済的支援策の内容"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid ":doc:`Q1272C</variable/Q1272C>`"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "（2）地方自治体（都道府県・市区町村）"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid ":doc:`Q1272D</variable/Q1272D>`"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "（3）勤務先企業（該当する方のみ）"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid ":doc:`Q1272E</variable/Q1272E>`"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "11"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid "（4）お子さんの学校や保育所・学童（該当する方のみ）"
+msgstr ""
+
+#: ../../covid19/ishiki/kikikanri.rst:1
+msgid ":doc:`Q1272F</variable/Q1272F>`"
+msgstr ""
+

@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../kekkon/kekkonaite.rst:3
 msgid "結婚相手に重視する要素"
@@ -206,7 +206,7 @@ msgid "有配偶の方へは次（ :doc:`otto_image_yu` ) のように質問し�
 msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:62
-msgid "付問：（1）から（16）の中で、あなたが結婚相手に最も重視する要素はどれですか。"
+msgid "付問：1から16の中で、あなたが結婚相手に最も重視する要素はどれですか。"
 msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
@@ -233,5 +233,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "コード（1から16）"
+#~ msgstr ""
+
+#~ msgid "付問：（1）から（16）の中で、あなたが結婚相手に最も重視する要素はどれですか。"
 #~ msgstr ""
 

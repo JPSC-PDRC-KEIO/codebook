@@ -8,154 +8,167 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
 "PO-Revision-Date: 2020-05-30 14:15+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 2.3.1\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:5
+#: ../../variable/Q536B.rst:6
 msgid "受講の有無"
 msgstr "Attending schools"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:9
+#: ../../variable/Q536B.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:11
+#: ../../variable/Q536B.rst:13
 msgid "Q536B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:15
+#: ../../variable/Q536B.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:18
+#: ../../variable/Q536B.rst:21
 msgid "あなたはこの1年間（調査前年10月～調査年9月）に各種学校、専門学校、大学、通信教育などで受講しましたか。会社から派遣されたものは除いてお答え下さい。"
-msgstr "Have you taken any classes at schools categorized as “miscellaneous” below, such as vocational schools or colleges or any correspondence courses during the past year (October of the previous year to September of the survey) ? lease do not count the courses your company sent you to take."
+msgstr ""
+"Have you taken any classes at schools categorized as “miscellaneous” "
+"below, such as vocational schools or colleges or any correspondence "
+"courses during the past year (October of the previous year to September "
+"of the survey) ? lease do not count the courses your company sent you to "
+"take."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:24
+#: ../../variable/Q536B.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:27
+#: ../../variable/Q536B.rst:30
 msgid "受講した"
 msgstr "Yes, I have"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:29
+#: ../../variable/Q536B.rst:31
 msgid "受講しなかった"
 msgstr "No, I haven’t"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:36
+#: ../../variable/Q536B.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:42
+#: ../../variable/Q536B.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:48
+#: ../../variable/Q536B.rst:53
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:49
+#: ../../variable/Q536B.rst:54
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:54
+#: ../../variable/Q536B.rst:60
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:60
+#: ../../variable/Q536B.rst:68
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:65
+#: ../../variable/Q536B.rst:73
 msgid "p9_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:67
+#: ../../variable/Q536B.rst:75
 msgid "p10_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:69
+#: ../../variable/Q536B.rst:77
 msgid "p11ab_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:71
+#: ../../variable/Q536B.rst:79
 msgid "p11c_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:73
+#: ../../variable/Q536B.rst:81
 msgid "p12_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:75
+#: ../../variable/Q536B.rst:83
 msgid "p13_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:77
+#: ../../variable/Q536B.rst:85
 msgid "p14_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:79
+#: ../../variable/Q536B.rst:87
 msgid "p15_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:81
+#: ../../variable/Q536B.rst:89
 msgid "p16abc_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:83
+#: ../../variable/Q536B.rst:91
 msgid "p16d_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:85
+#: ../../variable/Q536B.rst:93
 msgid "p17_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:87
+#: ../../variable/Q536B.rst:95
 msgid "p18_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:89
+#: ../../variable/Q536B.rst:97
 msgid "p19_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:91
+#: ../../variable/Q536B.rst:99
 msgid "p20_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:93
+#: ../../variable/Q536B.rst:101
 msgid "p21abcd_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:95
+#: ../../variable/Q536B.rst:103
 msgid "p21e_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:97
+#: ../../variable/Q536B.rst:105
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:99
+#: ../../variable/Q536B.rst:107
 msgid "p23_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:101
+#: ../../variable/Q536B.rst:109
 msgid "p24_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:103
+#: ../../variable/Q536B.rst:111
 msgid "p25_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q536B.rst:105
+#: ../../variable/Q536B.rst:113
 msgid "p26_3"
 msgstr ""
+
+#: ../../variable/Q536B.rst:115
+msgid "p27_3"
+msgstr ""
+
+#: ../../variable/Q536B.rst:117
+msgid "p28_3"
+msgstr ""
+

@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:3
+msgid "生活上の変化（2019年10月との比較）"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:7
+msgid "質問文"
+msgstr "Question"
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:8
+msgid "2019年10 月ごろ（前回の調査の回答時期）と比べて、以下のことはどの程度変わりましたか。（〇は１つずつ）"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "項目"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "大きく増えた"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "少し増えた"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "変わらない"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "少し減った"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "大きく減った"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "該当しない"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "友人・知人との交流"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid ":doc:`Q1274A</variable/Q1274A>`"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "1"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "2"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "3"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "4"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "5"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "6"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "配偶者との衝突や口論、いさかい"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid ":doc:`Q1274B</variable/Q1274B>`"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "子ども・孫との衝突や口論、いさかい"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid ":doc:`Q1274C</variable/Q1274C>`"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "その他の同居家族との衝突や口論、いさかい"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid ":doc:`Q1274D</variable/Q1274D>`"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "自宅での調理の回数"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid ":doc:`Q1274E</variable/Q1274E>`"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "買い物に出かける頻度"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid ":doc:`Q1274F</variable/Q1274F>`"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid "宅配・ネットショッピングの頻度"
+msgstr ""
+
+#: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
+msgid ":doc:`Q1274G</variable/Q1274G>`"
+msgstr ""
+
