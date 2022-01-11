@@ -15,3 +15,4 @@
    /variable/P27
    /variable/P13
    jyuku
+   /kihon/Q60SR

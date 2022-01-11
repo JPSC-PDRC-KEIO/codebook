@@ -10,7 +10,6 @@
    Q6
    Q7
    /variable/Q8
-   Q60SR
    gakureki/index
    kekkon/index
    syugaku
