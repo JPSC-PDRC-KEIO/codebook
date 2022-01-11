@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-01-07 13:20+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138A.rst:5
 msgid "事故・災害・消費者トラブルへの対処：預貯金を取り崩した"
-msgstr ""
+msgstr "Coping with accidents, disasters, and consumer problems: Withdrawing savings"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138A.rst:9
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138A.rst:18
 msgid "この1年間（調査前年10月～調査年9月）にあなた自身が事故や災害、消費者トラブルにあわれた方にうかがいます。（3）そのためにどのような対処をしましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "For those who have had accidents, disasters, or consumer problems during the past year (October of the previous year to September of the survey year) (3) How did you deal with this? (Circle as many as pertain to you)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138A.rst:21
 msgid "預貯金を取り崩した"
-msgstr ""
+msgstr "Withdrawing my savings"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138A.rst:27
 msgid "選択肢 / 記入欄"
@@ -47,11 +49,11 @@ msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138A.rst:30
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138A.rst:32
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138A.rst:39
 msgid "桁あふれコード"
@@ -170,4 +172,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

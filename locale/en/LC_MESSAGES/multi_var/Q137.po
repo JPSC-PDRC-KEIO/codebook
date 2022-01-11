@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-19 21:54+0900\n"
-"PO-Revision-Date: 2021-12-14 09:44+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"PO-Revision-Date: 2022-01-07 13:16+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
-"X-Generator: Poedit 3.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:4
 msgid "事故・災害・消費者トラブルによる生活変化"
@@ -26,7 +26,7 @@ msgstr "Life changes due to accidents, disasters, and consumer problems"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:8
 msgid "質問文（複数回答）"
-msgstr "Question ( multiple answers)"
+msgstr "Question (multiple answers)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:9
 msgid "この1年間（調査前年10月～調査年9月）にあなた自身が事故や災害、消費者トラブルにあわれた方にうかがいます。"
@@ -46,7 +46,7 @@ msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:1
 msgid "仕事が続けられなくなってやめたり転職した"
-msgstr "You quit or changed jobs because you couldn't keep working"
+msgstr "You quit or changed jobs because you couldn't keep working."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:1
 msgid ":doc:`Q137A </variable/Q137A>`"
@@ -54,7 +54,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:1
 msgid "離婚や別居をした"
-msgstr "You were divorced or separated"
+msgstr "You were divorced or separated."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:1
 msgid ":doc:`Q137B </variable/Q137B>`"
@@ -62,7 +62,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:1
 msgid "休学や退学をした"
-msgstr "You took a leave of absence or dropped out of school"
+msgstr "You took a leave of absence or dropped out of school."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:1
 msgid ":doc:`Q137C </variable/Q137C>`"
@@ -70,7 +70,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:1
 msgid "親の家に戻った（同居した）"
-msgstr "You moved back into your parents' house ( lived with them )"
+msgstr "You moved back into your parents' house ( lived with them )."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:1
 msgid ":doc:`Q137D </variable/Q137D>`"
@@ -78,7 +78,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:1
 msgid "資産を失った"
-msgstr "You lost an asset"
+msgstr "You lost an asset."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:1
 msgid ":doc:`Q137E </variable/Q137E>`"
@@ -86,7 +86,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:1
 msgid "賠償金、返済など大きな費用がかかった"
-msgstr "Large costs were incurred, including compensation and repayment"
+msgstr "Large costs were incurred, including compensation and repayment."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:1
 msgid ":doc:`Q137F </variable/Q137F>`"
@@ -94,7 +94,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:1
 msgid "精神的に落ち込んだ"
-msgstr "You experienced depression"
+msgstr "You experienced depression."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:1
 msgid ":doc:`Q137G </variable/Q137G>`"
@@ -110,7 +110,7 @@ msgstr ""
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:1
 msgid "特に変化はなかった"
-msgstr "There was no change"
+msgstr "No particular change"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q137.rst:1
 msgid ":doc:`Q137I </variable/Q137I>`"

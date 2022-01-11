@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-01-07 14:02+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:5
 msgid "事故・災害・消費者トラブルへの対処：親やきょうだいに手助けや相談にのってもらった"
-msgstr ""
+msgstr "Coping with accidents, disasters, and consumer problems: Having parents or siblings help or consult with me"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:9
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:18
 msgid "この1年間（調査前年10月～調査年9月）にあなた自身が事故や災害、消費者トラブルにあわれた方にうかがいます。（3）そのためにどのような対処をしましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "For those who have had accidents, disasters, or consumer problems during the past year (October of the previous year to September of the survey year) (3) How did you deal with this? (Circle as many as pertain to you)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:21
 msgid "親やきょうだいに手助けや相談にのってもらった"
-msgstr ""
+msgstr "Having parents or siblings help or consult with me"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:27
 msgid "選択肢 / 記入欄"
@@ -47,11 +49,11 @@ msgstr "Select / Fill in"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:30
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:32
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:39
 msgid "桁あふれコード"
@@ -67,7 +69,7 @@ msgstr "No response code"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:52
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:57
 msgid "備考"
@@ -79,87 +81,87 @@ msgstr "Data files (csv)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:68
 msgid "p2_1"
-msgstr ""
+msgstr "p2_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:70
 msgid "p3_1"
-msgstr ""
+msgstr "p3_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:72
 msgid "p4_1"
-msgstr ""
+msgstr "p4_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:74
 msgid "p5a_1"
-msgstr ""
+msgstr "p5a_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:76
 msgid "p6_1"
-msgstr ""
+msgstr "p6_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:78
 msgid "p7_1"
-msgstr ""
+msgstr "p7_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:80
 msgid "p8_1"
-msgstr ""
+msgstr "p8_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:82
 msgid "p9_1"
-msgstr ""
+msgstr "p9_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:84
 msgid "p10_1"
-msgstr ""
+msgstr "p10_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:86
 msgid "p11ab_1"
-msgstr ""
+msgstr "p11ab_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:88
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:90
 msgid "p13_1"
-msgstr ""
+msgstr "p13_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:92
 msgid "p14_1"
-msgstr ""
+msgstr "p14_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:94
 msgid "p15_1"
-msgstr ""
+msgstr "p15_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:96
 msgid "p16abc_1"
-msgstr ""
+msgstr "p16abc_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:98
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:100
 msgid "p18_1"
-msgstr ""
+msgstr "p18_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:102
 msgid "p19_1"
-msgstr ""
+msgstr "p19_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:104
 msgid "p20_1"
-msgstr ""
+msgstr "p20_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:106
 msgid "p21abcd_1"
-msgstr ""
+msgstr "p21abcd_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:108
 msgid "p22_1"
-msgstr ""
+msgstr "p22_1"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138K.rst:110
 msgid "p23_1"
@@ -170,4 +172,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
