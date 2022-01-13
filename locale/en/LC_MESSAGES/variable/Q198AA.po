@@ -74,8 +74,12 @@ msgid "備考"
 msgstr "Remarks"
 
 #: ../../variable/Q198AA.rst:66
-msgid "この項目は途中で変数名や選択肢番号が変わっています。 詳しくはこちら（:doc:`/multi_var/Q198`）をご参照ください。"
-msgstr ""
+msgid "|nt1|"
+msgstr "|nt1|"
+
+#: ../../variable/Q198AA.rst:69
+msgid "詳しくはこちら（:doc:`/multi_var/Q198`）をご参照ください。"
+msgstr "Please refer here (:doc:`/multi_var/Q198`) for details."
 
 #: ../../variable/Q198AA.rst:74
 msgid "収録シート"

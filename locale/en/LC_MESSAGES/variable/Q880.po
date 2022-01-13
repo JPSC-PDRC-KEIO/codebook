@@ -86,10 +86,12 @@ msgid "備考"
 msgstr "Remarks"
 
 #: ../../variable/Q880.rst:66
-msgid ""
-"この項目は途中で変数名や選択肢番号が変わっています。 "
-"詳しくはこちら（:doc:`/syugyo/jouken/ikujikyuka`）をご参照ください。"
-msgstr ""
+msgid "|nt1|"
+msgstr "|nt1|"
+
+#: ../../variable/Q880.rst:69
+msgid "詳しくはこちら（:doc:`/syugyo/jouken/ikujikyuka`）をご参照ください。"
+msgstr "Please refer to here (:doc:`/syugyo/jouken/ikujikyuka`) for details."
 
 #: ../../variable/Q880.rst:74
 msgid "収録シート"

@@ -61,9 +61,10 @@ Q1026
 ==================
  
 
-   この項目は途中で変数名や選択肢番号が変わっています。 詳しくはこちら（:doc:`/syugyo_hs/syugyojoutai_hs`）をご参照ください。
-
-
+   |nt1|
+   
+   
+   詳しくはこちら（:doc:`/syugyo_hs/syugyojoutai_hs`）をご参照ください。
 
 
 .. rst-class:: include_sheet

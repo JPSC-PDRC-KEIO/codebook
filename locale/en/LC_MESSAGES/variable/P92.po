@@ -87,10 +87,14 @@ msgstr "Remarks"
 
 #: ../../variable/P92.rst:65
 
-msgid ""
-"この項目は途中で変数名や選択肢番号が変わっています。 "
-"詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`）をご参照ください。"
-msgstr "|nt1| Please refer to here (:doc:`/kihon_kazoku/oya_jitsu`) for details."
+msgid "|nt1|"
+msgstr "|nt1|"
+
+#: ../../variable/P92.rst:68
+
+msgid "詳しくはこちら（:doc:`/kihon_kazoku/oya_jitsu`）をご参照ください。"
+msgstr "Please refer to here (:doc:`/kihon_kazoku/oya_jitsu`) for details."
+
 
 #: ../../variable/P92.rst:73
 msgid "収録シート"

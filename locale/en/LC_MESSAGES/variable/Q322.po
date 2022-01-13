@@ -78,8 +78,12 @@ msgid "備考"
 msgstr "Remarks"
 
 #: ../../variable/Q322.rst:65
-msgid "この項目は途中で変数名や選択肢番号が変わっています。 詳しくはこちら（:doc:`/kihon_kazoku/oya_giri`）をご参照ください。"
-msgstr ""
+msgid "|nt1|"
+msgstr "|nt1|"
+
+#: ../../variable/Q322.rst:68
+msgid "詳しくはこちら（:doc:`/kihon_kazoku/oya_giri`）をご参照ください。"
+msgstr "Please refer here (:doc:`/kihon_kazoku/oya_giri`) for details."
 
 #: ../../variable/Q322.rst:73
 msgid "収録シート"
