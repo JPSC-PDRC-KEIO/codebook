@@ -4,23 +4,25 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-01-18 12:17+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../covid19/ishiki/fuan.rst:3
 msgid "新型コロナウイルス感染症に関する不安"
-msgstr ""
+msgstr "Concerns about COVID-19"
 
 #: ../../covid19/ishiki/fuan.rst:7
 msgid "質問文"
@@ -28,11 +30,11 @@ msgstr "Question"
 
 #: ../../covid19/ishiki/fuan.rst:8
 msgid "あなたは新型コロナウイルス感染症に関する以下のことに対してどのくらい不安を感じていますか。（〇は１つずつ）"
-msgstr ""
+msgstr "How concerned are you about the following issues related to COVID-19? (Circle one for each)"
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid "変数名"
@@ -40,81 +42,80 @@ msgstr "Variable name"
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid "とても不安だ"
-msgstr ""
+msgstr "Very anxious"
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid "少し不安だ"
-msgstr ""
+msgstr "A little anxious"
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid "どちらでもない"
-msgstr ""
+msgstr "Neither"
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid "あまり不安はない"
-msgstr ""
+msgstr "Not very anxious"
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid "不安はない"
-msgstr ""
+msgstr "Not anxious"
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid "新型コロナウイルス感染した時に、必要な治療が受けられないかもしれないこと"
-msgstr ""
+msgstr "May not be able to get the necessary treatment if infected with Covid-19."
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid ":doc:`Q1273A</variable/Q1273A>`"
-msgstr ""
+msgstr ":doc:`Q1273A</variable/Q1273A>`"
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid "食品、衛生用品、医薬品などの製品を購入できないかもしれないこと"
-msgstr ""
+msgstr "May not be able to purchase products such as food, hygiene products, and medical supplies"
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid ":doc:`Q1273B</variable/Q1273B>`"
-msgstr ""
+msgstr ":doc:`Q1273B</variable/Q1273B>`"
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid "自分や同居の家族が感染するかもしれないこと"
-msgstr ""
+msgstr "You and your family members living with you may be infected."
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid ":doc:`Q1273C</variable/Q1273C>`"
-msgstr ""
+msgstr ":doc:`Q1273C</variable/Q1273C>`"
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid "別居の家族が感染するかもしれないこと"
-msgstr ""
+msgstr "Separated family members may be infected."
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid ":doc:`Q1273D</variable/Q1273D>`"
-msgstr ""
+msgstr ":doc:`Q1273D</variable/Q1273D>`"
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid "日常生活に支障が出ていること"
-msgstr ""
+msgstr "Having trouble with daily life."
 
 #: ../../covid19/ishiki/fuan.rst:1
 msgid ":doc:`Q1273E</variable/Q1273E>`"
-msgstr ""
-
+msgstr ":doc:`Q1273E</variable/Q1273E>`"
