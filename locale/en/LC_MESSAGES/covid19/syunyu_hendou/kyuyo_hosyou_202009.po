@@ -4,109 +4,110 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-01-25 11:11+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:3
 msgid "2020年9月における給与・収入補償"
-msgstr ""
+msgstr "Salary and income compensation in September 2020"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:7
 msgid "質問文（複数回答）"
-msgstr ""
+msgstr "Question ( multiple answers )"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:8
 msgid "2020年9月に、あなたの休業やお仕事が減少した際の給与、収入補償についてあてはまるものを選んでください。（〇はいくつでも）"
-msgstr ""
+msgstr "Please choose one that applies to your salary and income compensation during your absence or reduction in work in September 2020. （Circle as many as pertain to you.)"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid "変数"
-msgstr ""
+msgstr "Variable"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid "会社等から全額補償されていた"
-msgstr ""
+msgstr "Fully compensated by the company."
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid ":doc:`Q1298A </variable/Q1298A>`"
-msgstr ""
+msgstr ":doc:`Q1298A </variable/Q1298A>`"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid "会社等から一部補償されていた"
-msgstr ""
+msgstr "Partially compensated by the company."
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid ":doc:`Q1298B </variable/Q1298B>`"
-msgstr ""
+msgstr ":doc:`Q1298B </variable/Q1298B>`"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid "有給休暇消費で対応"
-msgstr ""
+msgstr "Used paid leave."
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid ":doc:`Q1298C </variable/Q1298C>`"
-msgstr ""
+msgstr ":doc:`Q1298C </variable/Q1298C>`"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid "欠勤対応"
-msgstr ""
+msgstr "Handled it with absences."
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid ":doc:`Q1298D </variable/Q1298D>`"
-msgstr ""
+msgstr ":doc:`Q1298D </variable/Q1298D>`"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid "政府や自治体の休業支援金等を申請した"
-msgstr ""
+msgstr "Applied for government and local authority leave support funds, etc."
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid ":doc:`Q1298E </variable/Q1298E>`"
-msgstr ""
+msgstr ":doc:`Q1298E </variable/Q1298E>`"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid "休業中の補償は全くなかった・受け取らなかった"
-msgstr ""
+msgstr "Didn't have or receive any compensation at all during my absence."
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid ":doc:`Q1298F </variable/Q1298F>`"
-msgstr ""
+msgstr ":doc:`Q1298F </variable/Q1298F>`"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid ":doc:`Q1298G </variable/Q1298G>`"
-msgstr ""
+msgstr ":doc:`Q1298G </variable/Q1298G>`"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid "その他：特にない"
-msgstr ""
+msgstr "Other: Nothing in particular"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid ":doc:`Q1298H </variable/Q1298H>`"
-msgstr ""
+msgstr ":doc:`Q1298H </variable/Q1298H>`"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid "その他：働いていない"
-msgstr ""
+msgstr "Other: Not working"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:1
 msgid ":doc:`Q1298I </variable/Q1298I>`"
-msgstr ""
-
+msgstr ":doc:`Q1298I </variable/Q1298I>`"

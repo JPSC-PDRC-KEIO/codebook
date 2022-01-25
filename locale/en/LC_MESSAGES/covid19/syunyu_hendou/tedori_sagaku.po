@@ -4,23 +4,25 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-01-24 11:40+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../covid19/syunyu_hendou/tedori_sagaku.rst:3
 msgid "緊急事態宣言（2020年4月）の手取り収入について"
-msgstr ""
+msgstr "Net income during the declaration of a state of emergency (April 2020)"
 
 #: ../../covid19/syunyu_hendou/tedori_sagaku.rst:7
 msgid "質問文"
@@ -28,41 +30,40 @@ msgstr "Question"
 
 #: ../../covid19/syunyu_hendou/tedori_sagaku.rst:9
 msgid "2020年9月の手取り収入（収入総額から税金、社会保険料などを差し引いた額）（ボーナス、臨時の給与は除きます）と比べて、国の緊急事態宣言発令中（4月、5月のうち収入が最も減った月。変わらなければ5月）の手取り収入はいかがでしたか。"
-msgstr ""
+msgstr "Compared to your take-home pay (total income minus taxes, social insurance premiums, etc.) in September 2020 (excluding bonuses and extra pay), how was your net income during the national state of emergency declaration (April or May, whichever month saw the greatest decrease in income; May if no change)?"
 
 #: ../../covid19/syunyu_hendou/tedori_sagaku.rst:1
 msgid "2020年9月の手取り収入との比較"
-msgstr ""
+msgstr "Comparison with take-home income in September 2020"
 
 #: ../../covid19/syunyu_hendou/tedori_sagaku.rst:1
 msgid "差額"
-msgstr ""
+msgstr "Difference"
 
 #: ../../covid19/syunyu_hendou/tedori_sagaku.rst:1
 msgid "ご主人"
-msgstr ""
+msgstr "Husband"
 
 #: ../../covid19/syunyu_hendou/tedori_sagaku.rst:1
 msgid ":doc:`Q1241 </variable/Q1241>`"
-msgstr ""
+msgstr ":doc:`Q1241 </variable/Q1241>`"
 
 #: ../../covid19/syunyu_hendou/tedori_sagaku.rst:1
 msgid ":doc:`Q1242 </variable/Q1242>`"
-msgstr ""
+msgstr ":doc:`Q1242 </variable/Q1242>`"
 
 #: ../../covid19/syunyu_hendou/tedori_sagaku.rst:1
 msgid "あなた"
-msgstr ""
+msgstr "You"
 
 #: ../../covid19/syunyu_hendou/tedori_sagaku.rst:1
 msgid ":doc:`Q1239 </variable/Q1239>`"
-msgstr ""
+msgstr ":doc:`Q1239 </variable/Q1239>`"
 
 #: ../../covid19/syunyu_hendou/tedori_sagaku.rst:1
 msgid ":doc:`Q1240 </variable/Q1240>`"
-msgstr ""
+msgstr ":doc:`Q1240 </variable/Q1240>`"
 
 #: ../../covid19/syunyu_hendou/tedori_sagaku.rst:21
 msgid "「差額」は、2020年9月の手取り収入との比較で「1. 多かった」「2. 少なかった」と応えた方が回答対象です。"
-msgstr ""
-
+msgstr "Difference\" refers to those who answered \"1. more\" or \"2. less\" in comparison with their take-home pay in September 2020."

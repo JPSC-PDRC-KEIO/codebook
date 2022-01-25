@@ -4,127 +4,136 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-01-25 10:52+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:3
 msgid "公的経済支援の申請"
-msgstr ""
+msgstr "Applying for public financial aid"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:7
 msgid "質問文（複数回答）"
-msgstr ""
+msgstr "Question ( multiple answers )"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:8
 msgid ""
-"あなたは、今年の４月以降、新型コロナウイルス感染症の影響で、国や自治体が提供している "
-"経済的支援のうち、以下について申請をした、あるいは申請することを考えていますか。あては まるものすべてに〇を付けてください。（〇はいくつでも）"
+"あなたは、今年の４月以降、新型コロナウイルス感染症の影響で、国や自治体"
+"が提供している 経済的支援のうち、以下について申請をした、あるいは申請"
+"することを考えていますか。あては まるものすべてに〇を付けてください。"
+"（〇はいくつでも）"
 msgstr ""
+"Since April of this year, have you applied for or are you considering "
+"applying for any of the following financial support offered by the "
+"national or local governments due to COVID-19? \n"
+"（Circle as many as pertain to you.)"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid "変数"
-msgstr ""
+msgstr "Variable"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid "住宅確保給付金"
-msgstr ""
+msgstr "Housing Security Benefit"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid ":doc:`Q1264A </variable/Q1264A>`"
-msgstr ""
+msgstr ":doc:`Q1264A </variable/Q1264A>`"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid "雇用保険の失業手当"
-msgstr ""
+msgstr "Unemployment Insurance Benefit"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid ":doc:`Q1264B </variable/Q1264B>`"
-msgstr ""
+msgstr ":doc:`Q1264B </variable/Q1264B>`"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid "職業訓練受講給付金"
-msgstr ""
+msgstr "Job Training Benefit"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid ":doc:`Q1264C </variable/Q1264C>`"
-msgstr ""
+msgstr ":doc:`Q1264C </variable/Q1264C>`"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid "生活困窮者のための窓口での生活資金の貸付"
-msgstr ""
+msgstr "Obtaining a loan for living expenses"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid ":doc:`Q1264D </variable/Q1264D>`"
-msgstr ""
+msgstr ":doc:`Q1264D </variable/Q1264D>`"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid "国民年金・国民健康保険の保険料（税）の免除"
 msgstr ""
+"Exemption from insurance premiums (taxes) for national pension and "
+"national health insurance"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid ":doc:`Q1264E </variable/Q1264E>`"
-msgstr ""
+msgstr ":doc:`Q1264E </variable/Q1264E>`"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid "公共料金等の支払いの先延ばし"
-msgstr ""
+msgstr "Postponement of payment for utility bills, etc"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid ":doc:`Q1264F </variable/Q1264F>`"
-msgstr ""
+msgstr ":doc:`Q1264F </variable/Q1264F>`"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid "税金の免除"
-msgstr ""
+msgstr "Tax exemption"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid ":doc:`Q1264G </variable/Q1264G>`"
-msgstr ""
+msgstr ":doc:`Q1264G </variable/Q1264G>`"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid "生活支援臨時給付金"
-msgstr ""
+msgstr "Temporary benefits for livelihood support"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid ":doc:`Q1264H </variable/Q1264H>`"
-msgstr ""
+msgstr ":doc:`Q1264H </variable/Q1264H>`"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid "生活保護制度"
-msgstr ""
+msgstr "public assistance program"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid ":doc:`Q1264I </variable/Q1264I>`"
-msgstr ""
+msgstr ":doc:`Q1264I </variable/Q1264I>`"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid ":doc:`Q1264J </variable/Q1264J>`"
-msgstr ""
+msgstr ":doc:`Q1264J </variable/Q1264J>`"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid "その他：特にない"
-msgstr ""
+msgstr "Other: Nothing in particular"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid ":doc:`Q1264K </variable/Q1264K>`"
-msgstr ""
-
+msgstr ":doc:`Q1264K </variable/Q1264K>`"
