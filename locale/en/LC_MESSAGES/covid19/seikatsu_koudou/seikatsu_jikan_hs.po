@@ -4,23 +4,25 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-01 11:31+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:3
 msgid "緊急事態宣言中の生活時間（配偶者）"
-msgstr ""
+msgstr "Dairy schedule during a declared state of emergency (spouse)"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:6
 msgid "質問文"
@@ -28,253 +30,252 @@ msgstr "Question"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:8
 msgid "国の緊急事態宣言が発令されていた期間のご主人の生活時間についておたずねします。平日、在宅勤務のあった平日、休日、会社・雇い主の指示による休業日に分けて、それぞれの生活時間をお答えください。在宅勤務、指示による休業日がない場合は、その回答欄は無記入のままにしてください。"
-msgstr ""
+msgstr "We would like to ask you about your husband's daily schedule during the State of Emergency. Please divide your husband's time into the following categories: weekdays, weekdays when he worked from home, holidays, and days when he was absent from work due to instructions from his company or employer. If your husband did not work at home or take days off due to instructions, please leave that section blank."
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:10
 msgid "単位は、＿＿時間＿0分"
-msgstr ""
+msgstr "The unit is _____ hours _____ minutes."
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:13
 msgid "この質問の変数名は「時間」（末尾H）と「分」（末尾M）に分かれており、「分」は十の位のみ収録しています。"
-msgstr ""
+msgstr "The variable names in this question are divided into \"hours\" (ending in H) and \"minutes\" (ending in M), with \"minutes\" containing only the tenth place."
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid "通常の平日（在宅勤務でない）"
-msgstr ""
+msgstr "Regular weekdays (not working from home)"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid "平日・在宅勤務の日"
-msgstr ""
+msgstr "Weekdays and working from home days"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid "＿＿時間"
-msgstr ""
+msgstr "＿＿ hours"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid "＿分"
-msgstr ""
+msgstr "＿ minutes"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid "通勤・通学"
-msgstr ""
+msgstr "Commuting to work or school"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1289AH </variable/Q1289AH>`"
-msgstr ""
+msgstr ":doc:`Q1289AH </variable/Q1289AH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1289AM </variable/Q1289AM>`"
-msgstr ""
+msgstr ":doc:`Q1289AM </variable/Q1289AM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1290AH </variable/Q1290AH>`"
-msgstr ""
+msgstr ":doc:`Q1290AH </variable/Q1290AH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1290AM </variable/Q1290AM>`"
-msgstr ""
+msgstr ":doc:`Q1290AM </variable/Q1290AM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid "仕事"
-msgstr ""
+msgstr "Work"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1289BH </variable/Q1289BH>`"
-msgstr ""
+msgstr ":doc:`Q1289BH </variable/Q1289BH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1289BM </variable/Q1289BM>`"
-msgstr ""
+msgstr ":doc:`Q1289BM </variable/Q1289BM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1290BH </variable/Q1290BH>`"
-msgstr ""
+msgstr ":doc:`Q1290BH </variable/Q1290BH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1290BM </variable/Q1290BM>`"
-msgstr ""
+msgstr ":doc:`Q1290BM </variable/Q1290BM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid "勉学"
-msgstr ""
+msgstr "Study"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1289CH </variable/Q1289CH>`"
-msgstr ""
+msgstr ":doc:`Q1289CH </variable/Q1289CH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1289CM </variable/Q1289CM>`"
-msgstr ""
+msgstr ":doc:`Q1289CM </variable/Q1289CM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1290CH </variable/Q1290CH>`"
-msgstr ""
+msgstr ":doc:`Q1290CH </variable/Q1290CH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1290CM </variable/Q1290CM>`"
-msgstr ""
+msgstr ":doc:`Q1290CM </variable/Q1290CM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid "家事・育児"
-msgstr ""
+msgstr "Housework/Childcare"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1289DH </variable/Q1289DH>`"
-msgstr ""
+msgstr ":doc:`Q1289DH </variable/Q1289DH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1289DM </variable/Q1289DM>`"
-msgstr ""
+msgstr ":doc:`Q1289DM </variable/Q1289DM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1290DH </variable/Q1290DH>`"
-msgstr ""
+msgstr ":doc:`Q1290DH </variable/Q1290DH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1290DM </variable/Q1290DM>`"
-msgstr ""
+msgstr ":doc:`Q1290DM </variable/Q1290DM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid "趣味・娯楽・交際など"
-msgstr ""
+msgstr "Hobbies, entertainment, socializing, etc."
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1289IH </variable/Q1289IH>`"
-msgstr ""
+msgstr ":doc:`Q1289IH </variable/Q1289IH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1289IM </variable/Q1289IM>`"
-msgstr ""
+msgstr ":doc:`Q1289IM </variable/Q1289IM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1290IH </variable/Q1290IH>`"
-msgstr ""
+msgstr ":doc:`Q1290IH </variable/Q1290IH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1290IM </variable/Q1290IM>`"
-msgstr ""
+msgstr ":doc:`Q1290IM </variable/Q1290IM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid "上記以外の睡眠、食事、入浴、身の回りの用事など"
-msgstr ""
+msgstr "Sleeping, eating, bathing, and personal errands other than the above"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1289MH </variable/Q1289MH>`"
-msgstr ""
+msgstr ":doc:`Q1289MH </variable/Q1289MH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1289MM </variable/Q1289MM>`"
-msgstr ""
+msgstr ":doc:`Q1289MM </variable/Q1289MM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1290MH </variable/Q1290MH>`"
-msgstr ""
+msgstr ":doc:`Q1290MH </variable/Q1290MH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1290MM </variable/Q1290MM>`"
-msgstr ""
+msgstr ":doc:`Q1290MM </variable/Q1290MM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid "ふつうの休日"
-msgstr ""
+msgstr "Ordinary holiday"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid "指示のあった休業日"
-msgstr ""
+msgstr "Days taken off as instructed"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1291AH </variable/Q1291AH>`"
-msgstr ""
+msgstr ":doc:`Q1291AH </variable/Q1291AH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1291AM </variable/Q1291AM>`"
-msgstr ""
+msgstr ":doc:`Q1291AM </variable/Q1291AM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1292AH </variable/Q1292AH>`"
-msgstr ""
+msgstr ":doc:`Q1292AH </variable/Q1292AH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1292AM </variable/Q1292AM>`"
-msgstr ""
+msgstr ":doc:`Q1292AM </variable/Q1292AM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1291BH </variable/Q1291BH>`"
-msgstr ""
+msgstr ":doc:`Q1291BH </variable/Q1291BH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1291BM </variable/Q1291BM>`"
-msgstr ""
+msgstr ":doc:`Q1291BM </variable/Q1291BM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1292BH </variable/Q1292BH>`"
-msgstr ""
+msgstr ":doc:`Q1292BH </variable/Q1292BH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1292BM </variable/Q1292BM>`"
-msgstr ""
+msgstr ":doc:`Q1292BM </variable/Q1292BM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1291CH </variable/Q1291CH>`"
-msgstr ""
+msgstr ":doc:`Q1291CH </variable/Q1291CH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1291CM </variable/Q1291CM>`"
-msgstr ""
+msgstr ":doc:`Q1291CM </variable/Q1291CM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1292CH </variable/Q1292CH>`"
-msgstr ""
+msgstr ":doc:`Q1292CH </variable/Q1292CH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1292CM </variable/Q1292CM>`"
-msgstr ""
+msgstr ":doc:`Q1292CM </variable/Q1292CM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1291DH </variable/Q1291DH>`"
-msgstr ""
+msgstr ":doc:`Q1291DH </variable/Q1291DH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1291DM </variable/Q1291DM>`"
-msgstr ""
+msgstr ":doc:`Q1291DM </variable/Q1291DM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1292DH </variable/Q1292DH>`"
-msgstr ""
+msgstr ":doc:`Q1292DH </variable/Q1292DH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1292DM </variable/Q1292DM>`"
-msgstr ""
+msgstr ":doc:`Q1292DM </variable/Q1292DM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1291IH </variable/Q1291IH>`"
-msgstr ""
+msgstr ":doc:`Q1291IH </variable/Q1291IH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1291IM </variable/Q1291IM>`"
-msgstr ""
+msgstr ":doc:`Q1291IM </variable/Q1291IM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1292IH </variable/Q1292IH>`"
-msgstr ""
+msgstr ":doc:`Q1292IH </variable/Q1292IH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1292IM </variable/Q1292IM>`"
-msgstr ""
+msgstr ":doc:`Q1292IM </variable/Q1292IM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1291MH </variable/Q1291MH>`"
-msgstr ""
+msgstr ":doc:`Q1291MH </variable/Q1291MH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1291MM </variable/Q1291MM>`"
-msgstr ""
+msgstr ":doc:`Q1291MM </variable/Q1291MM>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1292MH </variable/Q1292MH>`"
-msgstr ""
+msgstr ":doc:`Q1292MH </variable/Q1292MH>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan_hs.rst:1
 msgid ":doc:`Q1292MM </variable/Q1292MM>`"
-msgstr ""
-
+msgstr ":doc:`Q1292MM </variable/Q1292MM>`"

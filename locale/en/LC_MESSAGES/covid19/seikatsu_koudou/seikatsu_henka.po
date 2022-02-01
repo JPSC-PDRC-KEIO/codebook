@@ -4,23 +4,25 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-01 13:44+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:3
 msgid "生活上の変化（2019年10月との比較）"
-msgstr ""
+msgstr "Lifestyle changes (compared to October 2019)"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:7
 msgid "質問文"
@@ -28,11 +30,11 @@ msgstr "Question"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:8
 msgid "2019年10 月ごろ（前回の調査の回答時期）と比べて、以下のことはどの程度変わりましたか。（〇は１つずつ）"
-msgstr ""
+msgstr "Compared to around October 2019 ( when you answered the previous survey), to what extent have the following changed? (Circle for each one)"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "変数名"
@@ -40,105 +42,104 @@ msgstr "Variable name"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "大きく増えた"
-msgstr ""
+msgstr "Much more"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "少し増えた"
-msgstr ""
+msgstr "A little more"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "変わらない"
-msgstr ""
+msgstr "No change"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "少し減った"
-msgstr ""
+msgstr "A little less"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "大きく減った"
-msgstr ""
+msgstr "A lot less"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "該当しない"
-msgstr ""
+msgstr "Not applicable"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "友人・知人との交流"
-msgstr ""
+msgstr "With friends and acquaintances"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid ":doc:`Q1274A</variable/Q1274A>`"
-msgstr ""
+msgstr ":doc:`Q1274A</variable/Q1274A>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "配偶者との衝突や口論、いさかい"
-msgstr ""
+msgstr "Conflicts, arguments, and quarrels with spouse"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid ":doc:`Q1274B</variable/Q1274B>`"
-msgstr ""
+msgstr ":doc:`Q1274B</variable/Q1274B>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "子ども・孫との衝突や口論、いさかい"
-msgstr ""
+msgstr "Conflicts, arguments, and quarrels with children and grandchildren"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid ":doc:`Q1274C</variable/Q1274C>`"
-msgstr ""
+msgstr ":doc:`Q1274C</variable/Q1274C>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "その他の同居家族との衝突や口論、いさかい"
-msgstr ""
+msgstr "Conflicts, arguments, or quarrels with other family members living together"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid ":doc:`Q1274D</variable/Q1274D>`"
-msgstr ""
+msgstr ":doc:`Q1274D</variable/Q1274D>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "自宅での調理の回数"
-msgstr ""
+msgstr "Number of times cooking at home"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid ":doc:`Q1274E</variable/Q1274E>`"
-msgstr ""
+msgstr ":doc:`Q1274E</variable/Q1274E>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "買い物に出かける頻度"
-msgstr ""
+msgstr "Frequency of shopping trips"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid ":doc:`Q1274F</variable/Q1274F>`"
-msgstr ""
+msgstr ":doc:`Q1274F</variable/Q1274F>`"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid "宅配・ネットショッピングの頻度"
-msgstr ""
+msgstr "Frequency of home delivery and online shopping"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_henka.rst:1
 msgid ":doc:`Q1274G</variable/Q1274G>`"
-msgstr ""
-
+msgstr ":doc:`Q1274G</variable/Q1274G>`"

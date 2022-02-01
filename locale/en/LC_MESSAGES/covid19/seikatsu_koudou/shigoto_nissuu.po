@@ -4,23 +4,29 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-01 13:43+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst:3
-msgid "仕事日数（2019年10月／緊急事態宣言中（第1回目））"
+msgid ""
+"仕事日数（2019年10月／緊急事態宣言中（第1回"
+"目））"
 msgstr ""
+"Number of work days (October 2019 / under a "
+"state of emergency declaration ( 1st))"
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst:7
 msgid "質問文"
@@ -28,73 +34,90 @@ msgstr "Question"
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst:8
 msgid ""
-"あなたとご主人は去年の10月と国の緊急事態宣言が発令されていた期間、賃金を伴うお仕事を週 "
-"当たり何日していましたか。また、そのうち主に在宅勤務・テレワークで仕事をされる日は何日 "
-"ありましたか。無職などの方を含め、該当する日がない場合は０日とお書きください。週２日の "
-"場合は、2.0とお答え下さい。隔週の場合は0.5と換算して下さい。"
+"あなたとご主人は去年の10月と国の緊急事態宣言"
+"が発令されていた期間、賃金を伴うお仕事を週 当"
+"たり何日していましたか。また、そのうち主に在"
+"宅勤務・テレワークで仕事をされる日は何日 あり"
+"ましたか。無職などの方を含め、該当する日がな"
+"い場合は０日とお書きください。週２日の 場合"
+"は、2.0とお答え下さい。隔週の場合は0.5と換算"
+"して下さい。"
 msgstr ""
+"How many days per week did you and your "
+"husband work for pay during October of last "
+"year and during the State of Emergency? "
+"Also, how many days did you and your husband "
+"work mainly from home or remotely? If there "
+"are no applicable days, please write \"0\". "
+"If you work two days a week, please answer "
+"2.0. If you work every other week, please "
+"convert to 0.5."
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst:14
 msgid "**去年の10月**"
-msgstr ""
+msgstr "**Octorber of last year**"
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst:1
 msgid "週あたり仕事をしている日"
-msgstr ""
+msgstr "Working days per week"
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst:1
 msgid "うち、在宅勤務・テレワークの日"
 msgstr ""
+"Of which, working from home/remotely days"
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst
 msgid "本人"
-msgstr ""
+msgstr "You"
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst
 msgid "（有配偶・無配偶共通）"
 msgstr ""
+"Your daily schedule (common to both married "
+"and not married)"
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst:1
 msgid ":doc:`Q1275 </variable/Q1275>`"
-msgstr ""
+msgstr ":doc:`Q1275 </variable/Q1275>`"
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst:1
 msgid ":doc:`Q1276 </variable/Q1276>`"
-msgstr ""
+msgstr ":doc:`Q1276 </variable/Q1276>`"
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst
 msgid "ご主人"
-msgstr ""
+msgstr "Your husband"
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst
 msgid "（有配偶のみ）"
-msgstr ""
+msgstr "(For married only)"
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst:1
 msgid ":doc:`Q1277 </variable/Q1277>`"
-msgstr ""
+msgstr ":doc:`Q1277 </variable/Q1277>`"
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst:1
 msgid ":doc:`Q1278 </variable/Q1278>`"
-msgstr ""
+msgstr ":doc:`Q1278 </variable/Q1278>`"
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst:24
-msgid "**国の緊急事態宣言が発令されていた期間**"
+msgid ""
+"**国の緊急事態宣言が発令されていた期間**"
 msgstr ""
+"**During the National State of Emergency.**"
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst:1
 msgid ":doc:`Q1279 </variable/Q1279>`"
-msgstr ""
+msgstr ":doc:`Q1279 </variable/Q1279>`"
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst:1
 msgid ":doc:`Q1280 </variable/Q1280>`"
-msgstr ""
+msgstr ":doc:`Q1280 </variable/Q1280>`"
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst:1
 msgid ":doc:`Q1281 </variable/Q1281>`"
-msgstr ""
+msgstr ":doc:`Q1281 </variable/Q1281>`"
 
 #: ../../covid19/seikatsu_koudou/shigoto_nissuu.rst:1
 msgid ":doc:`Q1282 </variable/Q1282>`"
-msgstr ""
-
+msgstr ":doc:`Q1282 </variable/Q1282>`"

@@ -4,23 +4,25 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-01 13:42+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:3
 msgid "特別定額給付金の子どもへの渡し方"
-msgstr ""
+msgstr "How to hand over Special Cash Payments to children"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:7
 msgid "質問文"
@@ -28,11 +30,11 @@ msgstr "Question"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:8
 msgid "お子さんの分の特別定額給付金を現金で渡しましたか。あてはまるものに１つずつ〇をつけて下さい。"
-msgstr ""
+msgstr "Have you handed over your children's Special Cash Payments to them in cash? Please circle one for each answer that pertains to you."
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:10
 msgid "該当する学年にお子さんがいない場合は、「４ 該当する子どもがいない」に〇をつけて下さい。"
-msgstr ""
+msgstr "If you do not have any children in the corresponding grade, please circle \"4 No applicable children.""
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid "変数名"
@@ -40,69 +42,68 @@ msgstr "Variable name"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid "現金で全額与えた"
-msgstr ""
+msgstr "Gave it all in cash"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid "一部の金額を与えた"
-msgstr ""
+msgstr "Gave a partial amount"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid "現金は与えなかった"
-msgstr ""
+msgstr "Didn't give any cash"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid "該当する子どもはいない"
-msgstr ""
+msgstr "No applicable children"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid "小学校低学年"
-msgstr ""
+msgstr "Student in grades 1 to 3 of primary school"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid ":doc:`Q1263A </variable/Q1263A>`"
-msgstr ""
+msgstr ":doc:`Q1263A </variable/Q1263A>`"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid "小学校高学年"
-msgstr ""
+msgstr "Student in grades 4 to 6 of primary school"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid ":doc:`Q1263B </variable/Q1263B>`"
-msgstr ""
+msgstr ":doc:`Q1263B </variable/Q1263B>`"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid "中学生"
-msgstr ""
+msgstr "Junior-high school  student"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid ":doc:`Q1263C </variable/Q1263C>`"
-msgstr ""
+msgstr ":doc:`Q1263C </variable/Q1263C>`"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid "高校生"
-msgstr ""
+msgstr "Senior-high school student"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid ":doc:`Q1263D </variable/Q1263D>`"
-msgstr ""
+msgstr ":doc:`Q1263D </variable/Q1263D>`"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:24
 msgid "この質問は、小学生から高校生までのお子さんがいる方におたずねしています。"
-msgstr ""
-
+msgstr "This question was asked to those who have children in elementary school through high school."
