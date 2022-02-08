@@ -9,29 +9,31 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-24 18:42+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-07 13:16+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1206.rst:3
 msgid "悩み・困りごと"
-msgstr ""
+msgstr "Problems and worries"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1206.rst:6
 msgid "質問文（複数回答）"
-msgstr ""
+msgstr "Question ( multiple answers )"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1206.rst:7
 msgid "現在のご家族やご自身のことについて、あてはまるものに〇をつけてください。（それぞれ〇は１つずつ）"
-msgstr ""
+msgstr "Please check all that apply to your family and yourself at this time. (Please check one for each)"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1206.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1206.rst:1
 msgid "変数名"
@@ -39,55 +41,54 @@ msgstr "Variable name"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1206.rst:1
 msgid "自分の心身の健康に不安がある"
-msgstr ""
+msgstr "Concerned about your physical and mental health."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1206.rst:1
 msgid ":doc:`Q1206A </variable/Q1206A>`"
-msgstr ""
+msgstr ":doc:`Q1206A </variable/Q1206A>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1206.rst:1
 msgid "家族の中に、健康上の問題があったり、看護や介護を必要とする人がいる"
-msgstr ""
+msgstr "Have family members developed who have health issues or required or need nursing or long-term care"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1206.rst:1
 msgid ":doc:`Q1206B </variable/Q1206B>`"
-msgstr ""
+msgstr ":doc:`Q1206B </variable/Q1206B>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1206.rst:1
 msgid "家族内の人間関係で悩みや困っていることがある"
-msgstr ""
+msgstr "Having trouble with relationships in the family."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1206.rst:1
 msgid ":doc:`Q1206C </variable/Q1206C>`"
-msgstr ""
+msgstr ":doc:`Q1206C </variable/Q1206C>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1206.rst:1
 msgid "家族以外（近隣や友人など）の人と人間関係で悩みや困っていることがある"
-msgstr ""
+msgstr "Having problems or difficulties in relationships with people outside the family (neighbors, friends, etc.)."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1206.rst:1
 msgid ":doc:`Q1206D </variable/Q1206D>`"
-msgstr ""
+msgstr ":doc:`Q1206D </variable/Q1206D>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1206.rst:1
 msgid "悩みや困ったことがあるときに、気軽に相談できる家族以外の人がいる"
-msgstr ""
+msgstr "Having someone outside of the family to easily talk with when I have a problem or need help."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1206.rst:1
 msgid ":doc:`Q1206E </variable/Q1206E>`"
-msgstr ""
+msgstr ":doc:`Q1206E </variable/Q1206E>`"
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1206.rst:1
 msgid "何かあったときに、助けにきてくれる人が家族以外にもいる"
-msgstr ""
+msgstr "If something happens, you have someone other than your family who can come to your aid."
 
 #: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1206.rst:1
 msgid ":doc:`Q1206F </variable/Q1206F>`"
-msgstr ""
+msgstr ":doc:`Q1206F </variable/Q1206F>`"
 
 #~ msgid "変数名"
 #~ msgstr ""
 
 #~ msgid "変数"
 #~ msgstr ""
-
