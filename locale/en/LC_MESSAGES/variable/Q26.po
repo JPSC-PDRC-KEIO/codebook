@@ -216,12 +216,10 @@ msgid "p26_1"
 msgstr "p26_1"
 
 #: ../../variable/Q26.rst:134
-#, , fuzzy
 msgid "p27_1"
 msgstr "p7_1"
 
 #: ../../variable/Q26.rst:136
-#, , fuzzy
 msgid "p28_1"
 msgstr "p8_1"
 

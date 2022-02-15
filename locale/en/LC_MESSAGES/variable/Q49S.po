@@ -189,12 +189,10 @@ msgid "p26_5"
 msgstr "p26_5"
 
 #: ../../variable/Q49S.rst:122
-#, , fuzzy
 msgid "p27_5"
 msgstr "p26_5"
 
 #: ../../variable/Q49S.rst:124
-#, , fuzzy
 msgid "p28_5"
 msgstr "p26_5"
 
