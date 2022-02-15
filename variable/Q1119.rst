@@ -61,6 +61,9 @@ Q1119
 
 備考
 ==================
+  |nt1|
+
+  詳しくはこちら（:doc:`/syugyo_hs/gensyoku_hs/syokumu_hs`）をご覧下さい。 
  
 
 
