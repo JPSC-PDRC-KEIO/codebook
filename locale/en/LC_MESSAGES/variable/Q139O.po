@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-15 11:38+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q139O.rst:6
 msgid "家族に起きた出来事：自分の孫が生まれた"
-msgstr ""
+msgstr "Events that happened to family members: Grandchild was born."
 
 #: ../../variable/Q139O.rst:11
 msgid "変数名"
@@ -27,7 +29,7 @@ msgstr "Variable name"
 
 #: ../../variable/Q139O.rst:13
 msgid "Q139O"
-msgstr ""
+msgstr "Q139O"
 
 #: ../../variable/Q139O.rst:18
 msgid "質問文"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q139O.rst:21
 msgid "それまで、この1年間（調査前年10月～調査年9月）に他のご家族に次のような出来事がありましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "During the past year (October of the previous year to September of the survey year), have any of the following events happened to family members? (Circle as many as pertain to you)"
 
 #: ../../variable/Q139O.rst:24
 msgid "自分の孫が生まれた"
-msgstr ""
+msgstr "Grandchild was born."
 
 #: ../../variable/Q139O.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,11 +49,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q139O.rst:33
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q139O.rst:34
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q139O.rst:42
 msgid "桁あふれコード"
@@ -67,7 +69,7 @@ msgstr "No response code"
 
 #: ../../variable/Q139O.rst:57
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../variable/Q139O.rst:63
 msgid "備考"
@@ -79,15 +81,15 @@ msgstr "Data files (csv)"
 
 #: ../../variable/Q139O.rst:76
 msgid "p20_1"
-msgstr ""
+msgstr "p20_1"
 
 #: ../../variable/Q139O.rst:78
 msgid "p21abcd_1"
-msgstr ""
+msgstr "p21abcd_1"
 
 #: ../../variable/Q139O.rst:80
 msgid "p22_1"
-msgstr ""
+msgstr "p22_1"
 
 #: ../../variable/Q139O.rst:82
 msgid "p23_1"
@@ -118,4 +120,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

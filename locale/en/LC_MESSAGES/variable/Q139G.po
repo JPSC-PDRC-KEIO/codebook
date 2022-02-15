@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-15 11:34+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q139G.rst:6
 msgid "家族に起きた出来事：事故や災害にあった"
-msgstr ""
+msgstr "Events that happened to family members: Had an accident or disaster."
 
 #: ../../variable/Q139G.rst:11
 msgid "変数名"
@@ -27,7 +29,7 @@ msgstr "Variable name"
 
 #: ../../variable/Q139G.rst:13
 msgid "Q139G"
-msgstr ""
+msgstr "Q139G"
 
 #: ../../variable/Q139G.rst:18
 msgid "質問文"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q139G.rst:21
 msgid "それまで、この1年間（調査前年10月～調査年9月）に他のご家族に次のような出来事がありましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "During the past year (October of the previous year to September of the survey year), have any of the following events happened to family members? (Circle as many as pertain to you)"
 
 #: ../../variable/Q139G.rst:24
 msgid "事故や災害にあった"
-msgstr ""
+msgstr "Had an accident or disaster."
 
 #: ../../variable/Q139G.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,11 +49,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q139G.rst:33
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q139G.rst:34
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q139G.rst:42
 msgid "桁あふれコード"
@@ -67,7 +69,7 @@ msgstr "No response code"
 
 #: ../../variable/Q139G.rst:57
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../variable/Q139G.rst:63
 msgid "備考"
@@ -79,87 +81,87 @@ msgstr "Data files (csv)"
 
 #: ../../variable/Q139G.rst:76
 msgid "p2_1"
-msgstr ""
+msgstr "p2_1"
 
 #: ../../variable/Q139G.rst:78
 msgid "p3_1"
-msgstr ""
+msgstr "p3_1"
 
 #: ../../variable/Q139G.rst:80
 msgid "p4_1"
-msgstr ""
+msgstr "p4_1"
 
 #: ../../variable/Q139G.rst:82
 msgid "p5a_1"
-msgstr ""
+msgstr "p5a_1"
 
 #: ../../variable/Q139G.rst:84
 msgid "p6_1"
-msgstr ""
+msgstr "p6_1"
 
 #: ../../variable/Q139G.rst:86
 msgid "p7_1"
-msgstr ""
+msgstr "p7_1"
 
 #: ../../variable/Q139G.rst:88
 msgid "p8_1"
-msgstr ""
+msgstr "p8_1"
 
 #: ../../variable/Q139G.rst:90
 msgid "p9_1"
-msgstr ""
+msgstr "p9_1"
 
 #: ../../variable/Q139G.rst:92
 msgid "p10_1"
-msgstr ""
+msgstr "p10_1"
 
 #: ../../variable/Q139G.rst:94
 msgid "p11ab_1"
-msgstr ""
+msgstr "p11ab_1"
 
 #: ../../variable/Q139G.rst:96
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: ../../variable/Q139G.rst:98
 msgid "p13_1"
-msgstr ""
+msgstr "p13_1"
 
 #: ../../variable/Q139G.rst:100
 msgid "p14_1"
-msgstr ""
+msgstr "p14_1"
 
 #: ../../variable/Q139G.rst:102
 msgid "p15_1"
-msgstr ""
+msgstr "p15_1"
 
 #: ../../variable/Q139G.rst:104
 msgid "p16abc_1"
-msgstr ""
+msgstr "p16abc_1"
 
 #: ../../variable/Q139G.rst:106
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: ../../variable/Q139G.rst:108
 msgid "p18_1"
-msgstr ""
+msgstr "p18_1"
 
 #: ../../variable/Q139G.rst:110
 msgid "p19_1"
-msgstr ""
+msgstr "p19_1"
 
 #: ../../variable/Q139G.rst:112
 msgid "p20_1"
-msgstr ""
+msgstr "p20_1"
 
 #: ../../variable/Q139G.rst:114
 msgid "p21abcd_1"
-msgstr ""
+msgstr "p21abcd_1"
 
 #: ../../variable/Q139G.rst:116
 msgid "p22_1"
-msgstr ""
+msgstr "p22_1"
 
 #: ../../variable/Q139G.rst:118
 msgid "p23_1"
@@ -190,4 +192,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
