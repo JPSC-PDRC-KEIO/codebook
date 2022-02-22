@@ -8,88 +8,92 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-24 18:42+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2022-02-17 10:58+0900\n"
+"PO-Revision-Date: 2022-02-21 15:11+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:3
+#: ../../syugyo/gensyoku/syokumu.rst:3
 msgid "職務"
-msgstr ""
+msgstr "Type of employee"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:6
+#: ../../syugyo/gensyoku/syokumu.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:8
+#: ../../syugyo/gensyoku/syokumu.rst:8
 msgid "あなたの職務は次のどれですか。"
-msgstr ""
+msgstr "What category of employee are you?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:12
+#: ../../syugyo/gensyoku/syokumu.rst:12
 msgid "|nt1|"
-msgstr ""
+msgstr "|nt1|"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:14
-msgid ""
-"また、第1から第17回の選択肢のうち「3.嘱託・その他」は、第11回のみ「3.派遣社員・嘱託・その他」として聞いており、第12～第17回には、別途「派遣社員か」("
-" :doc:`Q1046 </variable/Q1046>`) という質問項目を設けています。"
-msgstr ""
+#: ../../syugyo/gensyoku/syokumu.rst:14
+msgid "また、第1から第17回の選択肢のうち「3.嘱託・その他」は、第11回のみ「3.派遣社員・嘱託・その他」として聞いており、第12～第17回には、別途「派遣社員か」(:doc:`Q1046 </variable/Q1046>`) という質問項目を設けています。"
+msgstr "In addition, among the options Wave1-17, only Wave11 asks \"3. temporary staff/contract work/other\", and Wave12-17 has a separate question item \"Are you a dispatched worker?\" (:doc:`Q1046 </variable/Q1046>`)."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:1
+#: ../../syugyo/gensyoku/syokumu.rst:1
 msgid "第1～第17回"
-msgstr ""
+msgstr "Wave1 - Wave17"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:1
+#: ../../syugyo/gensyoku/syokumu.rst:1
 msgid "第18回～"
-msgstr ""
+msgstr "Wave18 -"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:1
+#: ../../syugyo/gensyoku/syokumu.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:1
+#: ../../syugyo/gensyoku/syokumu.rst:1
 msgid ":doc:`Q147 </variable/Q147>`"
-msgstr ""
+msgstr ":doc:`Q147 </variable/Q147>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:1
+#: ../../syugyo/gensyoku/syokumu.rst:1
 msgid ":doc:`Q1112 </variable/Q1112>`"
-msgstr ""
+msgstr ":doc:`Q1112 </variable/Q1112>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst:1
+#: ../../syugyo/gensyoku/syokumu.rst:1
 msgid "選択肢"
-msgstr ""
+msgstr "Select"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst
+#: ../../syugyo/gensyoku/syokumu.rst
+msgid "1.常勤の職員・従業者"
+msgstr "1.Full-time staff and employees"
+
+#: ../../syugyo/gensyoku/syokumu.rst
 msgid "1.正社員・正職員"
-msgstr ""
+msgstr "1.Full-time and regular employees"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst
+#: ../../syugyo/gensyoku/syokumu.rst
 msgid "2.パート・アルバイト"
-msgstr ""
+msgstr "2.Part-time employee"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst
+#: ../../syugyo/gensyoku/syokumu.rst
 msgid "3.嘱託・その他"
-msgstr ""
+msgstr "3.Temporary employment and others"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst
+#: ../../syugyo/gensyoku/syokumu.rst
 msgid "2.派遣社員"
-msgstr ""
+msgstr "2.Dispatched employees"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst
+#: ../../syugyo/gensyoku/syokumu.rst
 msgid "3.契約社員・嘱託・その他"
-msgstr ""
+msgstr "3.Contract employees, temporary employees, and others"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst
+#: ../../syugyo/gensyoku/syokumu.rst
 msgid "4.パート・アルバイト"
-msgstr ""
+msgstr "4.Part-time employee"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/syokumu.rst
+#: ../../syugyo/gensyoku/syokumu.rst
 msgid "5.自営・家族従業者"
-msgstr ""
+msgstr "5.Self-employed or working for the family business"
 
 #~ msgid "また、第1から第17回の選択肢のうち「3.嘱託・その他」は、第11回のみ「3.派遣社員・嘱託・その他」として聞いており、第12～第17回には、別途、「:doc:`/variable/Q1046`」を聞いています。"
 #~ msgstr ""
@@ -106,3 +110,7 @@ msgstr ""
 #~ msgid "変数"
 #~ msgstr ""
 
+#~ msgid ""
+#~ "また、第1から第17回の選択肢のうち「3.嘱託・その他」は、第11回のみ「3.派遣社員・嘱託・その他」として聞いており、第12～第17回には、別途「派遣社員か」("
+#~ " :doc:`Q1046 </variable/Q1046>`) という質問項目を設けています。"
+#~ msgstr ""
