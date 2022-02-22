@@ -8,130 +8,145 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2022-02-17 10:58+0900\n"
+"PO-Revision-Date: 2022-02-22 13:56+0900\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:5
-msgid "前職の業種〔第21回～〕"
-msgstr ""
+#: ../../variable/P185.rst:6
+msgid "前職の業種〔第21回〕"
+msgstr "Industry of previous job [Wave21]"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:9
+#: ../../variable/P185.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:11
+#: ../../variable/P185.rst:13
 msgid "P185"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:15
+#: ../../variable/P185.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:18
+#: ../../variable/P185.rst:21
 msgid "前職の勤め先の業種は次のどれに該当しますか。（派遣社員の方は、派遣元の業種についてお答えください）"
 msgstr ""
+"Which of the following industries best describe your previous employer? "
+"(If you are a dispatched worker, please indicate the sector from which "
+"you were dispatched.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:24
+#: ../../variable/P185.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:27
+#: ../../variable/P185.rst:30
 msgid "農業、林業"
-msgstr ""
+msgstr "Agriculture and forestry"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:29
+#: ../../variable/P185.rst:31
 msgid "漁業・水産業"
-msgstr ""
+msgstr "Fishing and fisheries"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:31
+#: ../../variable/P185.rst:32
 msgid "鉱業・採石業"
-msgstr ""
+msgstr "Mining and quarrying"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:33
+#: ../../variable/P185.rst:33
 msgid "建設業"
-msgstr ""
+msgstr "Construction"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:35
+#: ../../variable/P185.rst:34
 msgid "製造業"
-msgstr ""
+msgstr "Manufacturing"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:37
+#: ../../variable/P185.rst:35
 msgid "電気・ガス・熱供給・水道業"
-msgstr ""
+msgstr "Electricity, gas, heat supply, and water supply"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:39
+#: ../../variable/P185.rst:36
 msgid "情報通信業"
-msgstr ""
+msgstr "IT industry"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:41
+#: ../../variable/P185.rst:37
 msgid "運輸業"
-msgstr ""
+msgstr "Transportation"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:43
+#: ../../variable/P185.rst:38
 msgid "卸売業、小売業（スーパー、コンビニを含む）"
-msgstr ""
+msgstr "Wholesale and retail trade (including supermarkets and convenience stores)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:45
+#: ../../variable/P185.rst:39
 msgid "金融業、保険業、不動産業"
-msgstr ""
+msgstr "Finance, insurance and real estate"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:47
+#: ../../variable/P185.rst:40
 msgid "宿泊業、飲食サービス業"
-msgstr ""
+msgstr "Accommodations and food services"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:49
+#: ../../variable/P185.rst:41
 msgid "教育、学生支援業"
-msgstr ""
+msgstr "Education and Student Support"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:51
+#: ../../variable/P185.rst:42
 msgid "医療、福祉"
-msgstr ""
+msgstr "Medical care, welfare"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:53
+#: ../../variable/P185.rst:43
 msgid "その他のサービス業（理・美容、広告、娯楽、郵便局、職業紹介、労働者派遣業など）"
 msgstr ""
+"Other services (hairdressing, advertising, entertainment, post office, "
+"job placement, worker dispatch, etc.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:55
+#: ../../variable/P185.rst:44
 msgid "公務（官庁・役所など）"
-msgstr ""
+msgstr "Public service ( government offices and municipal offices, etc.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:57
+#: ../../variable/P185.rst:45
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:64
+#: ../../variable/P185.rst:53
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:70
+#: ../../variable/P185.rst:60
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:76
+#: ../../variable/P185.rst:67
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:77
+#: ../../variable/P185.rst:68
 msgid "17"
-msgstr ""
+msgstr "17"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:82
+#: ../../variable/P185.rst:74
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:88
+#: ../../variable/P185.rst:75
+msgid "第1回・第5回・第11回・第16回の新規コーホート追加時の質問とは、選択肢が異なります。"
+msgstr ""
+
+#: ../../variable/P185.rst:77
+msgid "詳しくはこちら（:doc:`/variable/P64`）をご確認ください。"
+msgstr "Please refer to (:doc:`/variable/P64`) for details."
+
+#: ../../variable/P185.rst:84
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P185.rst:93
+#: ../../variable/P185.rst:89
 msgid "p21e_1"
-msgstr ""
+msgstr "p21e_1"
 
 #~ msgid "変数名: P185"
 #~ msgstr ""

@@ -8,28 +8,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2022-02-17 10:58+0900\n"
+"PO-Revision-Date: 2022-02-21 15:50+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/zensyoku_gyosyu.rst:3
+#: ../../syugyo/zensyoku/zensyoku_gyosyu.rst:3
 msgid "前職の業種"
-msgstr ""
+msgstr "Industry of previous job"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/zensyoku_gyosyu.rst:6
-msgid "質問文"
-msgstr "Question"
-
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/zensyoku_gyosyu.rst:7
-msgid "前職の勤め先の業種は次のどれに該当しますか。"
-msgstr ""
-
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/zensyoku_gyosyu.rst:10
-msgid "この項目の選択肢と変数名は次のように変化しています。"
-msgstr ""
-
+#~ msgid "質問文"
+#~ msgstr "Question"
