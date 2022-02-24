@@ -2,8 +2,6 @@
 結婚相手に重視する要素
 ================================
 
-　
-.. _「配偶者のイメージ」: file:///C:/cygwin/home/tashiro/tyousakoumoku/_build/html/ottoimage.html
 
 質問文
 ------------------
@@ -67,4 +65,3 @@
 
    結婚相手に最も重視する要素, :doc:`Q1163 </variable/Q1163>`
 
-.. todo:: リンクはダミーなので修正する

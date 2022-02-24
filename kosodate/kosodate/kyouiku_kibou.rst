@@ -11,10 +11,10 @@
    :header: , お子さんのいる方, お子さんのいない方
    :widths: 10, 10, 10
 
-   第１子, :doc:`Q1155A </variable/Q1155A>` ,:doc:`Q1156 </variable/Q1156>`
-   第２子, :doc:`Q1155B </variable/Q1155B>`
-   第３子, :doc:`Q1155C </variable/Q1155C>`
-   第４子, :doc:`Q1155D </variable/Q1155D>`
+   第１子, :doc:`Q1155A </variable/Q1155A>`, :doc:`Q1156 </variable/Q1156>`
+   第２子, :doc:`Q1155B </variable/Q1155B>`,
+   第３子, :doc:`Q1155C </variable/Q1155C>`,
+   第４子, :doc:`Q1155D </variable/Q1155D>`, 
 
 
 .. csv-table:: コード表

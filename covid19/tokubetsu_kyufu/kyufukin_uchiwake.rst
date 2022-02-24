@@ -17,7 +17,7 @@
    本人のための支出, :doc:`Q1261C </variable/Q1261C>`
    配偶者のための支出, :doc:`Q1261E </variable/Q1261E>`
    子どものための支出, :doc:`Q1261F </variable/Q1261F>`
-   それ以外の方のための支出,:doc:`Q1261G </variable/Q1261G>`
+   それ以外の方のための支出, :doc:`Q1261G </variable/Q1261G>`
 
 
 .. csv-table:: 貯蓄別、内訳

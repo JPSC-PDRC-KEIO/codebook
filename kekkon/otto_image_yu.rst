@@ -14,7 +14,7 @@
     | そう思わない", "そう思わない"
    :widths: 5, 2, 2, 2, 2, 2
 
-   親しい友人,:doc:`Q1166A </variable/Q1166A>`, 1, 2, 3, 4
+   親しい友人, :doc:`Q1166A </variable/Q1166A>`, 1, 2, 3, 4
    人生に共に立ち向かう人, :doc:`Q1166B </variable/Q1166B>`, 1, 2, 3, 4
    一心同体の人, :doc:`Q1166C </variable/Q1166C>`, 1, 2, 3, 4
    趣味を共有する人, :doc:`Q1166D </variable/Q1166D>`, 1, 2, 3, 4
@@ -35,23 +35,23 @@
 付問1：上記の中で、あなたのご主人に最も近いイメージはどれですか。
 
 .. csv-table::
-  :header:  "1位"
-  :widths: 1
+   :header:  "1位"
+   :widths: 1
 
-  ":doc:`Q1167 </variable/Q1167>`"
+   ":doc:`Q1167 </variable/Q1167>`"
 
 .. warning:: 第１回調査のみ、次（ :doc:`otto_image1` ）のように質問しています。
 
-  また無配偶の方へは次（ :doc:`kekkonaite` ) のように質問しています。
+   また無配偶の方へは次（ :doc:`kekkonaite` ) のように質問しています。
 
 
 付問2：では現実の配偶者のイメージにかかわらず、あなたがパートナーに対して最も重視する要素は、上記の中でどれですか。
 
 .. csv-table::
-  :header:  "1位"
-  :widths: 1
+   :header:  "1位"
+   :widths: 1
 
-  ":doc:`Q1217 </variable/Q1217>`"
+   ":doc:`Q1217 </variable/Q1217>`"
 
 
 .. toctree::

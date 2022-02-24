@@ -17,10 +17,10 @@
    :header: "","配偶者","本人","夫婦以外の方の世帯員全員"
    :widths: 6,2,2,6
 
-    "税金・社会保険料の支払額", ":doc:`Q301B </variable/Q301B>`",":doc:`Q302B </variable/Q302B>`",":doc:`Q303B </variable/Q303B>`"
-  　"税金・社会保険料（支払なし）",":doc:`Q301D </variable/Q301D>`",":doc:`Q302D </variable/Q302D>`",":doc:`Q303D </variable/Q303D>`"
-|
+   "税金・社会保険料の支払額", ":doc:`Q301B </variable/Q301B>`",":doc:`Q302B </variable/Q302B>`",":doc:`Q303B </variable/Q303B>`"
+   "税金・社会保険料（支払なし）",":doc:`Q301D </variable/Q301D>`",":doc:`Q302D </variable/Q302D>`",":doc:`Q303D </variable/Q303D>`"
 
+   
 無配偶
 ~~~~~~~~
 
@@ -31,8 +31,8 @@
    :header: "","本人","あなた以外の方の世帯員全員"
    :widths: 6,3,6
 
-  　"税金・社会保険料（昨年1年）",":doc:`Q302B </variable/Q302B>`",":doc:`Q303B </variable/Q303B>`"
-  　"税金・社会保険料（支払なし）",":doc:`Q302D </variable/Q302D>`",":doc:`Q303D </variable/Q303D>`"
+   "税金・社会保険料（昨年1年）",":doc:`Q302B </variable/Q302B>`",":doc:`Q303B </variable/Q303B>`"
+   "税金・社会保険料（支払なし）",":doc:`Q302D </variable/Q302D>`",":doc:`Q303D </variable/Q303D>`"
 
 
 

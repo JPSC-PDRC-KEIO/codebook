@@ -17,20 +17,20 @@
    :header: 項目, 変数
    :widths: 20,5
 
-   あなた,:doc:`Q1246A </variable/Q1246A>`
-   お子さんの父親,:doc:`Q1246B </variable/Q1246B>`
-   お子さんの祖父母・親戚,:doc:`Q1246C </variable/Q1246C>`
-   お子さんのきょうだい,:doc:`Q1246D </variable/Q1246D>`
-   お子さんの友だち,:doc:`Q1246E </variable/Q1246E>`
-   近隣の人や子どもの友だちの親,:doc:`Q1246F </variable/Q1246F>`
-   あなたの友人・知人,:doc:`Q1246G </variable/Q1246G>`
-   ベビーシッター・家政婦など,:doc:`Q1246H </variable/Q1246H>`
-   保育園・学童保育など,:doc:`Q1246I </variable/Q1246I>`
-   塾・習い事など,:doc:`Q1246J </variable/Q1246J>`
-   部活・クラブ活動など,:doc:`Q1246K </variable/Q1246K>`
-   一人でいる（世話の必要あり）,:doc:`Q1246L </variable/Q1246L>`
-   一人でいる（世話の必要なし）,:doc:`Q1246M </variable/Q1246M>`
-   その他,:doc:`Q1246N </variable/Q1246N>`
+   あなた, :doc:`Q1246A </variable/Q1246A>`
+   お子さんの父親, :doc:`Q1246B </variable/Q1246B>`
+   お子さんの祖父母・親戚, :doc:`Q1246C </variable/Q1246C>`
+   お子さんのきょうだい, :doc:`Q1246D </variable/Q1246D>`
+   お子さんの友だち, :doc:`Q1246E </variable/Q1246E>`
+   近隣の人や子どもの友だちの親, :doc:`Q1246F </variable/Q1246F>`
+   あなたの友人・知人, :doc:`Q1246G </variable/Q1246G>`
+   ベビーシッター・家政婦など, :doc:`Q1246H </variable/Q1246H>`
+   保育園・学童保育など, :doc:`Q1246I </variable/Q1246I>`
+   塾・習い事など, :doc:`Q1246J </variable/Q1246J>`
+   部活・クラブ活動など, :doc:`Q1246K </variable/Q1246K>`
+   一人でいる（世話の必要あり）, :doc:`Q1246L </variable/Q1246L>`
+   一人でいる（世話の必要なし）, :doc:`Q1246M </variable/Q1246M>`
+   その他, :doc:`Q1246N </variable/Q1246N>`
 
 
 休校中・休園中の平日日中に最もお子さんと長くいた人
@@ -43,9 +43,9 @@
    :header: 項目, 変数
    :widths: 20,5
 
-   第1子,:doc:`Q1247A </variable/Q1247A>`
-   第2子,:doc:`Q1247B </variable/Q1247B>`
-   第3子,:doc:`Q1247C </variable/Q1247C>`
+   第1子, :doc:`Q1247A </variable/Q1247A>`
+   第2子, :doc:`Q1247B </variable/Q1247B>`
+   第3子, :doc:`Q1247C </variable/Q1247C>`
 
 
 .. toctree::

@@ -12,7 +12,7 @@
    syussan_hiyou
    /variable/Q75
    /variable/Q76
-|
+
 
 出産による休業
 ---------------

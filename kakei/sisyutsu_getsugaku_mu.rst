@@ -30,19 +30,19 @@
    :header: 項目, 変数
    :widths: 10, 5
 
-    食料（外食・給食代も含みます）, :doc:`Q879A </variable/Q879A>`
-    家賃・地代・住宅の修繕（住宅ローンは含みません）, :doc:`Q879B </variable/Q879B>`
-    電気・ガス・水道（上・下）, :doc:`Q879C </variable/Q879C>`
-    家具・家事用品（寝具はこちらに含みます）, :doc:`Q879D </variable/Q879D>`
-    衣類・履物, :doc:`Q879E </variable/Q879E>`
-    保険医療（栄養ドリンク・健康食品も含みます）, :doc:`Q879F </variable/Q879F>`
-    交通（自動車購入費用・ガソリン代・定期代なども含みます）, :doc:`Q879G </variable/Q879G>`
-    通信（郵便・電話代・インターネットなど）, :doc:`Q879H </variable/Q879H>`
-    教育（授業料・受験や補習用の塾・教科書・参考書など）, :doc:`Q879I </variable/Q879I>`
-    教養・娯楽（受験・補習塾以外の習い事。教養・娯楽用の耐久消費財はこちらに含みます）, :doc:`Q879J </variable/Q879J>`
-    交際, :doc:`Q879K </variable/Q879K>`
-    家族への小遣い, :doc:`Q879L </variable/Q879L>`
-    その他支出, :doc:`Q879M </variable/Q879M>`
+   食料（外食・給食代も含みます）, :doc:`Q879A </variable/Q879A>`
+   家賃・地代・住宅の修繕（住宅ローンは含みません）, :doc:`Q879B </variable/Q879B>`
+   電気・ガス・水道（上・下）, :doc:`Q879C </variable/Q879C>`
+   家具・家事用品（寝具はこちらに含みます）, :doc:`Q879D </variable/Q879D>`
+   衣類・履物, :doc:`Q879E </variable/Q879E>`
+   保険医療（栄養ドリンク・健康食品も含みます）, :doc:`Q879F </variable/Q879F>`
+   交通（自動車購入費用・ガソリン代・定期代なども含みます）, :doc:`Q879G </variable/Q879G>`
+   通信（郵便・電話代・インターネットなど）, :doc:`Q879H </variable/Q879H>`
+   教育（授業料・受験や補習用の塾・教科書・参考書など）, :doc:`Q879I </variable/Q879I>`
+   教養・娯楽（受験・補習塾以外の習い事。教養・娯楽用の耐久消費財はこちらに含みます）, :doc:`Q879J </variable/Q879J>`
+   交際, :doc:`Q879K </variable/Q879K>`
+   家族への小遣い, :doc:`Q879L </variable/Q879L>`
+   その他支出, :doc:`Q879M </variable/Q879M>`
 
 
 .. warning::
@@ -52,10 +52,10 @@
    :header: "項目","変数名"
    :widths: 15, 10
 
-    "支出計", ":doc:`Q315 </variable/Q315>`"
-    "貯蓄", ":doc:`Q317 </variable/Q317>`"
-    "ローンの返済", ":doc:`Q295 </variable/Q295>`"
-    "総額", ":doc:`Q318 </variable/Q318>`"
+   "支出計", ":doc:`Q315 </variable/Q315>`"
+   "貯蓄", ":doc:`Q317 </variable/Q317>`"
+   "ローンの返済", ":doc:`Q295 </variable/Q295>`"
+   "総額", ":doc:`Q318 </variable/Q318>`"
 
 
 .. warning::

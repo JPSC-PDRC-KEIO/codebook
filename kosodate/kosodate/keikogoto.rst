@@ -10,12 +10,12 @@
    :header: "項目", "変数名"
    :widths: 20,5
 
-   学校以外のスポーツ教室やスポーツ・クラブに通っている,:doc:`Q521A </variable/Q521A>`
-   学校の部活動を行っている,:doc:`Q521B </variable/Q521B>`
-   ピアノなど音楽教室に通っている,:doc:`Q521C </variable/Q521C>`
-   絵画や習字、そろばん等の教室に通っている,:doc:`Q521D </variable/Q521D>`
-   その他,:doc:`Q521E </variable/Q521E>`
-   何もやっていない,:doc:`Q521F </variable/Q521F>`
+   学校以外のスポーツ教室やスポーツ・クラブに通っている, :doc:`Q521A </variable/Q521A>`
+   学校の部活動を行っている, :doc:`Q521B </variable/Q521B>`
+   ピアノなど音楽教室に通っている, :doc:`Q521C </variable/Q521C>`
+   絵画や習字、そろばん等の教室に通っている, :doc:`Q521D </variable/Q521D>`
+   その他, :doc:`Q521E </variable/Q521E>`
+   何もやっていない, :doc:`Q521F </variable/Q521F>`
 
 
 その費用

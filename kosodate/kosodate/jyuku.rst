@@ -57,16 +57,16 @@
 .. csv-table::
    :header: "項目", "変数名"
    :widths: 20,5
-
-   学校（幼稚園）の成績が良くなると思うから,:doc:`Q524A </variable/Q524A>`
-   学校（幼稚園）の成績が悪いので、補習のため,:doc:`Q524B </variable/Q524B>`
-   学校（幼稚園）の授業内容では不十分だと思うので,:doc:`Q524C </variable/Q524C>`
-   受験をさせるため,:doc:`Q524D </variable/Q524D>`
-   通わせないと不安だから,:doc:`Q524E </variable/Q524E>`
-   ほかの子が通っているから,:doc:`Q524F </variable/Q524F>`
-   本人が行きたいといっているので,:doc:`Q524G </variable/Q524G>`
-   時間が余っているから,:doc:`Q524H </variable/Q524H>`
-   その他,:doc:`Q524I </variable/Q524I>`
+   
+   学校（幼稚園）の成績が良くなると思うから, :doc:`Q524A </variable/Q524A>`
+   学校（幼稚園）の成績が悪いので、補習のため, :doc:`Q524B </variable/Q524B>`
+   学校（幼稚園）の授業内容では不十分だと思うので, :doc:`Q524C </variable/Q524C>`
+   受験をさせるため, :doc:`Q524D </variable/Q524D>`
+   通わせないと不安だから, :doc:`Q524E </variable/Q524E>`
+   ほかの子が通っているから, :doc:`Q524F </variable/Q524F>`
+   本人が行きたいといっているので, :doc:`Q524G </variable/Q524G>`
+   時間が余っているから, :doc:`Q524H </variable/Q524H>`
+   その他, :doc:`Q524I </variable/Q524I>`
 
 
 結果の評価

@@ -14,15 +14,15 @@
 
 .. csv-table::
    :header: "", "配偶者の年収", "本人の年収", "夫婦共通の年収", "| 夫婦以外の世帯員
-    | の方全員の年収"
+            | の方全員の年収"
    :widths: 5, 2, 4, 4, 4
 
-    勤め先の収入, :doc:`Q296A </variable/Q296A>`, :doc:`Q297A </variable/Q297A>`, ─, :doc:`Q299A </variable/Q299A>`
-    事業収入, :doc:`Q296B </variable/Q296B>`, :doc:`Q297B </variable/Q297B>`, ─,:doc:`Q299B </variable/Q299B>`
-    財産収入（昨年１年分）, :doc:`Q296C </variable/Q296C>`, :doc:`Q297C </variable/Q297C>`, :doc:`Q298A </variable/Q298A>`, :doc:`Q299C </variable/Q299C>`
-    社会保障給付（昨年１年分）, :doc:`Q296D </variable/Q296D>`, :doc:`Q297D </variable/Q297D>`, :doc:`Q298B </variable/Q298B>`, :doc:`Q299D </variable/Q299D>`
-    その他の収入（昨年１年分）, :doc:`Q296E </variable/Q296E>`, :doc:`Q297E </variable/Q297E>`, :doc:`Q298C </variable/Q298C>`, :doc:`Q299E </variable/Q299E>`
-      合計,:doc:`Q296F </variable/Q296F>`,:doc:`Q297F </variable/Q297F>`, :doc:`Q298D </variable/Q298D>`, :doc:`Q299F </variable/Q299F>`
+   勤め先の収入, :doc:`Q296A </variable/Q296A>`, :doc:`Q297A </variable/Q297A>`, ─, :doc:`Q299A </variable/Q299A>`
+   事業収入, :doc:`Q296B </variable/Q296B>`, :doc:`Q297B </variable/Q297B>`, ─, :doc:`Q299B </variable/Q299B>`
+   財産収入（昨年１年分）, :doc:`Q296C </variable/Q296C>`, :doc:`Q297C </variable/Q297C>`, :doc:`Q298A </variable/Q298A>`, :doc:`Q299C </variable/Q299C>`
+   社会保障給付（昨年１年分）, :doc:`Q296D </variable/Q296D>`, :doc:`Q297D </variable/Q297D>`, :doc:`Q298B </variable/Q298B>`, :doc:`Q299D </variable/Q299D>`
+   その他の収入（昨年１年分）, :doc:`Q296E </variable/Q296E>`, :doc:`Q297E </variable/Q297E>`, :doc:`Q298C </variable/Q298C>`, :doc:`Q299E </variable/Q299E>`
+   合計, :doc:`Q296F </variable/Q296F>`, :doc:`Q297F </variable/Q297F>`, :doc:`Q298D </variable/Q298D>`, :doc:`Q299F </variable/Q299F>`
 
 
 .. csv-table::
@@ -55,14 +55,14 @@
    :header: , あなたの年収, あなた以外の世帯員の方全員の年収
    :widths: 10, 10, 10
 
-    勤め先の収入, :doc:`Q297A </variable/Q297A>`,　:doc:`Q299A </variable/Q299A>`
-    事業収入, :doc:`Q297B </variable/Q297B>`,　:doc:`Q299B </variable/Q299B>`
-    財産収入（昨年１年分）, :doc:`Q297C </variable/Q297C>`,　:doc:`Q299C </variable/Q299C>`
-    社会保障給付（昨年１年分）, :doc:`Q297D </variable/Q297D>`,　:doc:`Q299D </variable/Q299D>`
-    その他の収入（昨年１年分）, :doc:`Q297E </variable/Q297E>`,　:doc:`Q299E </variable/Q299E>`
-      合計 , :doc:`Q297F </variable/Q297F>`,　:doc:`Q299F </variable/Q299F>`
+   勤め先の収入, :doc:`Q297A </variable/Q297A>`,　:doc:`Q299A </variable/Q299A>`
+   事業収入, :doc:`Q297B </variable/Q297B>`,　:doc:`Q299B </variable/Q299B>`
+   財産収入（昨年１年分）, :doc:`Q297C </variable/Q297C>`,　:doc:`Q299C </variable/Q299C>`
+   社会保障給付（昨年１年分）, :doc:`Q297D </variable/Q297D>`,　:doc:`Q299D </variable/Q299D>`
+   その他の収入（昨年１年分）, :doc:`Q297E </variable/Q297E>`,　:doc:`Q299E </variable/Q299E>`
+   合計, :doc:`Q297F </variable/Q297F>`,　:doc:`Q299F </variable/Q299F>`
 
-|
+
 
 本人以外に収入があった世帯員
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
