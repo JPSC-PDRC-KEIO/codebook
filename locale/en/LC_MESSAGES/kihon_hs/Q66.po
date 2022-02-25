@@ -1,0 +1,175 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-25 12:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../kihon_hs/Q66.rst:3
+msgid "収入区分（配偶者）"
+msgstr "Husband’s salary"
+
+#: ../../kihon_hs/Q66.rst:7
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../kihon_hs/Q66.rst:9
+msgid "Q66"
+msgstr "Q66"
+
+#: ../../kihon_hs/Q66.rst:12
+msgid "質問文"
+msgstr "Question"
+
+#: ../../kihon_hs/Q66.rst:14
+msgid "調査票にない変数（合成変数）です。"
+msgstr "This variable is the composite variable that are not directly queried by the questionnaire."
+
+#: ../../kihon_hs/Q66.rst:16
+msgid "詳しくは、 :term:`こちら<調査票にない変数（合成変数）>` をご覧下さい。"
+msgstr "Please refer to :term:`here<Variables not on the questionnaire (composite variables)>` for details."
+
+#: ../../kihon_hs/Q66.rst:20
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../kihon_hs/Q66.rst:1
+msgid "対象"
+msgstr "Target"
+
+#: ../../kihon_hs/Q66.rst:1
+msgid "パネル1→夫年収"
+msgstr "Panel 1: Husband’s annual salary"
+
+#: ../../kihon_hs/Q66.rst:1
+msgid "パネル2～→夫月収"
+msgstr "Panel 2 onward: Husband’s monthly salary"
+
+#: ../../kihon_hs/Q66.rst:1
+msgid "選択肢"
+msgstr "Select"
+
+#: ../../kihon_hs/Q66.rst
+msgid "1. 300万円未満"
+msgstr "1.Less than 3 million JPY"
+
+#: ../../kihon_hs/Q66.rst
+msgid "2. 300万円以上400万円未満"
+msgstr "2.From 3 million JPY up to 4 million JPY"
+
+#: ../../kihon_hs/Q66.rst
+msgid "3. 400万円以上500万円未満"
+msgstr "3.From 4 million JPY up to 5 million JPY"
+
+#: ../../kihon_hs/Q66.rst
+msgid "4. 500万円以上600万円未満"
+msgstr "4.From 5 million JPY up to 6 million JPY"
+
+#: ../../kihon_hs/Q66.rst
+msgid "5. 600万円以上"
+msgstr "5.6 million JPY or more"
+
+#: ../../kihon_hs/Q66.rst
+msgid "6. 無回答"
+msgstr "6.No response"
+
+#: ../../kihon_hs/Q66.rst
+msgid "1. 20万円未満"
+msgstr "1.Less than 200k JPY"
+
+#: ../../kihon_hs/Q66.rst
+msgid "2. 20万円以上25万円未満"
+msgstr "2.From 200k JPY up to 250k JPY"
+
+#: ../../kihon_hs/Q66.rst
+msgid "3. 25万円以上30万円未満"
+msgstr "3.From 250k JPY up to 300k JPY"
+
+#: ../../kihon_hs/Q66.rst
+msgid "4. 30万円以上35万円未満"
+msgstr "4.From 300k JPY up to 350k JPY"
+
+#: ../../kihon_hs/Q66.rst
+msgid "5. 35万円以上40万円未満"
+msgstr "5.From 350k JPY up to 400k JPY"
+
+#: ../../kihon_hs/Q66.rst
+msgid "6. 40万円以上"
+msgstr "6.400k JPY or more"
+
+#: ../../kihon_hs/Q66.rst
+msgid "7. 無回答"
+msgstr "7.No response"
+
+#: ../../kihon_hs/Q66.rst:41
+msgid "備考"
+msgstr "Remarks"
+
+#: ../../kihon_hs/Q66.rst:43
+msgid "それぞれの作成条件は以下の通りです。"
+msgstr "Creation conditions are as follows."
+
+#: ../../kihon_hs/Q66.rst:48
+msgid "対象：パネル1→夫年収"
+msgstr "Panel 1: Husband’s annual salary"
+
+#: ../../kihon_hs/Q66.rst:50
+msgid ":doc:`Q296F </variable/Q296F>` の年収・計=300万円未満"
+msgstr ":doc:`Q296F </variable/Q296F>` : Husband’s total annual income = less than 3 million JPY"
+
+#: ../../kihon_hs/Q66.rst:51
+msgid ":doc:`Q296F </variable/Q296F>` の年収・計=300万円以上400万円未満"
+msgstr ":doc:`Q296F </variable/Q296F>` : Husband’s total annual income = from 3 million JPY up to 4 million JPY"
+
+#: ../../kihon_hs/Q66.rst:52
+msgid ":doc:`Q296F </variable/Q296F>` の年収・計=400万円以上500万円未満"
+msgstr ":doc:`Q296F </variable/Q296F>` : Husband’s total annual income = from 3 million JPY up to 4 million JPY"
+
+#: ../../kihon_hs/Q66.rst:53
+msgid ":doc:`Q296F </variable/Q296F>` の年収・計=500万円以上600万円未満"
+msgstr ":doc:`Q296F </variable/Q296F>` : Husband’s total annual income = from 5 million JPY up to 6 million JPY"
+
+#: ../../kihon_hs/Q66.rst:54
+msgid ":doc:`Q296F </variable/Q296F>` の年収・計=600万円以上"
+msgstr ":doc:`Q296F </variable/Q296F>` : Husband’s total annual income = 6 million JPY or more"
+
+#: ../../kihon_hs/Q66.rst:58
+msgid "対象：パネル2～→夫月収"
+msgstr "Panel 2 onward: Husband’s monthly salary"
+
+#: ../../kihon_hs/Q66.rst:60
+msgid ":doc:`Q220 </variable/Q220>` =1千円～199千円"
+msgstr ":doc:`Q220 </variable/Q220>` = 1k JPY to 199k JPY"
+
+#: ../../kihon_hs/Q66.rst:61
+msgid ":doc:`Q220 </variable/Q220>` =200千円～249千円"
+msgstr ":doc:`Q220 </variable/Q220>` = 200k JPY to 249k JPY"
+
+#: ../../kihon_hs/Q66.rst:62
+msgid ":doc:`Q220 </variable/Q220>` =250千円～299千円"
+msgstr ":doc:`Q220 </variable/Q220>` = 250k JPY to 299k JPY"
+
+#: ../../kihon_hs/Q66.rst:63
+msgid ":doc:`Q220 </variable/Q220>` =300千円～349千円"
+msgstr ":doc:`Q220 </variable/Q220>` = 300k JPY to 349k JPY"
+
+#: ../../kihon_hs/Q66.rst:64
+msgid ":doc:`Q220 </variable/Q220>` =350千円～399千円"
+msgstr ":doc:`Q220 </variable/Q220>` = 350k JPY to 399k JPY"
+
+#: ../../kihon_hs/Q66.rst:65
+msgid ":doc:`Q220 </variable/Q220>` =400千円～"
+msgstr ":doc:`Q220 </variable/Q220>` = 400k JPY or more"
+

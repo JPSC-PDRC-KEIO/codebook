@@ -75,3 +75,15 @@ msgstr "Remarks"
 #: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q61SR.rst:28
 msgid "中退を含まない学歴"
 msgstr "Does not include dropouts."
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q61SR.rst:14
+msgid "調査票にない変数（合成変数）です。"
+msgstr "This variable is the composite variable that are not directly queried by the questionnaire."
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q61SR.rst:16
+msgid "詳しくは、 :term:`こちら<調査票にない変数（合成変数）>` をご覧下さい。"
+msgstr "Please refer to :term:`here<Variables not on the questionnaire (composite variables)>` for details."
+
+#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q61SR.rst:12
+msgid "質問文"
+msgstr "Question"

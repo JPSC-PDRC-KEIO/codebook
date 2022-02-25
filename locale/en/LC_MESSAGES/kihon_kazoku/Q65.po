@@ -1,0 +1,206 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-25 12:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../kihon_kazoku/Q65.rst:3
+msgid "家族構成"
+msgstr "Family structure"
+
+#: ../../kihon_kazoku/Q65.rst:7
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../kihon_kazoku/Q65.rst:9
+msgid "Q65"
+msgstr "Q65"
+
+#: ../../kihon_kazoku/Q65.rst:12
+msgid "質問文"
+msgstr "Question"
+
+#: ../../kihon_kazoku/Q65.rst:14
+msgid "調査票にない変数（合成変数）です。"
+msgstr "This variable is the composite variable that are not directly queried by the questionnaire."
+
+#: ../../kihon_kazoku/Q65.rst:16
+msgid "詳しくは、 :term:`こちら<調査票にない変数（合成変数）>` をご覧下さい。"
+msgstr "Please refer to :term:`here<Variables not on the questionnaire (composite variables)>` for details."
+
+#: ../../kihon_kazoku/Q65.rst:20
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../kihon_kazoku/Q65.rst:1
+msgid "対象"
+msgstr "Target"
+
+#: ../../kihon_kazoku/Q65.rst:1
+msgid "有配偶パネル1"
+msgstr "Married Panel 1"
+
+#: ../../kihon_kazoku/Q65.rst:1
+msgid "有配偶パネル2～"
+msgstr "Married Panel 2 onward"
+
+#: ../../kihon_kazoku/Q65.rst:1
+msgid "無配偶パネル5～"
+msgstr "Unmarried Panel 5 onward"
+
+#: ../../kihon_kazoku/Q65.rst:1
+msgid "選択肢"
+msgstr "Select"
+
+#: ../../kihon_kazoku/Q65.rst
+msgid "1. 夫婦のみ"
+msgstr "1.Married couple only"
+
+#: ../../kihon_kazoku/Q65.rst
+msgid "2. 夫婦と子"
+msgstr "2.Married couple and child(ren)"
+
+#: ../../kihon_kazoku/Q65.rst
+msgid "3. 妻の父母と夫婦"
+msgstr "3.Married couple and wife’s parent(s)"
+
+#: ../../kihon_kazoku/Q65.rst
+msgid "4. 夫の父母と夫婦"
+msgstr "4.Married couple and husband’s parent(s)"
+
+#: ../../kihon_kazoku/Q65.rst
+msgid "5. 妻の父母と夫婦と子"
+msgstr "5.Married couple and wife’s parent(s) and child(ren)"
+
+#: ../../kihon_kazoku/Q65.rst
+msgid "6. 夫の父母と夫婦と子"
+msgstr "6.Married couple and husband’s parent(s) and child(ren)"
+
+#: ../../kihon_kazoku/Q65.rst
+msgid "7. その他"
+msgstr "7.Other"
+
+#: ../../kihon_kazoku/Q65.rst
+msgid "2. 夫婦と子のみ"
+msgstr "2.Married couple and child(ren) only"
+
+#: ../../kihon_kazoku/Q65.rst
+msgid "3. 親と夫婦（その他の親族含む）"
+msgstr "3.Married couple and parent(s) (including with other relatives)"
+
+#: ../../kihon_kazoku/Q65.rst
+msgid "4. 親と夫婦と子（その他の親族含む）"
+msgstr "4.Married couple and parent(s) and children (including other relatives)"
+
+#: ../../kihon_kazoku/Q65.rst
+msgid "5. その他"
+msgstr "5.Other"
+
+#: ../../kihon_kazoku/Q65.rst
+msgid "1. 単身"
+msgstr "1.Single"
+
+#: ../../kihon_kazoku/Q65.rst
+msgid "2. 親と同居（その他の親族含む）"
+msgstr "2.Co-resident with parent(s) (including other relatives)"
+
+#: ../../kihon_kazoku/Q65.rst
+msgid "3. 子と同居（その他の親族含む）"
+msgstr "3.Co-resident with child(ren) (including other relatives)"
+
+#: ../../kihon_kazoku/Q65.rst
+msgid "4. 親と子と同居（その他の親族含む）"
+msgstr "4.Co-resident with parent(s) and child(ren) (including other relatives)"
+
+#: ../../kihon_kazoku/Q65.rst:44
+msgid "備考"
+msgstr "Remarks"
+
+#: ../../kihon_kazoku/Q65.rst:46
+msgid "各調査回の :doc:`世帯員の状況</kihon_kazoku/setai>` から作成した変数です。 それぞれの作成条件は以下の通りです。"
+msgstr "Created from :doc:`Family makeup</kihon_kazoku/setai>` each time (regardless of whether living together or apart). Creation conditions are as follows."
+
+#: ../../kihon_kazoku/Q65.rst:51
+msgid "対象：有配偶パネル1"
+msgstr "Married Panel 1"
+
+#: ../../kihon_kazoku/Q65.rst:53 ../../kihon_kazoku/Q65.rst:65
+msgid "本人と配偶者以外はいない"
+msgstr "No one other than the respondent and their spouse"
+
+#: ../../kihon_kazoku/Q65.rst:54 ../../kihon_kazoku/Q65.rst:66
+msgid "本人と配偶者と子供以外はいない"
+msgstr "No one other than the respondent, their spouse, and child(ren)"
+
+#: ../../kihon_kazoku/Q65.rst:55
+msgid "本人と配偶者と妻の父母以外はいない"
+msgstr "1Q2: No one other than the respondent, their spouse, and the wife’s parent(s)"
+
+#: ../../kihon_kazoku/Q65.rst:56
+msgid "本人と配偶者と夫の父母以外はいない"
+msgstr "No one other than the respondent, their spouse, and the husband’s parent(s)"
+
+#: ../../kihon_kazoku/Q65.rst:57
+msgid "本人と配偶者と子供と妻の父母以外はいない"
+msgstr "No one other than the respondent, their spouse, child(ren), and the wife’s parent(s)"
+
+#: ../../kihon_kazoku/Q65.rst:58
+msgid "本人と配偶者と子供と夫の父母以外はいない"
+msgstr "No one other than the respondent, their spouse, child(ren), and the husband’s parent(s)"
+
+#: ../../kihon_kazoku/Q65.rst:59
+msgid "上記以外の組み合わせ"
+msgstr "Combinations other than those listed above"
+
+#: ../../kihon_kazoku/Q65.rst:63
+msgid "対象：有配偶パネル2～"
+msgstr "Married Panel 2 onward"
+
+#: ../../kihon_kazoku/Q65.rst:67
+msgid "本人と配偶者と親がいて子供はいない（他の親族がいても可）"
+msgstr "The respondent, their spouse, at least one parent, and no children of the spousal couple are present (other relatives may be present)"
+
+#: ../../kihon_kazoku/Q65.rst:68
+msgid "本人と配偶者と親と子供がいる（他の親族がいても可）"
+msgstr "The respondent, their spouse, at least one parent, and at least one child of the spousal couple are present (other relatives may be present)"
+
+#: ../../kihon_kazoku/Q65.rst:69
+msgid "本人と配偶者とその他の親族がいる（子供はいても可）"
+msgstr "The respondent, their spouse, and at least one other family member are present (children may be present)"
+
+#: ../../kihon_kazoku/Q65.rst:73
+msgid "対象：無配偶パネル5～"
+msgstr "Unmarried Panel 5 onward"
+
+#: ../../kihon_kazoku/Q65.rst:75
+msgid "本人以外いない"
+msgstr "The respondent only"
+
+#: ../../kihon_kazoku/Q65.rst:76
+msgid "本人と親がいて子供はいない（他の親族がいても可）"
+msgstr "The respondent and at least one parent, but no children (other relatives may be present)"
+
+#: ../../kihon_kazoku/Q65.rst:77
+msgid "本人と子供がいて親はいない（他の親族がいても可）"
+msgstr "The respondent and at least one child, but no parents (other relatives may be present)"
+
+#: ../../kihon_kazoku/Q65.rst:78
+msgid "本人と親と子供がいる（他の親族がいても可）"
+msgstr "The respondent, at least one child, and at least one parent (other relatives may be present)"
+
+#: ../../kihon_kazoku/Q65.rst:79
+msgid "本人とその他の親族がいる"
+msgstr "The respondent and other relatives"

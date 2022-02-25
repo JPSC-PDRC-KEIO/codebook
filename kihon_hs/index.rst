@@ -11,6 +11,7 @@
    Q61SR
    gakureki_hs
    syugaku_hs
+   Q66
    Q15_hs
    kyoudai_hs
    /variable/Q673
