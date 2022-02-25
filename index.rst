@@ -54,5 +54,5 @@ JPSC データ
    id_panel/index
    komoku
    glossary
-   contact
+
 
