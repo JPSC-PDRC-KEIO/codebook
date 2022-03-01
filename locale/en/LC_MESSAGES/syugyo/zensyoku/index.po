@@ -17,11 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/index.rst:3
+#: ../../syugyo/zensyoku/index.rst:3
 msgid "前職についての質問"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/index.rst:6
+#: ../../syugyo/zensyoku/index.rst:6
 msgid "初回調査時までに前職がある人が回答しています。"
 msgstr ""
 

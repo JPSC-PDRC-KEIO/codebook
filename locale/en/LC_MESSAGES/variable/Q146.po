@@ -8,16 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"POT-Creation-Date: 2022-02-25 12:05+0900\n"
 "PO-Revision-Date: 2022-02-07 13:22+0900\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
-"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q146.rst:6
 msgid "業種 [第1回 |endash| 第20回]"
@@ -37,7 +37,10 @@ msgstr "Question"
 
 #: ../../variable/Q146.rst:21
 msgid "その勤め先の業種は次のどれに該当しますか。（派遣社員の方は、派遣元の業種についてお答えください）"
-msgstr "Which of the following industries does the company you work for fall into? (If you are a dispatched worker, please indicate the sector from which you were dispatched.)"
+msgstr ""
+"Which of the following industries does the company you work for fall "
+"into? (If you are a dispatched worker, please indicate the sector from "
+"which you were dispatched.)"
 
 #: ../../variable/Q146.rst:28
 msgid "選択肢 / 記入欄"
@@ -65,7 +68,9 @@ msgstr "Manufacturing (including publishing and printing)"
 
 #: ../../variable/Q146.rst:35
 msgid "卸売・小売業（デパート、スーパー、食堂、喫茶店を含む）"
-msgstr "Wholesale and retail trade (including department stores, supermarkets, cafeterias, and coffee shops)"
+msgstr ""
+"Wholesale and retail trade (including department stores, supermarkets, "
+"cafeterias, and coffee shops)"
 
 #: ../../variable/Q146.rst:36
 msgid "金融・保険・不動産業"
@@ -81,7 +86,9 @@ msgstr "Electricity, gas, water, and heat supply"
 
 #: ../../variable/Q146.rst:39
 msgid "サービス業（学校、病院、ホテル、映画館、理・美容店、広告代理店、清掃会社を含む）"
-msgstr "Service industry (including schools, hospitals, hotels, movie theaters, barber and beauty stores, advertising agencies, cleaning companies)"
+msgstr ""
+"Service industry (including schools, hospitals, hotels, movie theaters, "
+"barber and beauty stores, advertising agencies, cleaning companies)"
 
 #: ../../variable/Q146.rst:40
 msgid "公務"
@@ -111,135 +118,147 @@ msgstr ""
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q146.rst:78
+#: ../../variable/Q146.rst:72
+msgid ""
+"この変数は第1回から第20回まで使用されていた旧分類の変数となります。 第21回からは16分類（:doc:`Q1182 "
+"</variable/Q1182>`）で尋ねています。 "
+"ただし第21回以降のデータにも、職業に関する自由記述や新分類での回答をもとにし、旧分類（12分類）に従って分類した変数（:doc:`Q146 "
+"</variable/Q146>`）も作成しています。"
+msgstr ""
+
+#: ../../variable/Q146.rst:76
+msgid "詳しくはこちら（:doc:`/syugyo/gensyoku/gyousyu`）をご参照ください。"
+msgstr ""
+
+#: ../../variable/Q146.rst:82
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q146.rst:83
+#: ../../variable/Q146.rst:87
 msgid "p1_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:85
+#: ../../variable/Q146.rst:89
 msgid "p2_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:87
+#: ../../variable/Q146.rst:91
 msgid "p3_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:89
+#: ../../variable/Q146.rst:93
 msgid "p4_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:91
+#: ../../variable/Q146.rst:95
 msgid "p5a_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:93
+#: ../../variable/Q146.rst:97
 msgid "p5b_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:95
+#: ../../variable/Q146.rst:99
 msgid "p6_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:97
+#: ../../variable/Q146.rst:101
 msgid "p7_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:99
+#: ../../variable/Q146.rst:103
 msgid "p8_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:101
+#: ../../variable/Q146.rst:105
 msgid "p9_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:103
+#: ../../variable/Q146.rst:107
 msgid "p10_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:105
+#: ../../variable/Q146.rst:109
 msgid "p11ab_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:107
+#: ../../variable/Q146.rst:111
 msgid "p11c_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:109
+#: ../../variable/Q146.rst:113
 msgid "p12_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:111
+#: ../../variable/Q146.rst:115
 msgid "p13_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:113
+#: ../../variable/Q146.rst:117
 msgid "p14_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:115
+#: ../../variable/Q146.rst:119
 msgid "p15_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:117
+#: ../../variable/Q146.rst:121
 msgid "p16abc_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:119
+#: ../../variable/Q146.rst:123
 msgid "p16d_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:121
+#: ../../variable/Q146.rst:125
 msgid "p17_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:123
+#: ../../variable/Q146.rst:127
 msgid "p18_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:125
+#: ../../variable/Q146.rst:129
 msgid "p19_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:127
+#: ../../variable/Q146.rst:131
 msgid "p20_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:129
+#: ../../variable/Q146.rst:133
 msgid "p21abcd_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:131
+#: ../../variable/Q146.rst:135
 msgid "p21e_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:133
+#: ../../variable/Q146.rst:137
 msgid "p22_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:135
+#: ../../variable/Q146.rst:139
 msgid "p23_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:137
+#: ../../variable/Q146.rst:141
 msgid "p24_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:139
+#: ../../variable/Q146.rst:143
 msgid "p25_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:141
+#: ../../variable/Q146.rst:145
 msgid "p26_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:143
+#: ../../variable/Q146.rst:147
 msgid "p27_1"
 msgstr ""
 
-#: ../../variable/Q146.rst:145
+#: ../../variable/Q146.rst:149
 msgid "p28_1"
 msgstr ""
 
@@ -251,3 +270,18 @@ msgstr ""
 
 #~ msgid "業種〔第1～第20回〕"
 #~ msgstr ""
+
+#~ msgid ""
+#~ "この変数は第1回から第20回まで使用されていた旧分類となります。 第21回からは16分類（:doc:`Q1182 "
+#~ "</variable/Q1182>`）で尋ねています。こちらもあわせてご確認下さい。 "
+#~ "ただし、第21回以降のデータにも分類の変数を12分類にリコードし、（:doc:`Q146 "
+#~ "</variable/Q146>`）としてデータに残しています。"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "この変数は第1回から第20回まで使用されていた旧分類となります。 第21回からは16分類（:doc:`Q1182 "
+#~ "</variable/Q1182>`）で尋ねています。こちらもあわせてご確認下さい。 "
+#~ "ただし第21回以降のデータにも、職業に関する自由記述や新分類での回答をもとにし、旧分類（12分類）に従って分類した変数（:doc:`Q146"
+#~ " </variable/Q146>`）も作成しています。"
+#~ msgstr ""
+

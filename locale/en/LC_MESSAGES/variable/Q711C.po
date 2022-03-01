@@ -17,68 +17,68 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:5
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:21
+#: ../../variable/Q711C.rst:5
+#: ../../variable/Q711C.rst:21
 msgid "夫の親からの援助"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:9
+#: ../../variable/Q711C.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:11
+#: ../../variable/Q711C.rst:11
 msgid "Q711C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:15
+#: ../../variable/Q711C.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:18
+#: ../../variable/Q711C.rst:18
 msgid "その費用はどのように賄いましたか"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:27
+#: ../../variable/Q711C.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:29
+#: ../../variable/Q711C.rst:29
 msgid "＿ 億 ＿ ＿ ＿ 0 万円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:35
+#: ../../variable/Q711C.rst:35
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:36
+#: ../../variable/Q711C.rst:36
 msgid "99998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:41
+#: ../../variable/Q711C.rst:41
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:47
+#: ../../variable/Q711C.rst:47
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:48
+#: ../../variable/Q711C.rst:48
 msgid "99999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:53
+#: ../../variable/Q711C.rst:53
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:59
+#: ../../variable/Q711C.rst:59
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:64
+#: ../../variable/Q711C.rst:64
 msgid "p3_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q711C.rst:66
+#: ../../variable/Q711C.rst:66
 msgid "p4_2"
 msgstr ""
 

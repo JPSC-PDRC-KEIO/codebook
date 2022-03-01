@@ -17,99 +17,99 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:3
+#: ../../multi_var/Q1127.rst:3
 msgid "ペットの種類"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:7
+#: ../../multi_var/Q1127.rst:7
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:8
+#: ../../multi_var/Q1127.rst:8
 msgid "その種類は何ですか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:12
+#: ../../multi_var/Q1127.rst:12
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid "犬（室外で）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid ":doc:`Q1127A </variable/Q1127A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid "犬（室内で）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid ":doc:`Q1127B </variable/Q1127B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid "猫"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid ":doc:`Q1127C </variable/Q1127C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid "小型の哺乳類"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid ":doc:`Q1127D </variable/Q1127D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid "鳥類"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid ":doc:`Q1127E </variable/Q1127E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid "魚類"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid ":doc:`Q1127F </variable/Q1127F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid "両生類・爬虫類"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid ":doc:`Q1127G </variable/Q1127G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid "昆虫類"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid ":doc:`Q1127H </variable/Q1127H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1127.rst:1
+#: ../../multi_var/Q1127.rst:1
 msgid ":doc:`Q1127I </variable/Q1127I>`"
 msgstr ""
 

@@ -17,111 +17,111 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:5
+#: ../../variable/Q1072A.rst:5
 msgid "住宅ローン減税制度変更の影響・住宅資金贈与への影響：初めて贈与を受けた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:9
+#: ../../variable/Q1072A.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:11
+#: ../../variable/Q1072A.rst:11
 msgid "Q1072A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:15
+#: ../../variable/Q1072A.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:18
+#: ../../variable/Q1072A.rst:18
 msgid "では、住宅取得資金贈与には、具体的にどのような影響がありましたか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:21
+#: ../../variable/Q1072A.rst:21
 msgid "初めて贈与を受けた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:27
+#: ../../variable/Q1072A.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:30
+#: ../../variable/Q1072A.rst:30
 msgid "はい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:32
+#: ../../variable/Q1072A.rst:32
 msgid "いいえ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:39
+#: ../../variable/Q1072A.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:45
+#: ../../variable/Q1072A.rst:45
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:51
+#: ../../variable/Q1072A.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:52
+#: ../../variable/Q1072A.rst:52
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:57
+#: ../../variable/Q1072A.rst:57
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:63
+#: ../../variable/Q1072A.rst:63
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:68
+#: ../../variable/Q1072A.rst:68
 msgid "p13_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:70
+#: ../../variable/Q1072A.rst:70
 msgid "p14_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:72
+#: ../../variable/Q1072A.rst:72
 msgid "p15_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:74
+#: ../../variable/Q1072A.rst:74
 msgid "p16abc_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:76
+#: ../../variable/Q1072A.rst:76
 msgid "p17_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:78
+#: ../../variable/Q1072A.rst:78
 msgid "p18_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:80
+#: ../../variable/Q1072A.rst:80
 msgid "p19_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:82
+#: ../../variable/Q1072A.rst:82
 msgid "p20_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:84
+#: ../../variable/Q1072A.rst:84
 msgid "p21abcd_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:86
+#: ../../variable/Q1072A.rst:86
 msgid "p21e_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:88
+#: ../../variable/Q1072A.rst:88
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1072A.rst:90
+#: ../../variable/Q1072A.rst:90
 msgid "p23_3"
 msgstr ""
 

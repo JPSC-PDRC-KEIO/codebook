@@ -20,114 +20,114 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:5
+#: ../../variable/P20.rst:5
 msgid "大学の専攻"
 msgstr "Area of specialization at college or university"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:9
+#: ../../variable/P20.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:11
+#: ../../variable/P20.rst:11
 msgid "P20"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:15
+#: ../../variable/P20.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:18
+#: ../../variable/P20.rst:18
 msgid "専攻されたのは、次のどれですか。"
 msgstr "What was your main area of study?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:24
+#: ../../variable/P20.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:27
+#: ../../variable/P20.rst:27
 msgid "文学系"
 msgstr "Literature"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:29
+#: ../../variable/P20.rst:29
 msgid "教育系"
 msgstr "Education"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:31
+#: ../../variable/P20.rst:31
 msgid "法律・政治系"
 msgstr "Law/Politics"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:33
+#: ../../variable/P20.rst:33
 msgid "経済・経営・商業系"
 msgstr "Economics/Business Administration/Commerce"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:35
+#: ../../variable/P20.rst:35
 msgid "芸術系"
 msgstr "Fine Arts"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:37
+#: ../../variable/P20.rst:37
 msgid "理学・工学系"
 msgstr "Science/Engineering"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:39
+#: ../../variable/P20.rst:39
 msgid "家政・文系"
 msgstr "Home Economics (culture)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:41
+#: ../../variable/P20.rst:41
 msgid "家政・理系"
 msgstr "Home Economics (science)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:43
+#: ../../variable/P20.rst:43
 msgid "医学・歯学・薬学系"
 msgstr "Medicine/Dentistry/Pharmacology"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:45
+#: ../../variable/P20.rst:45
 msgid "その他文系（　　　　）"
 msgstr "Other Social Sciences"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:47
+#: ../../variable/P20.rst:47
 msgid "その他の理系（　　　　）"
 msgstr "Other Physical Sciences"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:54
+#: ../../variable/P20.rst:54
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:60
+#: ../../variable/P20.rst:60
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:66
+#: ../../variable/P20.rst:66
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:67
+#: ../../variable/P20.rst:67
 msgid "12"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:72
+#: ../../variable/P20.rst:72
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:78
+#: ../../variable/P20.rst:78
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:83
+#: ../../variable/P20.rst:83
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:85
+#: ../../variable/P20.rst:85
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:87
+#: ../../variable/P20.rst:87
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:89
+#: ../../variable/P20.rst:89
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P20.rst:91
+#: ../../variable/P20.rst:91
 msgid "p21e_1"
 msgstr ""

@@ -17,11 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/kyuyo.rst:3
+#: ../../syugyo/jouken/kyuyo.rst:3
 msgid "給与"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/kyuyo.rst:15
+#: ../../syugyo/jouken/kyuyo.rst:15
 msgid ""
 ":doc:`/variable/Q148` の回答によって、:doc:`/variable/Q149` 、 "
 ":doc:`/variable/Q150` 、 :doc:`/variable/Q151` のいずれかを回答しています。"

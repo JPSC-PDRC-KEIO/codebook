@@ -17,91 +17,91 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:5
+#: ../../variable/Q918D.rst:5
 msgid "買い物行動・夫の衣料品・購入先選定理由"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:9
+#: ../../variable/Q918D.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:11
+#: ../../variable/Q918D.rst:11
 msgid "Q918D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:15
+#: ../../variable/Q918D.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:18
+#: ../../variable/Q918D.rst:18
 msgid "次の(1)～(9)のものの購入について、それぞれA：価格、B：買うときに重視する点、C：どこで買うか（購入先）、D：購入先の選定理由の選択肢の中から最もあてはまると思うものを１つだけお答えください。日頃買わないものについても「買うとしたら」でお答え下さい。ご主人や子どものものについては、あなたが買う場合でお答えください。（〇は(1)～(9)のそれぞれA～Dそれぞれ１つずつ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:24
+#: ../../variable/Q918D.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:27
+#: ../../variable/Q918D.rst:27
 msgid "近い"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:29
+#: ../../variable/Q918D.rst:29
 msgid "交通・車の便がよい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:31
+#: ../../variable/Q918D.rst:31
 msgid "値段が安い"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:33
+#: ../../variable/Q918D.rst:33
 msgid "品揃えがよい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:35
+#: ../../variable/Q918D.rst:35
 msgid "店の雰囲気がよい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:37
+#: ../../variable/Q918D.rst:37
 msgid "なじみがある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:39
+#: ../../variable/Q918D.rst:39
 msgid "店が有名"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:41
+#: ../../variable/Q918D.rst:41
 msgid "在宅のまま購入できる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:48
+#: ../../variable/Q918D.rst:48
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:54
+#: ../../variable/Q918D.rst:54
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:60
+#: ../../variable/Q918D.rst:60
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:61
+#: ../../variable/Q918D.rst:61
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:66
+#: ../../variable/Q918D.rst:66
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:72
+#: ../../variable/Q918D.rst:72
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:77
+#: ../../variable/Q918D.rst:77
 msgid "p3_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q918D.rst:79
+#: ../../variable/Q918D.rst:79
 msgid "p6_4"
 msgstr ""
 

@@ -17,99 +17,99 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:5
+#: ../../variable/Q260M.rst:5
 msgid "離職理由（配偶者無職）：職場の上司との関係がうまくいかなくて"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:9
+#: ../../variable/Q260M.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:11
+#: ../../variable/Q260M.rst:11
 msgid "Q260M"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:15
+#: ../../variable/Q260M.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:18
+#: ../../variable/Q260M.rst:18
 msgid "どのような理由で、ご主人は１年前（昨年9月末）の会社等をやめたのですか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:21
+#: ../../variable/Q260M.rst:21
 msgid "職場の上司との関係がうまくいかなくて"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:27
+#: ../../variable/Q260M.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:30
+#: ../../variable/Q260M.rst:30
 msgid "はい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:32
+#: ../../variable/Q260M.rst:32
 msgid "いいえ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:39
+#: ../../variable/Q260M.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:45
+#: ../../variable/Q260M.rst:45
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:51
+#: ../../variable/Q260M.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:52
+#: ../../variable/Q260M.rst:52
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:57
+#: ../../variable/Q260M.rst:57
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:63
+#: ../../variable/Q260M.rst:63
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:68
+#: ../../variable/Q260M.rst:68
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:70
+#: ../../variable/Q260M.rst:70
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:72
+#: ../../variable/Q260M.rst:72
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:74
+#: ../../variable/Q260M.rst:74
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:76
+#: ../../variable/Q260M.rst:76
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:78
+#: ../../variable/Q260M.rst:78
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:80
+#: ../../variable/Q260M.rst:80
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:82
+#: ../../variable/Q260M.rst:82
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q260M.rst:84
+#: ../../variable/Q260M.rst:84
 msgid "p10_1"
 msgstr ""
 

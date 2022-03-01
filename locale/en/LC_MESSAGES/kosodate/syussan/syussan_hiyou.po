@@ -17,59 +17,59 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:3
+#: ../../kosodate/syussan/syussan_hiyou.rst:3
 msgid "出産費用"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:6
+#: ../../kosodate/syussan/syussan_hiyou.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:8
+#: ../../kosodate/syussan/syussan_hiyou.rst:8
 msgid "出産に関わる費用はどれくらいでしたか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:11
+#: ../../kosodate/syussan/syussan_hiyou.rst:11
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+#: ../../kosodate/syussan/syussan_hiyou.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+#: ../../kosodate/syussan/syussan_hiyou.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+#: ../../kosodate/syussan/syussan_hiyou.rst:1
 msgid "病院に支払った費用（定期検診も含む）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+#: ../../kosodate/syussan/syussan_hiyou.rst:1
 msgid ":doc:`Q74A</variable/Q74A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+#: ../../kosodate/syussan/syussan_hiyou.rst:1
 msgid "育児用品購入費"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+#: ../../kosodate/syussan/syussan_hiyou.rst:1
 msgid ":doc:`Q74B</variable/Q74B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+#: ../../kosodate/syussan/syussan_hiyou.rst:1
 msgid "産後の手伝いのお礼"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+#: ../../kosodate/syussan/syussan_hiyou.rst:1
 msgid ":doc:`Q74C</variable/Q74C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+#: ../../kosodate/syussan/syussan_hiyou.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_hiyou.rst:1
+#: ../../kosodate/syussan/syussan_hiyou.rst:1
 msgid ":doc:`Q74D</variable/Q74D>`"
 msgstr ""
 

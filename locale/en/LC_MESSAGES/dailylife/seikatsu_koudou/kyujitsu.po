@@ -20,162 +20,162 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.2.4\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:3
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:3
 msgid "休日"
 msgstr "Day off"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:6
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:8
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:8
 msgid "あなたとご主人は1週間に何日お休みの日がありますか。（週2日休みの場合は2.0とお答えください。隔週の休みは0.5と換算してください）"
 msgstr "How many days off do you or your husband have a week? (Count a day off every 2 weeks as a half day and enter it as 0.5.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:10
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:10
 msgid "あなたとご主人は何曜日が休みですか。（隔週休みの場合は休みとしてお答えください）"
 msgstr "What day is your and your husband's day off in the week? (Includes a day off every 2 weeks.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:13
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:13
 msgid "**休日数**"
 msgstr "Number of days off"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid "仕事についている"
 msgstr "Employed"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid "仕事についていない"
 msgstr "Unemployed"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst
 msgid "本人"
 msgstr "Me"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst
 msgid "（有配偶・無配偶共通）"
 msgstr "（married/single）"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q497A </variable/Q497A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q497B </variable/Q497B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst
 msgid "ご主人"
 msgstr "Husband"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst
 msgid "（有配偶のみ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q498A </variable/Q498A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q498B </variable/Q498B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:23
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:23
 msgid "**休日の曜日**"
 msgstr "Days Off"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid "日曜日"
 msgstr "Sunday"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid "月曜日"
 msgstr "Monday"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid "火曜日"
 msgstr "Tuesday"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid "水曜日"
 msgstr "Wednesday"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid "木曜日"
 msgstr "Thursday"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid "金曜日"
 msgstr "Friday"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid "土曜日"
 msgstr "Saturday"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid "決まっていない"
 msgstr "Not fixed"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q499A </variable/Q499A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q499B </variable/Q499B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q499C </variable/Q499C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q499D </variable/Q499D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q499E </variable/Q499E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q499F </variable/Q499F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q499G </variable/Q499G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q499H </variable/Q499H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q500A </variable/Q500A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q500B </variable/Q500B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q500C </variable/Q500C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q500D </variable/Q500D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q500E </variable/Q500E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q500F </variable/Q500F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q500G </variable/Q500G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/kyujitsu.rst:1
+#: ../../dailylife/seikatsu_koudou/kyujitsu.rst:1
 msgid ":doc:`Q500H </variable/Q500H>`"
 msgstr ""

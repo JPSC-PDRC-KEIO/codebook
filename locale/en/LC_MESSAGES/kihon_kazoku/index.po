@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/index.rst:3
+#: ../../kihon_kazoku/index.rst:3
 msgid "家族の基本情報"
 msgstr "Basic Family Information"

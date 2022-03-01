@@ -17,67 +17,67 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1184.rst:5
+#: ../../variable/Q1184.rst:5
 msgid "None"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1184.rst:9
+#: ../../variable/Q1184.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1184.rst:11
+#: ../../variable/Q1184.rst:11
 msgid "Q1184"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1184.rst:15
+#: ../../variable/Q1184.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1184.rst:21
+#: ../../variable/Q1184.rst:21
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1184.rst:29
+#: ../../variable/Q1184.rst:29
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1184.rst:35
+#: ../../variable/Q1184.rst:35
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1184.rst:41
+#: ../../variable/Q1184.rst:41
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1184.rst:47
+#: ../../variable/Q1184.rst:47
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1184.rst:53
+#: ../../variable/Q1184.rst:53
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1184.rst:58
+#: ../../variable/Q1184.rst:58
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1184.rst:60
+#: ../../variable/Q1184.rst:60
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1184.rst:62
+#: ../../variable/Q1184.rst:62
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1184.rst:64
+#: ../../variable/Q1184.rst:64
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1184.rst:66
+#: ../../variable/Q1184.rst:66
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1184.rst:68
+#: ../../variable/Q1184.rst:68
 msgid "p26_1"
 msgstr ""
 

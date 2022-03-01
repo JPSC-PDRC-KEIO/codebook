@@ -17,37 +17,37 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q995.rst:4
+#: ../../multi_var/Q995.rst:4
 msgid "電子メール習得方法"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q995.rst:8
+#: ../../multi_var/Q995.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q995.rst:9
+#: ../../multi_var/Q995.rst:9
 msgid "あなたご自身はどういうきっかけで電子メールを始めましたか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q995.rst:13
+#: ../../multi_var/Q995.rst:13
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q995.rst:18
+#: ../../multi_var/Q995.rst:18
 msgid ""
 "1,友人・家族・同僚など親しい人から教わった,Q995A 2,本などで勉強した,Q995B 3,自然とできるようになった,Q995C "
 "4,講習会（授業などを含む）で学んだ,Q995D 5,その他（具体的に　　　　　　　）,Q995E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q995.rst:27
+#: ../../multi_var/Q995.rst:27
 msgid "現在の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q995.rst:40
+#: ../../multi_var/Q995.rst:40
 msgid "過去の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q995.rst:47
+#: ../../multi_var/Q995.rst:47
 msgid "備考"
 msgstr "Remarks"
 

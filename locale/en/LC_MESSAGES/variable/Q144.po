@@ -20,118 +20,118 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:5
+#: ../../variable/Q144.rst:5
 msgid "職業〔第1～第3回〕"
 msgstr "Occupation [1st - 3th waves]"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:9
+#: ../../variable/Q144.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:11
+#: ../../variable/Q144.rst:11
 msgid "Q144"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:15
+#: ../../variable/Q144.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:18
+#: ../../variable/Q144.rst:18
 msgid "あなたの現在の職業は何ですか。具体的にご記入の上、〇をつけて下さい。(〇は１つ)"
 msgstr "What is your main job at present? (Circle only one answer.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:24
+#: ../../variable/Q144.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:27
+#: ../../variable/Q144.rst:27
 msgid "農林漁業（自営者）"
 msgstr "Agriculture, Forestry, or Fisheries (Self-employed) "
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:29
+#: ../../variable/Q144.rst:29
 msgid "農林漁業（家族従業者）"
 msgstr "Agriculture, Forestry, or Fisheries (Family employee)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:31
+#: ../../variable/Q144.rst:31
 msgid "小規模〔9人以下〕の商業・工業・サービス業（自営者）"
 msgstr "Small (9 or fewer employees) business/factory (Self-employed)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:33
+#: ../../variable/Q144.rst:33
 msgid "小規模〔9人以下〕の商業・工業・サービス業（家族従業者）"
 msgstr "Small (9 or fewer employees) business/factory (Family workeremployee)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:35
+#: ../../variable/Q144.rst:35
 msgid "自由業"
 msgstr "Independent"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:37
+#: ../../variable/Q144.rst:37
 msgid "管理職"
 msgstr "Manager"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:39
+#: ../../variable/Q144.rst:39
 msgid "専門職"
 msgstr "Specialist"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:41
+#: ../../variable/Q144.rst:41
 msgid "技術職"
 msgstr "Technician"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:43
+#: ../../variable/Q144.rst:43
 msgid "教員"
 msgstr "Teacher"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:45
+#: ../../variable/Q144.rst:45
 msgid "事務職"
 msgstr "Administrative"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:47
+#: ../../variable/Q144.rst:47
 msgid "技能・作業職"
 msgstr "Skilled employee"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:49
+#: ../../variable/Q144.rst:49
 msgid "販売サービス職"
 msgstr "Sales & service employee"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:51
+#: ../../variable/Q144.rst:51
 msgid "自宅で賃仕事"
 msgstr "Paying job at home (home worker)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:53
+#: ../../variable/Q144.rst:53
 msgid "その他の職業"
 msgstr "Other occpation"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:60
+#: ../../variable/Q144.rst:60
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:66
+#: ../../variable/Q144.rst:66
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:72
+#: ../../variable/Q144.rst:72
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:73
+#: ../../variable/Q144.rst:73
 msgid "15"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:78
+#: ../../variable/Q144.rst:78
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:84
+#: ../../variable/Q144.rst:84
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:89
+#: ../../variable/Q144.rst:89
 msgid "p1_1"
 msgstr "p1_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:91
+#: ../../variable/Q144.rst:91
 msgid "p2_1"
 msgstr "p2_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q144.rst:93
+#: ../../variable/Q144.rst:93
 msgid "p3_1"
 msgstr "p3_1"

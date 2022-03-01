@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/shibou/kaigo.rst:2
+#: ../../seikatsu_hendou/shibou/kaigo.rst:2
 msgid "亡くなった親の介護"
 msgstr "Long-term care for deceased parents"

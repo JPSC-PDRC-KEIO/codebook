@@ -17,19 +17,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_ishiki/iseikousai.rst:3
+#: ../../dailylife/seikatsu_ishiki/iseikousai.rst:3
 msgid "配偶者以外との異性交際"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_ishiki/iseikousai.rst:5
+#: ../../dailylife/seikatsu_ishiki/iseikousai.rst:5
 msgid "一般に、結婚している男性および女性が配偶者以外の異性と親密なつきあいをすることについて、あなたはどう思いますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_ishiki/iseikousai.rst:8
+#: ../../dailylife/seikatsu_ishiki/iseikousai.rst:8
 msgid "男性が妻以外の女性とつきあうことについて"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_ishiki/iseikousai.rst:16
+#: ../../dailylife/seikatsu_ishiki/iseikousai.rst:16
 msgid "女性が夫以外の男性とつきあうことについて"
 msgstr ""
 

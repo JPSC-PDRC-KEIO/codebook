@@ -20,19 +20,19 @@ msgstr ""
 "Language: en_US\n"
 "X-Generator: Poedit 2.4.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/REC.rst:3
+#: ../../id_panel/REC.rst:3
 msgid "シート番号"
 msgstr "Sheet number"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/REC.rst:7
+#: ../../id_panel/REC.rst:7
 msgid "変数名：REC"
 msgstr "Variable name: REC"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/REC.rst:11
+#: ../../id_panel/REC.rst:11
 msgid "説明"
 msgstr "Description"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/REC.rst:13
+#: ../../id_panel/REC.rst:13
 msgid ""
 "データファイルに付与した添字になります。 データは各回５つのファイルに"
 "分割され、データのファイル名は、調査回を示す接頭辞と データファイルを"
@@ -43,7 +43,7 @@ msgstr ""
 "combination of a prefix indicating the survey round and a subscript "
 "indicating the data file."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/REC.rst:17
+#: ../../id_panel/REC.rst:17
 msgid ""
 "例えば、データファイル「p10_1.csv」、「p10_2.csv」では、それぞれのREC"
 "に「1」、「2」が記載されています。"
@@ -51,10 +51,10 @@ msgstr ""
 "For example, in the data files \"p10_1.csv\" and \"p10_2.csv\", "
 "\"1\" and \"2\" are listed for each REC."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/REC.rst:21
+#: ../../id_panel/REC.rst:21
 msgid "コード"
 msgstr "Code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/REC.rst:22
+#: ../../id_panel/REC.rst:22
 msgid "1 2 3 4 5"
 msgstr "1 2 3 4 5"

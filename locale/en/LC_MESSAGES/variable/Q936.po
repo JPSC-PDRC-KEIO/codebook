@@ -17,67 +17,67 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q936.rst:5
+#: ../../variable/Q936.rst:5
 msgid "夫婦別姓意向（無配偶）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q936.rst:9
+#: ../../variable/Q936.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q936.rst:11
+#: ../../variable/Q936.rst:11
 msgid "Q936"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q936.rst:15
+#: ../../variable/Q936.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q936.rst:18
+#: ../../variable/Q936.rst:18
 msgid "結婚しても、夫婦がそれぞれ結婚前の苗字でいることができるようになったら、あなたはどうしたいですか。（〇は１つ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q936.rst:24
+#: ../../variable/Q936.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q936.rst:27
+#: ../../variable/Q936.rst:27
 msgid "夫の苗字になりたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q936.rst:29
+#: ../../variable/Q936.rst:29
 msgid "それぞれ結婚前の苗字でいたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q936.rst:31
+#: ../../variable/Q936.rst:31
 msgid "夫に私の苗字になってもらいたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q936.rst:38
+#: ../../variable/Q936.rst:38
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q936.rst:44
+#: ../../variable/Q936.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q936.rst:50
+#: ../../variable/Q936.rst:50
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q936.rst:51
+#: ../../variable/Q936.rst:51
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q936.rst:56
+#: ../../variable/Q936.rst:56
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q936.rst:62
+#: ../../variable/Q936.rst:62
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q936.rst:67
+#: ../../variable/Q936.rst:67
 msgid "p4_4"
 msgstr ""
 

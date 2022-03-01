@@ -20,14 +20,14 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.2.4\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/ryokou.rst:3
+#: ../../dailylife/seikatsu_koudou/ryokou.rst:3
 msgid "旅行"
 msgstr "Trip"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/ryokou.rst:6
+#: ../../dailylife/seikatsu_koudou/ryokou.rst:6
 msgid "国内"
 msgstr "Domestic"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_koudou/ryokou.rst:16
+#: ../../dailylife/seikatsu_koudou/ryokou.rst:16
 msgid "海外"
 msgstr "Overseas"

@@ -17,91 +17,91 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:4
+#: ../../multi_var/Q981.rst:4
 msgid "インターネットの利用について"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:8
+#: ../../multi_var/Q981.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:9
+#: ../../multi_var/Q981.rst:9
 msgid "あなたご自身はインターネットを利用していますか。（〇は１つだけ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:13
+#: ../../multi_var/Q981.rst:13
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:1
+#: ../../multi_var/Q981.rst:1
 msgid "1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:1
+#: ../../multi_var/Q981.rst:1
 msgid "自宅でのみ利用している（携帯電話などからの利用も含みます）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:1
+#: ../../multi_var/Q981.rst:1
 msgid "Q981A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:1
+#: ../../multi_var/Q981.rst:1
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:1
+#: ../../multi_var/Q981.rst:1
 msgid "職場・学校でのみ利用している"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:1
+#: ../../multi_var/Q981.rst:1
 msgid "Q981B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:1
+#: ../../multi_var/Q981.rst:1
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:1
+#: ../../multi_var/Q981.rst:1
 msgid "自宅（携帯電話などからの利用も含みます）と職場・学校の両方で利用している"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:1
+#: ../../multi_var/Q981.rst:1
 msgid "Q981C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:1
+#: ../../multi_var/Q981.rst:1
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:1
+#: ../../multi_var/Q981.rst:1
 msgid "その他の場所で利用している"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:1
+#: ../../multi_var/Q981.rst:1
 msgid "Q981D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:1
+#: ../../multi_var/Q981.rst:1
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:1
+#: ../../multi_var/Q981.rst:1
 msgid "利用していない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:1
+#: ../../multi_var/Q981.rst:1
 msgid "Q981E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:27
+#: ../../multi_var/Q981.rst:27
 msgid "現在の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:40
+#: ../../multi_var/Q981.rst:40
 msgid "過去の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q981.rst:47
+#: ../../multi_var/Q981.rst:47
 msgid "備考"
 msgstr "Remarks"
 

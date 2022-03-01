@@ -17,88 +17,88 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:5
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:26
+#: ../../variable/Q981A.rst:5
+#: ../../variable/Q981A.rst:26
 msgid "1.自宅でのみ利用している（携帯電話などからの利用も含みます）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:9
+#: ../../variable/Q981A.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:11
+#: ../../variable/Q981A.rst:11
 msgid "Q981A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:15
+#: ../../variable/Q981A.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:18
+#: ../../variable/Q981A.rst:18
 msgid "あなたご自身はインターネットを利用していますか。（〇は１つだけ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:24
+#: ../../variable/Q981A.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:32
+#: ../../variable/Q981A.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:38
+#: ../../variable/Q981A.rst:38
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:44
+#: ../../variable/Q981A.rst:44
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:45
+#: ../../variable/Q981A.rst:45
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:50
+#: ../../variable/Q981A.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:56
+#: ../../variable/Q981A.rst:56
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:61
+#: ../../variable/Q981A.rst:61
 msgid "p8_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:63
+#: ../../variable/Q981A.rst:63
 msgid "p9_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:65
+#: ../../variable/Q981A.rst:65
 msgid "p10_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:67
+#: ../../variable/Q981A.rst:67
 msgid "p11ab_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:69
+#: ../../variable/Q981A.rst:69
 msgid "p11c_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:71
+#: ../../variable/Q981A.rst:71
 msgid "p12_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:73
+#: ../../variable/Q981A.rst:73
 msgid "p13_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:75
+#: ../../variable/Q981A.rst:75
 msgid "p14_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q981A.rst:77
+#: ../../variable/Q981A.rst:77
 msgid "p15_5"
 msgstr ""
 

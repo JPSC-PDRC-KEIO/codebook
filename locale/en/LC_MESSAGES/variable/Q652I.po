@@ -17,101 +17,101 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:5
+#: ../../variable/Q652I.rst:5
 msgid "刺激を受ける友人数（男性）・合計"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:9
+#: ../../variable/Q652I.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:11
+#: ../../variable/Q652I.rst:11
 msgid "Q652I"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:15
+#: ../../variable/Q652I.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:18
+#: ../../variable/Q652I.rst:18
 msgid ""
 "そのうち、以下のことができる友人は何人いますか。1人の友人が両方にあてはまるときは、両方で人数に入れてください。;　"
 ";視野が広がり、刺激を受けるような話ができる友人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:24
+#: ../../variable/Q652I.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:26
+#: ../../variable/Q652I.rst:26
 msgid "＿＿＿人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:32
+#: ../../variable/Q652I.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:33
+#: ../../variable/Q652I.rst:33
 msgid "998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:38
+#: ../../variable/Q652I.rst:38
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:44
+#: ../../variable/Q652I.rst:44
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:45
+#: ../../variable/Q652I.rst:45
 msgid "999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:50
+#: ../../variable/Q652I.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:56
+#: ../../variable/Q652I.rst:56
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:61
+#: ../../variable/Q652I.rst:61
 msgid "p2_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:63
+#: ../../variable/Q652I.rst:63
 msgid "p3_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:65
+#: ../../variable/Q652I.rst:65
 msgid "p4_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:67
+#: ../../variable/Q652I.rst:67
 msgid "p5a_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:69
+#: ../../variable/Q652I.rst:69
 msgid "p5b_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:71
+#: ../../variable/Q652I.rst:71
 msgid "p6_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:73
+#: ../../variable/Q652I.rst:73
 msgid "p7_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:75
+#: ../../variable/Q652I.rst:75
 msgid "p8_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:77
+#: ../../variable/Q652I.rst:77
 msgid "p9_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q652I.rst:79
+#: ../../variable/Q652I.rst:79
 msgid "p10_4"
 msgstr ""
 

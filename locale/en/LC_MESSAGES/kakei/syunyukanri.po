@@ -19,33 +19,33 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/syunyukanri.rst:3
+#: ../../kakei/syunyukanri.rst:3
 msgid "収入管理"
 msgstr "Income management"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/syunyukanri.rst:6
+#: ../../kakei/syunyukanri.rst:6
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/syunyukanri.rst:8
+#: ../../kakei/syunyukanri.rst:8
 msgid "お宅の月々の収入管理タイプについてうかがいます。"
 msgstr ""
 "Please answer the following questions about income management in your "
 "household."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/syunyukanri.rst:10
+#: ../../kakei/syunyukanri.rst:10
 msgid "↓ここからスタートし。それぞれ該当する矢印の方に進んで、たどりついたタイプの番号に〇をつけてください。また、＿＿＿のところに金額を記入してください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/syunyukanri.rst:12
+#: ../../kakei/syunyukanri.rst:12
 msgid "図中に「収入を渡す」ということばが出てきますが、「収入を渡す」とは「管理を任せる」という意味に解釈して下さい。もちろん、「現金を渡す」という意味も含みます。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/syunyukanri.rst:16
+#: ../../kakei/syunyukanri.rst:16
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/syunyukanri.rst:18
+#: ../../kakei/syunyukanri.rst:18
 msgid "*収入管理タイプ*"
 msgstr ""
 

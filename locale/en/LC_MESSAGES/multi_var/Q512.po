@@ -17,71 +17,71 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q512.rst:3
+#: ../../multi_var/Q512.rst:3
 msgid "出産のための条件"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q512.rst:7
+#: ../../multi_var/Q512.rst:7
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q512.rst:8
+#: ../../multi_var/Q512.rst:8
 msgid "（子どもが欲しい）条件とは何ですか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q512.rst:1
+#: ../../multi_var/Q512.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q512.rst:1
+#: ../../multi_var/Q512.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q512.rst:1
+#: ../../multi_var/Q512.rst:1
 msgid "生活費に余裕ができたら"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q512.rst:1
+#: ../../multi_var/Q512.rst:1
 msgid ":doc:`Q512A </variable/Q512A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q512.rst:1
+#: ../../multi_var/Q512.rst:1
 msgid "住居が広くなったら"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q512.rst:1
+#: ../../multi_var/Q512.rst:1
 msgid ":doc:`Q512B </variable/Q512B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q512.rst:1
+#: ../../multi_var/Q512.rst:1
 msgid "仕事を続けられるなら"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q512.rst:1
+#: ../../multi_var/Q512.rst:1
 msgid ":doc:`Q512C </variable/Q512C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q512.rst:1
+#: ../../multi_var/Q512.rst:1
 msgid "夫や家族が協力してくれるなら"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q512.rst:1
+#: ../../multi_var/Q512.rst:1
 msgid ":doc:`Q512D </variable/Q512D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q512.rst:1
+#: ../../multi_var/Q512.rst:1
 msgid "保育所や保育ママさんなどの社会制度が利用できれば"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q512.rst:1
+#: ../../multi_var/Q512.rst:1
 msgid ":doc:`Q512E </variable/Q512E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q512.rst:1
+#: ../../multi_var/Q512.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q512.rst:1
+#: ../../multi_var/Q512.rst:1
 msgid ":doc:`Q512F </variable/Q512F>`"
 msgstr ""
 

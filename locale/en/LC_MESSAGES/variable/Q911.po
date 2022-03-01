@@ -17,75 +17,75 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q911.rst:5
+#: ../../variable/Q911.rst:5
 msgid "望ましい「価格破壊」現象の方向性"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q911.rst:9
+#: ../../variable/Q911.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q911.rst:11
+#: ../../variable/Q911.rst:11
 msgid "Q911"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q911.rst:15
+#: ../../variable/Q911.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q911.rst:18
+#: ../../variable/Q911.rst:18
 msgid "「価格破壊」という現象が、どうなっていくのが好ましいと思いますか。（〇は１つ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q911.rst:24
+#: ../../variable/Q911.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q911.rst:27
+#: ../../variable/Q911.rst:27
 msgid "大いに進んだ方がよい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q911.rst:29
+#: ../../variable/Q911.rst:29
 msgid "ある程度進んだ方がよい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q911.rst:31
+#: ../../variable/Q911.rst:31
 msgid "今の程度でよい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q911.rst:33
+#: ../../variable/Q911.rst:33
 msgid "あまり進むのは好ましくない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q911.rst:35
+#: ../../variable/Q911.rst:35
 msgid "そもそも「価格破壊」という現象は必要ない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q911.rst:42
+#: ../../variable/Q911.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q911.rst:48
+#: ../../variable/Q911.rst:48
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q911.rst:54
+#: ../../variable/Q911.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q911.rst:55
+#: ../../variable/Q911.rst:55
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q911.rst:60
+#: ../../variable/Q911.rst:60
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q911.rst:66
+#: ../../variable/Q911.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q911.rst:71
+#: ../../variable/Q911.rst:71
 msgid "p3_4"
 msgstr ""
 

@@ -20,10 +20,10 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyohenka.rst:3
+#: ../../syugyo/syugyohenka.rst:3
 msgid "就業上の変化"
 msgstr "Changes in warking"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syugyohenka.rst:6
+#: ../../syugyo/syugyohenka.rst:6
 msgid "就業に関する1年間の変化を聞いています。"
 msgstr "This items are heared about changes in respondent's job occared in a year."

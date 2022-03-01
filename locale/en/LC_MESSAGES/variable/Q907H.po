@@ -17,87 +17,87 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:5
+#: ../../variable/Q907H.rst:5
 msgid "「価格破壊商品｣購入先・バッグ・鞄類"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:9
+#: ../../variable/Q907H.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:11
+#: ../../variable/Q907H.rst:11
 msgid "Q907H"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:15
+#: ../../variable/Q907H.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:18
+#: ../../variable/Q907H.rst:18
 msgid "その商品の購入先はどこですか。（〇はそれぞれ１つ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:24
+#: ../../variable/Q907H.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:27
+#: ../../variable/Q907H.rst:27
 msgid "一般小売店"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:29
+#: ../../variable/Q907H.rst:29
 msgid "スーパー"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:31
+#: ../../variable/Q907H.rst:31
 msgid "ディスカウントストア"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:33
+#: ../../variable/Q907H.rst:33
 msgid "コンビニエンスストア"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:35
+#: ../../variable/Q907H.rst:35
 msgid "デパート"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:37
+#: ../../variable/Q907H.rst:37
 msgid "通信販売"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:39
+#: ../../variable/Q907H.rst:39
 msgid "その他（　　　　　　　　　　）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:46
+#: ../../variable/Q907H.rst:46
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:52
+#: ../../variable/Q907H.rst:52
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:58
+#: ../../variable/Q907H.rst:58
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:59
+#: ../../variable/Q907H.rst:59
 msgid "8"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:64
+#: ../../variable/Q907H.rst:64
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:70
+#: ../../variable/Q907H.rst:70
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:75
+#: ../../variable/Q907H.rst:75
 msgid "p3_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q907H.rst:77
+#: ../../variable/Q907H.rst:77
 msgid "p6_4"
 msgstr ""
 

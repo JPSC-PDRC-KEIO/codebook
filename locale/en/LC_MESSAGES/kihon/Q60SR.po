@@ -20,59 +20,59 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:3
+#: ../../kihon/Q60SR.rst:3
 msgid "最終学歴"
 msgstr "Educational achievement at the last school attended"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:7
+#: ../../kihon/Q60SR.rst:7
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:9
+#: ../../kihon/Q60SR.rst:9
 msgid "Q60SR"
 msgstr "Q60SR"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:12
+#: ../../kihon/Q60SR.rst:12
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:15
+#: ../../kihon/Q60SR.rst:15
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:17
+#: ../../kihon/Q60SR.rst:17
 msgid "中学校"
 msgstr "Junior high school."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:18
+#: ../../kihon/Q60SR.rst:18
 msgid "専門・専修（高校卒せず専門・専修学校卒業）"
 msgstr "Vocational school or  Specialized Training College (non-tertiary education)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:19
+#: ../../kihon/Q60SR.rst:19
 msgid "高校"
 msgstr "High school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:20
+#: ../../kihon/Q60SR.rst:20
 msgid "専門・専修（高校卒して専門・専修学校卒業）"
 msgstr "Vocational school or Specialized training college (tertiary education)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:21
+#: ../../kihon/Q60SR.rst:21
 msgid "短大・高専"
 msgstr "Junior college or Colleges of Technology (KOSEN)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:22
+#: ../../kihon/Q60SR.rst:22
 msgid "大学（4年制）"
 msgstr "Collage or University (4years)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:23
+#: ../../kihon/Q60SR.rst:23
 msgid "大学院"
 msgstr "Graduate school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:26
+#: ../../kihon/Q60SR.rst:26
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q60SR.rst:28
+#: ../../kihon/Q60SR.rst:28
 msgid "中退を含まない学歴"
 msgstr "Does not include dropouts"
 

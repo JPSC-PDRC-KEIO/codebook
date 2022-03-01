@@ -17,99 +17,99 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:5
+#: ../../variable/Q687.rst:5
 msgid "最終学歴（配偶者）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:9
+#: ../../variable/Q687.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:11
+#: ../../variable/Q687.rst:11
 msgid "Q687"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:15
+#: ../../variable/Q687.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:18
+#: ../../variable/Q687.rst:18
 msgid "ご主人が最後に卒業した学校はどちらですか。（中退は卒業に含めないでください）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:24
+#: ../../variable/Q687.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:27
+#: ../../variable/Q687.rst:27
 msgid "中学校"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:29
+#: ../../variable/Q687.rst:29
 msgid "高等学校（大検・高卒認定）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:31
+#: ../../variable/Q687.rst:31
 msgid "専門学校・専修学校"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:33
+#: ../../variable/Q687.rst:33
 msgid "短大"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:35
+#: ../../variable/Q687.rst:35
 msgid "高専"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:37
+#: ../../variable/Q687.rst:37
 msgid "4年制大学（医・歯学部を含む）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:39
+#: ../../variable/Q687.rst:39
 msgid "大学院"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:41
+#: ../../variable/Q687.rst:41
 msgid "その他（　　）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:48
+#: ../../variable/Q687.rst:48
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:54
+#: ../../variable/Q687.rst:54
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:60
+#: ../../variable/Q687.rst:60
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:61
+#: ../../variable/Q687.rst:61
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:66
+#: ../../variable/Q687.rst:66
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:72
+#: ../../variable/Q687.rst:72
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:77
+#: ../../variable/Q687.rst:77
 msgid "p1_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:79
+#: ../../variable/Q687.rst:79
 msgid "p2_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:81
+#: ../../variable/Q687.rst:81
 msgid "p3_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q687.rst:83
+#: ../../variable/Q687.rst:83
 msgid "p4_5"
 msgstr ""
 

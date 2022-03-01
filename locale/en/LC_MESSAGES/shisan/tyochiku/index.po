@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.2.4\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/index.rst:3
+#: ../../shisan/tyochiku/index.rst:3
 msgid "貯蓄"
 msgstr "Savings"

@@ -20,86 +20,86 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:5
+#: ../../variable/P18.rst:5
 msgid "大学の卒業"
 msgstr "Graduation from college or university"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:9
+#: ../../variable/P18.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:11
+#: ../../variable/P18.rst:11
 msgid "P18"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:15
+#: ../../variable/P18.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:18
+#: ../../variable/P18.rst:18
 msgid "大学には行きましたか。（在学中を含む）"
 msgstr "Did you go to college or university? (includes those who are currently attending.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:24
+#: ../../variable/P18.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:27
+#: ../../variable/P18.rst:27
 msgid "卒業した"
 msgstr "Graduated"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:29
+#: ../../variable/P18.rst:29
 msgid "中退した"
 msgstr "Dropped out"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:31
+#: ../../variable/P18.rst:31
 msgid "在学中"
 msgstr "Attending now"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:33
+#: ../../variable/P18.rst:33
 msgid "行かなかった"
 msgstr "Didn't go"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:40
+#: ../../variable/P18.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:46
+#: ../../variable/P18.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:52
+#: ../../variable/P18.rst:52
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:53
+#: ../../variable/P18.rst:53
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:58
+#: ../../variable/P18.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:64
+#: ../../variable/P18.rst:64
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:69
+#: ../../variable/P18.rst:69
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:71
+#: ../../variable/P18.rst:71
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:73
+#: ../../variable/P18.rst:73
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:75
+#: ../../variable/P18.rst:75
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P18.rst:77
+#: ../../variable/P18.rst:77
 msgid "p21e_1"
 msgstr ""

@@ -17,63 +17,63 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1008E.rst:5
+#: ../../variable/Q1008E.rst:5
 msgid "購入予定金額・デジタルカメラ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1008E.rst:9
+#: ../../variable/Q1008E.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1008E.rst:11
+#: ../../variable/Q1008E.rst:11
 msgid "Q1008E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1008E.rst:15
+#: ../../variable/Q1008E.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1008E.rst:18
+#: ../../variable/Q1008E.rst:18
 msgid "2～3年の間に、購入したいと思っているものに〇をつけ、購入台数と購入金額を記入して下さい。（2台以上購入したい場合には、合計金額を記入してください。）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1008E.rst:24
+#: ../../variable/Q1008E.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1008E.rst:26
+#: ../../variable/Q1008E.rst:26
 msgid "＿ ＿ 万円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1008E.rst:32
+#: ../../variable/Q1008E.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1008E.rst:33
+#: ../../variable/Q1008E.rst:33
 msgid "98"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1008E.rst:38
+#: ../../variable/Q1008E.rst:38
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1008E.rst:44
+#: ../../variable/Q1008E.rst:44
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1008E.rst:45
+#: ../../variable/Q1008E.rst:45
 msgid "99"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1008E.rst:50
+#: ../../variable/Q1008E.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1008E.rst:56
+#: ../../variable/Q1008E.rst:56
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1008E.rst:61
+#: ../../variable/Q1008E.rst:61
 msgid "p10_3"
 msgstr ""
 

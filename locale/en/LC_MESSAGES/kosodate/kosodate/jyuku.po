@@ -17,107 +17,107 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:3
+#: ../../kosodate/kosodate/jyuku.rst:3
 msgid "子どもの学習塾等利用"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:7
+#: ../../kosodate/kosodate/jyuku.rst:7
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:8
+#: ../../kosodate/kosodate/jyuku.rst:8
 msgid "中学生以下のお子さんのうち一番年上のお子さんはは学習塾や予備校（家庭教師を含む）、英会話等に通っていますか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:55
+#: ../../kosodate/kosodate/jyuku.rst:55
 msgid "その理由"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid "学校（幼稚園）の成績が良くなると思うから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid ":doc:`Q524A </variable/Q524A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid "学校（幼稚園）の成績が悪いので、補習のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid ":doc:`Q524B </variable/Q524B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid "学校（幼稚園）の授業内容では不十分だと思うので"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid ":doc:`Q524C </variable/Q524C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid "受験をさせるため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid ":doc:`Q524D </variable/Q524D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid "通わせないと不安だから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid ":doc:`Q524E </variable/Q524E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid "ほかの子が通っているから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid ":doc:`Q524F </variable/Q524F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid "本人が行きたいといっているので"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid ":doc:`Q524G </variable/Q524G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid "時間が余っているから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid ":doc:`Q524H </variable/Q524H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:1
+#: ../../kosodate/kosodate/jyuku.rst:1
 msgid ":doc:`Q524I </variable/Q524I>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:73
+#: ../../kosodate/kosodate/jyuku.rst:73
 msgid "結果の評価"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/jyuku.rst:83
+#: ../../kosodate/kosodate/jyuku.rst:83
 msgid "今後の利用意向"
 msgstr ""
 

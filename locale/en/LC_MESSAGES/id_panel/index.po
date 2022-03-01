@@ -18,6 +18,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Language: ja_JP\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/id_panel/index.rst:3
+#: ../../id_panel/index.rst:3
 msgid "データ識別用の変数"
 msgstr "Variable for data identification"

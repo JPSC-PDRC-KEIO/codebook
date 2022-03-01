@@ -17,43 +17,43 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:3
+#: ../../syakunyu/credit_card/past/card_maisu.rst:3
 msgid "クレジットカードの利用枚数（親名義）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:6
+#: ../../syakunyu/credit_card/past/card_maisu.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:8
+#: ../../syakunyu/credit_card/past/card_maisu.rst:8
 msgid "支払名義人別に何枚お持ちですか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:1
+#: ../../syakunyu/credit_card/past/card_maisu.rst:1
 msgid "実親の名義"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:1
+#: ../../syakunyu/credit_card/past/card_maisu.rst:1
 msgid "義親の名義"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:1
+#: ../../syakunyu/credit_card/past/card_maisu.rst:1
 msgid "有配偶"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:1
+#: ../../syakunyu/credit_card/past/card_maisu.rst:1
 msgid ":doc:`Q442A</variable/Q442A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:1
+#: ../../syakunyu/credit_card/past/card_maisu.rst:1
 msgid ":doc:`Q443A</variable/Q443A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:1
+#: ../../syakunyu/credit_card/past/card_maisu.rst:1
 msgid "無配偶"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/credit_card/past/card_maisu.rst:1
+#: ../../syakunyu/credit_card/past/card_maisu.rst:1
 msgid "─"
 msgstr ""
 

@@ -20,82 +20,82 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:5
+#: ../../variable/P32.rst:5
 msgid "引越し回数"
 msgstr "Number of moves"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:9
+#: ../../variable/P32.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:11
+#: ../../variable/P32.rst:11
 msgid "P32"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:15
+#: ../../variable/P32.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:18
+#: ../../variable/P32.rst:18
 msgid "あなたは中学を卒業してから引っ越し（結婚の際の転居も含みます）をしたことがありますか。"
 msgstr "Did you move house in the past year? (Including because of getting married.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:21
+#: ../../variable/P32.rst:21
 msgid "何回しましたか。"
 msgstr "How many times have you moved since graduating from junior high school?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:27
+#: ../../variable/P32.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:29
+#: ../../variable/P32.rst:29
 msgid "＿＿回"
 msgstr "＿＿times"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:35
+#: ../../variable/P32.rst:35
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:36
+#: ../../variable/P32.rst:36
 msgid "98"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:41
+#: ../../variable/P32.rst:41
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:47
+#: ../../variable/P32.rst:47
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:48
+#: ../../variable/P32.rst:48
 msgid "99"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:53
+#: ../../variable/P32.rst:53
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:59
+#: ../../variable/P32.rst:59
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:64
+#: ../../variable/P32.rst:64
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:66
+#: ../../variable/P32.rst:66
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:68
+#: ../../variable/P32.rst:68
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:70
+#: ../../variable/P32.rst:70
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P32.rst:72
+#: ../../variable/P32.rst:72
 msgid "p21e_1"
 msgstr ""

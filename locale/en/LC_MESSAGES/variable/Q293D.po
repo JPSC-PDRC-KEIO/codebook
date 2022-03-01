@@ -17,83 +17,83 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:5
+#: ../../variable/Q293D.rst:5
 msgid "支出月額：生活費支出（本人のキャリアアップ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:9
+#: ../../variable/Q293D.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:11
+#: ../../variable/Q293D.rst:11
 msgid "Q293D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:15
+#: ../../variable/Q293D.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:18
+#: ../../variable/Q293D.rst:18
 msgid "お宅では、この9月にどのくらい支出、貯蓄（生命保険などの保険料の支払いを含む）、ローン返済をしましたか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:21
+#: ../../variable/Q293D.rst:21
 msgid "妻のための支出のうちキャリアアップのための支出（資格取得や職業のため）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:27
+#: ../../variable/Q293D.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:29
+#: ../../variable/Q293D.rst:29
 msgid "＿ ＿ 万 ＿ 千円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:35
+#: ../../variable/Q293D.rst:35
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:36
+#: ../../variable/Q293D.rst:36
 msgid "998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:41
+#: ../../variable/Q293D.rst:41
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:47
+#: ../../variable/Q293D.rst:47
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:48
+#: ../../variable/Q293D.rst:48
 msgid "999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:53
+#: ../../variable/Q293D.rst:53
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:59
+#: ../../variable/Q293D.rst:59
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:64
+#: ../../variable/Q293D.rst:64
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:66
+#: ../../variable/Q293D.rst:66
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:68
+#: ../../variable/Q293D.rst:68
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:70
+#: ../../variable/Q293D.rst:70
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:72
+#: ../../variable/Q293D.rst:72
 msgid "p5b_1"
 msgstr ""
 

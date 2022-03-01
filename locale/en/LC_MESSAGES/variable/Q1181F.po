@@ -17,87 +17,87 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:5
+#: ../../variable/Q1181F.rst:5
 msgid "消費税８％への対策：家電や自動車などを見直す"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:9
+#: ../../variable/Q1181F.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:11
+#: ../../variable/Q1181F.rst:11
 msgid "Q1181F"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:15
+#: ../../variable/Q1181F.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:18
+#: ../../variable/Q1181F.rst:18
 msgid "消費税が増税になったら、お宅ではどのような対応をするつもりですか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:21
+#: ../../variable/Q1181F.rst:21
 msgid "家電や自動車などの高額商品の購入を前倒し、あるいは見直す"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:27
+#: ../../variable/Q1181F.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:30
+#: ../../variable/Q1181F.rst:30
 msgid "かならずやる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:32
+#: ../../variable/Q1181F.rst:32
 msgid "たぶんやる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:34
+#: ../../variable/Q1181F.rst:34
 msgid "たぶんやらない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:36
+#: ../../variable/Q1181F.rst:36
 msgid "やるつもりはない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:38
+#: ../../variable/Q1181F.rst:38
 msgid "まだわからない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:45
+#: ../../variable/Q1181F.rst:45
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:51
+#: ../../variable/Q1181F.rst:51
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:57
+#: ../../variable/Q1181F.rst:57
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:58
+#: ../../variable/Q1181F.rst:58
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:63
+#: ../../variable/Q1181F.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:69
+#: ../../variable/Q1181F.rst:69
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:74
+#: ../../variable/Q1181F.rst:74
 msgid "p20_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:76
+#: ../../variable/Q1181F.rst:76
 msgid "p21abcd_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1181F.rst:78
+#: ../../variable/Q1181F.rst:78
 msgid "p21e_3"
 msgstr ""
 

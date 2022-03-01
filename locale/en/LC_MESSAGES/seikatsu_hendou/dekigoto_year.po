@@ -20,10 +20,10 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_year.rst:3
+#: ../../seikatsu_hendou/dekigoto_year.rst:3
 msgid "１年間の出来事"
 msgstr "Events happened in the past year"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto_year.rst:13
+#: ../../seikatsu_hendou/dekigoto_year.rst:13
 msgid "子どもの入学準備費用についての質問は 「:doc:`/kosodate/kosodate/kyouiku`」 にまとめています。"
 msgstr "Questions about preparatory costs for children are summarized in :doc:`About Children's Education </kosodate/kosodate/kyouiku>`."

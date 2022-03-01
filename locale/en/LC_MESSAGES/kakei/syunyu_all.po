@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/syunyu_all.rst:3
+#: ../../kakei/syunyu_all.rst:3
 msgid "収入"
 msgstr "Income"

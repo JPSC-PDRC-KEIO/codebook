@@ -17,63 +17,63 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q269.rst:3
+#: ../../multi_var/Q269.rst:3
 msgid "求職活動（配偶者無職）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q269.rst:7
+#: ../../multi_var/Q269.rst:7
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q269.rst:8
+#: ../../multi_var/Q269.rst:8
 msgid "そのために何らかの活動をしていますか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q269.rst:1
+#: ../../multi_var/Q269.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q269.rst:1
+#: ../../multi_var/Q269.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q269.rst:1
+#: ../../multi_var/Q269.rst:1
 msgid "具体的な求職活動をしている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q269.rst:1
+#: ../../multi_var/Q269.rst:1
 msgid ":doc:`Q269A </variable/Q269A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q269.rst:1
+#: ../../multi_var/Q269.rst:1
 msgid "そろそろ具体的な求職活動をしようと思っている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q269.rst:1
+#: ../../multi_var/Q269.rst:1
 msgid ":doc:`Q269B </variable/Q269B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q269.rst:1
+#: ../../multi_var/Q269.rst:1
 msgid "職業訓練を受けている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q269.rst:1
+#: ../../multi_var/Q269.rst:1
 msgid ":doc:`Q269C </variable/Q269C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q269.rst:1
+#: ../../multi_var/Q269.rst:1
 msgid "そろそろ職業訓練を受けようと思っている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q269.rst:1
+#: ../../multi_var/Q269.rst:1
 msgid ":doc:`Q269D </variable/Q269D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q269.rst:1
+#: ../../multi_var/Q269.rst:1
 msgid "漠然と考えているだけ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q269.rst:1
+#: ../../multi_var/Q269.rst:1
 msgid ":doc:`Q269E </variable/Q269E>`"
 msgstr ""
 

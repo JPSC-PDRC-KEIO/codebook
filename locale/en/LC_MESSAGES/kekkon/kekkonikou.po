@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/kekkonikou.rst:3
+#: ../../kekkon/kekkonikou.rst:3
 msgid "結婚への意向や希望について"
 msgstr "Intentions and hopes for marriage"

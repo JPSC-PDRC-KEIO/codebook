@@ -17,107 +17,107 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:5
+#: ../../variable/P71.rst:5
 msgid "初職の職業〔第1回〕"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:9
+#: ../../variable/P71.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:11
+#: ../../variable/P71.rst:11
 msgid "P71"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:15
+#: ../../variable/P71.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:18
+#: ../../variable/P71.rst:18
 msgid "あなたがはじめてついた職業は何ですか。具体的にご記入のうえ、〇を付けてください。(〇は１つ)"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:24
+#: ../../variable/P71.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:27
+#: ../../variable/P71.rst:27
 msgid "農林漁業（自営者）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:29
+#: ../../variable/P71.rst:29
 msgid "農林漁業（家族従業者）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:31
+#: ../../variable/P71.rst:31
 msgid "小規模〔9人以下〕の商業・工業・サービス業（自営者）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:33
+#: ../../variable/P71.rst:33
 msgid "小規模〔9人以下〕の商業・工業・サービス業（家族従業者）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:35
+#: ../../variable/P71.rst:35
 msgid "自由業"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:37
+#: ../../variable/P71.rst:37
 msgid "管理職"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:39
+#: ../../variable/P71.rst:39
 msgid "専門職"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:41
+#: ../../variable/P71.rst:41
 msgid "技術職"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:43
+#: ../../variable/P71.rst:43
 msgid "教員"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:45
+#: ../../variable/P71.rst:45
 msgid "事務職"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:47
+#: ../../variable/P71.rst:47
 msgid "技能・作業職"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:49
+#: ../../variable/P71.rst:49
 msgid "販売サービス職"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:51
+#: ../../variable/P71.rst:51
 msgid "自宅で賃仕事"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:53
+#: ../../variable/P71.rst:53
 msgid "その他の職業"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:60
+#: ../../variable/P71.rst:60
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:66
+#: ../../variable/P71.rst:66
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:72
+#: ../../variable/P71.rst:72
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:78
+#: ../../variable/P71.rst:78
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:84
+#: ../../variable/P71.rst:84
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P71.rst:89
+#: ../../variable/P71.rst:89
 msgid "p1_3"
 msgstr ""
 

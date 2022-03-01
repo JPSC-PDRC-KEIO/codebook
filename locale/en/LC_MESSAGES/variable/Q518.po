@@ -17,127 +17,127 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:5
+#: ../../variable/Q518.rst:5
 msgid "子どもの教育希望"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:9
+#: ../../variable/Q518.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:11
+#: ../../variable/Q518.rst:11
 msgid "Q518"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:15
+#: ../../variable/Q518.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:18
+#: ../../variable/Q518.rst:18
 msgid "子どもに、将来、どこまで教育を受けさせたいですか。（〇は１つだけ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:24
+#: ../../variable/Q518.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:27
+#: ../../variable/Q518.rst:27
 msgid "定評のある大学（4年制）に進学させたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:29
+#: ../../variable/Q518.rst:29
 msgid "どこの大学でもよいから、大学（4年制）に進学させたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:31
+#: ../../variable/Q518.rst:31
 msgid "短大に進学させたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:33
+#: ../../variable/Q518.rst:33
 msgid "専門学校に進学させたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:35
+#: ../../variable/Q518.rst:35
 msgid "高校までは進学させたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:37
+#: ../../variable/Q518.rst:37
 msgid "本人次第"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:44
+#: ../../variable/Q518.rst:44
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:50
+#: ../../variable/Q518.rst:50
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:56
+#: ../../variable/Q518.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:57
+#: ../../variable/Q518.rst:57
 msgid "7"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:62
+#: ../../variable/Q518.rst:62
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:68
+#: ../../variable/Q518.rst:68
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:73
+#: ../../variable/Q518.rst:73
 msgid "p2_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:75
+#: ../../variable/Q518.rst:75
 msgid "p5a_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:77
+#: ../../variable/Q518.rst:77
 msgid "p5b_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:79
+#: ../../variable/Q518.rst:79
 msgid "p8_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:81
+#: ../../variable/Q518.rst:81
 msgid "p11c_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:83
+#: ../../variable/Q518.rst:83
 msgid "p12_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:85
+#: ../../variable/Q518.rst:85
 msgid "p13_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:87
+#: ../../variable/Q518.rst:87
 msgid "p14_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:89
+#: ../../variable/Q518.rst:89
 msgid "p15_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:91
+#: ../../variable/Q518.rst:91
 msgid "p16abc_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:93
+#: ../../variable/Q518.rst:93
 msgid "p16d_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:95
+#: ../../variable/Q518.rst:95
 msgid "p17_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q518.rst:97
+#: ../../variable/Q518.rst:97
 msgid "p18_3"
 msgstr ""
 

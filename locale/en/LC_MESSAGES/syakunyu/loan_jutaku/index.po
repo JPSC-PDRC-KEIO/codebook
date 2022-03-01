@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.2.4\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_jutaku/index.rst:3
+#: ../../syakunyu/loan_jutaku/index.rst:3
 msgid "住宅ローン"
 msgstr "Housing loan"

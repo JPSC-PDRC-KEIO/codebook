@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/zeisyakaihoken.rst:3
+#: ../../kakei/zeisyakaihoken.rst:3
 msgid "税と社会保険"
 msgstr "Tax and social insurance"

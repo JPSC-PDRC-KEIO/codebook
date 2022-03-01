@@ -17,107 +17,107 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:5
+#: ../../variable/Q654B.rst:5
 msgid "求める友人の性別・（2）悩みを打ち明けて話せる友人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:9
+#: ../../variable/Q654B.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:11
+#: ../../variable/Q654B.rst:11
 msgid "Q654B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:15
+#: ../../variable/Q654B.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:18
+#: ../../variable/Q654B.rst:18
 msgid "（1）で〇のついた友人は男女どちらがいいですか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:24
+#: ../../variable/Q654B.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:27
+#: ../../variable/Q654B.rst:27
 msgid "女"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:29
+#: ../../variable/Q654B.rst:29
 msgid "男"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:31
+#: ../../variable/Q654B.rst:31
 msgid "両方"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:33
+#: ../../variable/Q654B.rst:33
 msgid "どちらでもいい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:40
+#: ../../variable/Q654B.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:46
+#: ../../variable/Q654B.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:52
+#: ../../variable/Q654B.rst:52
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:53
+#: ../../variable/Q654B.rst:53
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:58
+#: ../../variable/Q654B.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:64
+#: ../../variable/Q654B.rst:64
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:69
+#: ../../variable/Q654B.rst:69
 msgid "p2_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:71
+#: ../../variable/Q654B.rst:71
 msgid "p3_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:73
+#: ../../variable/Q654B.rst:73
 msgid "p4_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:75
+#: ../../variable/Q654B.rst:75
 msgid "p5a_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:77
+#: ../../variable/Q654B.rst:77
 msgid "p5b_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:79
+#: ../../variable/Q654B.rst:79
 msgid "p6_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:81
+#: ../../variable/Q654B.rst:81
 msgid "p7_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:83
+#: ../../variable/Q654B.rst:83
 msgid "p8_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:85
+#: ../../variable/Q654B.rst:85
 msgid "p9_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q654B.rst:87
+#: ../../variable/Q654B.rst:87
 msgid "p10_4"
 msgstr ""
 

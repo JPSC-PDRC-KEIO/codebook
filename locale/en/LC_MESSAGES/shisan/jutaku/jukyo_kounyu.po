@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/jukyo_kounyu.rst:3
+#: ../../shisan/jutaku/jukyo_kounyu.rst:3
 msgid "土地・住宅の購入"
 msgstr ""
 

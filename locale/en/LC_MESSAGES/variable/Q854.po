@@ -17,123 +17,123 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:5
+#: ../../variable/Q854.rst:5
 msgid "住居以外の不動産の売却価格"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:9
+#: ../../variable/Q854.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:11
+#: ../../variable/Q854.rst:11
 msgid "Q854"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:15
+#: ../../variable/Q854.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:18
+#: ../../variable/Q854.rst:18
 msgid "その売却価格はいくらでしたか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:24
+#: ../../variable/Q854.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:26
+#: ../../variable/Q854.rst:26
 msgid "＿ 億 ＿ ＿ ＿ 0 万円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:32
+#: ../../variable/Q854.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:33
+#: ../../variable/Q854.rst:33
 msgid "9998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:38
+#: ../../variable/Q854.rst:38
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:44
+#: ../../variable/Q854.rst:44
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:45
+#: ../../variable/Q854.rst:45
 msgid "9999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:50
+#: ../../variable/Q854.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:56
+#: ../../variable/Q854.rst:56
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:61
+#: ../../variable/Q854.rst:61
 msgid "p5a_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:63
+#: ../../variable/Q854.rst:63
 msgid "p5b_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:65
+#: ../../variable/Q854.rst:65
 msgid "p7_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:67
+#: ../../variable/Q854.rst:67
 msgid "p10_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:69
+#: ../../variable/Q854.rst:69
 msgid "p11ab_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:71
+#: ../../variable/Q854.rst:71
 msgid "p11c_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:73
+#: ../../variable/Q854.rst:73
 msgid "p12_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:75
+#: ../../variable/Q854.rst:75
 msgid "p13_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:77
+#: ../../variable/Q854.rst:77
 msgid "p14_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:79
+#: ../../variable/Q854.rst:79
 msgid "p15_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:81
+#: ../../variable/Q854.rst:81
 msgid "p16abc_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:83
+#: ../../variable/Q854.rst:83
 msgid "p16d_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:85
+#: ../../variable/Q854.rst:85
 msgid "p18_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:87
+#: ../../variable/Q854.rst:87
 msgid "p19_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:89
+#: ../../variable/Q854.rst:89
 msgid "p20_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q854.rst:91
+#: ../../variable/Q854.rst:91
 msgid "p22_2"
 msgstr ""
 

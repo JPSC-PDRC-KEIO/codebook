@@ -20,87 +20,87 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:5
+#: ../../variable/P129H.rst:5
 msgid "大きな出来事の経験：転勤や単身赴任"
 msgstr "Major event experienced ：job transfer/unaccompanied transfe"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:9
+#: ../../variable/P129H.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:11
+#: ../../variable/P129H.rst:11
 msgid "P129H"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:15
+#: ../../variable/P129H.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:18
+#: ../../variable/P129H.rst:18
 msgid "あなたやあなたのご家族に起こった大きな出来事についてうかがいます。"
 msgstr "Please answer the following questions about major events that you or your family have experienced."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:21
+#: ../../variable/P129H.rst:21
 msgid "（1）あなたが、中学を卒業してから現在までのあいだで、あなたやあなたのご家族に次のような大きな出来事がありましたか。（〇はいくつでも）"
 msgstr "\(1) Between the time you graduated from junior high school and now, have you or your family experienced any of the following major events? (circle as many as you like)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:24
+#: ../../variable/P129H.rst:24
 msgid "転勤や単身赴任"
 msgstr "Job transfer/unaccompanied transfer"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:30
+#: ../../variable/P129H.rst:30
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:33
+#: ../../variable/P129H.rst:33
 msgid "はい"
 msgstr "Yes"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:35
+#: ../../variable/P129H.rst:35
 msgid "いいえ"
 msgstr "No"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:42
+#: ../../variable/P129H.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:48
+#: ../../variable/P129H.rst:48
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:54
+#: ../../variable/P129H.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:55
+#: ../../variable/P129H.rst:55
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:60
+#: ../../variable/P129H.rst:60
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:66
+#: ../../variable/P129H.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:71
+#: ../../variable/P129H.rst:71
 msgid "p1_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:73
+#: ../../variable/P129H.rst:73
 msgid "p5b_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:75
+#: ../../variable/P129H.rst:75
 msgid "p11c_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:77
+#: ../../variable/P129H.rst:77
 msgid "p16d_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P129H.rst:79
+#: ../../variable/P129H.rst:79
 msgid "p21e_4"
 msgstr ""
 

@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokureki_yu.rst:3
+#: ../../syugyo/syokureki/syokureki_yu.rst:3
 msgid "初回調査時に有職の人への質問"
 msgstr ""
 

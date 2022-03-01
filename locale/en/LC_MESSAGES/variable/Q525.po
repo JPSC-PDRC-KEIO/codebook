@@ -17,99 +17,99 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:5
+#: ../../variable/Q525.rst:5
 msgid "子どもの学習塾等利用の評価"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:9
+#: ../../variable/Q525.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:11
+#: ../../variable/Q525.rst:11
 msgid "Q525"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:15
+#: ../../variable/Q525.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:18
+#: ../../variable/Q525.rst:18
 msgid "学習塾や予備校、英会話等に通わせた結果を、どう評価していますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:24
+#: ../../variable/Q525.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:27
+#: ../../variable/Q525.rst:27
 msgid "通わせないよりも、よい結果が出ていると思う"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:29
+#: ../../variable/Q525.rst:29
 msgid "通わせても、通わせなくても、結果は変わらないと思う"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:36
+#: ../../variable/Q525.rst:36
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:42
+#: ../../variable/Q525.rst:42
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:48
+#: ../../variable/Q525.rst:48
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:49
+#: ../../variable/Q525.rst:49
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:54
+#: ../../variable/Q525.rst:54
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:60
+#: ../../variable/Q525.rst:60
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:65
+#: ../../variable/Q525.rst:65
 msgid "p2_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:67
+#: ../../variable/Q525.rst:67
 msgid "p5a_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:69
+#: ../../variable/Q525.rst:69
 msgid "p5b_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:71
+#: ../../variable/Q525.rst:71
 msgid "p8_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:73
+#: ../../variable/Q525.rst:73
 msgid "p12_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:75
+#: ../../variable/Q525.rst:75
 msgid "p13_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:77
+#: ../../variable/Q525.rst:77
 msgid "p14_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:79
+#: ../../variable/Q525.rst:79
 msgid "p15_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:81
+#: ../../variable/Q525.rst:81
 msgid "p16abc_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q525.rst:83
+#: ../../variable/Q525.rst:83
 msgid "p16d_3"
 msgstr ""
 

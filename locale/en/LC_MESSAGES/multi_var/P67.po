@@ -17,123 +17,123 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:3
+#: ../../multi_var/P67.rst:3
 msgid "前職の選択理由"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:7
+#: ../../multi_var/P67.rst:7
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:8
+#: ../../multi_var/P67.rst:8
 msgid "なぜ、あなたはその前職を選びましたか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid "給与がよい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid ":doc:`P67A </variable/P67A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid "休日、休暇が多い"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid ":doc:`P67B </variable/P67B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid "拘束時間が少ない、労働時間が自由になる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid ":doc:`P67X </variable/P67X>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid "家に近い、通勤距離が短い"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid ":doc:`P67E </variable/P67E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid "転勤がない、少ない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid ":doc:`P67F </variable/P67F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid "安定している、失業のおそれがない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid ":doc:`P67G </variable/P67G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid "将来発展する可能性がある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid ":doc:`P67H </variable/P67H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid "結婚・出産後も続けやすい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid ":doc:`P67Y </variable/P67Y>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid "技術が身につく"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid ":doc:`P67M </variable/P67M>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid "能力が生かせる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid ":doc:`P67N </variable/P67N>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid "仕事内容に興味がある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid ":doc:`P67O </variable/P67O>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:1
+#: ../../multi_var/P67.rst:1
 msgid ":doc:`P67W </variable/P67W>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P67.rst:30
+#: ../../multi_var/P67.rst:30
 msgid "この項目は、選択肢や変数名が以下のように変化してきました。"
 msgstr ""
 

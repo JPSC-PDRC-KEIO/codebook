@@ -17,67 +17,67 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:3
+#: ../../multi_var/Q980.rst:3
 msgid "教育訓練給付制度・利用目的"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:7
+#: ../../multi_var/Q980.rst:7
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:8
+#: ../../multi_var/Q980.rst:8
 msgid "その（「教育訓練給付制度」を利用している）目的は何ですか。（〇は２つまで）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:12
+#: ../../multi_var/Q980.rst:12
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:1
+#: ../../multi_var/Q980.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:1
+#: ../../multi_var/Q980.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:1
+#: ../../multi_var/Q980.rst:1
 msgid "これまでの仕事を発展させるために役立ちそうな知識や資格などを得るため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:1
+#: ../../multi_var/Q980.rst:1
 msgid ":doc:`Q980A </variable/Q980A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:1
+#: ../../multi_var/Q980.rst:1
 msgid "これからの仕事に役立ちそうな知識や資格などを得るため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:1
+#: ../../multi_var/Q980.rst:1
 msgid ":doc:`Q980B </variable/Q980B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:1
+#: ../../multi_var/Q980.rst:1
 msgid "特に仕事に役立つとは思わないが、興味があったので"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:1
+#: ../../multi_var/Q980.rst:1
 msgid ":doc:`Q980C </variable/Q980C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:1
+#: ../../multi_var/Q980.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:1
+#: ../../multi_var/Q980.rst:1
 msgid ":doc:`Q980D </variable/Q980D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:25
+#: ../../multi_var/Q980.rst:25
 msgid "過去の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q980.rst:32
+#: ../../multi_var/Q980.rst:32
 msgid "備考"
 msgstr "Remarks"
 

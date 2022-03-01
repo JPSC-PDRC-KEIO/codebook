@@ -17,71 +17,71 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1040.rst:3
+#: ../../multi_var/Q1040.rst:3
 msgid "配偶者の育児参加〔第11～第18回〕"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1040.rst:7
+#: ../../multi_var/Q1040.rst:7
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1040.rst:8
+#: ../../multi_var/Q1040.rst:8
 msgid "現在、ご主人は、育児・子育てにどの程度関わっていますか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1040.rst:1
+#: ../../multi_var/Q1040.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1040.rst:1
+#: ../../multi_var/Q1040.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1040.rst:1
+#: ../../multi_var/Q1040.rst:1
 msgid "おむつを替えたり、着替えをさせる、着替えを用意する"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1040.rst:1
+#: ../../multi_var/Q1040.rst:1
 msgid ":doc:`Q1040A </variable/Q1040A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1040.rst:1
+#: ../../multi_var/Q1040.rst:1
 msgid "子どもを風呂に入れたり、一緒に入る"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1040.rst:1
+#: ../../multi_var/Q1040.rst:1
 msgid ":doc:`Q1040B </variable/Q1040B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1040.rst:1
+#: ../../multi_var/Q1040.rst:1
 msgid "子どもにご飯を食べさせたり、寝かせる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1040.rst:1
+#: ../../multi_var/Q1040.rst:1
 msgid ":doc:`Q1040C </variable/Q1040C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1040.rst:1
+#: ../../multi_var/Q1040.rst:1
 msgid "子どもをあやしたり遊ぶ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1040.rst:1
+#: ../../multi_var/Q1040.rst:1
 msgid ":doc:`Q1040D </variable/Q1040D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1040.rst:1
+#: ../../multi_var/Q1040.rst:1
 msgid "ほとんど子どもとふれあわない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1040.rst:1
+#: ../../multi_var/Q1040.rst:1
 msgid ":doc:`Q1040E </variable/Q1040E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1040.rst:1
+#: ../../multi_var/Q1040.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1040.rst:1
+#: ../../multi_var/Q1040.rst:1
 msgid ":doc:`Q1040F </variable/Q1040F>`"
 msgstr ""
 

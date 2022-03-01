@@ -20,90 +20,90 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 3.0.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:4
+#: ../../multi_var/Q136.rst:4
 msgid "事故・災害・消費者トラブル"
 msgstr "Accidents, disasters, and consumer problems"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:8
+#: ../../multi_var/Q136.rst:8
 msgid "質問文（複数回答）"
 msgstr "Question ( multiple answers )"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:9
+#: ../../multi_var/Q136.rst:9
 msgid "この1年間（調査前年10月～調査年9月）にあなた自身が事故や災害、消費者トラブルにあわれた方にうかがいます。"
 msgstr "For those who have had accidents, disasters, or consumer problems during the past year (October of the previous year to September of the survey year)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:10
+#: ../../multi_var/Q136.rst:10
 msgid "その事故や災害、消費者トラブルは何でしたか。（〇はいくつでも）"
 msgstr "What was the accident, disaster, or consumer problem? (Circle as many as pertain to you)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:1
+#: ../../multi_var/Q136.rst:1
 msgid "項目"
 msgstr "Items"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:1
+#: ../../multi_var/Q136.rst:1
 msgid "変数"
 msgstr "Variable"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:1
+#: ../../multi_var/Q136.rst:1
 msgid "自然災害"
 msgstr "Natural disaster"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:1
+#: ../../multi_var/Q136.rst:1
 msgid ":doc:`Q136H </variable/Q136H>`"
 msgstr ":doc:`Q136H </variable/Q136H>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:1
+#: ../../multi_var/Q136.rst:1
 msgid "交通事故"
 msgstr "Traffic accident"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:1
+#: ../../multi_var/Q136.rst:1
 msgid ":doc:`Q136A </variable/Q136A>`"
 msgstr ":doc:`Q136A </variable/Q136A>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:1
+#: ../../multi_var/Q136.rst:1
 msgid "火災"
 msgstr "Fire"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:1
+#: ../../multi_var/Q136.rst:1
 msgid ":doc:`Q136B </variable/Q136B>`"
 msgstr ":doc:`Q136B </variable/Q136B>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:1
+#: ../../multi_var/Q136.rst:1
 msgid "労働災害"
 msgstr "Work-related injury or death"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:1
+#: ../../multi_var/Q136.rst:1
 msgid ":doc:`Q136C </variable/Q136C>`"
 msgstr ":doc:`Q136C </variable/Q136C>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:1
+#: ../../multi_var/Q136.rst:1
 msgid "盗難・犯罪"
 msgstr "Theft/crime"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:1
+#: ../../multi_var/Q136.rst:1
 msgid ":doc:`Q136D </variable/Q136D>`"
 msgstr ":doc:`Q136D </variable/Q136D>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:1
+#: ../../multi_var/Q136.rst:1
 msgid "商品被害"
 msgstr "Merchandise or produst damage"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:1
+#: ../../multi_var/Q136.rst:1
 msgid ":doc:`Q136E </variable/Q136E>`"
 msgstr ":doc:`Q136E </variable/Q136E>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:1
+#: ../../multi_var/Q136.rst:1
 msgid "クレジットなどの債務返済困難"
 msgstr "Difficulty in repaying credit and other debts"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:1
+#: ../../multi_var/Q136.rst:1
 msgid ":doc:`Q136F </variable/Q136F>`"
 msgstr ":doc:`Q136F </variable/Q136F>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:1
+#: ../../multi_var/Q136.rst:1
 msgid "その他"
 msgstr "Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q136.rst:1
+#: ../../multi_var/Q136.rst:1
 msgid ":doc:`Q136G </variable/Q136G>`"
 msgstr ":doc:`Q136G </variable/Q136G>`"

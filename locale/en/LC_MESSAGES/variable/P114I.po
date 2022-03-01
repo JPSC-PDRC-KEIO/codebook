@@ -17,99 +17,99 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:5
+#: ../../variable/P114I.rst:5
 msgid "衣類等の購入　借入先"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:9
+#: ../../variable/P114I.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:11
+#: ../../variable/P114I.rst:11
 msgid "P114I"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:15
+#: ../../variable/P114I.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:18
+#: ../../variable/P114I.rst:18
 msgid "その借入れについて、以下の項目にご記入ください。「1.借りた目的」「2.借入先」「3.そこで借りた理由」は次ページのコード表からあてはまる「コード番号」をご記入ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:21
+#: ../../variable/P114I.rst:21
 msgid "「2.借入先」の記入欄は５カ所分または３カ所分用意してあります。「3.そこで借りた理由」は1カ所の借入先それぞれについて最大の理由１つを選択してご記入ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:27
+#: ../../variable/P114I.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:30
+#: ../../variable/P114I.rst:30
 msgid "銀行など金融機関・郵便局"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:32
+#: ../../variable/P114I.rst:32
 msgid "住宅金融公庫・年金融資・財形融資・公団融資・自治体融資などの公的融資"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:34
+#: ../../variable/P114I.rst:34
 msgid "社内融資"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:36
+#: ../../variable/P114I.rst:36
 msgid "銀行系クレジット会社（JCB、VISA、UCなど）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:38
+#: ../../variable/P114I.rst:38
 msgid "信販会社（日本信販、ジャックス、ライフなど）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:40
+#: ../../variable/P114I.rst:40
 msgid "消費者金融会社（アコム、武富士、プロミス、レイクなど）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:42
+#: ../../variable/P114I.rst:42
 msgid "流通関連会社（マルイ、クレディセゾン、ダイエーファイナンスなど）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:44
+#: ../../variable/P114I.rst:44
 msgid "妻の親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:46
+#: ../../variable/P114I.rst:46
 msgid "夫の親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:48
+#: ../../variable/P114I.rst:48
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:55
+#: ../../variable/P114I.rst:55
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:61
+#: ../../variable/P114I.rst:61
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:67
+#: ../../variable/P114I.rst:67
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:68
+#: ../../variable/P114I.rst:68
 msgid "31"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:73
+#: ../../variable/P114I.rst:73
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:79
+#: ../../variable/P114I.rst:79
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P114I.rst:84
+#: ../../variable/P114I.rst:84
 msgid "p1_4"
 msgstr ""
 

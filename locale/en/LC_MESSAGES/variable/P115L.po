@@ -17,67 +17,67 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P115L.rst:5
+#: ../../variable/P115L.rst:5
 msgid "レジャー　返済額"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P115L.rst:9
+#: ../../variable/P115L.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P115L.rst:11
+#: ../../variable/P115L.rst:11
 msgid "P115L"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P115L.rst:15
+#: ../../variable/P115L.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P115L.rst:18
+#: ../../variable/P115L.rst:18
 msgid "その借入れについて、以下の項目にご記入ください。「1.借りた目的」「2.借入先」「3.そこで借りた理由」は次ページのコード表からあてはまる「コード番号」をご記入ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P115L.rst:21
+#: ../../variable/P115L.rst:21
 msgid "「2.借入先」の記入欄は５カ所分または３カ所分用意してあります。「3.そこで借りた理由」は1カ所の借入先それぞれについて最大の理由１つを選択してご記入ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P115L.rst:27
+#: ../../variable/P115L.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P115L.rst:29
+#: ../../variable/P115L.rst:29
 msgid "＿ ＿ ＿ ＿ 万円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P115L.rst:35
+#: ../../variable/P115L.rst:35
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P115L.rst:36
+#: ../../variable/P115L.rst:36
 msgid "998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P115L.rst:41
+#: ../../variable/P115L.rst:41
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P115L.rst:47
+#: ../../variable/P115L.rst:47
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P115L.rst:48
+#: ../../variable/P115L.rst:48
 msgid "999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P115L.rst:53
+#: ../../variable/P115L.rst:53
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P115L.rst:59
+#: ../../variable/P115L.rst:59
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P115L.rst:64
+#: ../../variable/P115L.rst:64
 msgid "p1_4"
 msgstr ""
 

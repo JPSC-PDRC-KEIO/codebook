@@ -17,55 +17,55 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81C.rst:5
+#: ../../variable/Q81C.rst:5
 msgid "None"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81C.rst:9
+#: ../../variable/Q81C.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81C.rst:11
+#: ../../variable/Q81C.rst:11
 msgid "Q81C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81C.rst:15
+#: ../../variable/Q81C.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81C.rst:21
+#: ../../variable/Q81C.rst:21
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81C.rst:29
+#: ../../variable/Q81C.rst:29
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81C.rst:35
+#: ../../variable/Q81C.rst:35
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81C.rst:41
+#: ../../variable/Q81C.rst:41
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81C.rst:47
+#: ../../variable/Q81C.rst:47
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81C.rst:53
+#: ../../variable/Q81C.rst:53
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81C.rst:58
+#: ../../variable/Q81C.rst:58
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81C.rst:60
+#: ../../variable/Q81C.rst:60
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81C.rst:62
+#: ../../variable/Q81C.rst:62
 msgid "p4_1"
 msgstr ""
 

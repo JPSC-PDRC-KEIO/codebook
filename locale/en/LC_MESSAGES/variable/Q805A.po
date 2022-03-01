@@ -17,71 +17,71 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q805A.rst:5
+#: ../../variable/Q805A.rst:5
 msgid "住宅増改築"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q805A.rst:9
+#: ../../variable/Q805A.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q805A.rst:11
+#: ../../variable/Q805A.rst:11
 msgid "Q805A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q805A.rst:15
+#: ../../variable/Q805A.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q805A.rst:18
+#: ../../variable/Q805A.rst:18
 msgid "この１年間（調査前年10月～調査年9月）に、あなた方ご夫婦が自分たちで住んだり、セカンドハウスとして利用していた住宅を増築または改築しましたか。（親との共同名義のものも含みます）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q805A.rst:24
+#: ../../variable/Q805A.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q805A.rst:27
+#: ../../variable/Q805A.rst:27
 msgid "増築した"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q805A.rst:29
+#: ../../variable/Q805A.rst:29
 msgid "改築した"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q805A.rst:31
+#: ../../variable/Q805A.rst:31
 msgid "どちらもしなかった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q805A.rst:38
+#: ../../variable/Q805A.rst:38
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q805A.rst:44
+#: ../../variable/Q805A.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q805A.rst:50
+#: ../../variable/Q805A.rst:50
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q805A.rst:51
+#: ../../variable/Q805A.rst:51
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q805A.rst:56
+#: ../../variable/Q805A.rst:56
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q805A.rst:62
+#: ../../variable/Q805A.rst:62
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q805A.rst:67
+#: ../../variable/Q805A.rst:67
 msgid "p3_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q805A.rst:69
+#: ../../variable/Q805A.rst:69
 msgid "p4_2"
 msgstr ""
 

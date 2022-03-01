@@ -17,107 +17,107 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:5
+#: ../../variable/Q308A.rst:5
 msgid "月収：勤め人か否か"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:9
+#: ../../variable/Q308A.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:11
+#: ../../variable/Q308A.rst:11
 msgid "Q308A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:15
+#: ../../variable/Q308A.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:18
+#: ../../variable/Q308A.rst:18
 msgid "この9月に手取り収入（収入総額から税金、社会保険料などを差し引いた額）はどのくらいですか。（ボーナス、臨時の給与は除きます）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:21
+#: ../../variable/Q308A.rst:21
 msgid "勤め人か否か"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:27
+#: ../../variable/Q308A.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:30
+#: ../../variable/Q308A.rst:30
 msgid "勤め人である"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:32
+#: ../../variable/Q308A.rst:32
 msgid "勤め人でない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:39
+#: ../../variable/Q308A.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:45
+#: ../../variable/Q308A.rst:45
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:51
+#: ../../variable/Q308A.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:52
+#: ../../variable/Q308A.rst:52
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:57
+#: ../../variable/Q308A.rst:57
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:63
+#: ../../variable/Q308A.rst:63
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:68
+#: ../../variable/Q308A.rst:68
 msgid "p1_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:70
+#: ../../variable/Q308A.rst:70
 msgid "p2_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:72
+#: ../../variable/Q308A.rst:72
 msgid "p3_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:74
+#: ../../variable/Q308A.rst:74
 msgid "p4_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:76
+#: ../../variable/Q308A.rst:76
 msgid "p5a_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:78
+#: ../../variable/Q308A.rst:78
 msgid "p5b_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:80
+#: ../../variable/Q308A.rst:80
 msgid "p6_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:82
+#: ../../variable/Q308A.rst:82
 msgid "p7_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:84
+#: ../../variable/Q308A.rst:84
 msgid "p8_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:86
+#: ../../variable/Q308A.rst:86
 msgid "p9_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q308A.rst:88
+#: ../../variable/Q308A.rst:88
 msgid "p10_2"
 msgstr ""
 

@@ -17,171 +17,171 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:4
+#: ../../multi_var/Q254.rst:4
 msgid "現職（職種）の選択理由（配偶者）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:8
+#: ../../multi_var/Q254.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:9
+#: ../../multi_var/Q254.rst:9
 msgid "なぜ、ご主人は現在の職種を選びましたか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "収入・給与がよい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254A </variable/Q254A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "休日、休暇が多い"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254B </variable/Q254B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "拘束時間が少ない、残業が少ない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254C </variable/Q254C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "労働時間が自由になる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254D </variable/Q254D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "転勤がない、少ない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254E </variable/Q254F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "安定している、失業のおそれがない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254F </variable/Q254F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "将来発展する可能性がある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254G </variable/Q254G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "組織にしばられない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254H </variable/Q254H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "技術が身につく"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254I </variable/Q254I>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "能力が生かせる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254J </variable/Q254J>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "仕事内容に興味がある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254K </variable/Q254K>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "外国に行ける"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254L </variable/Q254L>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "結婚相手が見つかる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254M </variable/Q254M>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "学校がすすめるので"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254N </variable/Q254N>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "家族がすすめるので"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254O </variable/Q254O>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "会社ですすめられた（自分で選んだのではない）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254P </variable/Q254P>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "家業だから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254Q </variable/Q254Q>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:1
+#: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254R </variable/Q254R>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q254.rst:37
+#: ../../multi_var/Q254.rst:37
 msgid "配偶者が現在有職の人への質問で、1年間に、配偶者の就業状態の変化があった人に聞いています（初回調査時には聞いていません。また第11回以降は聞いていません）。"
 msgstr ""
 

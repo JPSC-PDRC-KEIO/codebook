@@ -17,103 +17,103 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:5
+#: ../../variable/Q175.rst:5
 msgid "研修・講習への今後の参加意向の有無"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:9
+#: ../../variable/Q175.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:11
+#: ../../variable/Q175.rst:11
 msgid "Q175"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:15
+#: ../../variable/Q175.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:18
+#: ../../variable/Q175.rst:18
 msgid "今後、研修会や講習会があったら参加したいと思いますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:24
+#: ../../variable/Q175.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:27
+#: ../../variable/Q175.rst:27
 msgid "役立つと思うので参加したい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:29
+#: ../../variable/Q175.rst:29
 msgid "仕事をしているよりは楽だから、参加したい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:31
+#: ../../variable/Q175.rst:31
 msgid "時間の浪費だから参加したくない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:38
+#: ../../variable/Q175.rst:38
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:44
+#: ../../variable/Q175.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:50
+#: ../../variable/Q175.rst:50
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:51
+#: ../../variable/Q175.rst:51
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:56
+#: ../../variable/Q175.rst:56
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:62
+#: ../../variable/Q175.rst:62
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:67
+#: ../../variable/Q175.rst:67
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:69
+#: ../../variable/Q175.rst:69
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:71
+#: ../../variable/Q175.rst:71
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:73
+#: ../../variable/Q175.rst:73
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:75
+#: ../../variable/Q175.rst:75
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:77
+#: ../../variable/Q175.rst:77
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:79
+#: ../../variable/Q175.rst:79
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:81
+#: ../../variable/Q175.rst:81
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:83
+#: ../../variable/Q175.rst:83
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q175.rst:85
+#: ../../variable/Q175.rst:85
 msgid "p10_1"
 msgstr ""
 

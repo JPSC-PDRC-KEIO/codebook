@@ -17,71 +17,71 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:5
+#: ../../variable/Q950.rst:5
 msgid "配偶者控除・配偶者特別控除制度反対の理由"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:9
+#: ../../variable/Q950.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:11
+#: ../../variable/Q950.rst:11
 msgid "Q950"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:15
+#: ../../variable/Q950.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:18
+#: ../../variable/Q950.rst:18
 msgid "ない方がよいと思う理由として、次の度の意見に近いですか。（〇は１つ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:24
+#: ../../variable/Q950.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:27
+#: ../../variable/Q950.rst:27
 msgid "収入を得ている主婦や独身者にくらべて、専業主婦（一定額以下の収入の人を含む）のいる世帯を優遇していて不平等だから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:29
+#: ../../variable/Q950.rst:29
 msgid "収入を得ていない妻を持つ方が夫の税金が安くなり（手取り所得が高くなる）、妻が社会に出て働くことを制限することになるから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:31
+#: ../../variable/Q950.rst:31
 msgid "高所得の場合は税金がかなり安くなるが、低所得や税金を納めていない世帯には恩恵がなく不平等だから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:33
+#: ../../variable/Q950.rst:33
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:40
+#: ../../variable/Q950.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:46
+#: ../../variable/Q950.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:52
+#: ../../variable/Q950.rst:52
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:53
+#: ../../variable/Q950.rst:53
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:58
+#: ../../variable/Q950.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:64
+#: ../../variable/Q950.rst:64
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q950.rst:69
+#: ../../variable/Q950.rst:69
 msgid "p4_4"
 msgstr ""
 

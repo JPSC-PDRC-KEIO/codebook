@@ -20,94 +20,94 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:3
+#: ../../kihon/Q9R.rst:3
 msgid "現在の就学・就労〔第10回〕"
 msgstr "Student or worker status [10th wave]"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:7
+#: ../../kihon/Q9R.rst:7
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:9
+#: ../../kihon/Q9R.rst:9
 msgid "Q9R"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:12
+#: ../../kihon/Q9R.rst:12
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:14
+#: ../../kihon/Q9R.rst:14
 msgid "あなたの現在の就学・就労状況"
 msgstr "Your Student or worker status"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:17
+#: ../../kihon/Q9R.rst:17
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:19
+#: ../../kihon/Q9R.rst:19
 msgid "未就学"
 msgstr "Preschooler"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:20
+#: ../../kihon/Q9R.rst:20
 msgid "小学1～3年"
 msgstr "Student in grades 1 to 3 of primary school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:21
+#: ../../kihon/Q9R.rst:21
 msgid "小学4～6年"
 msgstr "Student in grades 4 to 6 of primary school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:22
+#: ../../kihon/Q9R.rst:22
 msgid "中学生"
 msgstr "Junior-high school  student"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:23
+#: ../../kihon/Q9R.rst:23
 msgid "高校生"
 msgstr "Senior-high school student"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:24
+#: ../../kihon/Q9R.rst:24
 msgid "短大・大学生"
 msgstr "Junior college or College stugent"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:25
+#: ../../kihon/Q9R.rst:25
 msgid "専門学校"
 msgstr "Vocational school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:26
+#: ../../kihon/Q9R.rst:26
 msgid "仕事に就いている"
 msgstr "Worker"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:27
+#: ../../kihon/Q9R.rst:27
 msgid "その他"
 msgstr "Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:33
+#: ../../kihon/Q9R.rst:33
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:37
+#: ../../kihon/Q9R.rst:37
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:41
+#: ../../kihon/Q9R.rst:41
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:42
+#: ../../kihon/Q9R.rst:42
 msgid "10"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:45
+#: ../../kihon/Q9R.rst:45
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:47
+#: ../../kihon/Q9R.rst:47
 msgid "|nt1| 詳しくはこちら（:doc:`/kihon/syugaku`）をご参照ください。"
 msgstr "|nt1| Please refer to here (:doc:`/kihon/syugaku`) for details."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:52
+#: ../../kihon/Q9R.rst:52
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q9R.rst:56
+#: ../../kihon/Q9R.rst:56
 msgid "p10_5"
 msgstr ""

@@ -17,75 +17,75 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:5
+#: ../../variable/Q973.rst:5
 msgid "老後の経済的備えとしての公的年金制度の信頼度"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:9
+#: ../../variable/Q973.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:11
+#: ../../variable/Q973.rst:11
 msgid "Q973"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:15
+#: ../../variable/Q973.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:18
+#: ../../variable/Q973.rst:18
 msgid "あなたの老後の経済的な備えとして、公的年金制度は頼りになると思いますか。（〇は１つ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:24
+#: ../../variable/Q973.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:27
+#: ../../variable/Q973.rst:27
 msgid "やはり公的年金が老後の経済生活（収入）の中心になると思うので頼りにしている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:29
+#: ../../variable/Q973.rst:29
 msgid "頼りにしたいが、給付される額が現在より低くなりそうで不安だ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:31
+#: ../../variable/Q973.rst:31
 msgid "高齢化が進むので、公的年金の制度そのものが成りゆかなくなるのではと心配している"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:33
+#: ../../variable/Q973.rst:33
 msgid "公的年金はあてにしていない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:35
+#: ../../variable/Q973.rst:35
 msgid "その他（具体的に　　　　　　　）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:42
+#: ../../variable/Q973.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:48
+#: ../../variable/Q973.rst:48
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:54
+#: ../../variable/Q973.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:55
+#: ../../variable/Q973.rst:55
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:60
+#: ../../variable/Q973.rst:60
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:66
+#: ../../variable/Q973.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q973.rst:71
+#: ../../variable/Q973.rst:71
 msgid "p4_4"
 msgstr ""
 

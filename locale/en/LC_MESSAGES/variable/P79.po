@@ -17,63 +17,63 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:5
+#: ../../variable/P79.rst:5
 msgid "これまでの勤務先数〔第1回〕"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:9
+#: ../../variable/P79.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:11
+#: ../../variable/P79.rst:11
 msgid "P79"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:15
+#: ../../variable/P79.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:18
+#: ../../variable/P79.rst:18
 msgid "あなたは、これまでに、いくつの勤務先に勤めたことがありますか。（常勤従業者、パート、アルバイト、嘱託、自営、家族従業などをすべて含みます。(学生アルバイトは除きます)自営・家族従業も勤務先の一カ所と数えてください。現在の勤務先も含めてください。同じ会社で転勤した場合は数えないでください。）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:24
+#: ../../variable/P79.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:27
+#: ../../variable/P79.rst:27
 msgid "2ヵ所"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:29
+#: ../../variable/P79.rst:29
 msgid "3ヵ所"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:31
+#: ../../variable/P79.rst:31
 msgid "4ヵ所以上"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:38
+#: ../../variable/P79.rst:38
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:44
+#: ../../variable/P79.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:50
+#: ../../variable/P79.rst:50
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:56
+#: ../../variable/P79.rst:56
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:62
+#: ../../variable/P79.rst:62
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P79.rst:67
+#: ../../variable/P79.rst:67
 msgid "p1_3"
 msgstr ""
 

@@ -17,71 +17,71 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q544.rst:3
+#: ../../multi_var/Q544.rst:3
 msgid "受講費用負担者（無配偶）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q544.rst:7
+#: ../../multi_var/Q544.rst:7
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q544.rst:8
+#: ../../multi_var/Q544.rst:8
 msgid "その費用はどなたが負担しましたか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q544.rst:1
+#: ../../multi_var/Q544.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q544.rst:1
+#: ../../multi_var/Q544.rst:1
 msgid "変数"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q544.rst:1
+#: ../../multi_var/Q544.rst:1
 msgid "自分自身"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q544.rst:1
+#: ../../multi_var/Q544.rst:1
 msgid ":doc:`Q544F </variable/Q544F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q544.rst:1
+#: ../../multi_var/Q544.rst:1
 msgid "勤め先"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q544.rst:1
+#: ../../multi_var/Q544.rst:1
 msgid ":doc:`Q544G </variable/Q544G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q544.rst:1
+#: ../../multi_var/Q544.rst:1
 msgid "自分の親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q544.rst:1
+#: ../../multi_var/Q544.rst:1
 msgid ":doc:`Q544H </variable/Q544H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q544.rst:1
+#: ../../multi_var/Q544.rst:1
 msgid "教育訓練給付制度"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q544.rst:1
+#: ../../multi_var/Q544.rst:1
 msgid ":doc:`Q544K</variable/Q544K>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q544.rst:1
+#: ../../multi_var/Q544.rst:1
 msgid "その他の公的な助成"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q544.rst:1
+#: ../../multi_var/Q544.rst:1
 msgid ":doc:`Q544I </variable/Q544I>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q544.rst:1
+#: ../../multi_var/Q544.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q544.rst:1
+#: ../../multi_var/Q544.rst:1
 msgid ":doc:`Q544J </variable/Q544J>`"
 msgstr ""
 

@@ -18,11 +18,11 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Language: ja_JP\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/data_riyo.rst:3
+#: ../../data_riyo.rst:3
 msgid "データの取得"
 msgstr "Data acquisition procedure"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/data_riyo.rst:5
+#: ../../data_riyo.rst:5
 msgid ""
 "JPSCの調査データは、 `慶應義塾大学パネル設計・解析センター"
 "（PDRC) <https://www.pdrc.keio.ac.jp/>`_ にて管理していま"
@@ -36,7 +36,7 @@ msgstr ""
 "register with `the PDRC <https://www.pdrc.keio.ac.jp/pdrc/"
 "en>`_ before being allowed to download the dataset."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/data_riyo.rst:7
+#: ../../data_riyo.rst:7
 msgid ""
 "`データ貸し出しページへのアクセス（PDRCサイト内) <https://"
 "www.pdrc.keio.ac.jp/paneldata/howto/>`_"

@@ -17,79 +17,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:3
+#: ../../multi_var/Q1076.rst:3
 msgid "住宅ローン減税制度変更の影響：将来の住宅購入への影響"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:7
+#: ../../multi_var/Q1076.rst:7
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:8
+#: ../../multi_var/Q1076.rst:8
 msgid "このような住宅ローン減税の制度変更はあなたの住宅取得行動にどのような影響を及ぼすと思いますか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:1
+#: ../../multi_var/Q1076.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:1
+#: ../../multi_var/Q1076.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:1
+#: ../../multi_var/Q1076.rst:1
 msgid "住宅購入の時期を早める"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:1
+#: ../../multi_var/Q1076.rst:1
 msgid ":doc:`Q1076A </variable/Q1076A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:1
+#: ../../multi_var/Q1076.rst:1
 msgid "住宅購入が不可能になる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:1
+#: ../../multi_var/Q1076.rst:1
 msgid ":doc:`Q1076B </variable/Q1076B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:1
+#: ../../multi_var/Q1076.rst:1
 msgid "住宅購入の時期を遅らせる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:1
+#: ../../multi_var/Q1076.rst:1
 msgid ":doc:`Q1076C </variable/Q1076C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:1
+#: ../../multi_var/Q1076.rst:1
 msgid "住宅の購入価格を下げる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:1
+#: ../../multi_var/Q1076.rst:1
 msgid ":doc:`Q1076D </variable/Q1076D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:1
+#: ../../multi_var/Q1076.rst:1
 msgid "住宅の購入価格を上げる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:1
+#: ../../multi_var/Q1076.rst:1
 msgid ":doc:`Q1076G </variable/Q1076G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:1
+#: ../../multi_var/Q1076.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:1
+#: ../../multi_var/Q1076.rst:1
 msgid ":doc:`Q1076E </variable/Q1076E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:1
+#: ../../multi_var/Q1076.rst:1
 msgid "何の影響もない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1076.rst:1
+#: ../../multi_var/Q1076.rst:1
 msgid ":doc:`Q1076F </variable/Q1076F>`"
 msgstr ""
 

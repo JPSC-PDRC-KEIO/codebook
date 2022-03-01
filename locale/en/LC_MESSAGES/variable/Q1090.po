@@ -17,71 +17,71 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1090.rst:5
+#: ../../variable/Q1090.rst:5
 msgid "離婚時の厚生年金分割制度の認知"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1090.rst:9
+#: ../../variable/Q1090.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1090.rst:11
+#: ../../variable/Q1090.rst:11
 msgid "Q1090"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1090.rst:15
+#: ../../variable/Q1090.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1090.rst:18
+#: ../../variable/Q1090.rst:18
 msgid "2007年4月より施行された離婚時の厚生年金の分割制度（婚姻期間中の厚生年金の保険料納付記録を、離婚した場合に当事者間で分割できる制度）についてご存知ですか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1090.rst:24
+#: ../../variable/Q1090.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1090.rst:27
+#: ../../variable/Q1090.rst:27
 msgid "良く知っている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1090.rst:29
+#: ../../variable/Q1090.rst:29
 msgid "知っている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1090.rst:31
+#: ../../variable/Q1090.rst:31
 msgid "あまり知らない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1090.rst:33
+#: ../../variable/Q1090.rst:33
 msgid "まったく知らない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1090.rst:40
+#: ../../variable/Q1090.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1090.rst:46
+#: ../../variable/Q1090.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1090.rst:52
+#: ../../variable/Q1090.rst:52
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1090.rst:53
+#: ../../variable/Q1090.rst:53
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1090.rst:58
+#: ../../variable/Q1090.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1090.rst:64
+#: ../../variable/Q1090.rst:64
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1090.rst:69
+#: ../../variable/Q1090.rst:69
 msgid "p15_2"
 msgstr ""
 

@@ -17,199 +17,199 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:4
+#: ../../multi_var/Q871.rst:4
 msgid "地球温暖化防止に気をつけていること"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:8
+#: ../../multi_var/Q871.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:9
+#: ../../multi_var/Q871.rst:9
 msgid "毎日の暮らしの中でちょっとした工夫で地球潟暖化の防止に撃を献することができますが、あなたは普段の生活で気をつけていることがありますか。次の中から選んで下さい。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:13
+#: ../../multi_var/Q871.rst:13
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "レジ袋やブックカバーを断り、自分の買い物袋や鞄などを利用する"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "Q871A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "缶、瓶、スチロール、トレーなどは分別し、リサイクルする"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "Q871B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "冷暖房の温度設定を夏は28度以上、冬は20度以下にする"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "Q871C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "蛍光灯や電気機器はこまめに消し、使わない時には主電源を切り、コンセントも抜く"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "Q871D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "近くの買い物などには歩くか自転車で行き、休日の外出には公共交通機関を使う"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "Q871E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "洗面や歯磨きをするときなどは、こまめに水を止める"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "Q871F"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "7"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "食器洗いなどの給湯の温度は冷たく感じない限りギリギリ低めの温度に設定する"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "Q871G"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "8"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "日用雑貨や台所用品などを購入する際には、環境保全に役立つ商品につけられたエコマークのついた商品を選ぶ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "Q871H"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "食材をムダなく使い、省エネルギーを心がけて調理するエコクッキングを行う"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "Q871I"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "10"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "環境にやさしい日常生活をおくっているかをチェックするための環境家計簿をつけている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "Q871J"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "11"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "人を待つ時や荷物の積みおろしをするときは、自動車のエンジンをきる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "Q871K"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "12"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "3階程度の昇り降りはエレベーターを使わず、階段をつかう"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "Q871L"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "13"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "その他（　　　　　　　　　　　　　）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "Q871M"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "14"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "特に気をつけていることはない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:1
+#: ../../multi_var/Q871.rst:1
 msgid "Q871N"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:36
+#: ../../multi_var/Q871.rst:36
 msgid "現在の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:58
+#: ../../multi_var/Q871.rst:58
 msgid "過去の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q871.rst:65
+#: ../../multi_var/Q871.rst:65
 msgid "備考"
 msgstr "Remarks"
 

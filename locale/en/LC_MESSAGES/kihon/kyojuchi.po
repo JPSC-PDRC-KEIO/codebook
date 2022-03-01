@@ -20,10 +20,10 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.2.4\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kyojuchi.rst:3
+#: ../../kihon/kyojuchi.rst:3
 msgid "居住地"
 msgstr "Place of residence"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/kyojuchi.rst:15
+#: ../../kihon/kyojuchi.rst:15
 msgid "移動歴"
 msgstr "History of movings"

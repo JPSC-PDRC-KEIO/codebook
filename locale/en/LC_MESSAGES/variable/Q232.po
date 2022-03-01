@@ -17,91 +17,91 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:5
+#: ../../variable/Q232.rst:5
 msgid "育児休業取得意向（配偶者）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:9
+#: ../../variable/Q232.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:11
+#: ../../variable/Q232.rst:11
 msgid "Q232"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:15
+#: ../../variable/Q232.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:18
+#: ../../variable/Q232.rst:18
 msgid "ご主人は今後、育児休業を取りたいと思いますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:24
+#: ../../variable/Q232.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:27
+#: ../../variable/Q232.rst:27
 msgid "取りたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:29
+#: ../../variable/Q232.rst:29
 msgid "取るつもりはない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:36
+#: ../../variable/Q232.rst:36
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:42
+#: ../../variable/Q232.rst:42
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:48
+#: ../../variable/Q232.rst:48
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:49
+#: ../../variable/Q232.rst:49
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:54
+#: ../../variable/Q232.rst:54
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:60
+#: ../../variable/Q232.rst:60
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:65
+#: ../../variable/Q232.rst:65
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:67
+#: ../../variable/Q232.rst:67
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:69
+#: ../../variable/Q232.rst:69
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:71
+#: ../../variable/Q232.rst:71
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:73
+#: ../../variable/Q232.rst:73
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:75
+#: ../../variable/Q232.rst:75
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:77
+#: ../../variable/Q232.rst:77
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q232.rst:79
+#: ../../variable/Q232.rst:79
 msgid "p10_1"
 msgstr ""
 

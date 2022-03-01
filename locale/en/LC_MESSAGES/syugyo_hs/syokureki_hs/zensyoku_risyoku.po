@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syokureki_hs/zensyoku_risyoku.rst:3
+#: ../../syugyo_hs/syokureki_hs/zensyoku_risyoku.rst:3
 msgid "前職からの離職期間（配偶者）"
 msgstr ""
 

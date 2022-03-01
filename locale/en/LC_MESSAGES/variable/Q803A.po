@@ -17,75 +17,75 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q803A.rst:5
+#: ../../variable/Q803A.rst:5
 msgid "1年以内の住宅購入内容"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q803A.rst:9
+#: ../../variable/Q803A.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q803A.rst:11
+#: ../../variable/Q803A.rst:11
 msgid "Q803A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q803A.rst:15
+#: ../../variable/Q803A.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q803A.rst:18
+#: ../../variable/Q803A.rst:18
 msgid "あなた方ご夫婦は昨年10月以降に、自分たちで住んだり、セカンドハウスとして利用するために土地又は住宅を購入しましたか。（新築も親との共同名義のものも含みます）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q803A.rst:24
+#: ../../variable/Q803A.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q803A.rst:27
+#: ../../variable/Q803A.rst:27
 msgid "土地のみを購入した"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q803A.rst:29
+#: ../../variable/Q803A.rst:29
 msgid "住宅のみを購入した"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q803A.rst:31
+#: ../../variable/Q803A.rst:31
 msgid "両方購入した"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q803A.rst:33
+#: ../../variable/Q803A.rst:33
 msgid "どちらも購入しなかった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q803A.rst:40
+#: ../../variable/Q803A.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q803A.rst:46
+#: ../../variable/Q803A.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q803A.rst:52
+#: ../../variable/Q803A.rst:52
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q803A.rst:53
+#: ../../variable/Q803A.rst:53
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q803A.rst:58
+#: ../../variable/Q803A.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q803A.rst:64
+#: ../../variable/Q803A.rst:64
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q803A.rst:69
+#: ../../variable/Q803A.rst:69
 msgid "p3_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q803A.rst:71
+#: ../../variable/Q803A.rst:71
 msgid "p4_2"
 msgstr ""
 

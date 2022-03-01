@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/gakureki/daigakuin.rst:3
+#: ../../kihon/gakureki/daigakuin.rst:3
 msgid "大学院について"
 msgstr "Graduate school"

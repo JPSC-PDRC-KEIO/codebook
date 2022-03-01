@@ -17,51 +17,51 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P67K.rst:5
+#: ../../variable/P67K.rst:5
 msgid "None"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P67K.rst:9
+#: ../../variable/P67K.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P67K.rst:11
+#: ../../variable/P67K.rst:11
 msgid "P67K"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P67K.rst:15
+#: ../../variable/P67K.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P67K.rst:21
+#: ../../variable/P67K.rst:21
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P67K.rst:29
+#: ../../variable/P67K.rst:29
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P67K.rst:35
+#: ../../variable/P67K.rst:35
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P67K.rst:41
+#: ../../variable/P67K.rst:41
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P67K.rst:47
+#: ../../variable/P67K.rst:47
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P67K.rst:53
+#: ../../variable/P67K.rst:53
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P67K.rst:58
+#: ../../variable/P67K.rst:58
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P67K.rst:60
+#: ../../variable/P67K.rst:60
 msgid "p5b_1"
 msgstr ""
 

@@ -17,59 +17,59 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q478B.rst:5
+#: ../../variable/Q478B.rst:5
 msgid "購入予定金額・布団乾燥機"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q478B.rst:9
+#: ../../variable/Q478B.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q478B.rst:11
+#: ../../variable/Q478B.rst:11
 msgid "Q478B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q478B.rst:15
+#: ../../variable/Q478B.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q478B.rst:21
+#: ../../variable/Q478B.rst:21
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q478B.rst:23
+#: ../../variable/Q478B.rst:23
 msgid "＿ ＿ 万円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q478B.rst:29
+#: ../../variable/Q478B.rst:29
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q478B.rst:30
+#: ../../variable/Q478B.rst:30
 msgid "98"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q478B.rst:35
+#: ../../variable/Q478B.rst:35
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q478B.rst:41
+#: ../../variable/Q478B.rst:41
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q478B.rst:42
+#: ../../variable/Q478B.rst:42
 msgid "99"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q478B.rst:47
+#: ../../variable/Q478B.rst:47
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q478B.rst:53
+#: ../../variable/Q478B.rst:53
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q478B.rst:58
+#: ../../variable/Q478B.rst:58
 msgid "p2_3"
 msgstr ""
 

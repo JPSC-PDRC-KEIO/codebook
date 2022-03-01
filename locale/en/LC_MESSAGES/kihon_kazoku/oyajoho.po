@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_kazoku/oyajoho.rst:3
+#: ../../kihon_kazoku/oyajoho.rst:3
 msgid "親の情報"
 msgstr "Parents and Parents-in-law"
 

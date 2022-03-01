@@ -17,103 +17,103 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:4
+#: ../../multi_var/Q657.rst:4
 msgid "景気動向が気になる理由・夫の仕事"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:8
+#: ../../multi_var/Q657.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:9
+#: ../../multi_var/Q657.rst:9
 msgid "ご主人の仕事との関連で、（景気動向が）気になる理由をあげてください。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid "夫の収入や給料、ボーナスに影響が出るため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid ":doc:`Q657A </variable/Q657A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid "夫が解雇や退職勧告されるかもしれないので"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid ":doc:`Q657B </variable/Q657B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid "夫の労働時間が増減するので"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid ":doc:`Q657C </variable/Q657C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid "夫の求職・転職の機会が増減するので"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid ":doc:`Q657D </variable/Q657D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid "夫の売り上げ・契約が増減するので"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid ":doc:`Q657E </variable/Q657E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid "借入金の金利が変動するので"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid ":doc:`Q657F </variable/Q657F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid "会社の経営環境が苦しくなるので"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid ":doc:`Q657G </variable/Q657G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid ":doc:`Q657H </variable/Q657H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid "特別な理由はない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid ":doc:`Q657I </variable/Q657I>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid "夫の仕事との関連では、気にならない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid ":doc:`Q657J </variable/Q657J>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid "夫は仕事をしていない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q657.rst:1
+#: ../../multi_var/Q657.rst:1
 msgid ":doc:`Q657K </variable/Q657K>`"
 msgstr ""
 

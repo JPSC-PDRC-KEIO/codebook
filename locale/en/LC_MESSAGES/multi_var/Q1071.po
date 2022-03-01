@@ -17,71 +17,71 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1071.rst:4
+#: ../../multi_var/Q1071.rst:4
 msgid "住宅ローン減税制度変更の影響：住宅資金の贈与"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1071.rst:8
+#: ../../multi_var/Q1071.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1071.rst:10
+#: ../../multi_var/Q1071.rst:10
 msgid "（問8で「1～4.購入した」と答えた方にお聞きします）このような住宅ローン減税の制度変更によって、次の方から住宅取得資金贈与がありましたか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1071.rst:1
+#: ../../multi_var/Q1071.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1071.rst:1
+#: ../../multi_var/Q1071.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1071.rst:1
+#: ../../multi_var/Q1071.rst:1
 msgid "あなたの親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1071.rst:1
+#: ../../multi_var/Q1071.rst:1
 msgid ":doc:`Q1071A </variable/Q1071A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1071.rst:1
+#: ../../multi_var/Q1071.rst:1
 msgid "夫の親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1071.rst:1
+#: ../../multi_var/Q1071.rst:1
 msgid ":doc:`Q1071B </variable/Q1071B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1071.rst:1
+#: ../../multi_var/Q1071.rst:1
 msgid "あなたの祖父母"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1071.rst:1
+#: ../../multi_var/Q1071.rst:1
 msgid ":doc:`Q1071C </variable/Q1071C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1071.rst:1
+#: ../../multi_var/Q1071.rst:1
 msgid "夫の祖父母"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1071.rst:1
+#: ../../multi_var/Q1071.rst:1
 msgid ":doc:`Q1071D </variable/Q1071D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1071.rst:1
+#: ../../multi_var/Q1071.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1071.rst:1
+#: ../../multi_var/Q1071.rst:1
 msgid ":doc:`Q1071E </variable/Q1071E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1071.rst:1
+#: ../../multi_var/Q1071.rst:1
 msgid "だれからもなかった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1071.rst:1
+#: ../../multi_var/Q1071.rst:1
 msgid ":doc:`Q1071F </variable/Q1071F>`"
 msgstr ""
 

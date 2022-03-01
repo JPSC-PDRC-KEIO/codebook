@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/hakensyugyo.rst:3
+#: ../../syugyo/hakensyugyo.rst:3
 msgid "派遣就業上の変化"
 msgstr ""
 

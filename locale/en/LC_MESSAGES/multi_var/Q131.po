@@ -20,142 +20,142 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:3
+#: ../../multi_var/Q131.rst:3
 msgid "特別な出来事（本人）"
 msgstr "Special events (yourself)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:7
+#: ../../multi_var/Q131.rst:7
 msgid "質問文（複数回答）"
 msgstr "Question ( multiple answers )"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:8
+#: ../../multi_var/Q131.rst:8
 msgid "この1年間（調査前年10月～調査年9月）にあなた自身に次のような出来事がありましたか。（〇はいくつでも）"
 msgstr "Have you experienced following events in the past year (the privious year of survey, Octorber to the survey year of September)? (circle as many as you like)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid "項目"
 msgstr "items"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid "変数"
 msgstr "Variable"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid "新たに仕事についた"
 msgstr "Get a new job"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid ":doc:`Q131A </variable/Q131A>`"
 msgstr ":doc:`Q131A </variable/Q131A>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid "転勤や単身赴任"
 msgstr "Job transfer/unaccompanied transfer"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid ":doc:`Q131M </variable/Q131M>`"
 msgstr ":doc:`Q131M </variable/Q131M>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid "職場または仕事を変えた"
 msgstr "Change your workplace or job"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid ":doc:`Q131B </variable/Q131B>`"
 msgstr ":doc:`Q131B </variable/Q131B>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid "仕事をやめた・希望退職"
 msgstr "Quit a job/voluntary retirement"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid ":doc:`Q131C </variable/Q131C>`"
 msgstr ":doc:`Q131C </variable/Q131C>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid "失業（解雇された、退職勧告があった）"
 msgstr "Unemployment (You were laid off or advised to resign)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid ":doc:`Q131N </variable/Q131N>`"
 msgstr ":doc:`Q131N </variable/Q131N>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid "倒産・破産"
 msgstr "Bankruptcy/Insolvency"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid ":doc:`Q131O </variable/Q131O>`"
 msgstr ":doc:`Q131O </variable/Q131O>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid "大学（院）や専門学校などに入学した"
 msgstr "Enroll in a university (graduate school) or vocational school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid ":doc:`Q131D </variable/Q131D>`"
 msgstr ":doc:`Q131D </variable/Q131D>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid "新しく習い事などを始めた"
 msgstr "Start a new lesson"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid ":doc:`Q131E </variable/Q131E>`"
 msgstr ":doc:`Q131E </variable/Q131E>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid "PTAや生協、その他サークル・団体等の役員を引き受けた"
 msgstr "Become a board member of the PTA, co-op, or other club or organization"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid ":doc:`Q131F </variable/Q131F>`"
 msgstr ":doc:`Q131F </variable/Q131F>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid "手術や長期の療養が必要な重い病気にかかった"
 msgstr "Suffer a serious illness that required surgery or long-term medical treatment"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid ":doc:`Q131G </variable/Q131G>`"
 msgstr ":doc:`Q131G </variable/Q131G>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid "うつ状態などの精神的な問題があった"
 msgstr "Have depression or other psychological problems"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid ":doc:`Q131H </variable/Q131H>`"
 msgstr ":doc:`Q131H </variable/Q131H>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid "ローンやクレジットなどを含めた消費者トラブルにあった"
 msgstr "Have consumer problems including loans and credit"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid ":doc:`Q131I </variable/Q131I>`"
 msgstr ":doc:`Q131I </variable/Q131I>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid "事故や災害にあった"
 msgstr "Have an accident or disaster"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid ":doc:`Q131J </variable/Q131J>`"
 msgstr ":doc:`Q131J </variable/Q131J>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid "その他特別な出来事があった"
 msgstr "Other special events"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid ":doc:`Q131K </variable/Q131K>`"
 msgstr ":doc:`Q131K </variable/Q131K>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid "特別なことは何もなかった"
 msgstr "Nothing special"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q131.rst:1
+#: ../../multi_var/Q131.rst:1
 msgid ":doc:`Q131L </variable/Q131L>`"
 msgstr ":doc:`Q131L </variable/Q131L>`"

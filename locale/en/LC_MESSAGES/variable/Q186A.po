@@ -20,126 +20,126 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:5
+#: ../../variable/Q186A.rst:5
 msgid "雇用保険失業給付受給の有無〔第2～第17回〕"
 msgstr "Unemployment benefits received or not [2nd - 17th waves]"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:9
+#: ../../variable/Q186A.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:11
+#: ../../variable/Q186A.rst:11
 msgid "Q186A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:15
+#: ../../variable/Q186A.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:18
+#: ../../variable/Q186A.rst:18
 msgid "やめた時、雇用保険の失業給付を受給しましたか。"
 msgstr "Did you receive unemployment benefit (from employment insurance) when you quit your job?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:24
+#: ../../variable/Q186A.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:27
+#: ../../variable/Q186A.rst:27
 msgid "受給していた"
 msgstr "Yes, I received it"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:29
+#: ../../variable/Q186A.rst:29
 msgid "受給しなかった"
 msgstr "No, I did not receive it although I was registered for employment insurance"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:31
+#: ../../variable/Q186A.rst:31
 msgid "雇用保険には入っていなかった"
 msgstr "No, I was not registered for employment insurance"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:38
+#: ../../variable/Q186A.rst:38
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:44
+#: ../../variable/Q186A.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:50
+#: ../../variable/Q186A.rst:50
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:51
+#: ../../variable/Q186A.rst:51
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:56
+#: ../../variable/Q186A.rst:56
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:62
+#: ../../variable/Q186A.rst:62
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:67
+#: ../../variable/Q186A.rst:67
 msgid "p2_1"
 msgstr "p2_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:69
+#: ../../variable/Q186A.rst:69
 msgid "p3_1"
 msgstr "p3_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:71
+#: ../../variable/Q186A.rst:71
 msgid "p4_1"
 msgstr "p4_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:73
+#: ../../variable/Q186A.rst:73
 msgid "p5a_1"
 msgstr "p5a_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:75
+#: ../../variable/Q186A.rst:75
 msgid "p6_1"
 msgstr "p6_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:77
+#: ../../variable/Q186A.rst:77
 msgid "p7_1"
 msgstr "p7_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:79
+#: ../../variable/Q186A.rst:79
 msgid "p8_1"
 msgstr "p8_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:81
+#: ../../variable/Q186A.rst:81
 msgid "p9_1"
 msgstr "p9_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:83
+#: ../../variable/Q186A.rst:83
 msgid "p10_1"
 msgstr "p10_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:85
+#: ../../variable/Q186A.rst:85
 msgid "p11ab_1"
 msgstr "p11ab_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:87
+#: ../../variable/Q186A.rst:87
 msgid "p12_1"
 msgstr "p12_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:89
+#: ../../variable/Q186A.rst:89
 msgid "p13_1"
 msgstr "p13_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:91
+#: ../../variable/Q186A.rst:91
 msgid "p14_1"
 msgstr "p14_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:93
+#: ../../variable/Q186A.rst:93
 msgid "p15_1"
 msgstr "p15_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:95
+#: ../../variable/Q186A.rst:95
 msgid "p16abc_1"
 msgstr "p16abc_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q186A.rst:97
+#: ../../variable/Q186A.rst:97
 msgid "p17_1"
 msgstr ""

@@ -17,88 +17,88 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:5
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:27
+#: ../../variable/Q706AA.rst:5
+#: ../../variable/Q706AA.rst:27
 msgid "*.ワープロ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:9
+#: ../../variable/Q706AA.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:11
+#: ../../variable/Q706AA.rst:11
 msgid "Q706AA"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:15
+#: ../../variable/Q706AA.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:18
+#: ../../variable/Q706AA.rst:18
 msgid "現在の結婚をするにあたって、あなたやご主人が購入したものはありますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:24
+#: ../../variable/Q706AA.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:29
+#: ../../variable/Q706AA.rst:29
 msgid "<string>:27: (WARNING/2) Inline emphasis start-string without end-string."
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:36
+#: ../../variable/Q706AA.rst:36
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:42
+#: ../../variable/Q706AA.rst:42
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:48
+#: ../../variable/Q706AA.rst:48
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:49
+#: ../../variable/Q706AA.rst:49
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:54
+#: ../../variable/Q706AA.rst:54
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:60
+#: ../../variable/Q706AA.rst:60
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:65
+#: ../../variable/Q706AA.rst:65
 msgid "p3_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:67
+#: ../../variable/Q706AA.rst:67
 msgid "p4_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:69
+#: ../../variable/Q706AA.rst:69
 msgid "p5a_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:71
+#: ../../variable/Q706AA.rst:71
 msgid "p5b_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:73
+#: ../../variable/Q706AA.rst:73
 msgid "p6_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:75
+#: ../../variable/Q706AA.rst:75
 msgid "p7_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:77
+#: ../../variable/Q706AA.rst:77
 msgid "p8_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q706AA.rst:79
+#: ../../variable/Q706AA.rst:79
 msgid "p9_5"
 msgstr ""
 

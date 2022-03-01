@@ -20,10 +20,10 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/ritensyoku_hs/ritensyoku_yu_hs.rst:3
+#: ../../syugyo_hs/ritensyoku_hs/ritensyoku_yu_hs.rst:3
 msgid "離職・転職（配偶者：有職）"
 msgstr "Leaving or changing jobs (spouse：employed)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/ritensyoku_hs/ritensyoku_yu_hs.rst:23
+#: ../../syugyo_hs/ritensyoku_hs/ritensyoku_yu_hs.rst:23
 msgid "休職中の人への質問"
 msgstr "Questions for those on leave"

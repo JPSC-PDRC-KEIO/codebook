@@ -17,79 +17,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:5
+#: ../../variable/Q1094.rst:5
 msgid "食品の購入"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:9
+#: ../../variable/Q1094.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:11
+#: ../../variable/Q1094.rst:11
 msgid "Q1094"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:15
+#: ../../variable/Q1094.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:18
+#: ../../variable/Q1094.rst:18
 msgid "最近食品が値上がりしていますが、値上がりした食品の購入について、あなたはどのような対応をとりましたか。最も多くとった行動を１つお答えください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:24
+#: ../../variable/Q1094.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:27
+#: ../../variable/Q1094.rst:27
 msgid "これまでより購入する量を減らした。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:29
+#: ../../variable/Q1094.rst:29
 msgid "廉価品や輸入品など、より安い商品を購入するようにした。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:31
+#: ../../variable/Q1094.rst:31
 msgid "パンからお米に代えるなど、代替品や類似品を購入するようにした"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:33
+#: ../../variable/Q1094.rst:33
 msgid "まとめ買いや特売の日に買うなど、安く購入する努力をした"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:35
+#: ../../variable/Q1094.rst:35
 msgid "食品は、これまでと同じように買い物している。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:42
+#: ../../variable/Q1094.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:48
+#: ../../variable/Q1094.rst:48
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:54
+#: ../../variable/Q1094.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:55
+#: ../../variable/Q1094.rst:55
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:60
+#: ../../variable/Q1094.rst:60
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:66
+#: ../../variable/Q1094.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:71
+#: ../../variable/Q1094.rst:71
 msgid "p16abc_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1094.rst:73
+#: ../../variable/Q1094.rst:73
 msgid "p16d_4"
 msgstr ""
 

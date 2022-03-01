@@ -20,50 +20,50 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q11_hs.rst:3
+#: ../../kihon_hs/Q11_hs.rst:3
 msgid "続柄（配偶者）"
 msgstr "Relationship (spouse)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q11_hs.rst:5
+#: ../../kihon_hs/Q11_hs.rst:5
 msgid "無配偶の家族2と共通の変数"
 msgstr "This variable is also assigned to Family-member2 of Single"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q11_hs.rst:9
+#: ../../kihon_hs/Q11_hs.rst:9
 msgid "変数名： Q11"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q11_hs.rst:13
+#: ../../kihon_hs/Q11_hs.rst:13
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q11_hs.rst:14
+#: ../../kihon_hs/Q11_hs.rst:14
 msgid "あなたとの続柄"
 msgstr "Relationship to you"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q11_hs.rst:17
+#: ../../kihon_hs/Q11_hs.rst:17
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q11_hs.rst:19
+#: ../../kihon_hs/Q11_hs.rst:19
 msgid "ご主人"
 msgstr "Husband"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q11_hs.rst:22
+#: ../../kihon_hs/Q11_hs.rst:22
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q11_hs.rst:26
+#: ../../kihon_hs/Q11_hs.rst:26
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q11_hs.rst:30
+#: ../../kihon_hs/Q11_hs.rst:30
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q11_hs.rst:35
+#: ../../kihon_hs/Q11_hs.rst:35
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q11_hs.rst:36
+#: ../../kihon_hs/Q11_hs.rst:36
 msgid "有配偶の場合は家族2は1.となります。"
 msgstr "In the case of Married, Family-member2 is husband(Relationship-code 01)."

@@ -20,23 +20,23 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:5
+#: ../../variable/P89.rst:5
 msgid "職種（実父）"
 msgstr "Job (father)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:9
+#: ../../variable/P89.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:11
+#: ../../variable/P89.rst:11
 msgid "P89"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:15
+#: ../../variable/P89.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:18
+#: ../../variable/P89.rst:18
 msgid ""
 "あなたの父親のご職業は何ですか（何でしたか）。具体的にご記入の上、〇をつけてくだ"
 "さい。（〇はひとつだけ）"
@@ -44,111 +44,111 @@ msgstr ""
 "What is (was) your father's job? (Please give details in the parentheses below, "
 "and then circle the choice below that best applies to your father.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:24
+#: ../../variable/P89.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:27
+#: ../../variable/P89.rst:27
 msgid "農林漁業（自営者）"
 msgstr "Agriculture, Forestry, or Fisheries (Self-employed) "
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:29
+#: ../../variable/P89.rst:29
 msgid "農林漁業（家族従業者）"
 msgstr "Agriculture, Forestry, or Fisheries (Family employee)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:31
+#: ../../variable/P89.rst:31
 msgid "小規模〔9人以下〕の商業・工業・サービス業（自営者）"
 msgstr "Small (9 or fewer employees) business/factory (Self-employed)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:33
+#: ../../variable/P89.rst:33
 msgid "小規模〔9人以下〕の商業・工業・サービス業（家族従業者）"
 msgstr "Small (9 or fewer employees) business/factory (Family workeremployee)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:35
+#: ../../variable/P89.rst:35
 msgid "自由業（開業医など）"
 msgstr "Free enterprise (e.g. general practitioners)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:37
+#: ../../variable/P89.rst:37
 msgid "管理職（会社の部長以上など）"
 msgstr "Managerial positions (e.g. department head of a company or higher)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:39
+#: ../../variable/P89.rst:39
 msgid "専門職（病院勤務医師など）"
 msgstr "Professionals (hospital doctors, etc.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:41
+#: ../../variable/P89.rst:41
 msgid "技術職（技術者など）"
 msgstr "Engineering (technician, etc.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:43
+#: ../../variable/P89.rst:43
 msgid "教員（小・中・高校など）"
 msgstr "Teachers (elementary, junior high, high school, etc.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:45
+#: ../../variable/P89.rst:45
 msgid "事務職（一般事務など）"
 msgstr "Clerical work (general office work, etc.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:47
+#: ../../variable/P89.rst:47
 msgid "技能・作業職（工員など）"
 msgstr "Technical/operational jobs (e.g. construction workers)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:49
+#: ../../variable/P89.rst:49
 msgid "販売サービス職（店員など）"
 msgstr "Sales service jobs (clerks, etc.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:51
+#: ../../variable/P89.rst:51
 msgid "自宅で賃仕事（内職）"
 msgstr "Paying job at home (home worker)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:53
+#: ../../variable/P89.rst:53
 msgid "無職"
 msgstr "No job"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:60
+#: ../../variable/P89.rst:60
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:66
+#: ../../variable/P89.rst:66
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:67
+#: ../../variable/P89.rst:67
 msgid "15"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:72
+#: ../../variable/P89.rst:72
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:73
+#: ../../variable/P89.rst:73
 msgid "16"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:78
+#: ../../variable/P89.rst:78
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:84
+#: ../../variable/P89.rst:84
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:89
+#: ../../variable/P89.rst:89
 msgid "p1_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:91
+#: ../../variable/P89.rst:91
 msgid "p5b_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:93
+#: ../../variable/P89.rst:93
 msgid "p11c_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:95
+#: ../../variable/P89.rst:95
 msgid "p16d_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P89.rst:97
+#: ../../variable/P89.rst:97
 msgid "p21e_4"
 msgstr ""
 

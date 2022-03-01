@@ -20,39 +20,39 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 2.2.4\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q1.rst:3
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q1.rst:14
+#: ../../kihon/Q1.rst:3
+#: ../../kihon/Q1.rst:14
 msgid "配偶者の有無"
 msgstr "Marital status"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q1.rst:7
+#: ../../kihon/Q1.rst:7
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q1.rst:9
+#: ../../kihon/Q1.rst:9
 msgid "Q1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q1.rst:12
+#: ../../kihon/Q1.rst:12
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q1.rst:18
+#: ../../kihon/Q1.rst:18
 msgid "コード"
 msgstr "Code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q1.rst:20
+#: ../../kihon/Q1.rst:20
 msgid "有配偶"
 msgstr "Married"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q1.rst:21
+#: ../../kihon/Q1.rst:21
 msgid "無配偶"
 msgstr "Single"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q1.rst:25
+#: ../../kihon/Q1.rst:25
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q1.rst:26
+#: ../../kihon/Q1.rst:26
 msgid "調査に回答している場合、データの欠測はありません。"
 msgstr "No missing values in the responded."

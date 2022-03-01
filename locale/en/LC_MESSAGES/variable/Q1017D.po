@@ -17,123 +17,123 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:5
+#: ../../variable/Q1017D.rst:5
 msgid "None"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:9
+#: ../../variable/Q1017D.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:11
+#: ../../variable/Q1017D.rst:11
 msgid "Q1017D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:15
+#: ../../variable/Q1017D.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:21
+#: ../../variable/Q1017D.rst:21
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:29
+#: ../../variable/Q1017D.rst:29
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:35
+#: ../../variable/Q1017D.rst:35
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:41
+#: ../../variable/Q1017D.rst:41
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:47
+#: ../../variable/Q1017D.rst:47
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:53
+#: ../../variable/Q1017D.rst:53
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:58
+#: ../../variable/Q1017D.rst:58
 msgid "p10_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:60
+#: ../../variable/Q1017D.rst:60
 msgid "p11ab_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:62
+#: ../../variable/Q1017D.rst:62
 msgid "p11c_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:64
+#: ../../variable/Q1017D.rst:64
 msgid "p12_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:66
+#: ../../variable/Q1017D.rst:66
 msgid "p13_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:68
+#: ../../variable/Q1017D.rst:68
 msgid "p14_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:70
+#: ../../variable/Q1017D.rst:70
 msgid "p15_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:72
+#: ../../variable/Q1017D.rst:72
 msgid "p16abc_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:74
+#: ../../variable/Q1017D.rst:74
 msgid "p16d_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:76
+#: ../../variable/Q1017D.rst:76
 msgid "p17_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:78
+#: ../../variable/Q1017D.rst:78
 msgid "p18_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:80
+#: ../../variable/Q1017D.rst:80
 msgid "p19_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:82
+#: ../../variable/Q1017D.rst:82
 msgid "p20_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:84
+#: ../../variable/Q1017D.rst:84
 msgid "p21abcd_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:86
+#: ../../variable/Q1017D.rst:86
 msgid "p21e_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:88
+#: ../../variable/Q1017D.rst:88
 msgid "p22_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:90
+#: ../../variable/Q1017D.rst:90
 msgid "p23_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:92
+#: ../../variable/Q1017D.rst:92
 msgid "p24_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:94
+#: ../../variable/Q1017D.rst:94
 msgid "p25_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1017D.rst:96
+#: ../../variable/Q1017D.rst:96
 msgid "p26_5"
 msgstr ""
 

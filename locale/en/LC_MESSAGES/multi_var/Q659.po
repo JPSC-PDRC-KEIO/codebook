@@ -17,175 +17,175 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:4
+#: ../../multi_var/Q659.rst:4
 msgid "景気動向を感じる内容"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:8
+#: ../../multi_var/Q659.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:9
+#: ../../multi_var/Q659.rst:9
 msgid "景気の動向をどのようなことで感じ取りますか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:13
+#: ../../multi_var/Q659.rst:13
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "株価の動向"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "Q659A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "銀行金利の変化"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "Q659B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "犯罪の発生件数"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "Q659C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "公共工事の増減"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "Q659D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "地価の動向"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "Q659E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "物価の変化"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "Q659F"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "7"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "収入の変化"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "Q659G"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "8"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "仕事時間の長短"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "Q659H"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "仕事の忙しさ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "Q659I"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "10"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "企業の破産や経営者の自殺など"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "Q659J"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "11"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "Q659K"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "12"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "特別感じたことはない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:1
+#: ../../multi_var/Q659.rst:1
 msgid "Q659L"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:34
+#: ../../multi_var/Q659.rst:34
 msgid "現在の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:54
+#: ../../multi_var/Q659.rst:54
 msgid "過去の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q659.rst:61
+#: ../../multi_var/Q659.rst:61
 msgid "備考"
 msgstr "Remarks"
 

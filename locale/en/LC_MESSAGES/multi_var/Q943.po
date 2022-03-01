@@ -17,38 +17,38 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q943.rst:4
+#: ../../multi_var/Q943.rst:4
 msgid "養育費強制徴収制度反対の理由"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q943.rst:8
+#: ../../multi_var/Q943.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q943.rst:9
+#: ../../multi_var/Q943.rst:9
 msgid "（離婚後の子どもの養育費を同居していない親から給与天引きなどの方法で強制的に徴収するような制度に）反対する理由をお聞かせください。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q943.rst:13
+#: ../../multi_var/Q943.rst:13
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q943.rst:18
+#: ../../multi_var/Q943.rst:18
 msgid ""
 "1,個人のプライバシーに国や地方自治体が介入したり、会社に知られるので,Q943A "
 "2,機械的に処理されると、同居していない親の主体的な扶養意識が薄れてしまうので,Q943B "
 "3,国や地方自治体の財政面からみて、強制徴収のための事務的コストがかかるので,Q943C 4,その他,Q943D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q943.rst:26
+#: ../../multi_var/Q943.rst:26
 msgid "現在の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q943.rst:38
+#: ../../multi_var/Q943.rst:38
 msgid "過去の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q943.rst:45
+#: ../../multi_var/Q943.rst:45
 msgid "備考"
 msgstr "Remarks"
 

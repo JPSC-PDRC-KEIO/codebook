@@ -20,86 +20,86 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:5
+#: ../../variable/P12.rst:5
 msgid "専門学校在学中の経済的独立状況"
 msgstr "Economic independence while in vocational school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:9
+#: ../../variable/P12.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:11
+#: ../../variable/P12.rst:11
 msgid "P12"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:15
+#: ../../variable/P12.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:18
+#: ../../variable/P12.rst:18
 msgid "在学中、経済的に親から自立していましたか（いますか）。生活費も学費も含めてお答え下さい。"
 msgstr "Were(Are)you financially independent of your parents while in school? Please respond regarding your total living expenses and tuition."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:24
+#: ../../variable/P12.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:27
+#: ../../variable/P12.rst:27
 msgid "ほとんど親に出してもらっていた（もらっている）"
 msgstr "Almost all of my expenses were(are)paid by my parents."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:29
+#: ../../variable/P12.rst:29
 msgid "かなりの部分を親に出してもらっていた（もらっている）"
 msgstr "A majority of my expenses were(are)paid by my parents."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:31
+#: ../../variable/P12.rst:31
 msgid "一部親に出してもらっていた（もらっている）"
 msgstr "A portion of my expenses were(are)paid by my parents."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:33
+#: ../../variable/P12.rst:33
 msgid "ほとんど親には出してもらわなかった（もらっていない）"
 msgstr "Almost all of my expenses were(are)paid by myself."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:40
+#: ../../variable/P12.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:46
+#: ../../variable/P12.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:52
+#: ../../variable/P12.rst:52
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:53
+#: ../../variable/P12.rst:53
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:58
+#: ../../variable/P12.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:64
+#: ../../variable/P12.rst:64
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:69
+#: ../../variable/P12.rst:69
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:71
+#: ../../variable/P12.rst:71
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:73
+#: ../../variable/P12.rst:73
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:75
+#: ../../variable/P12.rst:75
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P12.rst:77
+#: ../../variable/P12.rst:77
 msgid "p21e_1"
 msgstr ""

@@ -17,119 +17,119 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:5
+#: ../../variable/Q1020.rst:5
 msgid "前職の職業〔第5回～〕"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:9
+#: ../../variable/Q1020.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:11
+#: ../../variable/Q1020.rst:11
 msgid "Q1020"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:15
+#: ../../variable/Q1020.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:18
+#: ../../variable/Q1020.rst:18
 msgid "あなたの前職は何ですか。主たるお仕事の内容に〇をつけて下さい。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:24
+#: ../../variable/Q1020.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:27
+#: ../../variable/Q1020.rst:27
 msgid "農林漁業（自営者）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:29
+#: ../../variable/Q1020.rst:29
 msgid "農林漁業（家族従業者）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:31
+#: ../../variable/Q1020.rst:31
 msgid "小規模〔9人以下〕の商業・工業・サービス業（自営者）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:33
+#: ../../variable/Q1020.rst:33
 msgid "小規模〔9人以下〕の商業・工業・サービス業（家族従業者）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:35
+#: ../../variable/Q1020.rst:35
 msgid "自由業"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:37
+#: ../../variable/Q1020.rst:37
 msgid "管理職"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:39
+#: ../../variable/Q1020.rst:39
 msgid "専門職"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:41
+#: ../../variable/Q1020.rst:41
 msgid "技術職"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:43
+#: ../../variable/Q1020.rst:43
 msgid "教員"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:45
+#: ../../variable/Q1020.rst:45
 msgid "事務職"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:47
+#: ../../variable/Q1020.rst:47
 msgid "技能・作業職"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:49
+#: ../../variable/Q1020.rst:49
 msgid "販売サービス職"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:51
+#: ../../variable/Q1020.rst:51
 msgid "自宅で賃仕事（内職）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:58
+#: ../../variable/Q1020.rst:58
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:64
+#: ../../variable/Q1020.rst:64
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:70
+#: ../../variable/Q1020.rst:70
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:71
+#: ../../variable/Q1020.rst:71
 msgid "14"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:76
+#: ../../variable/Q1020.rst:76
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:82
+#: ../../variable/Q1020.rst:82
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:87
+#: ../../variable/Q1020.rst:87
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:89
+#: ../../variable/Q1020.rst:89
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:91
+#: ../../variable/Q1020.rst:91
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1020.rst:93
+#: ../../variable/Q1020.rst:93
 msgid "p21e_1"
 msgstr ""
 

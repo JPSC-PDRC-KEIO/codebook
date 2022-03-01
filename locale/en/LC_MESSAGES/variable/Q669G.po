@@ -17,56 +17,56 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q669G.rst:5
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q669G.rst:26
+#: ../../variable/Q669G.rst:5
+#: ../../variable/Q669G.rst:26
 msgid "7.家具・電気機器"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q669G.rst:9
+#: ../../variable/Q669G.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q669G.rst:11
+#: ../../variable/Q669G.rst:11
 msgid "Q669G"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q669G.rst:15
+#: ../../variable/Q669G.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q669G.rst:18
+#: ../../variable/Q669G.rst:18
 msgid "では、そのころ、次の度の項目を増やしましたか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q669G.rst:24
+#: ../../variable/Q669G.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q669G.rst:32
+#: ../../variable/Q669G.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q669G.rst:38
+#: ../../variable/Q669G.rst:38
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q669G.rst:44
+#: ../../variable/Q669G.rst:44
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q669G.rst:45
+#: ../../variable/Q669G.rst:45
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q669G.rst:50
+#: ../../variable/Q669G.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q669G.rst:56
+#: ../../variable/Q669G.rst:56
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q669G.rst:61
+#: ../../variable/Q669G.rst:61
 msgid "p2_5"
 msgstr ""
 

@@ -17,87 +17,87 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:3
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:3
 msgid "借入れ先候補"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:7
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:7
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:8
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:8
 msgid "その場合、借入れ先としてどの機関を考えますか。下の9つの中から、あなたが考える順に３つを選び、番号を▢にご記入下さい。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:1
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:1
 msgid "順位"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:1
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:1
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:1
 msgid "1位"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:1
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:1
 msgid ":doc:`Q436A </variable/Q436A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:1
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:1
 msgid "2位"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:1
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:1
 msgid ":doc:`Q436B </variable/Q436B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:1
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:1
 msgid "3位"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:1
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:1
 msgid ":doc:`Q436C </variable/Q436C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:21
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:21
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:23
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:23
 msgid "銀行などの金融機関・郵便局（ゆうちょ銀行）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:24
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:24
 msgid "住宅金融支援機構・年金融資・財形融資・公団融資・自治体融資などの公的融資"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:25
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:25
 msgid "社内融資"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:26
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:26
 msgid "銀行系クレジット会社"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:27
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:27
 msgid "信販会社"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:28
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:28
 msgid "消費者金融会社"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:29
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:29
 msgid "流通関連会社"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:30
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:30
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syakunyu/loan_sonota/kariiresaki.rst:31
+#: ../../syakunyu/loan_sonota/kariiresaki.rst:31
 msgid "わからない"
 msgstr ""
 

@@ -17,91 +17,91 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:4
+#: ../../multi_var/Q946.rst:4
 msgid "配偶者控除等授受のために、収入等の指示・助言を受けた経験"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:8
+#: ../../multi_var/Q946.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:9
+#: ../../multi_var/Q946.rst:9
 msgid "配偶者控除や配偶者特別控除を受けるために、あなたの収入や働き方について指示・助言されたことがありますか。(〇はいくつでも〉"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:13
+#: ../../multi_var/Q946.rst:13
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:1
+#: ../../multi_var/Q946.rst:1
 msgid "1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:1
+#: ../../multi_var/Q946.rst:1
 msgid "夫から指示・助言されたことがある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:1
+#: ../../multi_var/Q946.rst:1
 msgid "Q946A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:1
+#: ../../multi_var/Q946.rst:1
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:1
+#: ../../multi_var/Q946.rst:1
 msgid "勤め先から指示・助言されたことがある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:1
+#: ../../multi_var/Q946.rst:1
 msgid "Q946B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:1
+#: ../../multi_var/Q946.rst:1
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:1
+#: ../../multi_var/Q946.rst:1
 msgid "友人、同僚から指示・助言されたことがある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:1
+#: ../../multi_var/Q946.rst:1
 msgid "Q946C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:1
+#: ../../multi_var/Q946.rst:1
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:1
+#: ../../multi_var/Q946.rst:1
 msgid "公的機関から指示・助言されたことがある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:1
+#: ../../multi_var/Q946.rst:1
 msgid "Q946D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:1
+#: ../../multi_var/Q946.rst:1
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:1
+#: ../../multi_var/Q946.rst:1
 msgid "指示・助言されたことはない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:1
+#: ../../multi_var/Q946.rst:1
 msgid "Q946E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:27
+#: ../../multi_var/Q946.rst:27
 msgid "現在の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:40
+#: ../../multi_var/Q946.rst:40
 msgid "過去の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q946.rst:47
+#: ../../multi_var/Q946.rst:47
 msgid "備考"
 msgstr "Remarks"
 

@@ -17,99 +17,99 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:5
+#: ../../variable/Q110B.rst:5
 msgid "遺産配分・第4子以下・男人数"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:9
+#: ../../variable/Q110B.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:11
+#: ../../variable/Q110B.rst:11
 msgid "Q110B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:15
+#: ../../variable/Q110B.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:18
+#: ../../variable/Q110B.rst:18
 msgid "亡くなった方の遺産はどのように配分されましたか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:21
+#: ../../variable/Q110B.rst:21
 msgid "亡くなった方の第4子以下"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:27
+#: ../../variable/Q110B.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:29
+#: ../../variable/Q110B.rst:29
 msgid "＿人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:35
+#: ../../variable/Q110B.rst:35
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:36
+#: ../../variable/Q110B.rst:36
 msgid "8"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:41
+#: ../../variable/Q110B.rst:41
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:47
+#: ../../variable/Q110B.rst:47
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:48
+#: ../../variable/Q110B.rst:48
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:53
+#: ../../variable/Q110B.rst:53
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:59
+#: ../../variable/Q110B.rst:59
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:64
+#: ../../variable/Q110B.rst:64
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:66
+#: ../../variable/Q110B.rst:66
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:68
+#: ../../variable/Q110B.rst:68
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:70
+#: ../../variable/Q110B.rst:70
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:72
+#: ../../variable/Q110B.rst:72
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:74
+#: ../../variable/Q110B.rst:74
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:76
+#: ../../variable/Q110B.rst:76
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:78
+#: ../../variable/Q110B.rst:78
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q110B.rst:80
+#: ../../variable/Q110B.rst:80
 msgid "p10_1"
 msgstr ""
 

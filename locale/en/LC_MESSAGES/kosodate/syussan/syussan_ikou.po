@@ -19,35 +19,35 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_ikou.rst:3
+#: ../../kosodate/syussan/syussan_ikou.rst:3
 msgid "出産についての意向"
 msgstr "Future birth intentions"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_ikou.rst:6
+#: ../../kosodate/syussan/syussan_ikou.rst:6
 msgid "概要"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_ikou.rst:7
+#: ../../kosodate/syussan/syussan_ikou.rst:7
 msgid "年齢を問わず全ての対象者に今後の出産希望とその希望理由、あるいは出産を望まない理由等を尋ねています。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_ikou.rst:20
+#: ../../kosodate/syussan/syussan_ikou.rst:20
 msgid "下4つの質問は :doc:`/variable/Q511` の回答によって回答する人の条件が異なります。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_ikou.rst:22
+#: ../../kosodate/syussan/syussan_ikou.rst:22
 msgid ""
 ":doc:`/multi_var/Q512` は、 :doc:`/variable/Q511` で「2. "
 "条件によっては欲しい」と回答した人のみが回答しています。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_ikou.rst:24
+#: ../../kosodate/syussan/syussan_ikou.rst:24
 msgid ""
 ":doc:`/multi_var/Q513` は、 :doc:`/variable/Q511` で「3. "
 "欲しくない」と回答した人のみが回答しています。また、有配偶と無配偶で選択肢、変数名が異なります。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_ikou.rst:26
+#: ../../kosodate/syussan/syussan_ikou.rst:26
 msgid ""
 ":doc:`/variable/Q515` と :doc:`/variable/Q516` は、 :doc:`/variable/Q511` "
 "で「1. 是非、欲しい」、「2. 条件によっては欲しい」と回答した人が回答しています。"

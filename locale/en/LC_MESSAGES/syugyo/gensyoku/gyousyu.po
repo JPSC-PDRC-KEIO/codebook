@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 14:59+0900\n"
+"POT-Creation-Date: 2022-02-22 15:31+0900\n"
 "PO-Revision-Date: 2020-03-25 14:14+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -17,9 +17,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../syugyo/gensyoku/gyousyu.rst:2
+#: ../../syugyo/gensyoku/gyousyu.rst:3
 msgid "勤務先の業種"
 msgstr "Industry category"
 
@@ -37,13 +37,14 @@ msgstr ""
 #: ../../syugyo/gensyoku/gyousyu.rst:12
 msgid ""
 "第1回から第20回までは12分類（:doc:`Q146 "
-"</variable/Q146>`）で対象者に尋ねていて、第21回からは16分類（:doc:`Q1182 "
-"</variable/Q1182>`）で尋ねています。 ただし旧分類に基づいた変数（:doc:`Q146 "
-"</variable/Q146>`）は、第21回以降のデータにも12分類にリコードして残しています。"
+"</variable/Q146>`）で尋ねていて、第21回からは16分類（:doc:`Q1182 "
+"</variable/Q1182>`）で尋ねています。 "
+"ただし第21回以降のデータにも、職業に関する自由記述や新分類での回答をもとにし、旧分類（12分類）に従って分類した変数（:doc:`Q146 "
+"</variable/Q146>`）も作成しています。"
 msgstr ""
-"From the 1st to the 20th, categorized into 12 choices (:doc:`Q146 </"
-"variable/Q146>`), and from the 21st, 16 choices (:doc:`Q1182 </"
-"variable/Q1182>`) categorized into into. However, the variable based on"
+"From the 1st to the 20th, categorized into 12 choices (:doc:`Q146 "
+"</variable/Q146>`), and from the 21st, 16 choices (:doc:`Q1182 "
+"</variable/Q1182>`) categorized into into. However, the variable based on"
 " the old classification (Q146) is retained in the data from the 21st "
 "wave."
 
@@ -146,7 +147,7 @@ msgstr "9.Wholesale, retail"
 
 #: ../../syugyo/gensyoku/gyousyu.rst
 msgid "10.金融業、保険業、不動産業"
-msgstr "10.Accommodation, food, and beverage service"
+msgstr "10.Finance, insurance and real estate"
 
 #: ../../syugyo/gensyoku/gyousyu.rst
 msgid "11.宿泊業、飲食サービス業"

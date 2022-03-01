@@ -17,91 +17,91 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:4
+#: ../../multi_var/Q1000.rst:4
 msgid "インターネットで利用したサービス"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:8
+#: ../../multi_var/Q1000.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:9
+#: ../../multi_var/Q1000.rst:9
 msgid "次の中に、この1年間にインターネットで利用したサービスはありますか。（あてはまるものすべてに〇）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:13
+#: ../../multi_var/Q1000.rst:13
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:1
+#: ../../multi_var/Q1000.rst:1
 msgid "1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:1
+#: ../../multi_var/Q1000.rst:1
 msgid "オンラインショッピング"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:1
+#: ../../multi_var/Q1000.rst:1
 msgid "Q1000A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:1
+#: ../../multi_var/Q1000.rst:1
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:1
+#: ../../multi_var/Q1000.rst:1
 msgid "個人売買（オークション等）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:1
+#: ../../multi_var/Q1000.rst:1
 msgid "Q1000B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:1
+#: ../../multi_var/Q1000.rst:1
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:1
+#: ../../multi_var/Q1000.rst:1
 msgid "バンキング"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:1
+#: ../../multi_var/Q1000.rst:1
 msgid "Q1000C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:1
+#: ../../multi_var/Q1000.rst:1
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:1
+#: ../../multi_var/Q1000.rst:1
 msgid "株取引"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:1
+#: ../../multi_var/Q1000.rst:1
 msgid "Q1000D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:1
+#: ../../multi_var/Q1000.rst:1
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:1
+#: ../../multi_var/Q1000.rst:1
 msgid "この中にはない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:1
+#: ../../multi_var/Q1000.rst:1
 msgid "Q1000E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:27
+#: ../../multi_var/Q1000.rst:27
 msgid "現在の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:40
+#: ../../multi_var/Q1000.rst:40
 msgid "過去の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1000.rst:47
+#: ../../multi_var/Q1000.rst:47
 msgid "備考"
 msgstr "Remarks"
 

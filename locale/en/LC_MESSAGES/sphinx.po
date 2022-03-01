@@ -17,36 +17,36 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/_templates/breadcrumbs.html:6
+#: ../../_templates/breadcrumbs.html:6
 msgid "Home"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/_templates/breadcrumbs.html:19
-#: /mnt/c/Users/JPSC/code_books/codebook/_templates/breadcrumbs.html:21
+#: ../../_templates/breadcrumbs.html:19
+#: ../../_templates/breadcrumbs.html:21
 msgid "Edit on GitHub"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/_templates/breadcrumbs.html:26
-#: /mnt/c/Users/JPSC/code_books/codebook/_templates/breadcrumbs.html:28
+#: ../../_templates/breadcrumbs.html:26
+#: ../../_templates/breadcrumbs.html:28
 msgid "Edit on Bitbucket"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/_templates/breadcrumbs.html:33
-#: /mnt/c/Users/JPSC/code_books/codebook/_templates/breadcrumbs.html:35
+#: ../../_templates/breadcrumbs.html:33
+#: ../../_templates/breadcrumbs.html:35
 msgid "Edit on GitLab"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/_templates/breadcrumbs.html:38
+#: ../../_templates/breadcrumbs.html:38
 msgid "View page source"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/_templates/layout.html:22
-#: /mnt/c/Users/JPSC/code_books/codebook/_templates/layout.html:33
-#: /mnt/c/Users/JPSC/code_books/codebook/_templates/layout.html:34
+#: ../../_templates/layout.html:22
+#: ../../_templates/layout.html:33
+#: ../../_templates/layout.html:34
 msgid "Documentation Home"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/_templates/layout.html:31
+#: ../../_templates/layout.html:31
 msgid "Logo"
 msgstr ""
 

@@ -17,79 +17,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:3
+#: ../../multi_var/Q543.rst:3
 msgid "受講費用負担者（有配偶）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:7
+#: ../../multi_var/Q543.rst:7
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:8
+#: ../../multi_var/Q543.rst:8
 msgid "その費用はどなたが負担しましたか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:1
+#: ../../multi_var/Q543.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:1
+#: ../../multi_var/Q543.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:1
+#: ../../multi_var/Q543.rst:1
 msgid "自分自身"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:1
+#: ../../multi_var/Q543.rst:1
 msgid ":doc:`Q543G </variable/Q543G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:1
+#: ../../multi_var/Q543.rst:1
 msgid "勤め先"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:1
+#: ../../multi_var/Q543.rst:1
 msgid ":doc:`Q543H </variable/Q543H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:1
+#: ../../multi_var/Q543.rst:1
 msgid "夫"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:1
+#: ../../multi_var/Q543.rst:1
 msgid ":doc:`Q543I </variable/Q543I>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:1
+#: ../../multi_var/Q543.rst:1
 msgid "自分の親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:1
+#: ../../multi_var/Q543.rst:1
 msgid ":doc:`Q543J </variable/Q543J>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:1
+#: ../../multi_var/Q543.rst:1
 msgid "教育訓練給付制度"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:1
+#: ../../multi_var/Q543.rst:1
 msgid ":doc:`Q543M </variable/Q543M>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:1
+#: ../../multi_var/Q543.rst:1
 msgid "その他の公的な助成"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:1
+#: ../../multi_var/Q543.rst:1
 msgid ":doc:`Q543K </variable/Q543K>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:1
+#: ../../multi_var/Q543.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q543.rst:1
+#: ../../multi_var/Q543.rst:1
 msgid ":doc:`Q543L </variable/Q543L>`"
 msgstr ""
 

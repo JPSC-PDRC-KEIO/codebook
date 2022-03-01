@@ -17,99 +17,99 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:5
+#: ../../variable/Q191Q.rst:5
 msgid "現職（会社）の選択理由：結婚相手が見つかる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:9
+#: ../../variable/Q191Q.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:11
+#: ../../variable/Q191Q.rst:11
 msgid "Q191Q"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:15
+#: ../../variable/Q191Q.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:18
+#: ../../variable/Q191Q.rst:18
 msgid "なぜ、あなたは現在の会社等を選びましたか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:21
+#: ../../variable/Q191Q.rst:21
 msgid "結婚相手が見つかる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:27
+#: ../../variable/Q191Q.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:30
+#: ../../variable/Q191Q.rst:30
 msgid "はい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:32
+#: ../../variable/Q191Q.rst:32
 msgid "いいえ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:39
+#: ../../variable/Q191Q.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:45
+#: ../../variable/Q191Q.rst:45
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:51
+#: ../../variable/Q191Q.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:52
+#: ../../variable/Q191Q.rst:52
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:57
+#: ../../variable/Q191Q.rst:57
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:63
+#: ../../variable/Q191Q.rst:63
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:68
+#: ../../variable/Q191Q.rst:68
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:70
+#: ../../variable/Q191Q.rst:70
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:72
+#: ../../variable/Q191Q.rst:72
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:74
+#: ../../variable/Q191Q.rst:74
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:76
+#: ../../variable/Q191Q.rst:76
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:78
+#: ../../variable/Q191Q.rst:78
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:80
+#: ../../variable/Q191Q.rst:80
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:82
+#: ../../variable/Q191Q.rst:82
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q191Q.rst:84
+#: ../../variable/Q191Q.rst:84
 msgid "p10_1"
 msgstr ""
 

@@ -17,55 +17,55 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q898.rst:4
+#: ../../multi_var/Q898.rst:4
 msgid "教育訓練給付制度の利用目的"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q898.rst:8
+#: ../../multi_var/Q898.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q898.rst:9
+#: ../../multi_var/Q898.rst:9
 msgid "（「教育訓練給付制度」を利用したい）目的は何ですか。（〇は2まで）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q898.rst:1
+#: ../../multi_var/Q898.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q898.rst:1
+#: ../../multi_var/Q898.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q898.rst:1
+#: ../../multi_var/Q898.rst:1
 msgid "これまでの仕事を発展させるために役立ちそうな知識や資格などを得るため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q898.rst:1
+#: ../../multi_var/Q898.rst:1
 msgid ":doc:`Q898A </variable/Q898A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q898.rst:1
+#: ../../multi_var/Q898.rst:1
 msgid "これからの仕事に役立ちそうな知識や資格などを得るため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q898.rst:1
+#: ../../multi_var/Q898.rst:1
 msgid ":doc:`Q898B </variable/Q898B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q898.rst:1
+#: ../../multi_var/Q898.rst:1
 msgid "特に仕事に役立つとは思わないが、興味があったので"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q898.rst:1
+#: ../../multi_var/Q898.rst:1
 msgid ":doc:`Q898C </variable/Q898C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q898.rst:1
+#: ../../multi_var/Q898.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q898.rst:1
+#: ../../multi_var/Q898.rst:1
 msgid ":doc:`Q898D </variable/Q898D>`"
 msgstr ""
 

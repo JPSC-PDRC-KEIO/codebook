@@ -17,99 +17,99 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:5
+#: ../../variable/Q183.rst:5
 msgid "月間労働時間変化"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:9
+#: ../../variable/Q183.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:11
+#: ../../variable/Q183.rst:11
 msgid "Q183"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:15
+#: ../../variable/Q183.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:18
+#: ../../variable/Q183.rst:18
 msgid "1年前と比べて月間の労働時間に変化はありますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:24
+#: ../../variable/Q183.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:27
+#: ../../variable/Q183.rst:27
 msgid "変化はない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:29
+#: ../../variable/Q183.rst:29
 msgid "長くなった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:31
+#: ../../variable/Q183.rst:31
 msgid "短くなった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:38
+#: ../../variable/Q183.rst:38
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:44
+#: ../../variable/Q183.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:50
+#: ../../variable/Q183.rst:50
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:51
+#: ../../variable/Q183.rst:51
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:56
+#: ../../variable/Q183.rst:56
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:62
+#: ../../variable/Q183.rst:62
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:67
+#: ../../variable/Q183.rst:67
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:69
+#: ../../variable/Q183.rst:69
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:71
+#: ../../variable/Q183.rst:71
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:73
+#: ../../variable/Q183.rst:73
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:75
+#: ../../variable/Q183.rst:75
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:77
+#: ../../variable/Q183.rst:77
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:79
+#: ../../variable/Q183.rst:79
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:81
+#: ../../variable/Q183.rst:81
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q183.rst:83
+#: ../../variable/Q183.rst:83
 msgid "p10_1"
 msgstr ""
 

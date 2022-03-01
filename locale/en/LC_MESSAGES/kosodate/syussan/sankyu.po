@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/sankyu.rst:3
+#: ../../kosodate/syussan/sankyu.rst:3
 msgid "産前産後休業"
 msgstr ""
 

@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/hendou_year.rst:3
+#: ../../seikatsu_hendou/hendou_year.rst:3
 msgid "１年間の世帯変動"
 msgstr "Changes in your household during the past year"

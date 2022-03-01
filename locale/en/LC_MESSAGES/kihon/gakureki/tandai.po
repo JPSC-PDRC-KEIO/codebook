@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/gakureki/tandai.rst:3
+#: ../../kihon/gakureki/tandai.rst:3
 msgid "短大・高専について"
 msgstr "Junior college or College of technology"

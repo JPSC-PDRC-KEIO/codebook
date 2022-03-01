@@ -17,71 +17,71 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P59.rst:5
+#: ../../variable/P59.rst:5
 msgid "仕事継続の意向"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P59.rst:9
+#: ../../variable/P59.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P59.rst:11
+#: ../../variable/P59.rst:11
 msgid "P59"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P59.rst:15
+#: ../../variable/P59.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P59.rst:18
+#: ../../variable/P59.rst:18
 msgid "あなたは、現在の仕事を今後も続けるつもりがありますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P59.rst:24
+#: ../../variable/P59.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P59.rst:27
+#: ../../variable/P59.rst:27
 msgid "やめる意思は全くない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P59.rst:29
+#: ../../variable/P59.rst:29
 msgid "ほかに仕方がないので続ける"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P59.rst:31
+#: ../../variable/P59.rst:31
 msgid "そのうち辞めるつもり"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P59.rst:33
+#: ../../variable/P59.rst:33
 msgid "具体的にやめる準備をしている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P59.rst:40
+#: ../../variable/P59.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P59.rst:46
+#: ../../variable/P59.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P59.rst:52
+#: ../../variable/P59.rst:52
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P59.rst:58
+#: ../../variable/P59.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P59.rst:64
+#: ../../variable/P59.rst:64
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P59.rst:69
+#: ../../variable/P59.rst:69
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P59.rst:71
+#: ../../variable/P59.rst:71
 msgid "p5b_1"
 msgstr ""
 

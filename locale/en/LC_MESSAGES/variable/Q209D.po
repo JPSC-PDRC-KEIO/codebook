@@ -17,75 +17,75 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q209D.rst:5
+#: ../../variable/Q209D.rst:5
 msgid "仕事経験：報酬を伴った、個人的に頼まれた家事"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q209D.rst:9
+#: ../../variable/Q209D.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q209D.rst:11
+#: ../../variable/Q209D.rst:11
 msgid "Q209D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q209D.rst:15
+#: ../../variable/Q209D.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q209D.rst:18
+#: ../../variable/Q209D.rst:18
 msgid "あなたは、この3年間に次のような収入を伴う仕事をしたことがありますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q209D.rst:21
+#: ../../variable/Q209D.rst:21
 msgid "近所の人や友人に個人的に頼まれた家事や子ども・老人の世話、保育園の送迎などの仕事（報酬を伴う）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q209D.rst:27
+#: ../../variable/Q209D.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q209D.rst:30
+#: ../../variable/Q209D.rst:30
 msgid "現在もしている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q209D.rst:32
+#: ../../variable/Q209D.rst:32
 msgid "したことがあるが、今はやめた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q209D.rst:39
+#: ../../variable/Q209D.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q209D.rst:45
+#: ../../variable/Q209D.rst:45
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q209D.rst:51
+#: ../../variable/Q209D.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q209D.rst:52
+#: ../../variable/Q209D.rst:52
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q209D.rst:57
+#: ../../variable/Q209D.rst:57
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q209D.rst:63
+#: ../../variable/Q209D.rst:63
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q209D.rst:68
+#: ../../variable/Q209D.rst:68
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q209D.rst:70
+#: ../../variable/Q209D.rst:70
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q209D.rst:72
+#: ../../variable/Q209D.rst:72
 msgid "p5b_1"
 msgstr ""
 

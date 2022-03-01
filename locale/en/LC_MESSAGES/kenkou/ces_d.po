@@ -20,15 +20,15 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:3
+#: ../../kenkou/ces_d.rst:3
 msgid "からだ・心の状態：抑うつ指標（CES-D）"
 msgstr "Physical and mental state: Depression Index (CES-D)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:6
+#: ../../kenkou/ces_d.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:8
+#: ../../kenkou/ces_d.rst:8
 msgid ""
 "この1週間のあなたのからだや心の状態についてお聞きします。以下のような気分やことがらをどのくらい"
 "経験しましたか。それぞれあてはまる番号に〇をつけてください。（それぞれ〇は１つだけ）"
@@ -37,143 +37,143 @@ msgstr ""
 "did you experience each of the following feelings or matters? Circle your answer to each "
 "question. (Circle one for each question.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:11
+#: ../../kenkou/ces_d.rst:11
 msgid "選択肢"
 msgstr "Options"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "項目"
 msgstr "Items"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "全くなかった"
 msgstr "Not at all"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "週に1～2回"
 msgstr "One or two days a week"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "週に3～4回"
 msgstr "Three or four days a week"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "ほとんど毎日"
 msgstr "Almost every day"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "ふだんは何でもないことを煩わしいと感じたこと"
 msgstr "I was bothered by things which usually don’t bother me."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid ":doc:`Q1093_1 </variable/Q1093_1>`"
 msgstr ":doc:`Q1093_1 </variable/Q1093_1>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "家族や友達から励ましてもらっても気分が晴れないこと"
 msgstr "I felt that I could not shake off the blues, even if my family or friends cheered me up."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid ":doc:`Q1093_2 </variable/Q1093_2>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "憂鬱だと感じたこと"
 msgstr "I felt depressed."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid ":doc:`Q1093_3 </variable/Q1093_3>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "物事に集中できなかったこと"
 msgstr "I had trouble keeping my mind on what I was doing."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid ":doc:`Q1093_4 </variable/Q1093_4>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "食欲が落ちたこと"
 msgstr "My appetite decreased."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid ":doc:`Q1093_5 </variable/Q1093_5>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "何をするのも面倒と感じたこと"
 msgstr "I felt that everything I did was an effort."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid ":doc:`Q1093_6 </variable/Q1093_6>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "何か恐ろしい気持がしたこと"
 msgstr "I felt fearful."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid ":doc:`Q1093_7 </variable/Q1093_7>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "なかなか眠れなかったこと"
 msgstr "I had trouble sleeping."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid ":doc:`Q1093_8 </variable/Q1093_8>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "ふだんより口数が少なくなったこと"
 msgstr "I talked less than usual."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid ":doc:`Q1093_9 </variable/Q1093_9>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "一人ぼっちで寂しいと感じたこと"
 msgstr "I felt lonely without company."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid ":doc:`Q1093_10 </variable/Q1093_10>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "「毎日が楽しい」と感じたこと"
 msgstr "I felt that my days were fun."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid ":doc:`Q1093_11 </variable/Q1093_11>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid "悲しいと感じたこと"
 msgstr "I felt sad."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/ces_d.rst:1
+#: ../../kenkou/ces_d.rst:1
 msgid ":doc:`Q1093_12 </variable/Q1093_12>`"
 msgstr ""
 

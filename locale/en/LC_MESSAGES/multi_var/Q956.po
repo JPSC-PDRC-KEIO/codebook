@@ -17,115 +17,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:4
+#: ../../multi_var/Q956.rst:4
 msgid "勤労調整をした理由"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:8
+#: ../../multi_var/Q956.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:9
+#: ../../multi_var/Q956.rst:9
 msgid "（年収が一定額を越えないように調整したのは）どの理由によりますか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:13
+#: ../../multi_var/Q956.rst:13
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "自分自身に所得税がかかるから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "Q956A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "配偶者の配偶者控除や配偶者特別控除がなくなるから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "Q956B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "配偶者の配偶者手当がもらえなくなるから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "Q956C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "配偶者の健康保険の被保険者からはずれて自分で健康保険に加入しなければならないから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "Q956D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "雇用保険に加入しなければならないから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "Q956E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "配偶者の会社にあなたが働いていることが知られてしまうから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "Q956F"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "7"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:1
+#: ../../multi_var/Q956.rst:1
 msgid "Q956G"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:29
+#: ../../multi_var/Q956.rst:29
 msgid "現在の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:44
+#: ../../multi_var/Q956.rst:44
 msgid "過去の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q956.rst:51
+#: ../../multi_var/Q956.rst:51
 msgid "備考"
 msgstr "Remarks"
 

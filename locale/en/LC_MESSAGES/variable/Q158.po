@@ -20,106 +20,106 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:5
+#: ../../variable/Q158.rst:5
 msgid "勤務先の育児休業制度設立時期"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:9
+#: ../../variable/Q158.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:11
+#: ../../variable/Q158.rst:11
 msgid "Q158"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:15
+#: ../../variable/Q158.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:18
+#: ../../variable/Q158.rst:18
 msgid "あなたの勤めている会社等では、いつ育児休業制度が作られましたか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:24
+#: ../../variable/Q158.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:27
+#: ../../variable/Q158.rst:27
 msgid "10年以上前"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:29
+#: ../../variable/Q158.rst:29
 msgid "5～9年前"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:31
+#: ../../variable/Q158.rst:31
 msgid "3～4年前"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:33
+#: ../../variable/Q158.rst:33
 msgid "1～2年前"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:35
+#: ../../variable/Q158.rst:35
 msgid "今年"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:37
+#: ../../variable/Q158.rst:37
 msgid "わからない"
 msgstr "Don’t know"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:44
+#: ../../variable/Q158.rst:44
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:50
+#: ../../variable/Q158.rst:50
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:56
+#: ../../variable/Q158.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:57
+#: ../../variable/Q158.rst:57
 msgid "7"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:62
+#: ../../variable/Q158.rst:62
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:68
+#: ../../variable/Q158.rst:68
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:73
+#: ../../variable/Q158.rst:73
 msgid "p2_1"
 msgstr "p2_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:75
+#: ../../variable/Q158.rst:75
 msgid "p5a_1"
 msgstr "p5a_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:77
+#: ../../variable/Q158.rst:77
 msgid "p5b_1"
 msgstr "p5b_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:79
+#: ../../variable/Q158.rst:79
 msgid "p6_1"
 msgstr "p6_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:81
+#: ../../variable/Q158.rst:81
 msgid "p7_1"
 msgstr "p7_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:83
+#: ../../variable/Q158.rst:83
 msgid "p8_1"
 msgstr "p8_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:85
+#: ../../variable/Q158.rst:85
 msgid "p9_1"
 msgstr "p9_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q158.rst:87
+#: ../../variable/Q158.rst:87
 msgid "p10_1"
 msgstr "p10_1"

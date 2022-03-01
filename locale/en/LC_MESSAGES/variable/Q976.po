@@ -17,75 +17,75 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:5
+#: ../../variable/Q976.rst:5
 msgid "公的介護保険制度についての意見"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:9
+#: ../../variable/Q976.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:11
+#: ../../variable/Q976.rst:11
 msgid "Q976"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:15
+#: ../../variable/Q976.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:18
+#: ../../variable/Q976.rst:18
 msgid "公的介護保険は高齢者介護を公的な制度で進める案ですが、このことについてどう思いますか。（〇は１つ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:24
+#: ../../variable/Q976.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:27
+#: ../../variable/Q976.rst:27
 msgid "高齢者自身が私的に備えれば十分なので、公的な制度は必要ない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:29
+#: ../../variable/Q976.rst:29
 msgid "子どもや家族が介護すべきであり、公的な制度は必要ない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:31
+#: ../../variable/Q976.rst:31
 msgid "高齢者や家族では限界があるので、公的な制度が必要である"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:33
+#: ../../variable/Q976.rst:33
 msgid "公的制度は必要だが、不平等が生じないように条件を整備すべきである"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:35
+#: ../../variable/Q976.rst:35
 msgid "その他（具体的に　　　　　　　）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:42
+#: ../../variable/Q976.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:48
+#: ../../variable/Q976.rst:48
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:54
+#: ../../variable/Q976.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:55
+#: ../../variable/Q976.rst:55
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:60
+#: ../../variable/Q976.rst:60
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:66
+#: ../../variable/Q976.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q976.rst:71
+#: ../../variable/Q976.rst:71
 msgid "p4_4"
 msgstr ""
 

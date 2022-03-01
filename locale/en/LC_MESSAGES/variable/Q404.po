@@ -17,79 +17,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:5
+#: ../../variable/Q404.rst:5
 msgid "住居以外の不動産所有"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:9
+#: ../../variable/Q404.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:11
+#: ../../variable/Q404.rst:11
 msgid "Q404"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:15
+#: ../../variable/Q404.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:18
+#: ../../variable/Q404.rst:18
 msgid "あなた方ご夫婦は、今住んでいる家、セカンドハウス以外に、例えば他人に貸すために土地・建物などの不動産を所有していますか。（親との共同名義のものも含みます）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:24
+#: ../../variable/Q404.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:27
+#: ../../variable/Q404.rst:27
 msgid "土地のみを所有している"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:29
+#: ../../variable/Q404.rst:29
 msgid "建物のみを所有している"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:31
+#: ../../variable/Q404.rst:31
 msgid "土地・建物両方を所有している"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:33
+#: ../../variable/Q404.rst:33
 msgid "マンションを所有している"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:35
+#: ../../variable/Q404.rst:35
 msgid "所有していない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:42
+#: ../../variable/Q404.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:48
+#: ../../variable/Q404.rst:48
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:54
+#: ../../variable/Q404.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:55
+#: ../../variable/Q404.rst:55
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:60
+#: ../../variable/Q404.rst:60
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:66
+#: ../../variable/Q404.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:71
+#: ../../variable/Q404.rst:71
 msgid "p1_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q404.rst:73
+#: ../../variable/Q404.rst:73
 msgid "p2_2"
 msgstr ""
 

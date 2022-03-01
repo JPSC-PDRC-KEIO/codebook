@@ -17,76 +17,76 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:5
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:26
+#: ../../variable/Q81M.rst:5
+#: ../../variable/Q81M.rst:26
 msgid "3.ベビーホテルを利用"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:9
+#: ../../variable/Q81M.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:11
+#: ../../variable/Q81M.rst:11
 msgid "Q81M"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:15
+#: ../../variable/Q81M.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:18
+#: ../../variable/Q81M.rst:18
 msgid "仕事復帰してからの育児はどのようにしていますか（する予定ですか）。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:24
+#: ../../variable/Q81M.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:32
+#: ../../variable/Q81M.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:38
+#: ../../variable/Q81M.rst:38
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:44
+#: ../../variable/Q81M.rst:44
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:45
+#: ../../variable/Q81M.rst:45
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:50
+#: ../../variable/Q81M.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:56
+#: ../../variable/Q81M.rst:56
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:61
+#: ../../variable/Q81M.rst:61
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:63
+#: ../../variable/Q81M.rst:63
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:65
+#: ../../variable/Q81M.rst:65
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:67
+#: ../../variable/Q81M.rst:67
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:69
+#: ../../variable/Q81M.rst:69
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q81M.rst:71
+#: ../../variable/Q81M.rst:71
 msgid "p10_1"
 msgstr ""
 

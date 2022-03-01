@@ -17,91 +17,91 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:3
+#: ../../multi_var/Q1095.rst:3
 msgid "子どもの入学準備費用のまかない方"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:7
+#: ../../multi_var/Q1095.rst:7
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:8
+#: ../../multi_var/Q1095.rst:8
 msgid "お子さんの入学準備（机・学用品の購入、受験・進学準備費用・入学金、1人暮らしなどによる新生活の準備など）のためのお金は、どのようにまかないましたか。入学されたお子さんが2人以上いる場合には、一番上のお子さんの場合についてお答え下さい。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:12
+#: ../../multi_var/Q1095.rst:12
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
+#: ../../multi_var/Q1095.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
+#: ../../multi_var/Q1095.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
+#: ../../multi_var/Q1095.rst:1
 msgid "日ごろの収入"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
+#: ../../multi_var/Q1095.rst:1
 msgid ":doc:`Q1095A </variable/Q1095A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
+#: ../../multi_var/Q1095.rst:1
 msgid "学資保険"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
+#: ../../multi_var/Q1095.rst:1
 msgid ":doc:`Q1095B </variable/Q1095B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
+#: ../../multi_var/Q1095.rst:1
 msgid "預貯金取り崩し、株や資産の売却"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
+#: ../../multi_var/Q1095.rst:1
 msgid ":doc:`Q1095C </variable/Q1095C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
+#: ../../multi_var/Q1095.rst:1
 msgid "自分・夫の親や親族からの援助"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
+#: ../../multi_var/Q1095.rst:1
 msgid ":doc:`Q1095D </variable/Q1095D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
+#: ../../multi_var/Q1095.rst:1
 msgid "金融機関・公的機関などからの借り入れ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
+#: ../../multi_var/Q1095.rst:1
 msgid ":doc:`Q1095E </variable/Q1095E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
+#: ../../multi_var/Q1095.rst:1
 msgid "子ども自身がまかなった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
+#: ../../multi_var/Q1095.rst:1
 msgid ":doc:`Q1095F </variable/Q1095F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
+#: ../../multi_var/Q1095.rst:1
 msgid "特に準備の必要はなかった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
+#: ../../multi_var/Q1095.rst:1
 msgid ":doc:`Q1095G </variable/Q1095G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
+#: ../../multi_var/Q1095.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1095.rst:1
+#: ../../multi_var/Q1095.rst:1
 msgid ":doc:`Q1095H </variable/Q1095H>`"
 msgstr ""
 

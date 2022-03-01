@@ -17,91 +17,91 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:5
+#: ../../variable/Q1029.rst:5
 msgid "勤務先の創立時期（転職先）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:9
+#: ../../variable/Q1029.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:11
+#: ../../variable/Q1029.rst:11
 msgid "Q1029"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:15
+#: ../../variable/Q1029.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:18
+#: ../../variable/Q1029.rst:18
 msgid "現在勤めている会社等の創立時期はいつですか。（注　公務員の方は創立時期にかかわりなく、「官公庁」に〇をして下さい）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:24
+#: ../../variable/Q1029.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:27
+#: ../../variable/Q1029.rst:27
 msgid "戦前"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:29
+#: ../../variable/Q1029.rst:29
 msgid "昭和20年代"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:31
+#: ../../variable/Q1029.rst:31
 msgid "昭和30年代"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:33
+#: ../../variable/Q1029.rst:33
 msgid "昭和40年代"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:35
+#: ../../variable/Q1029.rst:35
 msgid "昭和50年代"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:37
+#: ../../variable/Q1029.rst:37
 msgid "昭和60～63年"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:39
+#: ../../variable/Q1029.rst:39
 msgid "平成元年以降"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:41
+#: ../../variable/Q1029.rst:41
 msgid "官公庁"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:48
+#: ../../variable/Q1029.rst:48
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:54
+#: ../../variable/Q1029.rst:54
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:60
+#: ../../variable/Q1029.rst:60
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:61
+#: ../../variable/Q1029.rst:61
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:66
+#: ../../variable/Q1029.rst:66
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:72
+#: ../../variable/Q1029.rst:72
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:77
+#: ../../variable/Q1029.rst:77
 msgid "p11ab_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1029.rst:79
+#: ../../variable/Q1029.rst:79
 msgid "p11c_1"
 msgstr ""
 

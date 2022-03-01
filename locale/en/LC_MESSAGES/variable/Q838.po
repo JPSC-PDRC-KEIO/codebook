@@ -17,143 +17,143 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:5
+#: ../../variable/Q838.rst:5
 msgid "None"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:9
+#: ../../variable/Q838.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:11
+#: ../../variable/Q838.rst:11
 msgid "Q838"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:15
+#: ../../variable/Q838.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:21
+#: ../../variable/Q838.rst:21
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:29
+#: ../../variable/Q838.rst:29
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:35
+#: ../../variable/Q838.rst:35
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:41
+#: ../../variable/Q838.rst:41
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:47
+#: ../../variable/Q838.rst:47
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:53
+#: ../../variable/Q838.rst:53
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:58
+#: ../../variable/Q838.rst:58
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:60
+#: ../../variable/Q838.rst:60
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:62
+#: ../../variable/Q838.rst:62
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:64
+#: ../../variable/Q838.rst:64
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:66
+#: ../../variable/Q838.rst:66
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:68
+#: ../../variable/Q838.rst:68
 msgid "p10_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:70
+#: ../../variable/Q838.rst:70
 msgid "p11ab_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:72
+#: ../../variable/Q838.rst:72
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:74
+#: ../../variable/Q838.rst:74
 msgid "p12_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:76
+#: ../../variable/Q838.rst:76
 msgid "p13_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:78
+#: ../../variable/Q838.rst:78
 msgid "p14_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:80
+#: ../../variable/Q838.rst:80
 msgid "p15_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:82
+#: ../../variable/Q838.rst:82
 msgid "p16abc_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:84
+#: ../../variable/Q838.rst:84
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:86
+#: ../../variable/Q838.rst:86
 msgid "p17_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:88
+#: ../../variable/Q838.rst:88
 msgid "p18_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:90
+#: ../../variable/Q838.rst:90
 msgid "p19_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:92
+#: ../../variable/Q838.rst:92
 msgid "p20_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:94
+#: ../../variable/Q838.rst:94
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:96
+#: ../../variable/Q838.rst:96
 msgid "p21e_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:98
+#: ../../variable/Q838.rst:98
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:100
+#: ../../variable/Q838.rst:100
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:102
+#: ../../variable/Q838.rst:102
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:104
+#: ../../variable/Q838.rst:104
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q838.rst:106
+#: ../../variable/Q838.rst:106
 msgid "p26_1"
 msgstr ""
 

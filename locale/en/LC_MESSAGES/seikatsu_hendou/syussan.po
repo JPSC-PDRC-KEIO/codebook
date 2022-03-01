@@ -20,14 +20,14 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/syussan.rst:3
+#: ../../seikatsu_hendou/syussan.rst:3
 msgid "出産"
 msgstr "Childbirth"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/syussan.rst:6
+#: ../../seikatsu_hendou/syussan.rst:6
 msgid "何番目の子か"
 msgstr "Age ranking of the child (children) born during the past year"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/syussan.rst:14
+#: ../../seikatsu_hendou/syussan.rst:14
 msgid "前回調査時から１年間の出産にかかった費用および産休・育休取得についての質問は「:doc:`/kosodate/index`」にまとめていますので、ご参照ください。"
 msgstr "Please refer to \":doc:`/kosodate/index`\" for questions on the cost of childbirth for one year since the last survey and maternity and childcare leave."

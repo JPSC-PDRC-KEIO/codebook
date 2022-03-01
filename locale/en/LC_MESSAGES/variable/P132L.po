@@ -17,91 +17,91 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:5
+#: ../../variable/P132L.rst:5
 msgid "大きな出来事の経験：事故や災害-->土地や家屋を売った"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:9
+#: ../../variable/P132L.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:11
+#: ../../variable/P132L.rst:11
 msgid "P132L"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:15
+#: ../../variable/P132L.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:18
+#: ../../variable/P132L.rst:18
 msgid "あなたやあなたのご家族に起こった大きな出来事についてうかがいます。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:21
+#: ../../variable/P132L.rst:21
 msgid "（1）あなたが、中学を卒業してから現在までのあいだで、あなたやあなたのご家族に次のような大きな出来事がありましたか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:24
+#: ../../variable/P132L.rst:24
 msgid "（2）その結果どのようなことが起こりましたか。あなたが覚えている限りで、次の中からいくつでもお答えください。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:27
+#: ../../variable/P132L.rst:27
 msgid "大きな事故や災害-->土地や家屋を売った"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:33
+#: ../../variable/P132L.rst:33
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:36
+#: ../../variable/P132L.rst:36
 msgid "はい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:38
+#: ../../variable/P132L.rst:38
 msgid "いいえ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:45
+#: ../../variable/P132L.rst:45
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:51
+#: ../../variable/P132L.rst:51
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:57
+#: ../../variable/P132L.rst:57
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:58
+#: ../../variable/P132L.rst:58
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:63
+#: ../../variable/P132L.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:69
+#: ../../variable/P132L.rst:69
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:74
+#: ../../variable/P132L.rst:74
 msgid "p1_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:76
+#: ../../variable/P132L.rst:76
 msgid "p5b_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:78
+#: ../../variable/P132L.rst:78
 msgid "p11c_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:80
+#: ../../variable/P132L.rst:80
 msgid "p16d_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P132L.rst:82
+#: ../../variable/P132L.rst:82
 msgid "p21e_4"
 msgstr ""
 

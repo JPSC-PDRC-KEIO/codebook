@@ -20,90 +20,90 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:5
+#: ../../variable/P96.rst:5
 msgid "就業歴（実母）"
 msgstr "Work experience (mother)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:9
+#: ../../variable/P96.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:11
+#: ../../variable/P96.rst:11
 msgid "P96"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:15
+#: ../../variable/P96.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:18
+#: ../../variable/P96.rst:18
 msgid "あなたが生まれてから20歳になるまでの間に、あなたの母親は外に働きに出たことがありますか。あればその期間をお知らせください。（自営・家族従業の仕事は除いてお答えください）"
 msgstr "Did your mother ever work outside of the home between the time you were born and the age of 20? If so, please specify the period.(Please exclude working as a self-employed worker or in a family business.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:24
+#: ../../variable/P96.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:27
+#: ../../variable/P96.rst:27
 msgid "外に働きに出たことはない"
 msgstr "Never worked outside"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:29
+#: ../../variable/P96.rst:29
 msgid "5年未満"
 msgstr "Less than 5 years"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:31
+#: ../../variable/P96.rst:31
 msgid "5年以上10年未満"
 msgstr "5 years or more and less than 10 years"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:33
+#: ../../variable/P96.rst:33
 msgid "10年以上15年未満"
 msgstr "10 to less than 15 years"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:35
+#: ../../variable/P96.rst:35
 msgid "15年以上"
 msgstr "15 years or more"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:42
+#: ../../variable/P96.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:48
+#: ../../variable/P96.rst:48
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:54
+#: ../../variable/P96.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:55
+#: ../../variable/P96.rst:55
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:60
+#: ../../variable/P96.rst:60
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:66
+#: ../../variable/P96.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:71
+#: ../../variable/P96.rst:71
 msgid "p1_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:73
+#: ../../variable/P96.rst:73
 msgid "p5b_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:75
+#: ../../variable/P96.rst:75
 msgid "p11c_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:77
+#: ../../variable/P96.rst:77
 msgid "p16d_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P96.rst:79
+#: ../../variable/P96.rst:79
 msgid "p21e_4"
 msgstr ""

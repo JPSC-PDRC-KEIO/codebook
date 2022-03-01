@@ -17,103 +17,103 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:4
+#: ../../multi_var/Q998.rst:4
 msgid "夫の電子メールの利用の有無"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:8
+#: ../../multi_var/Q998.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:9
+#: ../../multi_var/Q998.rst:9
 msgid "あなたのご主人は電子メールのアドレスを持っていますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:13
+#: ../../multi_var/Q998.rst:13
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:1
+#: ../../multi_var/Q998.rst:1
 msgid "1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:1
+#: ../../multi_var/Q998.rst:1
 msgid "プライベートと職場・学校の両方でアドレスをもっている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:1
+#: ../../multi_var/Q998.rst:1
 msgid "Q998A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:1
+#: ../../multi_var/Q998.rst:1
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:1
+#: ../../multi_var/Q998.rst:1
 msgid "職場でアドレスをもっている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:1
+#: ../../multi_var/Q998.rst:1
 msgid "Q998B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:1
+#: ../../multi_var/Q998.rst:1
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:1
+#: ../../multi_var/Q998.rst:1
 msgid "学校でアドレスをもっている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:1
+#: ../../multi_var/Q998.rst:1
 msgid "Q998C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:1
+#: ../../multi_var/Q998.rst:1
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:1
+#: ../../multi_var/Q998.rst:1
 msgid "プライベートでアドレスをもっている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:1
+#: ../../multi_var/Q998.rst:1
 msgid "Q998D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:1
+#: ../../multi_var/Q998.rst:1
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:1
+#: ../../multi_var/Q998.rst:1
 msgid "自分自身ではもっていないが、他の人と共有しているアドレスをもっている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:1
+#: ../../multi_var/Q998.rst:1
 msgid "Q998F"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:1
+#: ../../multi_var/Q998.rst:1
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:1
+#: ../../multi_var/Q998.rst:1
 msgid "アドレスをもっていない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:1
+#: ../../multi_var/Q998.rst:1
 msgid "Q998E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:28
+#: ../../multi_var/Q998.rst:28
 msgid "現在の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:42
+#: ../../multi_var/Q998.rst:42
 msgid "過去の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q998.rst:49
+#: ../../multi_var/Q998.rst:49
 msgid "備考"
 msgstr "Remarks"
 

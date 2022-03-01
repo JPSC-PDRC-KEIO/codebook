@@ -17,643 +17,643 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:5
+#: ../../variable/REC.rst:5
 msgid "シート番号"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:9
+#: ../../variable/REC.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:11
+#: ../../variable/REC.rst:11
 msgid "REC"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:15
+#: ../../variable/REC.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:21
+#: ../../variable/REC.rst:21
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:29
+#: ../../variable/REC.rst:29
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:35
+#: ../../variable/REC.rst:35
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:41
+#: ../../variable/REC.rst:41
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:47
+#: ../../variable/REC.rst:47
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:53
+#: ../../variable/REC.rst:53
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:58
+#: ../../variable/REC.rst:58
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:60
+#: ../../variable/REC.rst:60
 msgid "p1_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:62
+#: ../../variable/REC.rst:62
 msgid "p1_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:64
+#: ../../variable/REC.rst:64
 msgid "p1_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:66
+#: ../../variable/REC.rst:66
 msgid "p1_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:68
+#: ../../variable/REC.rst:68
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:70
+#: ../../variable/REC.rst:70
 msgid "p2_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:72
+#: ../../variable/REC.rst:72
 msgid "p2_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:74
+#: ../../variable/REC.rst:74
 msgid "p2_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:76
+#: ../../variable/REC.rst:76
 msgid "p2_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:78
+#: ../../variable/REC.rst:78
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:80
+#: ../../variable/REC.rst:80
 msgid "p3_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:82
+#: ../../variable/REC.rst:82
 msgid "p3_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:84
+#: ../../variable/REC.rst:84
 msgid "p3_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:86
+#: ../../variable/REC.rst:86
 msgid "p3_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:88
+#: ../../variable/REC.rst:88
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:90
+#: ../../variable/REC.rst:90
 msgid "p4_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:92
+#: ../../variable/REC.rst:92
 msgid "p4_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:94
+#: ../../variable/REC.rst:94
 msgid "p4_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:96
+#: ../../variable/REC.rst:96
 msgid "p4_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:98
+#: ../../variable/REC.rst:98
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:100
+#: ../../variable/REC.rst:100
 msgid "p5a_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:102
+#: ../../variable/REC.rst:102
 msgid "p5a_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:104
+#: ../../variable/REC.rst:104
 msgid "p5a_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:106
+#: ../../variable/REC.rst:106
 msgid "p5a_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:108
+#: ../../variable/REC.rst:108
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:110
+#: ../../variable/REC.rst:110
 msgid "p5b_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:112
+#: ../../variable/REC.rst:112
 msgid "p5b_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:114
+#: ../../variable/REC.rst:114
 msgid "p5b_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:116
+#: ../../variable/REC.rst:116
 msgid "p5b_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:118
+#: ../../variable/REC.rst:118
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:120
+#: ../../variable/REC.rst:120
 msgid "p6_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:122
+#: ../../variable/REC.rst:122
 msgid "p6_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:124
+#: ../../variable/REC.rst:124
 msgid "p6_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:126
+#: ../../variable/REC.rst:126
 msgid "p6_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:128
+#: ../../variable/REC.rst:128
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:130
+#: ../../variable/REC.rst:130
 msgid "p7_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:132
+#: ../../variable/REC.rst:132
 msgid "p7_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:134
+#: ../../variable/REC.rst:134
 msgid "p7_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:136
+#: ../../variable/REC.rst:136
 msgid "p7_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:138
+#: ../../variable/REC.rst:138
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:140
+#: ../../variable/REC.rst:140
 msgid "p8_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:142
+#: ../../variable/REC.rst:142
 msgid "p8_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:144
+#: ../../variable/REC.rst:144
 msgid "p8_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:146
+#: ../../variable/REC.rst:146
 msgid "p8_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:148
+#: ../../variable/REC.rst:148
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:150
+#: ../../variable/REC.rst:150
 msgid "p9_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:152
+#: ../../variable/REC.rst:152
 msgid "p9_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:154
+#: ../../variable/REC.rst:154
 msgid "p9_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:156
+#: ../../variable/REC.rst:156
 msgid "p9_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:158
+#: ../../variable/REC.rst:158
 msgid "p10_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:160
+#: ../../variable/REC.rst:160
 msgid "p10_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:162
+#: ../../variable/REC.rst:162
 msgid "p10_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:164
+#: ../../variable/REC.rst:164
 msgid "p10_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:166
+#: ../../variable/REC.rst:166
 msgid "p10_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:168
+#: ../../variable/REC.rst:168
 msgid "p11ab_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:170
+#: ../../variable/REC.rst:170
 msgid "p11ab_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:172
+#: ../../variable/REC.rst:172
 msgid "p11ab_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:174
+#: ../../variable/REC.rst:174
 msgid "p11ab_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:176
+#: ../../variable/REC.rst:176
 msgid "p11ab_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:178
+#: ../../variable/REC.rst:178
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:180
+#: ../../variable/REC.rst:180
 msgid "p11c_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:182
+#: ../../variable/REC.rst:182
 msgid "p11c_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:184
+#: ../../variable/REC.rst:184
 msgid "p11c_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:186
+#: ../../variable/REC.rst:186
 msgid "p11c_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:188
+#: ../../variable/REC.rst:188
 msgid "p12_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:190
+#: ../../variable/REC.rst:190
 msgid "p12_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:192
+#: ../../variable/REC.rst:192
 msgid "p12_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:194
+#: ../../variable/REC.rst:194
 msgid "p12_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:196
+#: ../../variable/REC.rst:196
 msgid "p12_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:198
+#: ../../variable/REC.rst:198
 msgid "p13_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:200
+#: ../../variable/REC.rst:200
 msgid "p13_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:202
+#: ../../variable/REC.rst:202
 msgid "p13_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:204
+#: ../../variable/REC.rst:204
 msgid "p13_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:206
+#: ../../variable/REC.rst:206
 msgid "p13_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:208
+#: ../../variable/REC.rst:208
 msgid "p14_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:210
+#: ../../variable/REC.rst:210
 msgid "p14_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:212
+#: ../../variable/REC.rst:212
 msgid "p14_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:214
+#: ../../variable/REC.rst:214
 msgid "p14_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:216
+#: ../../variable/REC.rst:216
 msgid "p14_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:218
+#: ../../variable/REC.rst:218
 msgid "p15_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:220
+#: ../../variable/REC.rst:220
 msgid "p15_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:222
+#: ../../variable/REC.rst:222
 msgid "p15_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:224
+#: ../../variable/REC.rst:224
 msgid "p15_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:226
+#: ../../variable/REC.rst:226
 msgid "p15_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:228
+#: ../../variable/REC.rst:228
 msgid "p16abc_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:230
+#: ../../variable/REC.rst:230
 msgid "p16abc_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:232
+#: ../../variable/REC.rst:232
 msgid "p16abc_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:234
+#: ../../variable/REC.rst:234
 msgid "p16abc_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:236
+#: ../../variable/REC.rst:236
 msgid "p16abc_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:238
+#: ../../variable/REC.rst:238
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:240
+#: ../../variable/REC.rst:240
 msgid "p16d_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:242
+#: ../../variable/REC.rst:242
 msgid "p16d_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:244
+#: ../../variable/REC.rst:244
 msgid "p16d_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:246
+#: ../../variable/REC.rst:246
 msgid "p16d_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:248
+#: ../../variable/REC.rst:248
 msgid "p17_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:250
+#: ../../variable/REC.rst:250
 msgid "p17_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:252
+#: ../../variable/REC.rst:252
 msgid "p17_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:254
+#: ../../variable/REC.rst:254
 msgid "p17_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:256
+#: ../../variable/REC.rst:256
 msgid "p17_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:258
+#: ../../variable/REC.rst:258
 msgid "p18_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:260
+#: ../../variable/REC.rst:260
 msgid "p18_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:262
+#: ../../variable/REC.rst:262
 msgid "p18_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:264
+#: ../../variable/REC.rst:264
 msgid "p18_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:266
+#: ../../variable/REC.rst:266
 msgid "p18_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:268
+#: ../../variable/REC.rst:268
 msgid "p19_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:270
+#: ../../variable/REC.rst:270
 msgid "p19_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:272
+#: ../../variable/REC.rst:272
 msgid "p19_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:274
+#: ../../variable/REC.rst:274
 msgid "p19_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:276
+#: ../../variable/REC.rst:276
 msgid "p19_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:278
+#: ../../variable/REC.rst:278
 msgid "p20_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:280
+#: ../../variable/REC.rst:280
 msgid "p20_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:282
+#: ../../variable/REC.rst:282
 msgid "p20_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:284
+#: ../../variable/REC.rst:284
 msgid "p20_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:286
+#: ../../variable/REC.rst:286
 msgid "p20_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:288
+#: ../../variable/REC.rst:288
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:290
+#: ../../variable/REC.rst:290
 msgid "p21abcd_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:292
+#: ../../variable/REC.rst:292
 msgid "p21abcd_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:294
+#: ../../variable/REC.rst:294
 msgid "p21abcd_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:296
+#: ../../variable/REC.rst:296
 msgid "p21abcd_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:298
+#: ../../variable/REC.rst:298
 msgid "p21e_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:300
+#: ../../variable/REC.rst:300
 msgid "p21e_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:302
+#: ../../variable/REC.rst:302
 msgid "p21e_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:304
+#: ../../variable/REC.rst:304
 msgid "p21e_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:306
+#: ../../variable/REC.rst:306
 msgid "p21e_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:308
+#: ../../variable/REC.rst:308
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:310
+#: ../../variable/REC.rst:310
 msgid "p22_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:312
+#: ../../variable/REC.rst:312
 msgid "p22_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:314
+#: ../../variable/REC.rst:314
 msgid "p22_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:316
+#: ../../variable/REC.rst:316
 msgid "p22_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:318
+#: ../../variable/REC.rst:318
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:320
+#: ../../variable/REC.rst:320
 msgid "p23_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:322
+#: ../../variable/REC.rst:322
 msgid "p23_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:324
+#: ../../variable/REC.rst:324
 msgid "p23_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:326
+#: ../../variable/REC.rst:326
 msgid "p23_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:328
+#: ../../variable/REC.rst:328
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:330
+#: ../../variable/REC.rst:330
 msgid "p24_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:332
+#: ../../variable/REC.rst:332
 msgid "p24_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:334
+#: ../../variable/REC.rst:334
 msgid "p24_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:336
+#: ../../variable/REC.rst:336
 msgid "p24_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:338
+#: ../../variable/REC.rst:338
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:340
+#: ../../variable/REC.rst:340
 msgid "p25_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:342
+#: ../../variable/REC.rst:342
 msgid "p25_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:344
+#: ../../variable/REC.rst:344
 msgid "p25_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:346
+#: ../../variable/REC.rst:346
 msgid "p25_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:348
+#: ../../variable/REC.rst:348
 msgid "p26_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:350
+#: ../../variable/REC.rst:350
 msgid "p26_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:352
+#: ../../variable/REC.rst:352
 msgid "p26_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:354
+#: ../../variable/REC.rst:354
 msgid "p26_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/REC.rst:356
+#: ../../variable/REC.rst:356
 msgid "p26_5"
 msgstr ""
 

@@ -17,167 +17,167 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:3
+#: ../../kosodate/kosodate/kodomo_teate.rst:3
 msgid "子ども手当について"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:6
+#: ../../kosodate/kosodate/kodomo_teate.rst:6
 msgid "**振込口座の名義人**"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:13
+#: ../../kosodate/kosodate/kodomo_teate.rst:13
 msgid "**使い方**"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid "変数名%"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid "子どもの生活費のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1142A</variable/Q1142A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1143A</variable/Q1143A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid "子どもの教育費のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1142B</variable/Q1142B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1143B</variable/Q1143B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid "子どもの貯蓄・保険のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1142C</variable/Q1142C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1143C</variable/Q1143C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid "子ども以外の家族のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1142D</variable/Q1142D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1143D</variable/Q1143D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid "家族以外のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1142E</variable/Q1142E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1143E</variable/Q1143E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:23
+#: ../../kosodate/kosodate/kodomo_teate.rst:23
 msgid "**使い方に誰の意見が反映されたか**"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid "あなた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1144A</variable/Q1144A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1145A</variable/Q1145A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid "ご主人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1144B</variable/Q1144B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1145B</variable/Q1145B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid "ご主人の父親／あなたの父親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1144C</variable/Q1144C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1145C</variable/Q1145C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid "ご主人の母親／あなたの母親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1144D</variable/Q1144D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1145D</variable/Q1145D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid "子ども"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1144E</variable/Q1144E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1145E</variable/Q1145E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid "その他の家族"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1144F</variable/Q1144F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:1
+#: ../../kosodate/kosodate/kodomo_teate.rst:1
 msgid ":doc:`Q1145F</variable/Q1145F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kodomo_teate.rst:63
+#: ../../kosodate/kosodate/kodomo_teate.rst:63
 msgid "**子ども手当についての意見**"
 msgstr ""
 

@@ -17,59 +17,59 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q397E.rst:5
+#: ../../variable/Q397E.rst:5
 msgid "住宅売却代金使途・その他消費"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q397E.rst:9
+#: ../../variable/Q397E.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q397E.rst:11
+#: ../../variable/Q397E.rst:11
 msgid "Q397E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q397E.rst:15
+#: ../../variable/Q397E.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q397E.rst:18
+#: ../../variable/Q397E.rst:18
 msgid "土地、住宅を売却した代金はどのように使いましたか。使ったものに〇をつけ、その金額をご記入ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q397E.rst:21
+#: ../../variable/Q397E.rst:21
 msgid "それ以外の消費に当てた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q397E.rst:27
+#: ../../variable/Q397E.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q397E.rst:35
+#: ../../variable/Q397E.rst:35
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q397E.rst:41
+#: ../../variable/Q397E.rst:41
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q397E.rst:47
+#: ../../variable/Q397E.rst:47
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q397E.rst:48
+#: ../../variable/Q397E.rst:48
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q397E.rst:53
+#: ../../variable/Q397E.rst:53
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q397E.rst:59
+#: ../../variable/Q397E.rst:59
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q397E.rst:64
+#: ../../variable/Q397E.rst:64
 msgid "p2_2"
 msgstr ""
 

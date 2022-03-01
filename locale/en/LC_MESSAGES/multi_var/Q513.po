@@ -17,175 +17,175 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:3
+#: ../../multi_var/Q513.rst:3
 msgid "出産を望まない理由"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:7
+#: ../../multi_var/Q513.rst:7
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:8
+#: ../../multi_var/Q513.rst:8
 msgid "（子どもは）なぜ欲しくないのですか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid "有配偶"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid "無配偶"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid "教育費・養育費の負担が大きいから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513A </variable/Q513A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q514F </variable/Q514F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid "広い家が必要だから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513B </variable/Q513B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid "─"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid "仕事を続けたいから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513C </variable/Q513C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q514C </variable/Q514C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid "自分自身の生活を大切にしたいから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513D </variable/Q513D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q514B </variable/Q514B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid "夫と2人の生活を大切にしたいから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513E </variable/Q513E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q514D </variable/Q514D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid "子どもを一人前に育てるのは容易ではないから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513F </variable/Q513F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q514G </variable/Q514G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid "夫の育児教育が期待できないから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513G </variable/Q513G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid "体力的に大変だから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513H </variable/Q513H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid "丈夫な子供が生まれるかどうか不安だから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513I </variable/Q513I>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid "子どもが嫌いだから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513J </variable/Q513J>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q514E </variable/Q514E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid "女の子さえ生まれればいいから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513K </variable/Q513K>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid "男の子さえ生まれればいいから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513L </variable/Q513L>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid "今の子どもの人数で満足だから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513N </variable/Q513N>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid "結婚したくないから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q514A </variable/Q514A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513M </variable/Q513M>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q513.rst:1
+#: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q514H </variable/Q514H>`"
 msgstr ""
 

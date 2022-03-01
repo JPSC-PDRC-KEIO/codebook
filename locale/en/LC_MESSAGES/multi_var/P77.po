@@ -17,123 +17,123 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:3
+#: ../../multi_var/P77.rst:3
 msgid "初職の選択理由"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:7
+#: ../../multi_var/P77.rst:7
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:8
+#: ../../multi_var/P77.rst:8
 msgid "どのような理由で、あなたははじめての職業を選びましたか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid "給与がよい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid ":doc:`P77A </variable/P77A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid "休日、休暇が多い"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid ":doc:`P77B </variable/P77B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid "拘束時間が少ない、労働時間が自由になる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid ":doc:`P77X </variable/P77X>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid "家に近い、通勤距離が短い"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid ":doc:`P77E </variable/P77E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid "転勤がない、少ない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid ":doc:`P77F </variable/P77F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid "安定している、失業のおそれがない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid ":doc:`P77G </variable/P77G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid "将来発展する可能性がある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid ":doc:`P77H </variable/P77H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid "結婚・出産後も続けやすい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid ":doc:`P77Y </variable/P77Y>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid "技術が身につく"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid ":doc:`P77M </variable/P77M>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid "能力が生かせる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid ":doc:`P77N </variable/P77N>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid "仕事内容に興味がある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid ":doc:`P77O </variable/P77O>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:1
+#: ../../multi_var/P77.rst:1
 msgid ":doc:`P77W </variable/P77W>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P77.rst:29
+#: ../../multi_var/P77.rst:29
 msgid "この項目は、選択肢や変数名が以下のように変化してきました。"
 msgstr ""
 

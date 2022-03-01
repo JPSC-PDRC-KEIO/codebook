@@ -20,138 +20,138 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 2.4.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:5
+#: ../../variable/P37D.rst:5
 msgid "引越し理由（転居5）"
 msgstr "Reason for the move (Move5)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:9
+#: ../../variable/P37D.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:11
+#: ../../variable/P37D.rst:11
 msgid "P37D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:15
+#: ../../variable/P37D.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:18
+#: ../../variable/P37D.rst:18
 msgid "現在からさかのぼって５回までの引っ越しについて、以下の項目を記入して下さい。"
 msgstr "Please fill in the following for the 5 most recent moves to date."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:20
+#: ../../variable/P37D.rst:20
 msgid "転居5"
 msgstr "Move5"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:24
+#: ../../variable/P37D.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:27
+#: ../../variable/P37D.rst:27
 msgid "進学のため"
 msgstr "Because I went on to next education."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:29
+#: ../../variable/P37D.rst:29
 msgid "自分の初めての就職のため"
 msgstr "Because I took my first job."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:31
+#: ../../variable/P37D.rst:31
 msgid "自分の転勤のため"
 msgstr "Because I was transferred to another office."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:33
+#: ../../variable/P37D.rst:33
 msgid "自分の転職のため"
 msgstr "Because I changed jobs."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:35
+#: ../../variable/P37D.rst:35
 msgid "結婚のため"
 msgstr "Because I got married."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:37
+#: ../../variable/P37D.rst:37
 msgid "子どもが生まれたため"
 msgstr "Because my child was born."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:39
+#: ../../variable/P37D.rst:39
 msgid "夫の転勤のため"
 msgstr "Because my husband was transferred to another office."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:41
+#: ../../variable/P37D.rst:41
 msgid "夫の転職のため"
 msgstr "Because my husband changed the job"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:43
+#: ../../variable/P37D.rst:43
 msgid "親の転勤・転職のため"
 msgstr "Because my parent was transferred to another office or changed the job."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:45
+#: ../../variable/P37D.rst:45
 msgid "家・マンションを購入したため"
 msgstr "Because I purchased a house or apartment."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:47
+#: ../../variable/P37D.rst:47
 msgid "公団など公営住宅に当たったため"
 msgstr "Because I could draw a winning ticket of living in a public apartment."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:49
+#: ../../variable/P37D.rst:49
 msgid "親から独立したため"
 msgstr "Because I lived away from my parent(s)."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:51
+#: ../../variable/P37D.rst:51
 msgid "親と同居したため"
 msgstr "Because I lived with my parent(s)."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:53
+#: ../../variable/P37D.rst:53
 msgid "夫や自分の通勤時間を短縮するため"
 msgstr "Because I and my husband cut down my commuting time."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:55
+#: ../../variable/P37D.rst:55
 msgid "子育て・子どもの教育のため"
 msgstr "Because I bring up or educate my child(ren)."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:57
+#: ../../variable/P37D.rst:57
 msgid "その他"
 msgstr "Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:64
+#: ../../variable/P37D.rst:64
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:70
+#: ../../variable/P37D.rst:70
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:76
+#: ../../variable/P37D.rst:76
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:77
+#: ../../variable/P37D.rst:77
 msgid "17"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:82
+#: ../../variable/P37D.rst:82
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:88
+#: ../../variable/P37D.rst:88
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:93
+#: ../../variable/P37D.rst:93
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:95
+#: ../../variable/P37D.rst:95
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:97
+#: ../../variable/P37D.rst:97
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:99
+#: ../../variable/P37D.rst:99
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37D.rst:101
+#: ../../variable/P37D.rst:101
 msgid "p21e_1"
 msgstr ""

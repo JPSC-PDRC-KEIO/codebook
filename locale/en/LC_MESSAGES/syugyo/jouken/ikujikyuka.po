@@ -17,67 +17,67 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst:3
+#: ../../syugyo/jouken/ikujikyuka.rst:3
 msgid "育児休業"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst:14
+#: ../../syugyo/jouken/ikujikyuka.rst:14
 msgid "「育児休業の有無」については、変数名と選択肢が下記のように変化しています。なお、第3回と第4回では、現在の勤務先での育児休業制度の有無を直接問う項目は設けていません。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst:1
+#: ../../syugyo/jouken/ikujikyuka.rst:1
 msgid "第2回"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst:1
+#: ../../syugyo/jouken/ikujikyuka.rst:1
 msgid "第5回～"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst:1
+#: ../../syugyo/jouken/ikujikyuka.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst:1
+#: ../../syugyo/jouken/ikujikyuka.rst:1
 msgid ":doc:`Q157 </variable/Q157>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst:1
+#: ../../syugyo/jouken/ikujikyuka.rst:1
 msgid ":doc:`Q880 </variable/Q880>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst:1
+#: ../../syugyo/jouken/ikujikyuka.rst:1
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst
+#: ../../syugyo/jouken/ikujikyuka.rst
 msgid "1.ある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst
+#: ../../syugyo/jouken/ikujikyuka.rst
 msgid "2.ない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst
+#: ../../syugyo/jouken/ikujikyuka.rst
 msgid "3.知らない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst
+#: ../../syugyo/jouken/ikujikyuka.rst
 msgid "1.会社等に制度があり、自分にも資格がある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst
+#: ../../syugyo/jouken/ikujikyuka.rst
 msgid "2.会社等に制度はあるが、自分には資格がない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst
+#: ../../syugyo/jouken/ikujikyuka.rst
 msgid "3.会社等に制度はあるが、自分には資格があるかどうかわからない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst
+#: ../../syugyo/jouken/ikujikyuka.rst
 msgid "4.会社等に制度がない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/ikujikyuka.rst
+#: ../../syugyo/jouken/ikujikyuka.rst
 msgid "5.会社等に制度があるかどうかわからない"
 msgstr ""
 

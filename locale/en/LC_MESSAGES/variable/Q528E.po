@@ -17,67 +17,67 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q528E.rst:5
+#: ../../variable/Q528E.rst:5
 msgid "結婚費用・本人（妻）・新婚旅行"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q528E.rst:9
+#: ../../variable/Q528E.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q528E.rst:11
+#: ../../variable/Q528E.rst:11
 msgid "Q528E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q528E.rst:15
+#: ../../variable/Q528E.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q528E.rst:18
+#: ../../variable/Q528E.rst:18
 msgid "その時のご夫婦の結婚費用はいくらぐらいでしたか（結納、結納返しを除く）。各項目について双方の支出をご記入ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q528E.rst:24
+#: ../../variable/Q528E.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q528E.rst:26
+#: ../../variable/Q528E.rst:26
 msgid "＿ ＿ ＿ ＿ 万円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q528E.rst:32
+#: ../../variable/Q528E.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q528E.rst:33
+#: ../../variable/Q528E.rst:33
 msgid "998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q528E.rst:38
+#: ../../variable/Q528E.rst:38
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q528E.rst:44
+#: ../../variable/Q528E.rst:44
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q528E.rst:45
+#: ../../variable/Q528E.rst:45
 msgid "999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q528E.rst:50
+#: ../../variable/Q528E.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q528E.rst:56
+#: ../../variable/Q528E.rst:56
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q528E.rst:61
+#: ../../variable/Q528E.rst:61
 msgid "p2_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q528E.rst:63
+#: ../../variable/Q528E.rst:63
 msgid "p5b_3"
 msgstr ""
 

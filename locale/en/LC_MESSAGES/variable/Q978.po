@@ -17,79 +17,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:5
+#: ../../variable/Q978.rst:5
 msgid "社会保障の財源として適切な税の内容"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:9
+#: ../../variable/Q978.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:11
+#: ../../variable/Q978.rst:11
 msgid "Q978"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:15
+#: ../../variable/Q978.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:18
+#: ../../variable/Q978.rst:18
 msgid "今後の高齢社会では、たとえ社会保障、社会福祉水準を高めなくても、政府の収入がかなり必要になるといわれています。そこでもし今後増税するとしたら、税金をどこに課したらよいと思いますか。（〇は１つ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:24
+#: ../../variable/Q978.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:27
+#: ../../variable/Q978.rst:27
 msgid "勤労所得にかける（所得税や住民税など）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:29
+#: ../../variable/Q978.rst:29
 msgid "利子所得にかける"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:31
+#: ../../variable/Q978.rst:31
 msgid "消費にかける（消費税や酒税、タバコ税など）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:33
+#: ../../variable/Q978.rst:33
 msgid "個人の財産にかける（固定資産税など）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:35
+#: ../../variable/Q978.rst:35
 msgid "財産の授受にかける（相続税や贈与税など）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:37
+#: ../../variable/Q978.rst:37
 msgid "その他（具体的に　　　　　　　）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:44
+#: ../../variable/Q978.rst:44
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:50
+#: ../../variable/Q978.rst:50
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:56
+#: ../../variable/Q978.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:57
+#: ../../variable/Q978.rst:57
 msgid "7"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:62
+#: ../../variable/Q978.rst:62
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:68
+#: ../../variable/Q978.rst:68
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q978.rst:73
+#: ../../variable/Q978.rst:73
 msgid "p4_4"
 msgstr ""
 

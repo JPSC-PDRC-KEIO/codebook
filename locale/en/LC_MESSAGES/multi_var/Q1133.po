@@ -17,25 +17,25 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1133.rst:4
+#: ../../multi_var/Q1133.rst:4
 msgid "購入した商品への不満"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1133.rst:8
+#: ../../multi_var/Q1133.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1133.rst:9
+#: ../../multi_var/Q1133.rst:9
 msgid ""
 "この1年間（調査前年10月～調査年9月の間）にお宅で購入した「商品」や利用した「サービス」について、何か不満を持ったり、経済的または身体的な被害を受けたりしたことがありますか。あれば、それはどのような商品、サービスでしたか。"
 " （〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1133.rst:13
+#: ../../multi_var/Q1133.rst:13
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1133.rst:20
+#: ../../multi_var/Q1133.rst:20
 msgid ""
 "1,食料品（健康食品を含む）,Q1133A 2,電気製品,Q1133B "
 "3,衣料品、身のまわり品（はきもの、かばん、腕時計、アクセサリーなど）,Q1133C 4,化粧品,Q1133D "
@@ -49,15 +49,15 @@ msgid ""
 "）,Q1133R 19,商品・サービスとも不満や被害は特にない,Q1133S"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1133.rst:44
+#: ../../multi_var/Q1133.rst:44
 msgid "現在の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1133.rst:71
+#: ../../multi_var/Q1133.rst:71
 msgid "過去の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1133.rst:78
+#: ../../multi_var/Q1133.rst:78
 msgid "備考"
 msgstr "Remarks"
 

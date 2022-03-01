@@ -17,79 +17,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:4
+#: ../../multi_var/Q938.rst:4
 msgid "「破綻原則」賛成理由"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:8
+#: ../../multi_var/Q938.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:9
+#: ../../multi_var/Q938.rst:9
 msgid "（「夫婦が5年以上続けて別居していれば、夫婦関係の破綻を招いた方の配偶者でも裁判所に離婚を請求できるようにするべきだ」という考え）に賛成する理由をお聞かせください。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:13
+#: ../../multi_var/Q938.rst:13
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:1
+#: ../../multi_var/Q938.rst:1
 msgid "1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:1
+#: ../../multi_var/Q938.rst:1
 msgid "問題のある結婚生活は早く解消したほうがよいと思うから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:1
+#: ../../multi_var/Q938.rst:1
 msgid "Q938A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:1
+#: ../../multi_var/Q938.rst:1
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:1
+#: ../../multi_var/Q938.rst:1
 msgid "夫婦関係の破綻原因をつくった方にも離婚を請求する権利はあると思うから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:1
+#: ../../multi_var/Q938.rst:1
 msgid "Q938B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:1
+#: ../../multi_var/Q938.rst:1
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:1
+#: ../../multi_var/Q938.rst:1
 msgid "5年も続けて別居していれば実質的に夫婦でなくなっているのだから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:1
+#: ../../multi_var/Q938.rst:1
 msgid "Q938C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:1
+#: ../../multi_var/Q938.rst:1
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:1
+#: ../../multi_var/Q938.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:1
+#: ../../multi_var/Q938.rst:1
 msgid "Q938D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:26
+#: ../../multi_var/Q938.rst:26
 msgid "現在の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:38
+#: ../../multi_var/Q938.rst:38
 msgid "過去の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q938.rst:45
+#: ../../multi_var/Q938.rst:45
 msgid "備考"
 msgstr "Remarks"
 

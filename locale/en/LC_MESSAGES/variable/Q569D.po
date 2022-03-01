@@ -17,99 +17,99 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:5
+#: ../../variable/Q569D.rst:5
 msgid "（4）家業を継ぐこと"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:9
+#: ../../variable/Q569D.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:11
+#: ../../variable/Q569D.rst:11
 msgid "Q569D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:15
+#: ../../variable/Q569D.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:18
+#: ../../variable/Q569D.rst:18
 msgid "結婚するに当たって、あなたの親や家との関係で次のような難しい問題はありますか。〈あなたの親があなたに期待していることで難しい問題〉"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:24
+#: ../../variable/Q569D.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:27
+#: ../../variable/Q569D.rst:27
 msgid "ある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:29
+#: ../../variable/Q569D.rst:29
 msgid "ない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:36
+#: ../../variable/Q569D.rst:36
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:42
+#: ../../variable/Q569D.rst:42
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:48
+#: ../../variable/Q569D.rst:48
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:49
+#: ../../variable/Q569D.rst:49
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:54
+#: ../../variable/Q569D.rst:54
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:60
+#: ../../variable/Q569D.rst:60
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:65
+#: ../../variable/Q569D.rst:65
 msgid "p2_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:67
+#: ../../variable/Q569D.rst:67
 msgid "p3_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:69
+#: ../../variable/Q569D.rst:69
 msgid "p4_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:71
+#: ../../variable/Q569D.rst:71
 msgid "p5a_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:73
+#: ../../variable/Q569D.rst:73
 msgid "p5b_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:75
+#: ../../variable/Q569D.rst:75
 msgid "p6_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:77
+#: ../../variable/Q569D.rst:77
 msgid "p7_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:79
+#: ../../variable/Q569D.rst:79
 msgid "p8_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:81
+#: ../../variable/Q569D.rst:81
 msgid "p9_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q569D.rst:83
+#: ../../variable/Q569D.rst:83
 msgid "p10_3"
 msgstr ""
 

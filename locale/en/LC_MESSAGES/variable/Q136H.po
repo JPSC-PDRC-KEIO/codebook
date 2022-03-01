@@ -19,83 +19,83 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 3.0.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:5
+#: ../../variable/Q136H.rst:5
 msgid "この1年の事故・災害・消費者トラブル：自然災害"
 msgstr "Accidents, disasters, or consumer problems during the past year: Natural disaster"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:9
+#: ../../variable/Q136H.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:11
+#: ../../variable/Q136H.rst:11
 msgid "Q136H"
 msgstr "Q136H"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:15
+#: ../../variable/Q136H.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:18
+#: ../../variable/Q136H.rst:18
 msgid "この1年間（調査前年10月～調査年9月）にあなた自身が事故や災害、消費者トラブルにあわれた方にうかがいます。（1）その事故や災害、消費者トラブルは何でしたか。（〇はいくつでも）"
 msgstr "For those who have had accidents, disasters, or consumer problems during the past year (October of the previous year to September of the survey year) (1) What was the accident, disaster, or consumer problem? (Circle as many as pertain to you)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:21
+#: ../../variable/Q136H.rst:21
 msgid "自然災害"
 msgstr "Natural disaster"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:27
+#: ../../variable/Q136H.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:30
+#: ../../variable/Q136H.rst:30
 msgid "はい"
 msgstr "Yes"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:32
+#: ../../variable/Q136H.rst:32
 msgid "いいえ"
 msgstr "No"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:39
+#: ../../variable/Q136H.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:45
+#: ../../variable/Q136H.rst:45
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:51
+#: ../../variable/Q136H.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:52
+#: ../../variable/Q136H.rst:52
 msgid "3"
 msgstr "3"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:57
+#: ../../variable/Q136H.rst:57
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:63
+#: ../../variable/Q136H.rst:63
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:68
+#: ../../variable/Q136H.rst:68
 msgid "p19_1"
 msgstr "p19_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:70
+#: ../../variable/Q136H.rst:70
 msgid "p20_1"
 msgstr "p20_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:72
+#: ../../variable/Q136H.rst:72
 msgid "p21abcd_1"
 msgstr "p21abcd_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:74
+#: ../../variable/Q136H.rst:74
 msgid "p22_1"
 msgstr "p22_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q136H.rst:76
+#: ../../variable/Q136H.rst:76
 msgid "p23_1"
 msgstr ""
 

@@ -17,387 +17,387 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:4
+#: ../../multi_var/Q706.rst:4
 msgid "結婚時に購入した家具・家電"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:8
+#: ../../multi_var/Q706.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:9
+#: ../../multi_var/Q706.rst:9
 msgid "現在の結婚をするにあたって、あなたやご主人が購入したものはありますか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:13
+#: ../../multi_var/Q706.rst:13
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "ダイニングセット"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "食器戸棚"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "電子レンジ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "電気冷蔵庫"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "自動食器洗い機"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706F"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "電気掃除機"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706G"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "7"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "電気洗濯機"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706H"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "8"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "衣類乾燥機"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706I"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "ミシン"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706K"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "10"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "扇風機"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706L"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "11"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "ルームエアコン"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706M"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "12"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "石油ファンヒーター"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706O"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "13"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "電気こたつ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706P"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "14"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "カラーテレビ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706Q"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "15"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "CDステレオ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706R"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "16"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "CDラジカセ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706S"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "17"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "ビデオデッキ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706T"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "18"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "ビデオカメラ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706U"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "19"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "TVゲーム機"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706Z"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "20"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "デジタルカメラ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706AE"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "21"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "パソコン"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706AB"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "22"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "電話機"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706V"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "23"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "FAX（電話機兼用も含む）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706AC"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "24"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "携帯電話（PHSも含む）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706AD"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "25"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "自転車"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706W"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "26"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "乗用車"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706X"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "27"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "この中にはない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706Y"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "ワープロ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706AA"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "ガス湯沸かし器"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "布団乾燥機"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706J"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "石油ストーブ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:1
+#: ../../multi_var/Q706.rst:1
 msgid "Q706N"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:53
+#: ../../multi_var/Q706.rst:53
 msgid "現在の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:88
+#: ../../multi_var/Q706.rst:88
 msgid "過去の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q706.rst:99
+#: ../../multi_var/Q706.rst:99
 msgid "備考"
 msgstr "Remarks"
 

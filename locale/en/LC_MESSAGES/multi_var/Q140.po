@@ -20,86 +20,86 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:4
+#: ../../multi_var/Q140.rst:4
 msgid "特別な出来事（家族）による生活変化"
 msgstr "Life changes due to special events (family)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:8
+#: ../../multi_var/Q140.rst:8
 msgid "質問文（複数回答）"
 msgstr "Question ( multiple answers )"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:9
+#: ../../multi_var/Q140.rst:9
 msgid "その出来事によって、生活に大きな変化がありましたか。（〇はいくつでも）"
 msgstr "Has your life changed due to any of these events? (Circle those that pertain to you)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:1
+#: ../../multi_var/Q140.rst:1
 msgid "項目"
 msgstr "Items"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:1
+#: ../../multi_var/Q140.rst:1
 msgid "変数"
 msgstr "Variable"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:1
+#: ../../multi_var/Q140.rst:1
 msgid "大きな費用がかかった"
 msgstr "It was major expense."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:1
+#: ../../multi_var/Q140.rst:1
 msgid ":doc:`Q140A </variable/Q140A>`"
 msgstr ":doc:`Q140A </variable/Q140A>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:1
+#: ../../multi_var/Q140.rst:1
 msgid "収入や資産が低下した"
 msgstr "Income or assets decreased"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:1
+#: ../../multi_var/Q140.rst:1
 msgid ":doc:`Q140B </variable/Q140B>`"
 msgstr ":doc:`Q140B </variable/Q140B>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:1
+#: ../../multi_var/Q140.rst:1
 msgid "世話（介護や看病を含む）が大変だった"
 msgstr "It was difficult to take care of them (including long-term and nursing care)."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:1
+#: ../../multi_var/Q140.rst:1
 msgid ":doc:`Q140C </variable/Q140C>`"
 msgstr ":doc:`Q140C </variable/Q140C>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:1
+#: ../../multi_var/Q140.rst:1
 msgid "家族内の人間関係がうまくいかなくなった"
 msgstr "Family relationship have been strained."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:1
+#: ../../multi_var/Q140.rst:1
 msgid ":doc:`Q140D </variable/Q140D>`"
 msgstr ":doc:`Q140D </variable/Q140D>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:1
+#: ../../multi_var/Q140.rst:1
 msgid "あなた自身が精神的に落ち込んだ"
 msgstr "You've been experiencing depression."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:1
+#: ../../multi_var/Q140.rst:1
 msgid ":doc:`Q140E </variable/Q140E>`"
 msgstr ":doc:`Q140E </variable/Q140E>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:1
+#: ../../multi_var/Q140.rst:1
 msgid "離婚・別居した"
 msgstr "Divorced or separated"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:1
+#: ../../multi_var/Q140.rst:1
 msgid ":doc:`Q140F </variable/Q140F>`"
 msgstr ":doc:`Q140F </variable/Q140F>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:1
+#: ../../multi_var/Q140.rst:1
 msgid "その他"
 msgstr "Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:1
+#: ../../multi_var/Q140.rst:1
 msgid ":doc:`Q140G </variable/Q140G>`"
 msgstr ":doc:`Q140G </variable/Q140G>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:1
+#: ../../multi_var/Q140.rst:1
 msgid "特に変化はなかった"
 msgstr "There was no change."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q140.rst:1
+#: ../../multi_var/Q140.rst:1
 msgid ":doc:`Q140H </variable/Q140H>`"
 msgstr ":doc:`Q140H </variable/Q140H>`"

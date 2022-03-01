@@ -17,75 +17,75 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q395.rst:5
+#: ../../variable/Q395.rst:5
 msgid "1年以内の住宅売却内容"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q395.rst:9
+#: ../../variable/Q395.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q395.rst:11
+#: ../../variable/Q395.rst:11
 msgid "Q395"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q395.rst:15
+#: ../../variable/Q395.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q395.rst:18
+#: ../../variable/Q395.rst:18
 msgid "この１年間（調査前年10月～調査年9月）に、あなた方ご夫婦が自分たちで住んだり、セカンドハウスとして利用していた土地または住宅を売却しましたか。（親との共同名義のものも含みます）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q395.rst:24
+#: ../../variable/Q395.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q395.rst:27
+#: ../../variable/Q395.rst:27
 msgid "土地のみを売却した"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q395.rst:29
+#: ../../variable/Q395.rst:29
 msgid "家屋のみを売却した"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q395.rst:31
+#: ../../variable/Q395.rst:31
 msgid "土地と家屋両方を売却した"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q395.rst:33
+#: ../../variable/Q395.rst:33
 msgid "マンションを売却した"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q395.rst:35
+#: ../../variable/Q395.rst:35
 msgid "売却しなかった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q395.rst:42
+#: ../../variable/Q395.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q395.rst:48
+#: ../../variable/Q395.rst:48
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q395.rst:54
+#: ../../variable/Q395.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q395.rst:55
+#: ../../variable/Q395.rst:55
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q395.rst:60
+#: ../../variable/Q395.rst:60
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q395.rst:66
+#: ../../variable/Q395.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q395.rst:71
+#: ../../variable/Q395.rst:71
 msgid "p2_2"
 msgstr ""
 

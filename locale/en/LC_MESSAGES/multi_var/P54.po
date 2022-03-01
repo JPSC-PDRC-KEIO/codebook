@@ -17,189 +17,189 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:3
+#: ../../multi_var/P54.rst:3
 msgid "現職（会社）の選択理由〔第1回・第5回〕"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:7
+#: ../../multi_var/P54.rst:7
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:8
+#: ../../multi_var/P54.rst:8
 msgid "なぜ、あなたは現在の会社等を選びましたか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:11
+#: ../../multi_var/P54.rst:11
 msgid ""
 "変数名はコーホートAとコーホートBの初回調査時〔第1回・第5回〕のものです。他のコーホートについては "
 ":doc:`現職（会社）の選択理由（Q191） </multi_var/Q191>` をご参照ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "給与がよい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54A </variable/P54A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "休日、休暇が多い"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54B </variable/P54B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "拘束時間が少ない、残業が少ない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54C </variable/P54C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "労働時間が自由になる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54D </variable/P54D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "家に近い、通勤距離が短い"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54E </variable/P54E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "転勤がない、少ない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54F </variable/P54F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "安定している、失業のおそれがない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54G </variable/P54G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "将来発展する可能性がある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54H </variable/P54H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "世間一般に知られている企業である"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54I </variable/P54I>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "結婚後も続けやすい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54J </variable/P54J>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "出産後も続けやすい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54K </variable/P54K>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "技術が身につく"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54L </variable/P54L>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "能力が生かせる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54M </variable/P54M>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "仕事内容に興味がある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54N </variable/P54N>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "管理職になれる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54O </variable/P54O>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "外国に行ける"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54P </variable/P54P>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "結婚相手が見つかる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54Q </variable/P54Q>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "学校がすすめるので"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54R </variable/P54R>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "家族がすすめるので"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54S </variable/P54S>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P54.rst:1
+#: ../../multi_var/P54.rst:1
 msgid ":doc:`P54T </variable/P54T>`"
 msgstr ""
 

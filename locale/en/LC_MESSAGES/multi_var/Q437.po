@@ -17,95 +17,95 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:3
+#: ../../multi_var/Q437.rst:3
 msgid "借入れ先の選択理由"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:7
+#: ../../multi_var/Q437.rst:7
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:8
+#: ../../multi_var/Q437.rst:8
 msgid "その機関での借入をお考えになるのはどのような理由からですか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid "手続きが簡単"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid ":doc:`Q437A </variable/Q437A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid "営業時間が長く、夜も開いている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid ":doc:`Q437B </variable/Q437B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid "土曜・日曜も利用できる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid ":doc:`Q437C </variable/Q437C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid "金利が低い"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid ":doc:`Q437D </variable/Q437D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid "担保・保証人等が必要ない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid ":doc:`Q437E </variable/Q437E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid "秘密保持に安心できる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid ":doc:`Q437F </variable/Q437F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid "アフターサービスが良い"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid ":doc:`Q437G </variable/Q437G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid "有名で信頼できる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid ":doc:`Q437H </variable/Q437H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q437.rst:1
+#: ../../multi_var/Q437.rst:1
 msgid ":doc:`Q437I </variable/Q437I>`"
 msgstr ""
 

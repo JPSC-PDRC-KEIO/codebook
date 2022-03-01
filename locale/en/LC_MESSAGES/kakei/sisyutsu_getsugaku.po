@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.2.4\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/sisyutsu_getsugaku.rst:3
+#: ../../kakei/sisyutsu_getsugaku.rst:3
 msgid "支出月額"
 msgstr "Monthly expenditure"

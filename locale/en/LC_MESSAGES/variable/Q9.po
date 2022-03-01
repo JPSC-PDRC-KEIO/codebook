@@ -17,111 +17,111 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:5
+#: ../../variable/Q9.rst:5
 msgid "本人就学・就労状況"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:9
+#: ../../variable/Q9.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:11
+#: ../../variable/Q9.rst:11
 msgid "Q9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:15
+#: ../../variable/Q9.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:21
+#: ../../variable/Q9.rst:21
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:24
+#: ../../variable/Q9.rst:24
 msgid "未就学"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:26
+#: ../../variable/Q9.rst:26
 msgid "小学1～3年"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:28
+#: ../../variable/Q9.rst:28
 msgid "小学4～6年"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:30
+#: ../../variable/Q9.rst:30
 msgid "中学生"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:32
+#: ../../variable/Q9.rst:32
 msgid "高校生"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:34
+#: ../../variable/Q9.rst:34
 msgid "大学生"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:36
+#: ../../variable/Q9.rst:36
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:43
+#: ../../variable/Q9.rst:43
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:49
+#: ../../variable/Q9.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:55
+#: ../../variable/Q9.rst:55
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:61
+#: ../../variable/Q9.rst:61
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:67
+#: ../../variable/Q9.rst:67
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:72
+#: ../../variable/Q9.rst:72
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:74
+#: ../../variable/Q9.rst:74
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:76
+#: ../../variable/Q9.rst:76
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:78
+#: ../../variable/Q9.rst:78
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:80
+#: ../../variable/Q9.rst:80
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:82
+#: ../../variable/Q9.rst:82
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:84
+#: ../../variable/Q9.rst:84
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:86
+#: ../../variable/Q9.rst:86
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:88
+#: ../../variable/Q9.rst:88
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9.rst:90
+#: ../../variable/Q9.rst:90
 msgid "p9_1"
 msgstr ""
 

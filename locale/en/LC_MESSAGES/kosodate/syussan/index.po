@@ -20,22 +20,22 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.2.4\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/index.rst:3
+#: ../../kosodate/syussan/index.rst:3
 msgid "出産について"
 msgstr "Childbirth"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/index.rst:7
+#: ../../kosodate/syussan/index.rst:7
 msgid "出産費用"
 msgstr "Childbirth expenses"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/index.rst:18
+#: ../../kosodate/syussan/index.rst:18
 msgid "出産による休業"
 msgstr "Maternity leave"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/index.rst:29
+#: ../../kosodate/syussan/index.rst:29
 msgid "前回調査時から１年間の出産が何番目の子どもであったかは「:doc:`/seikatsu_hendou/hendou_year`」をご参照ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/index.rst:32
+#: ../../kosodate/syussan/index.rst:32
 msgid "今後の出産について"
 msgstr "Future childbirth"

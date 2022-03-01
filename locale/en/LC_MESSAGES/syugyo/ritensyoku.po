@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/ritensyoku.rst:3
+#: ../../syugyo/ritensyoku.rst:3
 msgid "離職・転職"
 msgstr "leave or change of job"

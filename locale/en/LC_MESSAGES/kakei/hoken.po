@@ -8,28 +8,84 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2022-02-17 10:58+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/hoken.rst:3
+#: ../../kakei/hoken.rst:3
 msgid "公的医療保障制度の加入"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/hoken.rst:6
+#: ../../kakei/hoken.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/hoken.rst:8
+#: ../../kakei/hoken.rst:8
 msgid "現在、あなたご自身は、どのような公的医療保障制度に加入していますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kakei/hoken.rst:11
+#: ../../kakei/hoken.rst:11
 msgid "本人の保険か家族の保険かも聞いています。"
+msgstr ""
+
+#: ../../kakei/hoken.rst:1
+msgid "項目"
+msgstr ""
+
+#: ../../kakei/hoken.rst:1
+msgid "加入する保険の種類"
+msgstr ""
+
+#: ../../kakei/hoken.rst:1
+msgid "本人の保険か家族の保険か"
+msgstr ""
+
+#: ../../kakei/hoken.rst
+msgid "1. 会社の医療保険"
+msgstr ""
+
+#: ../../kakei/hoken.rst
+msgid "2. 国民健康保険"
+msgstr ""
+
+#: ../../kakei/hoken.rst
+msgid "3. 嘱託・その他"
+msgstr ""
+
+#: ../../kakei/hoken.rst
+msgid "4. 共済保険・共済制度"
+msgstr ""
+
+#: ../../kakei/hoken.rst
+msgid "5. 医療扶助"
+msgstr ""
+
+#: ../../kakei/hoken.rst
+msgid "6. どれにも加入していない"
+msgstr ""
+
+#: ../../kakei/hoken.rst:1
+msgid ":doc:`Q1054 </variable/Q1054>`"
+msgstr ""
+
+#: ../../kakei/hoken.rst
+msgid "1→ :doc:`Q1055A </variable/Q1055A>`"
+msgstr ""
+
+#: ../../kakei/hoken.rst
+msgid "2→ :doc:`Q1055B </variable/Q1055B>`"
+msgstr ""
+
+#: ../../kakei/hoken.rst
+msgid "3→ :doc:`Q1055C </variable/Q1055C>`"
+msgstr ""
+
+#: ../../kakei/hoken.rst
+msgid "4→ :doc:`Q1055D </variable/Q1055D>`"
 msgstr ""
 

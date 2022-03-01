@@ -17,71 +17,71 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q960.rst:5
+#: ../../variable/Q960.rst:5
 msgid "前年勤労収入なしの人・勤労調整しない状態予想"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q960.rst:9
+#: ../../variable/Q960.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q960.rst:11
+#: ../../variable/Q960.rst:11
 msgid "Q960"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q960.rst:15
+#: ../../variable/Q960.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q960.rst:18
+#: ../../variable/Q960.rst:18
 msgid "どのような状態を予想しますか。（〇は１つ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q960.rst:24
+#: ../../variable/Q960.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q960.rst:27
+#: ../../variable/Q960.rst:27
 msgid "調整するほど収入は見込めない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q960.rst:29
+#: ../../variable/Q960.rst:29
 msgid "調整を考えることはあると思うが、たぶん関係なく働くと思う"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q960.rst:31
+#: ../../variable/Q960.rst:31
 msgid "調整など考えず働きたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q960.rst:33
+#: ../../variable/Q960.rst:33
 msgid "その他（具体的に　　　　　　　）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q960.rst:40
+#: ../../variable/Q960.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q960.rst:46
+#: ../../variable/Q960.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q960.rst:52
+#: ../../variable/Q960.rst:52
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q960.rst:53
+#: ../../variable/Q960.rst:53
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q960.rst:58
+#: ../../variable/Q960.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q960.rst:64
+#: ../../variable/Q960.rst:64
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q960.rst:69
+#: ../../variable/Q960.rst:69
 msgid "p4_4"
 msgstr ""
 

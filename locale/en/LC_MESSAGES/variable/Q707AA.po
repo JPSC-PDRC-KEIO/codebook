@@ -17,88 +17,88 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:5
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:27
+#: ../../variable/Q707AA.rst:5
+#: ../../variable/Q707AA.rst:27
 msgid "*.ワープロ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:9
+#: ../../variable/Q707AA.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:11
+#: ../../variable/Q707AA.rst:11
 msgid "Q707AA"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:15
+#: ../../variable/Q707AA.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:18
+#: ../../variable/Q707AA.rst:18
 msgid "前問（問2、問3、問4）の後、現在までに購入したものがありますか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:24
+#: ../../variable/Q707AA.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:29
+#: ../../variable/Q707AA.rst:29
 msgid "<string>:27: (WARNING/2) Inline emphasis start-string without end-string."
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:36
+#: ../../variable/Q707AA.rst:36
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:42
+#: ../../variable/Q707AA.rst:42
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:48
+#: ../../variable/Q707AA.rst:48
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:49
+#: ../../variable/Q707AA.rst:49
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:54
+#: ../../variable/Q707AA.rst:54
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:60
+#: ../../variable/Q707AA.rst:60
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:65
+#: ../../variable/Q707AA.rst:65
 msgid "p3_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:67
+#: ../../variable/Q707AA.rst:67
 msgid "p4_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:69
+#: ../../variable/Q707AA.rst:69
 msgid "p5a_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:71
+#: ../../variable/Q707AA.rst:71
 msgid "p5b_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:73
+#: ../../variable/Q707AA.rst:73
 msgid "p6_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:75
+#: ../../variable/Q707AA.rst:75
 msgid "p7_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:77
+#: ../../variable/Q707AA.rst:77
 msgid "p8_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q707AA.rst:79
+#: ../../variable/Q707AA.rst:79
 msgid "p9_5"
 msgstr ""
 

@@ -17,151 +17,151 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:5
+#: ../../variable/Q441G.rst:5
 msgid "クレジットカード利用の制約条件（配偶者名義）：その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:9
+#: ../../variable/Q441G.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:11
+#: ../../variable/Q441G.rst:11
 msgid "Q441G"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:15
+#: ../../variable/Q441G.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:18
+#: ../../variable/Q441G.rst:18
 msgid "ご主人の名義について、クレジットカードを利用するにあたって、何か制約条件をつけていますか。該当するものに〇をつけて下さい。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:21
+#: ../../variable/Q441G.rst:21
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:27
+#: ../../variable/Q441G.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:30
+#: ../../variable/Q441G.rst:30
 msgid "はい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:32
+#: ../../variable/Q441G.rst:32
 msgid "いいえ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:39
+#: ../../variable/Q441G.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:45
+#: ../../variable/Q441G.rst:45
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:51
+#: ../../variable/Q441G.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:52
+#: ../../variable/Q441G.rst:52
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:57
+#: ../../variable/Q441G.rst:57
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:63
+#: ../../variable/Q441G.rst:63
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:68
+#: ../../variable/Q441G.rst:68
 msgid "p1_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:70
+#: ../../variable/Q441G.rst:70
 msgid "p2_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:72
+#: ../../variable/Q441G.rst:72
 msgid "p3_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:74
+#: ../../variable/Q441G.rst:74
 msgid "p4_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:76
+#: ../../variable/Q441G.rst:76
 msgid "p5a_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:78
+#: ../../variable/Q441G.rst:78
 msgid "p5b_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:80
+#: ../../variable/Q441G.rst:80
 msgid "p6_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:82
+#: ../../variable/Q441G.rst:82
 msgid "p7_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:84
+#: ../../variable/Q441G.rst:84
 msgid "p8_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:86
+#: ../../variable/Q441G.rst:86
 msgid "p9_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:88
+#: ../../variable/Q441G.rst:88
 msgid "p10_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:90
+#: ../../variable/Q441G.rst:90
 msgid "p11ab_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:92
+#: ../../variable/Q441G.rst:92
 msgid "p11c_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:94
+#: ../../variable/Q441G.rst:94
 msgid "p12_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:96
+#: ../../variable/Q441G.rst:96
 msgid "p13_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:98
+#: ../../variable/Q441G.rst:98
 msgid "p14_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:100
+#: ../../variable/Q441G.rst:100
 msgid "p15_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:102
+#: ../../variable/Q441G.rst:102
 msgid "p16abc_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:104
+#: ../../variable/Q441G.rst:104
 msgid "p16d_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:106
+#: ../../variable/Q441G.rst:106
 msgid "p17_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:108
+#: ../../variable/Q441G.rst:108
 msgid "p18_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q441G.rst:110
+#: ../../variable/Q441G.rst:110
 msgid "p19_2"
 msgstr ""
 

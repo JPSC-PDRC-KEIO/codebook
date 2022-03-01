@@ -17,39 +17,39 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/zensyoku_kikan.rst:3
+#: ../../syugyo/zensyoku/zensyoku_kikan.rst:3
 msgid "前職への従事期間"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/zensyoku_kikan.rst:1
+#: ../../syugyo/zensyoku/zensyoku_kikan.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/zensyoku_kikan.rst:1
+#: ../../syugyo/zensyoku/zensyoku_kikan.rst:1
 msgid "年"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/zensyoku_kikan.rst:1
+#: ../../syugyo/zensyoku/zensyoku_kikan.rst:1
 msgid "月"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/zensyoku_kikan.rst:1
+#: ../../syugyo/zensyoku/zensyoku_kikan.rst:1
 msgid "前職の勤務開始時期"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/zensyoku_kikan.rst:1
+#: ../../syugyo/zensyoku/zensyoku_kikan.rst:1
 msgid ":doc:`P66A </variable/P66A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/zensyoku_kikan.rst:1
+#: ../../syugyo/zensyoku/zensyoku_kikan.rst:1
 msgid ":doc:`P66B </variable/P66B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/zensyoku_kikan.rst:1
+#: ../../syugyo/zensyoku/zensyoku_kikan.rst:1
 msgid "前職の勤務終了時期"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/zensyoku_kikan.rst:14
+#: ../../syugyo/zensyoku/zensyoku_kikan.rst:14
 msgid "「年」については、調査票では元号でたずねていますが、レコードでは西暦に変換しています。"
 msgstr ""
 

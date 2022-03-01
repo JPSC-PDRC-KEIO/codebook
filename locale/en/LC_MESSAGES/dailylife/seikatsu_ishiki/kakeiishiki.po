@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/dailylife/seikatsu_ishiki/kakeiishiki.rst:3
+#: ../../dailylife/seikatsu_ishiki/kakeiishiki.rst:3
 msgid "家計について"
 msgstr "Family budget"

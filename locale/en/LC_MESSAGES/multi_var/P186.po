@@ -17,171 +17,171 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:3
+#: ../../multi_var/P186.rst:3
 msgid "初職の評価"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:6
+#: ../../multi_var/P186.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:8
+#: ../../multi_var/P186.rst:8
 msgid "あなたのはじめての会社やお仕事について、以下のことはどれくらいあてはまりますか。（それぞれ〇は１つずつ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "あてはまる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "まああてはまる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst
+#: ../../multi_var/P186.rst
 msgid "あまりあて"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst
+#: ../../multi_var/P186.rst
 msgid "はまらない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst
+#: ../../multi_var/P186.rst
 msgid "ほとんどあて"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "わからない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "給与がよい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid ":doc:`P186A </variable/P186A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "労働時間が長い"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid ":doc:`P186B </variable/P186B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "休日・休暇をとりやすい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid ":doc:`P186C </variable/P186C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "通勤時間が短い"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid ":doc:`P186D </variable/P186D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "転勤がない・少ない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid ":doc:`P186E </variable/P186E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "安定している・失業のおそれがない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid ":doc:`P186F </variable/P186F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "将来、発展する可能性がある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid ":doc:`P186G </variable/P186G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "結婚・出産後も続けやすい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid ":doc:`P186H </variable/P186H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "技術が身につく"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid ":doc:`P186I </variable/P186I>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "能力が生かせる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid ":doc:`P186J </variable/P186J>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "仕事内容に興味がある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid ":doc:`P186K </variable/P186K>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "人間関係が良好である"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid ":doc:`P186L </variable/P186L>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid "昇進・地位向上の機会がある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P186.rst:1
+#: ../../multi_var/P186.rst:1
 msgid ":doc:`P186M </variable/P186M>`"
 msgstr ""
 

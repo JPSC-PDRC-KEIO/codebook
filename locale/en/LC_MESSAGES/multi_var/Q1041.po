@@ -17,127 +17,127 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:3
+#: ../../multi_var/Q1041.rst:3
 msgid "子育ての協力者"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:7
+#: ../../multi_var/Q1041.rst:7
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:8
+#: ../../multi_var/Q1041.rst:8
 msgid "現在、あなた以外に子どもの世話をしてくれる人がいますか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:11
+#: ../../multi_var/Q1041.rst:11
 msgid "有配偶"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid "あなたの夫"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041A </variable/Q1041A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid "あなたの親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041B </variable/Q1041B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid "あなたのきょうだい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041C </variable/Q1041C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid "夫の親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041D </variable/Q1041D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid "友人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041E </variable/Q1041E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid "近所の人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041F </variable/Q1041F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid "保育所・幼稚園・学童保育など"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041G </variable/Q1041G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid "ベビーシッター・家政婦など"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041H </variable/Q1041H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041I </variable/Q1041I>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid "特に世話をしてくれる人はいない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041J </variable/Q1041J>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid "特に世話をしてもらう必要がない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041K </variable/Q1041K>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:32
+#: ../../multi_var/Q1041.rst:32
 msgid "無配偶"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid "子どもの父親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1041.rst:1
+#: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041L </variable/Q1041L>`"
 msgstr ""
 

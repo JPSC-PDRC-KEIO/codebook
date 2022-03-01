@@ -17,11 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/index.rst:3
+#: ../../syugyo/gensyoku/index.rst:3
 msgid "現職についての質問"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/index.rst:17
+#: ../../syugyo/gensyoku/index.rst:17
 msgid "初回調査時における現在の職業に関する質問であり、初職から一度も転職経験のない人が回答しています。"
 msgstr ""
 

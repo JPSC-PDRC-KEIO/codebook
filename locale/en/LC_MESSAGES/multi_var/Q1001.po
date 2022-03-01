@@ -17,187 +17,187 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:4
+#: ../../multi_var/Q1001.rst:4
 msgid "オンラインショッピングでの購入"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:8
+#: ../../multi_var/Q1001.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:9
+#: ../../multi_var/Q1001.rst:9
 msgid "この1年間にオンラインショッピングで何を購入しましたか。（あてはまるものすべてに〇）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:13
+#: ../../multi_var/Q1001.rst:13
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "旅行・宿泊、航空・鉄道チケット"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "Q1001A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "映画、演劇、コンサート等のチケット"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "Q1001B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "コンピュータ・ハードウェア"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "Q1001C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "コンピュータ・ソフトウェア"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "Q1001D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "書籍・雑誌"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "Q1001E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "音楽CD、ビデオ、DVD"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "Q1001F"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "7"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "衣料品、アクセサリー、ファッション用品"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "Q1001G"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "8"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "美容・化粧品"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "Q1001H"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "医療・健康関連商品"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "Q1001I"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "10"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "食料品、酒、飲料"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "Q1001J"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "11"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "日用雑貨"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "Q1001K"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "12"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "ギフト、中元、歳暮"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "Q1001L"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "13"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "その他（具体的に　　　　　　　）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:1
+#: ../../multi_var/Q1001.rst:1
 msgid "Q1001M"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:35
+#: ../../multi_var/Q1001.rst:35
 msgid "現在の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:56
+#: ../../multi_var/Q1001.rst:56
 msgid "過去の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1001.rst:63
+#: ../../multi_var/Q1001.rst:63
 msgid "備考"
 msgstr "Remarks"
 

@@ -17,56 +17,56 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q943A.rst:5
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q943A.rst:26
+#: ../../variable/Q943A.rst:5
+#: ../../variable/Q943A.rst:26
 msgid "1.個人のプライバシーに国や地方自治体が介入したり、会社に知られるので"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q943A.rst:9
+#: ../../variable/Q943A.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q943A.rst:11
+#: ../../variable/Q943A.rst:11
 msgid "Q943A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q943A.rst:15
+#: ../../variable/Q943A.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q943A.rst:18
+#: ../../variable/Q943A.rst:18
 msgid "反対する理由をお答えください。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q943A.rst:24
+#: ../../variable/Q943A.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q943A.rst:32
+#: ../../variable/Q943A.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q943A.rst:38
+#: ../../variable/Q943A.rst:38
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q943A.rst:44
+#: ../../variable/Q943A.rst:44
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q943A.rst:45
+#: ../../variable/Q943A.rst:45
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q943A.rst:50
+#: ../../variable/Q943A.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q943A.rst:56
+#: ../../variable/Q943A.rst:56
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q943A.rst:61
+#: ../../variable/Q943A.rst:61
 msgid "p4_4"
 msgstr ""
 

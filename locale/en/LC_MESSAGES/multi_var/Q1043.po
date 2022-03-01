@@ -20,71 +20,71 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1043.rst:4
+#: ../../multi_var/Q1043.rst:4
 msgid "遺産相続した子"
 msgstr "The child who received the inheritance"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1043.rst:8
+#: ../../multi_var/Q1043.rst:8
 msgid "質問文（複数回答）"
 msgstr "Question (multiple answers)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1043.rst:9
+#: ../../multi_var/Q1043.rst:9
 msgid "遺産を全部または多く相続した子（または子の配偶者）は以下のことをしましたか。（〇はいくつでも）"
 msgstr "Did the child (or the child's spouse) who inherited all or much of the estate do any of the following? (Circle as many as you like)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1043.rst:1
+#: ../../multi_var/Q1043.rst:1
 msgid "項目"
 msgstr "items"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1043.rst:1
+#: ../../multi_var/Q1043.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1043.rst:1
+#: ../../multi_var/Q1043.rst:1
 msgid "亡くなった方と同居していた"
 msgstr "live with the deceased"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1043.rst:1
+#: ../../multi_var/Q1043.rst:1
 msgid ":doc:`Q1043A </variable/Q1043A>`"
 msgstr ":doc:`Q1043A </variable/Q1043A>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1043.rst:1
+#: ../../multi_var/Q1043.rst:1
 msgid "亡くなった方の介護をしていた"
 msgstr "provide long-term care for the deceased"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1043.rst:1
+#: ../../multi_var/Q1043.rst:1
 msgid ":doc:`Q1043B </variable/Q1043B>`"
 msgstr ":doc:`Q1043B </variable/Q1043B>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1043.rst:1
+#: ../../multi_var/Q1043.rst:1
 msgid "亡くなった方の家事をしていた"
 msgstr "provide housekeeping for the deceased"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1043.rst:1
+#: ../../multi_var/Q1043.rst:1
 msgid ":doc:`Q1043C </variable/Q1043C>`"
 msgstr ":doc:`Q1043C </variable/Q1043C>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1043.rst:1
+#: ../../multi_var/Q1043.rst:1
 msgid "亡くなった方の扶養（経済的援助）をしていた"
 msgstr "provide support (financial assistance) for the deceased"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1043.rst:1
+#: ../../multi_var/Q1043.rst:1
 msgid ":doc:`Q1043D </variable/Q1043D>`"
 msgstr ":doc:`Q1043D </variable/Q1043D>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1043.rst:1
+#: ../../multi_var/Q1043.rst:1
 msgid "家業を継いだ"
 msgstr "take over the family business"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1043.rst:1
+#: ../../multi_var/Q1043.rst:1
 msgid ":doc:`Q1043E </variable/Q1043E>`"
 msgstr ":doc:`Q1043E </variable/Q1043E>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1043.rst:1
+#: ../../multi_var/Q1043.rst:1
 msgid "いずれもしなかった"
 msgstr "None of the above"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1043.rst:1
+#: ../../multi_var/Q1043.rst:1
 msgid ":doc:`Q1043F </variable/Q1043F>`"
 msgstr ":doc:`Q1043F </variable/Q1043F>`"
 

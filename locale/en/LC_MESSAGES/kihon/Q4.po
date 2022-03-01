@@ -20,28 +20,28 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 2.2.4\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q4.rst:3
+#: ../../kihon/Q4.rst:3
 msgid "全国地方公共団体コード"
 msgstr "Local Government Code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q4.rst:7
+#: ../../kihon/Q4.rst:7
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q4.rst:9
+#: ../../kihon/Q4.rst:9
 msgid "Q4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q4.rst:13
+#: ../../kihon/Q4.rst:13
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q4.rst:15
+#: ../../kihon/Q4.rst:15
 msgid "総務省が設定している全国の都道府県及び市区町村のコードです。"
 msgstr ""
 "It is the code of the prefecture and the city of the whole country set "
 "by the Ministry of Internal Affairs and Communications."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q4.rst:17
+#: ../../kihon/Q4.rst:17
 msgid "一般のユーザーには公開していません。"
 msgstr "Not available to ordinary users."

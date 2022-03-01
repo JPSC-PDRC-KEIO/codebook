@@ -20,7 +20,7 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/index.rst:3
+#: ../../shisan/jutaku/index.rst:3
 msgid "住宅"
 msgstr "Residential properties"
 

@@ -17,95 +17,95 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:3
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:3
 msgid "子どもの進学への希望"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:6
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:7
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:7
 msgid "子どもに、将来、どこまで教育を受けさせたいですか。該当する回答欄に、コード表の番号を記入してください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "お子さんのいる方"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "お子さんのいない方"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "第１子"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid ":doc:`Q1155A </variable/Q1155A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid ":doc:`Q1156 </variable/Q1156>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "第２子"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid ":doc:`Q1155B </variable/Q1155B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "第３子"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid ":doc:`Q1155C </variable/Q1155C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "第４子"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid ":doc:`Q1155D </variable/Q1155D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:20
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:20
 msgid "コード表"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "1.定評のある大学に進学させたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "2.どこの大学でもよいから、大学に進学させたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "3.短大に進学させたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "4.専門学校に進学させたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "5.高校までは進学させたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "6.本人次第"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "7.学校教育を終えている・社会人になっている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kyouiku_kibou.rst:1
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "8.その他"
 msgstr ""
 

@@ -17,59 +17,59 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q458A.rst:5
+#: ../../variable/Q458A.rst:5
 msgid "1年以内の購入台数・石油ストーブ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q458A.rst:9
+#: ../../variable/Q458A.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q458A.rst:11
+#: ../../variable/Q458A.rst:11
 msgid "Q458A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q458A.rst:15
+#: ../../variable/Q458A.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q458A.rst:21
+#: ../../variable/Q458A.rst:21
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q458A.rst:23
+#: ../../variable/Q458A.rst:23
 msgid "＿＿台"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q458A.rst:29
+#: ../../variable/Q458A.rst:29
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q458A.rst:30
+#: ../../variable/Q458A.rst:30
 msgid "8"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q458A.rst:35
+#: ../../variable/Q458A.rst:35
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q458A.rst:41
+#: ../../variable/Q458A.rst:41
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q458A.rst:42
+#: ../../variable/Q458A.rst:42
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q458A.rst:47
+#: ../../variable/Q458A.rst:47
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q458A.rst:53
+#: ../../variable/Q458A.rst:53
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q458A.rst:58
+#: ../../variable/Q458A.rst:58
 msgid "p2_3"
 msgstr ""
 

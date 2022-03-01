@@ -17,67 +17,67 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q871J.rst:5
+#: ../../variable/Q871J.rst:5
 msgid "地球温暖化で気をつけていること：環境家計簿をつける"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q871J.rst:9
+#: ../../variable/Q871J.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q871J.rst:11
+#: ../../variable/Q871J.rst:11
 msgid "Q871J"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q871J.rst:15
+#: ../../variable/Q871J.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q871J.rst:18
+#: ../../variable/Q871J.rst:18
 msgid "毎日の暮らしの中でちょっとした工夫で地球温暖化の防止に貢献することができますが、あなたは普段の生活で気をつけていることがありますか。次の中から選んでください。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q871J.rst:21
+#: ../../variable/Q871J.rst:21
 msgid "環境にやさしい日常生活をおくっているかをチェックするための環境家計簿をつけている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q871J.rst:27
+#: ../../variable/Q871J.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q871J.rst:30
+#: ../../variable/Q871J.rst:30
 msgid "はい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q871J.rst:32
+#: ../../variable/Q871J.rst:32
 msgid "いいえ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q871J.rst:39
+#: ../../variable/Q871J.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q871J.rst:45
+#: ../../variable/Q871J.rst:45
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q871J.rst:51
+#: ../../variable/Q871J.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q871J.rst:52
+#: ../../variable/Q871J.rst:52
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q871J.rst:57
+#: ../../variable/Q871J.rst:57
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q871J.rst:63
+#: ../../variable/Q871J.rst:63
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q871J.rst:68
+#: ../../variable/Q871J.rst:68
 msgid "p6_4"
 msgstr ""
 

@@ -20,87 +20,87 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 2.4.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:5
+#: ../../variable/P33C.rst:5
 msgid "引越し前住所（転居1）"
 msgstr "Address before the move (Move1)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:9
+#: ../../variable/P33C.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:11
+#: ../../variable/P33C.rst:11
 msgid "P33C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:15
+#: ../../variable/P33C.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:18
+#: ../../variable/P33C.rst:18
 msgid "現在からさかのぼって５回までの引っ越しについて、以下の項目を記入して下さい。"
 msgstr "Please fill in the following for the 5 most recent moves to date."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:20
+#: ../../variable/P33C.rst:20
 msgid "転居1"
 msgstr "Move1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:24
+#: ../../variable/P33C.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:34
+#: ../../variable/P33C.rst:34
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:35
+#: ../../variable/P33C.rst:35
 msgid "99998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:40
+#: ../../variable/P33C.rst:40
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:46
+#: ../../variable/P33C.rst:46
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:47
+#: ../../variable/P33C.rst:47
 msgid "99999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:52
+#: ../../variable/P33C.rst:52
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:54
+#: ../../variable/P33C.rst:54
 msgid "総務省が設定している全国の都道府県及び市区町村のコードです。"
 msgstr "This is the code for all prefectures and municipalities in Japan set by the Ministry of Internal Affairs and Communications."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:56
+#: ../../variable/P33C.rst:56
 #, 
 msgid "一般のユーザーには公開していません。"
 msgstr "It is not disclose to undergruduate students.\vIt is not available to the general public."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:61
+#: ../../variable/P33C.rst:61
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:66
+#: ../../variable/P33C.rst:66
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:68
+#: ../../variable/P33C.rst:68
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:70
+#: ../../variable/P33C.rst:70
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:72
+#: ../../variable/P33C.rst:72
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P33C.rst:74
+#: ../../variable/P33C.rst:74
 msgid "p21e_1"
 msgstr ""

@@ -20,82 +20,82 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:5
+#: ../../variable/P28M.rst:5
 msgid "保有資格：行政書士"
 msgstr "Qualification: Administrative scrivener"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:9
+#: ../../variable/P28M.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:11
+#: ../../variable/P28M.rst:11
 msgid "P28M"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:15
+#: ../../variable/P28M.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:18
+#: ../../variable/P28M.rst:18
 msgid "あなたは、次のような資格をお持ちですか。お持ちのものをお知らせください。（〇はいくつでも）"
 msgstr "Do you have any of the following certificates or licenses? Please indicate all of the ones you hold.  (Circle as many as apply to you.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:21
+#: ../../variable/P28M.rst:21
 msgid "行政書士"
 msgstr "Administrative scrivener"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:27
+#: ../../variable/P28M.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:30
+#: ../../variable/P28M.rst:30
 msgid "あり"
 msgstr "Yes"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:32
+#: ../../variable/P28M.rst:32
 msgid "なし"
 msgstr "No"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:39
+#: ../../variable/P28M.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:45
+#: ../../variable/P28M.rst:45
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:51
+#: ../../variable/P28M.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:52
+#: ../../variable/P28M.rst:52
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:57
+#: ../../variable/P28M.rst:57
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:63
+#: ../../variable/P28M.rst:63
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:68
+#: ../../variable/P28M.rst:68
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:70
+#: ../../variable/P28M.rst:70
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:72
+#: ../../variable/P28M.rst:72
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:74
+#: ../../variable/P28M.rst:74
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P28M.rst:76
+#: ../../variable/P28M.rst:76
 msgid "p21e_1"
 msgstr ""

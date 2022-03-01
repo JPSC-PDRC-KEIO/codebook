@@ -17,87 +17,87 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:5
+#: ../../variable/Q303A.rst:5
 msgid "税金・社会保険料：昨年分か当月分か（他の世帯員）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:9
+#: ../../variable/Q303A.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:11
+#: ../../variable/Q303A.rst:11
 msgid "Q303A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:15
+#: ../../variable/Q303A.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:18
+#: ../../variable/Q303A.rst:18
 msgid "あなたとあなたのご主人、及びご夫婦以外の方が世帯員にいらっしゃればその方がそれぞれお支払いになった税金（所得税、住民税など）と社会保険料（健康保険料、公的年金保険料、雇用保険料など）の合計は昨年1年間（調査前年1月～12月）でいくらでしたか。（支払わなかった場合は「0支払いなし」に〇をして下さい）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:21
+#: ../../variable/Q303A.rst:21
 msgid "なるべく昨年1年分についてお答えいただきたいのですが、勤め人の方で先月9月の1ヵ月分しかわからない場合は9月分のお答えで結構です。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:27
+#: ../../variable/Q303A.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:30
+#: ../../variable/Q303A.rst:30
 msgid "記入は昨年1年分"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:32
+#: ../../variable/Q303A.rst:32
 msgid "記入は9月1ヵ月分"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:39
+#: ../../variable/Q303A.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:45
+#: ../../variable/Q303A.rst:45
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:51
+#: ../../variable/Q303A.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:52
+#: ../../variable/Q303A.rst:52
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:57
+#: ../../variable/Q303A.rst:57
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:63
+#: ../../variable/Q303A.rst:63
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:68
+#: ../../variable/Q303A.rst:68
 msgid "p2_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:70
+#: ../../variable/Q303A.rst:70
 msgid "p3_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:72
+#: ../../variable/Q303A.rst:72
 msgid "p4_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:74
+#: ../../variable/Q303A.rst:74
 msgid "p5a_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:76
+#: ../../variable/Q303A.rst:76
 msgid "p5b_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q303A.rst:78
+#: ../../variable/Q303A.rst:78
 msgid "p6_2"
 msgstr ""
 

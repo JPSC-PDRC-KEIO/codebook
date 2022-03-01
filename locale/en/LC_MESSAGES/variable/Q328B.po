@@ -17,83 +17,83 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:5
+#: ../../variable/Q328B.rst:5
 msgid "生前贈与期待：実物資産（本人の親）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:9
+#: ../../variable/Q328B.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:11
+#: ../../variable/Q328B.rst:11
 msgid "Q328B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:15
+#: ../../variable/Q328B.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:18
+#: ../../variable/Q328B.rst:18
 msgid "あなた方ご夫婦は、あなたの親から金融資産や実物資産をもらうことを期待していますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:21
+#: ../../variable/Q328B.rst:21
 msgid "生前贈与として・実物資産"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:27
+#: ../../variable/Q328B.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:29
+#: ../../variable/Q328B.rst:29
 msgid "＿ ＿ ＿ ＿ 万円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:35
+#: ../../variable/Q328B.rst:35
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:36
+#: ../../variable/Q328B.rst:36
 msgid "9998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:41
+#: ../../variable/Q328B.rst:41
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:47
+#: ../../variable/Q328B.rst:47
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:48
+#: ../../variable/Q328B.rst:48
 msgid "9999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:53
+#: ../../variable/Q328B.rst:53
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:59
+#: ../../variable/Q328B.rst:59
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:64
+#: ../../variable/Q328B.rst:64
 msgid "p2_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:66
+#: ../../variable/Q328B.rst:66
 msgid "p5b_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:68
+#: ../../variable/Q328B.rst:68
 msgid "p6_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:70
+#: ../../variable/Q328B.rst:70
 msgid "p8_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q328B.rst:72
+#: ../../variable/Q328B.rst:72
 msgid "p10_2"
 msgstr ""
 

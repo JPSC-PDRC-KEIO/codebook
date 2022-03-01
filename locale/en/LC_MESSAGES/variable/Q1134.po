@@ -17,67 +17,67 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1134.rst:5
+#: ../../variable/Q1134.rst:5
 msgid "消費者教育の授業"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1134.rst:9
+#: ../../variable/Q1134.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1134.rst:11
+#: ../../variable/Q1134.rst:11
 msgid "Q1134"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1134.rst:15
+#: ../../variable/Q1134.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1134.rst:18
+#: ../../variable/Q1134.rst:18
 msgid "あなたは、学校（小学校、中学校、高等学校）の家庭科や社会科などで消費者教育の授業を受けたことがありますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1134.rst:24
+#: ../../variable/Q1134.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1134.rst:27
+#: ../../variable/Q1134.rst:27
 msgid "授業を受けたことはあるし、内容について（ある程度は）覚えている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1134.rst:29
+#: ../../variable/Q1134.rst:29
 msgid "授業を受けたことはあるが、内容については覚えていない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1134.rst:31
+#: ../../variable/Q1134.rst:31
 msgid "授業を受けたことはない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1134.rst:38
+#: ../../variable/Q1134.rst:38
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1134.rst:44
+#: ../../variable/Q1134.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1134.rst:50
+#: ../../variable/Q1134.rst:50
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1134.rst:51
+#: ../../variable/Q1134.rst:51
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1134.rst:56
+#: ../../variable/Q1134.rst:56
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1134.rst:62
+#: ../../variable/Q1134.rst:62
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1134.rst:67
+#: ../../variable/Q1134.rst:67
 msgid "p18_4"
 msgstr ""
 

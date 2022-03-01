@@ -17,75 +17,75 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879O.rst:5
+#: ../../variable/Q879O.rst:5
 msgid "支出月額（有配偶）：実親への譲渡額"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879O.rst:9
+#: ../../variable/Q879O.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879O.rst:11
+#: ../../variable/Q879O.rst:11
 msgid "Q879O"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879O.rst:15
+#: ../../variable/Q879O.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879O.rst:18
+#: ../../variable/Q879O.rst:18
 msgid "次の各項目について、あなたのご家族でのこの9月1カ月間に支出した額を記入して下さい。（現金を支払ったものの他、銀行・郵便局から自動的に引き落とした分も含みます）（支出がなかったものについては0と記入してください。）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879O.rst:21
+#: ../../variable/Q879O.rst:21
 msgid "そのうち　あなた自身の親へ渡した分"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879O.rst:27
+#: ../../variable/Q879O.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879O.rst:29
+#: ../../variable/Q879O.rst:29
 msgid "＿ ＿ 万 ＿ 千円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879O.rst:35
+#: ../../variable/Q879O.rst:35
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879O.rst:36
+#: ../../variable/Q879O.rst:36
 msgid "998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879O.rst:41
+#: ../../variable/Q879O.rst:41
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879O.rst:47
+#: ../../variable/Q879O.rst:47
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879O.rst:48
+#: ../../variable/Q879O.rst:48
 msgid "999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879O.rst:53
+#: ../../variable/Q879O.rst:53
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879O.rst:59
+#: ../../variable/Q879O.rst:59
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879O.rst:64
+#: ../../variable/Q879O.rst:64
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879O.rst:66
+#: ../../variable/Q879O.rst:66
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q879O.rst:68
+#: ../../variable/Q879O.rst:68
 msgid "p8_1"
 msgstr ""
 

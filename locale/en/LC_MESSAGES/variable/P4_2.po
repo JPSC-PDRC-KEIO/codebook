@@ -20,86 +20,86 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:5
+#: ../../variable/P4_2.rst:5
 msgid "離死別経験の有無（有配偶）"
 msgstr "Divorced or Widowed (married)."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:9
+#: ../../variable/P4_2.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:11
+#: ../../variable/P4_2.rst:11
 msgid "P4_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:15
+#: ../../variable/P4_2.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:18
+#: ../../variable/P4_2.rst:18
 msgid "あなたは、配偶者との死別や離別を経験されたことがありますか。（なお、結婚には正式な届出をしていない内縁の関係も含みます）"
 msgstr "Have you ever been a divorce from or widowed? (Marital relationship includes common-law marriage.)?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:24
+#: ../../variable/P4_2.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:27
+#: ../../variable/P4_2.rst:27
 msgid "離別した経験がある"
 msgstr "I have been divorced."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:29
+#: ../../variable/P4_2.rst:29
 msgid "死別した経験がある"
 msgstr "I have been widowed. "
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:31
+#: ../../variable/P4_2.rst:31
 msgid "離別と死別の経験がある"
 msgstr "I have been both divorced and widowed."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:33
+#: ../../variable/P4_2.rst:33
 msgid "いずれもない"
 msgstr "I have never been divorced or widowed."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:40
+#: ../../variable/P4_2.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:46
+#: ../../variable/P4_2.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:52
+#: ../../variable/P4_2.rst:52
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:53
+#: ../../variable/P4_2.rst:53
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:58
+#: ../../variable/P4_2.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:64
+#: ../../variable/P4_2.rst:64
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:69
+#: ../../variable/P4_2.rst:69
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:71
+#: ../../variable/P4_2.rst:71
 msgid "p12_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:73
+#: ../../variable/P4_2.rst:73
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:75
+#: ../../variable/P4_2.rst:75
 msgid "p17_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P4_2.rst:77
+#: ../../variable/P4_2.rst:77
 msgid "p21e_1"
 msgstr ""

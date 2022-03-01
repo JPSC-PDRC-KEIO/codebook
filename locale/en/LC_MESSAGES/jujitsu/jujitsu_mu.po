@@ -17,111 +17,111 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:3
+#: ../../jujitsu/jujitsu_mu.rst:3
 msgid "今後充実させたいこと（無配偶）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:6
+#: ../../jujitsu/jujitsu_mu.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:7
+#: ../../jujitsu/jujitsu_mu.rst:7
 msgid "今後、自分の生活の中でより充実させたいと思う事柄はどれですか。以下の選択肢から三つを選び番号をご記入ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:11
+#: ../../jujitsu/jujitsu_mu.rst:11
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:13
+#: ../../jujitsu/jujitsu_mu.rst:13
 msgid "収入"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:14
+#: ../../jujitsu/jujitsu_mu.rst:14
 msgid "貯蓄など財産形成"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:15
+#: ../../jujitsu/jujitsu_mu.rst:15
 msgid "食生活"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:16
+#: ../../jujitsu/jujitsu_mu.rst:16
 msgid "ファッション・美容"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:17
+#: ../../jujitsu/jujitsu_mu.rst:17
 msgid "住まい・マイホーム"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:18
+#: ../../jujitsu/jujitsu_mu.rst:18
 msgid "健康"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:19
+#: ../../jujitsu/jujitsu_mu.rst:19
 msgid "家電製品、自動車などの耐久消費財"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:20
+#: ../../jujitsu/jujitsu_mu.rst:20
 msgid "仕事"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:21
+#: ../../jujitsu/jujitsu_mu.rst:21
 msgid "時間的な余裕"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:22
+#: ../../jujitsu/jujitsu_mu.rst:22
 msgid "趣味・教養"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:23
+#: ../../jujitsu/jujitsu_mu.rst:23
 msgid "家族関係"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:24
+#: ../../jujitsu/jujitsu_mu.rst:24
 msgid "地域社会との交流"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:25
+#: ../../jujitsu/jujitsu_mu.rst:25
 msgid "友人関係"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:26
+#: ../../jujitsu/jujitsu_mu.rst:26
 msgid "恋愛・恋人との関係"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:27
+#: ../../jujitsu/jujitsu_mu.rst:27
 msgid "その他(具体的に)"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:1
+#: ../../jujitsu/jujitsu_mu.rst:1
 msgid "順位"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:1
+#: ../../jujitsu/jujitsu_mu.rst:1
 msgid "変数"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:1
+#: ../../jujitsu/jujitsu_mu.rst:1
 msgid "1位"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:1
+#: ../../jujitsu/jujitsu_mu.rst:1
 msgid ":doc:`Q1164A </variable/Q1164A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:1
+#: ../../jujitsu/jujitsu_mu.rst:1
 msgid "2位"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:1
+#: ../../jujitsu/jujitsu_mu.rst:1
 msgid ":doc:`Q1164B </variable/Q1164B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:1
+#: ../../jujitsu/jujitsu_mu.rst:1
 msgid "3位"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/jujitsu/jujitsu_mu.rst:1
+#: ../../jujitsu/jujitsu_mu.rst:1
 msgid ":doc:`Q1164C </variable/Q1164C>`"
 msgstr ""
 

@@ -17,177 +17,177 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:5
+#: ../../variable/Q173.rst:5
 msgid "研修・講習実施時間"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:9
+#: ../../variable/Q173.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:11
+#: ../../variable/Q173.rst:11
 msgid "Q173"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:15
+#: ../../variable/Q173.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:18
+#: ../../variable/Q173.rst:18
 msgid ""
 "研修会や講習会は就業時間内に行われましたか。; 1. 就業時間内で行われた; 2. 就業時間外で行われた; 3. 就業時間内、就業時間外　"
 "両方で行われた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:24
+#: ../../variable/Q173.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:27
+#: ../../variable/Q173.rst:27
 msgid "回答あり"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:29
+#: ../../variable/Q173.rst:29
 msgid "回答なし"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:36
+#: ../../variable/Q173.rst:36
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:42
+#: ../../variable/Q173.rst:42
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:48
+#: ../../variable/Q173.rst:48
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:49
+#: ../../variable/Q173.rst:49
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:54
+#: ../../variable/Q173.rst:54
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:60
+#: ../../variable/Q173.rst:60
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:65
+#: ../../variable/Q173.rst:65
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:67
+#: ../../variable/Q173.rst:67
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:69
+#: ../../variable/Q173.rst:69
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:71
+#: ../../variable/Q173.rst:71
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:73
+#: ../../variable/Q173.rst:73
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:75
+#: ../../variable/Q173.rst:75
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:77
+#: ../../variable/Q173.rst:77
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:79
+#: ../../variable/Q173.rst:79
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:81
+#: ../../variable/Q173.rst:81
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:83
+#: ../../variable/Q173.rst:83
 msgid "p10_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:85
+#: ../../variable/Q173.rst:85
 msgid "p11ab_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:87
+#: ../../variable/Q173.rst:87
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:89
+#: ../../variable/Q173.rst:89
 msgid "p12_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:91
+#: ../../variable/Q173.rst:91
 msgid "p13_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:93
+#: ../../variable/Q173.rst:93
 msgid "p14_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:95
+#: ../../variable/Q173.rst:95
 msgid "p15_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:97
+#: ../../variable/Q173.rst:97
 msgid "p16abc_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:99
+#: ../../variable/Q173.rst:99
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:101
+#: ../../variable/Q173.rst:101
 msgid "p17_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:103
+#: ../../variable/Q173.rst:103
 msgid "p18_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:105
+#: ../../variable/Q173.rst:105
 msgid "p19_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:107
+#: ../../variable/Q173.rst:107
 msgid "p20_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:109
+#: ../../variable/Q173.rst:109
 msgid "p21abcd_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:111
+#: ../../variable/Q173.rst:111
 msgid "p21e_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:113
+#: ../../variable/Q173.rst:113
 msgid "p22_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:115
+#: ../../variable/Q173.rst:115
 msgid "p23_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:117
+#: ../../variable/Q173.rst:117
 msgid "p24_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:119
+#: ../../variable/Q173.rst:119
 msgid "p25_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q173.rst:121
+#: ../../variable/Q173.rst:121
 msgid "p26_1"
 msgstr ""
 

@@ -17,43 +17,43 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syosyoku/syosyoku_kikan.rst:3
+#: ../../syugyo/syosyoku/syosyoku_kikan.rst:3
 msgid "初職への従事期間"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syosyoku/syosyoku_kikan.rst:1
+#: ../../syugyo/syosyoku/syosyoku_kikan.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syosyoku/syosyoku_kikan.rst:1
+#: ../../syugyo/syosyoku/syosyoku_kikan.rst:1
 msgid "年"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syosyoku/syosyoku_kikan.rst:1
+#: ../../syugyo/syosyoku/syosyoku_kikan.rst:1
 msgid "月"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syosyoku/syosyoku_kikan.rst:1
+#: ../../syugyo/syosyoku/syosyoku_kikan.rst:1
 msgid "初職の勤務開始時期"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syosyoku/syosyoku_kikan.rst:1
+#: ../../syugyo/syosyoku/syosyoku_kikan.rst:1
 msgid ":doc:`P75A </variable/P75A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syosyoku/syosyoku_kikan.rst:1
+#: ../../syugyo/syosyoku/syosyoku_kikan.rst:1
 msgid ":doc:`P75B </variable/P75B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syosyoku/syosyoku_kikan.rst:1
+#: ../../syugyo/syosyoku/syosyoku_kikan.rst:1
 msgid "初職の勤務終了時期"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syosyoku/syosyoku_kikan.rst:1
+#: ../../syugyo/syosyoku/syosyoku_kikan.rst:1
 msgid ":doc:`P76A </variable/P76A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syosyoku/syosyoku_kikan.rst:1
+#: ../../syugyo/syosyoku/syosyoku_kikan.rst:1
 msgid ":doc:`P76B </variable/P76B>`"
 msgstr ""
 

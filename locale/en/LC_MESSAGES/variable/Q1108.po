@@ -17,63 +17,63 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1108.rst:5
+#: ../../variable/Q1108.rst:5
 msgid "就学を終えた直後の就業"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1108.rst:9
+#: ../../variable/Q1108.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1108.rst:11
+#: ../../variable/Q1108.rst:11
 msgid "Q1108"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1108.rst:15
+#: ../../variable/Q1108.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1108.rst:18
+#: ../../variable/Q1108.rst:18
 msgid "学校教育を終えられたお子さんの中で、一番上のお子さんについてお答えください。; （3）最後の学校を出られた直後に仕事に就かれましたか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1108.rst:24
+#: ../../variable/Q1108.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1108.rst:27
+#: ../../variable/Q1108.rst:27
 msgid "仕事についた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1108.rst:29
+#: ../../variable/Q1108.rst:29
 msgid "仕事につかなかった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1108.rst:36
+#: ../../variable/Q1108.rst:36
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1108.rst:42
+#: ../../variable/Q1108.rst:42
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1108.rst:48
+#: ../../variable/Q1108.rst:48
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1108.rst:49
+#: ../../variable/Q1108.rst:49
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1108.rst:54
+#: ../../variable/Q1108.rst:54
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1108.rst:60
+#: ../../variable/Q1108.rst:60
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1108.rst:65
+#: ../../variable/Q1108.rst:65
 msgid "p17_4"
 msgstr ""
 

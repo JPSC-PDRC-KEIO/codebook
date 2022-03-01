@@ -17,83 +17,83 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:4
+#: ../../multi_var/Q1073.rst:4
 msgid "住宅ローン減税制度変更の影響：住宅購入への影響"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:8
+#: ../../multi_var/Q1073.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:10
+#: ../../multi_var/Q1073.rst:10
 msgid "このような住宅ローン減税の制度変更はあなたの住宅取得行動にどのような影響を及ぼしましたか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:1
+#: ../../multi_var/Q1073.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:1
+#: ../../multi_var/Q1073.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:1
+#: ../../multi_var/Q1073.rst:1
 msgid "住宅購入の時期を早めた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:1
+#: ../../multi_var/Q1073.rst:1
 msgid ":doc:`Q1073A </variable/Q1073A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:1
+#: ../../multi_var/Q1073.rst:1
 msgid "住宅購入が不可能になった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:1
+#: ../../multi_var/Q1073.rst:1
 msgid ":doc:`Q1073B </variable/Q1073B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:1
+#: ../../multi_var/Q1073.rst:1
 msgid "住宅購入の時期を遅らせた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:1
+#: ../../multi_var/Q1073.rst:1
 msgid ":doc:`Q1073C </variable/Q1073C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:1
+#: ../../multi_var/Q1073.rst:1
 msgid "住宅の購入価格を下げた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:1
+#: ../../multi_var/Q1073.rst:1
 msgid ":doc:`Q1073D </variable/Q1073D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:1
+#: ../../multi_var/Q1073.rst:1
 msgid "住宅の購入価格を上げた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:1
+#: ../../multi_var/Q1073.rst:1
 msgid ":doc:`Q1073E </variable/Q1073E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:1
+#: ../../multi_var/Q1073.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:1
+#: ../../multi_var/Q1073.rst:1
 msgid ":doc:`Q1073F </variable/Q1073F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:1
+#: ../../multi_var/Q1073.rst:1
 msgid "何の影響もなかった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:1
+#: ../../multi_var/Q1073.rst:1
 msgid ":doc:`Q1073G </variable/Q1073G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1073.rst:28
+#: ../../multi_var/Q1073.rst:28
 msgid "Q1073Gは、p22の無配偶票では欠落していますが、「その他」回答からの修復でデータには存在します。"
 msgstr ""
 

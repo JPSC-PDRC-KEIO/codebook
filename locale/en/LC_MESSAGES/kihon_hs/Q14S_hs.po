@@ -19,95 +19,95 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:3
+#: ../../kihon_hs/Q14S_hs.rst:3
 msgid "現在の就学・就労（配偶者）〔第11回～〕"
 msgstr "Student or worker status (spouse) [11th wave-  ]"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:5
+#: ../../kihon_hs/Q14S_hs.rst:5
 msgid "無配偶の家族2と共通の変数"
 msgstr "This variable is also assigned to Family-member2 of Single"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:9
+#: ../../kihon_hs/Q14S_hs.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:11
+#: ../../kihon_hs/Q14S_hs.rst:11
 msgid "Q14S"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:14
+#: ../../kihon_hs/Q14S_hs.rst:14
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:15
+#: ../../kihon_hs/Q14S_hs.rst:15
 msgid "配偶者の現在の就学・就労状況"
 msgstr "Student or worker status of husband"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:18
+#: ../../kihon_hs/Q14S_hs.rst:18
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:20
+#: ../../kihon_hs/Q14S_hs.rst:20
 msgid "未就学"
 msgstr "Preschooler"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:21
+#: ../../kihon_hs/Q14S_hs.rst:21
 msgid "小学1～3年"
 msgstr "Student in grades 1 to 3 of primary school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:22
+#: ../../kihon_hs/Q14S_hs.rst:22
 msgid "小学4～6年"
 msgstr "Student in grades 4 to 6 of primary school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:23
+#: ../../kihon_hs/Q14S_hs.rst:23
 msgid "中学生"
 msgstr "Junior-high school  student"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:24
+#: ../../kihon_hs/Q14S_hs.rst:24
 msgid "高校生"
 msgstr "Senior-high school student"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:25
+#: ../../kihon_hs/Q14S_hs.rst:25
 msgid "短大・大学生"
 msgstr "Junior college or College stugent"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:26
+#: ../../kihon_hs/Q14S_hs.rst:26
 msgid "専門学校"
 msgstr "Vocational school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:27
+#: ../../kihon_hs/Q14S_hs.rst:27
 msgid "仕事に就いている"
 msgstr "Worker"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:28
+#: ../../kihon_hs/Q14S_hs.rst:28
 msgid "無職"
 msgstr "Not working"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:29
+#: ../../kihon_hs/Q14S_hs.rst:29
 msgid "その他"
 msgstr "Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:32
+#: ../../kihon_hs/Q14S_hs.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:36
+#: ../../kihon_hs/Q14S_hs.rst:36
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:40
+#: ../../kihon_hs/Q14S_hs.rst:40
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:43
+#: ../../kihon_hs/Q14S_hs.rst:43
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:45
+#: ../../kihon_hs/Q14S_hs.rst:45
 msgid "|nt1| 詳しくはこちら（:doc:`/kihon_hs/syugaku_hs`）をご参照ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14S_hs.rst:48
+#: ../../kihon_hs/Q14S_hs.rst:48
 msgid "収録シート"
 msgstr "Data files (csv)"
 

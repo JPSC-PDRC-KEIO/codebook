@@ -17,55 +17,55 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q992.rst:4
+#: ../../multi_var/Q992.rst:4
 msgid "電子メールアドレス所有形態"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q992.rst:8
+#: ../../multi_var/Q992.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q992.rst:9
+#: ../../multi_var/Q992.rst:9
 msgid "あなたの電子メールアドレスは、自分だけのものですか。それでも他の人と共有していますか。（あてはまるものすべてに〇）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q992.rst:13
+#: ../../multi_var/Q992.rst:13
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q992.rst:1
+#: ../../multi_var/Q992.rst:1
 msgid "1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q992.rst:1
+#: ../../multi_var/Q992.rst:1
 msgid "自分だけのものである"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q992.rst:1
+#: ../../multi_var/Q992.rst:1
 msgid "Q992A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q992.rst:1
+#: ../../multi_var/Q992.rst:1
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q992.rst:1
+#: ../../multi_var/Q992.rst:1
 msgid "他の人と共有している"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q992.rst:1
+#: ../../multi_var/Q992.rst:1
 msgid "Q992B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q992.rst:24
+#: ../../multi_var/Q992.rst:24
 msgid "現在の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q992.rst:34
+#: ../../multi_var/Q992.rst:34
 msgid "過去の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q992.rst:41
+#: ../../multi_var/Q992.rst:41
 msgid "備考"
 msgstr "Remarks"
 

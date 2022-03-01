@@ -17,71 +17,71 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q249.rst:4
+#: ../../multi_var/Q249.rst:4
 msgid "離職時の生活への対処（配偶者有職）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q249.rst:8
+#: ../../multi_var/Q249.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q249.rst:9
+#: ../../multi_var/Q249.rst:9
 msgid "仕事をやめたり、中断して、収入がなくなった時、どのように対処しましたか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q249.rst:1
+#: ../../multi_var/Q249.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q249.rst:1
+#: ../../multi_var/Q249.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q249.rst:1
+#: ../../multi_var/Q249.rst:1
 msgid "妻や親の収入で生活はやっていけた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q249.rst:1
+#: ../../multi_var/Q249.rst:1
 msgid ":doc:`Q249A </variable/Q249A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q249.rst:1
+#: ../../multi_var/Q249.rst:1
 msgid "すぐ次の仕事についた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q249.rst:1
+#: ../../multi_var/Q249.rst:1
 msgid ":doc:`Q249B </variable/Q249B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q249.rst:1
+#: ../../multi_var/Q249.rst:1
 msgid "退職金や保険給付で当座はやっていけた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q249.rst:1
+#: ../../multi_var/Q249.rst:1
 msgid ":doc:`Q249C </variable/Q249C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q249.rst:1
+#: ../../multi_var/Q249.rst:1
 msgid "預貯金の取り崩しをした"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q249.rst:1
+#: ../../multi_var/Q249.rst:1
 msgid ":doc:`Q249D </variable/Q249D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q249.rst:1
+#: ../../multi_var/Q249.rst:1
 msgid "借金やカードで買い物をした"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q249.rst:1
+#: ../../multi_var/Q249.rst:1
 msgid ":doc:`Q249E </variable/Q249E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q249.rst:1
+#: ../../multi_var/Q249.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q249.rst:1
+#: ../../multi_var/Q249.rst:1
 msgid ":doc:`Q249F </variable/Q249F>`"
 msgstr ""
 

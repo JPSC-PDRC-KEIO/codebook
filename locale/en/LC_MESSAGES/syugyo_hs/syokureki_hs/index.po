@@ -33,7 +33,7 @@ msgstr ""
 "X-Generator: Poedit "
 "3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syokureki_hs/index.rst:3
+#: ../../syugyo_hs/syokureki_hs/index.rst:3
 msgid ""
 "初回調査時までの職歴"
 "（配偶者）"
@@ -42,7 +42,7 @@ msgstr ""
 "up to the first "
 "survey (spouse)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/syokureki_hs/index.rst:6
+#: ../../syugyo_hs/syokureki_hs/index.rst:6
 msgid ""
 "|nt5| に、 初回調査時"
 "と結婚時に配偶者の職"

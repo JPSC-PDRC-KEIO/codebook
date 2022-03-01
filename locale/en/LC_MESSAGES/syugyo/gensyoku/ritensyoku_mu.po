@@ -17,11 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ritensyoku_mu.rst:3
+#: ../../syugyo/gensyoku/ritensyoku_mu.rst:3
 msgid "離職・転職について（無職）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/ritensyoku_mu.rst:7
+#: ../../syugyo/gensyoku/ritensyoku_mu.rst:7
 msgid "現在無職の人への質問"
 msgstr ""
 

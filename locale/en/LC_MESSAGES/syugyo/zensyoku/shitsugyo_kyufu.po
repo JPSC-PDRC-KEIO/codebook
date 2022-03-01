@@ -17,11 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/shitsugyo_kyufu.rst:3
+#: ../../syugyo/zensyoku/shitsugyo_kyufu.rst:3
 msgid "前職離職時の失業給付について"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/zensyoku/shitsugyo_kyufu.rst:13
+#: ../../syugyo/zensyoku/shitsugyo_kyufu.rst:13
 msgid ""
 "なおコーホートBの初回調査時には、「前職離職時の失業給付受給の有無」の変数名は :doc:`P159</variable/P159>` "
 "「前職退職時の失業保険受給月数」の変数名は  :doc:`P160</variable/P160>` となっています。"

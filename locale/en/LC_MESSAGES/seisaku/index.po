@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/index.rst:3
+#: ../../seisaku/index.rst:3
 msgid "制度・政策への考えと対応"
 msgstr "Coping with the changes of systems and policies"

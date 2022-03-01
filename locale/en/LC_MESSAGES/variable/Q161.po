@@ -20,91 +20,91 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:5
+#: ../../variable/Q161.rst:5
 msgid "育児休業取得意向"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:9
+#: ../../variable/Q161.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:11
+#: ../../variable/Q161.rst:11
 msgid "Q161"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:15
+#: ../../variable/Q161.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:18
+#: ../../variable/Q161.rst:18
 msgid "あなたは今後、育児休業を取りたいと思いますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:24
+#: ../../variable/Q161.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:27
+#: ../../variable/Q161.rst:27
 msgid "取りたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:29
+#: ../../variable/Q161.rst:29
 msgid "取るつもりはない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:36
+#: ../../variable/Q161.rst:36
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:42
+#: ../../variable/Q161.rst:42
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:48
+#: ../../variable/Q161.rst:48
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:49
+#: ../../variable/Q161.rst:49
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:54
+#: ../../variable/Q161.rst:54
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:60
+#: ../../variable/Q161.rst:60
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:65
+#: ../../variable/Q161.rst:65
 msgid "p2_1"
 msgstr "p2_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:67
+#: ../../variable/Q161.rst:67
 msgid "p5a_1"
 msgstr "p5a_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:69
+#: ../../variable/Q161.rst:69
 msgid "p5b_1"
 msgstr "p5b_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:71
+#: ../../variable/Q161.rst:71
 msgid "p6_1"
 msgstr "p6_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:73
+#: ../../variable/Q161.rst:73
 msgid "p7_1"
 msgstr "p7_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:75
+#: ../../variable/Q161.rst:75
 msgid "p8_1"
 msgstr "p8_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:77
+#: ../../variable/Q161.rst:77
 msgid "p9_1"
 msgstr "p9_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q161.rst:79
+#: ../../variable/Q161.rst:79
 msgid "p10_1"
 msgstr "p10_1"
 

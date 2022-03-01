@@ -17,103 +17,103 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:5
+#: ../../variable/Q520.rst:5
 msgid "子どもが通う学校の区分"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:9
+#: ../../variable/Q520.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:11
+#: ../../variable/Q520.rst:11
 msgid "Q520"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:15
+#: ../../variable/Q520.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:18
+#: ../../variable/Q520.rst:18
 msgid "中学生以下のお子さんのうち一番上のお子さんについて伺います。そのお子さんは公立の学校に通っていますか、私立の学校に通っていますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:24
+#: ../../variable/Q520.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:27
+#: ../../variable/Q520.rst:27
 msgid "公立"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:29
+#: ../../variable/Q520.rst:29
 msgid "国立"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:31
+#: ../../variable/Q520.rst:31
 msgid "私立"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:38
+#: ../../variable/Q520.rst:38
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:44
+#: ../../variable/Q520.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:50
+#: ../../variable/Q520.rst:50
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:51
+#: ../../variable/Q520.rst:51
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:56
+#: ../../variable/Q520.rst:56
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:62
+#: ../../variable/Q520.rst:62
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:67
+#: ../../variable/Q520.rst:67
 msgid "p2_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:69
+#: ../../variable/Q520.rst:69
 msgid "p5a_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:71
+#: ../../variable/Q520.rst:71
 msgid "p5b_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:73
+#: ../../variable/Q520.rst:73
 msgid "p8_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:75
+#: ../../variable/Q520.rst:75
 msgid "p12_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:77
+#: ../../variable/Q520.rst:77
 msgid "p13_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:79
+#: ../../variable/Q520.rst:79
 msgid "p14_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:81
+#: ../../variable/Q520.rst:81
 msgid "p15_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:83
+#: ../../variable/Q520.rst:83
 msgid "p16abc_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q520.rst:85
+#: ../../variable/Q520.rst:85
 msgid "p16d_3"
 msgstr ""
 

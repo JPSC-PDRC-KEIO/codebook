@@ -20,82 +20,82 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 2.4.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:5
+#: ../../variable/P37B.rst:5
 msgid "引越し時期（転居5）：月"
 msgstr "Time of the move (Move5): Month"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:9
+#: ../../variable/P37B.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:11
+#: ../../variable/P37B.rst:11
 msgid "P37B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:15
+#: ../../variable/P37B.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:18
+#: ../../variable/P37B.rst:18
 msgid "現在からさかのぼって５回までの引っ越しについて、以下の項目を記入して下さい。"
 msgstr "Please fill in the following for the 5 most recent moves to date."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:20
+#: ../../variable/P37B.rst:20
 msgid "転居5"
 msgstr "Move5"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:24
+#: ../../variable/P37B.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:26
+#: ../../variable/P37B.rst:26
 msgid "＿ ＿ 月"
 msgstr "Month ＿＿＿＿"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:32
+#: ../../variable/P37B.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:33
+#: ../../variable/P37B.rst:33
 msgid "98"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:38
+#: ../../variable/P37B.rst:38
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:44
+#: ../../variable/P37B.rst:44
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:45
+#: ../../variable/P37B.rst:45
 msgid "99"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:50
+#: ../../variable/P37B.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:56
+#: ../../variable/P37B.rst:56
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:61
+#: ../../variable/P37B.rst:61
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:63
+#: ../../variable/P37B.rst:63
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:65
+#: ../../variable/P37B.rst:65
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:67
+#: ../../variable/P37B.rst:67
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P37B.rst:69
+#: ../../variable/P37B.rst:69
 msgid "p21e_1"
 msgstr ""

@@ -17,107 +17,107 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst:3
+#: ../../multi_var/Q1209.rst:3
 msgid "夫婦間での収入の開示"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst:7
+#: ../../multi_var/Q1209.rst:7
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst:8
+#: ../../multi_var/Q1209.rst:8
 msgid "あなた方ご夫婦は、お互いに収入を開示、報告していますか。（それぞれ〇は１つずつ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst:1
+#: ../../multi_var/Q1209.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst:1
+#: ../../multi_var/Q1209.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst
+#: ../../multi_var/Q1209.rst
 msgid "詳細を開示"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst
+#: ../../multi_var/Q1209.rst
 msgid "している"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst
+#: ../../multi_var/Q1209.rst
 msgid "おおよその額は"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst
+#: ../../multi_var/Q1209.rst
 msgid "開示している"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst
+#: ../../multi_var/Q1209.rst
 msgid "ほとんどの額を"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst
+#: ../../multi_var/Q1209.rst
 msgid "開示していない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst
+#: ../../multi_var/Q1209.rst
 msgid "まったく開示"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst
+#: ../../multi_var/Q1209.rst
 msgid "していない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst
+#: ../../multi_var/Q1209.rst
 msgid "どの程度開示して"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst
+#: ../../multi_var/Q1209.rst
 msgid "いるか、わからない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst:1
+#: ../../multi_var/Q1209.rst:1
 msgid "収入はなかった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst:1
+#: ../../multi_var/Q1209.rst:1
 msgid "あなたの収入"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst:1
+#: ../../multi_var/Q1209.rst:1
 msgid ":doc:`Q1209A </variable/Q1209A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst:1
+#: ../../multi_var/Q1209.rst:1
 msgid "1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst:1
+#: ../../multi_var/Q1209.rst:1
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst:1
+#: ../../multi_var/Q1209.rst:1
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst:1
+#: ../../multi_var/Q1209.rst:1
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst:1
+#: ../../multi_var/Q1209.rst:1
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst:1
+#: ../../multi_var/Q1209.rst:1
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst:1
+#: ../../multi_var/Q1209.rst:1
 msgid "夫の収入"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q1209.rst:1
+#: ../../multi_var/Q1209.rst:1
 msgid ":doc:`Q1209B </variable/Q1209B>`"
 msgstr ""
 

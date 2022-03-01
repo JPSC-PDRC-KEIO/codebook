@@ -17,99 +17,99 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:5
+#: ../../variable/Q855H.rst:5
 msgid "職歴　25歳"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:9
+#: ../../variable/Q855H.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:11
+#: ../../variable/Q855H.rst:11
 msgid "Q855H"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:15
+#: ../../variable/Q855H.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:18
+#: ../../variable/Q855H.rst:18
 msgid "あなたが、仕事についていたかどうかを、あなたが満18歳の時から昨年までの1年ごとにお答えください。1年間に複数の形態があった場合は、もっとも長いものでお答え下さい。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:24
+#: ../../variable/Q855H.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:27
+#: ../../variable/Q855H.rst:27
 msgid "自営業・家族従業・自由業"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:29
+#: ../../variable/Q855H.rst:29
 msgid "常勤の職員・従業者"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:31
+#: ../../variable/Q855H.rst:31
 msgid "パート・アルバイト"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:33
+#: ../../variable/Q855H.rst:33
 msgid "嘱託・派遣社員・その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:35
+#: ../../variable/Q855H.rst:35
 msgid "自宅で仕事（内職）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:37
+#: ../../variable/Q855H.rst:37
 msgid "学生"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:39
+#: ../../variable/Q855H.rst:39
 msgid "無職"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:46
+#: ../../variable/Q855H.rst:46
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:52
+#: ../../variable/Q855H.rst:52
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:58
+#: ../../variable/Q855H.rst:58
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:59
+#: ../../variable/Q855H.rst:59
 msgid "8"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:64
+#: ../../variable/Q855H.rst:64
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:70
+#: ../../variable/Q855H.rst:70
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:75
+#: ../../variable/Q855H.rst:75
 msgid "p5a_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:77
+#: ../../variable/Q855H.rst:77
 msgid "p5b_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:79
+#: ../../variable/Q855H.rst:79
 msgid "p11c_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:81
+#: ../../variable/Q855H.rst:81
 msgid "p16d_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q855H.rst:83
+#: ../../variable/Q855H.rst:83
 msgid "p21e_5"
 msgstr ""
 

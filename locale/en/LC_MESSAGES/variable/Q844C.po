@@ -17,75 +17,75 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q844C.rst:5
+#: ../../variable/Q844C.rst:5
 msgid "ローン返済・金額"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q844C.rst:9
+#: ../../variable/Q844C.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q844C.rst:11
+#: ../../variable/Q844C.rst:11
 msgid "Q844C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q844C.rst:15
+#: ../../variable/Q844C.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q844C.rst:18
+#: ../../variable/Q844C.rst:18
 msgid "土地、家屋を売却した代金はどのように使いましたか。使ったものに〇をつけ、その金額をご記入ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q844C.rst:24
+#: ../../variable/Q844C.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q844C.rst:26
+#: ../../variable/Q844C.rst:26
 msgid "＿ 億 ＿ ＿ ＿ 0 万円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q844C.rst:32
+#: ../../variable/Q844C.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q844C.rst:33
+#: ../../variable/Q844C.rst:33
 msgid "9998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q844C.rst:38
+#: ../../variable/Q844C.rst:38
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q844C.rst:44
+#: ../../variable/Q844C.rst:44
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q844C.rst:45
+#: ../../variable/Q844C.rst:45
 msgid "9999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q844C.rst:50
+#: ../../variable/Q844C.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q844C.rst:56
+#: ../../variable/Q844C.rst:56
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q844C.rst:61
+#: ../../variable/Q844C.rst:61
 msgid "p5a_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q844C.rst:63
+#: ../../variable/Q844C.rst:63
 msgid "p5b_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q844C.rst:65
+#: ../../variable/Q844C.rst:65
 msgid "p7_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q844C.rst:67
+#: ../../variable/Q844C.rst:67
 msgid "p10_2"
 msgstr ""
 

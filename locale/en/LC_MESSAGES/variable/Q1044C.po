@@ -20,79 +20,79 @@ msgstr ""
 "Language: en_US\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:5
+#: ../../variable/Q1044C.rst:5
 msgid "初婚年齢"
 msgstr "First Marriage Age"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:9
+#: ../../variable/Q1044C.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:11
+#: ../../variable/Q1044C.rst:11
 msgid "Q1044C"
 msgstr "Q1044C"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:15
+#: ../../variable/Q1044C.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:18
+#: ../../variable/Q1044C.rst:18
 msgid "あなたがはじめて結婚されたのはいつですか。"
 msgstr "How old were you when you got married for the first time?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:24
+#: ../../variable/Q1044C.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:26
+#: ../../variable/Q1044C.rst:26
 msgid "＿＿歳の時"
 msgstr "When I was _____ years old."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:32
+#: ../../variable/Q1044C.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:33
+#: ../../variable/Q1044C.rst:33
 msgid "98"
 msgstr "98"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:38
+#: ../../variable/Q1044C.rst:38
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:44
+#: ../../variable/Q1044C.rst:44
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:45
+#: ../../variable/Q1044C.rst:45
 msgid "99"
 msgstr "99"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:50
+#: ../../variable/Q1044C.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:56
+#: ../../variable/Q1044C.rst:56
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:61
+#: ../../variable/Q1044C.rst:61
 msgid "p11c_1"
 msgstr "p11c_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:63
+#: ../../variable/Q1044C.rst:63
 msgid "p12_1"
 msgstr "p12_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:65
+#: ../../variable/Q1044C.rst:65
 msgid "p16d_1"
 msgstr "p16d_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:67
+#: ../../variable/Q1044C.rst:67
 msgid "p17_1"
 msgstr "p17_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1044C.rst:69
+#: ../../variable/Q1044C.rst:69
 msgid "p21e_1"
 msgstr "p21e_1"
 

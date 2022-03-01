@@ -17,71 +17,71 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q874.rst:5
+#: ../../variable/Q874.rst:5
 msgid "ディスカウント商品購入傾向の変化"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q874.rst:9
+#: ../../variable/Q874.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q874.rst:11
+#: ../../variable/Q874.rst:11
 msgid "Q874"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q874.rst:15
+#: ../../variable/Q874.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q874.rst:18
+#: ../../variable/Q874.rst:18
 msgid "この1年間、以前に比べてディスカウント（格安）の商品を購入する傾向にありますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q874.rst:24
+#: ../../variable/Q874.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q874.rst:27
+#: ../../variable/Q874.rst:27
 msgid "家族を含め低価格指向の買い物をする"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q874.rst:29
+#: ../../variable/Q874.rst:29
 msgid "家族のことはわからないが自分は低価格志向の買い物をする"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q874.rst:31
+#: ../../variable/Q874.rst:31
 msgid "家族を含め低価格指向ではない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q874.rst:33
+#: ../../variable/Q874.rst:33
 msgid "家族のことはわからないが自分は定価価格志向ではない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q874.rst:40
+#: ../../variable/Q874.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q874.rst:46
+#: ../../variable/Q874.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q874.rst:52
+#: ../../variable/Q874.rst:52
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q874.rst:53
+#: ../../variable/Q874.rst:53
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q874.rst:58
+#: ../../variable/Q874.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q874.rst:64
+#: ../../variable/Q874.rst:64
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q874.rst:69
+#: ../../variable/Q874.rst:69
 msgid "p6_4"
 msgstr ""
 

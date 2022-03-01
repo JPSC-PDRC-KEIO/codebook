@@ -17,55 +17,55 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537N.rst:8
+#: ../../variable/Q537N.rst:8
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537N.rst:9
+#: ../../variable/Q537N.rst:9
 msgid "**Q537N**"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537N.rst:12
+#: ../../variable/Q537N.rst:12
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537N.rst:16
+#: ../../variable/Q537N.rst:16
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537N.rst:20
+#: ../../variable/Q537N.rst:20
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537N.rst:24
+#: ../../variable/Q537N.rst:24
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537N.rst:28
+#: ../../variable/Q537N.rst:28
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537N.rst:33
+#: ../../variable/Q537N.rst:33
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537N.rst:37
+#: ../../variable/Q537N.rst:37
 msgid "p9_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537N.rst:39
+#: ../../variable/Q537N.rst:39
 msgid "p10_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537N.rst:41
+#: ../../variable/Q537N.rst:41
 msgid "p11ab_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537N.rst:43
+#: ../../variable/Q537N.rst:43
 msgid "p11c_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q537N.rst:45
+#: ../../variable/Q537N.rst:45
 msgid "p16d_3"
 msgstr ""
 

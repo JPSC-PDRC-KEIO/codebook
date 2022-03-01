@@ -20,122 +20,122 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 2.4.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:3
+#: ../../kihon_hs/Q14_hs.rst:3
 msgid "現在の就学・就労（配偶者）〔第1～9回〕"
 msgstr "Student or worker status (spouse) [1st-9th waves]"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:5
+#: ../../kihon_hs/Q14_hs.rst:5
 msgid "無配偶の家族2と共通の変数"
 msgstr "This variable is also assigned to Family-member2 of Single"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:8
+#: ../../kihon_hs/Q14_hs.rst:8
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:10
+#: ../../kihon_hs/Q14_hs.rst:10
 msgid "Q14"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:13
+#: ../../kihon_hs/Q14_hs.rst:13
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:14
+#: ../../kihon_hs/Q14_hs.rst:14
 msgid "配偶者の現在の就学・就労状況"
 msgstr "Student or worker status of husband"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:17
+#: ../../kihon_hs/Q14_hs.rst:17
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:19
+#: ../../kihon_hs/Q14_hs.rst:19
 msgid "未就学"
 msgstr "Preschooler"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:20
+#: ../../kihon_hs/Q14_hs.rst:20
 msgid "小学1～3年"
 msgstr "Student in grades 1 to 3 of primary school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:21
+#: ../../kihon_hs/Q14_hs.rst:21
 msgid "小学4～6年"
 msgstr "Student in grades 4 to 6 of primary school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:22
+#: ../../kihon_hs/Q14_hs.rst:22
 msgid "中学生"
 msgstr "Junior-high school  student"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:23
+#: ../../kihon_hs/Q14_hs.rst:23
 msgid "高校生"
 msgstr "Senior-high school student"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:24
+#: ../../kihon_hs/Q14_hs.rst:24
 msgid "大学生"
 msgstr "University or college  student"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:25
+#: ../../kihon_hs/Q14_hs.rst:25
 msgid "その他"
 msgstr "Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:28
+#: ../../kihon_hs/Q14_hs.rst:28
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:32
+#: ../../kihon_hs/Q14_hs.rst:32
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:36
+#: ../../kihon_hs/Q14_hs.rst:36
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:41
+#: ../../kihon_hs/Q14_hs.rst:41
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:43
+#: ../../kihon_hs/Q14_hs.rst:43
 msgid "|nt1| 詳しくはこちら（:doc:`/kihon_hs/syugaku_hs`）をご参照ください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:47
+#: ../../kihon_hs/Q14_hs.rst:47
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:51
+#: ../../kihon_hs/Q14_hs.rst:51
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:53
+#: ../../kihon_hs/Q14_hs.rst:53
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:55
+#: ../../kihon_hs/Q14_hs.rst:55
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:57
+#: ../../kihon_hs/Q14_hs.rst:57
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:59
+#: ../../kihon_hs/Q14_hs.rst:59
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:61
+#: ../../kihon_hs/Q14_hs.rst:61
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:63
+#: ../../kihon_hs/Q14_hs.rst:63
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:65
+#: ../../kihon_hs/Q14_hs.rst:65
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:67
+#: ../../kihon_hs/Q14_hs.rst:67
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon_hs/Q14_hs.rst:69
+#: ../../kihon_hs/Q14_hs.rst:69
 msgid "p9_1"
 msgstr ""

@@ -17,71 +17,71 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1145A.rst:5
+#: ../../variable/Q1145A.rst:5
 msgid "子ども手当の使い方に誰の意見が反映されたか：あなた（％）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1145A.rst:9
+#: ../../variable/Q1145A.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1145A.rst:11
+#: ../../variable/Q1145A.rst:11
 msgid "Q1145A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1145A.rst:15
+#: ../../variable/Q1145A.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1145A.rst:18
+#: ../../variable/Q1145A.rst:18
 msgid "子ども手当の使い方を決めるにあたって、誰の意見がどのくらい反映されましたか。合計して100％になるように、回答してください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1145A.rst:21
+#: ../../variable/Q1145A.rst:21
 msgid "あなた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1145A.rst:27
+#: ../../variable/Q1145A.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1145A.rst:29
+#: ../../variable/Q1145A.rst:29
 msgid "＿＿＿％"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1145A.rst:35
+#: ../../variable/Q1145A.rst:35
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1145A.rst:36
+#: ../../variable/Q1145A.rst:36
 msgid "998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1145A.rst:41
+#: ../../variable/Q1145A.rst:41
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1145A.rst:47
+#: ../../variable/Q1145A.rst:47
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1145A.rst:48
+#: ../../variable/Q1145A.rst:48
 msgid "999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1145A.rst:53
+#: ../../variable/Q1145A.rst:53
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1145A.rst:59
+#: ../../variable/Q1145A.rst:59
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1145A.rst:64
+#: ../../variable/Q1145A.rst:64
 msgid "p18_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1145A.rst:66
+#: ../../variable/Q1145A.rst:66
 msgid "p19_4"
 msgstr ""
 

@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.2.4\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/index.rst:3
+#: ../../kekkon/index.rst:3
 msgid "結婚について"
 msgstr "Marriage"

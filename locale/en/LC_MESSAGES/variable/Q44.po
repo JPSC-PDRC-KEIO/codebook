@@ -20,123 +20,123 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:5
+#: ../../variable/Q44.rst:5
 msgid "家族8：現在の就学・就労"
 msgstr "Family8: Student or Worker status [1st to 9th waves]"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:9
+#: ../../variable/Q44.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:11
+#: ../../variable/Q44.rst:11
 msgid "Q44"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:15
+#: ../../variable/Q44.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:18
+#: ../../variable/Q44.rst:18
 msgid "現在の就学・就労状況"
 msgstr "Student or Worker status"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:21
+#: ../../variable/Q44.rst:21
 msgid "家族8"
 msgstr "Family8"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:27
+#: ../../variable/Q44.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:30
+#: ../../variable/Q44.rst:30
 msgid "未就学"
 msgstr "Preschooler"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:32
+#: ../../variable/Q44.rst:32
 msgid "小学1～3年"
 msgstr "Student in grades 1 to 3 of primary school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:34
+#: ../../variable/Q44.rst:34
 msgid "小学4～6年"
 msgstr "Student in grades 4 to 6 of primary school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:36
+#: ../../variable/Q44.rst:36
 msgid "中学生"
 msgstr "Junior-high school  student"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:38
+#: ../../variable/Q44.rst:38
 msgid "高校生"
 msgstr "Senior-high school student"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:40
+#: ../../variable/Q44.rst:40
 msgid "大学生"
 msgstr "University or college  student"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:42
+#: ../../variable/Q44.rst:42
 msgid "その他"
 msgstr "Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:49
+#: ../../variable/Q44.rst:49
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:55
+#: ../../variable/Q44.rst:55
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:61
+#: ../../variable/Q44.rst:61
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:62
+#: ../../variable/Q44.rst:62
 msgid "8"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:67
+#: ../../variable/Q44.rst:67
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:73
+#: ../../variable/Q44.rst:73
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:78
+#: ../../variable/Q44.rst:78
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:80
+#: ../../variable/Q44.rst:80
 msgid "p2_1"
 msgstr "p2_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:82
+#: ../../variable/Q44.rst:82
 msgid "p3_1"
 msgstr "p3_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:84
+#: ../../variable/Q44.rst:84
 msgid "p4_1"
 msgstr "p4_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:86
+#: ../../variable/Q44.rst:86
 msgid "p5a_1"
 msgstr "p5a_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:88
+#: ../../variable/Q44.rst:88
 msgid "p5b_1"
 msgstr "p5b_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:90
+#: ../../variable/Q44.rst:90
 msgid "p6_1"
 msgstr "p6_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:92
+#: ../../variable/Q44.rst:92
 msgid "p7_1"
 msgstr "p7_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:94
+#: ../../variable/Q44.rst:94
 msgid "p8_1"
 msgstr "p8_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q44.rst:96
+#: ../../variable/Q44.rst:96
 msgid "p9_1"
 msgstr "p9_1"
 

@@ -20,66 +20,66 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.4.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:5
+#: ../../variable/P140B.rst:5
 msgid "現在の配偶者との結婚時期：月"
 msgstr "Marriage time with present spouse: Month"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:9
+#: ../../variable/P140B.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:11
+#: ../../variable/P140B.rst:11
 msgid "P140B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:15
+#: ../../variable/P140B.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:18
+#: ../../variable/P140B.rst:18
 msgid "あなたが現在のご主人と結婚されたのはいつですか。"
 msgstr "When did you get married to your present husband?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:24
+#: ../../variable/P140B.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:26
+#: ../../variable/P140B.rst:26
 msgid "＿ ＿ 月"
 msgstr "Month ＿＿＿＿"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:32
+#: ../../variable/P140B.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:33
+#: ../../variable/P140B.rst:33
 msgid "98"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:38
+#: ../../variable/P140B.rst:38
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:44
+#: ../../variable/P140B.rst:44
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:45
+#: ../../variable/P140B.rst:45
 msgid "99"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:50
+#: ../../variable/P140B.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:56
+#: ../../variable/P140B.rst:56
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:61
+#: ../../variable/P140B.rst:61
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P140B.rst:63
+#: ../../variable/P140B.rst:63
 msgid "p21e_1"
 msgstr ""

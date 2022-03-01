@@ -17,131 +17,131 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:5
+#: ../../variable/Q380.rst:5
 msgid "実親の住居の種類"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:9
+#: ../../variable/Q380.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:11
+#: ../../variable/Q380.rst:11
 msgid "Q380"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:15
+#: ../../variable/Q380.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:18
+#: ../../variable/Q380.rst:18
 msgid "あなたの親が現在お住まいの住居は、次のどれになりますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:24
+#: ../../variable/Q380.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:27
+#: ../../variable/Q380.rst:27
 msgid "1戸建・持ち家（敷地は自己所有・区分所有）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:29
+#: ../../variable/Q380.rst:29
 msgid "1戸建・持ち家（敷地は借地）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:31
+#: ../../variable/Q380.rst:31
 msgid "マンション・持ち家"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:33
+#: ../../variable/Q380.rst:33
 msgid "民間の賃貸住宅"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:35
+#: ../../variable/Q380.rst:35
 msgid "公営・公団・公社などの賃貸住宅"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:37
+#: ../../variable/Q380.rst:37
 msgid "社宅・寮（借上げ社宅を含む）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:39
+#: ../../variable/Q380.rst:39
 msgid "その他（具体的に　　　）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:46
+#: ../../variable/Q380.rst:46
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:52
+#: ../../variable/Q380.rst:52
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:58
+#: ../../variable/Q380.rst:58
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:59
+#: ../../variable/Q380.rst:59
 msgid "8"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:64
+#: ../../variable/Q380.rst:64
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:70
+#: ../../variable/Q380.rst:70
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:75
+#: ../../variable/Q380.rst:75
 msgid "p1_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:77
+#: ../../variable/Q380.rst:77
 msgid "p2_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:79
+#: ../../variable/Q380.rst:79
 msgid "p3_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:81
+#: ../../variable/Q380.rst:81
 msgid "p4_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:83
+#: ../../variable/Q380.rst:83
 msgid "p5a_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:85
+#: ../../variable/Q380.rst:85
 msgid "p5b_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:87
+#: ../../variable/Q380.rst:87
 msgid "p6_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:89
+#: ../../variable/Q380.rst:89
 msgid "p7_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:91
+#: ../../variable/Q380.rst:91
 msgid "p8_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:93
+#: ../../variable/Q380.rst:93
 msgid "p9_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:95
+#: ../../variable/Q380.rst:95
 msgid "p10_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:97
+#: ../../variable/Q380.rst:97
 msgid "p11ab_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q380.rst:99
+#: ../../variable/Q380.rst:99
 msgid "p11c_2"
 msgstr ""
 

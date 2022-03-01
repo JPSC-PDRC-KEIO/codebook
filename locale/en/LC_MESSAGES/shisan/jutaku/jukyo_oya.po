@@ -20,26 +20,26 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.2.4\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/jukyo_oya.rst:3
+#: ../../shisan/jutaku/jukyo_oya.rst:3
 msgid "親の居住状況"
 msgstr "Parent's residence"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/jukyo_oya.rst:6
+#: ../../shisan/jutaku/jukyo_oya.rst:6
 msgid "親との居住関係"
 msgstr "Parent-child residential relationship"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/jukyo_oya.rst:17
+#: ../../shisan/jutaku/jukyo_oya.rst:17
 msgid ""
 "第12回では、親との同居の意向についての質問の変数名が、義親は :doc:"
 "`Q1059</variable/Q1059>`、実親は :doc:`Q1062</variable/Q1062>` と"
 "なっています。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/jukyo_oya.rst:21
+#: ../../shisan/jutaku/jukyo_oya.rst:21
 msgid "別居の親の住居形態"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/jukyo_oya.rst:31
+#: ../../shisan/jutaku/jukyo_oya.rst:31
 msgid ""
 "親の住居については、第1～第11回は「 :doc:`/variable/Q379` 」「 :"
 "doc:`/variable/Q380` 」として聞いていました。"

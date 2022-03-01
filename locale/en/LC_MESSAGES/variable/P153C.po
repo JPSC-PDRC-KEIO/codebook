@@ -17,83 +17,83 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:5
+#: ../../variable/P153C.rst:5
 msgid "子育て後就業希望"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:9
+#: ../../variable/P153C.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:11
+#: ../../variable/P153C.rst:11
 msgid "P153C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:15
+#: ../../variable/P153C.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:18
+#: ../../variable/P153C.rst:18
 msgid "かりに、もう一度人生をやり直せるとしたら、次の各項目について、あなたはどうしたいですか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:21
+#: ../../variable/P153C.rst:21
 msgid "（4）仕事について、次の３つの段階についてお答えください。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:24
+#: ../../variable/P153C.rst:24
 msgid "3.〈子ども大きくなってから〉"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:30
+#: ../../variable/P153C.rst:30
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:33
+#: ../../variable/P153C.rst:33
 msgid "正社員で働きたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:35
+#: ../../variable/P153C.rst:35
 msgid "パートで働きたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:37
+#: ../../variable/P153C.rst:37
 msgid "家でできる仕事をしたい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:39
+#: ../../variable/P153C.rst:39
 msgid "必ずしも働かなくてよい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:41
+#: ../../variable/P153C.rst:41
 msgid "働きたくない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:48
+#: ../../variable/P153C.rst:48
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:54
+#: ../../variable/P153C.rst:54
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:60
+#: ../../variable/P153C.rst:60
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:61
+#: ../../variable/P153C.rst:61
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:66
+#: ../../variable/P153C.rst:66
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:72
+#: ../../variable/P153C.rst:72
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P153C.rst:77
+#: ../../variable/P153C.rst:77
 msgid "p1_4"
 msgstr ""
 

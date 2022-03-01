@@ -17,43 +17,43 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/yuino.rst:3
+#: ../../kekkon/hiyou/yuino.rst:3
 msgid "結納の費用"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/yuino.rst:6
+#: ../../kekkon/hiyou/yuino.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/yuino.rst:7
+#: ../../kekkon/hiyou/yuino.rst:7
 msgid "結納と結納返しはいくらぐらいでしたか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/yuino.rst:11
+#: ../../kekkon/hiyou/yuino.rst:11
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/yuino.rst:1
+#: ../../kekkon/hiyou/yuino.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/yuino.rst:1
+#: ../../kekkon/hiyou/yuino.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/yuino.rst:1
+#: ../../kekkon/hiyou/yuino.rst:1
 msgid "結納"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/yuino.rst:1
+#: ../../kekkon/hiyou/yuino.rst:1
 msgid ":doc:`Q718 </variable/Q718>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/yuino.rst:1
+#: ../../kekkon/hiyou/yuino.rst:1
 msgid "結納返し"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kekkon/hiyou/yuino.rst:1
+#: ../../kekkon/hiyou/yuino.rst:1
 msgid ":doc:`Q719 </variable/Q719>`"
 msgstr ""
 

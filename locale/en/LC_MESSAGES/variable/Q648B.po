@@ -17,167 +17,167 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:5
+#: ../../variable/Q648B.rst:5
 msgid "友人数（男性）：仕事"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:9
+#: ../../variable/Q648B.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:11
+#: ../../variable/Q648B.rst:11
 msgid "Q648B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:15
+#: ../../variable/Q648B.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:18
+#: ../../variable/Q648B.rst:18
 msgid "現在つき合いのある男性の友人の人数を、以下のきっかけごとにお答え下さい。ここでいう「友人」とは、あなたと1対1の関係でつき合いがある（会ったり、電話で話したり、文通したりする）友人を言います。グループ交際の場合は含みません。また、出会った「きっかけ」が重複する場合は、主なきっかけでお答え下さい。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:21
+#: ../../variable/Q648B.rst:21
 msgid "仕事を通して"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:27
+#: ../../variable/Q648B.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:29
+#: ../../variable/Q648B.rst:29
 msgid "＿＿人"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:35
+#: ../../variable/Q648B.rst:35
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:36
+#: ../../variable/Q648B.rst:36
 msgid "98"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:41
+#: ../../variable/Q648B.rst:41
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:47
+#: ../../variable/Q648B.rst:47
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:48
+#: ../../variable/Q648B.rst:48
 msgid "99"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:53
+#: ../../variable/Q648B.rst:53
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:59
+#: ../../variable/Q648B.rst:59
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:64
+#: ../../variable/Q648B.rst:64
 msgid "p2_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:66
+#: ../../variable/Q648B.rst:66
 msgid "p3_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:68
+#: ../../variable/Q648B.rst:68
 msgid "p4_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:70
+#: ../../variable/Q648B.rst:70
 msgid "p5a_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:72
+#: ../../variable/Q648B.rst:72
 msgid "p5b_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:74
+#: ../../variable/Q648B.rst:74
 msgid "p6_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:76
+#: ../../variable/Q648B.rst:76
 msgid "p7_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:78
+#: ../../variable/Q648B.rst:78
 msgid "p8_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:80
+#: ../../variable/Q648B.rst:80
 msgid "p9_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:82
+#: ../../variable/Q648B.rst:82
 msgid "p10_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:84
+#: ../../variable/Q648B.rst:84
 msgid "p11ab_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:86
+#: ../../variable/Q648B.rst:86
 msgid "p11c_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:88
+#: ../../variable/Q648B.rst:88
 msgid "p12_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:90
+#: ../../variable/Q648B.rst:90
 msgid "p13_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:92
+#: ../../variable/Q648B.rst:92
 msgid "p14_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:94
+#: ../../variable/Q648B.rst:94
 msgid "p15_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:96
+#: ../../variable/Q648B.rst:96
 msgid "p16abc_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:98
+#: ../../variable/Q648B.rst:98
 msgid "p16d_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:100
+#: ../../variable/Q648B.rst:100
 msgid "p17_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:102
+#: ../../variable/Q648B.rst:102
 msgid "p18_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:104
+#: ../../variable/Q648B.rst:104
 msgid "p19_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:106
+#: ../../variable/Q648B.rst:106
 msgid "p20_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:108
+#: ../../variable/Q648B.rst:108
 msgid "p21abcd_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:110
+#: ../../variable/Q648B.rst:110
 msgid "p21e_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:112
+#: ../../variable/Q648B.rst:112
 msgid "p22_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q648B.rst:114
+#: ../../variable/Q648B.rst:114
 msgid "p23_4"
 msgstr ""
 

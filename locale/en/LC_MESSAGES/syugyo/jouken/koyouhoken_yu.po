@@ -17,63 +17,63 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/koyouhoken_yu.rst:3
+#: ../../syugyo/jouken/koyouhoken_yu.rst:3
 msgid "雇用保険失業給付の受給"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/koyouhoken_yu.rst:13
+#: ../../syugyo/jouken/koyouhoken_yu.rst:13
 msgid "「雇用保険失業給付受給の有無」については、変数名と選択肢が下記のように変化しています。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/koyouhoken_yu.rst:1
+#: ../../syugyo/jouken/koyouhoken_yu.rst:1
 msgid "第2～第17回"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/koyouhoken_yu.rst:1
+#: ../../syugyo/jouken/koyouhoken_yu.rst:1
 msgid "第18回～"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/koyouhoken_yu.rst:1
+#: ../../syugyo/jouken/koyouhoken_yu.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/koyouhoken_yu.rst:1
+#: ../../syugyo/jouken/koyouhoken_yu.rst:1
 msgid ":doc:`Q186A </variable/Q186A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/koyouhoken_yu.rst:1
+#: ../../syugyo/jouken/koyouhoken_yu.rst:1
 msgid ":doc:`Q1113 </variable/Q1113>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/koyouhoken_yu.rst:1
+#: ../../syugyo/jouken/koyouhoken_yu.rst:1
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/koyouhoken_yu.rst
+#: ../../syugyo/jouken/koyouhoken_yu.rst
 msgid "1.受給していた"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/koyouhoken_yu.rst
+#: ../../syugyo/jouken/koyouhoken_yu.rst
 msgid "2.受給しなかった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/koyouhoken_yu.rst
+#: ../../syugyo/jouken/koyouhoken_yu.rst
 msgid "3.雇用保険には入っていなかった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/koyouhoken_yu.rst
+#: ../../syugyo/jouken/koyouhoken_yu.rst
 msgid "2.受給している"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/koyouhoken_yu.rst
+#: ../../syugyo/jouken/koyouhoken_yu.rst
 msgid "3.現在申請している"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/koyouhoken_yu.rst
+#: ../../syugyo/jouken/koyouhoken_yu.rst
 msgid "4.雇用保険に入っていたが受給しなかった"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/jouken/koyouhoken_yu.rst
+#: ../../syugyo/jouken/koyouhoken_yu.rst
 msgid "5.雇用保険には入っていなかった"
 msgstr ""
 

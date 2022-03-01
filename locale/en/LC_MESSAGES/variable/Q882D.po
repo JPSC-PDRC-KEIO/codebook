@@ -17,63 +17,63 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q882D.rst:5
+#: ../../variable/Q882D.rst:5
 msgid "子ども分地域振興券の支出先・その他の子ども"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q882D.rst:9
+#: ../../variable/Q882D.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q882D.rst:11
+#: ../../variable/Q882D.rst:11
 msgid "Q882D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q882D.rst:15
+#: ../../variable/Q882D.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q882D.rst:18
+#: ../../variable/Q882D.rst:18
 msgid "子どもの分として配布された地域振興券の総額はどのくらいですか。そしてそれは誰のために使いましたか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q882D.rst:24
+#: ../../variable/Q882D.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q882D.rst:26
+#: ../../variable/Q882D.rst:26
 msgid "（2）その他の子どものための支出に＿万＿千円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q882D.rst:32
+#: ../../variable/Q882D.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q882D.rst:33
+#: ../../variable/Q882D.rst:33
 msgid "98"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q882D.rst:38
+#: ../../variable/Q882D.rst:38
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q882D.rst:44
+#: ../../variable/Q882D.rst:44
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q882D.rst:45
+#: ../../variable/Q882D.rst:45
 msgid "99"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q882D.rst:50
+#: ../../variable/Q882D.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q882D.rst:56
+#: ../../variable/Q882D.rst:56
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q882D.rst:61
+#: ../../variable/Q882D.rst:61
 msgid "p7_4"
 msgstr ""
 

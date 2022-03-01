@@ -17,75 +17,75 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q300N.rst:5
+#: ../../variable/Q300N.rst:5
 msgid "本人以外に収入があった世帯員：その他〔第2～4回〕"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q300N.rst:9
+#: ../../variable/Q300N.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q300N.rst:11
+#: ../../variable/Q300N.rst:11
 msgid "Q300N"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q300N.rst:15
+#: ../../variable/Q300N.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q300N.rst:18
+#: ../../variable/Q300N.rst:18
 msgid "その方はどなたですか。（該当する方すべてに〇）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q300N.rst:21
+#: ../../variable/Q300N.rst:21
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q300N.rst:27
+#: ../../variable/Q300N.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q300N.rst:30
+#: ../../variable/Q300N.rst:30
 msgid "はい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q300N.rst:32
+#: ../../variable/Q300N.rst:32
 msgid "いいえ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q300N.rst:39
+#: ../../variable/Q300N.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q300N.rst:45
+#: ../../variable/Q300N.rst:45
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q300N.rst:51
+#: ../../variable/Q300N.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q300N.rst:52
+#: ../../variable/Q300N.rst:52
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q300N.rst:57
+#: ../../variable/Q300N.rst:57
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q300N.rst:63
+#: ../../variable/Q300N.rst:63
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q300N.rst:68
+#: ../../variable/Q300N.rst:68
 msgid "p2_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q300N.rst:70
+#: ../../variable/Q300N.rst:70
 msgid "p3_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q300N.rst:72
+#: ../../variable/Q300N.rst:72
 msgid "p4_2"
 msgstr ""
 

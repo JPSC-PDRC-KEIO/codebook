@@ -17,67 +17,67 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q964.rst:5
+#: ../../variable/Q964.rst:5
 msgid "企業の扶養・家族手当制度反対の理由"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q964.rst:9
+#: ../../variable/Q964.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q964.rst:11
+#: ../../variable/Q964.rst:11
 msgid "Q964"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q964.rst:15
+#: ../../variable/Q964.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q964.rst:18
+#: ../../variable/Q964.rst:18
 msgid "それは、どのような理由からですか。（〇は１つ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q964.rst:24
+#: ../../variable/Q964.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q964.rst:27
+#: ../../variable/Q964.rst:27
 msgid "子どもは将来の労働力であるが、その費用は個別企業・事業所が負担すべきものではないから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q964.rst:29
+#: ../../variable/Q964.rst:29
 msgid "子どもがいても本人の働く能力には関係ないから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q964.rst:31
+#: ../../variable/Q964.rst:31
 msgid "その他（具体的に　　　　　　　）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q964.rst:38
+#: ../../variable/Q964.rst:38
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q964.rst:44
+#: ../../variable/Q964.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q964.rst:50
+#: ../../variable/Q964.rst:50
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q964.rst:51
+#: ../../variable/Q964.rst:51
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q964.rst:56
+#: ../../variable/Q964.rst:56
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q964.rst:62
+#: ../../variable/Q964.rst:62
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q964.rst:67
+#: ../../variable/Q964.rst:67
 msgid "p4_4"
 msgstr ""
 

@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.2.4\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/kosodate_hs.rst:3
+#: ../../kosodate/kosodate/kosodate_hs.rst:3
 msgid "配偶者の育児参加"
 msgstr "Husband's child care participation"

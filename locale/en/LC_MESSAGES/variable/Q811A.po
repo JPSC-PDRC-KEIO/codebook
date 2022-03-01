@@ -17,91 +17,91 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:5
+#: ../../variable/Q811A.rst:5
 msgid "1年以内の購入台数・ＴＶゲーム機"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:9
+#: ../../variable/Q811A.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:11
+#: ../../variable/Q811A.rst:11
 msgid "Q811A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:15
+#: ../../variable/Q811A.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:18
+#: ../../variable/Q811A.rst:18
 msgid "この1年間に購入したものがありますか。購入したものに〇をつけ、購入台数と購入金額を記入してください。（2台以上購入した場合は、合計金額を記入してください。）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:24
+#: ../../variable/Q811A.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:26
+#: ../../variable/Q811A.rst:26
 msgid "＿＿台"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:32
+#: ../../variable/Q811A.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:33
+#: ../../variable/Q811A.rst:33
 msgid "8"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:38
+#: ../../variable/Q811A.rst:38
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:44
+#: ../../variable/Q811A.rst:44
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:45
+#: ../../variable/Q811A.rst:45
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:50
+#: ../../variable/Q811A.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:56
+#: ../../variable/Q811A.rst:56
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:61
+#: ../../variable/Q811A.rst:61
 msgid "p3_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:63
+#: ../../variable/Q811A.rst:63
 msgid "p4_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:65
+#: ../../variable/Q811A.rst:65
 msgid "p5a_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:67
+#: ../../variable/Q811A.rst:67
 msgid "p6_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:69
+#: ../../variable/Q811A.rst:69
 msgid "p7_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:71
+#: ../../variable/Q811A.rst:71
 msgid "p8_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:73
+#: ../../variable/Q811A.rst:73
 msgid "p9_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q811A.rst:75
+#: ../../variable/Q811A.rst:75
 msgid "p10_3"
 msgstr ""
 

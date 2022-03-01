@@ -17,81 +17,81 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:4
+#: ../../variable/Q285B.rst:4
 msgid "家計範囲の考え方（夫のみ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:8
+#: ../../variable/Q285B.rst:8
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:9
+#: ../../variable/Q285B.rst:9
 msgid "**Q285B**"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:12
+#: ../../variable/Q285B.rst:12
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:13
+#: ../../variable/Q285B.rst:13
 msgid "あなたは「家計」をどの範囲とお考えですか。最も近いもの1つだけに○をつけてください。;;〔ご主人だけ収入のある方〕"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:16
+#: ../../variable/Q285B.rst:16
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:17
+#: ../../variable/Q285B.rst:17
 msgid ""
 "夫の収入すべて; 2. 夫の収入から一部を引いたもの; 3. 食料費、住居費、公共料金など共同生活に必要な支出分; "
 "4.夫が妻に渡す（任せている）お金; 5. 家族共同の「家計」はない; 6. その他（具体的に　　　　　　）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:20
+#: ../../variable/Q285B.rst:20
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:24
+#: ../../variable/Q285B.rst:24
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:28
+#: ../../variable/Q285B.rst:28
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:29
+#: ../../variable/Q285B.rst:29
 msgid "7"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:33
+#: ../../variable/Q285B.rst:33
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:37
+#: ../../variable/Q285B.rst:37
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:39
+#: ../../variable/Q285B.rst:39
 msgid "p2_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:41
+#: ../../variable/Q285B.rst:41
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:43
+#: ../../variable/Q285B.rst:43
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:45
+#: ../../variable/Q285B.rst:45
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:47
+#: ../../variable/Q285B.rst:47
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q285B.rst:49
+#: ../../variable/Q285B.rst:49
 msgid "p10_1"
 msgstr ""
 

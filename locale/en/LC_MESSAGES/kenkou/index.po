@@ -20,10 +20,10 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/index.rst:3
+#: ../../kenkou/index.rst:3
 msgid "健康について"
 msgstr "Health"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kenkou/index.rst:13
+#: ../../kenkou/index.rst:13
 msgid "1年間に起きた病気・療養については、「生活の変動」の中の「:doc:`/seikatsu_hendou/dekigoto/byouki`」をご参照ください。"
 msgstr "Please refer to \":doc:`/seikatsu_hendou/dekigoto/byouki`\" in \"What life circumstances changed\" for information on illnesses and medical treatment that occurred during the year."

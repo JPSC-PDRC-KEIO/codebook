@@ -17,115 +17,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:4
+#: ../../multi_var/Q996.rst:4
 msgid "電子メールの利用目的"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:8
+#: ../../multi_var/Q996.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:9
+#: ../../multi_var/Q996.rst:9
 msgid "あなたご自身は電子メールを何に利用していますか（あてはまるものすべてに〇）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:13
+#: ../../multi_var/Q996.rst:13
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "友人との日常的なコミュニケーション"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "Q996A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "家族との日常的なコミュニケーション"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "Q996B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "仕事"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "Q996C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "仕事以外の連絡"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "Q996D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "メーリングリスト"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "Q996E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "ニュースの受信"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "Q996F"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "7"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "その他（具体的に　　　　　　　　　）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:1
+#: ../../multi_var/Q996.rst:1
 msgid "Q996G"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:29
+#: ../../multi_var/Q996.rst:29
 msgid "現在の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:44
+#: ../../multi_var/Q996.rst:44
 msgid "過去の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q996.rst:51
+#: ../../multi_var/Q996.rst:51
 msgid "備考"
 msgstr "Remarks"
 

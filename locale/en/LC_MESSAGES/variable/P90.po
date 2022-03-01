@@ -25,25 +25,25 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.4.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:5
+#: ../../variable/P90.rst:5
 msgid "勤務先従業員数（実父）"
 msgstr ""
 "Number of employees at work "
 "(father-in-law)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:9
+#: ../../variable/P90.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:11
+#: ../../variable/P90.rst:11
 msgid "P90"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:15
+#: ../../variable/P90.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:18
+#: ../../variable/P90.rst:18
 msgid ""
 "その勤め先の従業員は会社全体で何人"
 "くらいですか。（でしたか）; （注　"
@@ -62,83 +62,83 @@ msgstr ""
 "\" regardless of the number of "
 "employees."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:24
+#: ../../variable/P90.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:27
+#: ../../variable/P90.rst:27
 msgid "1～4人"
 msgstr "1 to 4"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:29
+#: ../../variable/P90.rst:29
 msgid "5～9人"
 msgstr "5 to 9"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:31
+#: ../../variable/P90.rst:31
 msgid "10～29人"
 msgstr "10 to 29"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:33
+#: ../../variable/P90.rst:33
 msgid "30～99人"
 msgstr "30 to 99"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:35
+#: ../../variable/P90.rst:35
 msgid "100～499人"
 msgstr "100 to 499"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:37
+#: ../../variable/P90.rst:37
 msgid "500～999人"
 msgstr "500 to 999"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:39
+#: ../../variable/P90.rst:39
 msgid "1000人以上"
 msgstr "1,000 or more"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:41
+#: ../../variable/P90.rst:41
 msgid "官公庁"
 msgstr ""
 "Government and Municipal Office"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:48
+#: ../../variable/P90.rst:48
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:54
+#: ../../variable/P90.rst:54
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:60
+#: ../../variable/P90.rst:60
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:61
+#: ../../variable/P90.rst:61
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:66
+#: ../../variable/P90.rst:66
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:72
+#: ../../variable/P90.rst:72
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:77
+#: ../../variable/P90.rst:77
 msgid "p1_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:79
+#: ../../variable/P90.rst:79
 msgid "p5b_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:81
+#: ../../variable/P90.rst:81
 msgid "p11c_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:83
+#: ../../variable/P90.rst:83
 msgid "p16d_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P90.rst:85
+#: ../../variable/P90.rst:85
 msgid "p21e_4"
 msgstr ""

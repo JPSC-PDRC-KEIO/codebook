@@ -17,65 +17,65 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1158B.rst:5
+#: ../../variable/Q1158B.rst:5
 msgid "子ども手当への意見：年齢による差"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1158B.rst:9
+#: ../../variable/Q1158B.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1158B.rst:11
+#: ../../variable/Q1158B.rst:11
 msgid "Q1158B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1158B.rst:15
+#: ../../variable/Q1158B.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1158B.rst:18
+#: ../../variable/Q1158B.rst:18
 msgid ""
 "子ども手当に対するお考えをお聞きします。これまでは中学生までの子ども一人につき1カ月、一律13.000円の支給でした。(2)今後、子どもの人数や年齢によって支給額に数千円の差がつく可能性がありますが、このことについてどう思いますか。"
 "　年齢によって差をつけること"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1158B.rst:24
+#: ../../variable/Q1158B.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1158B.rst:27
+#: ../../variable/Q1158B.rst:27
 msgid "賛成"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1158B.rst:29
+#: ../../variable/Q1158B.rst:29
 msgid "反対"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1158B.rst:36
+#: ../../variable/Q1158B.rst:36
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1158B.rst:42
+#: ../../variable/Q1158B.rst:42
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1158B.rst:48
+#: ../../variable/Q1158B.rst:48
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1158B.rst:49
+#: ../../variable/Q1158B.rst:49
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1158B.rst:54
+#: ../../variable/Q1158B.rst:54
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1158B.rst:60
+#: ../../variable/Q1158B.rst:60
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1158B.rst:65
+#: ../../variable/Q1158B.rst:65
 msgid "p19_3"
 msgstr ""
 

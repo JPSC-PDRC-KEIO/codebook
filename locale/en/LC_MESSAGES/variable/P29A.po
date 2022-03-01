@@ -20,87 +20,87 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:5
+#: ../../variable/P29A.rst:5
 msgid "塾・稽古事について：小学校1～3年"
 msgstr "Juku or Lessens: At elementary school, grade1-3"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:9
+#: ../../variable/P29A.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:11
+#: ../../variable/P29A.rst:11
 msgid "P29A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:15
+#: ../../variable/P29A.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:18
+#: ../../variable/P29A.rst:18
 msgid "あなたの塾・お稽古事経験についてうかがいます。;あなたは、小学生、中学生、高校生時代に、塾（家庭教師を含む）に通ったり、稽古ごと（授業料を払うもの）をしていましたか。次の４つの時期それぞれについてお答えください。"
 msgstr "We would like to ask you about your supplementary educations and lessons experiences. Did you attend \"juku\" (private tutoring schools. includ hire a tutor) or take any lessons (require lesson fee) while you were in elementary, junior high, or senior high school? Please circle all that apply below, in the following categories."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:24
+#: ../../variable/P29A.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:27
+#: ../../variable/P29A.rst:27
 msgid "塾にも稽古ごとにも通っていた"
 msgstr "I went to both juku and lessons."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:29
+#: ../../variable/P29A.rst:29
 msgid "塾にだけ通っていた"
 msgstr "I went only to juku."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:31
+#: ../../variable/P29A.rst:31
 msgid "稽古ごとだけしていた"
 msgstr "I went only to lessons."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:33
+#: ../../variable/P29A.rst:33
 msgid "どちらもしていなかった"
 msgstr "I didn’t attend either."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:40
+#: ../../variable/P29A.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:46
+#: ../../variable/P29A.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:52
+#: ../../variable/P29A.rst:52
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:53
+#: ../../variable/P29A.rst:53
 #, 
 msgid "5"
 msgstr "Don't know"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:58
+#: ../../variable/P29A.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:64
+#: ../../variable/P29A.rst:64
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:69
+#: ../../variable/P29A.rst:69
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:71
+#: ../../variable/P29A.rst:71
 msgid "p5b_1"
 msgstr "p5b_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:73
+#: ../../variable/P29A.rst:73
 msgid "p11c_1"
 msgstr "p11c_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:75
+#: ../../variable/P29A.rst:75
 msgid "p16d_1"
 msgstr "p16d_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P29A.rst:77
+#: ../../variable/P29A.rst:77
 msgid "p21e_1"
 msgstr ""

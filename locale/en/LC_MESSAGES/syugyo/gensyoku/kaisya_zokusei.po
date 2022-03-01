@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/gensyoku/kaisya_zokusei.rst:3
+#: ../../syugyo/gensyoku/kaisya_zokusei.rst:3
 msgid "勤務先"
 msgstr "Employer"

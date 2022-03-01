@@ -17,255 +17,255 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:5
+#: ../../kihon/ken3.rst:5
 msgid "引越し前住所（転居3）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:9
+#: ../../kihon/ken3.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:11
+#: ../../kihon/ken3.rst:11
 msgid "KEN3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:14
+#: ../../kihon/ken3.rst:14
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:17
+#: ../../kihon/ken3.rst:17
 msgid "現在からさかのぼって５回までの引っ越しについて、以下の項目を記入して下さい。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:19
+#: ../../kihon/ken3.rst:19
 msgid "転居3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:22
+#: ../../kihon/ken3.rst:22
 msgid "コード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:24
+#: ../../kihon/ken3.rst:24
 msgid "北海道"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:25
+#: ../../kihon/ken3.rst:25
 msgid "青森県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:26
+#: ../../kihon/ken3.rst:26
 msgid "岩手県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:27
+#: ../../kihon/ken3.rst:27
 msgid "宮城県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:28
+#: ../../kihon/ken3.rst:28
 msgid "秋田県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:29
+#: ../../kihon/ken3.rst:29
 msgid "山形県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:30
+#: ../../kihon/ken3.rst:30
 msgid "福島県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:31
+#: ../../kihon/ken3.rst:31
 msgid "茨城県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:32
+#: ../../kihon/ken3.rst:32
 msgid "栃木県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:33
+#: ../../kihon/ken3.rst:33
 msgid "群馬県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:34
+#: ../../kihon/ken3.rst:34
 msgid "埼玉県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:35
+#: ../../kihon/ken3.rst:35
 msgid "千葉県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:36
+#: ../../kihon/ken3.rst:36
 msgid "東京都"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:37
+#: ../../kihon/ken3.rst:37
 msgid "神奈川県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:38
+#: ../../kihon/ken3.rst:38
 msgid "新潟県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:39
+#: ../../kihon/ken3.rst:39
 msgid "富山県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:40
+#: ../../kihon/ken3.rst:40
 msgid "石川県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:41
+#: ../../kihon/ken3.rst:41
 msgid "福井県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:42
+#: ../../kihon/ken3.rst:42
 msgid "山梨県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:43
+#: ../../kihon/ken3.rst:43
 msgid "長野県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:44
+#: ../../kihon/ken3.rst:44
 msgid "岐阜県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:45
+#: ../../kihon/ken3.rst:45
 msgid "静岡県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:46
+#: ../../kihon/ken3.rst:46
 msgid "愛知県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:47
+#: ../../kihon/ken3.rst:47
 msgid "三重県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:48
+#: ../../kihon/ken3.rst:48
 msgid "滋賀県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:49
+#: ../../kihon/ken3.rst:49
 msgid "京都府"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:50
+#: ../../kihon/ken3.rst:50
 msgid "大阪府"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:51
+#: ../../kihon/ken3.rst:51
 msgid "兵庫県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:52
+#: ../../kihon/ken3.rst:52
 msgid "奈良県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:53
+#: ../../kihon/ken3.rst:53
 msgid "和歌山県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:54
+#: ../../kihon/ken3.rst:54
 msgid "鳥取県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:55
+#: ../../kihon/ken3.rst:55
 msgid "島根県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:56
+#: ../../kihon/ken3.rst:56
 msgid "岡山県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:57
+#: ../../kihon/ken3.rst:57
 msgid "広島県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:58
+#: ../../kihon/ken3.rst:58
 msgid "山口県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:59
+#: ../../kihon/ken3.rst:59
 msgid "徳島県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:60
+#: ../../kihon/ken3.rst:60
 msgid "香川県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:61
+#: ../../kihon/ken3.rst:61
 msgid "愛媛県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:62
+#: ../../kihon/ken3.rst:62
 msgid "高知県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:63
+#: ../../kihon/ken3.rst:63
 msgid "福岡県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:64
+#: ../../kihon/ken3.rst:64
 msgid "佐賀県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:65
+#: ../../kihon/ken3.rst:65
 msgid "長崎県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:66
+#: ../../kihon/ken3.rst:66
 msgid "熊本県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:67
+#: ../../kihon/ken3.rst:67
 msgid "大分県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:68
+#: ../../kihon/ken3.rst:68
 msgid "宮崎県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:69
+#: ../../kihon/ken3.rst:69
 msgid "鹿児島県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:70
+#: ../../kihon/ken3.rst:70
 msgid "沖縄県"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:71
+#: ../../kihon/ken3.rst:71
 msgid "海外"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:75
+#: ../../kihon/ken3.rst:75
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:77
+#: ../../kihon/ken3.rst:77
 msgid "学部生のユーザーには公開していません。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:82
+#: ../../kihon/ken3.rst:82
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:87
+#: ../../kihon/ken3.rst:87
 msgid "p1pref"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:89
+#: ../../kihon/ken3.rst:89
 msgid "p5bpref"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:91
+#: ../../kihon/ken3.rst:91
 msgid "p11cpref"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:93
+#: ../../kihon/ken3.rst:93
 msgid "p16dpref"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken3.rst:95
+#: ../../kihon/ken3.rst:95
 msgid "p21epref"
 msgstr ""
 

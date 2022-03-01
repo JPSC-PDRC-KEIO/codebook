@@ -17,143 +17,143 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:4
+#: ../../multi_var/Q988.rst:4
 msgid "支払方法"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:8
+#: ../../multi_var/Q988.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:9
+#: ../../multi_var/Q988.rst:9
 msgid "（オンラインショッピングの）金額の支払方法は何ですか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:13
+#: ../../multi_var/Q988.rst:13
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "クレジットカード"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "Q988E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "コンビニ決済"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "Q988F"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "代金引換"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "Q988G"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "郵便振替"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "Q988H"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "銀行振込"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "Q988I"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "電子マネー"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "Q988J"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "7"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "その他（具体的に　　　　　　　）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "Q988K"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "昔の変数名"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "代引き・振込"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "Q988A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "Q988B"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "Q988C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:1
+#: ../../multi_var/Q988.rst:1
 msgid "Q988D"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:34
+#: ../../multi_var/Q988.rst:34
 msgid "現在の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:49
+#: ../../multi_var/Q988.rst:49
 msgid "過去の変数へのリンク"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q988.rst:60
+#: ../../multi_var/Q988.rst:60
 msgid "備考"
 msgstr "Remarks"
 

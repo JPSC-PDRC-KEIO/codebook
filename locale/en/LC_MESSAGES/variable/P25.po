@@ -20,86 +20,86 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:5
+#: ../../variable/P25.rst:5
 msgid "最終学歴"
 msgstr "Latest educational background"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:9
+#: ../../variable/P25.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:11
+#: ../../variable/P25.rst:11
 msgid "P25"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:15
+#: ../../variable/P25.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:18
+#: ../../variable/P25.rst:18
 msgid "あなたが最後に卒業した学校はどちらですか。（中退は卒業としてください）"
 msgstr "What was the last school you graduated from? (If you dropped out, don’t count it as having graduated from.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:24
+#: ../../variable/P25.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:27
+#: ../../variable/P25.rst:27
 msgid "中学校"
 msgstr "Junior high school."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:29
+#: ../../variable/P25.rst:29
 msgid "高等学校"
 msgstr "High School"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:31
+#: ../../variable/P25.rst:31
 msgid "専門学校・専修学校"
 msgstr "Vocational school or Specialized training school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:33
+#: ../../variable/P25.rst:33
 msgid "短大"
 msgstr "Junior college"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:35
+#: ../../variable/P25.rst:35
 msgid "高専"
 msgstr "College of technology"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:37
+#: ../../variable/P25.rst:37
 msgid "4年制大学（医・歯学部を含む）"
 msgstr "4 year College or University (includes medical and dental schools)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:39
+#: ../../variable/P25.rst:39
 msgid "大学院"
 msgstr "Graduate school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:41
+#: ../../variable/P25.rst:41
 msgid "その他（　　　　　　　　　）"
 msgstr "Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:48
+#: ../../variable/P25.rst:48
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:54
+#: ../../variable/P25.rst:54
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:60
+#: ../../variable/P25.rst:60
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:61
+#: ../../variable/P25.rst:61
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:66
+#: ../../variable/P25.rst:66
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:72
+#: ../../variable/P25.rst:72
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P25.rst:77
+#: ../../variable/P25.rst:77
 msgid "p1_1"
 msgstr ""

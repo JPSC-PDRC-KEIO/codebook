@@ -17,71 +17,71 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q945.rst:5
+#: ../../variable/Q945.rst:5
 msgid "配偶者控除・配偶者特別控除の授受"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q945.rst:9
+#: ../../variable/Q945.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q945.rst:11
+#: ../../variable/Q945.rst:11
 msgid "Q945"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q945.rst:15
+#: ../../variable/Q945.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q945.rst:18
+#: ../../variable/Q945.rst:18
 msgid "あなたの世帯では次の控除を受けていますか。（〇は１つ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q945.rst:24
+#: ../../variable/Q945.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q945.rst:27
+#: ../../variable/Q945.rst:27
 msgid "配偶者控除と配偶者特別控除を受けている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q945.rst:29
+#: ../../variable/Q945.rst:29
 msgid "配偶者特別控除を受けている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q945.rst:31
+#: ../../variable/Q945.rst:31
 msgid "受けていない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q945.rst:33
+#: ../../variable/Q945.rst:33
 msgid "わからない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q945.rst:40
+#: ../../variable/Q945.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q945.rst:46
+#: ../../variable/Q945.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q945.rst:52
+#: ../../variable/Q945.rst:52
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q945.rst:53
+#: ../../variable/Q945.rst:53
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q945.rst:58
+#: ../../variable/Q945.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q945.rst:64
+#: ../../variable/Q945.rst:64
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q945.rst:69
+#: ../../variable/Q945.rst:69
 msgid "p4_4"
 msgstr ""
 

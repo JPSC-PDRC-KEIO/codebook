@@ -20,95 +20,95 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:5
+#: ../../variable/Q49R.rst:5
 msgid "家族9：現在の就学・就労"
 msgstr "Family9: Student or Worker status [10th wave]"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:9
+#: ../../variable/Q49R.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:11
+#: ../../variable/Q49R.rst:11
 msgid "Q49R"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:15
+#: ../../variable/Q49R.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:18
+#: ../../variable/Q49R.rst:18
 msgid "現在の就学・就労状況"
 msgstr "Student or Worker status"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:21
+#: ../../variable/Q49R.rst:21
 msgid "家族9"
 msgstr "Family9"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:27
+#: ../../variable/Q49R.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:30
+#: ../../variable/Q49R.rst:30
 msgid "未就学"
 msgstr "Preschooler"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:32
+#: ../../variable/Q49R.rst:32
 msgid "小学1～3年"
 msgstr "Student in grades 1 to 3 of primary school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:34
+#: ../../variable/Q49R.rst:34
 msgid "小学4～6年"
 msgstr "Student in grades 4 to 6 of primary school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:36
+#: ../../variable/Q49R.rst:36
 msgid "中学生"
 msgstr "Junior-high school  student"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:38
+#: ../../variable/Q49R.rst:38
 msgid "高校生"
 msgstr "Senior-high school student"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:40
+#: ../../variable/Q49R.rst:40
 msgid "短大・大学生"
 msgstr "Junior college or College stugent"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:42
+#: ../../variable/Q49R.rst:42
 msgid "専門学校"
 msgstr "Vocational school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:44
+#: ../../variable/Q49R.rst:44
 msgid "仕事に就いている"
 msgstr "Worker"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:46
+#: ../../variable/Q49R.rst:46
 msgid "その他"
 msgstr "Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:53
+#: ../../variable/Q49R.rst:53
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:59
+#: ../../variable/Q49R.rst:59
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:65
+#: ../../variable/Q49R.rst:65
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:66
+#: ../../variable/Q49R.rst:66
 msgid "10"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:71
+#: ../../variable/Q49R.rst:71
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:77
+#: ../../variable/Q49R.rst:77
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q49R.rst:82
+#: ../../variable/Q49R.rst:82
 #, 
 msgid "p10_5"
 msgstr "p10_5"

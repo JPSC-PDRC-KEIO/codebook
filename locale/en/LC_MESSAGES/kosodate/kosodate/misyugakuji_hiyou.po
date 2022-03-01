@@ -17,99 +17,99 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:3
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:3
 msgid "未就学児にかかる費用"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:6
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:7
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:7
 msgid "次のそれぞれについて、利用している未就学児の人数をお答えください。また、利用している場合は、この9月にかかった費用をご記入ください。利用している未就学児が2人以上いらっしゃる方は、未就学児全員の合計費用をお答え下さい。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid "人数"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid "費用"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid "認可保育所（市区町村へ申し込んだもの）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid ":doc:`Q895A </variable/Q895A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid ":doc:`Q888A </variable/Q888A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid "認可外保育施設（ベビーホテル・家庭保育室勤務先の保育施設など）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid ":doc:`Q895B </variable/Q895B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid ":doc:`Q888B </variable/Q888B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid "幼稚園"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid ":doc:`Q895C </variable/Q895C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid ":doc:`Q888C </variable/Q888C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid "ベビーシッター・家政婦"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid ":doc:`Q895D </variable/Q895D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid ":doc:`Q888D </variable/Q888D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid "その他（家庭で、家族や同居していない親族・知人に見てもらう場合の費用など）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid ":doc:`Q895E </variable/Q895E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid ":doc:`Q888E </variable/Q888E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid "お稽古事や習い事"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid ":doc:`Q895G </variable/Q895G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/kosodate/misyugakuji_hiyou.rst:1
+#: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid ":doc:`Q888G </variable/Q888G>`"
 msgstr ""
 

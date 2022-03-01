@@ -17,99 +17,99 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:5
+#: ../../variable/Q851.rst:5
 msgid "勤務先の育児休業制度の有無（配偶者）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:9
+#: ../../variable/Q851.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:11
+#: ../../variable/Q851.rst:11
 msgid "Q851"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:15
+#: ../../variable/Q851.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:18
+#: ../../variable/Q851.rst:18
 msgid "ご主人の勤めている会社等には、「育児休業制度」がありますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:24
+#: ../../variable/Q851.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:27
+#: ../../variable/Q851.rst:27
 msgid "会社等に制度があり、ご主人にも資格がある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:29
+#: ../../variable/Q851.rst:29
 msgid "会社等に制度はあるが、ご主人には資格がない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:31
+#: ../../variable/Q851.rst:31
 msgid "会社等に制度はあるが、ご主人には資格があるかどうかわからない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:33
+#: ../../variable/Q851.rst:33
 msgid "会社等に制度がない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:35
+#: ../../variable/Q851.rst:35
 msgid "会社等に制度があるかどうかわからない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:42
+#: ../../variable/Q851.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:48
+#: ../../variable/Q851.rst:48
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:54
+#: ../../variable/Q851.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:55
+#: ../../variable/Q851.rst:55
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:60
+#: ../../variable/Q851.rst:60
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:66
+#: ../../variable/Q851.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:71
+#: ../../variable/Q851.rst:71
 msgid "p5a_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:73
+#: ../../variable/Q851.rst:73
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:75
+#: ../../variable/Q851.rst:75
 msgid "p6_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:77
+#: ../../variable/Q851.rst:77
 msgid "p7_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:79
+#: ../../variable/Q851.rst:79
 msgid "p8_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:81
+#: ../../variable/Q851.rst:81
 msgid "p9_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q851.rst:83
+#: ../../variable/Q851.rst:83
 msgid "p10_1"
 msgstr ""
 

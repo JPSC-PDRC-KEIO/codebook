@@ -20,86 +20,86 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:5
+#: ../../variable/P8.rst:5
 msgid "高校の種別"
 msgstr "Type of high school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:9
+#: ../../variable/P8.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:11
+#: ../../variable/P8.rst:11
 msgid "P8"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:15
+#: ../../variable/P8.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:18
+#: ../../variable/P8.rst:18
 msgid "普通科ですか。職業科ですか。"
 msgstr "Was the high school a liberal arts school or a vocational school?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:24
+#: ../../variable/P8.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:27
+#: ../../variable/P8.rst:27
 msgid "普通科高校"
 msgstr "Liberal arts"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:29
+#: ../../variable/P8.rst:29
 msgid "商業科高校"
 msgstr "Business"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:31
+#: ../../variable/P8.rst:31
 msgid "工業科高校"
 msgstr "Manufacturing"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:33
+#: ../../variable/P8.rst:33
 msgid "その他の職業科高校"
 msgstr "Other vocational high school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:40
+#: ../../variable/P8.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:46
+#: ../../variable/P8.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:52
+#: ../../variable/P8.rst:52
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:53
+#: ../../variable/P8.rst:53
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:58
+#: ../../variable/P8.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:64
+#: ../../variable/P8.rst:64
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:69
+#: ../../variable/P8.rst:69
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:71
+#: ../../variable/P8.rst:71
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:73
+#: ../../variable/P8.rst:73
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:75
+#: ../../variable/P8.rst:75
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P8.rst:77
+#: ../../variable/P8.rst:77
 msgid "p21e_1"
 msgstr ""

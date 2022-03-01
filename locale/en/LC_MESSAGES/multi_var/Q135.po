@@ -20,82 +20,82 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:4
+#: ../../multi_var/Q135.rst:4
 msgid "病気・療養時の相談相手"
 msgstr "Consultation during illness and recuperation"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:8
+#: ../../multi_var/Q135.rst:8
 msgid "質問文（複数回答）"
 msgstr "Question ( multiple answers )"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:9
+#: ../../multi_var/Q135.rst:9
 msgid "この1年間（調査前年10月～調査年9月）に手術や長期療養を要するような重い病気や、うつ状態など精神的な問題があった方にお伺いします。"
 msgstr "For those who have had serious illnesses or mental health issues such as depression that require surgery or long-term medical treatment during the past year (October of the previous year to September of the survey year)."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:10
+#: ../../multi_var/Q135.rst:10
 msgid "療養生活の相談相手はだれでしたか。（〇はいくつでも）"
 msgstr "Who did you consult with during your treatment? (Circle as many as pertain to you)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
+#: ../../multi_var/Q135.rst:1
 msgid "項目"
 msgstr "Items"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
+#: ../../multi_var/Q135.rst:1
 msgid "変数"
 msgstr "Variable"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
+#: ../../multi_var/Q135.rst:1
 msgid "医師などの医療、福祉などの専門家"
 msgstr "Medical and welfare professionals such as doctors"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
+#: ../../multi_var/Q135.rst:1
 msgid ":doc:`Q135A </variable/Q135A>`"
 msgstr ":doc:`Q135A </variable/Q135A>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
+#: ../../multi_var/Q135.rst:1
 msgid "宗教者"
 msgstr "Clergy"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
+#: ../../multi_var/Q135.rst:1
 msgid ":doc:`Q135B </variable/Q135B>`"
 msgstr ":doc:`Q135B </variable/Q135B>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
+#: ../../multi_var/Q135.rst:1
 msgid "親やきょうだい"
 msgstr "Parents or siblings"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
+#: ../../multi_var/Q135.rst:1
 msgid ":doc:`Q135C </variable/Q135C>`"
 msgstr ":doc:`Q135C </variable/Q135C>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
+#: ../../multi_var/Q135.rst:1
 msgid "夫や子ども"
 msgstr "Husband or children"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
+#: ../../multi_var/Q135.rst:1
 msgid ":doc:`Q135D </variable/Q135D>`"
 msgstr ":doc:`Q135D </variable/Q135D>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
+#: ../../multi_var/Q135.rst:1
 msgid "友人"
 msgstr "Friends"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
+#: ../../multi_var/Q135.rst:1
 msgid ":doc:`Q135E </variable/Q135E>`"
 msgstr ":doc:`Q135E </variable/Q135E>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
+#: ../../multi_var/Q135.rst:1
 msgid "その他"
 msgstr "Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
+#: ../../multi_var/Q135.rst:1
 msgid ":doc:`Q135F </variable/Q135F>`"
 msgstr ":doc:`Q135F </variable/Q135F>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
+#: ../../multi_var/Q135.rst:1
 msgid "特にいなかった"
 msgstr "No one in particular"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q135.rst:1
+#: ../../multi_var/Q135.rst:1
 msgid ":doc:`Q135G </variable/Q135G>`"
 msgstr ":doc:`Q135G </variable/Q135G>`"

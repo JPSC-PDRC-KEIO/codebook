@@ -20,94 +20,94 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:5
+#: ../../variable/P27.rst:5
 msgid "最終学校の選択理由"
 msgstr "Reason for choosing the last school attended"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:9
+#: ../../variable/P27.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:11
+#: ../../variable/P27.rst:11
 msgid "P27"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:15
+#: ../../variable/P27.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:18
+#: ../../variable/P27.rst:18
 msgid "その学校を選んだのはどういう理由からですか（〇は１つ）"
 msgstr "Why did you choose to attend that school? (Circle only one.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:24
+#: ../../variable/P27.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:27
+#: ../../variable/P27.rst:27
 msgid "偏差値が合格ラインにあったから"
 msgstr "Because my test scores from my previous school predicted that I would pass the entrance examination into the school."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:29
+#: ../../variable/P27.rst:29
 msgid "将来つきたい職業にあっていたから"
 msgstr "Because it was in line with my occupation of choice."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:31
+#: ../../variable/P27.rst:31
 msgid "教養を身につけるため"
 msgstr "Because I wanted to be educated (cultured)."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:33
+#: ../../variable/P27.rst:33
 msgid "結婚の時の肩書きになるから"
 msgstr "Because it would help me in finding a marriage partner."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:35
+#: ../../variable/P27.rst:35
 msgid "親や教師にすすめられたから"
 msgstr "Because my parents or teacher advised me to attend that school."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:37
+#: ../../variable/P27.rst:37
 msgid "なんとなく"
 msgstr "It just seemed like the right thing to do."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:44
+#: ../../variable/P27.rst:44
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:50
+#: ../../variable/P27.rst:50
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:56
+#: ../../variable/P27.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:57
+#: ../../variable/P27.rst:57
 msgid "7"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:62
+#: ../../variable/P27.rst:62
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:68
+#: ../../variable/P27.rst:68
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:73
+#: ../../variable/P27.rst:73
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:75
+#: ../../variable/P27.rst:75
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:77
+#: ../../variable/P27.rst:77
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:79
+#: ../../variable/P27.rst:79
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P27.rst:81
+#: ../../variable/P27.rst:81
 msgid "p21e_1"
 msgstr ""

@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo_hs/koyouhoken_hsmu.rst:3
+#: ../../syugyo_hs/koyouhoken_hsmu.rst:3
 msgid "雇用保険失業給付の受給（配偶者無職）"
 msgstr ""
 

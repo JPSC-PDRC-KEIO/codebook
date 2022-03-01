@@ -17,83 +17,83 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:5
+#: ../../variable/Q1179.rst:5
 msgid "消費税8％への賛否"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:9
+#: ../../variable/Q1179.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:11
+#: ../../variable/Q1179.rst:11
 msgid "Q1179"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:15
+#: ../../variable/Q1179.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:18
+#: ../../variable/Q1179.rst:18
 msgid "今後、消費税が増税されることについて、あなたはどう思いますか。（〇は１つだけ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:24
+#: ../../variable/Q1179.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:27
+#: ../../variable/Q1179.rst:27
 msgid "賛成"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:29
+#: ../../variable/Q1179.rst:29
 msgid "どちらかというと賛成"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:31
+#: ../../variable/Q1179.rst:31
 msgid "どちらでもない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:33
+#: ../../variable/Q1179.rst:33
 msgid "どちらかというと反対"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:35
+#: ../../variable/Q1179.rst:35
 msgid "反対"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:42
+#: ../../variable/Q1179.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:48
+#: ../../variable/Q1179.rst:48
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:54
+#: ../../variable/Q1179.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:55
+#: ../../variable/Q1179.rst:55
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:60
+#: ../../variable/Q1179.rst:60
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:66
+#: ../../variable/Q1179.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:71
+#: ../../variable/Q1179.rst:71
 msgid "p20_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:73
+#: ../../variable/Q1179.rst:73
 msgid "p21abcd_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1179.rst:75
+#: ../../variable/Q1179.rst:75
 msgid "p21e_3"
 msgstr ""
 

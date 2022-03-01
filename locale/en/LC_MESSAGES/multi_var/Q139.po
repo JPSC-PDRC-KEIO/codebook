@@ -19,142 +19,142 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 3.0.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:3
+#: ../../multi_var/Q139.rst:3
 msgid "特別な出来事（家族）"
 msgstr "Special events (Family)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:7
+#: ../../multi_var/Q139.rst:7
 msgid "質問文（複数回答）"
 msgstr "Question ( multiple answers )"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:8
+#: ../../multi_var/Q139.rst:8
 msgid "この1年間（調査前年10月～調査年9月）に他のご家族に次のような出来事がありましたか。（〇はいくつでも）"
 msgstr "During the past year (from October of the previous year to September of the current year of this survey), have any of the following events happened to family members? (Circle as many as pertain to you)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid "項目"
 msgstr "Items"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid "変数"
 msgstr "Variable"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid "新たに仕事についた"
 msgstr "Got a new job."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid ":doc:`Q139K </variable/Q139K>`"
 msgstr ":doc:`Q139K </variable/Q139K>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid "転勤や単身赴任"
 msgstr "Job transfer/unaccompanied transfer"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid ":doc:`Q139A </variable/Q139A>`"
 msgstr ":doc:`Q139A </variable/Q139A>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid "職場または仕事を変えた"
 msgstr "Changed workplace or job."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid ":doc:`Q139L </variable/Q139L>`"
 msgstr ":doc:`Q139L </variable/Q139L>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid "仕事をやめた・希望退職"
 msgstr "Quit job./voluntary retirement"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid ":doc:`Q139M </variable/Q139M>`"
 msgstr ":doc:`Q139M </variable/Q139M>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid "失業（解雇された、退職勧告があった）"
 msgstr "Unemployment ( laid off, advised to resign)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid ":doc:`Q139B </variable/Q139B>`"
 msgstr ":doc:`Q139B </variable/Q139B>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid "倒産・破産"
 msgstr "Bankruptcy/Insolvency"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid ":doc:`Q139C </variable/Q139C>`"
 msgstr ":doc:`Q139C </variable/Q139C>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid "手術や長期の療養が必要な重い病気にかかった"
 msgstr "Suffered a serious illness that required surgery or long-term medical treatment"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid ":doc:`Q139D </variable/Q139D>`"
 msgstr ":doc:`Q139D </variable/Q139D>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid "うつ状態などの精神的な問題があった"
 msgstr "Had depression or other mental issues."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid ":doc:`Q139E </variable/Q139E>`"
 msgstr ":doc:`Q139E </variable/Q139E>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid "ローンやクレジットなどを含めた消費者トラブルにあった"
 msgstr "Had consumer problems, including loans and credit."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid ":doc:`Q139F </variable/Q139F>`"
 msgstr ":doc:`Q139F </variable/Q139F>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid "事故や災害にあった"
 msgstr "Had an accident or disaster."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid ":doc:`Q139G </variable/Q139G>`"
 msgstr ":doc:`Q139G </variable/Q139G>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid "受験や入学"
 msgstr "Exams and admissions"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid ":doc:`Q139H </variable/Q139H>`"
 msgstr ":doc:`Q139H </variable/Q139H>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid "自分の子どもが結婚した"
 msgstr "Child got married."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid ":doc:`Q139N </variable/Q139N>`"
 msgstr ":doc:`Q139N </variable/Q139N>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid "自分の孫が生まれた"
 msgstr "Grandchild was born."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid ":doc:`Q139O </variable/Q139O>`"
 msgstr ":doc:`Q139O </variable/Q139O>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid "その他特別な出来事があった（具体的に）"
 msgstr "Other special events (specify)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid ":doc:`Q139I </variable/Q139I>`"
 msgstr ":doc:`Q139I </variable/Q139I>`"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid "特別なことは何もなかった"
 msgstr "Nothing out of the ordinary happened."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q139.rst:1
+#: ../../multi_var/Q139.rst:1
 msgid ":doc:`Q139J </variable/Q139J>`"
 msgstr ":doc:`Q139J </variable/Q139J>`"

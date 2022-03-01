@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.2.4\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/jutaku/jukyo.rst:3
+#: ../../shisan/jutaku/jukyo.rst:3
 msgid "住居の情報"
 msgstr "Residence"

@@ -17,71 +17,71 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1006A.rst:5
+#: ../../variable/Q1006A.rst:5
 msgid "配偶者控除の縮小または廃止案の認知"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1006A.rst:9
+#: ../../variable/Q1006A.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1006A.rst:11
+#: ../../variable/Q1006A.rst:11
 msgid "Q1006A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1006A.rst:15
+#: ../../variable/Q1006A.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1006A.rst:18
+#: ../../variable/Q1006A.rst:18
 msgid "現在、配偶者控除を縮小または廃止しようという案が、政府税制調査会で議論されています。あなたはこの案について知っていますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1006A.rst:24
+#: ../../variable/Q1006A.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1006A.rst:27
+#: ../../variable/Q1006A.rst:27
 msgid "よく知っている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1006A.rst:29
+#: ../../variable/Q1006A.rst:29
 msgid "おおよそのことを知っている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1006A.rst:31
+#: ../../variable/Q1006A.rst:31
 msgid "そのことをきいたことはあるがよく知らない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1006A.rst:33
+#: ../../variable/Q1006A.rst:33
 msgid "そのことをきいたこともなかった（全然しらなかった）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1006A.rst:40
+#: ../../variable/Q1006A.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1006A.rst:46
+#: ../../variable/Q1006A.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1006A.rst:52
+#: ../../variable/Q1006A.rst:52
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1006A.rst:53
+#: ../../variable/Q1006A.rst:53
 msgid "5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1006A.rst:58
+#: ../../variable/Q1006A.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1006A.rst:64
+#: ../../variable/Q1006A.rst:64
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1006A.rst:69
+#: ../../variable/Q1006A.rst:69
 msgid "p10_3"
 msgstr ""
 

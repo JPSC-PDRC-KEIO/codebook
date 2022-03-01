@@ -17,79 +17,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:5
+#: ../../variable/Q1099A.rst:5
 msgid "定額給付金　家族共通のための支出・使い方"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:9
+#: ../../variable/Q1099A.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:11
+#: ../../variable/Q1099A.rst:11
 msgid "Q1099A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:15
+#: ../../variable/Q1099A.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:18
+#: ../../variable/Q1099A.rst:18
 msgid "また、それぞれどのような買い物・支出をしましたか。(1)～(6)のそれぞれについて、もっともあてはまるもの１つずつに〇をして下さい。この場合の買い物・支出には、商品購入だけでなく、飲食費、遊興費などのサービス利用料なども含みます。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:21
+#: ../../variable/Q1099A.rst:21
 msgid "(1)家族共通のための支出"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:27
+#: ../../variable/Q1099A.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:30
+#: ../../variable/Q1099A.rst:30
 msgid "日常の買い物にまわした"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:32
+#: ../../variable/Q1099A.rst:32
 msgid "いままでなかなか買えなかったものを買った"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:34
+#: ../../variable/Q1099A.rst:34
 msgid "普段より高価な買い物をした"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:36
+#: ../../variable/Q1099A.rst:36
 msgid "普段よりたくさん買い物をした"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:38
+#: ../../variable/Q1099A.rst:38
 msgid "その人のための支出はなかった・わからない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:45
+#: ../../variable/Q1099A.rst:45
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:51
+#: ../../variable/Q1099A.rst:51
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:57
+#: ../../variable/Q1099A.rst:57
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:58
+#: ../../variable/Q1099A.rst:58
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:63
+#: ../../variable/Q1099A.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:69
+#: ../../variable/Q1099A.rst:69
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q1099A.rst:74
+#: ../../variable/Q1099A.rst:74
 msgid "p17_3"
 msgstr ""
 

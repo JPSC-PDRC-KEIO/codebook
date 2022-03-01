@@ -17,91 +17,91 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:5
+#: ../../variable/Q376I.rst:5
 msgid "住宅の市場価格変化割合"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:9
+#: ../../variable/Q376I.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:11
+#: ../../variable/Q376I.rst:11
 msgid "Q376I"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:15
+#: ../../variable/Q376I.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:18
+#: ../../variable/Q376I.rst:18
 msgid "1年前にくらべて上がりましたか、下がりましたか。何割くらいですか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:24
+#: ../../variable/Q376I.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:26
+#: ../../variable/Q376I.rst:26
 msgid "＿＿％"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:32
+#: ../../variable/Q376I.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:33
+#: ../../variable/Q376I.rst:33
 msgid "98"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:38
+#: ../../variable/Q376I.rst:38
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:44
+#: ../../variable/Q376I.rst:44
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:45
+#: ../../variable/Q376I.rst:45
 msgid "99"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:50
+#: ../../variable/Q376I.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:56
+#: ../../variable/Q376I.rst:56
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:61
+#: ../../variable/Q376I.rst:61
 msgid "p2_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:63
+#: ../../variable/Q376I.rst:63
 msgid "p3_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:65
+#: ../../variable/Q376I.rst:65
 msgid "p4_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:67
+#: ../../variable/Q376I.rst:67
 msgid "p5a_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:69
+#: ../../variable/Q376I.rst:69
 msgid "p5b_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:71
+#: ../../variable/Q376I.rst:71
 msgid "p6_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:73
+#: ../../variable/Q376I.rst:73
 msgid "p7_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q376I.rst:75
+#: ../../variable/Q376I.rst:75
 msgid "p8_2"
 msgstr ""
 

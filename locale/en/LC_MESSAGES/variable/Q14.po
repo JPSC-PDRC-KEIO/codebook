@@ -20,123 +20,123 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:5
+#: ../../variable/Q14.rst:5
 msgid "家族2：現在の就学・就労〔第1～第9回〕"
 msgstr "Family-member2: Student or Worker status [1st-9th waves]"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:9
+#: ../../variable/Q14.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:11
+#: ../../variable/Q14.rst:11
 msgid "Q14"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:15
+#: ../../variable/Q14.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:18
+#: ../../variable/Q14.rst:18
 msgid "現在の就学・就労状況"
 msgstr "Student or Worker status"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:21
+#: ../../variable/Q14.rst:21
 msgid "家族2（有配偶の場合は配偶者）"
 msgstr "Family-member2 (In the case of Married, Family-member2 is husband)."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:27
+#: ../../variable/Q14.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:30
+#: ../../variable/Q14.rst:30
 msgid "未就学"
 msgstr "Preschooler"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:32
+#: ../../variable/Q14.rst:32
 msgid "小学1～3年"
 msgstr "Student in grades 1 to 3 of primary school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:34
+#: ../../variable/Q14.rst:34
 msgid "小学4～6年"
 msgstr "Student in grades 4 to 6 of primary school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:36
+#: ../../variable/Q14.rst:36
 msgid "中学生"
 msgstr "Junior-high school  student"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:38
+#: ../../variable/Q14.rst:38
 msgid "高校生"
 msgstr "Senior-high school student"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:40
+#: ../../variable/Q14.rst:40
 msgid "大学生"
 msgstr "University or college  student"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:42
+#: ../../variable/Q14.rst:42
 msgid "その他"
 msgstr "Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:49
+#: ../../variable/Q14.rst:49
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:55
+#: ../../variable/Q14.rst:55
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:61
+#: ../../variable/Q14.rst:61
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:62
+#: ../../variable/Q14.rst:62
 msgid "8"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:67
+#: ../../variable/Q14.rst:67
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:73
+#: ../../variable/Q14.rst:73
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:78
+#: ../../variable/Q14.rst:78
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:80
+#: ../../variable/Q14.rst:80
 msgid "p2_1"
 msgstr "p2_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:82
+#: ../../variable/Q14.rst:82
 msgid "p3_1"
 msgstr "p3_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:84
+#: ../../variable/Q14.rst:84
 msgid "p4_1"
 msgstr "p4_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:86
+#: ../../variable/Q14.rst:86
 msgid "p5a_1"
 msgstr "p5a_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:88
+#: ../../variable/Q14.rst:88
 msgid "p5b_1"
 msgstr "p5b_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:90
+#: ../../variable/Q14.rst:90
 msgid "p6_1"
 msgstr "p6_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:92
+#: ../../variable/Q14.rst:92
 msgid "p7_1"
 msgstr "p7_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:94
+#: ../../variable/Q14.rst:94
 msgid "p8_1"
 msgstr "p8_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q14.rst:96
+#: ../../variable/Q14.rst:96
 msgid "p9_1"
 msgstr "p9_1"
 

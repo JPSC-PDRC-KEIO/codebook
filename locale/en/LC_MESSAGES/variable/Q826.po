@@ -17,63 +17,63 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q826.rst:5
+#: ../../variable/Q826.rst:5
 msgid "限度返済額"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q826.rst:9
+#: ../../variable/Q826.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q826.rst:11
+#: ../../variable/Q826.rst:11
 msgid "Q826"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q826.rst:15
+#: ../../variable/Q826.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q826.rst:18
+#: ../../variable/Q826.rst:18
 msgid "あなた方ご夫婦は、月平均どの程度までの返済額なら無理なく借りられると思いますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q826.rst:24
+#: ../../variable/Q826.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q826.rst:26
+#: ../../variable/Q826.rst:26
 msgid "月額＿ ＿ 万 ＿ 千円ぐらいまで"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q826.rst:32
+#: ../../variable/Q826.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q826.rst:33
+#: ../../variable/Q826.rst:33
 msgid "998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q826.rst:38
+#: ../../variable/Q826.rst:38
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q826.rst:44
+#: ../../variable/Q826.rst:44
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q826.rst:45
+#: ../../variable/Q826.rst:45
 msgid "999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q826.rst:50
+#: ../../variable/Q826.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q826.rst:56
+#: ../../variable/Q826.rst:56
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q826.rst:61
+#: ../../variable/Q826.rst:61
 msgid "p4_4"
 msgstr ""
 

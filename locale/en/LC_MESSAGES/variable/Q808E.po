@@ -17,171 +17,171 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:5
+#: ../../variable/Q808E.rst:5
 msgid "事業用資金：借入先3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:9
+#: ../../variable/Q808E.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:11
+#: ../../variable/Q808E.rst:11
 msgid "Q808E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:15
+#: ../../variable/Q808E.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:18
+#: ../../variable/Q808E.rst:18
 msgid "現在の借入れについて、以下の項目にご記入下さい。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:21
+#: ../../variable/Q808E.rst:21
 msgid "事業用資金・借入先3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:27
+#: ../../variable/Q808E.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:30
+#: ../../variable/Q808E.rst:30
 msgid "銀行など金融機関    ・郵便局"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:32
+#: ../../variable/Q808E.rst:32
 msgid "社内融資"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:34
+#: ../../variable/Q808E.rst:34
 msgid "銀行系クレジット会社"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:36
+#: ../../variable/Q808E.rst:36
 msgid "信販会社"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:38
+#: ../../variable/Q808E.rst:38
 msgid "消費者金融会社"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:40
+#: ../../variable/Q808E.rst:40
 msgid "流通関連会社"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:42
+#: ../../variable/Q808E.rst:42
 msgid "妻の親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:44
+#: ../../variable/Q808E.rst:44
 msgid "夫の親"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:46
+#: ../../variable/Q808E.rst:46
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:53
+#: ../../variable/Q808E.rst:53
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:59
+#: ../../variable/Q808E.rst:59
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:65
+#: ../../variable/Q808E.rst:65
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:71
+#: ../../variable/Q808E.rst:71
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:77
+#: ../../variable/Q808E.rst:77
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:82
+#: ../../variable/Q808E.rst:82
 msgid "p3_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:84
+#: ../../variable/Q808E.rst:84
 msgid "p4_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:86
+#: ../../variable/Q808E.rst:86
 msgid "p5a_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:88
+#: ../../variable/Q808E.rst:88
 msgid "p5b_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:90
+#: ../../variable/Q808E.rst:90
 msgid "p6_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:92
+#: ../../variable/Q808E.rst:92
 msgid "p7_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:94
+#: ../../variable/Q808E.rst:94
 msgid "p8_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:96
+#: ../../variable/Q808E.rst:96
 msgid "p9_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:98
+#: ../../variable/Q808E.rst:98
 msgid "p10_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:100
+#: ../../variable/Q808E.rst:100
 msgid "p11ab_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:102
+#: ../../variable/Q808E.rst:102
 msgid "p11c_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:104
+#: ../../variable/Q808E.rst:104
 msgid "p12_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:106
+#: ../../variable/Q808E.rst:106
 msgid "p13_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:108
+#: ../../variable/Q808E.rst:108
 msgid "p14_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:110
+#: ../../variable/Q808E.rst:110
 msgid "p15_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:112
+#: ../../variable/Q808E.rst:112
 msgid "p16abc_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:114
+#: ../../variable/Q808E.rst:114
 msgid "p16d_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:116
+#: ../../variable/Q808E.rst:116
 msgid "p17_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:118
+#: ../../variable/Q808E.rst:118
 msgid "p18_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:120
+#: ../../variable/Q808E.rst:120
 msgid "p19_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q808E.rst:122
+#: ../../variable/Q808E.rst:122
 msgid "p21e_2"
 msgstr ""
 

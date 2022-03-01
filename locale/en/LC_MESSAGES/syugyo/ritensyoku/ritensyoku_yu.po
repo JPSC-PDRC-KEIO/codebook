@@ -17,15 +17,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/ritensyoku/ritensyoku_yu.rst:3
+#: ../../syugyo/ritensyoku/ritensyoku_yu.rst:3
 msgid "離職・転職（有職）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/ritensyoku/ritensyoku_yu.rst:23
+#: ../../syugyo/ritensyoku/ritensyoku_yu.rst:23
 msgid "前回調査以降新たに職に就いた人への質問"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/ritensyoku/ritensyoku_yu.rst:38
+#: ../../syugyo/ritensyoku/ritensyoku_yu.rst:38
 msgid "休職中の人への質問"
 msgstr ""
 

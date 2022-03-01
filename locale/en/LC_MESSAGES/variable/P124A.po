@@ -17,67 +17,67 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P124A.rst:5
+#: ../../variable/P124A.rst:5
 msgid "借入れ拒否経験"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P124A.rst:9
+#: ../../variable/P124A.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P124A.rst:11
+#: ../../variable/P124A.rst:11
 msgid "P124A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P124A.rst:15
+#: ../../variable/P124A.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P124A.rst:18
+#: ../../variable/P124A.rst:18
 msgid "あなた方ご夫婦が、この1年間（調査前年10月～調査年9月）借入れをしたかったのに、断られたことがありますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P124A.rst:24
+#: ../../variable/P124A.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P124A.rst:27
+#: ../../variable/P124A.rst:27
 msgid "断られたことがある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P124A.rst:29
+#: ../../variable/P124A.rst:29
 msgid "認められたが減額されたことがある"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P124A.rst:31
+#: ../../variable/P124A.rst:31
 msgid "ない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P124A.rst:38
+#: ../../variable/P124A.rst:38
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P124A.rst:44
+#: ../../variable/P124A.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P124A.rst:50
+#: ../../variable/P124A.rst:50
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P124A.rst:51
+#: ../../variable/P124A.rst:51
 msgid "4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P124A.rst:56
+#: ../../variable/P124A.rst:56
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P124A.rst:62
+#: ../../variable/P124A.rst:62
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P124A.rst:67
+#: ../../variable/P124A.rst:67
 msgid "p1_4"
 msgstr ""
 

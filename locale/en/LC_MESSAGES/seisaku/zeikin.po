@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seisaku/zeikin.rst:3
+#: ../../seisaku/zeikin.rst:3
 msgid "税金について"
 msgstr "Tax increase"

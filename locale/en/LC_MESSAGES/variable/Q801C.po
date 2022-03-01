@@ -17,71 +17,71 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q801C.rst:5
+#: ../../variable/Q801C.rst:5
 msgid "働きに出る気になる最低時給"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q801C.rst:9
+#: ../../variable/Q801C.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q801C.rst:11
+#: ../../variable/Q801C.rst:11
 msgid "Q801C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q801C.rst:15
+#: ../../variable/Q801C.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q801C.rst:18
+#: ../../variable/Q801C.rst:18
 msgid "〔働いていない方に〕あなたは時給いくらくらいなら働きにでますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q801C.rst:24
+#: ../../variable/Q801C.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q801C.rst:26
+#: ../../variable/Q801C.rst:26
 msgid "時給＿＿＿00円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q801C.rst:32
+#: ../../variable/Q801C.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q801C.rst:33
+#: ../../variable/Q801C.rst:33
 msgid "998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q801C.rst:38
+#: ../../variable/Q801C.rst:38
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q801C.rst:44
+#: ../../variable/Q801C.rst:44
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q801C.rst:45
+#: ../../variable/Q801C.rst:45
 msgid "999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q801C.rst:50
+#: ../../variable/Q801C.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q801C.rst:56
+#: ../../variable/Q801C.rst:56
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q801C.rst:61
+#: ../../variable/Q801C.rst:61
 msgid "p3_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q801C.rst:63
+#: ../../variable/Q801C.rst:63
 msgid "p4_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q801C.rst:65
+#: ../../variable/Q801C.rst:65
 msgid "p5a_1"
 msgstr ""
 

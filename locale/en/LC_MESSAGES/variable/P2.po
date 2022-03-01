@@ -20,82 +20,82 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:5
+#: ../../variable/P2.rst:5
 msgid "姉妹順位"
 msgstr "Birth order within siblings"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:9
+#: ../../variable/P2.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:11
+#: ../../variable/P2.rst:11
 msgid "P2"
 msgstr "P2"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:15
+#: ../../variable/P2.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:18
+#: ../../variable/P2.rst:18
 msgid "あなた自身の続き柄は次のうちのどれになりますか。"
 msgstr "Which of the following is your ownrelationship to head of household?"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:24
+#: ../../variable/P2.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:27
+#: ../../variable/P2.rst:27
 msgid "長女"
 msgstr "Eldest daughter"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:29
+#: ../../variable/P2.rst:29
 msgid "次女"
 msgstr "Second daughter"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:31
+#: ../../variable/P2.rst:31
 msgid "その他"
 msgstr "Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:38
+#: ../../variable/P2.rst:38
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:44
+#: ../../variable/P2.rst:44
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:50
+#: ../../variable/P2.rst:50
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:51
+#: ../../variable/P2.rst:51
 msgid "4"
 msgstr "4"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:56
+#: ../../variable/P2.rst:56
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:62
+#: ../../variable/P2.rst:62
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:67
+#: ../../variable/P2.rst:67
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:69
+#: ../../variable/P2.rst:69
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:71
+#: ../../variable/P2.rst:71
 msgid "p11c_1"
 msgstr "p11c_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:73
+#: ../../variable/P2.rst:73
 msgid "p16d_1"
 msgstr "p16d_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P2.rst:75
+#: ../../variable/P2.rst:75
 msgid "p21e_1"
 msgstr "p21e_1"

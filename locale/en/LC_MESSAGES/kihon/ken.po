@@ -20,219 +20,219 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 2.2.4\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:3
+#: ../../kihon/ken.rst:3
 msgid "都道府県コード"
 msgstr "Prefectural code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:7
+#: ../../kihon/ken.rst:7
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:9
+#: ../../kihon/ken.rst:9
 msgid "KEN"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:12
+#: ../../kihon/ken.rst:12
 msgid "コード"
 msgstr "Code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:14
+#: ../../kihon/ken.rst:14
 msgid "北海道"
 msgstr "Hokkaido"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:15
+#: ../../kihon/ken.rst:15
 msgid "青森県"
 msgstr "Aomori"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:16
+#: ../../kihon/ken.rst:16
 msgid "岩手県"
 msgstr "Iwate"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:17
+#: ../../kihon/ken.rst:17
 msgid "宮城県"
 msgstr "Miyagi"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:18
+#: ../../kihon/ken.rst:18
 msgid "秋田県"
 msgstr "Akita"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:19
+#: ../../kihon/ken.rst:19
 msgid "山形県"
 msgstr "Yamagata"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:20
+#: ../../kihon/ken.rst:20
 msgid "福島県"
 msgstr "Fukushima"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:21
+#: ../../kihon/ken.rst:21
 msgid "茨城県"
 msgstr "Ibaraki"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:22
+#: ../../kihon/ken.rst:22
 msgid "栃木県"
 msgstr "Tochigi"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:23
+#: ../../kihon/ken.rst:23
 msgid "群馬県"
 msgstr "Gunma"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:24
+#: ../../kihon/ken.rst:24
 msgid "埼玉県"
 msgstr "Saitama"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:25
+#: ../../kihon/ken.rst:25
 msgid "千葉県"
 msgstr "Chiba"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:26
+#: ../../kihon/ken.rst:26
 msgid "東京都"
 msgstr "Tokyo"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:27
+#: ../../kihon/ken.rst:27
 msgid "神奈川県"
 msgstr "Kanagawa"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:28
+#: ../../kihon/ken.rst:28
 msgid "新潟県"
 msgstr "Niigata"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:29
+#: ../../kihon/ken.rst:29
 msgid "富山県"
 msgstr "Toyama"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:30
+#: ../../kihon/ken.rst:30
 msgid "石川県"
 msgstr "Ishikawa"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:31
+#: ../../kihon/ken.rst:31
 msgid "福井県"
 msgstr "Fukui"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:32
+#: ../../kihon/ken.rst:32
 msgid "山梨県"
 msgstr "Yamanashi"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:33
+#: ../../kihon/ken.rst:33
 msgid "長野県"
 msgstr "Nagano"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:34
+#: ../../kihon/ken.rst:34
 msgid "岐阜県"
 msgstr "Gifu"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:35
+#: ../../kihon/ken.rst:35
 msgid "静岡県"
 msgstr "Shizuoka"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:36
+#: ../../kihon/ken.rst:36
 msgid "愛知県"
 msgstr "Aichi"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:37
+#: ../../kihon/ken.rst:37
 msgid "三重県"
 msgstr "Mie"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:38
+#: ../../kihon/ken.rst:38
 msgid "滋賀県"
 msgstr "Shiga"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:39
+#: ../../kihon/ken.rst:39
 msgid "京都府"
 msgstr "Kyoto"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:40
+#: ../../kihon/ken.rst:40
 msgid "大阪府"
 msgstr "Osaka"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:41
+#: ../../kihon/ken.rst:41
 msgid "兵庫県"
 msgstr "Hyogo"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:42
+#: ../../kihon/ken.rst:42
 msgid "奈良県"
 msgstr "Nara"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:43
+#: ../../kihon/ken.rst:43
 msgid "和歌山県"
 msgstr "Wakayama"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:44
+#: ../../kihon/ken.rst:44
 msgid "鳥取県"
 msgstr "Tottori"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:45
+#: ../../kihon/ken.rst:45
 msgid "島根県"
 msgstr "Shimane"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:46
+#: ../../kihon/ken.rst:46
 msgid "岡山県"
 msgstr "Okayama"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:47
+#: ../../kihon/ken.rst:47
 msgid "広島県"
 msgstr "Hiroshima"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:48
+#: ../../kihon/ken.rst:48
 msgid "山口県"
 msgstr "Yamaguchi"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:49
+#: ../../kihon/ken.rst:49
 msgid "徳島県"
 msgstr "Tokushima"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:50
+#: ../../kihon/ken.rst:50
 msgid "香川県"
 msgstr "Kagawa"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:51
+#: ../../kihon/ken.rst:51
 msgid "愛媛県"
 msgstr "Ehime"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:52
+#: ../../kihon/ken.rst:52
 msgid "高知県"
 msgstr "Kochi"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:53
+#: ../../kihon/ken.rst:53
 msgid "福岡県"
 msgstr "Fukuoka"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:54
+#: ../../kihon/ken.rst:54
 msgid "佐賀県"
 msgstr "Saga"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:55
+#: ../../kihon/ken.rst:55
 msgid "長崎県"
 msgstr "Nagasaki"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:56
+#: ../../kihon/ken.rst:56
 msgid "熊本県"
 msgstr "Kumamoto"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:57
+#: ../../kihon/ken.rst:57
 msgid "大分県"
 msgstr "Oita"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:58
+#: ../../kihon/ken.rst:58
 msgid "宮崎県"
 msgstr "Miyazaki"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:59
+#: ../../kihon/ken.rst:59
 msgid "鹿児島県"
 msgstr "Kagoshima"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:60
+#: ../../kihon/ken.rst:60
 msgid "沖縄県"
 msgstr "Okinawa"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:61
+#: ../../kihon/ken.rst:61
 msgid "海外"
 msgstr "Foreign countries"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:65
+#: ../../kihon/ken.rst:65
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/ken.rst:67
+#: ../../kihon/ken.rst:67
 msgid "学部生のユーザーには公開していません。"
 msgstr "Not available to undergraduate users."
 

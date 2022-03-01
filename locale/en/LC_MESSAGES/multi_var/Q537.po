@@ -17,119 +17,119 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:3
+#: ../../multi_var/Q537.rst:3
 msgid "受講先"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:7
+#: ../../multi_var/Q537.rst:7
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:8
+#: ../../multi_var/Q537.rst:8
 msgid "通ったのはどのような学校ですか。（通信教育を含む）（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid "各種学校"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537A </variable/Q537A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid "職業訓練学校"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537B </variable/Q537B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid "高等学校"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537P </variable/Q537P>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid "専門学校・専修学校"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537C </variable/Q537C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid "短大・高専"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537D </variable/Q537D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid "大学（卒業を目的とする）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537E </variable/Q537E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid "大学（科目履修、聴講生、研究生など）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537F </variable/Q537F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid "大学（通信部、放送大学）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537G </variable/Q537G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid "大学院"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537H </variable/Q537H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid "民間の通信教育"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537J </variable/Q537J>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid "公民館・カルチャーセンター"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537K </variable/Q537K>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q537.rst:1
+#: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537I </variable/Q537I>`"
 msgstr ""
 

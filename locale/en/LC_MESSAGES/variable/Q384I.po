@@ -17,75 +17,75 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q384I.rst:5
+#: ../../variable/Q384I.rst:5
 msgid "住宅購入資金・その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q384I.rst:9
+#: ../../variable/Q384I.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q384I.rst:11
+#: ../../variable/Q384I.rst:11
 msgid "Q384I"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q384I.rst:15
+#: ../../variable/Q384I.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q384I.rst:18
+#: ../../variable/Q384I.rst:18
 msgid "その費用はどのように賄いましたか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q384I.rst:21
+#: ../../variable/Q384I.rst:21
 msgid "その他（具体的に　　　　　　　　）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q384I.rst:27
+#: ../../variable/Q384I.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q384I.rst:29
+#: ../../variable/Q384I.rst:29
 msgid "＿ ＿ ＿ ＿ 万円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q384I.rst:35
+#: ../../variable/Q384I.rst:35
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q384I.rst:36
+#: ../../variable/Q384I.rst:36
 msgid "99998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q384I.rst:41
+#: ../../variable/Q384I.rst:41
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q384I.rst:47
+#: ../../variable/Q384I.rst:47
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q384I.rst:48
+#: ../../variable/Q384I.rst:48
 msgid "99999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q384I.rst:53
+#: ../../variable/Q384I.rst:53
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q384I.rst:59
+#: ../../variable/Q384I.rst:59
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q384I.rst:64
+#: ../../variable/Q384I.rst:64
 msgid "p2_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q384I.rst:66
+#: ../../variable/Q384I.rst:66
 msgid "p5a_2"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q384I.rst:68
+#: ../../variable/Q384I.rst:68
 msgid "p5b_2"
 msgstr ""
 

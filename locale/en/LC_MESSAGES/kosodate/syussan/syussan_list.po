@@ -17,15 +17,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_list.rst:3
+#: ../../kosodate/syussan/syussan_list.rst:3
 msgid "出産の費用と休業"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_list.rst:7
+#: ../../kosodate/syussan/syussan_list.rst:7
 msgid "出産費用"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kosodate/syussan/syussan_list.rst:19
+#: ../../kosodate/syussan/syussan_list.rst:19
 msgid "出産による休業"
 msgstr ""
 

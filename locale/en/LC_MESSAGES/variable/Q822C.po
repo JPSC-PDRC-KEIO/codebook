@@ -17,83 +17,83 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:5
+#: ../../variable/Q822C.rst:5
 msgid "65歳以上義親・世話"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:9
+#: ../../variable/Q822C.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:11
+#: ../../variable/Q822C.rst:11
 msgid "Q822C"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:15
+#: ../../variable/Q822C.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:18
+#: ../../variable/Q822C.rst:18
 msgid "ご主人の親が65歳以上の方にお聞きします。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:21
+#: ../../variable/Q822C.rst:21
 msgid "（3）世話をしていますか。（家事、介護、訪問など）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:27
+#: ../../variable/Q822C.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:30
+#: ../../variable/Q822C.rst:30
 msgid "はい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:32
+#: ../../variable/Q822C.rst:32
 msgid "いいえ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:39
+#: ../../variable/Q822C.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:45
+#: ../../variable/Q822C.rst:45
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:51
+#: ../../variable/Q822C.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:52
+#: ../../variable/Q822C.rst:52
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:57
+#: ../../variable/Q822C.rst:57
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:63
+#: ../../variable/Q822C.rst:63
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:68
+#: ../../variable/Q822C.rst:68
 msgid "p1_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:70
+#: ../../variable/Q822C.rst:70
 msgid "p4_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:72
+#: ../../variable/Q822C.rst:72
 msgid "p5b_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:74
+#: ../../variable/Q822C.rst:74
 msgid "p7_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q822C.rst:76
+#: ../../variable/Q822C.rst:76
 msgid "p10_4"
 msgstr ""
 

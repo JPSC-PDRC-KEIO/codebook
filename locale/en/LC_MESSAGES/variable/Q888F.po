@@ -17,103 +17,103 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:4
+#: ../../variable/Q888F.rst:4
 msgid "未就学児の養育費用月額　合計"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:8
+#: ../../variable/Q888F.rst:8
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:9
+#: ../../variable/Q888F.rst:9
 msgid "**Q888F**"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:12
+#: ../../variable/Q888F.rst:12
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:13
+#: ../../variable/Q888F.rst:13
 msgid "（1）の9月にかかった費用は、未就学児全員の合計ではどのくらいになりますか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:16
+#: ../../variable/Q888F.rst:16
 msgid "選択肢"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:17
+#: ../../variable/Q888F.rst:17
 msgid "＿ ＿ 万 ＿ 千円"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:20
+#: ../../variable/Q888F.rst:20
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:21
+#: ../../variable/Q888F.rst:21
 msgid "998"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:24
+#: ../../variable/Q888F.rst:24
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:28
+#: ../../variable/Q888F.rst:28
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:29
+#: ../../variable/Q888F.rst:29
 msgid "999"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:33
+#: ../../variable/Q888F.rst:33
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:37
+#: ../../variable/Q888F.rst:37
 msgid "p7_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:39
+#: ../../variable/Q888F.rst:39
 msgid "p8_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:41
+#: ../../variable/Q888F.rst:41
 msgid "p9_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:43
+#: ../../variable/Q888F.rst:43
 msgid "p10_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:45
+#: ../../variable/Q888F.rst:45
 msgid "p11ab_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:47
+#: ../../variable/Q888F.rst:47
 msgid "p11c_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:49
+#: ../../variable/Q888F.rst:49
 msgid "p12_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:51
+#: ../../variable/Q888F.rst:51
 msgid "p13_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:53
+#: ../../variable/Q888F.rst:53
 msgid "p14_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:55
+#: ../../variable/Q888F.rst:55
 msgid "p15_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:57
+#: ../../variable/Q888F.rst:57
 msgid "p16abc_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q888F.rst:59
+#: ../../variable/Q888F.rst:59
 msgid "p16d_4"
 msgstr ""
 

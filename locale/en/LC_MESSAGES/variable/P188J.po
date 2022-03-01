@@ -17,79 +17,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:5
+#: ../../variable/P188J.rst:5
 msgid "前職の評価：能力が生かせる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:9
+#: ../../variable/P188J.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:11
+#: ../../variable/P188J.rst:11
 msgid "P188J"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:15
+#: ../../variable/P188J.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:18
+#: ../../variable/P188J.rst:18
 msgid "あなたの前職の会社やお仕事について、以下のことはどれくらいあてはまりますか。（それぞれ〇は１つずつ）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:21
+#: ../../variable/P188J.rst:21
 msgid "能力が生かせる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:27
+#: ../../variable/P188J.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:30
+#: ../../variable/P188J.rst:30
 msgid "あてはまる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:32
+#: ../../variable/P188J.rst:32
 msgid "まああてはまる"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:34
+#: ../../variable/P188J.rst:34
 msgid "あまりあてはまらない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:36
+#: ../../variable/P188J.rst:36
 msgid "ほとんどあてはまらない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:38
+#: ../../variable/P188J.rst:38
 msgid "わからない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:45
+#: ../../variable/P188J.rst:45
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:51
+#: ../../variable/P188J.rst:51
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:57
+#: ../../variable/P188J.rst:57
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:58
+#: ../../variable/P188J.rst:58
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:63
+#: ../../variable/P188J.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:69
+#: ../../variable/P188J.rst:69
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P188J.rst:74
+#: ../../variable/P188J.rst:74
 msgid "p21e_1"
 msgstr ""
 

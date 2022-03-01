@@ -17,83 +17,83 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:5
+#: ../../variable/Q993.rst:5
 msgid "電子メール利用頻度"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:9
+#: ../../variable/Q993.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:11
+#: ../../variable/Q993.rst:11
 msgid "Q993"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:15
+#: ../../variable/Q993.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:18
+#: ../../variable/Q993.rst:18
 msgid "あなたご自身の電子メールの利用頻度はどのくらいですか。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:24
+#: ../../variable/Q993.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:27
+#: ../../variable/Q993.rst:27
 msgid "毎日利用している"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:29
+#: ../../variable/Q993.rst:29
 msgid "ほぼ毎日利用している"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:31
+#: ../../variable/Q993.rst:31
 msgid "週に1～2度利用している"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:33
+#: ../../variable/Q993.rst:33
 msgid "月に1～2度利用している"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:35
+#: ../../variable/Q993.rst:35
 msgid "あまり利用していない"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:42
+#: ../../variable/Q993.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:48
+#: ../../variable/Q993.rst:48
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:54
+#: ../../variable/Q993.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:55
+#: ../../variable/Q993.rst:55
 msgid "6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:60
+#: ../../variable/Q993.rst:60
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:66
+#: ../../variable/Q993.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:71
+#: ../../variable/Q993.rst:71
 msgid "p8_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:73
+#: ../../variable/Q993.rst:73
 msgid "p9_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q993.rst:75
+#: ../../variable/Q993.rst:75
 msgid "p10_5"
 msgstr ""
 

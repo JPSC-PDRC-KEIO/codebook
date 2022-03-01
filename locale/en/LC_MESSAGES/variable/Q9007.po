@@ -17,71 +17,71 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9007.rst:5
+#: ../../variable/Q9007.rst:5
 msgid "None"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9007.rst:9
+#: ../../variable/Q9007.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9007.rst:11
+#: ../../variable/Q9007.rst:11
 msgid "Q9007"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9007.rst:15
+#: ../../variable/Q9007.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9007.rst:21
+#: ../../variable/Q9007.rst:21
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9007.rst:29
+#: ../../variable/Q9007.rst:29
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9007.rst:35
+#: ../../variable/Q9007.rst:35
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9007.rst:41
+#: ../../variable/Q9007.rst:41
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9007.rst:47
+#: ../../variable/Q9007.rst:47
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9007.rst:53
+#: ../../variable/Q9007.rst:53
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9007.rst:58
+#: ../../variable/Q9007.rst:58
 msgid "p21abcd_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9007.rst:60
+#: ../../variable/Q9007.rst:60
 msgid "p21e_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9007.rst:62
+#: ../../variable/Q9007.rst:62
 msgid "p22_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9007.rst:64
+#: ../../variable/Q9007.rst:64
 msgid "p23_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9007.rst:66
+#: ../../variable/Q9007.rst:66
 msgid "p24_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9007.rst:68
+#: ../../variable/Q9007.rst:68
 msgid "p25_5"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9007.rst:70
+#: ../../variable/Q9007.rst:70
 msgid "p26_5"
 msgstr ""
 

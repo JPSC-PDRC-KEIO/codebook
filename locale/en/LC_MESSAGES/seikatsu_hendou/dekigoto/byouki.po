@@ -20,6 +20,6 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/seikatsu_hendou/dekigoto/byouki.rst:3
+#: ../../seikatsu_hendou/dekigoto/byouki.rst:3
 msgid "病気・療養"
 msgstr "Illness and medical treatment"

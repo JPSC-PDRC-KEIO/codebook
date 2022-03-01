@@ -20,91 +20,91 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:5
+#: ../../variable/P131G.rst:5
 msgid "大きな出来事の経験：精神的問題-->休学・退学"
 msgstr "Major events experienced: mental problems--> leave of absence/dropout from school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:9
+#: ../../variable/P131G.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:11
+#: ../../variable/P131G.rst:11
 msgid "P131G"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:15
+#: ../../variable/P131G.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:18
+#: ../../variable/P131G.rst:18
 msgid "あなたやあなたのご家族に起こった大きな出来事についてうかがいます。"
 msgstr "Please answer the following questions about major events that you or your family have experienced."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:21
+#: ../../variable/P131G.rst:21
 msgid "（1）あなたが、中学を卒業してから現在までのあいだで、あなたやあなたのご家族に次のような大きな出来事がありましたか。（〇はいくつでも）"
 msgstr "\(1) Between the time you graduated from junior high school and now, have you or your family experienced any of the following major events? (circle as many as you like)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:24
+#: ../../variable/P131G.rst:24
 msgid "（2）その結果どのようなことが起こりましたか。あなたが覚えている限りで、次の中からいくつでもお答えください。（〇はいくつでも）"
 msgstr "\(2) What happened as a result? Please answer as many of the following questions as you can remember. (Circle as many as you like)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:27
+#: ../../variable/P131G.rst:27
 msgid "精神的問題-->進学をあきらめたり、休学・退学をした"
 msgstr "Mental problems--> gave up on higher education, or took a leave of absence or dropped out of school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:33
+#: ../../variable/P131G.rst:33
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:36
+#: ../../variable/P131G.rst:36
 msgid "はい"
 msgstr "Yes"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:38
+#: ../../variable/P131G.rst:38
 msgid "いいえ"
 msgstr "No"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:45
+#: ../../variable/P131G.rst:45
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:51
+#: ../../variable/P131G.rst:51
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:57
+#: ../../variable/P131G.rst:57
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:58
+#: ../../variable/P131G.rst:58
 msgid "3"
 msgstr "3"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:63
+#: ../../variable/P131G.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:69
+#: ../../variable/P131G.rst:69
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:74
+#: ../../variable/P131G.rst:74
 msgid "p1_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:76
+#: ../../variable/P131G.rst:76
 msgid "p5b_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:78
+#: ../../variable/P131G.rst:78
 msgid "p11c_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:80
+#: ../../variable/P131G.rst:80
 msgid "p16d_4"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P131G.rst:82
+#: ../../variable/P131G.rst:82
 msgid "p21e_4"
 msgstr ""
 

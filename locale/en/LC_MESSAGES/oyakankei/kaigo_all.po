@@ -17,11 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/oyakankei/kaigo_all.rst:3
+#: ../../oyakankei/kaigo_all.rst:3
 msgid "介護について"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/oyakankei/kaigo_all.rst:14
+#: ../../oyakankei/kaigo_all.rst:14
 msgid ""
 "「1年間の生活変動」についての質問群の中で、調査前1年間に :doc:`亡くなった親の介護 "
 "</seikatsu_hendou/shibou/kaigo>` についてを聞いています。"

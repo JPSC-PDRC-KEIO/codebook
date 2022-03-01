@@ -20,38 +20,38 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q7.rst:3
+#: ../../kihon/Q7.rst:3
 msgid "性別"
 msgstr "Sex"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q7.rst:7
+#: ../../kihon/Q7.rst:7
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q7.rst:9
+#: ../../kihon/Q7.rst:9
 msgid "Q7"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q7.rst:12
+#: ../../kihon/Q7.rst:12
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q7.rst:14
+#: ../../kihon/Q7.rst:14
 msgid "あなたの性別"
 msgstr "Sex"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q7.rst:18
+#: ../../kihon/Q7.rst:18
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q7.rst:20
+#: ../../kihon/Q7.rst:20
 msgid "女性"
 msgstr "female"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q7.rst:23
+#: ../../kihon/Q7.rst:23
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q7.rst:24
+#: ../../kihon/Q7.rst:24
 msgid "調査本人が女性のみのため、かならず「2」が入っています。"
 msgstr "If you are married, \"Family-member2\" will be your husband, so please refer to \"Basic Attributes of the spouse (spouse)\"."

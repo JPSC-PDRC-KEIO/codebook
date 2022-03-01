@@ -17,51 +17,51 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokureki.rst:3
+#: ../../syugyo/syokureki/syokureki.rst:3
 msgid "初回調査時までの職歴についての質問概要"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokureki.rst:6
+#: ../../syugyo/syokureki/syokureki.rst:6
 msgid "初回調査時までの職歴"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokureki.rst:8
+#: ../../syugyo/syokureki/syokureki.rst:8
 msgid "全員に18歳からの職業履歴を聞いています。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokureki.rst:18
+#: ../../syugyo/syokureki/syokureki.rst:18
 msgid "初回調査時までの職業について"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokureki.rst:21
+#: ../../syugyo/syokureki/syokureki.rst:21
 msgid "質問の概要"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokureki.rst:23
+#: ../../syugyo/syokureki/syokureki.rst:23
 msgid "|nt5| に、初回調査時以前の職業経験について聞いています。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokureki.rst:34
+#: ../../syugyo/syokureki/syokureki.rst:34
 msgid "|nt5| が学校卒業後はじめてついた職業は："
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokureki.rst:36
+#: ../../syugyo/syokureki/syokureki.rst:36
 msgid "・1回も離職経験がない人は「現職」になります。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokureki.rst:37
+#: ../../syugyo/syokureki/syokureki.rst:37
 msgid "・1回だけ離職経験がある人は「前職」になります。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokureki.rst:38
+#: ../../syugyo/syokureki/syokureki.rst:38
 msgid "・2回以上離職経験がある人は「初職」になります。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokureki.rst:40
+#: ../../syugyo/syokureki/syokureki.rst:40
 msgid "ここで述べている「離職経験」は、初回調査時点までのことを指します。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/syugyo/syokureki/syokureki.rst:43
+#: ../../syugyo/syokureki/syokureki.rst:43
 msgid "質問の構成"
 msgstr ""
 

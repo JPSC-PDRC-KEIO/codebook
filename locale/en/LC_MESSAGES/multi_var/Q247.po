@@ -17,155 +17,155 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:3
+#: ../../multi_var/Q247.rst:3
 msgid "離職理由（配偶者有職）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:7
+#: ../../multi_var/Q247.rst:7
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:8
+#: ../../multi_var/Q247.rst:8
 msgid "どのような理由で、ご主人は１年前（昨年9月末）の会社等をやめたのですか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid "人員整理・会社解散・倒産のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid ":doc:`Q247A </variable/Q247A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid "一時的・不安定な仕事だったから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid ":doc:`Q247B </variable/Q247B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid "労働条件（収入・時間）が悪かったため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid ":doc:`Q247R </variable/Q247R>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid "仕事の内容に不満があったため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid ":doc:`Q247S </variable/Q247S>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid "家族の就職・転職・転勤及び事業所の移転のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid ":doc:`Q247G </variable/Q247G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid "結婚のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid ":doc:`Q247H </variable/Q247H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid "妻の妊娠・出産のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid ":doc:`Q247Z </variable/Q247Z>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid "育児・子育てのため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid ":doc:`Q247AA </variable/Q247AA>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid "自分が病気になったから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid ":doc:`Q247I </variable/Q247I>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid "家族の介護のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid ":doc:`Q247J </variable/Q247J>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid "良い条件の仕事が見つかったら・独立したから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid ":doc:`Q247L </variable/Q247L>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid "人間関係が気まずくなったから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid ":doc:`Q247U </variable/Q247U>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid "解雇された"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid ":doc:`Q247V </variable/Q247V>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid "大学や専門学校などでの勉強や留学準備のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid ":doc:`Q247O </variable/Q247O>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid "定年又は雇用契約の満了"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid ":doc:`Q247P </variable/Q247P>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:1
+#: ../../multi_var/Q247.rst:1
 msgid ":doc:`Q247Q </variable/Q247Q>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q247.rst:34
+#: ../../multi_var/Q247.rst:34
 msgid "現在有職の配偶者が、前回調査時からの1年間に離職した人への質問です。この項目は、選択肢や変数名が以下のような変化をたどってきました。"
 msgstr ""
 

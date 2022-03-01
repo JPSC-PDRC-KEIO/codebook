@@ -17,79 +17,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:3
+#: ../../multi_var/Q519.rst:3
 msgid "子どもの教育希望理由"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:6
+#: ../../multi_var/Q519.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:7
+#: ../../multi_var/Q519.rst:7
 msgid "その理由は何ですか。（○はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:1
+#: ../../multi_var/Q519.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:1
+#: ../../multi_var/Q519.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:1
+#: ../../multi_var/Q519.rst:1
 msgid "就職等で有利になるから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:1
+#: ../../multi_var/Q519.rst:1
 msgid ":doc:`Q519A </variable/Q519A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:1
+#: ../../multi_var/Q519.rst:1
 msgid "結婚等で有利になるから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:1
+#: ../../multi_var/Q519.rst:1
 msgid ":doc:`Q519B </variable/Q519B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:1
+#: ../../multi_var/Q519.rst:1
 msgid "社会的に高い評価を得ることができるから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:1
+#: ../../multi_var/Q519.rst:1
 msgid ":doc:`Q519C </variable/Q519C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:1
+#: ../../multi_var/Q519.rst:1
 msgid "よい教育を受けさせたいため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:1
+#: ../../multi_var/Q519.rst:1
 msgid ":doc:`Q519D </variable/Q519D>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:1
+#: ../../multi_var/Q519.rst:1
 msgid "よい友人を作るため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:1
+#: ../../multi_var/Q519.rst:1
 msgid ":doc:`Q519E </variable/Q519E>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:1
+#: ../../multi_var/Q519.rst:1
 msgid "何となく"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:1
+#: ../../multi_var/Q519.rst:1
 msgid ":doc:`Q519F </variable/Q519F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:1
+#: ../../multi_var/Q519.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/Q519.rst:1
+#: ../../multi_var/Q519.rst:1
 msgid ":doc:`Q519G </variable/Q519G>`"
 msgstr ""
 

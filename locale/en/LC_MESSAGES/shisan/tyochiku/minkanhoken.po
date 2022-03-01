@@ -19,15 +19,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:3
+#: ../../shisan/tyochiku/minkanhoken.rst:3
 msgid "民間保険"
 msgstr "Private insurances"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:6
+#: ../../shisan/tyochiku/minkanhoken.rst:6
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:8
+#: ../../shisan/tyochiku/minkanhoken.rst:8
 #, 
 msgid ""
 "あなた方ご夫婦は、次の保険にどのくらい保険料を払っていますか。 "
@@ -37,110 +37,110 @@ msgstr ""
 "insurance, personal pension insurance, installment non-life insurance, "
 "injury insurance, educational insurance, etc.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:11
+#: ../../shisan/tyochiku/minkanhoken.rst:11
 msgid "あなたが保険料の払い込み人となっている保険〔該当するものに〇をつけ、その保険料をご記入下さい。〕"
 msgstr ""
 "Insurance for which you are the contractor.where you are the policy "
 "holder (Mark the chosen type of insuranceitem number with a circle, and "
 "enter the amount of premium.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:13
+#: ../../shisan/tyochiku/minkanhoken.rst:13
 msgid "ご主人が保険料の払い込み人となっている保険〔該当するものに〇をつけ、その保険料をご記入下さい。〕"
 msgstr ""
 "Insurance for whichwhere your husband is the policy holder is the "
 "contractor. (Mark the chosen item number with a circle, and enter the "
 "amount of premium.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:17
+#: ../../shisan/tyochiku/minkanhoken.rst:17
 msgid "**A.本人が払い込み人**"
 msgstr "**A. You are the policy holder**"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid "保険のタイプ"
 msgstr "Type of insurance"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid "加入の有無"
 msgstr "Subscription"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid "昨年1年間の保険料"
 msgstr "Premium paid in the past year"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 #, 
 msgid "払い込み保険料総額"
 msgstr "Total of premiums paid"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid "掛け捨てタイプ"
 msgstr "Single premium type insurance"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid ":doc:`Q363A </variable/Q363A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid ":doc:`Q364 </variable/Q364>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid "—"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid "積み立てタイプ"
 msgstr "Installment premium type insurance"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid ":doc:`Q363B </variable/Q363B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid ":doc:`Q365 </variable/Q365>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid ":doc:`Q366 </variable/Q366>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid "本人が払い込み人の保険はない"
 msgstr "No insurance contract"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid ":doc:`Q363C </variable/Q363C>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:29
+#: ../../shisan/tyochiku/minkanhoken.rst:29
 msgid "**B.配偶者が払い込み人**"
 msgstr "**B. Your husband is the policy holder**"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid ":doc:`Q367A </variable/Q367A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid ":doc:`Q368 </variable/Q368>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid ":doc:`Q367B </variable/Q367B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid ":doc:`Q369 </variable/Q369>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid ":doc:`Q370 </variable/Q370>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid "配偶者が払い込み人の保険はない"
 msgstr "No insurance contract"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/shisan/tyochiku/minkanhoken.rst:1
+#: ../../shisan/tyochiku/minkanhoken.rst:1
 msgid ":doc:`Q367C </variable/Q367C>`"
 msgstr ""
 

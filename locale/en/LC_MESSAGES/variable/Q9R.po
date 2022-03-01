@@ -17,83 +17,83 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:5
+#: ../../variable/Q9R.rst:5
 msgid "本人就学状況"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:9
+#: ../../variable/Q9R.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:11
+#: ../../variable/Q9R.rst:11
 msgid "Q9R"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:15
+#: ../../variable/Q9R.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:21
+#: ../../variable/Q9R.rst:21
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:24
+#: ../../variable/Q9R.rst:24
 msgid "未就学"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:26
+#: ../../variable/Q9R.rst:26
 msgid "小学1～3年"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:28
+#: ../../variable/Q9R.rst:28
 msgid "小学4～6年"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:30
+#: ../../variable/Q9R.rst:30
 msgid "中学生"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:32
+#: ../../variable/Q9R.rst:32
 msgid "高校生"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:34
+#: ../../variable/Q9R.rst:34
 msgid "短大・大学生"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:36
+#: ../../variable/Q9R.rst:36
 msgid "専門学校"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:38
+#: ../../variable/Q9R.rst:38
 msgid "仕事に就いている"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:40
+#: ../../variable/Q9R.rst:40
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:47
+#: ../../variable/Q9R.rst:47
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:53
+#: ../../variable/Q9R.rst:53
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:59
+#: ../../variable/Q9R.rst:59
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:65
+#: ../../variable/Q9R.rst:65
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:71
+#: ../../variable/Q9R.rst:71
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q9R.rst:76
+#: ../../variable/Q9R.rst:76
 msgid "p10_5"
 msgstr ""
 

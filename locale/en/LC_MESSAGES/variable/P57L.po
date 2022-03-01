@@ -17,83 +17,83 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:5
+#: ../../variable/P57L.rst:5
 msgid "仕事の知識・技能習得：その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:9
+#: ../../variable/P57L.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:11
+#: ../../variable/P57L.rst:11
 msgid "P57L"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:15
+#: ../../variable/P57L.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:18
+#: ../../variable/P57L.rst:18
 msgid "あなたは、今の仕事に必要な知識や技能をどこで身につけましたか。（〇はいくつでも）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:21
+#: ../../variable/P57L.rst:21
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:27
+#: ../../variable/P57L.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:30
+#: ../../variable/P57L.rst:30
 msgid "はい"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:32
+#: ../../variable/P57L.rst:32
 msgid "いいえ"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:39
+#: ../../variable/P57L.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:45
+#: ../../variable/P57L.rst:45
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:51
+#: ../../variable/P57L.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:52
+#: ../../variable/P57L.rst:52
 msgid "3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:57
+#: ../../variable/P57L.rst:57
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:63
+#: ../../variable/P57L.rst:63
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:68
+#: ../../variable/P57L.rst:68
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:70
+#: ../../variable/P57L.rst:70
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:72
+#: ../../variable/P57L.rst:72
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:74
+#: ../../variable/P57L.rst:74
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P57L.rst:76
+#: ../../variable/P57L.rst:76
 msgid "p21e_1"
 msgstr ""
 

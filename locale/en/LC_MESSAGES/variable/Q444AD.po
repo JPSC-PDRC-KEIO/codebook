@@ -17,143 +17,143 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:5
+#: ../../variable/Q444AD.rst:5
 msgid "保有台数・携帯電話"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:9
+#: ../../variable/Q444AD.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:11
+#: ../../variable/Q444AD.rst:11
 msgid "Q444AD"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:15
+#: ../../variable/Q444AD.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:18
+#: ../../variable/Q444AD.rst:18
 msgid "現在、あなた方ご夫婦は次のものをいくつ保有していますか。その台数を記入して下さい。持っていない場合は、0をご記入下さい。"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:21
+#: ../../variable/Q444AD.rst:21
 msgid "6.携帯電話（PHSも含む）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:27
+#: ../../variable/Q444AD.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:29
+#: ../../variable/Q444AD.rst:29
 msgid "＿＿台"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:35
+#: ../../variable/Q444AD.rst:35
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:36
+#: ../../variable/Q444AD.rst:36
 msgid "8"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:41
+#: ../../variable/Q444AD.rst:41
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:47
+#: ../../variable/Q444AD.rst:47
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:48
+#: ../../variable/Q444AD.rst:48
 msgid "9"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:53
+#: ../../variable/Q444AD.rst:53
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:59
+#: ../../variable/Q444AD.rst:59
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:64
+#: ../../variable/Q444AD.rst:64
 msgid "p3_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:66
+#: ../../variable/Q444AD.rst:66
 msgid "p4_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:68
+#: ../../variable/Q444AD.rst:68
 msgid "p5a_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:70
+#: ../../variable/Q444AD.rst:70
 msgid "p5b_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:72
+#: ../../variable/Q444AD.rst:72
 msgid "p6_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:74
+#: ../../variable/Q444AD.rst:74
 msgid "p7_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:76
+#: ../../variable/Q444AD.rst:76
 msgid "p8_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:78
+#: ../../variable/Q444AD.rst:78
 msgid "p9_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:80
+#: ../../variable/Q444AD.rst:80
 msgid "p10_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:82
+#: ../../variable/Q444AD.rst:82
 msgid "p11ab_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:84
+#: ../../variable/Q444AD.rst:84
 msgid "p11c_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:86
+#: ../../variable/Q444AD.rst:86
 msgid "p12_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:88
+#: ../../variable/Q444AD.rst:88
 msgid "p13_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:90
+#: ../../variable/Q444AD.rst:90
 msgid "p14_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:92
+#: ../../variable/Q444AD.rst:92
 msgid "p15_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:94
+#: ../../variable/Q444AD.rst:94
 msgid "p16abc_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:96
+#: ../../variable/Q444AD.rst:96
 msgid "p16d_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:98
+#: ../../variable/Q444AD.rst:98
 msgid "p17_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:100
+#: ../../variable/Q444AD.rst:100
 msgid "p18_3"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q444AD.rst:102
+#: ../../variable/Q444AD.rst:102
 msgid "p21e_3"
 msgstr ""
 

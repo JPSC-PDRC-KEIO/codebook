@@ -20,78 +20,78 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:5
+#: ../../variable/P41A.rst:5
 msgid "離職期間：年（無職）"
 msgstr "Period of not working: Year (not working)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:9
+#: ../../variable/P41A.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:11
+#: ../../variable/P41A.rst:11
 msgid "P41A"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:15
+#: ../../variable/P41A.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:18
+#: ../../variable/P41A.rst:18
 msgid "前の仕事をおやめになってから、仕事についていない期間はどれくらい続いていますか。（仕事の経験のない方は、学校を卒業してからの期間をお答下さい。）"
 msgstr "How many years and months have you not worked since leaving your last job? (If you have no experience of working, calculate the amount of time since you finished school until now.)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:24
+#: ../../variable/P41A.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:26
+#: ../../variable/P41A.rst:26
 msgid "＿＿年"
 msgstr "Year ＿＿＿＿"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:32
+#: ../../variable/P41A.rst:32
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:33
+#: ../../variable/P41A.rst:33
 msgid "98"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:38
+#: ../../variable/P41A.rst:38
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:44
+#: ../../variable/P41A.rst:44
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:45
+#: ../../variable/P41A.rst:45
 msgid "99"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:50
+#: ../../variable/P41A.rst:50
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:56
+#: ../../variable/P41A.rst:56
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:61
+#: ../../variable/P41A.rst:61
 msgid "p1_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:63
+#: ../../variable/P41A.rst:63
 msgid "p5b_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:65
+#: ../../variable/P41A.rst:65
 msgid "p11c_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:67
+#: ../../variable/P41A.rst:67
 msgid "p16d_1"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/P41A.rst:69
+#: ../../variable/P41A.rst:69
 msgid "p21e_1"
 msgstr ""

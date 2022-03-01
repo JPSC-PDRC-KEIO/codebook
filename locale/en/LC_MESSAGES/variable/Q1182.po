@@ -8,16 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"POT-Creation-Date: 2022-02-22 15:31+0900\n"
 "PO-Revision-Date: 2022-02-07 13:28+0900\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
-"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q1182.rst:6
 msgid "業種 [第21回 |endash| ]"
@@ -37,7 +37,10 @@ msgstr "Question"
 
 #: ../../variable/Q1182.rst:21
 msgid "その勤め先の業種は次のどれに該当しますか。（派遣社員の方は、派遣元の業種についてお答えください）"
-msgstr "Which of the following industries does the company you work for fall into? (If you are a dispatched worker, please indicate the sector from which you were dispatched.)"
+msgstr ""
+"Which of the following industries does the company you work for fall "
+"into? (If you are a dispatched worker, please indicate the sector from "
+"which you were dispatched.)"
 
 #: ../../variable/Q1182.rst:28
 msgid "選択肢 / 記入欄"
@@ -97,7 +100,9 @@ msgstr "Medical care, welfare"
 
 #: ../../variable/Q1182.rst:43
 msgid "その他のサービス業（理・美容、広告、娯楽、郵便局、職業紹介、労働者派遣業など）"
-msgstr "Other services (hairdressing, advertising, entertainment, post office, job placement, worker dispatch, etc.)"
+msgstr ""
+"Other services (hairdressing, advertising, entertainment, post office, "
+"job placement, worker dispatch, etc.)"
 
 #: ../../variable/Q1182.rst:44
 msgid "公務（官庁・役所など）"
@@ -127,43 +132,55 @@ msgstr ""
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q1182.rst:82
+#: ../../variable/Q1182.rst:76
+msgid ""
+"この変数は第21回から使用されている新しい分類に基づく変数です。 第1回から第20回までは12分類（:doc:`Q146 "
+"</variable/Q146>`）で対象者に尋ねています。 "
+"ただし第21回以降のデータにも、職業に関する自由記述や新分類での回答をもとにし、旧分類（12分類）に従って分類した変数（:doc:`Q146 "
+"</variable/Q146>`）も作成しています。"
+msgstr ""
+
+#: ../../variable/Q1182.rst:80
+msgid "詳しくはこちら（:doc:`/syugyo/gensyoku/gyousyu`）をご参照ください。"
+msgstr ""
+
+#: ../../variable/Q1182.rst:85
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q1182.rst:87
+#: ../../variable/Q1182.rst:90
 msgid "p21abcd_1"
 msgstr "p21abcd_1"
 
-#: ../../variable/Q1182.rst:89
+#: ../../variable/Q1182.rst:92
 msgid "p21e_1"
 msgstr "p21e_1"
 
-#: ../../variable/Q1182.rst:91
+#: ../../variable/Q1182.rst:94
 msgid "p22_1"
 msgstr "p22_1"
 
-#: ../../variable/Q1182.rst:93
+#: ../../variable/Q1182.rst:96
 msgid "p23_1"
 msgstr ""
 
-#: ../../variable/Q1182.rst:95
+#: ../../variable/Q1182.rst:98
 msgid "p24_1"
 msgstr ""
 
-#: ../../variable/Q1182.rst:97
+#: ../../variable/Q1182.rst:100
 msgid "p25_1"
 msgstr ""
 
-#: ../../variable/Q1182.rst:99
+#: ../../variable/Q1182.rst:102
 msgid "p26_1"
 msgstr ""
 
-#: ../../variable/Q1182.rst:101
+#: ../../variable/Q1182.rst:104
 msgid "p27_1"
 msgstr ""
 
-#: ../../variable/Q1182.rst:103
+#: ../../variable/Q1182.rst:106
 msgid "p28_1"
 msgstr ""
 
@@ -175,3 +192,10 @@ msgstr ""
 
 #~ msgid "業種〔第21回～〕"
 #~ msgstr ""
+
+#~ msgid ""
+#~ "この変数は第21回から使用されている新しい分類に基づく変数です。 第1回から第20回までは12分類（:doc:`Q146 "
+#~ "</variable/Q146>`）で対象者に尋ねています。 ただし旧分類に基づいた変数（:doc:`Q146 "
+#~ "</variable/Q146>`）は、第21回以降のデータにも12分類にリコードして残しています。"
+#~ msgstr ""
+

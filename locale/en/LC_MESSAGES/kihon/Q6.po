@@ -20,38 +20,38 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 3.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q6.rst:3
+#: ../../kihon/Q6.rst:3
 msgid "続柄"
 msgstr "Relationship"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q6.rst:7
+#: ../../kihon/Q6.rst:7
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q6.rst:9
+#: ../../kihon/Q6.rst:9
 msgid "Q6"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q6.rst:12
+#: ../../kihon/Q6.rst:12
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q6.rst:14
+#: ../../kihon/Q6.rst:14
 msgid "あなたの続柄"
 msgstr "Relationship to yourself"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q6.rst:18
+#: ../../kihon/Q6.rst:18
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q6.rst:20
+#: ../../kihon/Q6.rst:20
 msgid "本人（妻）"
 msgstr "Respondent"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q6.rst:23
+#: ../../kihon/Q6.rst:23
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/Q6.rst:25
+#: ../../kihon/Q6.rst:25
 msgid "調査本人のため、かならず「0」が入っています。"
 msgstr "Always \"0\" for respondents."

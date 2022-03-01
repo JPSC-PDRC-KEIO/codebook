@@ -20,95 +20,95 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 2.3\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:3
+#: ../../kihon/syugaku.rst:3
 msgid "現在の就学・就労状況"
 msgstr "Student or worker status"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:6
+#: ../../kihon/syugaku.rst:6
 msgid "|nt1|"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:1
+#: ../../kihon/syugaku.rst:1
 msgid "第1～第9回"
 msgstr "1st to 9th wave"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:1
+#: ../../kihon/syugaku.rst:1
 msgid "第10回"
 msgstr "10th wave"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:1
+#: ../../kihon/syugaku.rst:1
 msgid "第11回～"
 msgstr "11th wave"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:1
+#: ../../kihon/syugaku.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:1
+#: ../../kihon/syugaku.rst:1
 msgid ":doc:`Q9 <Q9>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:1
+#: ../../kihon/syugaku.rst:1
 msgid ":doc:`Q9R <Q9R>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:1
+#: ../../kihon/syugaku.rst:1
 msgid ":doc:`Q9S <Q9S>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst:1
+#: ../../kihon/syugaku.rst:1
 msgid "選択肢"
 msgstr "Choices"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
+#: ../../kihon/syugaku.rst
 msgid "1.未就学"
 msgstr "1.Preschooler"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
+#: ../../kihon/syugaku.rst
 msgid "2.小学1～3年"
 msgstr "2.Student in grades 1 to 3 of primary school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
+#: ../../kihon/syugaku.rst
 msgid "3.小学4～6年"
 msgstr "3.Student in grades 4 to 6 of primary school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
+#: ../../kihon/syugaku.rst
 msgid "4.中学生"
 msgstr "4.Junior-high school student"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
+#: ../../kihon/syugaku.rst
 msgid "5.高校生"
 msgstr "5.Senior-high school student"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
+#: ../../kihon/syugaku.rst
 msgid "6.大学生"
 msgstr "6.College stugent"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
+#: ../../kihon/syugaku.rst
 msgid "7.その他"
 msgstr "7.Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
+#: ../../kihon/syugaku.rst
 msgid "6.短大・大学生"
 msgstr "6.Junior college or College stugent"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
+#: ../../kihon/syugaku.rst
 msgid "7.専門学校"
 msgstr "7.Vocational school"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
+#: ../../kihon/syugaku.rst
 msgid "8.仕事に就いている"
 msgstr "8.Worker"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
+#: ../../kihon/syugaku.rst
 msgid "9.その他"
 msgstr "9.Other"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
+#: ../../kihon/syugaku.rst
 msgid "9.無職"
 msgstr "9.Not working"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/kihon/syugaku.rst
+#: ../../kihon/syugaku.rst
 msgid "10.その他"
 msgstr "10.Other"
 

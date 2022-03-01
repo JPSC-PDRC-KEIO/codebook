@@ -19,151 +19,151 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Poedit 3.0.1\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:5
+#: ../../variable/Q138E.rst:5
 msgid "事故・災害・消費者トラブルへの対処：金融機関から借金した"
 msgstr "Coping with accidents, disasters, and consumer problems: Borrowed money from financial institutions"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:9
+#: ../../variable/Q138E.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:11
+#: ../../variable/Q138E.rst:11
 msgid "Q138E"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:15
+#: ../../variable/Q138E.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:18
+#: ../../variable/Q138E.rst:18
 msgid "この1年間（調査前年10月～調査年9月）にあなた自身が事故や災害、消費者トラブルにあわれた方にうかがいます。（3）そのためにどのような対処をしましたか。（〇はいくつでも）"
 msgstr "For those who have had accidents, disasters, or consumer problems during the past year (October of the previous year to September of the survey year) (3) How did you deal with this? (Circle as many as pertain to you)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:21
+#: ../../variable/Q138E.rst:21
 msgid "金融機関から借金した"
 msgstr "Borrowed money from financial institutions."
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:27
+#: ../../variable/Q138E.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:30
+#: ../../variable/Q138E.rst:30
 msgid "はい"
 msgstr "Yes"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:32
+#: ../../variable/Q138E.rst:32
 msgid "いいえ"
 msgstr "No"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:39
+#: ../../variable/Q138E.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:45
+#: ../../variable/Q138E.rst:45
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:51
+#: ../../variable/Q138E.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:52
+#: ../../variable/Q138E.rst:52
 msgid "3"
 msgstr "3"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:57
+#: ../../variable/Q138E.rst:57
 msgid "備考"
 msgstr "Remarks"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:63
+#: ../../variable/Q138E.rst:63
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:68
+#: ../../variable/Q138E.rst:68
 msgid "p2_1"
 msgstr "p2_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:70
+#: ../../variable/Q138E.rst:70
 msgid "p3_1"
 msgstr "p3_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:72
+#: ../../variable/Q138E.rst:72
 msgid "p4_1"
 msgstr "p4_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:74
+#: ../../variable/Q138E.rst:74
 msgid "p5a_1"
 msgstr "p5a_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:76
+#: ../../variable/Q138E.rst:76
 msgid "p6_1"
 msgstr "p6_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:78
+#: ../../variable/Q138E.rst:78
 msgid "p7_1"
 msgstr "p7_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:80
+#: ../../variable/Q138E.rst:80
 msgid "p8_1"
 msgstr "p8_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:82
+#: ../../variable/Q138E.rst:82
 msgid "p9_1"
 msgstr "p9_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:84
+#: ../../variable/Q138E.rst:84
 msgid "p10_1"
 msgstr "p10_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:86
+#: ../../variable/Q138E.rst:86
 msgid "p11ab_1"
 msgstr "p11ab_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:88
+#: ../../variable/Q138E.rst:88
 msgid "p12_1"
 msgstr "p12_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:90
+#: ../../variable/Q138E.rst:90
 msgid "p13_1"
 msgstr "p13_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:92
+#: ../../variable/Q138E.rst:92
 msgid "p14_1"
 msgstr "p14_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:94
+#: ../../variable/Q138E.rst:94
 msgid "p15_1"
 msgstr "p15_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:96
+#: ../../variable/Q138E.rst:96
 msgid "p16abc_1"
 msgstr "p16abc_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:98
+#: ../../variable/Q138E.rst:98
 msgid "p17_1"
 msgstr "p17_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:100
+#: ../../variable/Q138E.rst:100
 msgid "p18_1"
 msgstr "p18_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:102
+#: ../../variable/Q138E.rst:102
 msgid "p19_1"
 msgstr "p19_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:104
+#: ../../variable/Q138E.rst:104
 msgid "p20_1"
 msgstr "p20_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:106
+#: ../../variable/Q138E.rst:106
 msgid "p21abcd_1"
 msgstr "p21abcd_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:108
+#: ../../variable/Q138E.rst:108
 msgid "p22_1"
 msgstr "p22_1"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q138E.rst:110
+#: ../../variable/Q138E.rst:110
 msgid "p23_1"
 msgstr ""
 

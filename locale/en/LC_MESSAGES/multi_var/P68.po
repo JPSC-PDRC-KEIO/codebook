@@ -17,155 +17,155 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:4
+#: ../../multi_var/P68.rst:4
 msgid "前職の離職理由"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:8
+#: ../../multi_var/P68.rst:8
 msgid "質問文（複数回答）"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:9
+#: ../../multi_var/P68.rst:9
 msgid "どのような理由で、あなたはその前職をやめたのですか。(〇はいくつでも)"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid "項目"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid "変数名"
 msgstr "Variable name"
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid "人員整理・会社解散・倒産のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid ":doc:`P68A </variable/P68A>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid "一時的・不安定な仕事だったから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid ":doc:`P68B </variable/P68B>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid "労働条件（収入、時間）が悪かったから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid ":doc:`P68V </variable/P68V>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid "仕事の内容に不満があったため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid ":doc:`P68W </variable/P68W>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid "家族の就職・転職・転勤および事業所の移転のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid ":doc:`P68F </variable/P68F>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid "自分が病気になったから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid ":doc:`P68G </variable/P68G>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid "家族の介護のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid ":doc:`P68Q </variable/P68Q>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid "結婚のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid ":doc:`P68H </variable/P68H>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid "妊娠・出産のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid ":doc:`P68AA </variable/P68AA>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid "育児・子育てのため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid ":doc:`P68AB </variable/P68AB>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid "いい条件の仕事が見つかったから・独立したから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid ":doc:`P68K </variable/P68K>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid "人間関係が気まずくなったから"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid ":doc:`P68L </variable/P68L>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid "解雇された"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid ":doc:`P68T </variable/P68T>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid "大学や専門学校などでの勉強や留学準備のため"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid ":doc:`P68U </variable/P68U>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid "定年または雇用契約の満了"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid ":doc:`P68Z </variable/P68Z>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid "その他"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:1
+#: ../../multi_var/P68.rst:1
 msgid ":doc:`P68M </variable/P68M>`"
 msgstr ""
 
-#: /mnt/c/Users/JPSC/code_books/codebook/multi_var/P68.rst:36
+#: ../../multi_var/P68.rst:36
 msgid "初回調査時までの職業についての質問です。この項目は、選択肢や変数名が以下のような変化をたどってきました。"
 msgstr ""
 
