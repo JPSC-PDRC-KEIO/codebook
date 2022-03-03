@@ -28,11 +28,11 @@
    定年又は雇用契約の満了,:doc:`P78Z </variable/P78Z>`
    その他,:doc:`P78M </variable/P78M>`
 
-|
+
 .. note::
   初回調査時までの職業についての質問です。この項目は、選択肢や変数名が以下のような変化をたどってきました。
 
-|
+
 .. raw:: html
 
   <object width="100%" hight="100%" id="risyoku_syoSvg" type="image/svg+xml" data="..\_static\_images\risyoku_syo.svg"></object>

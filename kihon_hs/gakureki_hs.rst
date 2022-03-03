@@ -12,5 +12,6 @@
    tandai_hs
    daigaku_hs
    daigakuin_hs
+   /variable/Q688
    /variable/Q892
    /variable/Q679

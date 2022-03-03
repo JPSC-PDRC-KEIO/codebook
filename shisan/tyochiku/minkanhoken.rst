@@ -21,10 +21,10 @@ B. ご主人が保険料の払い込み人となっている保険〔該当す�
    :header: "保険のタイプ", "加入の有無", "昨年1年間の保険料", "払い込み保険料総額"
 
    掛け捨てタイプ, :doc:`Q363A </variable/Q363A>`, :doc:`Q364 </variable/Q364>`, "—"
-   積み立てタイプ, :doc:`Q363B </variable/Q363B>`,:doc:`Q365 </variable/Q365>`, :doc:`Q366 </variable/Q366>`
+   積み立てタイプ, :doc:`Q363B </variable/Q363B>`, :doc:`Q365 </variable/Q365>`, :doc:`Q366 </variable/Q366>`
    本人が払い込み人の保険はない, :doc:`Q363C </variable/Q363C>`, "—", "—"
 
-|
+
 
 **B.配偶者が払い込み人**
 

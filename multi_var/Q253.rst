@@ -29,7 +29,7 @@
 .. note::
    配偶者が現在有職の人への質問で、1年間に、配偶者の就業状態の変化があった人に聞いています（初回調査時には聞いていません）。
 
-|
+
 .. raw:: html
 
   <object width="100%" hight="100%" id="sentaku_hskaiSvg" type="image/svg+xml" data="..\_static\_images\sentaku_hskai.svg"></object>
