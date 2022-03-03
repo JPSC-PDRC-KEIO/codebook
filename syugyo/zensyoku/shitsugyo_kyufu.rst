@@ -16,6 +16,6 @@
 .. toctree::
    :maxdepth: 1
    :hidden:
-
-   /variable/Q159
-   /variable/Q160
+   
+   /variable/P159
+   /variable/P160

@@ -73,6 +73,8 @@
    /variable/Q316
    /variable/Q317
    /variable/Q318
+   /variable/Q319
+   /variable/Q320
    /variable/Q879A
    /variable/Q879B
    /variable/Q879C

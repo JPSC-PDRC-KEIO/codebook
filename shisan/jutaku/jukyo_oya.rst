@@ -43,7 +43,9 @@
    /variable/Q380
    /variable/Q1060
    /variable/Q1061
+   /variable/Q1062
    /variable/Q1068
    /variable/Q1057
    /variable/Q1058
+   /variable/Q1059
    /variable/Q1067
