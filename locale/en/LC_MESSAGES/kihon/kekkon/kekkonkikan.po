@@ -46,6 +46,6 @@ msgstr ""
 "asked about the age of marriage to their spouse at the time. However, "
 "there may have been a subsequent separation or bereavement, and they may "
 "have remarried. The duration of marriage to the spouse at the time of the"
-" survey should be determined from the change in /variable/Q1, which is "
+" survey should be determined from the change in  :doc:`/kihon/Q1`, which is "
 "the questionnaire item for each survey."
 

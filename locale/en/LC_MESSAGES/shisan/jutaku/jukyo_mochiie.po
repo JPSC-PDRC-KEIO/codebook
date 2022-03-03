@@ -211,7 +211,7 @@ msgid ""
 ":doc:`Q372 </variable/Q372>` は延べ床面積の実数値を各選択肢の範囲で分割したカ"
 "テゴリカル変数です。"
 msgstr ""
-"Q372 is a categorical variable that divides the actual value of total floor "
+":doc:`Q372 </variable/Q372>` is a categorical variable that divides the actual value of total floor "
 "space by the number range of each option."
 
 #: ../../shisan/jutaku/jukyo_mochiie.rst:60

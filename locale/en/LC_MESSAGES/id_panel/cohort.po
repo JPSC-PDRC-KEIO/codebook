@@ -33,7 +33,7 @@ msgstr ""
 "they were selected. The age between each group is designed to be "
 "continuous, so that the younger group is extracted. Therefore, these "
 "populations can be distinguished as birth cohorts. You can find out which"
-" cohort each subject belongs to by the respondent's ID."
+" cohort each subject belongs to by  :doc:`the respondent's ID </id_panel/ID>`."
 
 #: ../../id_panel/cohort.rst:10
 msgid "コーホートA"

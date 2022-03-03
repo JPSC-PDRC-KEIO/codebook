@@ -20,119 +20,112 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 "X-Generator: Poedit 3.0.1\n"
 
-#: ../../covid19/dekigoto.rst:3
+#: ../../covid19/dekigoto.rst:2
 msgid "新型コロナウイルス感染症の影響による出来事"
 msgstr "Events caused by COVID-19"
 
-#: ../../covid19/dekigoto.rst:7
+#: ../../covid19/dekigoto.rst:6
 msgid "質問文（複数回答）"
 msgstr "Question ( multiple answers )"
 
-#: ../../covid19/dekigoto.rst:8
-msgid ""
-"あなたのお宅では、新型コロナウイルス感染症の影響で、次のような出来事"
-"がありましたか。（〇はいくつでも）"
-msgstr ""
-"In your home, have any of the following events occurred as a result "
-"of COVID-19? (Circle as many as pertain to you)"
+#: ../../covid19/dekigoto.rst:9
+msgid "あなたのお宅では、新型コロナウイルス感染症の影響で、次のような出来事がありましたか。（〇はいくつでも）"
+msgstr "In your home, have any of the following events occurred as a result of COVID-19? (Circle as many as pertain to you)"
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:13
 msgid "項目"
 msgstr "Items"
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:13
 msgid "変数"
 msgstr "Variable"
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:16
 msgid "転居や地方への移住を検討した"
 msgstr "Considered moving or relocating to a rural area."
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:16
 msgid ":doc:`Q1293A </variable/Q1293A>`"
 msgstr ":doc:`Q1293A </variable/Q1293A>`"
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:17
 msgid "政府・自治体の要請をうけて休業した"
 msgstr ""
 "Closed at the request of the government and local authorities."
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:17
 msgid ":doc:`Q1293B </variable/Q1293B>`"
 msgstr ":doc:`Q1293B </variable/Q1293B>`"
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:18
 msgid "家計補填のため仕事を増やした・就職した"
 msgstr "Worked more or got a job to supplement family income."
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:18
 msgid ":doc:`Q1293C </variable/Q1293C>`"
 msgstr ":doc:`Q1293C </variable/Q1293C>`"
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:19
 msgid "家族の生活変化に対応するため仕事をやめた・減らした"
 msgstr "Stopped or reduced work to cope with changes in family life."
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:19
 msgid ":doc:`Q1293D </variable/Q1293D>`"
 msgstr ":doc:`Q1293D </variable/Q1293D>`"
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:20
 msgid "親や子ども、孫との面会を制限した"
-msgstr ""
-"Restricted visitation with parents, children, and grandchildren."
+msgstr "Restricted visitation with parents, children, and grandchildren."
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:20
 msgid ":doc:`Q1293E </variable/Q1293E>`"
 msgstr ":doc:`Q1293E </variable/Q1293E>`"
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:21
 msgid "子どもが特別奨学金や学費の減免を受けた"
 msgstr "Child received a special scholarship or tuition reduction."
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:21
 msgid ":doc:`Q1293F </variable/Q1293F>`"
 msgstr ":doc:`Q1293F </variable/Q1293F>`"
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:22
 msgid "子どもが進路変更（休学・退学を含む）や就職先などを変更した"
-msgstr ""
-"Child has changed career path (including leave of absence or "
-"withdrawal from school) or employment."
+msgstr "Child has changed career path (including leave of absence or withdrawal from school) or employment."
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:22
 msgid ":doc:`Q1293G </variable/Q1293G>`"
 msgstr ":doc:`Q1293G </variable/Q1293G>`"
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:23
 msgid "婚活を積極的におこなった"
 msgstr "Proactively seeking marriage"
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:23
 msgid ":doc:`Q1293H </variable/Q1293H>`"
 msgstr ":doc:`Q1293H </variable/Q1293H>`"
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:24
 msgid "婚約や結婚の時期を変更した"
 msgstr "Changed the time of engagement or marriage."
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:24
 msgid ":doc:`Q1293I </variable/Q1293I>`"
 msgstr ":doc:`Q1293I </variable/Q1293I>`"
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:25
 msgid "その他"
 msgstr "Other"
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:25
 msgid ":doc:`Q1293J </variable/Q1293J>`"
 msgstr ":doc:`Q1293J </variable/Q1293J>`"
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:26
 msgid "その他：特にない"
 msgstr "Other: Not particularly"
 
-#: ../../covid19/dekigoto.rst:1
+#: ../../covid19/dekigoto.rst:26
 msgid ":doc:`Q1293K </variable/Q1293K>`"
 msgstr ":doc:`Q1293K </variable/Q1293K>`"
 
@@ -140,10 +133,6 @@ msgstr ":doc:`Q1293K </variable/Q1293K>`"
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../covid19/dekigoto.rst:30
-msgid ""
-":doc:`Q1293H </variable/Q1293H>` 、 :doc:`Q1293I </variable/"
-"Q1293I>` は配偶者のいらっしゃらない方のみが対象です。"
-msgstr ""
-"The :doc:`Q1293H </variable/Q1293H> and :doc:`Q1293I </variable/"
-"Q1293I> are only for respondents without a spouse."
+#: ../../covid19/dekigoto.rst:32
+msgid ":doc:`Q1293H </variable/Q1293H>` 、 :doc:`Q1293I </variable/Q1293I>` は配偶者のいらっしゃらない方のみが対象です。"
+msgstr "The :doc:`Q1293H </variable/Q1293H>` and :doc:`Q1293I </variable/Q1293I>` are only for respondents without a spouse."
