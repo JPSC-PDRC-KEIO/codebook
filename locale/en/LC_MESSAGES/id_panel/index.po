@@ -20,4 +20,4 @@ msgstr ""
 
 #: ../../id_panel/index.rst:3
 msgid "データ識別用の変数"
-msgstr "Variable for data identification"
+msgstr "Variables for data identification"
