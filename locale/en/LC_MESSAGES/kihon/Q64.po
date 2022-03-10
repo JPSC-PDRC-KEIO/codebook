@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-25 12:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../kihon/Q64.rst:3
+msgid "住宅変化"
+msgstr "Change in residence"
+
+#: ../../kihon/Q64.rst:7
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../kihon/Q64.rst:9
+msgid "Q64"
+msgstr "Q64"
+
+#: ../../kihon/Q64.rst:12
+msgid "質問文"
+msgstr "Question"
+
+#: ../../kihon/Q64.rst:14
+msgid "調査票にない変数（合成変数）です。"
+msgstr "This variable is the composite variable that are not directly queried by the questionnaire."
+
+#: ../../kihon/Q64.rst:16
+msgid "詳しくは、 :term:`こちら<調査票にない変数（合成変数）>` をご覧下さい。"
+msgstr "Please refer to :term:`here<Variables not on the questionnaire (composite variables)>` for details."
+
+#: ../../kihon/Q64.rst:20
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../kihon/Q64.rst:22
+msgid "新規購入(借家→持ち家）"
+msgstr "New purchase (renting → owning)"
+
+#: ../../kihon/Q64.rst:23
+msgid "持ち家継続（同一住居）"
+msgstr "Continuing to own (same house)"
+
+#: ../../kihon/Q64.rst:24
+msgid "持ち家継続（買換）"
+msgstr "Continuing to own (new house)"
+
+#: ../../kihon/Q64.rst:25
+msgid "借家継続"
+msgstr "Continuing to rent"
+
+#: ../../kihon/Q64.rst:26
+msgid "新規借家（持ち家→借家）"
+msgstr "New rental (owning → renting)"
+
+#: ../../kihon/Q64.rst:27
+msgid "無回答"
+msgstr "No answer"
+
+#: ../../kihon/Q64.rst:31
+msgid "備考"
+msgstr "Remarks"
+
+#: ../../kihon/Q64.rst:33
+msgid "それぞれの作成条件は以下の通りです。"
+msgstr "Creation conditions are as follows."
+
+#: ../../kihon/Q64.rst:35
+msgid "（前年）:doc:`Q373 </variable/Q373>` =4-6→（当年）:doc:`Q373 </variable/Q373>` =1-3"
+msgstr "(previous year) :doc:`Q373 </variable/Q373>` =4-6 → (current year) :doc:`Q373 </variable/Q373>` =1-3"
+
+#: ../../kihon/Q64.rst:36
+msgid "（前年）:doc:`Q373 </variable/Q373>` =1-3→（当年）:doc:`Q373 </variable/Q373>` =1-3&2. :doc:`Q119 </variable/Q119>` =2"
+msgstr "(previous year) :doc:`Q373 </variable/Q373>` =1-3→ (current year) :doc:`Q373 </variable/Q373>` =1-3 & 2.  :doc:`Q119 </variable/Q119>` =2"
+
+#: ../../kihon/Q64.rst:37
+msgid "（前年）:doc:`Q373 </variable/Q373>` =1-3→（当年）:doc:`Q373 </variable/Q373>` =1-3&2. :doc:`Q119 </variable/Q119>` =1"
+msgstr "(previous year) :doc:`Q373 </variable/Q373>` =1-3 → (current year) :doc:`Q373 </variable/Q373>` =1-3 & 2. :doc:`Q119 </variable/Q119>` =1"
+
+#: ../../kihon/Q64.rst:38
+msgid "（前年）:doc:`Q373 </variable/Q373>` =4-6→（当年）:doc:`Q373 </variable/Q373>` =4-6"
+msgstr "(previous year) :doc:`Q373 </variable/Q373>` =4-6 → (current year) :doc:`Q373 </variable/Q373>` =4-6"
+
+#: ../../kihon/Q64.rst:39
+msgid "（前年）:doc:`Q373 </variable/Q373>` =1-3→（当年）:doc:`Q373 </variable/Q373>` =4-6"
+msgstr "(previous year) :doc:`Q373 </variable/Q373>` =1-3→ (current year) :doc:`Q373 </variable/Q373>` =4-6"
+
+#: ../../kihon/Q64.rst:40
+msgid "上記の該当質問のいずれかが無回答の対象者"
+msgstr "Respondents who did not answer any of the above questions"
+

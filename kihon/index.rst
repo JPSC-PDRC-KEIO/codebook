@@ -11,7 +11,11 @@
    Q7
    /variable/Q8
    gakureki/index
+   Q62
    kekkon/index
    syugaku
+   Q63
+   Q64
    kyoudai
    /multi_var/P28
+

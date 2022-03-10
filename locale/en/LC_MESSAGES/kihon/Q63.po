@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-25 12:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../kihon/Q63.rst:3
+msgid "職業変化"
+msgstr "Career change"
+
+#: ../../kihon/Q63.rst:7
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../kihon/Q63.rst:9
+msgid "Q63"
+msgstr "Q63"
+
+#: ../../kihon/Q63.rst:12
+msgid "質問文"
+msgstr "Question"
+
+#: ../../kihon/Q63.rst:14
+msgid "調査票にない変数（合成変数）です。"
+msgstr "This variable is the composite variable that are not directly queried by the questionnaire."
+
+#: ../../kihon/Q63.rst:16
+msgid "詳しくは、 :term:`こちら<調査票にない変数（合成変数）>` をご覧下さい。"
+msgstr "Please refer to :term:`here<Variables not on the questionnaire (composite variables)>` for details."
+
+#: ../../kihon/Q63.rst:20
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../kihon/Q63.rst:22
+msgid "継続就業（同一企業）"
+msgstr "Still employed (same company)"
+
+#: ../../kihon/Q63.rst:23
+msgid "継続就業（自営家従）"
+msgstr "Still employed (self-employed)"
+
+#: ../../kihon/Q63.rst:24
+msgid "転職（企業変更）"
+msgstr "Job change (changed companies)"
+
+#: ../../kihon/Q63.rst:25
+msgid "新規就業（無業→雇用就業）"
+msgstr "New job (unemployment → employment)"
+
+#: ../../kihon/Q63.rst:26
+msgid "新規就業（無業→自営家従）"
+msgstr "New job (unemployed → self-employed)"
+
+#: ../../kihon/Q63.rst:27
+msgid "離職（雇用就業→無業）"
+msgstr "Left work (employment → unemployment) "
+
+#: ../../kihon/Q63.rst:28
+msgid "離職（自営家従→無業）"
+msgstr "Left work (self-employed → unemployment) "
+
+#: ../../kihon/Q63.rst:29
+msgid "無業（無業→無業）"
+msgstr "Unemployed (unemployment → unemployment) "
+
+#: ../../kihon/Q63.rst:30
+msgid "無回答"
+msgstr "No answer"
+
+#: ../../kihon/Q63.rst:34
+msgid "備考"
+msgstr "Remarks"
+
+#: ../../kihon/Q63.rst:36
+msgid "それぞれの作成条件は以下の通りです。"
+msgstr "Creation conditions are as follows."
+
+#: ../../kihon/Q63.rst:38
+msgid "（前年） :doc:`Q859 </variable/Q859>` =6-12 → （当年） :doc:`Q859 </variable/Q859>` =6-12 かつ :doc:`Q179 </variable/Q179>` =1"
+msgstr "(previous year) :doc:`Q859 </variable/Q859>` =6-12 → (current year) :doc:`Q859 </variable/Q859>` =6-12 & :doc:`Q179 </variable/Q179>` =1"
+
+#: ../../kihon/Q63.rst:39
+msgid ""
+"（前年） :doc:`Q859 </variable/Q859>` =1-5, 13 → （当年） :doc:`Q859 </variable/Q859>` =1-5, 13"
+msgstr "(previous year) :doc:`Q859 </variable/Q859>` =1-5, 13 → (current year) :doc:`Q859 </variable/Q859>` =1-5, 13"
+
+#: ../../kihon/Q63.rst:43
+msgid ""
+"（前年） :doc:`Q859 </variable/Q859>` =1-5, 13 → （当年） :doc:`Q859 </variable/Q859>` =6-12"
+msgstr "(previous year) :doc:`Q859 </variable/Q859>` =1-5, 13 → (current year) :doc:`Q859 </variable/Q859>` =6-12"
+
+#: ../../kihon/Q63.rst:44
+msgid ""
+"（前年） :doc:`Q859 </variable/Q859>` =6-12  → （当年） :doc:`Q859 </variable/Q859>` =1-5, 13"
+msgstr "(previous year) :doc:`Q859 </variable/Q859>` =6-12 → (current year) :doc:`Q859 </variable/Q859>` =1-5, 13"
+
+#: ../../kihon/Q63.rst:45
+msgid ""
+"（前年） :doc:`Q859 </variable/Q859>` =6-12 → （当年） :doc:`Q859 </variable/Q859>` =6-12 かつ :doc:`Q179 </variable/Q179>` =2"
+msgstr "(previous year) :doc:`Q859 </variable/Q859>` =6-12 → (current year) :doc:`Q859 </variable/Q859>` =6-12 & :doc:`Q179 </variable/Q179>` = 2"
+
+#: ../../kihon/Q63.rst:47
+msgid ""
+"（前年） :doc:`Q142 </variable/Q142>` =3-5 → （当年） :doc:`Q859 </variable/Q859>` =6-12"
+msgstr "(previous year) :doc:`Q142 </variable/Q142>` =3-5 → (current year) :doc:`Q859 </variable/Q859>` =6-12"
+
+#: ../../kihon/Q63.rst:48
+msgid ""
+"（前年） :doc:`Q859 </variable/Q859>` =6-12 → （当年） :doc:`Q859 </variable/Q859>` =1-5, 13"
+msgstr "(previous year) :doc:`Q859 </variable/Q859>` = 6-12 → (current year) :doc:`Q859 </variable/Q859>` = 1-5, 13"
+
+#: ../../kihon/Q63.rst:49
+msgid ""
+"（前年） :doc:`Q859 </variable/Q859>` =6-12 → （当年） :doc:`Q142 </variable/Q142>` =3-5"
+msgstr "(previous year) :doc:`Q859 </variable/Q859>` = 6-12 → (current year) :doc:`Q142 </variable/Q142>` = 3-5"
+
+#: ../../kihon/Q63.rst:50
+msgid ""
+"（前年） :doc:`Q859 </variable/Q859>` =1-5, 13 → （当年） :doc:`Q142 </variable/Q142>` =3-5"
+msgstr "(previous year) :doc:`Q859 </variable/Q859>` = 1-5, 13 → (current year) :doc:`Q142 </variable/Q142>` = 3-5"
+
+#: ../../kihon/Q63.rst:51
+msgid ""
+"（前年） :doc:`Q142 </variable/Q142>` =3-5 → （当年） :doc:`Q142 </variable/Q142>` =3-5"
+msgstr "(previous year) :doc:`Q142 </variable/Q142>` = 3-5 → (current year) :doc:`Q142 </variable/Q142>` = 3-5"
+
+#: ../../kihon/Q63.rst:52
+msgid "上記の該当質問のいずれかが無回答の対象者"
+msgstr "Respondents who did not answer any of the above questions"
+
