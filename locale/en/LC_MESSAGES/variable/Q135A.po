@@ -36,8 +36,12 @@ msgid "質問文"
 msgstr "Question"
 
 #: ../../variable/Q135A.rst:18
-msgid "この1年間（調査前年10月～調査年9月）に手術や長期療養を要するような重い病気や、うつ状態など精神的な問題があった方にお伺いします。（3）療養生活の相談相手はだれでしたか。（〇はいくつでも）"
-msgstr "For those who have had serious illnesses or mental health issues such as depression, that require surgery or long-term medical treatment during the past year (October of the previous year to September of the survey year). (3) Who did you consult with during your treatment? (Circle as many as pertain to you)"
+msgid "この1年間（調査前年10月～調査年9月）に手術や長期療養を要するような重い病気や、うつ状態など精神的な問題があった方にお伺いします。"
+msgstr "For those who have had serious illnesses or mental health issues such as depression, that require surgery or long-term medical treatment during the past year (October of the previous year to September of the survey year). "
+
+#: ../../variable/Q135A.rst:18
+msgid "（3）療養生活の相談相手はだれでしたか。（〇はいくつでも）"
+msgstr "\(3) Who did you consult with during your treatment? (Circle as many as pertain to you)"
 
 #: ../../variable/Q135A.rst:21
 msgid "医師などの医療、福祉などの専門家"

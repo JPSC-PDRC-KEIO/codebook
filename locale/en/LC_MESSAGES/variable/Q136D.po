@@ -8,162 +8,172 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-03-11 10:49+0900\n"
 "PO-Revision-Date: 2022-02-07 13:45+0900\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 3.0.1\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q136D.rst:5
+#: ../../variable/Q136D.rst:6
 msgid "この1年の事故・災害・消費者トラブル：盗難・犯罪"
-msgstr "Accidents, disasters, or consumer problems during the past year: Theft/crime"
+msgstr ""
+"Accidents, disasters, or consumer problems during the past year: "
+"Theft/crime"
 
-#: ../../variable/Q136D.rst:9
+#: ../../variable/Q136D.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q136D.rst:11
+#: ../../variable/Q136D.rst:13
 msgid "Q136D"
 msgstr "Q136D"
 
-#: ../../variable/Q136D.rst:15
+#: ../../variable/Q136D.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q136D.rst:18
-msgid "この1年間（調査前年10月～調査年9月）にあなた自身が事故や災害、消費者トラブルにあわれた方にうかがいます。（1）その事故や災害、消費者トラブルは何でしたか。（〇はいくつでも）"
-msgstr "For those who have had accidents, disasters, or consumer problems during the past year (October of the previous year to September of the survey year) (1) What was the accident, disaster, or consumer problem? (Circle as many as pertain to you)"
-
 #: ../../variable/Q136D.rst:21
+msgid "この1年間（調査前年10月～調査年9月）にあなた自身が事故や災害、消費者トラブルにあわれた方にうかがいます。"
+msgstr ""
+"For those who have had accidents, disasters, or consumer problems during "
+"the past year (October of the previous year to September of the survey "
+"year)"
+
+#: ../../variable/Q136D.rst:23
+msgid "（1）その事故や災害、消費者トラブルは何でしたか。（〇はいくつでも）"
+msgstr "\(1) What was the accident, disaster, or consumer problem? (Circle "
+"as many as pertain to you)"
+
+#: ../../variable/Q136D.rst:25
 msgid "盗難・犯罪"
 msgstr "Theft/crime"
 
-#: ../../variable/Q136D.rst:27
+#: ../../variable/Q136D.rst:32
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q136D.rst:30
+#: ../../variable/Q136D.rst:34
 msgid "はい"
 msgstr "Yes"
 
-#: ../../variable/Q136D.rst:32
+#: ../../variable/Q136D.rst:35
 msgid "いいえ"
 msgstr "No"
 
-#: ../../variable/Q136D.rst:39
+#: ../../variable/Q136D.rst:43
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q136D.rst:45
+#: ../../variable/Q136D.rst:50
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q136D.rst:51
+#: ../../variable/Q136D.rst:57
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q136D.rst:52
+#: ../../variable/Q136D.rst:58
 msgid "3"
 msgstr "3"
 
-#: ../../variable/Q136D.rst:57
+#: ../../variable/Q136D.rst:64
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q136D.rst:63
+#: ../../variable/Q136D.rst:72
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q136D.rst:68
+#: ../../variable/Q136D.rst:77
 msgid "p2_1"
 msgstr "p2_1"
 
-#: ../../variable/Q136D.rst:70
+#: ../../variable/Q136D.rst:79
 msgid "p3_1"
 msgstr "p3_1"
 
-#: ../../variable/Q136D.rst:72
+#: ../../variable/Q136D.rst:81
 msgid "p4_1"
 msgstr "p4_1"
 
-#: ../../variable/Q136D.rst:74
+#: ../../variable/Q136D.rst:83
 msgid "p5a_1"
 msgstr "p5a_1"
 
-#: ../../variable/Q136D.rst:76
+#: ../../variable/Q136D.rst:85
 msgid "p6_1"
 msgstr "p6_1"
 
-#: ../../variable/Q136D.rst:78
+#: ../../variable/Q136D.rst:87
 msgid "p7_1"
 msgstr "p7_1"
 
-#: ../../variable/Q136D.rst:80
+#: ../../variable/Q136D.rst:89
 msgid "p8_1"
 msgstr "p8_1"
 
-#: ../../variable/Q136D.rst:82
+#: ../../variable/Q136D.rst:91
 msgid "p9_1"
 msgstr "p9_1"
 
-#: ../../variable/Q136D.rst:84
+#: ../../variable/Q136D.rst:93
 msgid "p10_1"
 msgstr "p10_1"
 
-#: ../../variable/Q136D.rst:86
+#: ../../variable/Q136D.rst:95
 msgid "p11ab_1"
 msgstr "p11ab_1"
 
-#: ../../variable/Q136D.rst:88
+#: ../../variable/Q136D.rst:97
 msgid "p12_1"
 msgstr "p12_1"
 
-#: ../../variable/Q136D.rst:90
+#: ../../variable/Q136D.rst:99
 msgid "p13_1"
 msgstr "p13_1"
 
-#: ../../variable/Q136D.rst:92
+#: ../../variable/Q136D.rst:101
 msgid "p14_1"
 msgstr "p14_1"
 
-#: ../../variable/Q136D.rst:94
+#: ../../variable/Q136D.rst:103
 msgid "p15_1"
 msgstr "p15_1"
 
-#: ../../variable/Q136D.rst:96
+#: ../../variable/Q136D.rst:105
 msgid "p16abc_1"
 msgstr "p16abc_1"
 
-#: ../../variable/Q136D.rst:98
+#: ../../variable/Q136D.rst:107
 msgid "p17_1"
 msgstr "p17_1"
 
-#: ../../variable/Q136D.rst:100
+#: ../../variable/Q136D.rst:109
 msgid "p18_1"
 msgstr "p18_1"
 
-#: ../../variable/Q136D.rst:102
+#: ../../variable/Q136D.rst:111
 msgid "p19_1"
 msgstr "p19_1"
 
-#: ../../variable/Q136D.rst:104
+#: ../../variable/Q136D.rst:113
 msgid "p20_1"
 msgstr "p20_1"
 
-#: ../../variable/Q136D.rst:106
+#: ../../variable/Q136D.rst:115
 msgid "p21abcd_1"
 msgstr "p21abcd_1"
 
-#: ../../variable/Q136D.rst:108
+#: ../../variable/Q136D.rst:117
 msgid "p22_1"
 msgstr "p22_1"
 
-#: ../../variable/Q136D.rst:110
+#: ../../variable/Q136D.rst:119
 msgid "p23_1"
 msgstr ""
 
@@ -172,3 +182,4 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
+
