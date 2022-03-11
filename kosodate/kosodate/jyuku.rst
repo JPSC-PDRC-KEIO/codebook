@@ -7,49 +7,17 @@
 -------------------------------------------------
 中学生以下のお子さんのうち一番年上のお子さんはは学習塾や予備校（家庭教師を含む）、英会話等に通っていますか。（〇はいくつでも）
 
-.. raw:: html
 
- <table border="1" style="border:#093350;">
- <thead>
- <tr>
- <th colspan="2">項目</th>
- <th>変数</th>
- </tr>
- </thead>
+.. csv-table::
+   :header: "項目", "変数名", "項目", "変数名"
+   :widths: 10, 10, 10, 10
+   
+   "普段から通っている", ":doc:`Q523A </variable/Q523A>`", "| 週に何回
+   | 月謝は月に", "| :doc:`Q523D </variable/Q523D>`
+   | :doc:`Q523E </variable/Q523E>`"
+   "夏休みや冬休みの時に通っている", ":doc:`Q523B </variable/Q523B>`", "費用は年に", ":doc:`Q523F </variable/Q523F>`"
+   "通っていない", ":doc:`Q523C </variable/Q523C>`", "", ""
 
- <tbody>
- <tr>
-  <td colspan="2">普段から通っている</td>
-  <td><a href="../variable/Q523A.html">Q523A</a></td>
- </tr>
- </tr>
- <tr>
-  <td></td>
-  <td>週に何回</td>
-  <td><a href="../variable/Q523D.html">Q523D</a></td>
-  </tr>
- <tr>
-  <td></td>
-  <td>月謝は月に</td>
-  <td><a href="../variable/Q523E.html">Q523E</a></td>
-  </tr>
-  <tr>
-  <td colspan="2">夏休みや冬休みの時に通っている</td>
-  <td><a href="../variable/Q523B.html">Q523B</a></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td>費用は年に</td>
-  <td><a href="../variable/Q523F.html">Q523F</a></td>
-  </tr>
-  <tr>
-  <td colspan="2">通っていない</td>
-   <td><a href="../variable/Q523C.html">Q523C</a></td>
-  </tr>
-  </tbody>
-  </table>
-
-|
 
 その理由
 ^^^^^^^^^^^^^^^^^^
