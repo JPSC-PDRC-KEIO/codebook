@@ -97,3 +97,7 @@ msgstr ""
 msgid ""
 "**用語がわからないときは**:|emspace| :doc:`glossary`"
 msgstr "**Getting meaning**:|emspace| :doc:`glossary`"
+
+#: ../../index.rst:59
+msgid ":doc:`変数一覧 </var_indexes/index>`"
+msgstr ":doc:`List of variables</var_indexes/index>`"
