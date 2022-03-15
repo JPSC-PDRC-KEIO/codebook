@@ -9,97 +9,98 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-03-14 11:08+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
-#: ../../variable/Q293D.rst:5
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:5
 msgid "支出月額：生活費支出（本人のキャリアアップ）"
-msgstr ""
+msgstr "Monthly expenditure: cost of living expenditure (career advancement for yourself)"
 
-#: ../../variable/Q293D.rst:9
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q293D.rst:11
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:11
 msgid "Q293D"
 msgstr ""
 
-#: ../../variable/Q293D.rst:15
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q293D.rst:18
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:18
 msgid "お宅では、この9月にどのくらい支出、貯蓄（生命保険などの保険料の支払いを含む）、ローン返済をしましたか。"
-msgstr ""
+msgstr "How much did your household spend, save (including life insurance and other insurance payments), and pay off loans last September?"
 
-#: ../../variable/Q293D.rst:21
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:21
 msgid "妻のための支出のうちキャリアアップのための支出（資格取得や職業のため）"
-msgstr ""
+msgstr "Expenditures for career advancement (for qualification or development) among expenditures for wife"
 
-#: ../../variable/Q293D.rst:27
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q293D.rst:29
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:29
 msgid "＿ ＿ 万 ＿ 千円"
-msgstr ""
+msgstr "_ _ _ ,000 yen"
 
-#: ../../variable/Q293D.rst:35
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:35
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q293D.rst:36
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:36
 msgid "998"
 msgstr ""
 
-#: ../../variable/Q293D.rst:41
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:41
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q293D.rst:47
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:47
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q293D.rst:48
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:48
 msgid "999"
-msgstr ""
+msgstr "999"
 
-#: ../../variable/Q293D.rst:53
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:53
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q293D.rst:59
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:59
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q293D.rst:64
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:64
 msgid "p2_1"
-msgstr ""
+msgstr "p2_1"
 
-#: ../../variable/Q293D.rst:66
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:66
 msgid "p3_1"
-msgstr ""
+msgstr "p3_1"
 
-#: ../../variable/Q293D.rst:68
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:68
 msgid "p4_1"
-msgstr ""
+msgstr "p4_1"
 
-#: ../../variable/Q293D.rst:70
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:70
 msgid "p5a_1"
-msgstr ""
+msgstr "p5a_1"
 
-#: ../../variable/Q293D.rst:72
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q293D.rst:72
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #~ msgid "変数名: Q293D"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

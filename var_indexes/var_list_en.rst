@@ -1079,71 +1079,70 @@ list of variables
 * `Q281B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q281B.html>`_ : 雇用保険失業給付受給月数（配偶者無職）〔第18回～〕
 * `Q282     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q282.html>`_ : 収入管理タイプ18：本人のこづかいを分けたか
 * `Q284     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q284.html>`_ : 収入管理タイプ4・5・15・16・17・18：配偶者のこづかい
-* `Q291     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q291.html>`_ : 家計管理が好きか
-* `Q292     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q292.html>`_ : 家計管理は権利か義務か
-* `Q293A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q293A.html>`_ : 支出月額：生活費その他の支出
-* `Q293B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q293B.html>`_ : 支出月額：生活費支出（家族共通）
-* `Q293C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q293C.html>`_ : 支出月額：生活費支出（本人のため）
-* `Q293D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q293D.html>`_ : 支出月額：生活費支出（本人のキャリアアップ）
-* `Q293E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q293E.html>`_ : 支出月額：生活費支出（配偶者のため）
-* `Q293F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q293F.html>`_ : 支出月額：生活費支出（子どものため）
-* `Q293G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q293G.html>`_ : 支出月額：生活費支出（それ以外の方のため）
+* `Q291     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q291.html>`_ : Do you like to manage the family budget?
+* `Q292     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q292.html>`_ : Is household budget management a right or a duty?
+* `Q293A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q293A.html>`_ : Monthly expenditures: Living expenses and other expenditures
+* `Q293B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q293B.html>`_ : Monthly expenses: Living expenses (combined family expenses)
+* `Q293C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q293C.html>`_ : Monthly expenditure: Cost of living expenditure (for yourself)
+* `Q293D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q293D.html>`_ : Monthly expenditure: cost of living expenditure (career advancement for yourself)
+* `Q293E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q293E.html>`_ : Monthly Expenses: Cost of Living Expenses (for spouse)
+* `Q293F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q293F.html>`_ : Monthly expenditure: Cost of living expenditure (for children)
+* `Q293G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q293G.html>`_ : Monthly Expenses: Cost-of-living expenditures (for persons other than you, your husband, and children)
 * `Q294A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294A.html>`_ : 支出月額：貯蓄
-* `Q294B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294B.html>`_ : 支出月額：貯蓄（家族共通）
-* `Q294C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294C.html>`_ : 支出月額：貯蓄（本人のため）
-* `Q294D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294D.html>`_ : 支出月額：貯蓄（配偶者のため）
-* `Q294E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294E.html>`_ : 支出月額：貯蓄（子どものため）
-* `Q294F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294F.html>`_ : 支出月額：貯蓄（家族共通）
-* `Q295     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q295.html>`_ : 支出月額：ローン返済
-* `Q296A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q296A.html>`_ : 年収：勤め先の収入（配偶者）
-* `Q296B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q296B.html>`_ : 年収：事業収入（配偶者）
-* `Q296C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q296C.html>`_ : 年収：財産（配偶者）
-* `Q296D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q296D.html>`_ : 年収：社会保障給付（配偶者）
-* `Q296E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q296E.html>`_ : 年収：その他（配偶者）
-* `Q296F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q296F.html>`_ : 年収：合計（配偶者）
-* `Q297A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297A.html>`_ : 年収：勤め先の収入
-* `Q297B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297B.html>`_ : 年収：事業収入
-* `Q297C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297C.html>`_ : 年収：財産
-* `Q297D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297D.html>`_ : 年収：社会保障給付
-* `Q297E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297E.html>`_ : 年収：その他
-* `Q297F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297F.html>`_ : 年収：合計
-* `Q298A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q298A.html>`_ : 年収：財産（夫婦共通）
-* `Q298B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q298B.html>`_ : 年収：社会保障給付（夫婦共通）
-* `Q298C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q298C.html>`_ : 年収：その他（夫婦共通）
-* `Q298D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q298D.html>`_ : 年収：合計（夫婦共通）
-* `Q299A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q299A.html>`_ : 年収：給与（他の世帯員）
-* `Q299B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q299B.html>`_ : 年収：事業（他の世帯員）
-* `Q299C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q299C.html>`_ : 年収：財産（他の世帯員）
-* `Q299D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q299D.html>`_ : 年収：社会保障給付（他の世帯員）
-* `Q299E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q299E.html>`_ : 年収：その他（他の世帯員）
-* `Q299F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q299F.html>`_ : 年収：合計（他の世帯員）
-* `Q300A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300A.html>`_ : 夫婦以外に収入があった世帯員：夫の父
-* `Q300B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300B.html>`_ : 夫婦以外に収入があった世帯員：夫の母
-* `Q300C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300C.html>`_ : 夫婦以外に収入があった世帯員：あなたの父
-* `Q300D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300D.html>`_ : 夫婦以外に収入があった世帯員：あなたの母
-* `Q300E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300E.html>`_ : 夫婦以外に収入があった世帯員：夫の祖父母
-* `Q300F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300F.html>`_ : 夫婦以外に収入があった世帯員：あなたの祖父母
-* `Q300G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300G.html>`_ : 夫婦以外に収入があった世帯員：夫やあなたの兄弟姉妹
-* `Q300H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300H.html>`_ : 夫婦以外に収入があった世帯員：あなた方ご夫婦の子ども
-* `Q300I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300I.html>`_ : 夫婦以外に収入があった世帯員：その他
-* `Q300J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300J.html>`_ : 本人以外に収入があった世帯員：父
-* `Q300K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300K.html>`_ : 本人以外に収入があった世帯員：母
-* `Q300L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300L.html>`_ : 本人以外に収入があった世帯員：祖父母
-* `Q300M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300M.html>`_ : 本人以外に収入があった世帯員：兄弟姉妹
-* `Q300N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300N.html>`_ : 本人以外に収入があった世帯員：その他〔第2～4回〕
-* `Q300O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300O.html>`_ : 夫婦以外に収入があった世帯員：子ども
-* `Q300P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300P.html>`_ : 本人以外に収入があった世帯員：その他
-* `Q301B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q301B.html>`_ : 税金・社会保険料：支払額（配偶者）
-* `Q301C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q301C.html>`_ : 税金・社会保険料：当月分（配偶者）
-* `Q301D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q301D.html>`_ : 税金・社会保険料：支払いなし（配偶者）
-* `Q302B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q302B.html>`_ : 税金・社会保険料：支払額
-* `Q302C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q302C.html>`_ : 税金・社会保険料　当月分
+* `Q294B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294B.html>`_ : Monthly expenses: savings (combined family savings)
+* `Q294C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294C.html>`_ : Monthly expenditure: Savings (for yourself)
+* `Q294D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294D.html>`_ : Monthly Expenditure: Savings (for spouse)
+* `Q294E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294E.html>`_ : Monthly Expenditure: Savings (for children)
+* `Q294F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294F.html>`_ : Monthly expenses: savings (combined family savings)
+* `Q295     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q295.html>`_ : Monthly Expenditure: Loan Repayment
+* `Q296A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q296A.html>`_ : Annual income: income from employer (spouse)
+* `Q296B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q296B.html>`_ : Annual income: Business income (spouse)
+* `Q296C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q296C.html>`_ : Annual income: Property (spouse)
+* `Q296D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q296D.html>`_ : Annual income: Social security benefits (spouse)
+* `Q296E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q296E.html>`_ : Annual income: Other (spouse)
+* `Q296F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q296F.html>`_ : Annual income: Total (spouse)
+* `Q297A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297A.html>`_ : Annual income: Income from employer (yourself)
+* `Q297B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297B.html>`_ : Annual income: Business income (yourself)
+* `Q297C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297C.html>`_ : Annual Income: Property (yourself)
+* `Q297D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297D.html>`_ : Annual income: Social security benefits (yourself)
+* `Q297E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297E.html>`_ : Annual income: Other (yourself)
+* `Q297F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297F.html>`_ : Annual income: Total (yourself)
+* `Q298A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q298A.html>`_ : Annual income: Property (for both husband and wife)
+* `Q298B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q298B.html>`_ : Annual income: Social security benefits (for both husband and wife)
+* `Q298C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q298C.html>`_ : Annual income: Other (for both husband and wife)
+* `Q298D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q298D.html>`_ : Annual income: Total (for both husband and wife)
+* `Q299A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q299A.html>`_ : Annual income: Salary (other household members)
+* `Q299B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q299B.html>`_ : Annual income: Business (other household members)
+* `Q299C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q299C.html>`_ : Annual income: Property (other household members)
+* `Q299D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q299D.html>`_ : Annual income: Social security benefits (other household members)
+* `Q299E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q299E.html>`_ : Annual income: Other (other household members)
+* `Q299F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q299F.html>`_ : Annual income: Total (other household members)
+* `Q300A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300A.html>`_ : Household member with income other than husband and wife: Husband’s father
+* `Q300B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300B.html>`_ : Household member with income other than husband and wife: Husband’Household member with income other than husband and wife: Your father
+* `Q300D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300D.html>`_ : Household member with income other than husband and wife: Your mother
+* `Q300E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300E.html>`_ : Household members with income other than husband and wife: Husband’s grandparents
+* `Q300F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300F.html>`_ : Household members with income other than husband and wife: Your grandparents
+* `Q300G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300G.html>`_ : Household members with income other than husband and wife: Husband’s or your siblings
+* `Q300H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300H.html>`_ : Household members with income other than husband and wife: Your children
+* `Q300I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300I.html>`_ : Household members with income other than husband and wife: Other
+* `Q300J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300J.html>`_ : Household members with income other than you: Your father
+* `Q300K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300K.html>`_ : Household members with income other than you: Your mother
+* `Q300L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300L.html>`_ : Household members with income other than you: Your grandparents
+* `Q300M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300M.html>`_ : Household members with income other than you: Your siblings
+* `Q300N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300N.html>`_ : Household members with income other than you: Other [Wave2-4]
+* `Q300O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300O.html>`_ : Household members with income other than husband and wife: You children
+* `Q300P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300P.html>`_ : Household members with income other than you: Other
+* `Q301B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q301B.html>`_ : Taxes and social insurance premiums: Amount paid (spouse)
+* `Q301C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q301C.html>`_ : Taxes and social insurance premiums: Current month (spouse)
+* `Q301D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q301D.html>`_ : Taxes and social insurance: No payment (spouse)
+* `Q302B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q302B.html>`_ : Taxes and social insurance premiums: Amount paid
+* `Q302C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q302C.html>`_ : Taxes and social insurance premiums: Current month
 * `Q302D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q302D.html>`_ : 税金・社会保険料：支払いなし
-* `Q303B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q303B.html>`_ : 税金・社会保険料：支払額（他の世帯員)
-* `Q303C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q303C.html>`_ : 税金・社会保険料：当月分（他の世帯員）
+* `Q303B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q303B.html>`_ : Taxes and social insurance: Amount paid （other household members)
+* `Q303C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q303C.html>`_ : Taxes and social insurance premiums: Current month (other household members)
 * `Q303D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q303D.html>`_ : 税金・社会保険料：支払いなし（他の世帯員）
 * `Q304     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q304.html>`_ : 加入中の公的医療保険
-* `Q305     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q305.html>`_ : 公的年金保険への加入の有無
+* `Q305     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q305.html>`_ : Participation in public pension insurance or not
 * `Q306     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q306.html>`_ : 雇用保険加入〔第1～第10回〕
 * `Q307A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q307A.html>`_ : 月収：勤め人か否か（配偶者）
 * `Q307B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q307B.html>`_ : 月収（配偶者）

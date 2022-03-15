@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-03-14 13:36+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q300K.rst:6
 msgid "本人以外に収入があった世帯員：母"
-msgstr ""
+msgstr "Household members with income other than you: Your mother"
 
 #: ../../variable/Q300K.rst:11
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q300K.rst:21
 msgid "その方はどなたですか。（該当する方すべてに〇）"
-msgstr ""
+msgstr "Who is this person? (Circle all that pertain to it.)"
 
 #: ../../variable/Q300K.rst:24
 msgid "母"
-msgstr ""
+msgstr "Your mother"
 
 #: ../../variable/Q300K.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,11 +49,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q300K.rst:33
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q300K.rst:34
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q300K.rst:42
 msgid "桁あふれコード"
@@ -67,7 +69,7 @@ msgstr "No response code"
 
 #: ../../variable/Q300K.rst:57
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../variable/Q300K.rst:63
 msgid "備考"
@@ -206,4 +208,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

@@ -9,127 +9,129 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-03-15 10:39+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
-#: ../../variable/Q305.rst:5
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:5
 msgid "公的年金保険への加入の有無"
-msgstr ""
+msgstr "Participation in public pension insurance or not"
 
-#: ../../variable/Q305.rst:9
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q305.rst:11
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:11
 msgid "Q305"
 msgstr ""
 
-#: ../../variable/Q305.rst:15
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q305.rst:18
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:18
 msgid "あなたご自身は現在、公的年金制度（国民年金、厚生年金、共済年金）にどのような資格で加入していますか。（〇は１つだけ）"
-msgstr ""
+msgstr "In what capacity are you currently a member of the public pension system (National Pension Plan, Employees' Pension Plan, or Mutual Aid Pension Plan)? (Circle only one)"
 
-#: ../../variable/Q305.rst:24
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q305.rst:27
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:27
 msgid "第1号被保険者〔第2号、第3号以外の方：自営業者や自営業者の妻など）"
-msgstr ""
+msgstr "Category I insured [excluding Category II and Category III insured: self-employed worker, wife of self-employed worker, etc.)"
 
-#: ../../variable/Q305.rst:29
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:29
 msgid "第2号被保険者（厚生年金や共済組合の加入者：会社員、団体職員、公務員など）"
-msgstr ""
+msgstr "Category II insured (member of employees' pension or mutual aid association: company employee, an association staff member, civil servant, etc.)"
 
-#: ../../variable/Q305.rst:31
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:31
 msgid "第3号被保険者（主婦などで第3号被保険者の届けを市町村に出している方：会社員、団体職員、公務員などの夫に扶養されている妻）"
-msgstr ""
+msgstr "Category III insured (housewife or other person who has submitted a notification of third insured person to the municipality: wife who is supported by her husband who is a company employee, an association staff member, or a civil servant, etc.)"
 
-#: ../../variable/Q305.rst:33
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:33
 msgid "加入していない〔第3号被保険者でも年金保険料納付を免除されているのでもなく、保険料を支払っていない方）"
-msgstr ""
+msgstr "Not enrolled [neither Category III insured nor exempt from paying pension premiums, but have not paid premiums)"
 
-#: ../../variable/Q305.rst:40
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q305.rst:46
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q305.rst:52
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:52
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q305.rst:53
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:53
 msgid "5"
-msgstr ""
+msgstr "5"
 
-#: ../../variable/Q305.rst:58
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q305.rst:64
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:64
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q305.rst:69
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:69
 msgid "p1_2"
 msgstr ""
 
-#: ../../variable/Q305.rst:71
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:71
 msgid "p2_2"
 msgstr ""
 
-#: ../../variable/Q305.rst:73
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:73
 msgid "p3_2"
 msgstr ""
 
-#: ../../variable/Q305.rst:75
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:75
 msgid "p4_2"
 msgstr ""
 
-#: ../../variable/Q305.rst:77
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:77
 msgid "p5a_2"
 msgstr ""
 
-#: ../../variable/Q305.rst:79
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:79
 msgid "p5b_2"
 msgstr ""
 
-#: ../../variable/Q305.rst:81
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:81
 msgid "p6_2"
 msgstr ""
 
-#: ../../variable/Q305.rst:83
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:83
 msgid "p7_2"
 msgstr ""
 
-#: ../../variable/Q305.rst:85
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:85
 msgid "p8_2"
 msgstr ""
 
-#: ../../variable/Q305.rst:87
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:87
 msgid "p9_2"
 msgstr ""
 
-#: ../../variable/Q305.rst:89
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:89
 msgid "p10_2"
 msgstr ""
 
-#: ../../variable/Q305.rst:91
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:91
 msgid "p11ab_2"
 msgstr ""
 
-#: ../../variable/Q305.rst:93
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q305.rst:93
 msgid "p11c_2"
 msgstr ""
 
@@ -138,4 +140,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
