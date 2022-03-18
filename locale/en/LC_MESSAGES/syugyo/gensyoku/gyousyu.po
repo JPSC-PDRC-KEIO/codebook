@@ -35,7 +35,6 @@ msgstr ""
 "employer.)"
 
 #: ../../syugyo/gensyoku/gyousyu.rst:12
-#, fuzzy
 msgid ""
 "第1回から第20回までは12分類（:doc:`Q146 "
 "</variable/Q146>`）で尋ねていて、第21回からは16分類（:doc:`Q1182 "

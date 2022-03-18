@@ -8,17 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-25 16:31+0900\n"
+"POT-Creation-Date: 2022-03-03 11:53+0900\n"
 "PO-Revision-Date: 2020-03-26 11:02+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 2.3\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../kihon_kazoku/oya_giri.rst:3
 msgid "親の情報（義親）"
@@ -29,8 +28,7 @@ msgid "親は健在か"
 msgstr "Alive or not"
 
 #: ../../kihon_kazoku/oya_giri.rst:19
-msgid ""
-"義父・義母ともに「死亡時期」は、変数名が下記のように変化しています。"
+msgid "義父・義母ともに「死亡時期」は、変数名が下記のように変化しています。"
 msgstr ""
 "For both parents-in-law, the variable name of “Time of death” have "
 "changed as follows."
@@ -64,23 +62,21 @@ msgid ":doc:`Q702 </variable/Q702>`"
 msgstr ""
 
 #: ../../kihon_kazoku/oya_giri.rst:1
-msgid ":doc:`Q894 </variable/Q89>`"
-msgstr ""
+msgid ":doc:`Q894 </variable/Q894>`"
+msgstr "Mothe-in-law :doc:`Q839 </variable/Q839>`"
 
 #: ../../kihon_kazoku/oya_giri.rst:30
 msgid "親の経歴"
 msgstr "Background"
 
-#: ../../kihon_kazoku/oya_giri.rst:44
-msgid ""
-"「最終学歴」については、第1～第4回調査では、中退が卒業に含まれていま"
-"す。また、変数名と選択肢が下記のように変化しています。"
+#: ../../kihon_kazoku/oya_giri.rst:45
+msgid "「最終学歴」については、第1～第4回調査では、中退が卒業に含まれています。また、変数名と選択肢が下記のように変化しています。"
 msgstr ""
-"Regarding \"Educational achievement at the last school\", dropouts "
-"are included in graduation in the1st wave. Also, the variable names "
-"and choices have changed as follows."
+"Regarding \"Educational achievement at the last school\", dropouts are "
+"included in graduation in the1st wave. Also, the variable names and "
+"choices have changed as follows."
 
-#: ../../kihon_kazoku/oya_giri.rst:47
+#: ../../kihon_kazoku/oya_giri.rst:48
 msgid "最終学歴（義父・義母）"
 msgstr "Final education (father-in-law and mother-in-law)"
 
@@ -115,8 +111,8 @@ msgstr "Choices"
 #: ../../kihon_kazoku/oya_giri.rst
 msgid "1.中学（旧制中学校・高等小学校）卒業"
 msgstr ""
-"1.Junior-high school (junior high school/senior elementary school in "
-"old-education-system)"
+"1.Junior-high school (junior high school/senior elementary school in old-"
+"education-system)"
 
 #: ../../kihon_kazoku/oya_giri.rst
 msgid "2.高校（旧制中学）卒業"
@@ -125,8 +121,8 @@ msgstr "2.High school (junior high school in old-education-system)"
 #: ../../kihon_kazoku/oya_giri.rst
 msgid "3.短大・高専（旧制高校）卒業"
 msgstr ""
-"3.Junior college or College of technology (high school in old-"
-"education-system)"
+"3.Junior college or College of technology (high school in old-education-"
+"system)"
 
 #: ../../kihon_kazoku/oya_giri.rst
 msgid "4.大学・大学院卒業"
@@ -135,8 +131,8 @@ msgstr "4.Graduated from university and graduate school"
 #: ../../kihon_kazoku/oya_giri.rst
 msgid "1.中学校（旧制小学校・高等小学校）"
 msgstr ""
-"1.Junior-high school (junior high school/senior elementary school in "
-"old-education-system)"
+"1.Junior-high school (junior high school/senior elementary school in old-"
+"education-system)"
 
 #: ../../kihon_kazoku/oya_giri.rst
 msgid "2.高等学校（旧制中学）"
@@ -166,11 +162,11 @@ msgstr "7.Graduate School"
 msgid "8.その他"
 msgstr "8.Other"
 
-#: ../../kihon_kazoku/oya_giri.rst:68
+#: ../../kihon_kazoku/oya_giri.rst:69
 msgid "「職務」については、選択肢が下記のように変化しています。"
 msgstr "The choicies of \"Employment category\" has changed as follow."
 
-#: ../../kihon_kazoku/oya_giri.rst:70
+#: ../../kihon_kazoku/oya_giri.rst:71
 msgid "職務（義父・義母）"
 msgstr "Type of employment (father-in-law and mother-in-law)"
 
@@ -205,3 +201,7 @@ msgstr "4.Part-time employee"
 #: ../../kihon_kazoku/oya_giri.rst
 msgid "5.自営・家族従業者"
 msgstr "5.Self-employed or working for the family business"
+
+#~ msgid ":doc:`Q894 </variable/Q89>`"
+#~ msgstr ""
+

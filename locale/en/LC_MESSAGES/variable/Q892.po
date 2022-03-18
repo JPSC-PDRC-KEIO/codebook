@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"POT-Creation-Date: 2022-03-03 11:53+0900\n"
 "PO-Revision-Date: 2021-10-04 14:16+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -20,8 +20,8 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../variable/Q892.rst:6
-msgid "最終学校卒業年（配偶者）"
-msgstr "Year of graduation from the last school attended (spouse)"
+msgid "最終学校卒業年（配偶者）〔第7回～〕"
+msgstr "Year of graduation from the last school attended (spouse) [7th wave - ]"
 
 #: ../../variable/Q892.rst:11
 msgid "変数名"
