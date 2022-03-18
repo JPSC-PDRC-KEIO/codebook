@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: 2022-03-15 11:49+0900\n"
+"PO-Revision-Date: 2022-03-18 13:56+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -19,9 +19,9 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 "X-Generator: Poedit 3.0.1\n"
 
-#: ../../variable/Q297A.rst:5
+#: ../../variable/Q297A.rst:6
 msgid "年収：勤め先の収入（本人）"
-msgstr "Annual income: Income from employer (yourself)"
+msgstr "Annual income: Income from employer (yours)"
 
 #: ../../variable/Q297A.rst:11
 msgid "変数名"

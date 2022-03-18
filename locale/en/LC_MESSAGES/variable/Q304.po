@@ -9,139 +9,141 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-03-07 13:55+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
-#: ../../variable/Q304.rst:5
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:5
 msgid "加入中の公的医療保険"
-msgstr ""
+msgstr "Current public medical insurance"
 
-#: ../../variable/Q304.rst:9
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q304.rst:11
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:11
 msgid "Q304"
 msgstr ""
 
-#: ../../variable/Q304.rst:15
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q304.rst:18
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:18
 msgid "現在、あなたご自身は、どのような公的医療保障制度に加入していますか。（1～6も〇を１つ、1～4の場合は、さらに1か2に〇を１つ）"
-msgstr ""
+msgstr "What public health care coverage do you yourself currently have? (If 1-6, circle one, if 1-4, circle one more for 1 or 2)"
 
-#: ../../variable/Q304.rst:24
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q304.rst:27
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:27
 msgid "会社の健康保険"
-msgstr ""
+msgstr "Company health insurance"
 
-#: ../../variable/Q304.rst:29
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:29
 msgid "国民健康保険"
-msgstr ""
+msgstr "National Health Insurance"
 
-#: ../../variable/Q304.rst:31
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:31
 msgid "船員保険"
-msgstr ""
+msgstr "Seamen's insurance"
 
-#: ../../variable/Q304.rst:33
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:33
 msgid "共済保険・共済制度"
-msgstr ""
+msgstr "Mutual Insurance and Mutual Aid Programs"
 
-#: ../../variable/Q304.rst:35
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:35
 msgid "医療扶助"
-msgstr ""
+msgstr "Medical Assistance"
 
-#: ../../variable/Q304.rst:37
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:37
 msgid "どれにも加入していない"
-msgstr ""
+msgstr "None of the above"
 
-#: ../../variable/Q304.rst:44
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:44
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q304.rst:50
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:50
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q304.rst:51
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:51
 msgid "7"
-msgstr ""
+msgstr "7"
 
-#: ../../variable/Q304.rst:56
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q304.rst:57
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:57
 msgid "8"
-msgstr ""
+msgstr "8"
 
-#: ../../variable/Q304.rst:62
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:62
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q304.rst:68
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:68
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q304.rst:73
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:73
 msgid "p1_2"
 msgstr ""
 
-#: ../../variable/Q304.rst:75
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:75
 msgid "p2_2"
 msgstr ""
 
-#: ../../variable/Q304.rst:77
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:77
 msgid "p3_2"
 msgstr ""
 
-#: ../../variable/Q304.rst:79
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:79
 msgid "p4_2"
 msgstr ""
 
-#: ../../variable/Q304.rst:81
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:81
 msgid "p5a_2"
 msgstr ""
 
-#: ../../variable/Q304.rst:83
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:83
 msgid "p5b_2"
 msgstr ""
 
-#: ../../variable/Q304.rst:85
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:85
 msgid "p6_2"
 msgstr ""
 
-#: ../../variable/Q304.rst:87
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:87
 msgid "p7_2"
 msgstr ""
 
-#: ../../variable/Q304.rst:89
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:89
 msgid "p8_2"
 msgstr ""
 
-#: ../../variable/Q304.rst:91
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:91
 msgid "p9_2"
 msgstr ""
 
-#: ../../variable/Q304.rst:93
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:93
 msgid "p10_2"
 msgstr ""
 
-#: ../../variable/Q304.rst:95
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:95
 msgid "p11ab_2"
 msgstr ""
 
-#: ../../variable/Q304.rst:97
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q304.rst:97
 msgid "p11c_2"
 msgstr ""
 
@@ -150,4 +152,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

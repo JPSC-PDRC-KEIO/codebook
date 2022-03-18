@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: 2022-03-14 11:54+0900\n"
+"PO-Revision-Date: 2022-03-18 13:59+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q297D.rst:6
 msgid "年収：社会保障給付（本人）"
-msgstr "Annual income: Social security benefits (yourself)"
+msgstr "Annual income: Social security benefits (yours)"
 
 #: ../../variable/Q297D.rst:11
 msgid "変数名"

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: 2022-03-14 11:53+0900\n"
+"PO-Revision-Date: 2022-03-18 13:57+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q297C.rst:6
 msgid "年収：財産（本人）"
-msgstr "Annual Income: Property (yourself)"
+msgstr "Annual Income: Property (yours)"
 
 #: ../../variable/Q297C.rst:11
 msgid "変数名"

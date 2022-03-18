@@ -1,5 +1,5 @@
 ======================================
-list of variables
+List of variables
 ======================================
 
 * `P1A      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P1A.html>`_ : Number of siblings: male
@@ -1101,12 +1101,12 @@ list of variables
 * `Q296D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q296D.html>`_ : Annual income: Social security benefits (spouse)
 * `Q296E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q296E.html>`_ : Annual income: Other (spouse)
 * `Q296F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q296F.html>`_ : Annual income: Total (spouse)
-* `Q297A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297A.html>`_ : Annual income: Income from employer (yourself)
-* `Q297B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297B.html>`_ : Annual income: Business income (yourself)
-* `Q297C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297C.html>`_ : Annual Income: Property (yourself)
-* `Q297D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297D.html>`_ : Annual income: Social security benefits (yourself)
-* `Q297E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297E.html>`_ : Annual income: Other (yourself)
-* `Q297F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297F.html>`_ : Annual income: Total (yourself)
+* `Q297A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297A.html>`_ : Annual income: Income from employer (yours)
+* `Q297B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297B.html>`_ : Annual income: Business income (yours)
+* `Q297C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297C.html>`_ : Annual Income: Property (yours)
+* `Q297D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297D.html>`_ : Annual income: Social security benefits (yours)
+* `Q297E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297E.html>`_ : Annual income: Other (yours)
+* `Q297F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q297F.html>`_ : Annual income: Total (yours)
 * `Q298A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q298A.html>`_ : Annual income: Property (for both husband and wife)
 * `Q298B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q298B.html>`_ : Annual income: Social security benefits (for both husband and wife)
 * `Q298C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q298C.html>`_ : Annual income: Other (for both husband and wife)

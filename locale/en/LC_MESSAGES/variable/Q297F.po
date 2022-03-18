@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: 2022-03-14 11:56+0900\n"
+"PO-Revision-Date: 2022-03-18 14:02+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -20,8 +20,8 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q297F.rst:6
-msgid "年収：合計"
-msgstr "Annual income: Total (yourself)"
+msgid "年収：合計（本人）"
+msgstr "Annual income: Total (yours)"
 
 #: ../../variable/Q297F.rst:11
 msgid "変数名"
