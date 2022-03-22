@@ -35,18 +35,8 @@ msgstr ""
 "employer.)"
 
 #: ../../syugyo/gensyoku/gyousyu.rst:12
-msgid ""
-"第1回から第20回までは12分類（:doc:`Q146 "
-"</variable/Q146>`）で尋ねていて、第21回からは16分類（:doc:`Q1182 "
-"</variable/Q1182>`）で尋ねています。 "
-"ただし第21回以降のデータにも、職業に関する自由記述や新分類での回答をもとにし、旧分類（12分類）に従って分類した変数（:doc:`Q146 "
-"</variable/Q146>`）も作成しています。"
-msgstr ""
-"From the 1st to the 20th, categorized into 12 choices ( :doc:`Q146 "
-"</variable/Q146>`), and from the 21st, 16 choices ( :doc:`Q1182 "
-"</variable/Q1182>`) categorized into into. However, the variable based on"
-" the old classification (Q146) is retained in the data from the 21st "
-"wave."
+msgid "第1回から第20回までは12分類（ :doc:`Q146 </variable/Q146>` ）で尋ねていて、第21回からは16分類（ :doc:`Q1182 </variable/Q1182>` ）で尋ねています。 ただし第21回以降のデータにも、職業に関する自由記述や新分類での回答をもとにし、旧分類（12分類）に従って分類した変数（ :doc:`Q146 </variable/Q146>` ）も作成しています。"
+msgstr "From the 1st to the 20th, categorized into 12 choices ( :doc:`Q146 </variable/Q146>` ), and from the 21st, 16 choices ( :doc:`Q1182 </variable/Q1182>` ) categorized into into. However, the variable based on the old classification  ( :doc:`Q146 </variable/Q146>` ) is retained in the data from the 21st wave."
 
 #: ../../syugyo/gensyoku/gyousyu.rst:15
 msgid ""
