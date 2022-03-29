@@ -1143,32 +1143,32 @@ List of variables
 * `Q303D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q303D.html>`_ : 税金・社会保険料：支払いなし（他の世帯員）
 * `Q304     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q304.html>`_ : 加入中の公的医療保険
 * `Q305     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q305.html>`_ : Participation in public pension insurance or not
-* `Q306     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q306.html>`_ : 雇用保険加入〔第1～第10回〕
-* `Q307A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q307A.html>`_ : 月収：勤め人か否か（配偶者）
-* `Q307B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q307B.html>`_ : 月収（配偶者）
-* `Q308A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q308A.html>`_ : 月収：勤め人か否か
-* `Q308B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q308B.html>`_ : 月収
-* `Q309A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q309A.html>`_ : 実親からの経済的援助：住宅ローン返済
-* `Q309B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q309B.html>`_ : 実親からの経済的援助：家賃、地代
-* `Q309C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q309C.html>`_ : 実親からの経済的援助：生活費
-* `Q309D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q309D.html>`_ : 実親からの経済的援助：その他
-* `Q309E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q309E.html>`_ : 実親からの経済的援助：ない
-* `Q309F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q309F.html>`_ : 実親からの経済的援助：子どものための費用
-* `Q310A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q310A.html>`_ : 義親からの経済的援助：住宅ローン返済
-* `Q310B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q310B.html>`_ : 義親からの経済的援助：家賃、地代
-* `Q310C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q310C.html>`_ : 義親からの経済的援助：生活費
-* `Q310D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q310D.html>`_ : 義親からの経済的援助：その他
-* `Q310E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q310E.html>`_ : 義親からの経済的援助：ない
-* `Q310F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q310F.html>`_ : 義親からの経済的援助：子どものための費用
-* `Q311     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q311.html>`_ : 支出月額（無配偶）：親に渡した分の有無
-* `Q312     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q312.html>`_ : 支出月額（無配偶）：親に渡した金額
-* `Q313     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q313.html>`_ : 支出月額（無配偶）：こづかい受け取りの有無
-* `Q314     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q314.html>`_ : 支出月額（無配偶）：こづかい金額
-* `Q315     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q315.html>`_ : 支出月額（無配偶)：支出計
-* `Q316     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q316.html>`_ : 支出月額（無配偶）：キャリアアップ
-* `Q317     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q317.html>`_ : 支出月額（無配偶)：貯蓄
-* `Q318     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q318.html>`_ : 支出月額（無配偶）：総額
-* `Q322     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q322.html>`_ : 最終学歴（義母）〔第2回〕
+* `Q306     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q306.html>`_ : Employment insurance enrollment [Wave1-10]Employment insurance enrollment [Wave1-10]
+* `Q307A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q307A.html>`_ : Monthly income: Employed or not (spouse)
+* `Q307B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q307B.html>`_ : Monthly income (spouse)
+* `Q308A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q308A.html>`_ : Monthly income: Employed or not (spouse)
+* `Q308B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q308B.html>`_ : Monthly income
+* `Q309A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q309A.html>`_ : Financial assistance from own parents: Mortgage repayment
+* `Q309B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q309B.html>`_ : Financial assistance from own parents: Rent, land rent
+* `Q309C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q309C.html>`_ : Financial assistance from own parents: Living expenses
+* `Q309D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q309D.html>`_ : Financial assistance from own parents: Other
+* `Q309E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q309E.html>`_ : Financial assistance from your own parents: None
+* `Q309F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q309F.html>`_ : Financial assistance from own parents: Expenses for children
+* `Q310A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q310A.html>`_ : Financial Assistance from Parents-in-law: Mortgage Repayment
+* `Q310B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q310B.html>`_ : Financial assistance from parents-in-law: Rent, ground rent
+* `Q310C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q310C.html>`_ : Financial assistance from parents in law: Living expenses
+* `Q310D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q310D.html>`_ : Financial assistance from parents in law: Other
+* `Q310E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q310E.html>`_ : Financial assistance from parents in law: None
+* `Q310F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q310F.html>`_ : Financial assistance from parents in law: Expenses for children
+* `Q311     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q311.html>`_ : Monthly Expenditures (unmarried): Have you given it to your parents?
+* `Q312     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q312.html>`_ : Monthly Expenditure (unmarried): Amount given to parents
+* `Q313     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q313.html>`_ : Monthly Expenditure (no spouse): Did you receive an allowance?
+* `Q314     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q314.html>`_ : Monthly expenditure (unmarried): Amount of allowance
+* `Q315     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q315.html>`_ : Monthly Expenditure (unmarried): Total Expenditure
+* `Q316     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q316.html>`_ : Monthly Expenditure (unmaried): Career Advancement
+* `Q317     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q317.html>`_ : Monthly Expenditure (unmarried): Saving
+* `Q318     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q318.html>`_ : Monthly Expenditures (unmarried): Total
+* `Q322     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q322.html>`_ : Highest level of education(mother-in-law) [Wave 2]
 * `Q323     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q323.html>`_ : 実親年収
 * `Q324     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q324.html>`_ : 義親年収（有配偶）
 * `Q325     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q325.html>`_ : Financial support from parents (no spouse)

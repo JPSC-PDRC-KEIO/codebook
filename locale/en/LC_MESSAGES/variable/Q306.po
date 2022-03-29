@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-03-29 09:16+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q306.rst:6
 msgid "雇用保険加入〔第1～第10回〕"
-msgstr ""
+msgstr "Employment insurance enrollment [Wave1-10]"
 
 #: ../../variable/Q306.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q306.rst:21
 msgid "あなたは雇用保険に加入していますか。"
-msgstr ""
+msgstr "Are you covered by unemployment insurance?"
 
 #: ../../variable/Q306.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,15 +45,15 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q306.rst:30
 msgid "会社の雇用保険に加入している"
-msgstr ""
+msgstr "I am covered by the company's unemployment insurance."
 
 #: ../../variable/Q306.rst:31
 msgid "船員保険に加入している"
-msgstr ""
+msgstr "I have seamen's insurance."
 
 #: ../../variable/Q306.rst:32
 msgid "どれにも加入していない"
-msgstr ""
+msgstr "None of the above"
 
 #: ../../variable/Q306.rst:40
 msgid "桁あふれコード"
@@ -67,7 +69,7 @@ msgstr "No response code"
 
 #: ../../variable/Q306.rst:55
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../variable/Q306.rst:61
 msgid "備考"
@@ -75,7 +77,7 @@ msgstr "Remarks"
 
 #: ../../variable/Q306.rst:64
 msgid "就業に関する1年間の変化を聞いています。"
-msgstr ""
+msgstr "We asked about changes during the year related to employment."
 
 #: ../../variable/Q306.rst:72
 msgid "収録シート"
@@ -136,4 +138,3 @@ msgstr ""
 
 #~ msgid "|nt2|"
 #~ msgstr ""
-

@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-03-11 14:22+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q310D.rst:6
 msgid "義親からの経済的援助：その他"
-msgstr ""
+msgstr "Financial assistance from parents in law: Other"
 
 #: ../../variable/Q310D.rst:11
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q310D.rst:21
 msgid "それでは、ご主人の親から一部でも出してもらっているものはありますか。（〇はいくつでも）"
-msgstr ""
+msgstr "Now, are there any items that are paid for even partially by your husband's parents? (Circle as many as pertain to you)"
 
 #: ../../variable/Q310D.rst:24
 msgid "その他（〔具体的に〕）"
-msgstr ""
+msgstr "Other (specify)"
 
 #: ../../variable/Q310D.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,11 +49,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q310D.rst:33
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q310D.rst:34
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q310D.rst:42
 msgid "桁あふれコード"
@@ -67,7 +69,7 @@ msgstr "No response code"
 
 #: ../../variable/Q310D.rst:57
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../variable/Q310D.rst:63
 msgid "備考"
@@ -216,4 +218,3 @@ msgstr ""
 
 #~ msgid "子どものための費用（教育費、服、その他の費用など）"
 #~ msgstr ""
-
