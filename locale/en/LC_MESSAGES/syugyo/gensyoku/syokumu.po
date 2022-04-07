@@ -20,7 +20,7 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 
 #: ../../syugyo/gensyoku/syokumu.rst:3
-msgid "職務"
+msgid "職務（従業上の地位）"
 msgstr "Type of employee"
 
 #: ../../syugyo/gensyoku/syokumu.rst:6
