@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-17 10:58+0900\n"
-"PO-Revision-Date: 2022-02-21 15:11+0900\n"
+"PO-Revision-Date: 2022-04-09 12:53+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../syugyo/gensyoku/syokumu.rst:3
 msgid "職務（従業上の地位）"
-msgstr "Type of employee"
+msgstr "Type of employment (employee status)"
 
 #: ../../syugyo/gensyoku/syokumu.rst:6
 msgid "質問文"
@@ -29,7 +29,7 @@ msgstr "Question"
 
 #: ../../syugyo/gensyoku/syokumu.rst:8
 msgid "あなたの職務は次のどれですか。"
-msgstr "What category of employee are you?"
+msgstr "Which of the following describes your responsibilities?"
 
 #: ../../syugyo/gensyoku/syokumu.rst:12
 msgid "|nt1|"

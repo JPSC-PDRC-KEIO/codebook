@@ -9,99 +9,101 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-03-28 14:31+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
-#: ../../variable/Q330B.rst:5
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:5
 msgid "生前贈与期待：実物資産（配偶者の親）"
-msgstr ""
+msgstr "Expectations for advancement: Real assets (spouse's parents)"
 
-#: ../../variable/Q330B.rst:9
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q330B.rst:11
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:11
 msgid "Q330B"
 msgstr ""
 
-#: ../../variable/Q330B.rst:15
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q330B.rst:18
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:18
 msgid "あなた方ご夫婦は、ご主人の親から金融資産や実物資産をもらうことを期待していますか。"
-msgstr ""
+msgstr "Do you and your husband expect to receive financial or real assets from your parents?"
 
-#: ../../variable/Q330B.rst:21
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:21
 msgid "生前贈与として・実物資産"
-msgstr ""
+msgstr "As advanccement / real assets"
 
-#: ../../variable/Q330B.rst:27
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q330B.rst:29
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:29
 msgid "＿ ＿ ＿ ＿ 万円"
-msgstr ""
+msgstr "_ _ _ _0 ,000 yen"
 
-#: ../../variable/Q330B.rst:35
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:35
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q330B.rst:36
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:36
 msgid "9998"
 msgstr ""
 
-#: ../../variable/Q330B.rst:41
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:41
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q330B.rst:47
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:47
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q330B.rst:48
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:48
 msgid "9999"
 msgstr ""
 
-#: ../../variable/Q330B.rst:53
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:53
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q330B.rst:59
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:59
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q330B.rst:64
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:64
 msgid "p2_2"
 msgstr ""
 
-#: ../../variable/Q330B.rst:66
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:66
 msgid "p5b_2"
 msgstr ""
 
-#: ../../variable/Q330B.rst:68
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:68
 msgid "p6_2"
 msgstr ""
 
-#: ../../variable/Q330B.rst:70
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:70
 msgid "p7_2"
 msgstr ""
 
-#: ../../variable/Q330B.rst:72
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:72
 msgid "p8_2"
 msgstr ""
 
-#: ../../variable/Q330B.rst:74
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:74
 msgid "p9_2"
 msgstr ""
 
-#: ../../variable/Q330B.rst:76
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q330B.rst:76
 msgid "p10_2"
 msgstr ""
 
@@ -110,4 +112,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

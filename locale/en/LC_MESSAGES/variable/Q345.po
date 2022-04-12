@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-04-01 14:10+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q345.rst:6
 msgid "有価証券売却の有無（個人として）"
-msgstr ""
+msgstr "Have you sold any marketable securities? (as your own)"
 
 #: ../../variable/Q345.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q345.rst:21
 msgid "お宅では、預貯金や有価証券をどのくらいお持ちですか。B.そのうちあなた（妻）個人のものとしてお持ちのものについてお答え下さい。（6）この1年間（調査前年10月～調査年9月）に有価証券を売却しましたか。（売却後購入した場合も売却に含めます）"
-msgstr ""
+msgstr "How much savings or marketable securities do you have in your home? B. Please answer the following questions about your (wife's) personal savings and marketable securities. (6) Have you sold any marketable securities during the past year (from October of the previous year to September of the survey year)? (Include purchases after sales.)"
 
 #: ../../variable/Q345.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,11 +45,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q345.rst:30
 msgid "売却した"
-msgstr ""
+msgstr "Yes, I have."
 
 #: ../../variable/Q345.rst:31
 msgid "売却しなかった"
-msgstr ""
+msgstr "No, I haven't."
 
 #: ../../variable/Q345.rst:39
 msgid "桁あふれコード"
@@ -63,7 +65,7 @@ msgstr "No response code"
 
 #: ../../variable/Q345.rst:54
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../variable/Q345.rst:60
 msgid "備考"
@@ -209,4 +211,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

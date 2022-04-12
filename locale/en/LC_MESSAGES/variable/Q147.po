@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../variable/Q147.rst:6
 msgid "職務〔第1～第17回〕"
-msgstr "Category of employee [Wave1 - Wave17]"
+msgstr "Type of employee [Wave1 - Wave17]"
 
 #: ../../variable/Q147.rst:11
 msgid "変数名"

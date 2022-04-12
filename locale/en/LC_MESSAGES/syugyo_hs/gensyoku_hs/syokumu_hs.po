@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../syugyo_hs/gensyoku_hs/syokumu_hs.rst:3
 msgid "職務（従業上の地位）（配偶者）"
-msgstr "Category of employee (spouse)"
+msgstr "Type of employment (employee status) (spouse)"
 
 #: ../../syugyo_hs/gensyoku_hs/syokumu_hs.rst:6
 msgid "質問文"

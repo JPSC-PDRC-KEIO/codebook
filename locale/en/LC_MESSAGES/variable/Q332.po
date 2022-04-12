@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-04-11 10:58+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q332.rst:6
 msgid "預貯金の額（世帯として）"
-msgstr ""
+msgstr "The amount of deposits or savings (as a household)"
 
 #: ../../variable/Q332.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q332.rst:21
 msgid "お宅では、預貯金や有価証券をどのくらいお持ちですか。A.お宅（あなた方ご夫婦および子ども）でお持ちのものの全体についてお答え下さい。（2）現在の預貯金の額はどのくらいですか。"
-msgstr ""
+msgstr "How much savings and marketable securities do you have as a household? A. Please answer the following questions about the total amount of money your household (you, your husband, and children) have."
 
 #: ../../variable/Q332.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,7 +45,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q332.rst:30
 msgid "＿ ＿ ＿ 0 万円"
-msgstr ""
+msgstr "_ _ _00 ,000 yen"
 
 #: ../../variable/Q332.rst:37
 msgid "桁あふれコード"
@@ -209,4 +211,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-04-11 11:19+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q347.rst:6
 msgid "貯蓄目標額"
-msgstr ""
+msgstr "Savings target amount"
 
 #: ../../variable/Q347.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q347.rst:21
 msgid "あなた方ご夫婦が現在考えておられる貯蓄の合計目標額はいくらぐらいですか。"
-msgstr ""
+msgstr "What is the total savings goal that you and your spouse are currently considering?"
 
 #: ../../variable/Q347.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,7 +45,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q347.rst:30
 msgid "＿ ＿ 億 ＿ ＿ 00万円"
-msgstr ""
+msgstr "_ _ _ _ 000,000 yen"
 
 #: ../../variable/Q347.rst:37
 msgid "桁あふれコード"
@@ -209,4 +211,3 @@ msgstr ""
 
 #~ msgid "＿＿ 億 ＿＿00万円"
 #~ msgstr ""
-

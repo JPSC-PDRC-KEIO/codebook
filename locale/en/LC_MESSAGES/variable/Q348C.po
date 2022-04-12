@@ -17,135 +17,135 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: ../../variable/Q348C.rst:5
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:5
 msgid "貯蓄目的　3番目"
 msgstr ""
 
-#: ../../variable/Q348C.rst:9
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q348C.rst:11
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:11
 msgid "Q348C"
 msgstr ""
 
-#: ../../variable/Q348C.rst:15
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q348C.rst:18
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:18
 msgid "あなた方ご夫婦はどのような目的で貯蓄なさっていますか。下にあげてある中から、一番大きな目的、2番目の目的、3番目の目的をお答えください。（それぞれあてはまるところに〇）"
 msgstr ""
 
-#: ../../variable/Q348C.rst:24
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:24
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q348C.rst:27
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:27
 msgid "夫婦の老後の生活に備えるため"
 msgstr ""
 
-#: ../../variable/Q348C.rst:29
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:29
 msgid "病気、災害、その他不時の出費に備えるため"
 msgstr ""
 
-#: ../../variable/Q348C.rst:31
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:31
 msgid "子どもの教育費に"
 msgstr ""
 
-#: ../../variable/Q348C.rst:33
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:33
 msgid "子どもの結婚資金に"
 msgstr ""
 
-#: ../../variable/Q348C.rst:35
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:35
 msgid "マイホーム（土地を含む）の取得（建て替え、買い替えを含む）のため"
 msgstr ""
 
-#: ../../variable/Q348C.rst:37
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:37
 msgid "耐久消費財の購入資金に"
 msgstr ""
 
-#: ../../variable/Q348C.rst:39
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:39
 msgid "レジャー資金に"
 msgstr ""
 
-#: ../../variable/Q348C.rst:41
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:41
 msgid "納税資金に"
 msgstr ""
 
-#: ../../variable/Q348C.rst:43
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:43
 msgid "独立自営のための資金に"
 msgstr ""
 
-#: ../../variable/Q348C.rst:45
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:45
 msgid "特に目的はないが貯蓄をしていれば安心だから"
 msgstr ""
 
-#: ../../variable/Q348C.rst:47
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:47
 msgid "遺産として残すため"
 msgstr ""
 
-#: ../../variable/Q348C.rst:49
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:49
 msgid "その他"
 msgstr ""
 
-#: ../../variable/Q348C.rst:56
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:56
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q348C.rst:62
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:62
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q348C.rst:68
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:68
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q348C.rst:69
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:69
 msgid "13"
 msgstr ""
 
-#: ../../variable/Q348C.rst:74
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:74
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q348C.rst:80
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:80
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q348C.rst:85
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:85
 msgid "p1_2"
 msgstr ""
 
-#: ../../variable/Q348C.rst:87
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:87
 msgid "p2_2"
 msgstr ""
 
-#: ../../variable/Q348C.rst:89
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:89
 msgid "p3_2"
 msgstr ""
 
-#: ../../variable/Q348C.rst:91
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:91
 msgid "p4_2"
 msgstr ""
 
-#: ../../variable/Q348C.rst:93
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:93
 msgid "p5a_2"
 msgstr ""
 
-#: ../../variable/Q348C.rst:95
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:95
 msgid "p5b_2"
 msgstr ""
 
-#: ../../variable/Q348C.rst:97
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:97
 msgid "p6_2"
 msgstr ""
 
-#: ../../variable/Q348C.rst:99
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:99
 msgid "p7_2"
 msgstr ""
 
-#: ../../variable/Q348C.rst:101
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q348C.rst:101
 msgid "p8_2"
 msgstr ""
 

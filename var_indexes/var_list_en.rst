@@ -762,7 +762,7 @@ List of variables
 * `Q144     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q144.html>`_ : Occupation [1st - 3th waves]
 * `Q145     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q145.html>`_ : Number of employees at work
 * `Q146     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q146.html>`_ : Industries ( Wave 1–20 )
-* `Q147     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q147.html>`_ : category of employee [1st wave - 17th wave]
+* `Q147     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q147.html>`_ : Type of employee [1st wave - 17th wave]
 * `Q148     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q148.html>`_ : How salary is paid
 * `Q149     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q149.html>`_ : 月給・週給（月当たり額)
 * `Q150     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q150.html>`_ : 日給額
@@ -930,7 +930,7 @@ List of variables
 * `Q215     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q215.html>`_ : 職業 [第1回–第3回]
 * `Q216     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q216.html>`_ : 従業員数（配偶者）
 * `Q217     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q217.html>`_ : 業種（配偶者）[第1回–第20回]
-* `Q218     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q218.html>`_ : 就業形態（配偶者）
+* `Q218     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q218.html>`_ : Type of employee (spouse) [Wave1 - Wave17]
 * `Q219     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q219.html>`_ : 給与支給方法（配偶者）
 * `Q220     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q220.html>`_ : 月当たり額（月給・週給：配偶者）
 * `Q221     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q221.html>`_ : 日給額（配偶者）
@@ -1169,49 +1169,49 @@ List of variables
 * `Q317     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q317.html>`_ : Monthly Expenditure (unmarried): Saving
 * `Q318     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q318.html>`_ : Monthly Expenditures (unmarried): Total
 * `Q322     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q322.html>`_ : Highest level of education(mother-in-law) [Wave 2]
-* `Q323     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q323.html>`_ : 実親年収
-* `Q324     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q324.html>`_ : 義親年収（有配偶）
+* `Q323     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q323.html>`_ : Annual income of your parents
+* `Q324     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q324.html>`_ : Annual income of parents-in-law (married)
 * `Q325     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q325.html>`_ : Financial support from parents (no spouse)
 * `Q326     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q326.html>`_ : Pocket money from parents (single)
-* `Q327A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q327A.html>`_ : 生前贈与：金融資産（本人の親）
-* `Q327B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q327B.html>`_ : 生前贈与：実物資産（本人の親）
-* `Q327C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q327C.html>`_ : 遺産相続：金融資産（本人の親）
-* `Q327D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q327D.html>`_ : 遺産相続：実物資産（本人の親）
-* `Q328A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q328A.html>`_ : 生前贈与期待：金融資産（本人の親）
-* `Q328B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q328B.html>`_ : 生前贈与期待：実物資産（本人の親）
-* `Q328C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q328C.html>`_ : 遺産相続期待：金融資産（本人の親）
-* `Q328D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q328D.html>`_ : 遺産相続期待：実物資産（本人の親）
-* `Q329A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q329A.html>`_ : 生前贈与：金融資産（配偶者の親）
-* `Q329B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q329B.html>`_ : 生前贈与：実物資産（配偶者の親）
-* `Q329C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q329C.html>`_ : 遺産相続：金融資産（配偶者の親）
-* `Q329D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q329D.html>`_ : 遺産相続：実物資産（配偶者の親）
-* `Q330A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q330A.html>`_ : 生前贈与期待：金融資産（配偶者の親）
-* `Q330B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q330B.html>`_ : 生前贈与期待：実物資産（配偶者の親）
-* `Q330C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q330C.html>`_ : 遺産相続期待：金融資産（配偶者の親）
-* `Q330D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q330D.html>`_ : 遺産相続期待：実物資産（配偶者の親）
-* `Q331     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q331.html>`_ : 預貯金の有無（世帯として）
-* `Q332     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q332.html>`_ : 預貯金の額（世帯として）
-* `Q333     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q333.html>`_ : 有価証券の有無（世帯として）
-* `Q334     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q334.html>`_ : 有価証券の保有額（世帯として）
-* `Q335     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q335.html>`_ : 有価証券購入の有無（世帯として）
-* `Q338     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q338.html>`_ : 有価証券の売却額（世帯として）
-* `Q339     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q339.html>`_ : 預貯金の有無（個人として）
-* `Q340     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q340.html>`_ : 預貯金の額（個人として）
-* `Q341     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q341.html>`_ : 有価証券の有無（個人として）
-* `Q342     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q342.html>`_ : 有価証券の保有額（個人として）
-* `Q343     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q343.html>`_ : 有価証券購入の有無（個人として）
-* `Q345     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q345.html>`_ : 有価証券売却の有無（個人として）
-* `Q347     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q347.html>`_ : 貯蓄目標額
-* `Q350A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q350A.html>`_ : 貯蓄目標額：夫婦の老後の生活
-* `Q350C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q350C.html>`_ : 貯蓄目的　夫婦の老後の生活
-* `Q351A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q351A.html>`_ : 貯蓄目標額：不時の出費
-* `Q351C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q351C.html>`_ : 貯蓄目的：病気、災害、その他不時の出費
-* `Q352A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q352A.html>`_ : 貯蓄目標額：子どもの教育費
-* `Q352C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q352C.html>`_ : 貯蓄目的：子どもの教育費
-* `Q353A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q353A.html>`_ : 貯蓄目標額：子どもの結婚資金
-* `Q353C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q353C.html>`_ : 貯蓄目的：子どもの結婚資金
-* `Q354A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q354A.html>`_ : 貯蓄目標額：マイホームの取得
-* `Q354C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q354C.html>`_ : 貯蓄目的：マイホームの取得
+* `Q327A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q327A.html>`_ : Advancement: financial assets (your parents)
+* `Q327B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q327B.html>`_ : Advancement: Real assets (your parents)
+* `Q327C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q327C.html>`_ : Inheritance: financial assets (your parents)
+* `Q327D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q327D.html>`_ : Inheritance: Real assets (your parents)
+* `Q328A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q328A.html>`_ : Expected advancement: Financial Assets (your parents)
+* `Q328B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q328B.html>`_ : Expected advancement : Financial assets (your parents)
+* `Q328C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q328C.html>`_ : Expectations for inheritance: financial assets (your parents)
+* `Q328D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q328D.html>`_ : Expectations for inheritance: Real assets (your parents)
+* `Q329A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q329A.html>`_ : Advancement: financial assets (spouse’s parents)
+* `Q329B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q329B.html>`_ : Advancement: Real assets (spouse’s parents)
+* `Q329C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q329C.html>`_ : Inheritance: financial assets (spouse’s parents)
+* `Q329D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q329D.html>`_ : Inheritance: Real assets (spouse’s parents)
+* `Q330A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q330A.html>`_ : Expected advancement: financial assets (spouse’s parents)
+* `Q330B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q330B.html>`_ : Expectations for advancement: Real assets (spouse’s parents)
+* `Q330C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q330C.html>`_ : Expected inheritance: financial assets (spouse’s parents)
+* `Q330D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q330D.html>`_ : Expected inheritance: Real assets (spouse’s parents)
+* `Q331     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q331.html>`_ : Availability of deposits or savings (as a household)
+* `Q332     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q332.html>`_ : The amount of deposits or savings (as a household)
+* `Q333     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q333.html>`_ : Availability of marketable securities (as a household)
+* `Q334     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q334.html>`_ : Amount of marketable securities held (as a household)
+* `Q335     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q335.html>`_ : Availability of marketable securities? (as a household)
+* `Q338     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q338.html>`_ : Amount of securities sold (as a household)
+* `Q339     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q339.html>`_ : Availability of deposits or savings (as an individual)
+* `Q340     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q340.html>`_ : Amount of personal deposits or savings
+* `Q341     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q341.html>`_ : Availability of personal marketable securities
+* `Q342     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q342.html>`_ : Amount of personal marketable securities held
+* `Q343     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q343.html>`_ : Availability of personal marketable securities
+* `Q345     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q345.html>`_ : Have you sold any marketable securities? (as your own)
+* `Q347     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q347.html>`_ : Savings target amount
+* `Q350A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q350A.html>`_ : Savings target amount: You and your spouse’s retirement
+* `Q350C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q350C.html>`_ : Purpose of saving: You and your spouse’s retirement
+* `Q351A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q351A.html>`_ : Savings target amount: Unforeseen expenses
+* `Q351C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q351C.html>`_ : Purpose of saving: illness, disaster, or other unforeseen expenses
+* `Q352A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q352A.html>`_ : Savings target amount: Education expenses for children
+* `Q352C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q352C.html>`_ : Purpose of saving: Education expenses for children
+* `Q353A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q353A.html>`_ : Savings target amount: Children’s wedding fund
+* `Q353C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q353C.html>`_ : Purpose of saving: Children’s wedding fund
+* `Q354A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q354A.html>`_ : Savings target amount: Acquisition of own home
+* `Q354C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q354C.html>`_ : Purpose of saving: Acquisition of own home
 * `Q355A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q355A.html>`_ : 貯蓄目標額：耐久消費財の購入資金
 * `Q355C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q355C.html>`_ : 貯蓄目的：耐久消費財の購入資金
 * `Q356A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q356A.html>`_ : 貯蓄目標額：レジャー資金
@@ -2127,14 +2127,14 @@ List of variables
 * `Q1095F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1095F.html>`_ : 入学費用のまかない方：子ども自身
 * `Q1095G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1095G.html>`_ : 入学費用のまかない方：準備の必要なし
 * `Q1095H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1095H.html>`_ : 入学費用のまかない方：その他
-* `Q1112    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1112.html>`_ : 職務〔第18回～〕
+* `Q1112    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1112.html>`_ : Type of employee [Wave18-]
 * `Q1113    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1113.html>`_ : 雇用保険失業給付受給の有無（新たに就職）
 * `Q1114    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1114.html>`_ : 派遣社員就業からの変更の有無
 * `Q1115    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1115.html>`_ : 派遣元変更の有無
 * `Q1116    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1116.html>`_ : 派遣先変更の有無
 * `Q1117    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1117.html>`_ : 派遣就業からの変更の有無（無職）
 * `Q1118    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1118.html>`_ : 雇用保険失業給付受給の有無（無職）〔第18回～〕
-* `Q1119    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1119.html>`_ : 職務（配偶者）
+* `Q1119    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1119.html>`_ : Type of employee (spouse) [Wave18 - ]
 * `Q1120    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1120.html>`_ : 雇用保険失業給付受給の有無（配偶者有職）〔第18回～］
 * `Q1121    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1121.html>`_ : 派遣就業からの変更の有無（配偶者有職）
 * `Q1122    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1122.html>`_ : 派遣元変更の有無（配偶者有職）

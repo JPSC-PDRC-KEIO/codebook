@@ -17,87 +17,87 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: ../../variable/Q352B.rst:5
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:5
 msgid "達成予定時期　子どもの教育費"
 msgstr ""
 
-#: ../../variable/Q352B.rst:9
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:9
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q352B.rst:11
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:11
 msgid "Q352B"
 msgstr ""
 
-#: ../../variable/Q352B.rst:15
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:15
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q352B.rst:21
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:21
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q352B.rst:29
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:29
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q352B.rst:35
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:35
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q352B.rst:41
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:41
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q352B.rst:47
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:47
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q352B.rst:53
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:53
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q352B.rst:58
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:58
 msgid "p1_2"
 msgstr ""
 
-#: ../../variable/Q352B.rst:60
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:60
 msgid "p2_2"
 msgstr ""
 
-#: ../../variable/Q352B.rst:62
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:62
 msgid "p3_2"
 msgstr ""
 
-#: ../../variable/Q352B.rst:64
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:64
 msgid "p4_2"
 msgstr ""
 
-#: ../../variable/Q352B.rst:66
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:66
 msgid "p5a_2"
 msgstr ""
 
-#: ../../variable/Q352B.rst:68
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:68
 msgid "p5b_2"
 msgstr ""
 
-#: ../../variable/Q352B.rst:70
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:70
 msgid "p6_2"
 msgstr ""
 
-#: ../../variable/Q352B.rst:72
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:72
 msgid "p7_2"
 msgstr ""
 
-#: ../../variable/Q352B.rst:74
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:74
 msgid "p8_2"
 msgstr ""
 
-#: ../../variable/Q352B.rst:76
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:76
 msgid "p9_2"
 msgstr ""
 
-#: ../../variable/Q352B.rst:78
+#: /mnt/c/Users/JPSC/code_books/codebook/variable/Q352B.rst:78
 msgid "p10_2"
 msgstr ""
 

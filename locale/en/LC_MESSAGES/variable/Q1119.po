@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q1119.rst:6
 msgid "職務（配偶者）〔第18回～〕"
-msgstr "Category of employee (spouse) [Wave18 - ]"
+msgstr "Type of employee (spouse) [Wave18 - ]"
 
 #: ../../variable/Q1119.rst:11
 msgid "変数名"
