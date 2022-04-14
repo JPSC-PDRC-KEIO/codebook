@@ -4,12 +4,12 @@
 
 
 .. toctree::
-	 :maxdepth: 1
-
-	 shigoto_nissuu
-	 shigotofuka_nissuu
-	 shigotofuka_nissuu_202009
-	 seikatsu_jikan
-	 seikatsu_jikan_hs
-	 seikatsu_henka
+   :maxdepth: 1
+   
+   shigoto_nissuu
+   shigotofuka_nissuu
+   shigotofuka_nissuu_202009
+   seikatsu_jikan
+   seikatsu_jikan_hs
+   seikatsu_henka
 

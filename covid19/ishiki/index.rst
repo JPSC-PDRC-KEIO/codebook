@@ -3,9 +3,9 @@
 ===========================================
 
 .. toctree::
-	 :maxdepth: 1
-
-	 kikikanri
-	 fuan
+   :maxdepth: 1
+   
+   kikikanri
+   fuan
 	 
 	

@@ -3,9 +3,9 @@
 ===========================================
 
 .. toctree::
-	 :maxdepth: 1
-
-	 /variable/Q1260
-	 kyufukin_uchiwake
-	 kyufukin_kodomo
+   :maxdepth: 1
+   
+   /variable/Q1260
+   kyufukin_uchiwake
+   kyufukin_kodomo
 

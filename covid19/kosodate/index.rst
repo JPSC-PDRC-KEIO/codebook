@@ -4,10 +4,10 @@
 
 
 .. toctree::
-     :maxdepth: 1
+   :maxdepth: 1
 
-     sewa_normal
-     /variable/Q1245
-     sewa_kinkyujitai
+   sewa_normal
+   /variable/Q1245
+   sewa_kinkyujitai
 
 
