@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-04-18 14:40+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q377.rst:6
 msgid "親との同居/別居/近居"
-msgstr ""
+msgstr "Living with, separated from, or living near your parents"
 
 #: ../../variable/Q377.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q377.rst:21
 msgid "親との居住状況について、次のように分類した場合、どれにあてはまりますか。（最も近くに居住しているあなたの親またはご主人の親でお答え下さい）"
-msgstr ""
+msgstr "Which of the following categories best describes your residential status with your parents? (Please choose either your parents or your husband's parents who live closest to you)"
 
 #: ../../variable/Q377.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,39 +45,39 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q377.rst:30
 msgid "親と同一建物で、生計を共にしている（同居世帯）"
-msgstr ""
+msgstr "Living in the same building with parents (cohabiting household)"
 
 #: ../../variable/Q377.rst:31
 msgid "親と同一建物で、生計が別（準同居世帯）"
-msgstr ""
+msgstr "Living in the same building as the parents, but living in separate households (quasi-cohabitation households)"
 
 #: ../../variable/Q377.rst:32
 msgid "親と同一敷地内の別建物に居住（準同居世帯）"
-msgstr ""
+msgstr "Resides in a separate building on the same property as the parents (quasi-cohabitating household)"
 
 #: ../../variable/Q377.rst:33
 msgid "同一町丁内または1km以内に親が居住（近隣地域住居）"
-msgstr ""
+msgstr "Parents live in the same city block or within 1 km (neighborhood residence)"
 
 #: ../../variable/Q377.rst:34
 msgid "（東京特別区・政令指定都市）同一区内に親が居住"
-msgstr ""
+msgstr "(Tokyo special wards and ordinance-designated cities) Parents reside in the same ward"
 
 #: ../../variable/Q377.rst:35
 msgid "（その他の市部、郡部居住者）同一市町村内に親が居住"
-msgstr ""
+msgstr "(Other city and county residents) Parents reside in the same municipality"
 
 #: ../../variable/Q377.rst:36
 msgid "同一都道府県内に親が居住"
-msgstr ""
+msgstr "Parents reside in the same prefecture"
 
 #: ../../variable/Q377.rst:37
 msgid "上記1～7地域以外に親が居住"
-msgstr ""
+msgstr "Parents reside outside of areas 1-7 above"
 
 #: ../../variable/Q377.rst:38
 msgid "親は全員死亡"
-msgstr ""
+msgstr "Your parents are deceased."
 
 #: ../../variable/Q377.rst:46
 msgid "桁あふれコード"
@@ -91,7 +93,7 @@ msgstr "No response code"
 
 #: ../../variable/Q377.rst:61
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #: ../../variable/Q377.rst:67
 msgid "備考"
@@ -234,4 +236,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

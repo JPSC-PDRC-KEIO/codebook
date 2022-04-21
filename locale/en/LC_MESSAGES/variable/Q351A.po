@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: 2022-04-11 11:22+0900\n"
+"PO-Revision-Date: 2022-04-18 10:05+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q351A.rst:6
 msgid "貯蓄目標額：不時の出費"
-msgstr "Savings target amount: Unforeseen expenses"
+msgstr "Savings target amount: Unexpected expenses"
 
 #: ../../variable/Q351A.rst:11
 msgid "変数名"
@@ -41,7 +41,7 @@ msgstr "Next, for each of the savings you answered \"yes\" to in (2), please ind
 
 #: ../../variable/Q351A.rst:24
 msgid "病気、災害、その他不時の出費に備えるため"
-msgstr "To provide for illness, disasters, and other unforeseen expenses"
+msgstr "To provide for illness, disasters, and other unexpected expenses"
 
 #: ../../variable/Q351A.rst:31
 msgid "選択肢 / 記入欄"

@@ -1212,51 +1212,51 @@ List of variables
 * `Q353C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q353C.html>`_ : Purpose of saving: Children’s wedding fund
 * `Q354A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q354A.html>`_ : Savings target amount: Acquisition of own home
 * `Q354C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q354C.html>`_ : Purpose of saving: Acquisition of own home
-* `Q355A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q355A.html>`_ : 貯蓄目標額：耐久消費財の購入資金
-* `Q355C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q355C.html>`_ : 貯蓄目的：耐久消費財の購入資金
-* `Q356A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q356A.html>`_ : 貯蓄目標額：レジャー資金
-* `Q356C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q356C.html>`_ : 貯蓄目的：レジャー資金
-* `Q358A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q358A.html>`_ : 貯蓄目標額：独立自営資金
-* `Q358C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q358C.html>`_ : 貯蓄目的：独立自営資金
-* `Q359A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q359A.html>`_ : 貯蓄目標額：貯蓄をすれば安心
-* `Q359C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q359C.html>`_ : 貯蓄目的：貯蓄をすれば安心
-* `Q360A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q360A.html>`_ : 貯蓄目標額：遺産
-* `Q360C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q360C.html>`_ : 貯蓄目的：遺産
-* `Q361A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q361A.html>`_ : 貯蓄目標額：その他
-* `Q361C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q361C.html>`_ : 貯蓄目的　その他
-* `Q362A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q362A.html>`_ : 貯蓄目標額　結婚資金
-* `Q362C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q362C.html>`_ : 貯蓄目的　結婚資金
-* `Q363A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q363A.html>`_ : 民間保険　掛け捨てタイプ保険に加入
-* `Q363B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q363B.html>`_ : 民間保険　積み立てタイプ保険に加入
-* `Q363C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q363C.html>`_ : 本人が加入者の保険はない
-* `Q364     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q364.html>`_ : 掛け捨てタイプ保険　年間保険料
-* `Q365     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q365.html>`_ : 積み立てタイプ保険　年間保険料
-* `Q366     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q366.html>`_ : 積み立てタイプ保険　払い込み済み保険料合計
-* `Q367A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q367A.html>`_ : 民間保険　掛け捨てタイプ保険に加入（配偶者）
-* `Q367B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q367B.html>`_ : 民間保険　積み立てタイプ保険に加入（配偶者）
-* `Q367C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q367C.html>`_ : 配偶者が加入者の保険はない
-* `Q368     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q368.html>`_ : 夫・掛け捨てタイプ年間保険料
-* `Q369     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q369.html>`_ : 積み立てタイプ保険　年間保険料（配偶者）
-* `Q370     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q370.html>`_ : 積み立てタイプ保険　払い込み済み保険料合計（配偶者）
-* `Q371     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q371.html>`_ : 住居の種類
-* `Q372     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q372.html>`_ : 住居延べ床面積
-* `Q373     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q373.html>`_ : 住居の所有形態
-* `Q374     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q374.html>`_ : 家賃
-* `Q375A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q375A.html>`_ : 敷地取得年〔第1～第6回〕
-* `Q375B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q375B.html>`_ : 敷地面積
-* `Q375C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q375C.html>`_ : 敷地の名義（有配偶）
-* `Q375D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q375D.html>`_ : 敷地の名義（無配偶）
-* `Q375E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q375E.html>`_ : 敷地取得方法
-* `Q375F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q375F.html>`_ : 敷地取得に関与した親（有配偶）
-* `Q375G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q375G.html>`_ : 敷地の現市場価格
+* `Q355A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q355A.html>`_ : Savings target amount: Funds for purchasing durable goods
+* `Q355C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q355C.html>`_ : Purpose of saving: Funds for purchasing durable goods
+* `Q356A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q356A.html>`_ : Savings target amount: Leisure fund
+* `Q356C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q356C.html>`_ : Purpose of saving: Leisure funds
+* `Q358A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q358A.html>`_ : Savings target amount: Independent self-employment fund
+* `Q358C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q358C.html>`_ : Purpose of savings: Independent self-employment funds
+* `Q359A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q359A.html>`_ : Savings target amount: Saving will give you peace of mind.
+* `Q359C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q359C.html>`_ : Purpose of saving: Saving will give you peace of mind.
+* `Q360A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q360A.html>`_ : Savings target amount: Inheritance
+* `Q360C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q360C.html>`_ : Purpose of saving: Inheritance
+* `Q361A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q361A.html>`_ : Savings target amount: Other
+* `Q361C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q361C.html>`_ : Purpose of saving: Other
+* `Q362A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q362A.html>`_ : Savings target amount: Wedding fund
+* `Q362C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q362C.html>`_ : Purpose of saving: Wedding fund
+* `Q363A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q363A.html>`_ : Private insurance Purchase a lump-sum type insurance
+* `Q363B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q363B.html>`_ : Private insurance Purchase an accumulation type insurance
+* `Q363C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q363C.html>`_ : I do not have insurance.
+* `Q364     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q364.html>`_ : Lump-sum type insurance: Annual premium
+* `Q365     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q365.html>`_ : Accumulation type insurance Annual premiums
+* `Q366     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q366.html>`_ : Accumulation-type insurance: Total premiums paid
+* `Q367A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q367A.html>`_ : Private insurance: Purchase a lump-sum type insurance policy (spouse)
+* `Q367B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q367B.html>`_ : Private insurance: Purchase an accumulation type insurance (spouse)
+* `Q367C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q367C.html>`_ : My spouse does not have insurance.
+* `Q368     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q368.html>`_ : Your husband's annual premium for lump-sum type of insurance
+* `Q369     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q369.html>`_ : Accumulation type insurance: Annual premiums (spouse)
+* `Q370     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q370.html>`_ : Accumulation-type insurance - Total premiums paid
+* `Q371     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q371.html>`_ : Type of residence
+* `Q372     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q372.html>`_ : Total floor area of residence
+* `Q373     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q373.html>`_ : Type of residence ownership
+* `Q374     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q374.html>`_ : Rent
+* `Q375A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q375A.html>`_ : Year of site acquisition [Wave1-6]
+* `Q375B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q375B.html>`_ : Site area
+* `Q375C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q375C.html>`_ : Site ownership (Married)
+* `Q375D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q375D.html>`_ : Site ownership (Unmarried)
+* `Q375E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q375E.html>`_ : Method of obtaining land
+* `Q375F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q375F.html>`_ : Parents involved in site acquisition (Married)
+* `Q375G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q375G.html>`_ : Current market price of the site
 * `Q376A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376A.html>`_ : None
 * `Q376B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376B.html>`_ : None
-* `Q376C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376C.html>`_ : 住宅の名義（有配偶）
-* `Q376D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376D.html>`_ : 住宅の名義（無配偶）
-* `Q376E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376E.html>`_ : 住宅取得方法
-* `Q376F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376F.html>`_ : 住宅取得に関与した親（有配偶）
-* `Q376G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376G.html>`_ : 住宅の現市場価格
-* `Q377     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q377.html>`_ : 親との同居/別居/近居
+* `Q376C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376C.html>`_ : Site ownership (Married)
+* `Q376D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376D.html>`_ : Residence ownership (unmarried)
+* `Q376E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376E.html>`_ : Residence acquisition method
+* `Q376F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376F.html>`_ : Parents involved in residence acquisition (Married)
+* `Q376G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376G.html>`_ : Current market price of the residence
+* `Q377     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q377.html>`_ : Living with, separated from, or living near your parents
 * `Q378     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q378.html>`_ : 同居／最も近居の親
 * `Q379     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q379.html>`_ : 義親の住居の種類
 * `Q380     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q380.html>`_ : 実親の住居の種類

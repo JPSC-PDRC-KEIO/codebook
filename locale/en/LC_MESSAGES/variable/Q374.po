@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-04-12 11:40+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q374.rst:6
 msgid "家賃"
-msgstr ""
+msgstr "Rent"
 
 #: ../../variable/Q374.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q374.rst:21
 msgid "家賃は月額いくらですか。"
-msgstr ""
+msgstr "How much is the monthly rent?"
 
 #: ../../variable/Q374.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,7 +45,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q374.rst:30
 msgid "＿ ＿ 万 ＿千円"
-msgstr ""
+msgstr "_ _ _ ,000 yen"
 
 #: ../../variable/Q374.rst:37
 msgid "桁あふれコード"
@@ -63,7 +65,7 @@ msgstr "No response code"
 
 #: ../../variable/Q374.rst:52
 msgid "999"
-msgstr ""
+msgstr "999"
 
 #: ../../variable/Q374.rst:58
 msgid "備考"
@@ -209,4 +211,3 @@ msgstr ""
 
 #~ msgid "＿ ＿ 万 ＿ 千円"
 #~ msgstr ""
-

@@ -1,20 +1,21 @@
-
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-04-12 13:55+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q376G.rst:6
 msgid "住宅の現市場価格"
-msgstr ""
+msgstr "Current market price of the residence"
 
 #: ../../variable/Q376G.rst:11
 msgid "変数名"
@@ -30,7 +31,7 @@ msgstr "Question"
 
 #: ../../variable/Q376G.rst:21
 msgid "住宅の現在の市場価格（売るとした場合の価格）はいくらくらいと思いますか。おおよそで結構です。"
-msgstr ""
+msgstr "What do you think the current market value (price if you were to sell) of the residence is? Please give an approximate figure."
 
 #: ../../variable/Q376G.rst:28
 msgid "選択肢 / 記入欄"
@@ -38,7 +39,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q376G.rst:30
 msgid "＿ ＿ 億 ＿ ＿ ＿ 0万円"
-msgstr ""
+msgstr "_ _ _ _ 00,000 yen"
 
 #: ../../variable/Q376G.rst:37
 msgid "桁あふれコード"
@@ -210,4 +211,3 @@ msgstr ""
 
 #~ msgid "＿＿億＿＿＿0万円"
 #~ msgstr ""
-

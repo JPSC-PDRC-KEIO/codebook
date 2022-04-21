@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-04-12 10:13+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q368.rst:6
 msgid "夫・掛け捨てタイプ年間保険料"
-msgstr ""
+msgstr "Your husband's annual premium for lump-sum type of insurance"
 
 #: ../../variable/Q368.rst:11
 msgid "変数名"
@@ -34,14 +36,12 @@ msgid "質問文"
 msgstr "Question"
 
 #: ../../variable/Q368.rst:21
-msgid ""
-"あなた方ご夫婦は、次の保険にどのくらい保険料を払っていますか。（注: "
-"保険には簡易保険、郵便年金、生命保険、個人年金保険、積立型損害保険、障害保険、学資保険などを含みます）"
-msgstr ""
+msgid "あなた方ご夫婦は、次の保険にどのくらい保険料を払っていますか。（注: 保険には簡易保険、郵便年金、生命保険、個人年金保険、積立型損害保険、障害保険、学資保険などを含みます）"
+msgstr "How much do you and your spouse pay for the following insurance policies? (Note: Insurance includes simple insurance, postal annuities, life insurance, individual annuities, savings-type non-life insurance, disability insurance, and educational endowment insurance.)"
 
 #: ../../variable/Q368.rst:24
-msgid "B.ご主人が保険料の払い込み人となっている保険〔該当するものに〇をつけ、その保険料をご記入下さい。〕昨年1年間（調査前年1月～12月）の保険料"
-msgstr ""
+msgid "ご主人が保険料の払い込み人となっている保険〔該当するものに〇をつけ、その保険料をご記入下さい。〕昨年1年間（調査前年1月～12月）の保険料"
+msgstr "Insurance premiums for which your husband himself pays [Please circle all that pertain to him and fill in the premiums]. Premiums for the last year (January-December of the year prior to the survey)"
 
 #: ../../variable/Q368.rst:31
 msgid "選択肢 / 記入欄"
@@ -49,7 +49,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q368.rst:33
 msgid "＿ ＿ 万円"
-msgstr ""
+msgstr "_ _ 0,000 yen"
 
 #: ../../variable/Q368.rst:40
 msgid "桁あふれコード"
@@ -57,7 +57,7 @@ msgstr "Overflow code"
 
 #: ../../variable/Q368.rst:41
 msgid "98"
-msgstr ""
+msgstr "98"
 
 #: ../../variable/Q368.rst:47
 msgid "分類不能の回答コード"
@@ -69,7 +69,7 @@ msgstr "No response code"
 
 #: ../../variable/Q368.rst:55
 msgid "99"
-msgstr ""
+msgstr "99"
 
 #: ../../variable/Q368.rst:61
 msgid "備考"
@@ -212,4 +212,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-04-12 13:48+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q376D.rst:6
 msgid "住宅の名義（無配偶）"
-msgstr ""
+msgstr "Residence ownership (unmarried)"
 
 #: ../../variable/Q376D.rst:11
 msgid "変数名"
@@ -34,8 +36,8 @@ msgid "質問文"
 msgstr "Question"
 
 #: ../../variable/Q376D.rst:21
-msgid "住宅はどなたの名義になっていますか。共同名義の場合、あてはまるすべての名義人の方を答え下さい。"
-msgstr ""
+msgid "住宅はどなたの名義になっていますか。共同名義の場合、あてはまるすべての名義人の方をお答え下さい。"
+msgstr "In whose name is the residence registered? If jointly owned, please indicate all the owners that apply."
 
 #: ../../variable/Q376D.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,19 +45,19 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q376D.rst:30
 msgid "あなた本人"
-msgstr ""
+msgstr "Yours"
 
 #: ../../variable/Q376D.rst:31
 msgid "親"
-msgstr ""
+msgstr "Your parents'"
 
 #: ../../variable/Q376D.rst:32
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../variable/Q376D.rst:33
 msgid "わからない"
-msgstr ""
+msgstr "Don’t know"
 
 #: ../../variable/Q376D.rst:41
 msgid "桁あふれコード"
@@ -71,7 +73,7 @@ msgstr "No response code"
 
 #: ../../variable/Q376D.rst:56
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../variable/Q376D.rst:62
 msgid "備考"
@@ -214,4 +216,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

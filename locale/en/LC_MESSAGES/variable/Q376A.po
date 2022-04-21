@@ -9,16 +9,18 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-04-12 13:41+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q376A.rst:6
-msgid "None"
+msgid "住宅・取得年"
 msgstr ""
 
 #: ../../variable/Q376A.rst:11
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q376A.rst:21
 msgid "その住宅はいつ取得（贈与・相続を含む）しましたか。"
-msgstr ""
+msgstr "When was the site acquired (including by gift or inheritance)?"
 
 #: ../../variable/Q376A.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,7 +45,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q376A.rst:30
 msgid "＿ ＿ 年 (西暦下2桁)"
-msgstr ""
+msgstr "In _ _ (last 2 digits of A.D.)"
 
 #: ../../variable/Q376A.rst:37
 msgid "桁あふれコード"
@@ -118,4 +120,3 @@ msgstr ""
 
 #~ msgid "住宅取得年 [第1回 |endash| 第6回]"
 #~ msgstr ""
-

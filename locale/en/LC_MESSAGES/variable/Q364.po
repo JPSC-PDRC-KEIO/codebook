@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-04-18 10:32+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q364.rst:6
 msgid "掛け捨てタイプ保険　年間保険料"
-msgstr ""
+msgstr "Lump-sum type insurance: Annual premium"
 
 #: ../../variable/Q364.rst:11
 msgid "変数名"
@@ -34,10 +36,8 @@ msgid "質問文"
 msgstr "Question"
 
 #: ../../variable/Q364.rst:21
-msgid ""
-"あなた方ご夫婦は、次の保険にどのくらい保険料を払っていますか。（注: "
-"保険には簡易保険、郵便年金、生命保険、個人年金保険、積立型損害保険、障害保険、学資保険などを含みます）A.あなたが保険料の払い込み人となっている保険〔該当するものに〇をつけ、その保険料をご記入下さい。〕"
-msgstr ""
+msgid "あなた方ご夫婦は、次の保険にどのくらい保険料を払っていますか。（注: 保険には簡易保険、郵便年金、生命保険、個人年金保険、積立型損害保険、障害保険、学資保険などを含みます）A.あなたが保険料の払い込み人となっている保険〔該当するものに〇をつけ、その保険料をご記入下さい。〕"
+msgstr "How much do you and your spouse pay for the following insurance policies? (Note: Insurance includes simple insurance, postal annuities, life insurance, individual annuities, savings-type non-life insurance, disability insurance, and educational endowment insurance.) A. Insurance for which you are the payer of premiums [Please circle all that pertain to you and fill in the premiums]."
 
 #: ../../variable/Q364.rst:28
 msgid "選択肢 / 記入欄"
@@ -45,7 +45,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q364.rst:30
 msgid "＿ ＿ 万円"
-msgstr ""
+msgstr "_ _ 0,000 yen"
 
 #: ../../variable/Q364.rst:37
 msgid "桁あふれコード"
@@ -53,7 +53,7 @@ msgstr "Overflow code"
 
 #: ../../variable/Q364.rst:38
 msgid "98"
-msgstr ""
+msgstr "98"
 
 #: ../../variable/Q364.rst:44
 msgid "分類不能の回答コード"
@@ -65,7 +65,7 @@ msgstr "No response code"
 
 #: ../../variable/Q364.rst:52
 msgid "99"
-msgstr ""
+msgstr "99"
 
 #: ../../variable/Q364.rst:58
 msgid "備考"
@@ -208,4 +208,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

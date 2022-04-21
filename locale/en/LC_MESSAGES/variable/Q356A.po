@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-04-18 10:40+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q356A.rst:6
 msgid "貯蓄目標額：レジャー資金"
-msgstr ""
+msgstr "Savings target amount: Leisure fund"
 
 #: ../../variable/Q356A.rst:11
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q356A.rst:21
 msgid "次に、（2）で「あり」とお答えいただいた貯蓄のそれぞれについて、どのくらいの貯蓄額を目標にしているかをご記入下さい。"
-msgstr ""
+msgstr "Next, for each of the savings you answered \"yes\" to in (2), please indicate how much you are aiming to save."
 
 #: ../../variable/Q356A.rst:24
 msgid "レジャー資金に"
-msgstr ""
+msgstr "For leisure funds"
 
 #: ../../variable/Q356A.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,7 +49,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q356A.rst:33
 msgid "＿ 億 ＿ ＿ ＿ 0 万円"
-msgstr ""
+msgstr "_ _ _ _ 00,000 yen"
 
 #: ../../variable/Q356A.rst:40
 msgid "桁あふれコード"
@@ -210,4 +212,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
