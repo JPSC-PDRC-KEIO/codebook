@@ -3,7 +3,7 @@
 ==================================================
 
 .. toctree::
-   :maxdepth:
+   :maxdepth: 1
    
    keizaishien
    syunyu_teika
