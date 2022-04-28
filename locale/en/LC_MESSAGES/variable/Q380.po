@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-04-28 12:11+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q380.rst:5
 msgid "実親の住居の種類"
-msgstr ""
+msgstr "Type of parent's residence"
 
 #: ../../variable/Q380.rst:9
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q380.rst:18
 msgid "あなたの親が現在お住まいの住居は、次のどれになりますか。"
-msgstr ""
+msgstr "Which of the following residences does your husband's parent(s) currently reside in?"
 
 #: ../../variable/Q380.rst:24
 msgid "選択肢 / 記入欄"
@@ -43,31 +45,31 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q380.rst:27
 msgid "1戸建・持ち家（敷地は自己所有・区分所有）"
-msgstr ""
+msgstr "Single-family detached and owner-occupied house (site is self-owned or condominium unit owned)"
 
 #: ../../variable/Q380.rst:29
 msgid "1戸建・持ち家（敷地は借地）"
-msgstr ""
+msgstr "Single-family detached and owner-occupied house (site is leased)"
 
 #: ../../variable/Q380.rst:31
 msgid "マンション・持ち家"
-msgstr ""
+msgstr "Condominium ・ Owner-occupied house"
 
 #: ../../variable/Q380.rst:33
 msgid "民間の賃貸住宅"
-msgstr ""
+msgstr "Private rental housing"
 
 #: ../../variable/Q380.rst:35
 msgid "公営・公団・公社などの賃貸住宅"
-msgstr ""
+msgstr "Rental housing by public management, public corporation, public agency, etc."
 
 #: ../../variable/Q380.rst:37
 msgid "社宅・寮（借上げ社宅を含む）"
-msgstr ""
+msgstr "Company housing or dormitory (including rented company housing)"
 
 #: ../../variable/Q380.rst:39
 msgid "その他（具体的に　　　）"
-msgstr ""
+msgstr "Other (specify          )"
 
 #: ../../variable/Q380.rst:46
 msgid "桁あふれコード"
@@ -83,7 +85,7 @@ msgstr "No response code"
 
 #: ../../variable/Q380.rst:59
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: ../../variable/Q380.rst:64
 msgid "備考"
@@ -150,4 +152,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

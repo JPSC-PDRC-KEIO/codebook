@@ -1249,59 +1249,58 @@ List of variables
 * `Q375E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q375E.html>`_ : Method of obtaining land
 * `Q375F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q375F.html>`_ : Parents involved in site acquisition (Married)
 * `Q375G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q375G.html>`_ : Current market price of the site
-* `Q376A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376A.html>`_ : None
-* `Q376B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376B.html>`_ : None
+* `Q376A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376A.html>`_ : Housing：Year acquired
+* `Q376B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376B.html>`_ : Housing：Year of construction
 * `Q376C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376C.html>`_ : Site ownership (Married)
 * `Q376D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376D.html>`_ : Residence ownership (unmarried)
 * `Q376E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376E.html>`_ : Residence acquisition method
 * `Q376F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376F.html>`_ : Parents involved in residence acquisition (Married)
 * `Q376G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q376G.html>`_ : Current market price of the residence
 * `Q377     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q377.html>`_ : Living with, separated from, or living near your parents
-* `Q378     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q378.html>`_ : 同居／最も近居の親
-* `Q379     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q379.html>`_ : 義親の住居の種類
-* `Q380     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q380.html>`_ : 実親の住居の種類
-* `Q383A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q383A.html>`_ : 住宅購入価格：家屋
-* `Q383B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q383B.html>`_ : 住宅購入価格：土地
-* `Q383C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q383C.html>`_ : 住宅購入価格：合計
-* `Q410     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q410.html>`_ : 住宅ローン借入の有無
-* `Q411     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q411.html>`_ : 住宅ローンの借入残高
-* `Q412     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q412.html>`_ : 住宅ローン返済総額
-* `Q413A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413A.html>`_ : 住宅ローンの借入れ状況：土地購入・借入先1
-* `Q413B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413B.html>`_ : 住宅ローンの借入れ状況：土地購入・借入先2
-* `Q413C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413C.html>`_ : 住宅ローンの借入れ状況：土地購入・借入先3
-* `Q413D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413D.html>`_ : 住宅ローンの借入れ状況：土地購入・借入先4
-* `Q413E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413E.html>`_ : 住宅ローンの借入れ状況：土地購入・借入先5
-* `Q413F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413F.html>`_ : 住宅ローンの借入れ状況：土地購入・借入残高
-* `Q413G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413G.html>`_ : 住宅ローンの借入れ状況：土地購入・返済額
-* `Q414A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q414A.html>`_ : 住宅ローンの借入れ状況：住宅購入・借入先1
-* `Q414B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q414B.html>`_ : 住宅ローンの借入れ状況：住宅購入・借入先2
-* `Q414C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q414C.html>`_ : 住宅ローンの借入れ状況：住宅購入・借入先3
-* `Q414D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q414D.html>`_ : 住宅ローンの借入れ状況：住宅購入・借入先4
-* `Q414E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q414E.html>`_ : 住宅ローンの借入れ状況：住宅購入・借入先5
-* `Q414F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q414F.html>`_ : 住宅ローンの借入れ状況：住宅購入・借入残高
-* `Q414G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q414G.html>`_ : 住宅ローンの借入れ状況：住宅購入・返済額
-* `Q415A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q415A.html>`_ : 住宅ローンの借入れ状況：建物建築・借入先1
-* `Q415B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q415B.html>`_ : 住宅ローンの借入れ状況：建物建築・借入先2
-* `Q415C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q415C.html>`_ : 住宅ローンの借入れ状況：建物建築・借入先3
-* `Q415D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q415D.html>`_ : 住宅ローンの借入れ状況：建物建築・借入先4
-* `Q415E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q415E.html>`_ : 住宅ローンの借入れ状況：建物建築・借入先5
-* `Q415F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q415F.html>`_ : 住宅ローンの借入れ状況：建物建築・借入残高
-* `Q415G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q415G.html>`_ : 住宅ローンの借入れ状況：建物建築・返済額
-* `Q416A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q416A.html>`_ : 住宅ローンの借入れ状況：増改築・借入先1
-* `Q416B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q416B.html>`_ : 住宅ローンの借入れ状況：増改築・借入先2
-* `Q416C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q416C.html>`_ : 住宅ローンの借入れ状況：増改築・借入先3
-* `Q416D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q416D.html>`_ : 住宅ローンの借入れ状況：増改築・借入先4
-* `Q416E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q416E.html>`_ : 住宅ローンの借入れ状況：増改築・借入先5
-* `Q416F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q416F.html>`_ : 住宅ローンの借入れ状況：増改築・借入残高
-* `Q416G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q416G.html>`_ : 住宅ローンの借入れ状況：増改築・返済額
-* `Q417A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q417A.html>`_ : 住宅ローンの借入れ状況：別荘購入・借入先1
-* `Q417B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q417B.html>`_ : 住宅ローンの借入れ状況：別荘購入・借入先2
-* `Q417C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q417C.html>`_ : 住宅ローンの借入れ状況：別荘購入・借入先3
-* `Q417D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q417D.html>`_ : 住宅ローンの借入れ状況：別荘購入・借入先4
-* `Q417E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q417E.html>`_ : 住宅ローンの借入れ状況：別荘購入・借入先5
-* `Q417F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q417F.html>`_ : 住宅ローンの借入れ状況：別荘購入・借入残高
-* `Q417G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q417G.html>`_ : 住宅ローンの借入れ状況：別荘購入・返済額
-* `Q418     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q418.html>`_ : 住宅ローン返済の負担感
+* `Q378     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q378.html>`_ : Living with / Closest parent
+* `Q379     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q379.html>`_ : Type of in-laws’ residence
+* `Q380     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q380.html>`_ : Type of parent’s residence
+* `Q383A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q383A.html>`_ : Home purchase price : House
+* `Q383B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q383B.html>`_ : Home purchase price : LandHome purchase price : Total住宅購入価格：合計
+* `Q410     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q410.html>`_ : Availability of Mortgage Loan
+* `Q411     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q411.html>`_ : Mortgage loan balance
+* `Q412     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q412.html>`_ : Total mortgage repayment
+* `Q413A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413A.html>`_ : Mortgage status : Land purchase ･ Lender 1
+* `Q413B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413B.html>`_ : Mortgage status : Land purchase ･ Lender 2
+* `Q413C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413C.html>`_ : Mortgage status : Land purchase ･ Lender 3
+* `Q413D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413D.html>`_ : Mortgage status : Land purchase ･ Lender 4
+* `Q413E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413E.html>`_ : Mortgage status : Land purchase ･ Lender 5
+* `Q413F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413F.html>`_ : Mortgage status : Land purchase ･ Loan balance
+* `Q413G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413G.html>`_ : Mortgage status : Land purchase ･ Repayment amount
+* `Q414A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q414A.html>`_ : Mortgage status : House purchase ･ Lender 1
+* `Q414B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q414B.html>`_ : Mortgage status : House purchase ･ Lender 2
+* `Q414C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q414C.html>`_ : Mortgage status : House purchase ･ Lender 3
+* `Q414D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q414D.html>`_ : Mortgage status : House purchase ･ Lender 4
+* `Q414E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q414E.html>`_ : Mortgage status : House purchase ･ Lender 5
+* `Q414F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q414F.html>`_ : Mortgage status : House purchase ･ loan balance
+* `Q414G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q414G.html>`_ : Mortgage status : House purchase ･ Repayment amount
+* `Q415A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q415A.html>`_ : Mortgage status : Building construction ･ Lender 1
+* `Q415B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q415B.html>`_ : Mortgage status : Building construction ･Lender 2
+* `Q415C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q415C.html>`_ : Mortgage status : Building construction ･ Lender 3
+* `Q415D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q415D.html>`_ : Mortgage status : Building construction･ Lender 4
+* `Q415E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q415E.html>`_ : Mortgage status : Building construction ･ Lender 5
+* `Q415F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q415F.html>`_ : Mortgage status : Building construction ･ Loan balance
+* `Q415G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q415G.html>`_ : Mortgage status : Building construction ・ Loan balance
+* `Q416A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q416A.html>`_ : Mortgage status : Extension ・ Loan 1
+* `Q416B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q416B.html>`_ : Mortgage status : Extension ・ Loan 2
+* `Q416C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q416C.html>`_ : Mortgage status : Extension ・ Loan 3
+* `Q416D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q416D.html>`_ : Mortgage status : Extension ・ Loan 4
+* `Q416E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q416E.html>`_ : Mortgage status : Extension ・ Loan 5
+* `Q416F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q416F.html>`_ : Mortgage status : Extension ・ Loan balance
+* `Q416G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q416G.html>`_ : Mortgage status : Extensions ・ Repayment amounts
+* `Q417A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q417A.html>`_ : Mortgage status : Villa purchase ・ Lender 1
+* `Q417B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q417B.html>`_ : Mortgage status : Villa purchase ・ Lender 2
+* `Q417C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q417C.html>`_ : Mortgage status : Villa purchase ・ Lender 3
+* `Q417D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q417D.html>`_ : Mortgage status : Villa purchase ・ Lender 4
+* `Q417E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q417E.html>`_ : Mortgage status : Villa purchase ・ Lender 5
+* `Q417F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q417F.html>`_ : Mortgage status : Villa purchase ・ Loan balance
+* `Q417G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q417G.html>`_ : Mortgage status : Villa purchase ・ Repayment amounts
+* `Q418     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q418.html>`_ : Burden of mortgage repayment
 * `Q419     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q419.html>`_ : 借入れの有無
 * `Q420     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q420.html>`_ : 借入れ残高
 * `Q421     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q421.html>`_ : 借入れ返済総額

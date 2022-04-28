@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-04-28 10:40+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q383A.rst:6
 msgid "住宅購入価格：家屋"
-msgstr ""
+msgstr "Home purchase price : House"
 
 #: ../../variable/Q383A.rst:11
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q383A.rst:21
 msgid "その購入価格はいくらでしたか。（家屋のみ、マンションの場合は「家屋」のみに、土地のみの場合は「土地」のみにご記入下さい）"
-msgstr ""
+msgstr "What was its purchase price? (If house only or condominium, please fill in \"house\" only; if land only, please fill in \"land\" only)"
 
 #: ../../variable/Q383A.rst:24
 msgid "家屋"
-msgstr ""
+msgstr "House"
 
 #: ../../variable/Q383A.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,7 +49,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q383A.rst:33
 msgid "＿ ＿ 億 ＿ ＿ ＿ 0 万円"
-msgstr ""
+msgstr "_ , _ _ _ , _ 00,000 yen"
 
 #: ../../variable/Q383A.rst:40
 msgid "桁あふれコード"
@@ -198,4 +200,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
