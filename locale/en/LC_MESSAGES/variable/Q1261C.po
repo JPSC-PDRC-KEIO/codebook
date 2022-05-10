@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../variable/Q1261C.rst:6
 msgid "特別定額給付金の使い道：妻（本人）のための支出"
-msgstr ""
+msgstr "How was the Special Cash Payment used?: expenditure for yourself"
 
 #: ../../variable/Q1261C.rst:11
 msgid "変数名"
@@ -36,11 +36,11 @@ msgstr "Question"
 
 #: ../../variable/Q1261C.rst:21
 msgid "特別定額給付金を「受け取った」と答えた方におたずねします。受け取った特別定額給付金はどのように、いくらぐらい使いましたか。入金口座に意図的に残すことは、貯蓄としてください。"
-msgstr ""
+msgstr "If you answered Received the Special Cash Payment, please answer the following question. How and how much of the Special Cash Payment you received did you spend? Intentionally leaving it in a deposit account should be considered as saving."
 
 #: ../../variable/Q1261C.rst:24
 msgid "妻（本人）のための支出"
-msgstr ""
+msgstr "Expenditure for yourself"
 
 #: ../../variable/Q1261C.rst:33
 msgid "選択肢 / 記入欄"
@@ -48,7 +48,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1261C.rst:35
 msgid "＿ ＿ 万 ＿ 千円"
-msgstr ""
+msgstr "_ _ _ ,000 yen"
 
 #: ../../variable/Q1261C.rst:42
 msgid "桁あふれコード"
@@ -56,11 +56,11 @@ msgstr "Overflow code"
 
 #: ../../variable/Q1261C.rst:43
 msgid "998"
-msgstr ""
+msgstr "998"
 
 #: ../../variable/Q1261C.rst:49
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response code’"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1261C.rst:56
 msgid "無回答コード"
@@ -68,7 +68,7 @@ msgstr "No response code"
 
 #: ../../variable/Q1261C.rst:57
 msgid "999"
-msgstr ""
+msgstr "999"
 
 #: ../../variable/Q1261C.rst:63
 msgid "備考"
@@ -80,5 +80,5 @@ msgstr "Data files (csv)"
 
 #: ../../variable/Q1261C.rst:76
 msgid "p28_3"
-msgstr ""
+msgstr "p28_3"
 

@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../variable/Q1273A.rst:6
 msgid "新型コロナウイルス感染症に関する不安：治療が受けられない"
-msgstr ""
+msgstr "Concerns about COVID-19: may not be able to get the necessary treatment"
 
 #: ../../variable/Q1273A.rst:11
 msgid "変数名"
@@ -28,7 +28,7 @@ msgstr "Variable name"
 
 #: ../../variable/Q1273A.rst:13
 msgid "Q1273A"
-msgstr ""
+msgstr "Q1273A"
 
 #: ../../variable/Q1273A.rst:18
 msgid "質問文"
@@ -36,11 +36,11 @@ msgstr "Question"
 
 #: ../../variable/Q1273A.rst:21
 msgid "あなたは新型コロナウイルス感染症に関する以下のことに対してどのくらい不安を感じていますか。（〇は１つずつ）"
-msgstr ""
+msgstr "How concerned are you about the following issues related to COVID-19? (Circle one for each)"
 
 #: ../../variable/Q1273A.rst:24
 msgid "新型コロナウイルス感染した時に、必要な治療が受けられないかもしれないこと"
-msgstr ""
+msgstr "May not be able to get the necessary treatment if infected with Covid-19."
 
 #: ../../variable/Q1273A.rst:33
 msgid "選択肢 / 記入欄"
@@ -48,23 +48,23 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1273A.rst:35
 msgid "とても不安だ"
-msgstr ""
+msgstr "Very anxious"
 
 #: ../../variable/Q1273A.rst:36
 msgid "少し不安だ"
-msgstr ""
+msgstr "A little anxious"
 
 #: ../../variable/Q1273A.rst:37
 msgid "どちらでもない"
-msgstr ""
+msgstr "Neither"
 
 #: ../../variable/Q1273A.rst:38
 msgid "あまり不安はない"
-msgstr ""
+msgstr "Not very anxious"
 
 #: ../../variable/Q1273A.rst:39
 msgid "不安はない"
-msgstr ""
+msgstr "Not anxious"
 
 #: ../../variable/Q1273A.rst:46
 msgid "桁あふれコード"
@@ -72,7 +72,7 @@ msgstr "Overflow code"
 
 #: ../../variable/Q1273A.rst:53
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response code’"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1273A.rst:60
 msgid "無回答コード"

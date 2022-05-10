@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../variable/Q1263C.rst:6
 msgid "特別定額給付金の子どもへの渡し方：中学生"
-msgstr ""
+msgstr "How to hand over Special Cash Payments to children: junior-high school student"
 
 #: ../../variable/Q1263C.rst:11
 msgid "変数名"
@@ -36,15 +36,15 @@ msgstr "Question"
 
 #: ../../variable/Q1263C.rst:21
 msgid "小学生から高校生までのお子さんがいる方におたずねします。お子さんの分の特別定額給付金を現金で渡しましたか。あてはまるものに１つずつ〇をつけて下さい。"
-msgstr ""
+msgstr "If you have a child in elementary, junior high, or high school, please answer the following question. Have you handed over your children's Special Cash Payments to them in cash? Please circle one for each answer that pertains to you."
 
 #: ../../variable/Q1263C.rst:24
 msgid "該当する学年にお子さんがいない場合は、「４ 該当する子どもがいない」に〇をつけて下さい。"
-msgstr ""
+msgstr "If you do not have any children in the corresponding grade, please circle \"4 No applicable children.""
 
 #: ../../variable/Q1263C.rst:27
 msgid "中学生"
-msgstr ""
+msgstr "Junior-high school student"
 
 #: ../../variable/Q1263C.rst:33
 msgid "選択肢 / 記入欄"
@@ -52,19 +52,19 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1263C.rst:35
 msgid "現金で全額与えた"
-msgstr ""
+msgstr "Gave it all in cash"
 
 #: ../../variable/Q1263C.rst:36
 msgid "一部の金額を与えた"
-msgstr ""
+msgstr "Gave a partial amount"
 
 #: ../../variable/Q1263C.rst:37
 msgid "現金は与えなかった"
-msgstr ""
+msgstr "Didn't give any cash"
 
 #: ../../variable/Q1263C.rst:38
 msgid "該当する子どもはいない"
-msgstr ""
+msgstr "No applicable children"
 
 #: ../../variable/Q1263C.rst:45
 msgid "桁あふれコード"
@@ -72,7 +72,7 @@ msgstr "Overflow code"
 
 #: ../../variable/Q1263C.rst:52
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response code’"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1263C.rst:59
 msgid "無回答コード"
@@ -92,5 +92,5 @@ msgstr "Data files (csv)"
 
 #: ../../variable/Q1263C.rst:79
 msgid "p28_3"
-msgstr ""
+msgstr "p28_3"
 

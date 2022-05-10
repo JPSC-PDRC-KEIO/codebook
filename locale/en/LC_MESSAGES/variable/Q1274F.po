@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../variable/Q1274F.rst:6
 msgid "昨年との生活の変化：買い物に出かける頻度"
-msgstr ""
+msgstr "Lifestyle changes (compared to October 2019): frequency of shopping trips"
 
 #: ../../variable/Q1274F.rst:11
 msgid "変数名"
@@ -35,12 +35,12 @@ msgid "質問文"
 msgstr "Question"
 
 #: ../../variable/Q1274F.rst:21
-msgid "昨年の10 月ごろ（前回の調査の回答時期）と比べて、以下のことはどの程度変わりましたか。（〇は１つずつ）"
-msgstr ""
+msgid "2019年10 月ごろ（前回の調査の回答時期）と比べて、以下のことはどの程度変わりましたか。（〇は１つずつ）"
+msgstr "Compared to around October 2019 ( when you answered the previous survey), to what extent have the following changed? (Circle for each one)"
 
 #: ../../variable/Q1274F.rst:24
 msgid "買い物に出かける頻度"
-msgstr ""
+msgstr "Frequency of shopping trips"
 
 #: ../../variable/Q1274F.rst:33
 msgid "選択肢 / 記入欄"
@@ -48,27 +48,27 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1274F.rst:35
 msgid "大きく増えた"
-msgstr ""
+msgstr "Much more"
 
 #: ../../variable/Q1274F.rst:36
 msgid "少し増えた"
-msgstr ""
+msgstr "A little more"
 
 #: ../../variable/Q1274F.rst:37
 msgid "変わらない"
-msgstr ""
+msgstr "No change"
 
 #: ../../variable/Q1274F.rst:38
 msgid "少し減った"
-msgstr ""
+msgstr "A little less"
 
 #: ../../variable/Q1274F.rst:39
 msgid "大きく減った"
-msgstr ""
+msgstr "A lot less"
 
 #: ../../variable/Q1274F.rst:40
 msgid "該当しない"
-msgstr ""
+msgstr "Not applicable"
 
 #: ../../variable/Q1274F.rst:48
 msgid "桁あふれコード"
@@ -76,7 +76,7 @@ msgstr "Overflow code"
 
 #: ../../variable/Q1274F.rst:55
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response code’"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1274F.rst:62
 msgid "無回答コード"
@@ -84,7 +84,7 @@ msgstr "No response code"
 
 #: ../../variable/Q1274F.rst:63
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: ../../variable/Q1274F.rst:69
 msgid "備考"
@@ -96,5 +96,5 @@ msgstr "Data files (csv)"
 
 #: ../../variable/Q1274F.rst:82
 msgid "p28_5"
-msgstr ""
+msgstr "p28_5"
 

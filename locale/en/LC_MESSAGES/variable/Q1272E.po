@@ -20,7 +20,8 @@ msgstr ""
 
 #: ../../variable/Q1272E.rst:6
 msgid "新型コロナウイルスに対する危機対応：勤務先企業"
-msgstr ""
+msgstr "Level of satisfaction with government/local "
+"authority response to the crisis: company you work for"
 
 #: ../../variable/Q1272E.rst:11
 msgid "変数名"
@@ -28,7 +29,7 @@ msgstr "Variable name"
 
 #: ../../variable/Q1272E.rst:13
 msgid "Q1272E"
-msgstr ""
+msgstr "Q1272E"
 
 #: ../../variable/Q1272E.rst:18
 msgid "質問文"
@@ -36,11 +37,17 @@ msgstr "Question"
 
 #: ../../variable/Q1272E.rst:21
 msgid "政府や地方自治体の新型コロナウイルスに対する危機管理対応に、どのくらい満足していますか。0（完全に不満）から10（完全に満足）まで範囲の数字を１つ選んでください。（〇は１つずつ）"
-msgstr ""
+msgstr "How satisfied are you with the crisis "
+"management response to COVID-19 by the "
+"government and local authority? Please "
+"choose one number that ranges from 0 "
+"(completely dissatisfied) to 10 (completely "
+"satisfied). (Circle one for each)"
+
 
 #: ../../variable/Q1272E.rst:24
 msgid "勤務先企業（該当する方のみ）"
-msgstr ""
+msgstr "Company you work for (only if applicable)"
 
 #: ../../variable/Q1272E.rst:33
 msgid "選択肢 / 記入欄"
@@ -48,30 +55,30 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1272E.rst:35
 msgid "完全に不満"
-msgstr ""
+msgstr "Completely dissatisfied"
 
 #: ../../variable/Q1272E.rst:36
 msgid "↑"
-msgstr ""
+msgstr "↑"
 
 #: ../../variable/Q1272E.rst:37 ../../variable/Q1272E.rst:38
 #: ../../variable/Q1272E.rst:39 ../../variable/Q1272E.rst:40
 #: ../../variable/Q1272E.rst:41 ../../variable/Q1272E.rst:42
 #: ../../variable/Q1272E.rst:43
 msgid "｜"
-msgstr ""
+msgstr "|"
 
 #: ../../variable/Q1272E.rst:44
 msgid "↓"
-msgstr ""
+msgstr "↓"
 
 #: ../../variable/Q1272E.rst:45
 msgid "完全に満足"
-msgstr ""
+msgstr "Completely satisfied"
 
 #: ../../variable/Q1272E.rst:46
 msgid "非該当"
-msgstr ""
+msgstr "Not applicable"
 
 #: ../../variable/Q1272E.rst:53
 msgid "桁あふれコード"
@@ -79,7 +86,7 @@ msgstr "Overflow code"
 
 #: ../../variable/Q1272E.rst:60
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response code’"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1272E.rst:67
 msgid "無回答コード"

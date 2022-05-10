@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../variable/Q1295B.rst:6
 msgid "緊急事態宣言発令時の休業への給与・収入補填（配偶者）：会社から一部補償"
-msgstr ""
+msgstr "Compensation for salaries and income due to the declaration of a state of emergency (April 2020)(spouse): partially compensated by the company"
 
 #: ../../variable/Q1295B.rst:11
 msgid "変数名"
@@ -28,7 +28,7 @@ msgstr "Variable name"
 
 #: ../../variable/Q1295B.rst:13
 msgid "Q1295B"
-msgstr ""
+msgstr "Q1295B"
 
 #: ../../variable/Q1295B.rst:18
 msgid "質問文"
@@ -36,11 +36,11 @@ msgstr "Question"
 
 #: ../../variable/Q1295B.rst:21
 msgid "国の緊急事態宣言が発令されていた期間、ご主人の休業やお仕事が減少した際の給与、収入補償についてあてはまるものを選んでください。（〇はいくつでも）"
-msgstr ""
+msgstr "Please select all that apply to your husband's salary and income compensation when he was absent or his work was reduced during the period when the National State of Emergency was declared. （Circle as many as pertain to you.)"
 
 #: ../../variable/Q1295B.rst:24
 msgid "会社等から一部補償されていた"
-msgstr ""
+msgstr "Partially compensated by the company."
 
 #: ../../variable/Q1295B.rst:33
 msgid "選択肢 / 記入欄"
@@ -48,11 +48,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1295B.rst:35
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q1295B.rst:36
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q1295B.rst:44
 msgid "桁あふれコード"
@@ -60,7 +60,7 @@ msgstr "Overflow code"
 
 #: ../../variable/Q1295B.rst:51
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response code’"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1295B.rst:58
 msgid "無回答コード"
@@ -68,7 +68,7 @@ msgstr "No response code"
 
 #: ../../variable/Q1295B.rst:59
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../variable/Q1295B.rst:65
 msgid "備考"
@@ -80,5 +80,5 @@ msgstr "Data files (csv)"
 
 #: ../../variable/Q1295B.rst:78
 msgid "p28_5"
-msgstr ""
+msgstr "p28_5"
 

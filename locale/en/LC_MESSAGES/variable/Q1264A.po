@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../variable/Q1264A.rst:6
 msgid "公的経済支援の申請：住宅確保給付金"
-msgstr ""
+msgstr "Applying for public financial aid: housing Security Benefit"
 
 #: ../../variable/Q1264A.rst:11
 msgid "変数名"
@@ -28,7 +28,7 @@ msgstr "Variable name"
 
 #: ../../variable/Q1264A.rst:13
 msgid "Q1264A"
-msgstr ""
+msgstr "Q1264A"
 
 #: ../../variable/Q1264A.rst:18
 msgid "質問文"
@@ -37,14 +37,17 @@ msgstr "Question"
 #: ../../variable/Q1264A.rst:21
 msgid "あなたは、今年の４月以降、新型コロナウイルス感染症の影響で、国や自治体が提供している経済的支援のうち、以下について申請をした、あるいは申請することを考えていますか。"
 msgstr ""
+"Since April of this year, have you applied for or are you considering "
+"applying for any of the following financial support offered by the "
+"national or local governments due to COVID-19? \n"
 
 #: ../../variable/Q1264A.rst:24
 msgid "あてはまるものすべてに〇を付けてください。（〇はいくつでも）"
-msgstr ""
+msgstr "\(Circle as many as pertain to you.)"
 
 #: ../../variable/Q1264A.rst:27
 msgid "住宅確保給付金"
-msgstr ""
+msgstr "Housing Security Benefit"
 
 #: ../../variable/Q1264A.rst:33
 msgid "選択肢 / 記入欄"
@@ -52,11 +55,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1264A.rst:35
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q1264A.rst:36
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q1264A.rst:44
 msgid "桁あふれコード"
@@ -64,7 +67,7 @@ msgstr "Overflow code"
 
 #: ../../variable/Q1264A.rst:51
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response code’"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1264A.rst:58
 msgid "無回答コード"

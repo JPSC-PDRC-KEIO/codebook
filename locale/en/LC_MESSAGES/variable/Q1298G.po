@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../variable/Q1298G.rst:6
 msgid "2020年月の休業への給与・収入補填：その他"
-msgstr ""
+msgstr "Salary and income compensation in September 2020: other"
 
 #: ../../variable/Q1298G.rst:11
 msgid "変数名"
@@ -28,19 +28,19 @@ msgstr "Variable name"
 
 #: ../../variable/Q1298G.rst:13
 msgid "Q1298G"
-msgstr ""
+msgstr "Q1298G"
 
 #: ../../variable/Q1298G.rst:18
 msgid "質問文"
 msgstr "Question"
 
 #: ../../variable/Q1298G.rst:21
-msgid "９月に、あなたの休業やお仕事が減少した際の給与、収入補償についてあてはまるものを選んでください。（〇はいくつでも）"
-msgstr ""
+msgid "2020年9月に、あなたの休業やお仕事が減少した際の給与、収入補償についてあてはまるものを選んでください。（〇はいくつでも）"
+msgstr "Please choose one that applies to your salary and income compensation during your absence or reduction in work in September 2020. （Circle as many as pertain to you.)"
 
 #: ../../variable/Q1298G.rst:24
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../variable/Q1298G.rst:33
 msgid "選択肢 / 記入欄"
@@ -48,11 +48,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1298G.rst:35
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q1298G.rst:36
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q1298G.rst:44
 msgid "桁あふれコード"
@@ -60,7 +60,7 @@ msgstr "Overflow code"
 
 #: ../../variable/Q1298G.rst:51
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response code’"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1298G.rst:58
 msgid "無回答コード"
@@ -68,7 +68,7 @@ msgstr "No response code"
 
 #: ../../variable/Q1298G.rst:59
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../variable/Q1298G.rst:65
 msgid "備考"
@@ -80,5 +80,4 @@ msgstr "Data files (csv)"
 
 #: ../../variable/Q1298G.rst:78
 msgid "p28_5"
-msgstr ""
-
+msgstr "p28_5"

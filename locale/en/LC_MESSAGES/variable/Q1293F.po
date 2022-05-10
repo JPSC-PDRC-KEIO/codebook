@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../variable/Q1293F.rst:6
 msgid "新型コロナウイルス感染症の影響：子どもが特別奨学金や減免を受けた"
-msgstr ""
+msgstr "Events caused by COVID-19: child received a special scholarship or tuition reduction"
 
 #: ../../variable/Q1293F.rst:11
 msgid "変数名"
@@ -28,7 +28,7 @@ msgstr "Variable name"
 
 #: ../../variable/Q1293F.rst:13
 msgid "Q1293F"
-msgstr ""
+msgstr "Q1293F"
 
 #: ../../variable/Q1293F.rst:18
 msgid "質問文"
@@ -36,11 +36,11 @@ msgstr "Question"
 
 #: ../../variable/Q1293F.rst:21
 msgid "あなたのお宅では、新型コロナウイルス感染症の影響で、次のような出来事がありましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "In your home, have any of the following events occurred as a result of COVID-19? (Circle as many as pertain to you)"
 
 #: ../../variable/Q1293F.rst:24
 msgid "子どもが特別奨学金や学費の減免を受けた"
-msgstr ""
+msgstr "Child received a special scholarship or tuition reduction."
 
 #: ../../variable/Q1293F.rst:33
 msgid "選択肢 / 記入欄"
@@ -48,11 +48,13 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1293F.rst:35
 msgid "はい"
-msgstr ""
+msgstr "Yes"
+
 
 #: ../../variable/Q1293F.rst:36
 msgid "いいえ"
-msgstr ""
+msgstr "No"
+
 
 #: ../../variable/Q1293F.rst:44
 msgid "桁あふれコード"
@@ -60,7 +62,7 @@ msgstr "Overflow code"
 
 #: ../../variable/Q1293F.rst:51
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response code’"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1293F.rst:58
 msgid "無回答コード"
@@ -68,7 +70,7 @@ msgstr "No response code"
 
 #: ../../variable/Q1293F.rst:59
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../variable/Q1293F.rst:65
 msgid "備考"
@@ -80,5 +82,5 @@ msgstr "Data files (csv)"
 
 #: ../../variable/Q1293F.rst:78
 msgid "p28_5"
-msgstr ""
+msgstr "p28_5"
 
