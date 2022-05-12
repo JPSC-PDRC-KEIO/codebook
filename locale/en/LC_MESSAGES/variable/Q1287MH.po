@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../variable/Q1287MH.rst:6
 msgid "生活時間：睡眠、食事、入浴など／時間（緊急事態宣言中・ふつうの休日の日）"
-msgstr ""
+msgstr "Dairy schedule: sleeping, eating, bathing, etc. / hours (during a declared state of emergency / ordinary holiday)"
 
 #: ../../variable/Q1287MH.rst:11
 msgid "変数名"
@@ -36,11 +36,11 @@ msgstr "Question"
 
 #: ../../variable/Q1287MH.rst:21
 msgid "国の緊急事態宣言が発令されていた期間のあなたの生活時間についておたずねします。平日、在宅勤務のあった平日、休日、会社・雇い主の指示による休業日に分けて、それぞれの生活時間をお答えください。在宅勤務、指示による休業日がない場合は、その回答欄は無記入のままにしてください。"
-msgstr ""
+msgstr "We would like to ask you about your daily schedule during the State of Emergency. Please divide your time into the following categories: weekdays, weekdays when you worked from home, holidays, and days when you were absent from work due to instructions from your company or employer. If you did not work at home or take days off due to instructions, please leave that section blank."
 
 #: ../../variable/Q1287MH.rst:24
 msgid "ふつうの休日：睡眠、食事、入浴、身の回りの用事など"
-msgstr ""
+msgstr "Ordinary holiday: sleeping, eating, bathing, and personal errands other than the above"
 
 #: ../../variable/Q1287MH.rst:33
 msgid "選択肢 / 記入欄"
@@ -48,7 +48,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1287MH.rst:35
 msgid "＿ ＿ 時間"
-msgstr ""
+msgstr "_ _ hours"
 
 #: ../../variable/Q1287MH.rst:44
 msgid "桁あふれコード"
@@ -56,7 +56,7 @@ msgstr "Overflow code"
 
 #: ../../variable/Q1287MH.rst:51
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response code’"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1287MH.rst:58
 msgid "無回答コード"

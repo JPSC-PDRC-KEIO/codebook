@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../variable/Q1292IM.rst:6
 msgid "生活時間（配偶者）：趣味・娯楽・交際など／分（緊急事態宣言中・指示のあった休業日）"
-msgstr ""
+msgstr "Dairy schedule (spouse): hobbies, entertainment, socializing, etc. / minutes (during a declared state of emergency / days taken off as instructed)"
 
 #: ../../variable/Q1292IM.rst:11
 msgid "変数名"
@@ -36,19 +36,19 @@ msgstr "Question"
 
 #: ../../variable/Q1292IM.rst:21
 msgid "国の緊急事態宣言が発令されていた期間のご主人の生活時間についておたずねします。平日、在宅勤務のあった平日、休日、会社・雇い主の指示による休業日に分けて、それぞれの生活時間をお答えください。在宅勤務、指示による休業日がない場合は、その回答欄は無記入のままにしてください。"
-msgstr ""
+msgstr "We would like to ask you about your housband's daily schedule during the State of Emergency. Please divide his time into the following categories: weekdays, weekdays when he worked from home, holidays, and days when he were absent from work due to instructions from his company or employer. If he did not work at home or take days off due to instructions, please leave that section blank."
+
 
 #: ../../variable/Q1292IM.rst:24
 msgid "指示のあった休業日：趣味・娯楽・交際など"
-msgstr ""
-
+msgstr "Days taken off as instructed: hobbies, entertainment, socializing, etc."
 #: ../../variable/Q1292IM.rst:33
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
 #: ../../variable/Q1292IM.rst:35
 msgid "＿ 0 分"
-msgstr ""
+msgstr "_ 0 minites"
 
 #: ../../variable/Q1292IM.rst:42
 msgid "桁あふれコード"
@@ -56,7 +56,7 @@ msgstr "Overflow code"
 
 #: ../../variable/Q1292IM.rst:49
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response code’"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1292IM.rst:56
 msgid "無回答コード"
