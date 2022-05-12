@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../variable/Q1239.rst:6
 msgid "手取り収入の比較：緊急事態宣言中と2020年9月"
-msgstr ""
+msgstr "Net income during the declaration of a state of emergency (April 2020): Comparison with take-home income in September 2020"
 
 #: ../../variable/Q1239.rst:11
 msgid "変数名"
@@ -35,12 +35,12 @@ msgid "質問文"
 msgstr "Question"
 
 #: ../../variable/Q1239.rst:21
-msgid "９月の手取り収入（収入総額から税金、社会保険料などを差し引いた額）（ボーナス、臨時の給与は除きます）と比べて、国の緊急事態宣言発令中（４月、５月のうち収入が最も減った月。変わらなければ５月）の手取り収入はいかがでしたか。"
-msgstr ""
+msgid "2020年9月の手取り収入（収入総額から税金、社会保険料などを差し引いた額）（ボーナス、臨時の給与は除きます）と比べて、国の緊急事態宣言発令中（4月、5月のうち収入が最も減った月。変わらなければ5月）の手取り収入はいかがでしたか。"
+msgstr "Compared to your take-home pay (total income minus taxes, social insurance premiums, etc.) in September 2020 (excluding bonuses and extra pay), how was your net income during the national state of emergency declaration (April or May, whichever month saw the greatest decrease in income; May if no change)?"
 
 #: ../../variable/Q1239.rst:24
 msgid "あなた → ９月の手取り収入と比べて"
-msgstr ""
+msgstr "You"
 
 #: ../../variable/Q1239.rst:33
 msgid "選択肢 / 記入欄"
@@ -48,19 +48,20 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1239.rst:35
 msgid "多かった"
-msgstr ""
+msgstr "More than your take-home income in September"
 
 #: ../../variable/Q1239.rst:36
 msgid "少なかった"
-msgstr ""
+
+msgstr "Less than your take-home income in September"
 
 #: ../../variable/Q1239.rst:37
 msgid "変わらなかった"
-msgstr ""
+msgstr "No change"
 
 #: ../../variable/Q1239.rst:38
 msgid "いずれも収入はなかった"
-msgstr ""
+msgstr "No income"
 
 #: ../../variable/Q1239.rst:46
 msgid "桁あふれコード"
@@ -68,7 +69,7 @@ msgstr "Overflow code"
 
 #: ../../variable/Q1239.rst:53
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response code’"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1239.rst:60
 msgid "無回答コード"
@@ -88,5 +89,5 @@ msgstr "Data files (csv)"
 
 #: ../../variable/Q1239.rst:80
 msgid "p28_2"
-msgstr ""
+msgstr "p28_2"
 
