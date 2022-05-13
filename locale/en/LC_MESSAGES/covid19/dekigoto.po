@@ -123,7 +123,7 @@ msgstr ":doc:`Q1293J </variable/Q1293J>`"
 
 #: ../../covid19/dekigoto.rst:26
 msgid "その他：特にない"
-msgstr "Other: Not particularly"
+msgstr "Other: not particularly"
 
 #: ../../covid19/dekigoto.rst:26
 msgid ":doc:`Q1293K </variable/Q1293K>`"

@@ -90,7 +90,7 @@ msgstr ":doc:`Q1263B </variable/Q1263B>`"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid "中学生"
-msgstr "Junior-high school  student"
+msgstr "Junior-high school student"
 
 #: ../../covid19/tokubetsu_kyufu/kyufukin_kodomo.rst:1
 msgid ":doc:`Q1263C </variable/Q1263C>`"

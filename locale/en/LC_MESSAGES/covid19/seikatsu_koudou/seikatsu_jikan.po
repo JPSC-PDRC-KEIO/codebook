@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:3
 msgid "緊急事態宣言中の生活時間（本人）"
-msgstr ""
+msgstr "Dairy schedule during a declared state of emergency (yours)"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:6
 msgid "質問文"
@@ -28,35 +28,35 @@ msgstr "Question"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:8
 msgid "国の緊急事態宣言が発令されていた期間のあなたの生活時間についておたずねします。平日、在宅勤務のあった平日、休日、会社・雇い主の指示による休業日に分けて、それぞれの生活時間をお答えください。在宅勤務、指示による休業日がない場合は、その回答欄は無記入のままにしてください。"
-msgstr ""
+msgstr "We would like to ask you about your daily schedule during the State of Emergency. Please divide your time into the following categories: weekdays, weekdays when you worked from home, holidays, and days when you were absent from work due to instructions from your company or employer. If you did not work at home or take days off due to instructions, please leave that section blank."
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:10
 msgid "単位は、＿＿時間＿0分"
-msgstr ""
+msgstr "The unit is _____ hours _____ minutes."
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:14
 msgid "この質問の変数名は「時間」（末尾H）と「分」（末尾M）に分かれており、「分」は十の位のみ収録しています。"
-msgstr ""
+msgstr "The variable names in this question are divided into \"hours\" (ending in H) and \"minutes\" (ending in M), with \"minutes\" containing only the tenth place."
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid "通常の平日（在宅勤務でない）"
-msgstr ""
+msgstr "Regular weekdays (not working from home)"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid "平日・在宅勤務の日"
-msgstr ""
+msgstr "Weekdays and working from home days"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid "＿＿時間"
-msgstr ""
+msgstr "＿＿ hours"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid "＿分"
-msgstr ""
+msgstr "＿ minutes"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid "通勤・通学"
-msgstr ""
+msgstr "Commuting to work or school"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid ":doc:`Q1285AH </variable/Q1285AH>`"
@@ -76,7 +76,7 @@ msgstr ""
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid "仕事"
-msgstr ""
+msgstr "Work"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid ":doc:`Q1285BH </variable/Q1285BH>`"
@@ -96,7 +96,7 @@ msgstr ""
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid "勉学"
-msgstr ""
+msgstr "Study"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid ":doc:`Q1285CH </variable/Q1285CH>`"
@@ -116,7 +116,7 @@ msgstr ""
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid "家事・育児"
-msgstr ""
+msgstr "Housework/Childcare"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid ":doc:`Q1285DH </variable/Q1285DH>`"
@@ -136,7 +136,7 @@ msgstr ""
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid "趣味・娯楽・交際など"
-msgstr ""
+msgstr "Hobbies, entertainment, socializing, etc."
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid ":doc:`Q1285IH </variable/Q1285IH>`"
@@ -156,7 +156,7 @@ msgstr ""
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid "上記以外の睡眠、食事、入浴、身の回りの用事など"
-msgstr ""
+msgstr "Sleeping, eating, bathing, and personal errands other than the above"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid ":doc:`Q1285MH </variable/Q1285MH>`"
@@ -176,11 +176,11 @@ msgstr ""
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid "ふつうの休日"
-msgstr ""
+msgstr "Ordinary holiday"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid "指示のあった休業日"
-msgstr ""
+msgstr "Days taken off as instructed"
 
 #: ../../covid19/seikatsu_koudou/seikatsu_jikan.rst:1
 msgid ":doc:`Q1287AH </variable/Q1287AH>`"

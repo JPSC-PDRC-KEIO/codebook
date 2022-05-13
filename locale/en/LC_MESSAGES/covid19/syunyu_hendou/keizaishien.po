@@ -38,7 +38,7 @@ msgstr ""
 "Since April of this year, have you applied for or are you considering "
 "applying for any of the following financial support offered by the "
 "national or local governments due to COVID-19? \n"
-"（Circle as many as pertain to you.)"
+"\(Circle as many as pertain to you.)"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:1
 msgid "項目"

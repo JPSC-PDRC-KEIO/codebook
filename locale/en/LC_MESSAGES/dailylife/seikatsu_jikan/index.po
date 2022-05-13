@@ -212,62 +212,62 @@ msgstr ""
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1250AH </variable/Q1250AH>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ":doc:`Q1250AH </variable/Q1250AH>`"
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1250AM </variable/Q1250AM>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ":doc:`Q1250AM </variable/Q1250AM>`"
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1250BH </variable/Q1250BH>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ":doc:`Q1250BH </variable/Q1250BH>`"
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1250BM </variable/Q1250BM>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1250CH </variable/Q1250CH>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1250CM </variable/Q1250CM>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1250DH </variable/Q1250DH>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1250DM </variable/Q1250DM>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1250IH </variable/Q1250IH>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1250IM </variable/Q1250IM>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1250MH </variable/Q1250MH>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1250MM </variable/Q1250MM>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:55
 msgid "配偶者の生活時間（有配偶のみ）"
@@ -363,7 +363,7 @@ msgstr ":doc:`Q495MH </variable/Q495MH>`"
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 msgid ":doc:`Q495MM </variable/Q495MM>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 msgid ":doc:`Q496MH </variable/Q496MH>`"
@@ -376,62 +376,62 @@ msgstr ":doc:`Q496MM </variable/Q496MM>`"
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1253AH </variable/Q1253AH>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1253AM </variable/Q1253AM>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1253BH </variable/Q1253BH>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1253BM </variable/Q1253BM>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1253CH </variable/Q1253CH>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1253CM </variable/Q1253CM>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1253DH </variable/Q1253DH>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1253DM </variable/Q1253DM>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1253IH </variable/Q1253IH>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1253IM </variable/Q1253IM>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1253MH </variable/Q1253MH>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #: ../../dailylife/seikatsu_jikan/index.rst:1
 
 msgid ":doc:`Q1253MM </variable/Q1253MM>`"
-msgstr ":doc:`Q495MM </variable/Q495MM>`"
+msgstr ""
 
 #~ msgid "質問文"
 #~ msgstr "Question"
