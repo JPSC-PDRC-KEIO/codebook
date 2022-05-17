@@ -58,7 +58,7 @@ msgstr "Junior college or Colleges of Technology (KOSEN)"
 
 #: ../../kihon_hs/Q61SR.rst:20
 msgid "大学（4年制）"
-msgstr "Collage or University (4years)"
+msgstr "College or University (4years)"
 
 #: ../../kihon_hs/Q61SR.rst:21
 msgid "大学院"
