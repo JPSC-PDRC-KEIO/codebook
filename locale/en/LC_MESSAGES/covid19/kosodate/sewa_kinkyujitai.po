@@ -4,189 +4,212 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-05-16 12:10+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:3
 msgid "お子さんの世話について（緊急事態宣言中）"
-msgstr ""
+msgstr "Care of your child (during a declared state of emergency)"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:7
 msgid "休校中・休園中の平日日中にお子さんを世話していた人"
 msgstr ""
+"People who cared for your children during the daytime on weekdays when schools, "
+"preschools or kindergartens were closed."
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:10
 msgid ""
-"この質問は、:doc:`Q1245 </variable/Q1245>` "
-"で「1．中学生以下の子ども全員が休校・休園になった」「2．中学生以下の子どもで、休校・休園になった子と、ならなかった子（未就園児も含む）がいた」と回答した方にお答えいただく質問です。"
+"この質問は、:doc:`Q1245 </variable/Q1245>` で「1．中学生以下の子ども全員が休校・休園に"
+"なった」「2．中学生以下の子どもで、休校・休園になった子と、ならなかった子（未就園児も"
+"含む）がいた」と回答した方にお答えいただく質問です。"
 msgstr ""
+"This question is for those who answered \"1. Kindergartens, preschools and schools "
+"for all children under junior high school age were closed.l\" or \"2. Of the children "
+"who were junior high school age or younger, some were absent from kindergarten, "
+"preschool, or school, and some were not (including preschoolers).\" in :doc:`Q1245 </"
+"variable/Q1245>`."
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:13
-msgid "休校・休園中の平日の日中（本来であれば、登校・登園していた時間帯）に中学生までのお子さん（たち）のお世話をしていたのはどなたですか。（あてはまるものすべてに○）"
+msgid ""
+"休校・休園中の平日の日中（本来であれば、登校・登園していた時間帯）に中学生までのお子さ"
+"ん（たち）のお世話をしていたのはどなたですか。（あてはまるものすべてに○）"
 msgstr ""
+"Who took care of your children up to junior high school age during the daytime on "
+"weekdays when school, preschool, or kindergarten was closed? (circle all pertain to "
+"your child(ren))"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "変数"
-msgstr ""
+msgstr "Variable"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "あなた"
-msgstr ""
+msgstr "You"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid ":doc:`Q1246A </variable/Q1246A>`"
-msgstr ""
+msgstr ":doc:`Q1246A </variable/Q1246A>`"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "お子さんの父親"
-msgstr ""
+msgstr "Father of your child"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid ":doc:`Q1246B </variable/Q1246B>`"
-msgstr ""
+msgstr ":doc:`Q1246B </variable/Q1246B>`"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "お子さんの祖父母・親戚"
-msgstr ""
+msgstr "Grandparents/relatives of your child"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid ":doc:`Q1246C </variable/Q1246C>`"
-msgstr ""
+msgstr ":doc:`Q1246C </variable/Q1246C>`"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "お子さんのきょうだい"
-msgstr ""
+msgstr "Your child's siblings"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid ":doc:`Q1246D </variable/Q1246D>`"
-msgstr ""
+msgstr ":doc:`Q1246D </variable/Q1246D>`"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "お子さんの友だち"
-msgstr ""
+msgstr "Friends of your child"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid ":doc:`Q1246E </variable/Q1246E>`"
-msgstr ""
+msgstr ":doc:`Q1246E </variable/Q1246E>`"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "近隣の人や子どもの友だちの親"
-msgstr ""
+msgstr "Neighbors and parents of children's friends"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid ":doc:`Q1246F </variable/Q1246F>`"
-msgstr ""
+msgstr ":doc:`Q1246F </variable/Q1246F>`"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "あなたの友人・知人"
-msgstr ""
+msgstr "Your friends or acquaintances"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid ":doc:`Q1246G </variable/Q1246G>`"
-msgstr ""
+msgstr ":doc:`Q1246G </variable/Q1246G>`"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "ベビーシッター・家政婦など"
-msgstr ""
+msgstr "Babysitter, housekeeper, etc."
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid ":doc:`Q1246H </variable/Q1246H>`"
-msgstr ""
+msgstr ":doc:`Q1246H </variable/Q1246H>`"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "保育園・学童保育など"
-msgstr ""
+msgstr "Nursery school, after-school program, etc."
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid ":doc:`Q1246I </variable/Q1246I>`"
-msgstr ""
+msgstr ":doc:`Q1246I </variable/Q1246I>`"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "塾・習い事など"
-msgstr ""
+msgstr "Juku, after school activities, etc."
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid ":doc:`Q1246J </variable/Q1246J>`"
-msgstr ""
+msgstr ":doc:`Q1246J </variable/Q1246J>`"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "部活・クラブ活動など"
-msgstr ""
+msgstr "Club activities, etc."
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid ":doc:`Q1246K </variable/Q1246K>`"
-msgstr ""
+msgstr ":doc:`Q1246K </variable/Q1246K>`"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "一人でいる（世話の必要あり）"
-msgstr ""
+msgstr "Alone (needs care)"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid ":doc:`Q1246L </variable/Q1246L>`"
-msgstr ""
+msgstr ":doc:`Q1246L </variable/Q1246L>`"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "一人でいる（世話の必要なし）"
-msgstr ""
+msgstr "Alone (no need for care)"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid ":doc:`Q1246M </variable/Q1246M>`"
-msgstr ""
+msgstr ":doc:`Q1246M </variable/Q1246M>`"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid ":doc:`Q1246N </variable/Q1246N>`"
-msgstr ""
+msgstr ":doc:`Q1246N </variable/Q1246N>`"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:37
 msgid "休校中・休園中の平日日中に最もお子さんと長くいた人"
 msgstr ""
+"Person who spent the most time with your child during the daytime on weekdays when "
+"school, preschool, or kindergarten was closed."
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:39
 msgid ""
-"高校生以上のお子さんを含め、第１子から第３子までのお子さんについて、休校・休園中の平日の日中、最も長く一緒にいた人・場所はどちらですか。上記の１～14"
-" の中から１つずつお答えください。未就園児、休校がなかったお子さん、中学校を既に卒業している場合は０とお書きください。"
+"高校生以上のお子さんを含め、第１子から第３子までのお子さんについて、休校・休園中の平日"
+"の日中、最も長く一緒にいた人・場所はどちらですか。上記の１～14 の中から１つずつお答え"
+"ください。未就園児、休校がなかったお子さん、中学校を既に卒業している場合は０とお書きく"
+"ださい。"
 msgstr ""
+"For your first through third children, including those in high school and older, "
+"which person/place did they spend the most time with during the weekday when school, "
+"preschool, or kindergarten was closed? Please answer one from each of the above 1-14. "
+"Please write 0 for preschoolers, children who were not absent from school, and "
+"children who have already graduated from junior high school."
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "第1子"
-msgstr ""
+msgstr "First child"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid ":doc:`Q1247A </variable/Q1247A>`"
-msgstr ""
+msgstr ":doc:`Q1247A </variable/Q1247A>`"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "第2子"
-msgstr ""
+msgstr "Second child"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid ":doc:`Q1247B </variable/Q1247B>`"
-msgstr ""
+msgstr ":doc:`Q1247B </variable/Q1247B>`"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid "第3子"
-msgstr ""
+msgstr "Third child"
 
 #: ../../covid19/kosodate/sewa_kinkyujitai.rst:1
 msgid ":doc:`Q1247C </variable/Q1247C>`"
-msgstr ""
-
+msgstr ":doc:`Q1247C </variable/Q1247C>`"
