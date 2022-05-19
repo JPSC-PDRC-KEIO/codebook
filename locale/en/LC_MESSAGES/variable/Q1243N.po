@@ -4,23 +4,24 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-05-09 14:52+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q1243N.rst:6
 msgid "平日夕方子どもの世話をしている人：その他"
-msgstr ""
+msgstr "Weekday evening child care provider: Other"
 
 #: ../../variable/Q1243N.rst:11
 msgid "変数名"
@@ -28,7 +29,7 @@ msgstr "Variable name"
 
 #: ../../variable/Q1243N.rst:13
 msgid "Q1243N"
-msgstr ""
+msgstr "Q1243N"
 
 #: ../../variable/Q1243N.rst:18
 msgid "質問文"
@@ -36,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q1243N.rst:21
 msgid "平日の夕方（16～18 時頃）、お子さんのお世話をしているのはどなたですか。あてはまる方・場所、すべてを選んでください。（○はいくつでも）"
-msgstr ""
+msgstr "Who takes care of your child on weekday evenings (around 4-6pm)? Please choose all the persons/places that apply. (Circle all pertain to you)."
 
 #: ../../variable/Q1243N.rst:24
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../variable/Q1243N.rst:33
 msgid "選択肢 / 記入欄"
@@ -60,7 +61,7 @@ msgstr "No response code"
 
 #: ../../variable/Q1243N.rst:57
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../variable/Q1243N.rst:63
 msgid "備考"
@@ -73,4 +74,3 @@ msgstr "Data files (csv)"
 #: ../../variable/Q1243N.rst:76
 msgid "p28_4"
 msgstr ""
-

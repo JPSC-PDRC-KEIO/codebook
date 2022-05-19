@@ -4,23 +4,24 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2022-04-21 14:56+0900\n"
+"PO-Revision-Date: 2022-05-09 13:21+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q1245.rst:6
-msgid "緊急事態宣言発令中（2020年4月）の子どもの様子"
-msgstr ""
+msgid "緊急事態宣言発令中（2020年4月）の休校・休園"
+msgstr "Closure of schools and preschools during a declared state of emergency (April 2020)"
 
 #: ../../variable/Q1245.rst:11
 msgid "変数名"
@@ -36,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q1245.rst:21
 msgid "国の緊急事態宣言発令中の平日のお子さんの様子についておたずねします。"
-msgstr ""
+msgstr "We would like to ask you about your child's condition on weekdays during the national state of emergency declaration."
 
 #: ../../variable/Q1245.rst:24
 msgid "幼稚園・保育園・学校の状況について、中学生までの子どもが通う園や学校が休校・休園になったことはありましたか。(〇は１つだけ)"
-msgstr ""
+msgstr "Have any of kindergartens, the preschools or schools attended by your children up to junior high school age been closed? (Please circle only one.)"
 
 #: ../../variable/Q1245.rst:33
 msgid "選択肢 / 記入欄"
@@ -48,19 +49,19 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1245.rst:35
 msgid "中学生以下の子ども全員が休校・休園になった"
-msgstr ""
+msgstr "Kindergartens, preschools and schools for all children under junior high school age were closed."
 
 #: ../../variable/Q1245.rst:36
 msgid "中学生以下の子どもで、休校・休園になった子と、ならなかった子（未就園児も含む）がいた"
-msgstr ""
+msgstr "Of the children who were junior high school age or younger, some were absent from kindergarten, preschool, or school, and some were not (including preschoolers)."
 
 #: ../../variable/Q1245.rst:37
 msgid "中学生以下の子どもで、休校・休園になった子はいない"
-msgstr ""
+msgstr "None of the children aged junior high school or younger have had their schools, preschools or kindergartens closed."
 
 #: ../../variable/Q1245.rst:38
 msgid "中学生以下の子どもはすべて未就園児"
-msgstr ""
+msgstr "All children of junior high school age and younger are preschoolers"
 
 #: ../../variable/Q1245.rst:44
 msgid "桁あふれコード"
@@ -76,7 +77,7 @@ msgstr "No response code"
 
 #: ../../variable/Q1245.rst:59
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../variable/Q1245.rst:65
 msgid "備考"
@@ -89,4 +90,3 @@ msgstr "Data files (csv)"
 #: ../../variable/Q1245.rst:78
 msgid "p28_4"
 msgstr ""
-

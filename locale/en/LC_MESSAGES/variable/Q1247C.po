@@ -4,23 +4,33 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-
 msgid ""
 msgstr ""
-"Project-Id-Version: JPSC codebook 0.1\n"
+"Project-Id-Version: JPSC codebook "
+"0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2022-01-06 "
+"14:05+0900\n"
+"PO-Revision-Date: 2022-05-16 "
+"14:38+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; "
+"charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q1247C.rst:6
-msgid "休園・休校中最も長くいる人・第三子"
+msgid ""
+"休園・休校中最も長くいる人・第三子"
 msgstr ""
+"Person with whom the child will be "
+"with the longest during school, "
+"preschool, or kindergarten closure: "
+"Third child"
 
 #: ../../variable/Q1247C.rst:11
 msgid "変数名"
@@ -28,7 +38,7 @@ msgstr "Variable name"
 
 #: ../../variable/Q1247C.rst:13
 msgid "Q1247C"
-msgstr ""
+msgstr "Q1247C"
 
 #: ../../variable/Q1247C.rst:18
 msgid "質問文"
@@ -36,13 +46,31 @@ msgstr "Question"
 
 #: ../../variable/Q1247C.rst:21
 msgid ""
-"高校生以上のお子さんを含め、第１子から第３子までのお子さんについて、休校・休園中の平日の日中、最も長く一緒にいた人・場所はどちらですか。上記の１～14"
-" の中から１つずつお答えください。未就園児、休校がなかったお子さん、中学校を既に卒業している場合は０とお書きください。"
+"高校生以上のお子さんを含め、第１子か"
+"ら第３子までのお子さんについて、休"
+"校・休園中の平日の日中、最も長く一緒"
+"にいた人・場所はどちらですか。上記の"
+"１～14 の中から１つずつお答えくださ"
+"い。未就園児、休校がなかったお子さ"
+"ん、中学校を既に卒業している場合は０"
+"とお書きください。"
 msgstr ""
+"For your first through third "
+"children, including those in high "
+"school and older, which person/"
+"place did they spend the most time "
+"with during the weekday days when "
+"school, preschool, or kindergarten "
+"was closed? Please answer one from "
+"each of the above 1-14. Please "
+"write 0 for preschoolers, children "
+"who were not absent from school, "
+"and children who have already "
+"graduated from junior high school."
 
 #: ../../variable/Q1247C.rst:24
 msgid "第3子"
-msgstr ""
+msgstr "Third child"
 
 #: ../../variable/Q1247C.rst:33
 msgid "選択肢 / 記入欄"
@@ -50,59 +78,66 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1247C.rst:35
 msgid "あなた"
-msgstr ""
+msgstr "You"
 
 #: ../../variable/Q1247C.rst:36
 msgid "お子さんの父親"
-msgstr ""
+msgstr "Child's father"
 
 #: ../../variable/Q1247C.rst:37
 msgid "お子さんの祖父母・親戚"
 msgstr ""
+"Child's grandparents/relatives"
 
 #: ../../variable/Q1247C.rst:38
 msgid "お子さんのきょうだい"
-msgstr ""
+msgstr "Your child's siblings"
 
 #: ../../variable/Q1247C.rst:39
 msgid "お子さんの友だち"
-msgstr ""
+msgstr "Your child's friends"
 
 #: ../../variable/Q1247C.rst:40
 msgid "近隣の人や子どもの友だちの親"
 msgstr ""
+"Neighbors and parents of your "
+"children's friends"
 
 #: ../../variable/Q1247C.rst:41
 msgid "あなたの友人・知人"
-msgstr ""
+msgstr "Your friends or acquaintances"
 
 #: ../../variable/Q1247C.rst:42
 msgid "ベビーシッター・家政婦など"
-msgstr ""
+msgstr "Babysitter, housekeeper, etc."
 
 #: ../../variable/Q1247C.rst:43
 msgid "保育園・学童保育など"
 msgstr ""
+"Nursery school, after-school "
+"program, etc."
 
 #: ../../variable/Q1247C.rst:44
 msgid "塾・習い事など"
 msgstr ""
+"Juku, extracurricular activities, "
+"etc."
 
 #: ../../variable/Q1247C.rst:45
 msgid "部活・クラブ活動など"
-msgstr ""
+msgstr "Club activities, etc."
 
 #: ../../variable/Q1247C.rst:46
 msgid "一人でいる（世話の必要あり）"
-msgstr ""
+msgstr "Alone (needs care)"
 
 #: ../../variable/Q1247C.rst:47
 msgid "一人でいる（世話の必要なし）"
-msgstr ""
+msgstr "Alone (no need for care)"
 
 #: ../../variable/Q1247C.rst:48
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../variable/Q1247C.rst:55
 msgid "桁あふれコード"
@@ -110,7 +145,7 @@ msgstr "Overflow code"
 
 #: ../../variable/Q1247C.rst:56
 msgid "98"
-msgstr ""
+msgstr "98"
 
 #: ../../variable/Q1247C.rst:62
 msgid "分類不能の回答コード"
@@ -122,7 +157,7 @@ msgstr "No response code"
 
 #: ../../variable/Q1247C.rst:70
 msgid "99"
-msgstr ""
+msgstr "99"
 
 #: ../../variable/Q1247C.rst:76
 msgid "備考"
@@ -135,4 +170,3 @@ msgstr "Data files (csv)"
 #: ../../variable/Q1247C.rst:89
 msgid "p28_4"
 msgstr ""
-
