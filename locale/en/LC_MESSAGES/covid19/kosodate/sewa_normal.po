@@ -29,6 +29,10 @@ msgid "平日の夕方にお子さんを世話している人"
 msgstr "Children's care giver on weekday evenings."
 
 #: ../../covid19/kosodate/sewa_normal.rst:9
+msgid "平日の夕方（16～18時頃）、お子さんのお世話をしているのはどなたですか。あてはまる方、場所、すべてを選んで下さい。（〇はいくつでも）"
+
+msgstr "Who takes care of your child on weekday evenings (around 4-6pm)? Please choose all the persons/places that apply. (Circle all pertain to you)."
+
 #: ../../covid19/kosodate/sewa_normal.rst:36
 msgid ""
 "第１子から第３子のお子さんについて、平日の夕方（16～18 時頃）"

@@ -20,7 +20,7 @@
 	 住宅購入が不可能になった, ":doc:`Q1073B </variable/Q1073B>`"
 	 住宅購入の時期を遅らせた, ":doc:`Q1073C </variable/Q1073C>`"
 	 住宅の購入価格を下げた, ":doc:`Q1073D </variable/Q1073D>`"
-   住宅の購入価格を上げた, ":doc:`Q1073E </variable/Q1073E>`"
+    住宅の購入価格を上げた, ":doc:`Q1073E </variable/Q1073E>`"
 	 その他, ":doc:`Q1073F </variable/Q1073F>`"
 	 何の影響もなかった, ":doc:`Q1073G </variable/Q1073G>`"
 

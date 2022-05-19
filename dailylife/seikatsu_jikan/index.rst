@@ -86,6 +86,8 @@
    "趣味・娯楽・交際など", :doc:`Q1253IH </variable/Q1253IH>`, :doc:`Q1253IM </variable/Q1253IM>`
    "上記以外の睡眠、食事、入浴、身の回りの用事など", :doc:`Q1253MH </variable/Q1253MH>`, :doc:`Q1253MM </variable/Q1253MM>`
 
+.. notice:: 在宅勤務時の生活時間についての調査は、第28回から追加されました。
+
 .. toctree::
    :maxdepth: 1
    :hidden:
