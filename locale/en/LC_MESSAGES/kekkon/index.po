@@ -21,5 +21,5 @@ msgstr ""
 "X-Generator: Poedit 2.2.4\n"
 
 #: ../../kekkon/index.rst:3
-msgid "結婚・夫婦関係について"
-msgstr "Marriage and marital relationships"
+msgid "結婚について"
+msgstr "Marriage"
