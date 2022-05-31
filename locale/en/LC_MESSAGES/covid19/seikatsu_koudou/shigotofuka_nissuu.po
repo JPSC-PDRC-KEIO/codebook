@@ -4,23 +4,24 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-05-31 09:34+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../covid19/seikatsu_koudou/shigotofuka_nissuu.rst:3
 msgid "新型コロナウイルス感染症の影響により仕事が出来なかった日数"
-msgstr ""
+msgstr "Number of days unable to work due to the Covid-19 pandemic."
 
 #: ../../covid19/seikatsu_koudou/shigotofuka_nissuu.rst:6
 msgid "質問文"
@@ -28,23 +29,23 @@ msgstr "Question"
 
 #: ../../covid19/seikatsu_koudou/shigotofuka_nissuu.rst:7
 msgid "あなたとご主人は今年の４月に、新型コロナウイルス感染症の流行の影響（※）でお仕事ができなかった日は何日ありましたか。お仕事をされていなかった場合は０とご記入ください。"
-msgstr ""
+msgstr "How many days in April of this year were you and your husband unable to work due to the outbreak* of the Covid-19? Please enter 0 if you were not working."
 
 #: ../../covid19/seikatsu_koudou/shigotofuka_nissuu.rst:9
 msgid "在宅勤務等をした日は仕事日とし、通常の休日は含めないでください。"
-msgstr ""
+msgstr "Please count the days you worked from home as work days, and do not include regular holidays as days you were unable to work."
 
 #: ../../covid19/seikatsu_koudou/shigotofuka_nissuu.rst:11
 msgid "※お勤め先の指示(自宅待機など) 、事業の営業休止、子どもの休校・休園、介護サービスの休止など"
-msgstr ""
+msgstr "※Instructions from your place of employment (e.g., stay at home), suspension of business operations, closure of school or preschool for children, suspension of care services, etc."
 
 #: ../../covid19/seikatsu_koudou/shigotofuka_nissuu.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../covid19/seikatsu_koudou/shigotofuka_nissuu.rst:1
 msgid "日数"
-msgstr ""
+msgstr "a number of days"
 
 #: ../../covid19/seikatsu_koudou/shigotofuka_nissuu.rst:1
 msgid "変数名"
@@ -52,21 +53,20 @@ msgstr "Variable name"
 
 #: ../../covid19/seikatsu_koudou/shigotofuka_nissuu.rst:1
 msgid "あなた…４月１ヵ月に→"
-msgstr ""
+msgstr "You...in April for a month →"
 
 #: ../../covid19/seikatsu_koudou/shigotofuka_nissuu.rst:1
 msgid "＿ ＿ 日"
-msgstr ""
+msgstr "_ _ Days"
 
 #: ../../covid19/seikatsu_koudou/shigotofuka_nissuu.rst:1
 msgid ":doc:`Q1283 </variable/Q1283>`"
-msgstr ""
+msgstr ":doc:`Q1283 </variable/Q1283>`"
 
 #: ../../covid19/seikatsu_koudou/shigotofuka_nissuu.rst:1
 msgid "ご主人…４月１ヵ月に→"
-msgstr ""
+msgstr "Your husband...in April for a month →"
 
 #: ../../covid19/seikatsu_koudou/shigotofuka_nissuu.rst:1
 msgid ":doc:`Q1284 </variable/Q1284>`"
-msgstr ""
-
+msgstr ":doc:`Q1284 </variable/Q1284>`"

@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-05-30 16:11+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/Q1031.rst:6
 msgid "雇用保険加入（配偶者）"
-msgstr ""
+msgstr "Employment insurance coverage (spouse)"
 
 #: ../../variable/Q1031.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q1031.rst:21
 msgid "ご主人は雇用保険に加入していますか。"
-msgstr ""
+msgstr "Does your husband have employment insurance?"
 
 #: ../../variable/Q1031.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,15 +45,15 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1031.rst:30
 msgid "会社の雇用保険に加入している"
-msgstr ""
+msgstr "He is covered by the company's employment insurance."
 
 #: ../../variable/Q1031.rst:31
 msgid "船員保険に加入している"
-msgstr ""
+msgstr "He has seamen's insurance."
 
 #: ../../variable/Q1031.rst:32
 msgid "どれにも加入していない"
-msgstr ""
+msgstr "None of the above"
 
 #: ../../variable/Q1031.rst:40
 msgid "桁あふれコード"
@@ -71,7 +73,7 @@ msgstr "Remarks"
 
 #: ../../variable/Q1031.rst:64
 msgid "就業に関する1年間の変化を聞いています。"
-msgstr ""
+msgstr "We asked about changes during the year related to employment."
 
 #: ../../variable/Q1031.rst:72
 msgid "収録シート"
@@ -79,79 +81,79 @@ msgstr "Data files (csv)"
 
 #: ../../variable/Q1031.rst:77
 msgid "p11ab_1"
-msgstr ""
+msgstr "p11ab_1"
 
 #: ../../variable/Q1031.rst:79
 msgid "p11c_1"
-msgstr ""
+msgstr "p11c_1"
 
 #: ../../variable/Q1031.rst:81
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: ../../variable/Q1031.rst:83
 msgid "p13_1"
-msgstr ""
+msgstr "p13_1"
 
 #: ../../variable/Q1031.rst:85
 msgid "p14_1"
-msgstr ""
+msgstr "p14_1"
 
 #: ../../variable/Q1031.rst:87
 msgid "p15_1"
-msgstr ""
+msgstr "p15_1"
 
 #: ../../variable/Q1031.rst:89
 msgid "p16abc_1"
-msgstr ""
+msgstr "p16abc_1"
 
 #: ../../variable/Q1031.rst:91
 msgid "p16d_1"
-msgstr ""
+msgstr "p16d_1"
 
 #: ../../variable/Q1031.rst:93
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: ../../variable/Q1031.rst:95
 msgid "p18_1"
-msgstr ""
+msgstr "p18_1"
 
 #: ../../variable/Q1031.rst:97
 msgid "p19_1"
-msgstr ""
+msgstr "p19_1"
 
 #: ../../variable/Q1031.rst:99
 msgid "p20_1"
-msgstr ""
+msgstr "p20_1"
 
 #: ../../variable/Q1031.rst:101
 msgid "p21abcd_1"
-msgstr ""
+msgstr "p21abcd_1"
 
 #: ../../variable/Q1031.rst:103
 msgid "p21e_1"
-msgstr ""
+msgstr "p21e_1"
 
 #: ../../variable/Q1031.rst:105
 msgid "p22_1"
-msgstr ""
+msgstr "p22_1"
 
 #: ../../variable/Q1031.rst:107
 msgid "p23_1"
-msgstr ""
+msgstr "p23_1"
 
 #: ../../variable/Q1031.rst:109
 msgid "p24_1"
-msgstr ""
+msgstr "p24_1"
 
 #: ../../variable/Q1031.rst:111
 msgid "p25_1"
-msgstr ""
+msgstr "p25_1"
 
 #: ../../variable/Q1031.rst:113
 msgid "p26_1"
-msgstr ""
+msgstr "p26_1"
 
 #: ../../variable/Q1031.rst:115
 msgid "p27_1"
@@ -169,4 +171,3 @@ msgstr ""
 
 #~ msgid "|nt2|"
 #~ msgstr ""
-
