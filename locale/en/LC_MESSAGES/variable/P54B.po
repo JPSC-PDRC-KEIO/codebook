@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-06-10 10:37+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.1\n"
 
 #: ../../variable/P54B.rst:5
 msgid "現職（会社）の選択理由〔第1回・第５回〕：休日、休暇が多い"
-msgstr ""
+msgstr "Reasons for choosing current job (company) [Wave1-5]: Many holidays and paid leave"
 
 #: ../../variable/P54B.rst:9
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/P54B.rst:18
 msgid "なぜ、あなたは現在の会社等を選びましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "Why did you choose your current employer? (Cirle all pertain to you)"
 
 #: ../../variable/P54B.rst:21
 msgid "休日、休暇が多い"
-msgstr ""
+msgstr "Many holidays and paid leave"
 
 #: ../../variable/P54B.rst:27
 msgid "選択肢 / 記入欄"
@@ -47,11 +49,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/P54B.rst:30
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/P54B.rst:32
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/P54B.rst:39
 msgid "桁あふれコード"
@@ -67,7 +69,7 @@ msgstr "No response code"
 
 #: ../../variable/P54B.rst:52
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../variable/P54B.rst:57
 msgid "備考"
@@ -79,15 +81,14 @@ msgstr "Data files (csv)"
 
 #: ../../variable/P54B.rst:68
 msgid "p1_1"
-msgstr ""
+msgstr "p1_1"
 
 #: ../../variable/P54B.rst:70
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #~ msgid "変数名: P54B"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

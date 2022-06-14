@@ -9,20 +9,20 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-31 17:58+0900\n"
-"PO-Revision-Date: 2021-05-31 11:36+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"PO-Revision-Date: 2022-06-06 14:24+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en_US\n"
-"X-Generator: Poedit 2.4.3\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.6.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../variable/P50.rst:5
 msgid "勤務日数：日給〔第1・５回〕"
-msgstr ""
+msgstr "Working days: monthly and weekly pay [Wave1 & 5]"
 
 #: ../../variable/P50.rst:9
 msgid "変数名"
@@ -38,7 +38,7 @@ msgstr "Question"
 
 #: ../../variable/P50.rst:18
 msgid "月に何日ぐらい働いていますか。"
-msgstr ""
+msgstr "How many days a month do you work?"
 
 #: ../../variable/P50.rst:24
 msgid "選択肢 / 記入欄"
@@ -46,7 +46,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/P50.rst:26
 msgid "＿ ＿ 日"
-msgstr ""
+msgstr "_ _ days"
 
 #: ../../variable/P50.rst:32
 msgid "桁あふれコード"
@@ -54,7 +54,7 @@ msgstr "Overflow code"
 
 #: ../../variable/P50.rst:33
 msgid "98"
-msgstr ""
+msgstr "98"
 
 #: ../../variable/P50.rst:38
 msgid "分類不能の回答コード"
@@ -66,7 +66,7 @@ msgstr "No response code"
 
 #: ../../variable/P50.rst:45
 msgid "99"
-msgstr ""
+msgstr "99"
 
 #: ../../variable/P50.rst:50
 msgid "備考"
@@ -78,11 +78,11 @@ msgstr "Data files (csv)"
 
 #: ../../variable/P50.rst:61
 msgid "p1_1"
-msgstr ""
+msgstr "p1_1"
 
 #: ../../variable/P50.rst:63
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #~ msgid "変数名: P50"
 #~ msgstr ""
