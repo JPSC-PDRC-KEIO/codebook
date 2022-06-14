@@ -26,8 +26,8 @@ msgid "Q564で「2.すぐにでもしたい」または「3.今はしたくな�
 msgstr ""
 
 #: ../../multi_var/Q566.rst:9
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q566.rst:10
 msgid "現在結婚していない理由をお聞かせください。（〇は３つまで）"
@@ -35,7 +35,7 @@ msgstr ""
 
 #: ../../multi_var/Q566.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q566.rst:1
 msgid "変数名"

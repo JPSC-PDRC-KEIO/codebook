@@ -25,7 +25,7 @@ msgid "病気・療養による生活変化"
 msgstr "Changes in life circumstances due to illness and medical treatment"
 
 #: ../../multi_var/Q132.rst:8
-msgid "質問文（複数回答）"
+msgid "質問文"
 msgstr "Question ( multiple answers )"
 
 #: ../../multi_var/Q132.rst:9

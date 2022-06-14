@@ -35,7 +35,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid "支出の有無"

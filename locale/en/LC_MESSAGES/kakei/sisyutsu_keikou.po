@@ -35,7 +35,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_keikou.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../kakei/sisyutsu_keikou.rst:1
 msgid "変数名"

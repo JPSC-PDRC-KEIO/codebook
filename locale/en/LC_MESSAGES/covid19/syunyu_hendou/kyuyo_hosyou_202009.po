@@ -25,7 +25,7 @@ msgid "2020年9月における給与・収入補償"
 msgstr "Salary and income compensation in September 2020"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:7
-msgid "質問文（複数回答）"
+msgid "質問文"
 msgstr "Question ( multiple answers )"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou_202009.rst:8

@@ -22,8 +22,8 @@ msgid "1年以内に購入した「価格破壊｣商品"
 msgstr ""
 
 #: ../../multi_var/Q906.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q906.rst:9
 msgid "(1）この1年間に購入した「価格破壊jの低価格商品はどれですか。（〇はいくつでも）"

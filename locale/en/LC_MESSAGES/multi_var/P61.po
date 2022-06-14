@@ -22,8 +22,8 @@ msgid "働き始めた理由"
 msgstr ""
 
 #: ../../multi_var/P61.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/P61.rst:8
 msgid "はじめて職業についた時、なぜ、あなたは働き始めたのですか。（〇はいくつでも）"

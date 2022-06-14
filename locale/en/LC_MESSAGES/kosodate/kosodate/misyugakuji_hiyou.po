@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../kosodate/kosodate/misyugakuji_hiyou.rst:1
 msgid "人数"

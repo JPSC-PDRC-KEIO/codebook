@@ -22,8 +22,8 @@ msgid "電子メールアドレス所有形態"
 msgstr ""
 
 #: ../../multi_var/Q992.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q992.rst:9
 msgid "あなたの電子メールアドレスは、自分だけのものですか。それでも他の人と共有していますか。（あてはまるものすべてに〇）"

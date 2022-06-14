@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2022-04-21 14:56+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../kosodate/kosodate/jyuku.rst:3
 msgid "子どもの学習塾等利用"
@@ -29,17 +29,65 @@ msgstr "Question"
 msgid "中学生以下のお子さんのうち一番年上のお子さんはは学習塾や予備校（家庭教師を含む）、英会話等に通っていますか。（〇はいくつでも）"
 msgstr ""
 
-#: ../../kosodate/kosodate/jyuku.rst:55
-msgid "その理由"
-msgstr ""
-
 #: ../../kosodate/kosodate/jyuku.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../kosodate/kosodate/jyuku.rst:1
 msgid "変数名"
 msgstr "Variable name"
+
+#: ../../kosodate/kosodate/jyuku.rst:1
+msgid "普段から通っている"
+msgstr ""
+
+#: ../../kosodate/kosodate/jyuku.rst:1
+msgid ":doc:`Q523A </variable/Q523A>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/jyuku.rst
+msgid "週に何回"
+msgstr ""
+
+#: ../../kosodate/kosodate/jyuku.rst
+msgid "月謝は月に"
+msgstr ""
+
+#: ../../kosodate/kosodate/jyuku.rst
+msgid ":doc:`Q523D </variable/Q523D>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/jyuku.rst
+msgid ":doc:`Q523E </variable/Q523E>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/jyuku.rst:1
+msgid "夏休みや冬休みの時に通っている"
+msgstr ""
+
+#: ../../kosodate/kosodate/jyuku.rst:1
+msgid ":doc:`Q523B </variable/Q523B>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/jyuku.rst:1
+msgid "費用は年に"
+msgstr ""
+
+#: ../../kosodate/kosodate/jyuku.rst:1
+msgid ":doc:`Q523F </variable/Q523F>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/jyuku.rst:1
+msgid "通っていない"
+msgstr ""
+
+#: ../../kosodate/kosodate/jyuku.rst:1
+msgid ":doc:`Q523C </variable/Q523C>`"
+msgstr ""
+
+#: ../../kosodate/kosodate/jyuku.rst:23
+msgid "その理由"
+msgstr ""
 
 #: ../../kosodate/kosodate/jyuku.rst:1
 msgid "学校（幼稚園）の成績が良くなると思うから"
@@ -113,11 +161,11 @@ msgstr ""
 msgid ":doc:`Q524I </variable/Q524I>`"
 msgstr ""
 
-#: ../../kosodate/kosodate/jyuku.rst:73
+#: ../../kosodate/kosodate/jyuku.rst:41
 msgid "結果の評価"
 msgstr ""
 
-#: ../../kosodate/kosodate/jyuku.rst:83
+#: ../../kosodate/kosodate/jyuku.rst:51
 msgid "今後の利用意向"
 msgstr ""
 

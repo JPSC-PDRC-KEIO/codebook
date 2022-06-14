@@ -22,8 +22,8 @@ msgid "購入した商品への不満"
 msgstr ""
 
 #: ../../multi_var/Q1133.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q1133.rst:9
 msgid ""

@@ -22,8 +22,8 @@ msgid "夫のインターネット利用"
 msgstr ""
 
 #: ../../multi_var/Q997.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q997.rst:8
 msgid "あなたのご主人はインターネットを利用していますか。"

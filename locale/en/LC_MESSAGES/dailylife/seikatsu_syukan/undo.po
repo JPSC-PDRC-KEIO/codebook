@@ -41,7 +41,7 @@ msgstr ""
 
 #: ../../dailylife/seikatsu_syukan/undo.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../dailylife/seikatsu_syukan/undo.rst:1
 msgid "変数名"

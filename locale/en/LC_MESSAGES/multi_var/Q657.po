@@ -22,8 +22,8 @@ msgid "景気動向が気になる理由・夫の仕事"
 msgstr ""
 
 #: ../../multi_var/Q657.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q657.rst:9
 msgid "ご主人の仕事との関連で、（景気動向が）気になる理由をあげてください。（〇はいくつでも）"

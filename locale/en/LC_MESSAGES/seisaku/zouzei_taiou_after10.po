@@ -32,7 +32,7 @@ msgstr ""
 
 #: ../../seisaku/zouzei_taiou_after10.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../seisaku/zouzei_taiou_after10.rst:1
 msgid "増税直後"

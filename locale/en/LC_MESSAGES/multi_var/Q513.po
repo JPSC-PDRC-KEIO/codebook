@@ -22,8 +22,8 @@ msgid "出産を望まない理由"
 msgstr ""
 
 #: ../../multi_var/Q513.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q513.rst:8
 msgid "（子どもは）なぜ欲しくないのですか。（〇はいくつでも）"

@@ -25,7 +25,7 @@ msgid "新型コロナウイルス感染症の影響による出来事"
 msgstr "Events caused by COVID-19"
 
 #: ../../covid19/dekigoto.rst:6
-msgid "質問文（複数回答）"
+msgid "質問文"
 msgstr "Question ( multiple answers )"
 
 #: ../../covid19/dekigoto.rst:9

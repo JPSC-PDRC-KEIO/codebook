@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../kekkon/kajibuntan.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../kekkon/kajibuntan.rst:1
 msgid "変数名"

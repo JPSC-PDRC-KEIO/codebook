@@ -24,8 +24,8 @@ msgid "収入管理"
 msgstr "Income management"
 
 #: ../../kakei/syunyukanri.rst:6
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../kakei/syunyukanri.rst:8
 msgid "お宅の月々の収入管理タイプについてうかがいます。"

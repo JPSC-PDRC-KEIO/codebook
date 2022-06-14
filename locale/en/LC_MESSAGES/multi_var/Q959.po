@@ -22,8 +22,8 @@ msgid "前年勤労収入なしの人・勤労調整したい理由"
 msgstr ""
 
 #: ../../multi_var/Q959.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q959.rst:9
 msgid "（年収が一定額を越えないように調整したいのは）どの理由によりますか。（〇はいくつでも）"

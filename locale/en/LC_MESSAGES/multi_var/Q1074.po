@@ -22,8 +22,8 @@ msgid "住宅ローン減税制度変更の影響：将来の資金贈与の見�
 msgstr ""
 
 #: ../../multi_var/Q1074.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q1074.rst:9
 msgid "このような住宅ローン減税の制度変更によって、将来次のような方からの住宅取得資金贈与があると思いますか。（〇はいくつでも）"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../multi_var/Q1074.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q1074.rst:1
 msgid "変数"

@@ -22,8 +22,8 @@ msgid "配偶者の育児参加〔第19回～〕"
 msgstr ""
 
 #: ../../multi_var/Q1161.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q1161.rst:8
 msgid "現在、ご主人は、育児・子育てにどの程度関わっていますか。（〇はいくつでも）"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../multi_var/Q1161.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q1161.rst:1
 msgid "変数"

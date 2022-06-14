@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../kosodate/kosodate/keikogoto.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../kosodate/kosodate/keikogoto.rst:1
 msgid "変数名"

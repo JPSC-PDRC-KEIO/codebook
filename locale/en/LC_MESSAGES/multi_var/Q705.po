@@ -22,8 +22,8 @@ msgid "結婚時に知人から送られた家具・家電"
 msgstr ""
 
 #: ../../multi_var/Q705.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q705.rst:9
 msgid "現在の結婚をするにあたって、親戚・知人・友人などからもらったものはありますか。（〇はいくつでも）"

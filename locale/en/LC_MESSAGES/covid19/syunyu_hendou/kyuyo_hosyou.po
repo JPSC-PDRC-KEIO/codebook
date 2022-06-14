@@ -25,7 +25,7 @@ msgid "緊急事態宣言（2020年4月）の給与・収入補償"
 msgstr "Compensation for salaries and income due to the declaration of a state of emergency (April 2020)"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou.rst:7
-msgid "質問文（複数回答）"
+msgid "質問文"
 msgstr "Question ( multiple answers )"
 
 #: ../../covid19/syunyu_hendou/kyuyo_hosyou.rst:8

@@ -22,8 +22,8 @@ msgid "借入れを断られた経験"
 msgstr ""
 
 #: ../../multi_var/Q870.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q870.rst:9
 msgid "あなた方ご夫婦は、この1年間（調査前年１０月～調査年９月）借入れをしたかったのに、断られたことがありますか。（〇はいくつでも）"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../multi_var/Q870.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q870.rst:1
 msgid "変数名"

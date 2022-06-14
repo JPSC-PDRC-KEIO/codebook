@@ -22,8 +22,8 @@ msgid "老後への備えで大切なこと"
 msgstr ""
 
 #: ../../multi_var/Q972.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q972.rst:9
 msgid "老後に備えてあなた自身は何をすることが大切だと思いますか。（〇はいくつでも）"

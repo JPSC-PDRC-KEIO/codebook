@@ -25,7 +25,7 @@ msgid "新型コロナウイルス感染症の影響による収入変動への�
 msgstr "Coping with income fluctuations due to the impact of COVID-19"
 
 #: ../../covid19/syunyu_hendou/hendou_taisyo.rst:7
-msgid "質問文（複数回答）"
+msgid "質問文"
 msgstr "Question ( multiple answers )"
 
 #: ../../covid19/syunyu_hendou/hendou_taisyo.rst:8

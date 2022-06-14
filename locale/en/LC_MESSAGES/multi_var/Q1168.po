@@ -22,8 +22,8 @@ msgid "配偶者との出会い"
 msgstr ""
 
 #: ../../multi_var/Q1168.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q1168.rst:8
 msgid "あなたは今のご主人とどのようなきっかけで出会いましたか。（〇はいくつでも）"
@@ -35,7 +35,7 @@ msgstr ""
 
 #: ../../multi_var/Q1168.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q1168.rst:1
 msgid "変数名"

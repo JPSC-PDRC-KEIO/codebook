@@ -22,8 +22,8 @@ msgid "インターネット利用目的"
 msgstr ""
 
 #: ../../multi_var/Q986.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q986.rst:9
 msgid "あなたご自身はインターネットを何に利用していますか。（あてはまるものすべてに〇）"

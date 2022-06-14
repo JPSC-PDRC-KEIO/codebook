@@ -22,8 +22,8 @@ msgid "インターネットで利用したサービス"
 msgstr ""
 
 #: ../../multi_var/Q1000.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q1000.rst:9
 msgid "次の中に、この1年間にインターネットで利用したサービスはありますか。（あてはまるものすべてに〇）"

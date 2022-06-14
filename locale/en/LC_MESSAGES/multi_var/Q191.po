@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-25 12:05+0900\n"
+"POT-Creation-Date: 2022-03-11 10:49+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,8 +22,8 @@ msgid "現職（会社）の選択理由"
 msgstr ""
 
 #: ../../multi_var/Q191.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q191.rst:8
 msgid "なぜ、あなたは現在の会社等を選びましたか。（〇はいくつでも）"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../multi_var/Q191.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q191.rst:1
 msgid "変数名"
@@ -136,7 +136,7 @@ msgstr ""
 #: ../../multi_var/Q191.rst:30
 msgid ""
 "現在有職の人への質問です。初回調査時と1年間に転職があった人に聞いています。この項目は、選択肢や変数名が以下のような変化をたどってきました。なお、コーホートAとコーホートB〔第1回・第5回〕では初回調査時の変数名が異なります。"
-"  :doc:`現職（会社）の選択理由〔第1回・第5回〕（P54） </multi_var/P54>` をご参照ください。"
+" :doc:`現職（会社）の選択理由〔第1回・第5回〕（P54） </multi_var/P54>` をご参照ください。"
 msgstr ""
 
 #~ msgid "変数名"
@@ -148,6 +148,12 @@ msgstr ""
 #~ msgid ""
 #~ "現在有職の人への質問です。初回調査時と1年間に転職があった人に聞いています。この項目は、選択肢や変数名が以下のような変化をたどってきました。なお、コーホートAとコーホートB〔第1回・第5回〕では初回調査時の変数名が異なります。"
 #~ " :doc:`現職（会社）の選択理由〔第1回・第5回〕（P54） </multi_var/P54>` "
+#~ "をご参照ください。"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "現在有職の人への質問です。初回調査時と1年間に転職があった人に聞いています。この項目は、選択肢や変数名が以下のような変化をたどってきました。なお、コーホートAとコーホートB〔第1回・第5回〕では初回調査時の変数名が異なります。"
+#~ "  :doc:`現職（会社）の選択理由〔第1回・第5回〕（P54） </multi_var/P54>` "
 #~ "をご参照ください。"
 #~ msgstr ""
 

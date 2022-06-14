@@ -22,8 +22,8 @@ msgid "結婚時に夫婦で持ち込んだ家具・家電"
 msgstr ""
 
 #: ../../multi_var/Q703.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q703.rst:9
 msgid "次のもののうち、あなたやご主人が以前から持っていたもので、現在の結婚生活に持ち込んだものはありますか。（〇はいくつでも）"

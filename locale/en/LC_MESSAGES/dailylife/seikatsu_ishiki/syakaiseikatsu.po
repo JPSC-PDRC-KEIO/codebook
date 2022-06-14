@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid "変数名"

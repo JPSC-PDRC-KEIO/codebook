@@ -22,8 +22,8 @@ msgid "景気動向を感じる瞬間"
 msgstr ""
 
 #: ../../multi_var/Q658.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q658.rst:9
 msgid "景気の動向をどのような時に感じますか。（〇はいくつでも）"

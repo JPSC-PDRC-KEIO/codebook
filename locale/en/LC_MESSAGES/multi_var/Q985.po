@@ -22,8 +22,8 @@ msgid "インターネット習得方法"
 msgstr ""
 
 #: ../../multi_var/Q985.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q985.rst:9
 msgid "あなたご自身はインターネットをどのように習得しましたか。（あてはまるものすべてに〇）"

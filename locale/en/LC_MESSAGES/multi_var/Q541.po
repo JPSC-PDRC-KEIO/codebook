@@ -22,8 +22,8 @@ msgid "受講理由"
 msgstr ""
 
 #: ../../multi_var/Q541.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q541.rst:8
 msgid "受講した理由をお聞かせ下さい。（〇は２つまで）"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../multi_var/Q541.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q541.rst:1
 msgid "変数名"

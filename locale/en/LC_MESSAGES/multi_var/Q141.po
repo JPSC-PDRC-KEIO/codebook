@@ -25,7 +25,7 @@ msgid "特別な出来事（家族）による生活変化への対処方法"
 msgstr "Coping with lifestyle changes resulting from special events (family)"
 
 #: ../../multi_var/Q141.rst:8
-msgid "質問文（複数回答）"
+msgid "質問文"
 msgstr "Question ( multiple answers )"
 
 #: ../../multi_var/Q141.rst:9

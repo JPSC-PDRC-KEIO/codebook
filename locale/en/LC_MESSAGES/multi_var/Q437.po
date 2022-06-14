@@ -22,8 +22,8 @@ msgid "借入れ先の選択理由"
 msgstr ""
 
 #: ../../multi_var/Q437.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q437.rst:8
 msgid "その機関での借入をお考えになるのはどのような理由からですか。（〇はいくつでも）"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../multi_var/Q437.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q437.rst:1
 msgid "変数名"

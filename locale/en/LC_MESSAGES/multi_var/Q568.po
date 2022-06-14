@@ -22,8 +22,8 @@ msgid "結婚に向けた行動"
 msgstr ""
 
 #: ../../multi_var/Q568.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q568.rst:8
 msgid "あなたは、この1年間に、結婚に向けた次のような行動をしましたか。（〇はいくつでも）"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../multi_var/Q568.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q568.rst:1
 msgid "変数名"

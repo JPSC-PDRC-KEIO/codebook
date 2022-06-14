@@ -22,8 +22,8 @@ msgid "離職時の生活への対処（配偶者無職）"
 msgstr ""
 
 #: ../../multi_var/Q262.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q262.rst:8
 msgid "やめた時、収入がなくなったこと、またはその中断にどのように対処しましたか。（〇はいくつでも）"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../multi_var/Q262.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q262.rst:1
 msgid "変数名"

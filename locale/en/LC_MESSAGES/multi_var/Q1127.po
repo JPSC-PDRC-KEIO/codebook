@@ -22,8 +22,8 @@ msgid "ペットの種類"
 msgstr ""
 
 #: ../../multi_var/Q1127.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q1127.rst:8
 msgid "その種類は何ですか。（〇はいくつでも）"
@@ -35,7 +35,7 @@ msgstr ""
 
 #: ../../multi_var/Q1127.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q1127.rst:1
 msgid "変数名"

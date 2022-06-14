@@ -24,7 +24,7 @@ msgid "特別な出来事（家族）"
 msgstr "Special events (Family)"
 
 #: ../../multi_var/Q139.rst:7
-msgid "質問文（複数回答）"
+msgid "質問文"
 msgstr "Question ( multiple answers )"
 
 #: ../../multi_var/Q139.rst:8

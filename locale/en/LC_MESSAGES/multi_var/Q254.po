@@ -22,8 +22,8 @@ msgid "現職（職種）の選択理由（配偶者）"
 msgstr ""
 
 #: ../../multi_var/Q254.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q254.rst:9
 msgid "なぜ、ご主人は現在の職種を選びましたか。（〇はいくつでも）"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../multi_var/Q254.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q254.rst:1
 msgid "変数名"

@@ -22,8 +22,8 @@ msgid "研修・講習会の内容"
 msgstr ""
 
 #: ../../multi_var/Q170.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q170.rst:9
 msgid "どのような研修会・講習会の内容でしたか。（〇はいくつでも）"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../multi_var/Q170.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q170.rst:1
 msgid "変数名"

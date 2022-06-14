@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../multi_var/Q1209.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q1209.rst:1
 msgid "変数名"

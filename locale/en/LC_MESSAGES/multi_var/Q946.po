@@ -22,8 +22,8 @@ msgid "配偶者控除等授受のために、収入等の指示・助言を受�
 msgstr ""
 
 #: ../../multi_var/Q946.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q946.rst:9
 msgid "配偶者控除や配偶者特別控除を受けるために、あなたの収入や働き方について指示・助言されたことがありますか。(〇はいくつでも〉"

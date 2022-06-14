@@ -25,7 +25,7 @@ msgid "死亡した親族"
 msgstr "Deceased relatives"
 
 #: ../../multi_var/Q84.rst:7
-msgid "質問文（複数回答）"
+msgid "質問文"
 msgstr "Question (multiple responses)"
 
 #: ../../multi_var/Q84.rst:8

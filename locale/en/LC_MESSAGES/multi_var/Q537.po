@@ -22,8 +22,8 @@ msgid "受講先"
 msgstr ""
 
 #: ../../multi_var/Q537.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q537.rst:8
 msgid "通ったのはどのような学校ですか。（通信教育を含む）（〇はいくつでも）"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../multi_var/Q537.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q537.rst:1
 msgid "変数名"

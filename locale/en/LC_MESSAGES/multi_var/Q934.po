@@ -22,8 +22,8 @@ msgid "改姓による不都合な点"
 msgstr ""
 
 #: ../../multi_var/Q934.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q934.rst:8
 msgid "苗字を変えたことで、何か不都合なことはありましたか。（〇はいくつでも）"

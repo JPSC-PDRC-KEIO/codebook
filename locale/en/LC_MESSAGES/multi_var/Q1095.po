@@ -22,8 +22,8 @@ msgid "子どもの入学準備費用のまかない方"
 msgstr ""
 
 #: ../../multi_var/Q1095.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q1095.rst:8
 msgid "お子さんの入学準備（机・学用品の購入、受験・進学準備費用・入学金、1人暮らしなどによる新生活の準備など）のためのお金は、どのようにまかないましたか。入学されたお子さんが2人以上いる場合には、一番上のお子さんの場合についてお答え下さい。（〇はいくつでも）"
@@ -35,7 +35,7 @@ msgstr ""
 
 #: ../../multi_var/Q1095.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q1095.rst:1
 msgid "変数名"

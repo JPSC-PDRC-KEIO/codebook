@@ -22,8 +22,8 @@ msgid "低価格で売られている店では買いたくない商品"
 msgstr ""
 
 #: ../../multi_var/Q904.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q904.rst:9
 msgid "次の各商品について、低価格で売られているようなところでは買いたくないと思うものはありますか。(〇はいくつでも）"

@@ -22,8 +22,8 @@ msgid "前職の選択理由"
 msgstr ""
 
 #: ../../multi_var/P67.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/P67.rst:8
 msgid "なぜ、あなたはその前職を選びましたか。（〇はいくつでも）"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../multi_var/P67.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/P67.rst:1
 msgid "変数名"

@@ -22,8 +22,8 @@ msgid "電子メールの利用目的"
 msgstr ""
 
 #: ../../multi_var/Q996.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q996.rst:9
 msgid "あなたご自身は電子メールを何に利用していますか（あてはまるものすべてに〇）"

@@ -22,8 +22,8 @@ msgid "所得税減税により増やした消費支出（無配偶）"
 msgstr ""
 
 #: ../../multi_var/Q669.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q669.rst:9
 msgid "では、そのころ、次のどの項目を増やしましたか。（〇はいくつでも）"

@@ -22,8 +22,8 @@ msgid "出産のための条件"
 msgstr ""
 
 #: ../../multi_var/Q512.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q512.rst:8
 msgid "（子どもが欲しい）条件とは何ですか。（〇はいくつでも）"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../multi_var/Q512.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q512.rst:1
 msgid "変数名"

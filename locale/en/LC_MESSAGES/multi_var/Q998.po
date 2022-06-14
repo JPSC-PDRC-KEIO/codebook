@@ -22,8 +22,8 @@ msgid "夫の電子メールの利用の有無"
 msgstr ""
 
 #: ../../multi_var/Q998.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q998.rst:9
 msgid "あなたのご主人は電子メールのアドレスを持っていますか。"

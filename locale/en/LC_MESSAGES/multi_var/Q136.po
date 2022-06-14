@@ -25,7 +25,7 @@ msgid "事故・災害・消費者トラブル"
 msgstr "Accidents, disasters, and consumer problems"
 
 #: ../../multi_var/Q136.rst:8
-msgid "質問文（複数回答）"
+msgid "質問文"
 msgstr "Question ( multiple answers )"
 
 #: ../../multi_var/Q136.rst:9

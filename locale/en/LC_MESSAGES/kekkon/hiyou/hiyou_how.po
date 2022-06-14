@@ -35,7 +35,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid "使ったか"

@@ -25,7 +25,7 @@ msgid "公的経済支援の申請"
 msgstr "Applying for public financial aid"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:7
-msgid "質問文（複数回答）"
+msgid "質問文"
 msgstr "Question ( multiple answers )"
 
 #: ../../covid19/syunyu_hendou/keizaishien.rst:8

@@ -22,8 +22,8 @@ msgid "離職理由（配偶者有職）"
 msgstr ""
 
 #: ../../multi_var/Q247.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q247.rst:8
 msgid "どのような理由で、ご主人は１年前（昨年9月末）の会社等をやめたのですか。（〇はいくつでも）"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../multi_var/Q247.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q247.rst:1
 msgid "変数名"

@@ -22,8 +22,8 @@ msgid "初職の離職理由"
 msgstr ""
 
 #: ../../multi_var/P78.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/P78.rst:8
 msgid "どのような理由で、あなたははじめての職業をやめたのですか。（〇はいくつでも）"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../../multi_var/P78.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/P78.rst:1
 msgid "変数名"

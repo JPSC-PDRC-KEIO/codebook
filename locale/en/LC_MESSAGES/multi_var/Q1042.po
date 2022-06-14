@@ -22,8 +22,8 @@ msgid "子育ての相談相手"
 msgstr ""
 
 #: ../../multi_var/Q1042.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q1042.rst:8
 msgid "現在、育児や子育てについて相談できる方はいますか。（〇はいくつでも）"
@@ -35,7 +35,7 @@ msgstr ""
 
 #: ../../multi_var/Q1042.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q1042.rst:1
 msgid "変数名"

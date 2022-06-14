@@ -22,8 +22,8 @@ msgid "結婚後購入した家具・家電"
 msgstr ""
 
 #: ../../multi_var/Q707.rst:8
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/Q707.rst:9
 msgid "前問（問2、問3、問4）の後、現在までに購入したものがありますか。（〇はいくつでも）"
