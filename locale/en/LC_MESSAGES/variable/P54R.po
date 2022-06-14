@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P54R.rst:5
 msgid "現職（会社）の選択理由〔第1回・第５回〕：学校がすすめるので"
-msgstr "Reasons for choosing current job (company) [Wave1-5]: School recommendation"
+msgstr "Reasons for choosing current job (company) [Wave1, 5]: School recommendation"
 
 #: ../../variable/P54R.rst:9
 msgid "変数名"

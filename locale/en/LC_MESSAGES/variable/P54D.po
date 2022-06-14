@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P54D.rst:5
 msgid "現職（会社）の選択理由〔第1回・第５回〕：労働時間が自由になる"
-msgstr "Reasons for choosing current job (company) [Wave1-5]: Flexible working hours"
+msgstr "Reasons for choosing current job (company) [Wave1, 5]: Flexible working hours"
 
 #: ../../variable/P54D.rst:9
 msgid "変数名"

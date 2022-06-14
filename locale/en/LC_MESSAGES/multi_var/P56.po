@@ -19,15 +19,15 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:3
 msgid "現職（職種）の選択理由〔第1回・第5回〕"
-msgstr ""
+msgstr "Reason for selecting current occupation [Wave1, 5]"
 
 #: ../../multi_var/P56.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/P56.rst:8
 msgid "なぜ、あなたは現在の職種を選びましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "Why did you choose your current position? (Circle all that pertain to you)"
 
 #: ../../multi_var/P56.rst:11
 msgid ""
@@ -37,7 +37,7 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/P56.rst:1
 msgid "変数名"
@@ -45,7 +45,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/P56.rst:1
 msgid "収入・給与がよい"
-msgstr ""
+msgstr "Good salary"
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56A </variable/P56A>`"
@@ -53,7 +53,7 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "休日、休暇が多い"
-msgstr ""
+msgstr "Many holidays and paid leave"
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56B </variable/P56B>`"
@@ -61,7 +61,7 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "拘束時間が少ない、残業が少ない"
-msgstr ""
+msgstr "Less time restraints and overtime work"
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56C </variable/P56C>`"
@@ -69,7 +69,7 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "労働時間が自由になる"
-msgstr ""
+msgstr "Flexible working hours"
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56D </variable/P56D>`"
@@ -77,7 +77,7 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "転勤がない、少ない"
-msgstr ""
+msgstr "No or few transfers"
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56F </variable/P56F>`"
@@ -85,7 +85,7 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "安定している、失業のおそれがない"
-msgstr ""
+msgstr "Stable and low risk of unemployment"
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56G </variable/P56G>`"
@@ -93,7 +93,7 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "将来発展する可能性がある"
-msgstr ""
+msgstr "Potential for future development"
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56H </variable/P56H>`"
@@ -101,11 +101,11 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "組織にしばられない"
-msgstr ""
+msgstr "Not restricted by organization"
 
 #: ../../multi_var/P56.rst:1
 msgid "結婚後も続けやすい"
-msgstr ""
+msgstr "Easy to continue after marriage"
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56I </variable/P56I>`"
@@ -113,7 +113,7 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "出産後も続けやすい"
-msgstr ""
+msgstr "Easy to continue after childbirth""
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56J </variable/P56J>`"
@@ -121,7 +121,7 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "技術が身につく"
-msgstr ""
+msgstr "Developing skills"
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56K </variable/P56K>`"
@@ -129,7 +129,7 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "能力が生かせる"
-msgstr ""
+msgstr "Utilizing abilities"
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56L </variable/P56L>`"
@@ -137,7 +137,7 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "仕事内容に興味がある"
-msgstr ""
+msgstr "Interest in the job"
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56M </variable/P56M>`"
@@ -145,7 +145,7 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "外国に行ける"
-msgstr ""
+msgstr "Opportunities to work abroad"
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56N </variable/P56N>`"
@@ -153,7 +153,7 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "結婚相手が見つかる"
-msgstr ""
+msgstr "Finding a marriage partner"
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56O </variable/P56O>`"
@@ -161,7 +161,7 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "学校がすすめるので"
-msgstr ""
+msgstr "School recommendation"
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56P </variable/P56P>`"
@@ -169,7 +169,7 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "家族がすすめるので"
-msgstr ""
+msgstr "A family member's recommendation"
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56Q </variable/P56Q>`"
@@ -177,7 +177,7 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "会社ですすめられた（自分で選んだのではない）"
-msgstr ""
+msgstr "Assigned by the company (not chosen by me)"
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56R </variable/P56R>`"
@@ -185,7 +185,7 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "家業だから"
-msgstr ""
+msgstr "Family business"
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56S </variable/P56S>`"
@@ -193,7 +193,7 @@ msgstr ""
 
 #: ../../multi_var/P56.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/P56.rst:1
 msgid ":doc:`P56T </variable/P56T>`"

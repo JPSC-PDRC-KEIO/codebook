@@ -19,15 +19,15 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:3
 msgid "現職（会社）の選択理由〔第1回・第5回〕"
-msgstr ""
+msgstr "Reasons for choosing current job (company) [Wave1, 5]"
 
 #: ../../multi_var/P54.rst:7
-msgid "質問文（複数回答）"
-msgstr ""
+msgid "質問文"
+msgstr "Question"
 
 #: ../../multi_var/P54.rst:8
 msgid "なぜ、あなたは現在の会社等を選びましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "Why did you choose your current employer? (Cirle all pertain to you)"
 
 #: ../../multi_var/P54.rst:11
 msgid ""
@@ -37,7 +37,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/P54.rst:1
 msgid "変数名"
@@ -45,7 +45,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/P54.rst:1
 msgid "給与がよい"
-msgstr ""
+msgstr "Good salary"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54A </variable/P54A>`"
@@ -53,7 +53,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "休日、休暇が多い"
-msgstr ""
+msgstr "Many holidays and paid leave"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54B </variable/P54B>`"
@@ -61,7 +61,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "拘束時間が少ない、残業が少ない"
-msgstr ""
+msgstr "Less time restraints and overtime work"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54C </variable/P54C>`"
@@ -69,7 +69,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "労働時間が自由になる"
-msgstr ""
+msgstr "Flexible working hours"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54D </variable/P54D>`"
@@ -77,7 +77,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "家に近い、通勤距離が短い"
-msgstr ""
+msgstr "Close to home, short commute"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54E </variable/P54E>`"
@@ -85,7 +85,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "転勤がない、少ない"
-msgstr ""
+msgstr "No or few transfers"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54F </variable/P54F>`"
@@ -93,7 +93,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "安定している、失業のおそれがない"
-msgstr ""
+msgstr "Stable and low risk of unemployment"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54G </variable/P54G>`"
@@ -101,7 +101,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "将来発展する可能性がある"
-msgstr ""
+msgstr "Potential for future development"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54H </variable/P54H>`"
@@ -109,7 +109,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "世間一般に知られている企業である"
-msgstr ""
+msgstr "Well known company"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54I </variable/P54I>`"
@@ -117,7 +117,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "結婚後も続けやすい"
-msgstr ""
+msgstr "Easy to continue after marriage"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54J </variable/P54J>`"
@@ -125,7 +125,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "出産後も続けやすい"
-msgstr ""
+msgstr "Easy to continue after childbirth"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54K </variable/P54K>`"
@@ -133,7 +133,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "技術が身につく"
-msgstr ""
+msgstr "Developing Skills"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54L </variable/P54L>`"
@@ -141,7 +141,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "能力が生かせる"
-msgstr ""
+msgstr "Utilizing abilities"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54M </variable/P54M>`"
@@ -149,7 +149,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "仕事内容に興味がある"
-msgstr ""
+msgstr "Interest in the job"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54N </variable/P54N>`"
@@ -157,7 +157,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "管理職になれる"
-msgstr ""
+msgstr "Management position"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54O </variable/P54O>`"
@@ -165,7 +165,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "外国に行ける"
-msgstr ""
+msgstr "Opportunities to work abroad"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54P </variable/P54P>`"
@@ -173,7 +173,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "結婚相手が見つかる"
-msgstr ""
+msgstr "Finding a marriage partner"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54Q </variable/P54Q>`"
@@ -181,7 +181,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "学校がすすめるので"
-msgstr ""
+msgstr "School recommendation"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54R </variable/P54R>`"
@@ -189,7 +189,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "家族がすすめるので"
-msgstr ""
+msgstr "A family member's recommendation"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54S </variable/P54S>`"
@@ -197,7 +197,7 @@ msgstr ""
 
 #: ../../multi_var/P54.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/P54.rst:1
 msgid ":doc:`P54T </variable/P54T>`"

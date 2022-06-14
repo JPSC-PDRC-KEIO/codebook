@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P54C.rst:5
 msgid "現職（会社）の選択理由〔第1回・第５回〕：拘束時間、残業が少ない"
-msgstr "Reasons for choosing current job (company) [Wave1-5]: Less time restraints and overtime work"
+msgstr "Reasons for choosing current job (company) [Wave1, 5]: Less time restraints and overtime work"
 
 #: ../../variable/P54C.rst:9
 msgid "変数名"

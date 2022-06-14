@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P54J.rst:5
 msgid "現職（会社）の選択理由〔第1回・第５回〕：結婚後も続けやすい"
-msgstr "Reasons for choosing current job (company) [Wave1-5]: Easy to continue after marriage"
+msgstr "Reasons for choosing current job (company) [Wave1, 5]: Easy to continue after marriage"
 
 #: ../../variable/P54J.rst:9
 msgid "変数名"

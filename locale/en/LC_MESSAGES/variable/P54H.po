@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P54H.rst:5
 msgid "現職（会社）の選択理由〔第1回・第５回〕：将来発展する可能性がある"
-msgstr "Reasons for choosing current job (company) [Wave1-5]: Potential for future development"
+msgstr "Reasons for choosing current job (company) [Wave1, 5]: Potential for future development"
 
 #: ../../variable/P54H.rst:9
 msgid "変数名"

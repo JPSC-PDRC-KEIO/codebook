@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P54A.rst:5
 msgid "現職（会社）の選択理由〔第1回・第５回〕：給与がよい"
-msgstr "Reasons for choosing current job (company) [Wave1-5]: Good salary"
+msgstr "Reasons for choosing current job (company) [Wave1, 5]: Good salary"
 
 #: ../../variable/P54A.rst:9
 msgid "変数名"

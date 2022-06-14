@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:3
 msgid "仕事の知識・技能習得"
-msgstr ""
+msgstr "Acquisition of job knowledge and skills"
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:6
 msgid "質問文"
@@ -27,19 +27,19 @@ msgstr "Question"
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:8
 msgid "あなたは、今の仕事に必要な知識や技能をどこで身につけましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "Where did you acquire the knowledge and skills necessary for your current job? (Circle all that pertain to you)"
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid "変数"
-msgstr ""
+msgstr "Variable"
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid "社内の研修で"
-msgstr ""
+msgstr "Through company training"
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid ":doc:`P57A </variable/P57A>`"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid "社内の同僚から"
-msgstr ""
+msgstr "From colleagues within the company"
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid ":doc:`P57B </variable/P57B>`"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid "会社から学校に派遣されて"
-msgstr ""
+msgstr "Sent to school by the company"
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid ":doc:`P57C </variable/P57C>`"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid "会社から他社に派遣されて"
-msgstr ""
+msgstr "Dispatched by the company to other companies"
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid ":doc:`P57D </variable/P57D>`"
@@ -71,7 +71,7 @@ msgstr ""
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid "就職する前に公共の職業訓練校で"
-msgstr ""
+msgstr "At a public vocational training school before"
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid ":doc:`P57E </variable/P57E>`"
@@ -79,7 +79,7 @@ msgstr ""
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid "就職する前に専門学校などで"
-msgstr ""
+msgstr "At vocational schools before getting a job"
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid ":doc:`P57F </variable/P57F>`"
@@ -87,7 +87,7 @@ msgstr ""
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid "高校で"
-msgstr ""
+msgstr "In high school"
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid ":doc:`P57G </variable/P57G>`"
@@ -95,7 +95,7 @@ msgstr ""
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid "高専・短大・大学で"
-msgstr ""
+msgstr "At technical college, junior college, or university"
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid ":doc:`P57H </variable/P57H>`"
@@ -103,7 +103,7 @@ msgstr ""
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid "大学院で"
-msgstr ""
+msgstr "In graduate school"
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid ":doc:`P57I </variable/P57I>`"
@@ -111,7 +111,7 @@ msgstr ""
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid "前職の勤務により"
-msgstr ""
+msgstr "At previous job"
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid ":doc:`P57J </variable/P57J>`"
@@ -119,7 +119,7 @@ msgstr ""
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid "独学で"
-msgstr ""
+msgstr "Self-taught"
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid ":doc:`P57K </variable/P57K>`"
@@ -127,7 +127,7 @@ msgstr ""
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid ":doc:`P57L </variable/P57L>`"
@@ -135,7 +135,7 @@ msgstr ""
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid "特に身につけたことはない"
-msgstr ""
+msgstr "Nothing in particular acquired"
 
 #: ../../syugyo/gensyoku/ginousyutoku.rst:1
 msgid ":doc:`P57M </variable/P57M>`"

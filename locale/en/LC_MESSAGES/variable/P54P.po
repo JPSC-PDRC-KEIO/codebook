@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P54P.rst:5
 msgid "現職（会社）の選択理由〔第1回・第５回〕：外国に行ける"
-msgstr "Reasons for choosing current job (company) [Wave1-5]: Can go abroad"
+msgstr "Reasons for choosing current job (company) [Wave1, 5]: Can go abroad"
 
 #: ../../variable/P54P.rst:9
 msgid "変数名"

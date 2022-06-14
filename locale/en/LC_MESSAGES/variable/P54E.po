@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P54E.rst:5
 msgid "現職（会社）の選択理由〔第1回・第５回〕：家に近い、通勤距離が短い"
-msgstr "Reasons for choosing current job (company) [Wave1-5]: Close to home, short commute"
+msgstr "Reasons for choosing current job (company) [Wave1, 5]: Close to home, short commute"
 
 #: ../../variable/P54E.rst:9
 msgid "変数名"

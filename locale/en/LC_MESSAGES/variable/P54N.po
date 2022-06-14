@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P54N.rst:5
 msgid "現職（会社）の選択理由〔第1回・第５回〕：仕事内容に興味がある"
-msgstr "Reasons for choosing current job (company) [Wave1-5]: Interest in the job"
+msgstr "Reasons for choosing current job (company) [Wave1, 5]: Interest in the job"
 
 #: ../../variable/P54N.rst:9
 msgid "変数名"

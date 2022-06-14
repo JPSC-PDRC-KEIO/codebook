@@ -41,7 +41,7 @@ msgstr "Why did you choose your current position? (Circle all that pertain to yo
 
 #: ../../variable/P56K.rst:21
 msgid "技術が身につく"
-msgstr "Developing Skills"
+msgstr "Developing skills"
 
 #: ../../variable/P56K.rst:27
 msgid "選択肢 / 記入欄"
