@@ -56,7 +56,7 @@ msgstr "Overflow code"
 
 #: ../../variable/Q1253DH.rst:49
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response code’"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1253DH.rst:56
 msgid "無回答コード"

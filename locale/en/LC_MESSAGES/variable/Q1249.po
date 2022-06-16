@@ -58,7 +58,7 @@ msgstr ""
 
 #: ../../variable/Q1249.rst:49
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response code’"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1249.rst:56
 msgid "無回答コード"
