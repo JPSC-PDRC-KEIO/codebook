@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-06-28 10:37+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1\n"
 
 #: ../../variable/P58.rst:6
 msgid "仕事の習熟期間"
-msgstr ""
+msgstr "Time taken to become proficient"
 
 #: ../../variable/P58.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/P58.rst:21
 msgid "あなたがしている仕事を、全くの新人がやれるようになるにはどれぐらいの期間がかかりますか。"
-msgstr ""
+msgstr "How long would it take a new employee to become proficient at the job you are doing?"
 
 #: ../../variable/P58.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,47 +45,47 @@ msgstr "Select / Fill in"
 
 #: ../../variable/P58.rst:30
 msgid "今日からできる"
-msgstr ""
+msgstr "Immediately"
 
 #: ../../variable/P58.rst:31
 msgid "数日で"
-msgstr ""
+msgstr "In a few days"
 
 #: ../../variable/P58.rst:32
 msgid "1～2週間で"
-msgstr ""
+msgstr "1 to 2 weeks"
 
 #: ../../variable/P58.rst:33
 msgid "1ヵ月"
-msgstr ""
+msgstr "One month"
 
 #: ../../variable/P58.rst:34
 msgid "3ヵ月"
-msgstr ""
+msgstr "3 months"
 
 #: ../../variable/P58.rst:35
 msgid "半年"
-msgstr ""
+msgstr "Half a year"
 
 #: ../../variable/P58.rst:36
 msgid "1年"
-msgstr ""
+msgstr "One year"
 
 #: ../../variable/P58.rst:37
 msgid "2～3年"
-msgstr ""
+msgstr "2-3 years"
 
 #: ../../variable/P58.rst:38
 msgid "4～5年"
-msgstr ""
+msgstr "4-5 years"
 
 #: ../../variable/P58.rst:39
 msgid "6～9年"
-msgstr ""
+msgstr "6-9 years"
 
 #: ../../variable/P58.rst:40
 msgid "10年以上"
-msgstr ""
+msgstr "10 years or more"
 
 #: ../../variable/P58.rst:48
 msgid "桁あふれコード"
@@ -99,7 +101,7 @@ msgstr "No response code"
 
 #: ../../variable/P58.rst:63
 msgid "12"
-msgstr ""
+msgstr "12"
 
 #: ../../variable/P58.rst:69
 msgid "備考"
@@ -111,79 +113,79 @@ msgstr "Data files (csv)"
 
 #: ../../variable/P58.rst:82
 msgid "p1_1"
-msgstr ""
+msgstr "p1_1"
 
 #: ../../variable/P58.rst:84
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #: ../../variable/P58.rst:86
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: ../../variable/P58.rst:88
 msgid "p13_1"
-msgstr ""
+msgstr "p13_1"
 
 #: ../../variable/P58.rst:90
 msgid "p14_1"
-msgstr ""
+msgstr "p14_1"
 
 #: ../../variable/P58.rst:92
 msgid "p15_1"
-msgstr ""
+msgstr "p15_1"
 
 #: ../../variable/P58.rst:94
 msgid "p16abc_1"
-msgstr ""
+msgstr "p16abc_1"
 
 #: ../../variable/P58.rst:96
 msgid "p16d_1"
-msgstr ""
+msgstr "p16d_1"
 
 #: ../../variable/P58.rst:98
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: ../../variable/P58.rst:100
 msgid "p18_1"
-msgstr ""
+msgstr "p18_1"
 
 #: ../../variable/P58.rst:102
 msgid "p19_1"
-msgstr ""
+msgstr "p19_1"
 
 #: ../../variable/P58.rst:104
 msgid "p20_1"
-msgstr ""
+msgstr "p20_1"
 
 #: ../../variable/P58.rst:106
 msgid "p21abcd_1"
-msgstr ""
+msgstr "p21abcd_1"
 
 #: ../../variable/P58.rst:108
 msgid "p21e_1"
-msgstr ""
+msgstr "p21e_1"
 
 #: ../../variable/P58.rst:110
 msgid "p22_1"
-msgstr ""
+msgstr "p22_1"
 
 #: ../../variable/P58.rst:112
 msgid "p23_1"
-msgstr ""
+msgstr "p23_1"
 
 #: ../../variable/P58.rst:114
 msgid "p24_1"
-msgstr ""
+msgstr "p24_1"
 
 #: ../../variable/P58.rst:116
 msgid "p25_1"
-msgstr ""
+msgstr "p25_1"
 
 #: ../../variable/P58.rst:118
 msgid "p26_1"
-msgstr ""
+msgstr "p26_1"
 
 #: ../../variable/P58.rst:120
 msgid "p27_1"
@@ -198,4 +200,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

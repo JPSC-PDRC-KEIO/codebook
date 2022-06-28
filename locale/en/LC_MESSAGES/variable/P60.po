@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-06-28 10:38+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.1\n"
 
 #: ../../variable/P60.rst:5
 msgid "初職は現職か"
-msgstr ""
+msgstr "First position (or job) of your career?"
 
 #: ../../variable/P60.rst:9
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/P60.rst:18
 msgid "現在の職業ははじめてついた仕事ですか。"
-msgstr ""
+msgstr "Is your current position your first job?"
 
 #: ../../variable/P60.rst:24
 msgid "選択肢 / 記入欄"
@@ -43,11 +45,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/P60.rst:27
 msgid "はじめて"
-msgstr ""
+msgstr "Yes, it is."
 
 #: ../../variable/P60.rst:29
 msgid "はじめてではない"
-msgstr ""
+msgstr "No, it isn't."
 
 #: ../../variable/P60.rst:36
 msgid "桁あふれコード"
@@ -71,27 +73,27 @@ msgstr "Data files (csv)"
 
 #: ../../variable/P60.rst:65
 msgid "p1_1"
-msgstr ""
+msgstr "p1_1"
 
 #: ../../variable/P60.rst:67
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #: ../../variable/P60.rst:69
 msgid "p11c_1"
-msgstr ""
+msgstr "p11c_1"
 
 #: ../../variable/P60.rst:71
 msgid "p16d_1"
-msgstr ""
+msgstr "p16d_1"
 
 #: ../../variable/P60.rst:73
+#, fuzzy
 msgid "p21e_1"
-msgstr ""
+msgstr "p21e_1"
 
 #~ msgid "変数名: P60"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

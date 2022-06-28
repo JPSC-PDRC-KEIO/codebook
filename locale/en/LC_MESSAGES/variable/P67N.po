@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-06-28 13:48+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.1\n"
 
 #: ../../variable/P67N.rst:5
 msgid "前職の選択理由：能力が生かせる"
-msgstr ""
+msgstr "Reason for choosing previous position: Utilizing abilities"
 
 #: ../../variable/P67N.rst:9
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/P67N.rst:18
 msgid "なぜ、あなたはその前職を選びましたか（〇はいくつでも）"
-msgstr ""
+msgstr "Why did you choose your previous position? (Circle all that pertain to you)"
 
 #: ../../variable/P67N.rst:21
 msgid "能力が生かせる"
-msgstr ""
+msgstr "Utilizing abilities"
 
 #: ../../variable/P67N.rst:27
 msgid "選択肢 / 記入欄"
@@ -47,11 +49,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/P67N.rst:30
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/P67N.rst:32
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/P67N.rst:39
 msgid "桁あふれコード"
@@ -67,7 +69,7 @@ msgstr "No response code"
 
 #: ../../variable/P67N.rst:52
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../variable/P67N.rst:57
 msgid "備考"
@@ -79,27 +81,27 @@ msgstr "Data files (csv)"
 
 #: ../../variable/P67N.rst:68
 msgid "p1_1"
-msgstr ""
+msgstr "p1_1"
 
 #: ../../variable/P67N.rst:70
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #: ../../variable/P67N.rst:72
 msgid "p11c_1"
-msgstr ""
+msgstr "p11c_1"
 
 #: ../../variable/P67N.rst:74
 msgid "p16d_1"
-msgstr ""
+msgstr "p16d_1"
 
 #: ../../variable/P67N.rst:76
+#, fuzzy
 msgid "p21e_1"
-msgstr ""
+msgstr "p21e_1"
 
 #~ msgid "変数名: P67N"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
