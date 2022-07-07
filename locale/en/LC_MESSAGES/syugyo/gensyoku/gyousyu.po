@@ -144,7 +144,7 @@ msgid "11.宿泊業、飲食サービス業"
 msgstr "11.Accommodation, food, and beverage service"
 
 #: ../../syugyo/gensyoku/gyousyu.rst
-msgid "12.教育、学生支援業"
+msgid "12.教育、学習支援業"
 msgstr "12.Education, education assistance"
 
 #: ../../syugyo/gensyoku/gyousyu.rst
@@ -162,10 +162,4 @@ msgstr "15.Public affairs"
 #: ../../syugyo/gensyoku/gyousyu.rst
 msgid "16.その他"
 msgstr "16.Other"
-
-#~ msgid "第1～第3回"
-#~ msgstr "1st-3th waves"
-
-#~ msgid "第4回～"
-#~ msgstr "4th wave -"
 

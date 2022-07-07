@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1226.rst:6
 msgid "創立時期（配偶者）〔第27回～〕"
-msgstr ""
+msgstr "Establishment period (Wave 27 - ) (spouse)"
 
 #: ../../variable/Q1226.rst:11
 msgid "変数名"
@@ -35,7 +35,7 @@ msgstr "Question"
 
 #: ../../variable/Q1226.rst:21
 msgid "現在勤めている会社等の創立時期はいつですか。（注　公務員の方は創立時期にかかわりなく、「官公庁」に〇をして下さい）"
-msgstr ""
+msgstr "When was the company you are currently working for founded? (Note: If you are a civil servant, regardless of the founding date, please circle \" Government and municipal offices\".)"
 
 #: ../../variable/Q1226.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,47 +43,47 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1226.rst:30
 msgid "戦前"
-msgstr ""
+msgstr "Before the world war two"
 
 #: ../../variable/Q1226.rst:31
 msgid "昭和20年代"
-msgstr ""
+msgstr "Showa 20s (1945 - 1954)"
 
 #: ../../variable/Q1226.rst:32
 msgid "昭和30年代"
-msgstr ""
+msgstr "Showa 30s (1955 - 1964)"
 
 #: ../../variable/Q1226.rst:33
 msgid "昭和40年代"
-msgstr ""
+msgstr "Showa 40s (1965 - 1974)"
 
 #: ../../variable/Q1226.rst:34
 msgid "昭和50年代"
-msgstr ""
+msgstr "Showa 50s (1975 - 1984)"
 
 #: ../../variable/Q1226.rst:35
 msgid "昭和60～63年"
-msgstr ""
+msgstr "Show 60 - 63 (1985 - 1988)"
 
 #: ../../variable/Q1226.rst:36
 msgid "平成元年～9年"
-msgstr ""
+msgstr "Heisei 1 - 9 (1989 - 1997)"
 
 #: ../../variable/Q1226.rst:37
 msgid "平成10年代"
-msgstr ""
+msgstr "Heisei 10s (1998 - 2007)"
 
 #: ../../variable/Q1226.rst:38
 msgid "平成20年代"
-msgstr ""
+msgstr "Heisei 20s (2008 - 2017)"
 
 #: ../../variable/Q1226.rst:39
 msgid "平成30年以降"
-msgstr ""
+msgstr "SInce 2018"
 
 #: ../../variable/Q1226.rst:40
 msgid "官公庁"
-msgstr ""
+msgstr "Government and Municipal Office"
 
 #: ../../variable/Q1226.rst:48
 msgid "桁あふれコード"
@@ -116,79 +116,4 @@ msgstr ""
 #: ../../variable/Q1226.rst:84
 msgid "p28_1"
 msgstr ""
-
-#~ msgid "p2_1"
-#~ msgstr ""
-
-#~ msgid "p5a_1"
-#~ msgstr ""
-
-#~ msgid "p5b_1"
-#~ msgstr ""
-
-#~ msgid "p6_1"
-#~ msgstr ""
-
-#~ msgid "p7_1"
-#~ msgstr ""
-
-#~ msgid "p8_1"
-#~ msgstr ""
-
-#~ msgid "p9_1"
-#~ msgstr ""
-
-#~ msgid "p10_1"
-#~ msgstr ""
-
-#~ msgid "p12_1"
-#~ msgstr ""
-
-#~ msgid "p13_1"
-#~ msgstr ""
-
-#~ msgid "p14_1"
-#~ msgstr ""
-
-#~ msgid "p15_1"
-#~ msgstr ""
-
-#~ msgid "p16abc_1"
-#~ msgstr ""
-
-#~ msgid "p16d_1"
-#~ msgstr ""
-
-#~ msgid "p17_1"
-#~ msgstr ""
-
-#~ msgid "p18_1"
-#~ msgstr ""
-
-#~ msgid "p19_1"
-#~ msgstr ""
-
-#~ msgid "p20_1"
-#~ msgstr ""
-
-#~ msgid "p21abcd_1"
-#~ msgstr ""
-
-#~ msgid "p21e_1"
-#~ msgstr ""
-
-#~ msgid "p22_1"
-#~ msgstr ""
-
-#~ msgid "p23_1"
-#~ msgstr ""
-
-#~ msgid "p24_1"
-#~ msgstr ""
-
-#~ msgid "p25_1"
-#~ msgstr ""
-
-#~ msgid "p26_1"
-#~ msgstr ""
 

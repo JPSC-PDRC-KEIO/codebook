@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q227.rst:6
 msgid "創立時期（配偶者）"
-msgstr ""
+msgstr "Founding period ( - Wave 26) (spouse)"
 
 #: ../../variable/Q227.rst:11
 msgid "変数名"
@@ -36,6 +36,10 @@ msgstr "Question"
 #: ../../variable/Q227.rst:21
 msgid "現在勤めている会社等の創立時期はいつですか。（注　公務員の方は創立時期にかかわりなく、「官公庁」に〇をして下さい）"
 msgstr ""
+"When was the founding date of the company you are currently working for? "
+"(Note: If you are a civil servant, regardless of the establishment date, "
+"please circle \" Government and municipal office\".)"
+
 
 #: ../../variable/Q227.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,35 +47,35 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q227.rst:30
 msgid "戦前"
-msgstr ""
+msgstr "Before World WarⅡ"
 
 #: ../../variable/Q227.rst:31
 msgid "昭和20年代"
-msgstr ""
+msgstr "Showa 20s (1945 - 1954)"
 
 #: ../../variable/Q227.rst:32
 msgid "昭和30年代"
-msgstr ""
+msgstr "Showa 30s (1955 - 1964)"
 
 #: ../../variable/Q227.rst:33
 msgid "昭和40年代"
-msgstr ""
+msgstr "Showa 40s (1965 - 1974)"
 
 #: ../../variable/Q227.rst:34
 msgid "昭和50年代"
-msgstr ""
+msgstr "Showa 50s (1975 - 1984)"
 
 #: ../../variable/Q227.rst:35
 msgid "昭和60年～63年"
-msgstr ""
+msgstr "Show 60 - 63 (1985 - 1988)"
 
 #: ../../variable/Q227.rst:36
 msgid "平成元年以降"
-msgstr ""
+msgstr "Since Heisei 1 (1989-)"
 
 #: ../../variable/Q227.rst:37
 msgid "官公庁"
-msgstr ""
+msgstr "Government and municipal office"
 
 #: ../../variable/Q227.rst:45
 msgid "桁あふれコード"
@@ -204,16 +208,4 @@ msgstr ""
 #: ../../variable/Q227.rst:131
 msgid "p26_1"
 msgstr ""
-
-#~ msgid "変数名: Q227"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-
-#~ msgid "創立時期（配偶者）"
-#~ msgstr ""
-
-#~ msgid "創立時期（配偶者）〔～第26回〕"
-#~ msgstr ""
 

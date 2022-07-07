@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-17 10:58+0900\n"
+"POT-Creation-Date: 2022-03-11 10:49+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -86,7 +86,7 @@ msgid "宿泊業、飲食サービス業"
 msgstr ""
 
 #: ../../variable/Q1183.rst:41
-msgid "教育、学生支援業"
+msgid "教育、学習支援業"
 msgstr ""
 
 #: ../../variable/Q1183.rst:42
@@ -125,55 +125,43 @@ msgstr ""
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q1183.rst:76
-msgid ""
-"回答者本人と同様、第1回から第20回までは12分類（:doc:`Q217 "
-"</variable/Q217>`）で対象者に尋ねていて、第21回からは16分類（:doc:`Q1183 "
-"</variable/Q1183>`）で尋ねています。 ただし旧分類に基づいた変数（:doc:`Q217 "
-"</variable/Q217>`）は、第21回以降のデータにも12分類にリコードして残しています"
-msgstr ""
-
-#: ../../variable/Q1183.rst:79
-msgid "詳しくはこちら（:doc:`/syugyo_hs/gensyoku_hs/gyousyu_hs`）をご参照ください。"
-msgstr ""
-
-#: ../../variable/Q1183.rst:85
+#: ../../variable/Q1183.rst:82
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q1183.rst:90
+#: ../../variable/Q1183.rst:87
 msgid "p21abcd_1"
 msgstr ""
 
-#: ../../variable/Q1183.rst:92
+#: ../../variable/Q1183.rst:89
 msgid "p21e_1"
 msgstr ""
 
-#: ../../variable/Q1183.rst:94
+#: ../../variable/Q1183.rst:91
 msgid "p22_1"
 msgstr ""
 
-#: ../../variable/Q1183.rst:96
+#: ../../variable/Q1183.rst:93
 msgid "p23_1"
 msgstr ""
 
-#: ../../variable/Q1183.rst:98
+#: ../../variable/Q1183.rst:95
 msgid "p24_1"
 msgstr ""
 
-#: ../../variable/Q1183.rst:100
+#: ../../variable/Q1183.rst:97
 msgid "p25_1"
 msgstr ""
 
-#: ../../variable/Q1183.rst:102
+#: ../../variable/Q1183.rst:99
 msgid "p26_1"
 msgstr ""
 
-#: ../../variable/Q1183.rst:104
+#: ../../variable/Q1183.rst:101
 msgid "p27_1"
 msgstr ""
 
-#: ../../variable/Q1183.rst:106
+#: ../../variable/Q1183.rst:103
 msgid "p28_1"
 msgstr ""
 
@@ -181,5 +169,15 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "回答者本人と同様、第1回から第20回までは12分類（:doc:`Q217 "
+#~ "</variable/Q217>`）で対象者に尋ねていて、第21回からは16分類（:doc:`Q1183 "
+#~ "</variable/Q1183>`）で尋ねています。 ただし旧分類に基づいた変数（:doc:`Q217 "
+#~ "</variable/Q217>`）は、第21回以降のデータにも12分類にリコードして残しています"
+#~ msgstr ""
+
+#~ msgid "詳しくはこちら（:doc:`/syugyo_hs/gensyoku_hs/gyousyu_hs`）をご参照ください。"
 #~ msgstr ""
 

@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1092.rst:6
 msgid "創立年（配偶者）"
-msgstr ""
+msgstr "Founded year (spouse)"
 
 #: ../../variable/Q1092.rst:11
 msgid "変数名"
@@ -35,7 +35,7 @@ msgstr "Question"
 
 #: ../../variable/Q1092.rst:21
 msgid "それ（現在勤めている会社等の創立時期）は何年ですか。"
-msgstr ""
+msgstr "What exact year?"
 
 #: ../../variable/Q1092.rst:28
 msgid "選択肢 / 記入欄"
@@ -129,18 +129,4 @@ msgstr ""
 msgid "p26_1"
 msgstr ""
 
-#~ msgid "平成元年以降設立の場合のみ記入を求めています。"
-#~ msgstr ""
-
-#~ msgid "変数名: Q1092"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-
-#~ msgid "平成＿＿年"
-#~ msgstr ""
-
-#~ msgid "平成 |lline| |lline| 年"
-#~ msgstr ""
 

@@ -131,12 +131,3 @@ msgstr ""
 msgid "p26_1"
 msgstr ""
 
-#~ msgid "平成 ＿ ＿ 年"
-#~ msgstr "Year＿＿"
-
-#~ msgid "9"
-#~ msgstr ""
-
-#~ msgid "平成 |lline| |lline| 年"
-#~ msgstr ""
-

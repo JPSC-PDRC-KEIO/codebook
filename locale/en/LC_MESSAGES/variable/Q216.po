@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q216.rst:6
 msgid "従業員数（配偶者）"
-msgstr ""
+msgstr "Number of employees at work (spouse)"
 
 #: ../../variable/Q216.rst:11
 msgid "変数名"
@@ -38,6 +38,9 @@ msgid ""
 "その勤め先の従業員は会社全体で何人くらいですか。（注　"
 "従業員数には臨時職員・アルバイトは除きます。公務員の方は従業員数にかかわりなく「官公庁」に〇をして下さい）"
 msgstr ""
+"How many employees does the company or organization you work for have? "
+"(Note: Do not include temporary and part-time workers. If you are an "
+"official, circle “Public agency”.)"
 
 #: ../../variable/Q216.rst:28
 msgid "選択肢 / 記入欄"
@@ -45,35 +48,35 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q216.rst:30
 msgid "1～4人"
-msgstr ""
+msgstr "1 to 4"
 
 #: ../../variable/Q216.rst:31
 msgid "5～9人"
-msgstr ""
+msgstr "5 to 9"
 
 #: ../../variable/Q216.rst:32
 msgid "10～29人"
-msgstr ""
+msgstr "10 to 29"
 
 #: ../../variable/Q216.rst:33
 msgid "30～99人"
-msgstr ""
+msgstr "30 to 99"
 
 #: ../../variable/Q216.rst:34
 msgid "100～499人"
-msgstr ""
+msgstr "100 to 499"
 
 #: ../../variable/Q216.rst:35
 msgid "500～999人"
-msgstr ""
+msgstr "500 to 999"
 
 #: ../../variable/Q216.rst:36
 msgid "1000人以上"
-msgstr ""
+msgstr "1,000 or more"
 
 #: ../../variable/Q216.rst:37
 msgid "官公庁"
-msgstr ""
+msgstr "Public agency"
 
 #: ../../variable/Q216.rst:45
 msgid "桁あふれコード"
@@ -226,10 +229,4 @@ msgstr ""
 #: ../../variable/Q216.rst:141
 msgid "p28_1"
 msgstr ""
-
-#~ msgid "変数名: Q216"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
 
