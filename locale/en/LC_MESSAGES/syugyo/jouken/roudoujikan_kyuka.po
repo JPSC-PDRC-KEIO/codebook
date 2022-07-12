@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../syugyo/jouken/roudoujikan_kyuka.rst:3
 msgid "労働時間・休暇"
-msgstr ""
+msgstr "Working hours and leave"
 
 #: ../../syugyo/jouken/roudoujikan_kyuka.rst:17
 msgid "第1回と第5回の調査では給与支給方法ごとに「労働時間」「勤務日数」について質問し、数値記入を求めています。変数名は下記をご参照ください"
@@ -76,10 +76,4 @@ msgstr ""
 #: ../../syugyo/jouken/roudoujikan_kyuka.rst:1
 msgid ":doc:`P52 </variable/P52>`"
 msgstr ""
-
-#~ msgid "第1回調査では給与支給方法ごとに「労働時間」「勤務日数」について質問し、数値記入を求めています。変数名は下記をご参照ください"
-#~ msgstr ""
-
-#~ msgid "第1回調査の質問と変数"
-#~ msgstr ""
 

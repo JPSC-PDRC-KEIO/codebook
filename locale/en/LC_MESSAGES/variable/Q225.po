@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q225.rst:6
 msgid "無給（サービス）残業時間（配偶者）"
-msgstr ""
+msgstr "Unpaid overtime hours (spouse)"
 
 #: ../../variable/Q225.rst:11
 msgid "変数名"
@@ -35,7 +35,8 @@ msgstr "Question"
 
 #: ../../variable/Q225.rst:21
 msgid "給与の支払われていない、いわゆるサービス残業は週にどのくらいですか。"
-msgstr ""
+"How many hours of unpaid overtime, so-called “service overtime” does your husband do"
+" per week?"
 
 #: ../../variable/Q225.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,35 +44,35 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q225.rst:30
 msgid "0時間"
-msgstr ""
+msgstr "0 hour"
 
 #: ../../variable/Q225.rst:31
 msgid "1～3時間"
-msgstr ""
+msgstr "1 to 3 hours"
 
 #: ../../variable/Q225.rst:32
 msgid "4～5時間"
-msgstr ""
+msgstr "4 to 5 hours"
 
 #: ../../variable/Q225.rst:33
 msgid "6～10時間"
-msgstr ""
+msgstr "6 to 10 hours"
 
 #: ../../variable/Q225.rst:34
 msgid "11～15時間"
-msgstr ""
+msgstr "11 to 15 hours"
 
 #: ../../variable/Q225.rst:35
 msgid "16～20時間"
-msgstr ""
+msgstr "16 to 20 hours"
 
 #: ../../variable/Q225.rst:36
 msgid "21時間以上"
-msgstr ""
+msgstr "21 hours or more"
 
 #: ../../variable/Q225.rst:37
 msgid "残業というものはない"
-msgstr ""
+msgstr "We have no overtime work"
 
 #: ../../variable/Q225.rst:45
 msgid "桁あふれコード"
@@ -221,9 +222,4 @@ msgstr ""
 msgid "p28_1"
 msgstr ""
 
-#~ msgid "変数名: Q225"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
 

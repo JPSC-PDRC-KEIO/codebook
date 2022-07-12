@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q224.rst:6
 msgid "有給残業時間（配偶者）"
-msgstr ""
+msgstr "Paid overtime hours (spouse)"
 
 #: ../../variable/Q224.rst:11
 msgid "変数名"
@@ -35,7 +35,7 @@ msgstr "Question"
 
 #: ../../variable/Q224.rst:21
 msgid "給与の支払われている残業時間は週にどのくらいですか。"
-msgstr ""
+msgstr "How many hours per week does your husband get paid overtime work?"
 
 #: ../../variable/Q224.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,35 +43,35 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q224.rst:30
 msgid "0時間"
-msgstr ""
+msgstr "0 hours"
 
 #: ../../variable/Q224.rst:31
 msgid "1～3時間"
-msgstr ""
+msgstr "1 to 3 hours"
 
 #: ../../variable/Q224.rst:32
 msgid "4～5時間"
-msgstr ""
+msgstr "4 to 5 hours"
 
 #: ../../variable/Q224.rst:33
 msgid "6～10時間"
-msgstr ""
+msgstr "6 to 10 hours"
 
 #: ../../variable/Q224.rst:34
 msgid "11～15時間"
-msgstr ""
+msgstr "11 to 15 hours"
 
 #: ../../variable/Q224.rst:35
 msgid "16～20時間"
-msgstr ""
+msgstr "16 to 20 hours"
 
 #: ../../variable/Q224.rst:36
 msgid "21時間以上"
-msgstr ""
+msgstr "21 hours or more"
 
 #: ../../variable/Q224.rst:37
 msgid "残業というものはない"
-msgstr ""
+msgstr "We have no overtime work"
 
 #: ../../variable/Q224.rst:45
 msgid "桁あふれコード"

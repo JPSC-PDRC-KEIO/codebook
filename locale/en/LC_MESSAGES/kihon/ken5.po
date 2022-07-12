@@ -35,207 +35,207 @@ msgstr "Question"
 
 #: ../../kihon/ken5.rst:17
 msgid "現在からさかのぼって５回までの引っ越しについて、以下の項目を記入して下さい。"
-msgstr ""
+msgstr "Please fill in the following for the 5 most recent moves to date."
 
 #: ../../kihon/ken5.rst:19
 msgid "転居5"
-msgstr ""
+msgstr "Move 5"
 
 #: ../../kihon/ken5.rst:22
 msgid "コード"
-msgstr ""
+msgstr "Code"
 
 #: ../../kihon/ken5.rst:24
 msgid "北海道"
-msgstr ""
+msgstr "Hokkaido"
 
 #: ../../kihon/ken5.rst:25
 msgid "青森県"
-msgstr ""
+msgstr "Aomori"
 
 #: ../../kihon/ken5.rst:26
 msgid "岩手県"
-msgstr ""
+msgstr "Iwate"
 
 #: ../../kihon/ken5.rst:27
 msgid "宮城県"
-msgstr ""
+msgstr "Miyagi"
 
 #: ../../kihon/ken5.rst:28
 msgid "秋田県"
-msgstr ""
+msgstr "Akita"
 
 #: ../../kihon/ken5.rst:29
 msgid "山形県"
-msgstr ""
+msgstr "Yamagata"
 
 #: ../../kihon/ken5.rst:30
 msgid "福島県"
-msgstr ""
+msgstr "Fukushima"
 
 #: ../../kihon/ken5.rst:31
 msgid "茨城県"
-msgstr ""
+msgstr "Ibaraki"
 
 #: ../../kihon/ken5.rst:32
 msgid "栃木県"
-msgstr ""
+msgstr "Tochigi"
 
 #: ../../kihon/ken5.rst:33
 msgid "群馬県"
-msgstr ""
+msgstr "Gunma"
 
 #: ../../kihon/ken5.rst:34
 msgid "埼玉県"
-msgstr ""
+msgstr "Saitama"
 
 #: ../../kihon/ken5.rst:35
 msgid "千葉県"
-msgstr ""
+msgstr "Chiba"
 
 #: ../../kihon/ken5.rst:36
 msgid "東京都"
-msgstr ""
+msgstr "Tokyo"
 
 #: ../../kihon/ken5.rst:37
 msgid "神奈川県"
-msgstr ""
+msgstr "Kanagawa"
 
 #: ../../kihon/ken5.rst:38
 msgid "新潟県"
-msgstr ""
+msgstr "Niigata"
 
 #: ../../kihon/ken5.rst:39
 msgid "富山県"
-msgstr ""
+msgstr "Toyama"
 
 #: ../../kihon/ken5.rst:40
 msgid "石川県"
-msgstr ""
+msgstr "Ishikawa"
 
 #: ../../kihon/ken5.rst:41
 msgid "福井県"
-msgstr ""
+msgstr "Fukui"
 
 #: ../../kihon/ken5.rst:42
 msgid "山梨県"
-msgstr ""
+msgstr "Yamanashi"
 
 #: ../../kihon/ken5.rst:43
 msgid "長野県"
-msgstr ""
+msgstr "Nagano"
 
 #: ../../kihon/ken5.rst:44
 msgid "岐阜県"
-msgstr ""
+msgstr "Gifu"
 
 #: ../../kihon/ken5.rst:45
 msgid "静岡県"
-msgstr ""
+msgstr "Shizuoka"
 
 #: ../../kihon/ken5.rst:46
 msgid "愛知県"
-msgstr ""
+msgstr "Aichi"
 
 #: ../../kihon/ken5.rst:47
 msgid "三重県"
-msgstr ""
+msgstr "Mie"
 
 #: ../../kihon/ken5.rst:48
 msgid "滋賀県"
-msgstr ""
+msgstr "Shiga"
 
 #: ../../kihon/ken5.rst:49
 msgid "京都府"
-msgstr ""
+msgstr "Kyoto"
 
 #: ../../kihon/ken5.rst:50
 msgid "大阪府"
-msgstr ""
+msgstr "Osaka"
 
 #: ../../kihon/ken5.rst:51
 msgid "兵庫県"
-msgstr ""
+msgstr "Hyogo"
 
 #: ../../kihon/ken5.rst:52
 msgid "奈良県"
-msgstr ""
+msgstr "Nara"
 
 #: ../../kihon/ken5.rst:53
 msgid "和歌山県"
-msgstr ""
+msgstr "Wakayama"
 
 #: ../../kihon/ken5.rst:54
 msgid "鳥取県"
-msgstr ""
+msgstr "Tottori"
 
 #: ../../kihon/ken5.rst:55
 msgid "島根県"
-msgstr ""
+msgstr "Shimane"
 
 #: ../../kihon/ken5.rst:56
 msgid "岡山県"
-msgstr ""
+msgstr "Okayama"
 
 #: ../../kihon/ken5.rst:57
 msgid "広島県"
-msgstr ""
+msgstr "Hiroshima"
 
 #: ../../kihon/ken5.rst:58
 msgid "山口県"
-msgstr ""
+msgstr "Yamaguchi"
 
 #: ../../kihon/ken5.rst:59
 msgid "徳島県"
-msgstr ""
+msgstr "Tokushima"
 
 #: ../../kihon/ken5.rst:60
 msgid "香川県"
-msgstr ""
+msgstr "Kagawa"
 
 #: ../../kihon/ken5.rst:61
 msgid "愛媛県"
-msgstr ""
+msgstr "Ehime"
 
 #: ../../kihon/ken5.rst:62
 msgid "高知県"
-msgstr ""
+msgstr "Kochi"
 
 #: ../../kihon/ken5.rst:63
 msgid "福岡県"
-msgstr ""
+msgstr "Fukuoka"
 
 #: ../../kihon/ken5.rst:64
 msgid "佐賀県"
-msgstr ""
+msgstr "Saga"
 
 #: ../../kihon/ken5.rst:65
 msgid "長崎県"
-msgstr ""
+msgstr "Nagasaki"
 
 #: ../../kihon/ken5.rst:66
 msgid "熊本県"
-msgstr ""
+msgstr "Kumamoto"
 
 #: ../../kihon/ken5.rst:67
 msgid "大分県"
-msgstr ""
+msgstr "Oita"
 
 #: ../../kihon/ken5.rst:68
 msgid "宮崎県"
-msgstr ""
+msgstr "Miyazaki"
 
 #: ../../kihon/ken5.rst:69
 msgid "鹿児島県"
-msgstr ""
+msgstr "Kagoshima"
 
 #: ../../kihon/ken5.rst:70
 msgid "沖縄県"
-msgstr ""
+msgstr "Okinawa"
 
 #: ../../kihon/ken5.rst:71
 msgid "海外"
-msgstr ""
+msgstr "Foreign countries"
 
 #: ../../kihon/ken5.rst:75
 msgid "備考"
@@ -243,7 +243,7 @@ msgstr "Remarks"
 
 #: ../../kihon/ken5.rst:77
 msgid "学部生のユーザーには公開していません。"
-msgstr ""
+msgstr "Not available to undergraduate users."
 
 #: ../../kihon/ken5.rst:82
 msgid "収録シート"

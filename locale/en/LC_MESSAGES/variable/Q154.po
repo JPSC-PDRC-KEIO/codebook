@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q154.rst:6
 msgid "無給（サービス）残業時間"
-msgstr "unpaid overtime hours"
+msgstr "Unpaid overtime hours"
 
 #: ../../variable/Q154.rst:11
 msgid "変数名"
