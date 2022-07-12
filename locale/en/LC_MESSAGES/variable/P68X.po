@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-07-12 09:46+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/P68X.rst:5
 msgid "前職の離職理由：妊娠・出産・育児のため"
-msgstr ""
+msgstr "Reason for leaving previous job: pregnancy, childbirth, and childcare"
 
 #: ../../variable/P68X.rst:9
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/P68X.rst:18
 msgid "どのような理由で、あなたはその前職をやめたのですか。(〇はいくつでも)"
-msgstr ""
+msgstr "What were your reasons for leaving previous job? (Circle all that pertain to you.)"
 
 #: ../../variable/P68X.rst:21
 msgid "妊娠・出産・育児のため"
-msgstr ""
+msgstr "Pregnancy, childbirth, and childcare"
 
 #: ../../variable/P68X.rst:27
 msgid "選択肢 / 記入欄"
@@ -47,11 +49,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/P68X.rst:30
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/P68X.rst:32
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/P68X.rst:39
 msgid "桁あふれコード"
@@ -67,7 +69,7 @@ msgstr "No response code"
 
 #: ../../variable/P68X.rst:52
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../variable/P68X.rst:57
 msgid "備考"
@@ -79,15 +81,14 @@ msgstr "Data files (csv)"
 
 #: ../../variable/P68X.rst:68
 msgid "p11c_1"
-msgstr ""
+msgstr "p11c_1"
 
 #: ../../variable/P68X.rst:70
 msgid "p16d_1"
-msgstr ""
+msgstr "p16d_1"
 
 #~ msgid "変数名: P68X"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

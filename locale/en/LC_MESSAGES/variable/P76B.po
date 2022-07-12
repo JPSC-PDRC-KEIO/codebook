@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-07-12 12:06+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/P76B.rst:5
 msgid "初職への従事期間　終了月"
-msgstr ""
+msgstr "Duration of engagement in first job: End year"
 
 #: ../../variable/P76B.rst:9
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/P76B.rst:18
 msgid "はじめてついた職業に従事したのは、いつからいつまででしたか。年"
-msgstr ""
+msgstr "From when and until when did you engage in your first occupation? Year"
 
 #: ../../variable/P76B.rst:24
 msgid "選択肢 / 記入欄"
@@ -43,7 +45,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/P76B.rst:27
 msgid "平成＿＿　年　＿ ＿ 月から"
-msgstr ""
+msgstr "From Heisei _ _ (year), _ _ (month)"
 
 #: ../../variable/P76B.rst:29
 msgid "（P75A）　（P75B）"
@@ -51,7 +53,7 @@ msgstr ""
 
 #: ../../variable/P76B.rst:31
 msgid "平成＿＿　年　＿ ＿ 月まで"
-msgstr ""
+msgstr "To Heisei _ _ (year), _ _ (month)"
 
 #: ../../variable/P76B.rst:33
 msgid "（P76A）　（P76B）"
@@ -90,24 +92,27 @@ msgid "p1_3"
 msgstr ""
 
 #: ../../variable/P76B.rst:71
+#, fuzzy
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #: ../../variable/P76B.rst:73
+#, fuzzy
 msgid "p11c_1"
-msgstr ""
+msgstr "p11c_1"
 
 #: ../../variable/P76B.rst:75
+#, fuzzy
 msgid "p16d_1"
-msgstr ""
+msgstr "p16d_1"
 
 #: ../../variable/P76B.rst:77
+#, fuzzy
 msgid "p21e_1"
-msgstr ""
+msgstr "p21e_1"
 
 #~ msgid "変数名: P76B"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
