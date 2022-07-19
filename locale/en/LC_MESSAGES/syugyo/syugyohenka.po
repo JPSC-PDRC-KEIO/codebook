@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../syugyo/syugyohenka.rst:3
 msgid "就業上の変化"
-msgstr "Changes in warking"
+msgstr "Changes in working"
 
 #: ../../syugyo/syugyohenka.rst:6
 msgid "就業に関する1年間の変化を聞いています。"
