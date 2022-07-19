@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/P78M.rst:5
 msgid "初職の離職理由：その他"
-msgstr ""
+msgstr "Reason for leaving first job: other"
 
 #: ../../variable/P78M.rst:9
 msgid "変数名"
@@ -35,11 +35,11 @@ msgstr "Question"
 
 #: ../../variable/P78M.rst:18
 msgid "どのような理由で、あなたははじめての職業をやめたのですか。(〇はいくつでも)"
-msgstr ""
+msgstr "What were your reasons for leaving your first profession? (Circle as many as pertain to you)"
 
 #: ../../variable/P78M.rst:21
 msgid "その他（具体的に　　　　　　　　　　　　　　）"
-msgstr ""
+msgstr "Other (Specify:____________)""
 
 #: ../../variable/P78M.rst:27
 msgid "選択肢 / 記入欄"
@@ -47,11 +47,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/P78M.rst:30
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/P78M.rst:32
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/P78M.rst:39
 msgid "桁あふれコード"
@@ -96,10 +96,4 @@ msgstr ""
 #: ../../variable/P78M.rst:76
 msgid "p21e_1"
 msgstr ""
-
-#~ msgid "変数名: P78M"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
 

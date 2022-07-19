@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-07-05 14:41+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.1\n"
 
 #: ../../variable/P78K.rst:5
 msgid "初職の離職理由：良い条件の仕事が見つかった・独立した"
-msgstr ""
+msgstr "Reason for leaving first job: found a job with better conditions/became independent"
 
 #: ../../variable/P78K.rst:9
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/P78K.rst:18
 msgid "どのような理由で、あなたははじめての職業をやめたのですか。(〇はいくつでも)"
-msgstr ""
+msgstr "What were your reasons for leaving your first profession? (Circle as many as pertain to you)"
 
 #: ../../variable/P78K.rst:21
 msgid "良い条件の仕事が見つかったから・独立したから"
-msgstr ""
+msgstr "Found a job with better conditions/became independent"
 
 #: ../../variable/P78K.rst:27
 msgid "選択肢 / 記入欄"
@@ -47,11 +49,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/P78K.rst:30
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/P78K.rst:32
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/P78K.rst:39
 msgid "桁あふれコード"
@@ -67,7 +69,7 @@ msgstr "No response code"
 
 #: ../../variable/P78K.rst:52
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../variable/P78K.rst:57
 msgid "備考"
@@ -83,23 +85,22 @@ msgstr ""
 
 #: ../../variable/P78K.rst:70
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #: ../../variable/P78K.rst:72
 msgid "p11c_1"
-msgstr ""
+msgstr "p11c_1"
 
 #: ../../variable/P78K.rst:74
 msgid "p16d_1"
-msgstr ""
+msgstr "p16d_1"
 
 #: ../../variable/P78K.rst:76
 msgid "p21e_1"
-msgstr ""
+msgstr "p21e_1"
 
 #~ msgid "変数名: P78K"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

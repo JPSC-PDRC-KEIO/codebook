@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2022-07-12 09:43+0900\n"
+"PO-Revision-Date: 2022-07-19 10:35+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P68U.rst:5
 msgid "前職の離職理由：大学や専門学校などでの勉強や留学準備のため"
-msgstr "Reason for leaving previous job: To study at a university or vocational school or to prepare for study abroad"
+msgstr "Reason for leaving previous job: to study at a university or vocational school or to prepare for study abroad"
 
 #: ../../variable/P68U.rst:9
 msgid "変数名"

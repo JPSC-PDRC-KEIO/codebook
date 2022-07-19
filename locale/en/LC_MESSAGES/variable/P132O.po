@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-07-11 11:32+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/P132O.rst:5
 msgid "大きな出来事の経験：事故や災害-->宗教関係者に相談"
-msgstr ""
+msgstr "Experiencing a major event: accident or disaster--> consulted a religious official"
 
 #: ../../variable/P132O.rst:9
 msgid "変数名"
@@ -35,19 +37,19 @@ msgstr "Question"
 
 #: ../../variable/P132O.rst:18
 msgid "あなたやあなたのご家族に起こった大きな出来事についてうかがいます。"
-msgstr ""
+msgstr "Please answer the following questions about major events that you or your family have experienced."
 
 #: ../../variable/P132O.rst:21
 msgid "（1）あなたが、中学を卒業してから現在までのあいだで、あなたやあなたのご家族に次のような大きな出来事がありましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "\(1) Between the time you graduated from junior high school and now, have you or your family experienced any of the following major events? (Circle as many as pertain to you.)"
 
 #: ../../variable/P132O.rst:24
 msgid "（2）その結果どのようなことが起こりましたか。あなたが覚えている限りで、次の中からいくつでもお答えください。（〇はいくつでも）"
-msgstr ""
+msgstr "\(2) What happened as a result? Please answer as many of the following questions as you can remember. (Circle as many as pertain to you.)"
 
 #: ../../variable/P132O.rst:27
 msgid "大きな事故や災害-->宗教関係者に相談をした"
-msgstr ""
+msgstr "Major accidents or disasters--> consulted with religious officials"
 
 #: ../../variable/P132O.rst:33
 msgid "選択肢 / 記入欄"
@@ -55,11 +57,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/P132O.rst:36
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/P132O.rst:38
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/P132O.rst:45
 msgid "桁あふれコード"
@@ -75,7 +77,7 @@ msgstr "No response code"
 
 #: ../../variable/P132O.rst:58
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../variable/P132O.rst:63
 msgid "備考"
@@ -110,4 +112,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

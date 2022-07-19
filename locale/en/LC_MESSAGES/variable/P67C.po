@@ -8,67 +8,97 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2022-06-27 11:12+0900\n"
+"POT-Creation-Date: 2022-07-05 13:37+0900\n"
+"PO-Revision-Date: 2022-07-08 11:38+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.9.1\n"
 "X-Generator: Poedit 3.1\n"
 
-#: ../../variable/P67C.rst:5
-msgid "None"
-msgstr "None"
+#: ../../variable/P67C.rst:6
+msgid "前職の選択理由：労働時間が少ない、残業が少ない"
+msgstr "Reasons for choosing previous position: Less time restraints and overtime work"
 
-#: ../../variable/P67C.rst:9
+#: ../../variable/P67C.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/P67C.rst:11
+#: ../../variable/P67C.rst:13
 msgid "P67C"
 msgstr ""
 
-#: ../../variable/P67C.rst:15
+#: ../../variable/P67C.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/P67C.rst:21
+#: ../../variable/P67C.rst:20
+msgid "なぜ、あなたはその前職を選びましたか（〇はいくつでも）"
+msgstr "Why did you choose your previous position? (Circle all that pertain to you)"
+
+#: ../../variable/P67C.rst:23
+msgid "労働時間が少ない、残業が少ない"
+msgstr "Less time restraints and overtime work"
+
+#: ../../variable/P67C.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/P67C.rst:29
+#: ../../variable/P67C.rst:30
+msgid "はい"
+msgstr "Yes"
+
+#: ../../variable/P67C.rst:31
+msgid "いいえ"
+msgstr "No"
+
+#: ../../variable/P67C.rst:38
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/P67C.rst:35
+#: ../../variable/P67C.rst:45
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/P67C.rst:41
+#: ../../variable/P67C.rst:52
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/P67C.rst:47
+#: ../../variable/P67C.rst:53
+msgid "3"
+msgstr "3"
+
+#: ../../variable/P67C.rst:59
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/P67C.rst:53
+#: ../../variable/P67C.rst:61
+msgid "第11回調査からは :doc:`P67X </variable/P67X>` に変更されています。"
+msgstr "Since \"Wave 11\", it has been changed to :doc:`P67X </variable/P67X>`."
+
+#: ../../variable/P67C.rst:67
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/P67C.rst:58
+#: ../../variable/P67C.rst:72
+#, fuzzy
 msgid "p1_1"
-msgstr ""
+msgstr "p1_1"
 
-#: ../../variable/P67C.rst:60
+#: ../../variable/P67C.rst:74
+#, fuzzy
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #~ msgid "変数名: P67C"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
+
+#~ msgid "None"
+#~ msgstr "None"

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2022-07-04 11:28+0900\n"
+"PO-Revision-Date: 2022-07-19 11:10+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 3.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/P68Q.rst:5
 msgid "前職の離職理由：家族の介護のため"
-msgstr "Reason for leaving previous job: Family nursing care"
+msgstr "Reason for leaving previous job: to care for family members"
 
 #: ../../variable/P68Q.rst:9
 msgid "変数名"
@@ -41,7 +41,7 @@ msgstr "What were your reasons for leaving your last job? (Circle all that perta
 
 #: ../../variable/P68Q.rst:21
 msgid "家族の介護のため"
-msgstr "Family nursing care"
+msgstr "To care for family members"
 
 #: ../../variable/P68Q.rst:27
 msgid "選択肢 / 記入欄"
