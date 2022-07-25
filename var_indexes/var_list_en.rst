@@ -8,7 +8,7 @@ List of variables
 * `P3       <https://jpsc-codebook.readthedocs.io/en/latest/variable/P3.html>`_ : Age of marriage with present spouse
 * `P4       <https://jpsc-codebook.readthedocs.io/en/latest/variable/P4.html>`_ : Past marriage (single)
 * `P4_2     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P4_2.html>`_ : Divorced or Widowed (married).
-* `P4_3     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P4_3.html>`_ : 結婚経験の有無〔第21回〕
+* `P4_3     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P4_3.html>`_ : Marital status [Wave 21]
 * `P5       <https://jpsc-codebook.readthedocs.io/en/latest/variable/P5.html>`_ : Category of junior high school
 * `P6       <https://jpsc-codebook.readthedocs.io/en/latest/variable/P6.html>`_ : Graduation from high school
 * `P7       <https://jpsc-codebook.readthedocs.io/en/latest/variable/P7.html>`_ : Category of high school
@@ -89,194 +89,194 @@ List of variables
 * `P40B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P40B.html>`_ : Total period of working: Month
 * `P41A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P41A.html>`_ : Period of not working: Year (not working)
 * `P41B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P41B.html>`_ : Period of not working: Month
-* `P42      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P42.html>`_ : 就労意向
-* `P44A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P44A.html>`_ : 求職活動期間：年（無職）
-* `P44B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P44B.html>`_ : 求職活動期間：月（無職）
-* `P45      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P45.html>`_ : 就業経験の有無
-* `P46A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P46A.html>`_ : 通算就業期間：年（無職）
-* `P46B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P46B.html>`_ : 通算就業期間：月（無職）
-* `P47      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P47.html>`_ : 労働時間：月給・週給〔第1・５回〕
-* `P48      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P48.html>`_ : 勤務日数：月給・週給〔第1・５回〕
-* `P49      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P49.html>`_ : 労働時間：日給〔第1・５回〕
-* `P50      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P50.html>`_ : 勤務日数：日給〔第1・５回〕
-* `P51      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P51.html>`_ : 労働時間：時給〔第1・５回〕
-* `P52      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P52.html>`_ : 勤務日数：時給〔第1・５回〕
-* `P53A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P53A.html>`_ : 現会社の勤務開始時期：年
-* `P53B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P53B.html>`_ : 現会社の勤務開始時期：月
-* `P54A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54A.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：給与がよい
-* `P54B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54B.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：休日、休暇が多い
-* `P54C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54C.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：拘束時間、残業が少ない
-* `P54D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54D.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：労働時間が自由になる
-* `P54E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54E.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：家に近い、通勤距離が短い
-* `P54F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54F.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：転勤がない、少ない
-* `P54G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54G.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：安定している
-* `P54H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54H.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：将来発展する可能性がある
-* `P54I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54I.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：世間一般に知られている
-* `P54J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54J.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：結婚後も続けやすい
-* `P54K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54K.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：出産後も続けやすい
-* `P54L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54L.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：技術が身につく
-* `P54M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54M.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：能力が生かせる
-* `P54N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54N.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：仕事内容に興味がある
-* `P54O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54O.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：管理職になれる
-* `P54P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54P.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：外国に行ける
-* `P54Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54Q.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：結婚相手が見つかる
-* `P54R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54R.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：学校がすすめるので
-* `P54S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54S.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：家族がすすめるので
-* `P54T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54T.html>`_ : 現職（会社）の選択理由〔第1回・第５回〕：その他
-* `P55A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P55A.html>`_ : 現職種の開始時期：年
-* `P55B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P55B.html>`_ : 現職種の開始時期：月
-* `P56A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56A.html>`_ : 現職（職種）の選択理由：給与がよい
-* `P56B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56B.html>`_ : 現職（職種）の選択理由：休日、休暇が多い
-* `P56C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56C.html>`_ : 現職（職種）の選択理由：拘束時間が少ない、残業が少ない
-* `P56D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56D.html>`_ : 現職（職種）の選択理由：労働時間が自由になる
-* `P56E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56E.html>`_ : 現職（職種）の選択理由：転勤がない、少ない
-* `P56F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56F.html>`_ : 現職（職種）の選択理由：安定している、失業のおそれがない
-* `P56G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56G.html>`_ : 現職（職種）の選択理由：将来発展する可能性がある
-* `P56H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56H.html>`_ : 現職（職種）の選択理由：組織にしばられない
-* `P56I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56I.html>`_ : 現職（職種）の選択理由：結婚後も続けやすい
-* `P56J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56J.html>`_ : 現職（職種）の選択理由：出産後も続けやすい
-* `P56K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56K.html>`_ : 現職（職種）の選択理由：技術が身につく
-* `P56L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56L.html>`_ : 現職（職種）の選択理由：能力が生かせる
-* `P56M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56M.html>`_ : 現職（職種）の選択理由：仕事内容に興味がある
-* `P56N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56N.html>`_ : 現職（職種）の選択理由：外国に行ける
-* `P56O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56O.html>`_ : 現職（職種）の選択理由：結婚相手が見つかる
-* `P56P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56P.html>`_ : 現職（職種）の選択理由：学校がすすめるので
-* `P56Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56Q.html>`_ : 現職（職種）の選択理由：家族がすすめるので
-* `P56R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56R.html>`_ : 現職（職種）の選択理由：会社で指定された
-* `P56S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56S.html>`_ : 現職（職種）の選択理由：家業だから
-* `P56T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56T.html>`_ : 現職（職種）の選択理由：その他
-* `P57A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57A.html>`_ : 仕事の知識・技能習得：社内の研修で
-* `P57B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57B.html>`_ : 仕事の知識・技能習得：社内の同僚から
-* `P57C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57C.html>`_ : 仕事の知識・技能習得：会社から学校に派遣されて
-* `P57D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57D.html>`_ : 仕事の知識・技能習得：会社から他社に派遣されて
-* `P57E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57E.html>`_ : 仕事の知識・技能習得：就職する前に公共の職業訓練校で
-* `P57F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57F.html>`_ : 仕事の知識・技能習得：就職する前に専門学校などで
-* `P57G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57G.html>`_ : 仕事の知識・技能習得：高校で
-* `P57H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57H.html>`_ : 仕事の知識・技能習得：高専・短大・大学で
-* `P57I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57I.html>`_ : 仕事の知識・技能習得：大学院で
-* `P57J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57J.html>`_ : 仕事の知識・技能習得：前職の勤務により
-* `P57K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57K.html>`_ : 仕事の知識・技能習得：独学で
-* `P57L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57L.html>`_ : 仕事の知識・技能習得：その他
-* `P57M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57M.html>`_ : 仕事の知識・技能習得：特に身につけたことはない
-* `P58      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P58.html>`_ : 仕事の習熟期間
-* `P60      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P60.html>`_ : 初職は現職か
-* `P62      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P62.html>`_ : 前職の職業〔第1回〕
-* `P63      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P63.html>`_ : 前職の従業員数
-* `P64      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P64.html>`_ : 前職の業種〔第1回・第5回・第11回・第16回〕
-* `P65      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P65.html>`_ : 前職の職務
-* `P66A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P66A.html>`_ : 前職への従事期間：開始年
-* `P66B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P66B.html>`_ : 前職への従事期間：開始月
-* `P66C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P66C.html>`_ : 前職への従事：終了年
-* `P66D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P66D.html>`_ : 前職への従事期間：終了月
-* `P67A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67A.html>`_ : 前職の選択理由：給与がよい
-* `P67B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67B.html>`_ : 前職の選択理由：休日、休暇が多い
-* `P67C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67C.html>`_ : None
-* `P67D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67D.html>`_ : None
-* `P67E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67E.html>`_ : 前職の選択理由：家に近い、通勤距離が短い
-* `P67F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67F.html>`_ : 前職の選択理由：転勤がない、少ない
-* `P67G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67G.html>`_ : 前職の選択理由：.安定している、失業のおそれがない
-* `P67H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67H.html>`_ : 前職の選択理由：将来発展する可能性がある
-* `P67I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67I.html>`_ : None
-* `P67J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67J.html>`_ : None
-* `P67K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67K.html>`_ : None
-* `P67L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67L.html>`_ : None
-* `P67M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67M.html>`_ : 前職の選択理由：技術が身につく
-* `P67N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67N.html>`_ : 前職の選択理由：能力が生かせる
-* `P67O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67O.html>`_ : 前職の選択理由：仕事内容に興味がある
-* `P67P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67P.html>`_ : None
-* `P67Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67Q.html>`_ : None
-* `P67R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67R.html>`_ : None
-* `P67S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67S.html>`_ : None
-* `P67T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67T.html>`_ : None
-* `P67U     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67U.html>`_ : None
-* `P67V     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67V.html>`_ : None
-* `P67W     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67W.html>`_ : 前職の選択理由：その他
-* `P67X     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67X.html>`_ : 前職の選択理由：拘束時間が少ない、労働時間が自由になる
-* `P67Y     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67Y.html>`_ : 前職の選択理由：結婚・出産後も続けやすい
-* `P68A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68A.html>`_ : 前職の離職理由：人員整理・会社解散・倒産のため
-* `P68AA    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68AA.html>`_ : 前職の離職理由：妊娠・出産のため
-* `P68AB    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68AB.html>`_ : 前職の離職理由：育児・子育てのため
-* `P68B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68B.html>`_ : 前職の離職理由：一時的・不安定な仕事だったから
-* `P68C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68C.html>`_ : 前職の離職理由：収入が少なかったから
-* `P68D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68D.html>`_ : 前職の離職理由：労働条件が悪かったから
-* `P68E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68E.html>`_ : 前職の離職理由：自分に向かない仕事だったから
-* `P68F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68F.html>`_ : 前職の離職理由：家族の就職・転職・転勤および事業所の移転のため
-* `P68G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68G.html>`_ : 前職の離職理由：自分が病気になったから
-* `P68H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68H.html>`_ : 前職の離職理由：結婚のため
-* `P68I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68I.html>`_ : 前職の離職理由：出産・育児のため
-* `P68J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68J.html>`_ : 前職の離職理由：能力が生かせない仕事だったから
-* `P68K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68K.html>`_ : 前職の離職理由：良い条件の仕事が見つかった・独立した
-* `P68L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68L.html>`_ : 前職の離職理由：人間関係が気まずくなったから
-* `P68M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68M.html>`_ : 前職の離職理由：その他
-* `P68N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68N.html>`_ : 前職の離職理由：単調な仕事でむなしいと思ったから
-* `P68O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68O.html>`_ : 前職の離職理由：子どもが欲しいので
-* `P68P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68P.html>`_ : 前職の離職理由：妊娠のために身体を気づかって
-* `P68Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68Q.html>`_ : 前職の離職理由：家族の介護のため
-* `P68R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68R.html>`_ : 前職の離職理由：職場の上司との関係がうまくいかなくて
-* `P68S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68S.html>`_ : 前職の離職理由：職場の同僚との関係がうまくいかなくて
-* `P68T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68T.html>`_ : 前職の離職理由：解雇された
-* `P68U     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68U.html>`_ : 前職の離職理由：大学や専門学校などでの勉強や留学準備のため
-* `P68V     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68V.html>`_ : 前職の離職理由：労働条件（収入、時間）が悪かったから
-* `P68W     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68W.html>`_ : 前職の離職理由：仕事の内容に不満があったため
-* `P68X     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68X.html>`_ : 前職の離職理由：妊娠・出産・育児のため
-* `P68Y     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68Y.html>`_ : 前職の離職理由：解雇された
-* `P68Z     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68Z.html>`_ : 前職の離職理由：定年又は雇用契約の満了
-* `P70      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P70.html>`_ : 初職は前職か（無職）
-* `P71      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P71.html>`_ : 初職の職業〔第1回〕
-* `P72      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P72.html>`_ : 初職の従業員数
-* `P73      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P73.html>`_ : 初職の業種〔第1回・第5回・第11回・第16回〕
-* `P74      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P74.html>`_ : 初職の職務
-* `P75A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P75A.html>`_ : 初職への従事期間　開始年
-* `P75B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P75B.html>`_ : 初職への従事期間　開始月
-* `P76A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P76A.html>`_ : 初職への従事期間　終了年
-* `P76B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P76B.html>`_ : 初職への従事期間　終了月
-* `P77A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77A.html>`_ : 初職の選択理由：給与がよい
-* `P77B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77B.html>`_ : 初職の選択理由：休日、休暇が多い
-* `P77C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77C.html>`_ : 初職の選択理由：
-* `P77D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77D.html>`_ : None
-* `P77E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77E.html>`_ : 初職の選択理由：家に近い、通勤距離が短い
-* `P77F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77F.html>`_ : 初職の選択理由：転勤がない、少ない
-* `P77G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77G.html>`_ : 初職の選択理由：安定している、失業のおそれがない
-* `P77H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77H.html>`_ : 初職の選択理由：将来発展する可能性がある
-* `P77I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77I.html>`_ : None
-* `P77J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77J.html>`_ : None
-* `P77K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77K.html>`_ : None
-* `P77L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77L.html>`_ : None
-* `P77M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77M.html>`_ : 初職の選択理由：技術が身につく
-* `P77N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77N.html>`_ : 初職の選択理由：能力が生かせる
-* `P77O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77O.html>`_ : 初職の選択理由：仕事内容に興味がある
-* `P77P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77P.html>`_ : None
-* `P77Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77Q.html>`_ : None
-* `P77R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77R.html>`_ : None
-* `P77S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77S.html>`_ : None
-* `P77T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77T.html>`_ : None
-* `P77U     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77U.html>`_ : None
-* `P77V     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77V.html>`_ : None
-* `P77W     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77W.html>`_ : 初職の選択理由：その他(具体的に　　　　　　　　　　　　　　　)
-* `P77X     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77X.html>`_ : 初職の選択理由：拘束時間が少ない、労働時間が自由になる
-* `P77Y     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77Y.html>`_ : 初職の選択理由：結婚・出産後も続けやすい
-* `P78A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78A.html>`_ : 初職の離職理由：人員整理・会社解散・倒産のため
-* `P78AA    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78AA.html>`_ : 初職の離職理由：妊娠・出産のため
-* `P78AB    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78AB.html>`_ : 初職の離職理由：育児・子育てのため
-* `P78B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78B.html>`_ : 初職の離職理由：一時的・不安定な仕事だったから
-* `P78C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78C.html>`_ : 初職の離職理由：収入が少なかったから
-* `P78D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78D.html>`_ : 初職の離職理由：労働条件が悪かったから
-* `P78E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78E.html>`_ : 初職の離職理由：自分に向かない仕事だったから
-* `P78F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78F.html>`_ : 初職の離職理由：家族の就職・転職・転勤および事業所の移転のため
-* `P78G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78G.html>`_ : 初職の離職理由：自分が病気になったから
-* `P78H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78H.html>`_ : 初職の離職理由：結婚のため
-* `P78I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78I.html>`_ : 初職の離職理由：出産・育児のため
-* `P78J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78J.html>`_ : 初職の離職理由：能力が生かせない仕事だったから
-* `P78K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78K.html>`_ : 初職の離職理由：良い条件の仕事が見つかった・独立した
-* `P78L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78L.html>`_ : 初職の離職理由：人間関係がきまずくなったから
-* `P78M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78M.html>`_ : 初職の離職理由：その他
-* `P78N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78N.html>`_ : 初職の離職理由：単調な仕事でむなしいと思ったから
-* `P78O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78O.html>`_ : 初職の離職理由：子どもが欲しいので
-* `P78P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78P.html>`_ : 初職の離職理由：妊娠のために身体を気づかって
-* `P78Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78Q.html>`_ : 初職の離職理由：家族の介護のため
-* `P78R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78R.html>`_ : 初職の離職理由：職場の上司との関係がうまくいかなくて
-* `P78S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78S.html>`_ : 初職の離職理由：職場の同僚との関係がうまくいかなくて
-* `P78T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78T.html>`_ : 初職の離職理由：解雇された
+* `P42      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P42.html>`_ : Intention to work
+* `P44A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P44A.html>`_ : Job search period: years (unemployed)
+* `P44B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P44B.html>`_ : Job search period: months (unemployed)
+* `P45      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P45.html>`_ : Work experience
+* `P46A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P46A.html>`_ : General employment period: years (unemployed)
+* `P46B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P46B.html>`_ : General employment period: months (unemployed)
+* `P47      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P47.html>`_ : Working hours: monthly and weekly pay [Wave1 & 5]
+* `P48      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P48.html>`_ : Working hours: monthly and weekly pay [Wave1 & 5].
+* `P49      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P49.html>`_ : Working hours: daily wages [Wave1 & 5]
+* `P50      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P50.html>`_ : Working days: monthly and weekly pay [Wave1 & 5]
+* `P51      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P51.html>`_ : Working hours: daily wages [Wave1 & 5]
+* `P52      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P52.html>`_ : Working days: daily wages [Wave1 & 5]
+* `P53A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P53A.html>`_ : Start of work at current company: Year
+* `P53B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P53B.html>`_ : Start of work at current company: Month
+* `P54A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54A.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: Good salary
+* `P54B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54B.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: Many holidays and paid leave
+* `P54C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54C.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: Less time restraints and overtime work
+* `P54D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54D.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: Flexible working hours
+* `P54E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54E.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: Close to home, short commute
+* `P54F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54F.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: No or few transfers
+* `P54G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54G.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: Stable
+* `P54H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54H.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: Potential for future development
+* `P54I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54I.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: Well known company
+* `P54J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54J.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: Easy to continue after marriage
+* `P54K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54K.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: Easy to continue after childbirth
+* `P54L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54L.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: Developing Skills
+* `P54M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54M.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: Utilizing abilities
+* `P54N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54N.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: Interest in the job
+* `P54O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54O.html>`_ : P54O : Reasons for choosing current job (company) [1st and 5th] : Management position
+* `P54P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54P.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: Can go abroad
+* `P54Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54Q.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: finding a marriage partner
+* `P54R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54R.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: School recommendation
+* `P54S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54S.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: A family member’s recommendation
+* `P54T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54T.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: Other
+* `P55A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P55A.html>`_ : Start date of current position: Year
+* `P55B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P55B.html>`_ : Start date of current position: Month
+* `P56A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56A.html>`_ : Reasons for choosing current position (type of work): Good salary
+* `P56B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56B.html>`_ : Reasons for choosing current position (type of work): Many holidays and paid leave
+* `P56C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56C.html>`_ : Less time restraints and overtime work
+* `P56D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56D.html>`_ : Reason for choosing current position (type of work): Flexible working hours
+* `P56E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56E.html>`_ : Reasons for choosing current position (type of work): No or few transfers
+* `P56F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56F.html>`_ : Reasons for choosing current position (type of work): stable, low risk of unemployment
+* `P56G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56G.html>`_ : Reasons for choosing current position (type of work): Potential for future development
+* `P56H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56H.html>`_ : Reason for choosing current position (type of work): not restricted by organization
+* `P56I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56I.html>`_ : Reason for choosing current position (type of work): easy to continue after marriage
+* `P56J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56J.html>`_ : Reason for choosing current job (type of work): easy to continue after childbirth
+* `P56K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56K.html>`_ : Reason for choosing current position (type of work): developing Skills
+* `P56L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56L.html>`_ : Reason for choosing current position (type of work): utilizing abilities
+* `P56M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56M.html>`_ : Reason for choosing current position (type of work): interest in the job
+* `P56N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56N.html>`_ : Reason for choosing current position (type of work): Opportunities to work abroad
+* `P56O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56O.html>`_ : Reason for choosing current job (type of work): finding a marriage partner
+* `P56P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56P.html>`_ : Reasons for choosing current position (type of work): School recommendation
+* `P56Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56Q.html>`_ : Reason for choosing current job (type of work): A family member’s recommendation
+* `P56R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56R.html>`_ : Reason for selecting current position (type of work): assigned by company
+* `P56S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56S.html>`_ : Reason for selecting current occupation: Family business
+* `P56T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56T.html>`_ : Reason for selecting current occupation: Other
+* `P57A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57A.html>`_ : Acquisition of job knowledge and skills: through company training
+* `P57B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57B.html>`_ : Acquisition of job knowledge and skills: from colleagues within the company
+* `P57C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57C.html>`_ : Job knowledge and skills acquisition: sent to school by the company
+* `P57D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57D.html>`_ : Job knowledge and skill acquisition: dispatched by the company to other companies
+* `P57E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57E.html>`_ : Acquisition of job knowledge and skills: at a public vocational training school before employment
+* `P57F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57F.html>`_ : Acquiring job knowledge and skills: at vocational schools before getting a job
+* `P57G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57G.html>`_ : Acquisition of job knowledge and skills: in high school
+* `P57H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57H.html>`_ : Acquisition of job knowledge and skills: at technical college, junior college, or university
+* `P57I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57I.html>`_ : Acquisition of job knowledge and skills: in graduate school
+* `P57J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57J.html>`_ : Job knowledge and skill acquisition: at previous job
+* `P57K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57K.html>`_ : Job knowledge and skill acquisition: self-taught
+* `P57L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57L.html>`_ : Job knowledge and skill acquisition: other
+* `P57M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P57M.html>`_ : Job knowledge and skill acquisition: nothing in particular acquired
+* `P58      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P58.html>`_ : Time taken to become proficient
+* `P60      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P60.html>`_ : First position (or job) of your career?
+* `P62      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P62.html>`_ : Previous Occupation [Wave1]
+* `P63      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P63.html>`_ : Number of employees in previous workplace
+* `P64      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P64.html>`_ : Industry of previous job [Wave1, Wave5, Wave11, Wave16]
+* `P65      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P65.html>`_ : Type of previous employment
+* `P66A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P66A.html>`_ : Duration of previous employment: Starting year
+* `P66B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P66B.html>`_ : Duration of previous employment: Starting month
+* `P66C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P66C.html>`_ : Engaged in previous job: End year
+* `P66D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P66D.html>`_ : Duration of previous employment: End year
+* `P67A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67A.html>`_ : Reasons for choosing previous job: Good salary
+* `P67B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67B.html>`_ : Reasons for choosing previous job: Many holidays and paid leave
+* `P67C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67C.html>`_ : Reasons for choosing previous position: Less time restraints and overtime work
+* `P67D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67D.html>`_ : Reason for choosing previous position: Flexible working hours
+* `P67E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67E.html>`_ : Reasons for choosing previous position: close to home, short commute distance
+* `P67F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67F.html>`_ : Reasons for choosing previous position: No or few transfers
+* `P67G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67G.html>`_ : Reasons for choosing previous position: stable, low risk of unemployment
+* `P67H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67H.html>`_ : Reasons for choosing previous position: Potential for future development
+* `P67I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67I.html>`_ : Reasons for choosing previous position: Well known company
+* `P67J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67J.html>`_ : Reason for choosing current position: not restricted by organization
+* `P67K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67K.html>`_ : Reason for choosing previous position: easy to continue after marriage
+* `P67L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67L.html>`_ : Reason for choosing previous position: easy to continue after childbirth
+* `P67M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67M.html>`_ : Reasons for choosing previous position: Developing skills
+* `P67N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67N.html>`_ : Reason for choosing previous position: Utilizing abilities
+* `P67O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67O.html>`_ : Reasons for choosing previous position: Interest in the job
+* `P67P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67P.html>`_ : Reason for choosing current position: Management position
+* `P67Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67Q.html>`_ : Reason for choosing previous position: Opportunities to work abroad
+* `P67R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67R.html>`_ : Reason for choosing previous position: finding a marriage partner
+* `P67S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67S.html>`_ : Reasons for choosing previous position: School recommendation
+* `P67T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67T.html>`_ : Reason for choosing previous position: A family member’s recommendation
+* `P67U     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67U.html>`_ : Reason for selecting previous position: assigned by company
+* `P67V     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67V.html>`_ : Reason for selecting previous position: Family business
+* `P67W     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67W.html>`_ : Reason for selecting previous position: other
+* `P67X     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67X.html>`_ : Reasons for choosing previous position: Less time restraints and overtime work
+* `P67Y     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67Y.html>`_ : Reasons for choosing previous position: easy to continue after marriage and childbirth
+* `P68A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68A.html>`_ : Reason for leaving previous job: Workforce reduction, company dissolution, or bankruptcy
+* `P68AA    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68AA.html>`_ : Reason for leaving previous job: Pregnancy and childbirth
+* `P68AB    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68AB.html>`_ : Reason for leaving previous job: Childcare/child rearing
+* `P68B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68B.html>`_ : Reason for leaving previous job: Temporary/unstable job
+* `P68C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68C.html>`_ : Reason for leaving previous job: Low income
+* `P68D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68D.html>`_ : Reason for leaving previous job: Poor working conditions
+* `P68E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68E.html>`_ : Reason for leaving previous job: Job was not suitable for me.
+* `P68F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68F.html>`_ : Reason for leaving previous job: family member’s employment, job change, transfer, or business relocation
+* `P68G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68G.html>`_ : Reason for leaving previous job: your own illness
+* `P68H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68H.html>`_ : Reason for leaving previous job: marriage
+* `P68I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68I.html>`_ : Reason for leaving previous job: childbirth/child care
+* `P68J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68J.html>`_ : Reason for leaving previous job: Job did not allow you to utilize your skills.
+* `P68K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68K.html>`_ : Reason for leaving previous job: found a job with better conditions/became independent
+* `P68L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68L.html>`_ : Reason for leaving previous job: Relationships became awkward.
+* `P68M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68M.html>`_ : Reason for leaving previous job: Other
+* `P68N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68N.html>`_ : Reason for leaving previous job: felt monotonous and boring
+* `P68O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68O.html>`_ : Reason for leaving previous job: To have children.
+* `P68P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68P.html>`_ : Reason for leaving previous job: Concern for my health due to pregnancy
+* `P68Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68Q.html>`_ : Reason for leaving previous job: to care for family members
+* `P68R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68R.html>`_ : Reason for leaving previous job: Difficulty in relationship with supervisor at work
+* `P68S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68S.html>`_ : Reason for leaving preivous job: Relationship with co-workers was not going well.
+* `P68T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68T.html>`_ : Reason for leaving previous job: laid off
+* `P68U     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68U.html>`_ : Reason for leaving previous job: to study at a university or vocational school or to prepare for study abroad
+* `P68V     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68V.html>`_ : Reason for leaving previous job: Poor working conditions (income, hours)
+* `P68W     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68W.html>`_ : Reason for leaving previous job: Dissatisfaction with job description
+* `P68X     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68X.html>`_ : Reason for leaving previous job: pregnancy, childbirth, and childcare
+* `P68Y     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68Y.html>`_ : Reason for leaving previous job: laid off
+* `P68Z     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68Z.html>`_ : Reason for leaving previous job: Retirement or expiration of employment contract
+* `P70      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P70.html>`_ : Is your first job your last job (unemployed)?
+* `P71      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P71.html>`_ : First occupation [Wave1]
+* `P72      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P72.html>`_ : Number of employees in first place of employment
+* `P73      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P73.html>`_ : Industry of first job [Wave 1, Wave 5, Wave 11, Wave 16]
+* `P74      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P74.html>`_ : First job duties
+* `P75A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P75A.html>`_ : Duration of engagement in first job: Starting year
+* `P75B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P75B.html>`_ : Duration of engagement in first job: Starting month
+* `P76A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P76A.html>`_ : Duration of engagement in first job End Year
+* `P76B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P76B.html>`_ : Duration of engagement in first job: End year
+* `P77A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77A.html>`_ : Reason for choosing first job: good salary
+* `P77B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77B.html>`_ : Reasons for choosing first job: Many holidays and paid leaves
+* `P77C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77C.html>`_ : Reason for leaving first job: less time restraints and overtime work
+* `P77D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77D.html>`_ : Reason for choosing first position: Flexible working hours
+* `P77E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77E.html>`_ : Reasons for choosing first job: close to home, short commute distance
+* `P77F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77F.html>`_ : Reasons for choosing first job: No or few transfers
+* `P77G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77G.html>`_ : Reasons for choosing first job: Stable, low risk of unemployment
+* `P77H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77H.html>`_ : Reasons for choosing first job: potential for future development
+* `P77I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77I.html>`_ : Reasons for choosing first position: Well known company
+* `P77J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77J.html>`_ : Reason for choosing first position: not restricted by organization
+* `P77K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77K.html>`_ : Reason for choosing first position: easy to continue after marriage
+* `P77L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77L.html>`_ : Reason for choosing first position: easy to continue after marriage
+* `P77M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77M.html>`_ : Reasons for choosing first job: Developing skills
+* `P77N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77N.html>`_ : Reason for choosing first job: utilizing abilities
+* `P77O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77O.html>`_ : Reasons for choosing first job: Interest in the job
+* `P77P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77P.html>`_ : Reason for choosing first position: Management position
+* `P77Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77Q.html>`_ : Reason for choosing first position: Opportunities to work abroad
+* `P77R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77R.html>`_ : Reason for choosing first position: finding a marriage partner
+* `P77S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77S.html>`_ : Reasons for choosing first position: School recommendation
+* `P77T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77T.html>`_ : Reason for choosing first position: A family member’s recommendation
+* `P77U     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77U.html>`_ : Reason for selecting first position: assigned by company
+* `P77V     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77V.html>`_ : Reason for selecting first position: Family business
+* `P77W     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77W.html>`_ : Reason for choosing first job: Other (Specify)
+* `P77X     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77X.html>`_ : Reasons for choosing first job: Less time restraints and overtime work
+* `P77Y     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77Y.html>`_ : Reasons for choosing first job: easy to continue after marriage and childbirth
+* `P78A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78A.html>`_ : Reason for leaving first job: Workforce reduction, company dissolution, or bankruptcy
+* `P78AA    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78AA.html>`_ : Reason for leaving first job: pregnancy and childbirth
+* `P78AB    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78AB.html>`_ : Reason for leaving first job: Childcare/child rearing
+* `P78B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78B.html>`_ : Reason for leaving first job: temporary/unstable job
+* `P78C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78C.html>`_ : Reason for leaving previous job: low income
+* `P78D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78D.html>`_ : Reason for leaving first job: Poor working conditions
+* `P78E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78E.html>`_ : Reason for leaving first job: wasn’t the right job for me
+* `P78F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78F.html>`_ : Reason for leaving first job: family member’s employment, job change, transfer, and business relocation
+* `P78G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78G.html>`_ : Reason for leaving first job: illness
+* `P78H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78H.html>`_ : Reason for leaving first job: marriage
+* `P78I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78I.html>`_ : Reason for leaving first job: Childcare/child rearing
+* `P78J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78J.html>`_ : Reason for leaving first job: Job did not allow you to utilize your skills.
+* `P78K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78K.html>`_ : Reason for leaving first job: found a job with better conditions/became independent
+* `P78L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78L.html>`_ : Reason for leaving first job: Relationships became awkward.
+* `P78M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78M.html>`_ : Reason for leaving first job: other
+* `P78N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78N.html>`_ : Reason for leaving first job: felt monotonous and boring
+* `P78O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78O.html>`_ : Reason for leaving first job: to have children.
+* `P78P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78P.html>`_ : Reason for leaving first job: concern for your health due to pregnancy
+* `P78Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78Q.html>`_ : Reason for leaving previous job: to care for a family member
+* `P78R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78R.html>`_ : Reason for leaving first job: Difficulty with your supervisor at work
+* `P78S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78S.html>`_ : Reason for leaving first job: Relationship with co-workers was not going well.
+* `P78T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78T.html>`_ : Reason for leaving first job: laid off
 * `P78U     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78U.html>`_ : 初職の離職理由：大学や専門学校などでの勉強や留学準備のため
 * `P78V     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78V.html>`_ : 初職の離職理由：労働条件（収入、時間）が悪かったから
 * `P78W     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78W.html>`_ : 初職の離職理由：仕事の内容に不満があったため
@@ -345,25 +345,25 @@ List of variables
 * `P132B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132B.html>`_ : Major events experienced: accident or disaster–>Major expense
 * `P132C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132C.html>`_ : Major events experienced: accident or disaster–> Care has become difficult
 * `P132D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132D.html>`_ : Major events experienced: accident or disaster–>The family has not been getting” along
-* `P132E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132E.html>`_ : 大きな出来事の経験：事故や災害–>精神的に落ち込んだ
-* `P132F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132F.html>`_ : 大きな出来事の経験：事故や災害–>転居
-* `P132G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132G.html>`_ : 大きな出来事の経験：事故や災害–>休学・退学
-* `P132H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132H.html>`_ : 大きな出来事の経験：事故や災害–>離婚・別居
-* `P132I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132I.html>`_ : 大きな出来事の経験：事故や災害–>自分が働き始めた
-* `P132J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132J.html>`_ : 大きな出来事の経験：事故や災害–>家族が働き始めた
-* `P132K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132K.html>`_ : 大きな出来事の経験：事故や災害–>経済的援助を頼んだ
-* `P132L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132L.html>`_ : 大きな出来事の経験：事故や災害–>土地や家屋を売った
-* `P132M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132M.html>`_ : 大きな出来事の経験：事故や災害–>借金
-* `P132N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132N.html>`_ : 大きな出来事の経験：事故や災害–>専門機関で治療や相談
-* `P132O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132O.html>`_ : 大きな出来事の経験：事故や災害–>宗教関係者に相談
-* `P132P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132P.html>`_ : 大きな出来事の経験：事故や災害–>その他
-* `P132Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132Q.html>`_ : 大きな出来事の経験：事故や災害–>とくに変化なし
-* `P133A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133A.html>`_ : 大きな出来事の経験：定年など退職–>収入や資産が低下
-* `P133B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133B.html>`_ : 大きな出来事の経験：定年など退職–>大きな費用
-* `P133C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133C.html>`_ : 大きな出来事の経験：定年など退職–>世話が大変
-* `P133D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133D.html>`_ : 大きな出来事の経験：定年など退職–>家族がうまくいかなくなった
-* `P133E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133E.html>`_ : 大きな出来事の経験：定年など退職–>精神的に落ち込んだ
-* `P133F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133F.html>`_ : 大きな出来事の経験：定年など退職–>転居
+* `P132E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132E.html>`_ : Experienced a major event: accident or disaster–>Mentally depressed
+* `P132F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132F.html>`_ : Experiencing a major event: accident or disaster–>relocation
+* `P132G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132G.html>`_ : Experiencing a major event: accident or disaster–>Leaving school or withdrawing from school
+* `P132H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132H.html>`_ : Experiencing a major event: accident or disaster–>divorce or separation
+* `P132I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132I.html>`_ : Experience of a major event: accident or disaster–>I started working.
+* `P132J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132J.html>`_ : Experienced a major event: accident or disaster–> Family member started working.
+* `P132K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132K.html>`_ : Experienced a major event: accident or disaster–> asked for financial assistance
+* `P132L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132L.html>`_ : Experienced a major event: accident or disaster–> sold land or house
+* `P132M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132M.html>`_ : Experiencing a major event: accident or disaster–> debt
+* `P132N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132N.html>`_ : Experiencing a major event: accident or disaster–> treatment and consultation at specialized institutions
+* `P132O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132O.html>`_ : Experiencing a major event: accident or disaster–> consulted a religious official
+* `P132P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132P.html>`_ : Experience of a major event: accident or disaster–>Other
+* `P132Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132Q.html>`_ : Experience of a major event: accident or calamity–>no particular change
+* `P133A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133A.html>`_ : Major events experienced: resignation due to retirement or other reasons->Income and assets declined
+* `P133B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133B.html>`_ : Major event experienced : retirement due to scheduled retirement or other reasons–>major expense
+* `P133C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133C.html>`_ : Major events experienced: Resignation due to retirement or other reasons-> Care was difficult.
+* `P133D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133D.html>`_ : Major events experienced: resignation due to retirement or other reasons-> Family relationship was strained.
+* `P133E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133E.html>`_ : Major events experienced: Resignation due to retirement or other reasons-> Mental depression
+* `P133F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133F.html>`_ : Major events experienced: resignation due to retirement or other reasons-> Moving
 * `P133G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133G.html>`_ : Major events experienced: retirement due to scheduled retirement or other reasons–> leave of absence/dropout from school
 * `P133H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133H.html>`_ : Major events experienced: retirement due to scheduled retirement or other reasons-> divorce/separation
 * `P133I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133I.html>`_ : Major events experienced: resignation due to retirement or other reasons-> You’ve started working.
@@ -482,8 +482,10 @@ List of variables
 * `P148A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P148A.html>`_ : 配偶者のイメージ：第1位
 * `P148B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P148B.html>`_ : 配偶者のイメージ：第2位
 * `P148C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P148C.html>`_ : 配偶者のイメージ：第3位
+* `P159     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P159.html>`_ : 前職離職時の失業給付受給の有無
+* `P160     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P160.html>`_ : 前職離職時の失業給付受給月数
 * `P183     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P183.html>`_ : これまでの勤務先数〔第5回～〕
-* `P185     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P185.html>`_ : 前職の業種〔第21回〕
+* `P185     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P185.html>`_ : Industry of previous job [Wave21]
 * `P186A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186A.html>`_ : 初職の評価：給与がよい
 * `P186B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186B.html>`_ : 初職の評価：労働時間が長い
 * `P186C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186C.html>`_ : 初職の評価：休日・休暇をとりやすい
@@ -497,7 +499,7 @@ List of variables
 * `P186K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186K.html>`_ : 初職の評価：仕事内容に興味がある
 * `P186L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186L.html>`_ : 初職の評価：人間関係が良好である
 * `P186M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186M.html>`_ : 初職の評価：昇進・地位向上の機会がある
-* `P187     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P187.html>`_ : 初職の業種〔第21回〕
+* `P187     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P187.html>`_ : Industry of first job [Wave21]
 * `P188A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188A.html>`_ : 前職の評価：給与がよい
 * `P188B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188B.html>`_ : 前職の評価：労働時間が長い
 * `P188C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188C.html>`_ : 前職の評価：休日・休暇をとりやすい
@@ -638,7 +640,7 @@ List of variables
 * `Q103     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q103.html>`_ : Primary long-term caregiver (unmarried)
 * `Q104     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q104.html>`_ : Place of long-term care
 * `Q112     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q112.html>`_ : The method of estate distribution
-* `Q119     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q119.html>`_ : 転居
+* `Q119     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q119.html>`_ : Moving
 * `Q131A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q131A.html>`_ : What happened to you: got a new job
 * `Q131B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q131B.html>`_ : What happened to you: changed your workplace or job
 * `Q131C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q131C.html>`_ : What happened to you: quit a job/voluntary retirement
@@ -742,36 +744,36 @@ List of variables
 * `Q140F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q140F.html>`_ : Lifestyle changes due to events that happened to family members: Divorced or separated.
 * `Q140G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q140G.html>`_ : Lifestyle changes due to events that happened to family members: Other
 * `Q140H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q140H.html>`_ : Lifestyle changes due to events that happened to family members: No particular change
-* `Q141A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141A.html>`_ : 家族に起こった出来事による生活変化への対処方法：預貯金を取り崩した
-* `Q141B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141B.html>`_ : 家族に起こった出来事による生活変化への対処方法：資産を売却した
-* `Q141C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141C.html>`_ : 家族に起こった出来事による生活変化への対処方法：親やきょうだいの経済的援助を受けた
-* `Q141D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141D.html>`_ : 家族に起こった出来事による生活変化への対処方法：親戚、知人から借金した
-* `Q141E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141E.html>`_ : 家族に起こった出来事による生活変化への対処方法：金融機関から借金した
-* `Q141F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141F.html>`_ : 家族に起こった出来事による生活変化への対処方法：公的機関から資金を借りた
-* `Q141G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141G.html>`_ : 家族に起こった出来事による生活変化への対処方法：民間保険を解約した
-* `Q141H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141H.html>`_ : 家族に起こった出来事による生活変化への対処方法：民間保険の給付を受けた
-* `Q141I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141I.html>`_ : 家族に起こった出来事による生活変化への対処方法：労災保険など社会保険給付を請求した
-* `Q141J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141J.html>`_ : 家族に起こった出来事による生活変化への対処方法：公的機関や専門機関へ相談した
-* `Q141K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141K.html>`_ : 家族に起こった出来事による生活変化への対処方法：親やきょうだいに手助けや相談にのってもらった
-* `Q141L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141L.html>`_ : 家族に起こった出来事による生活変化への対処方法：友人の手助けや相談にのってもらった
-* `Q141M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141M.html>`_ : 家族に起こった出来事による生活変化への対処方法：宗教者に相談した
-* `Q141N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141N.html>`_ : 家族に起こった出来事による生活変化への対処方法：その他
-* `Q141O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141O.html>`_ : 家族に起こった出来事による生活変化への対処方法：特に何もしていない
+* `Q141A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141A.html>`_ : Coping with lifestyle changes resulting from events that happened to family members?: Withdrew savings.
+* `Q141B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141B.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Sold assets.
+* `Q141C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141C.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Received financial support from parents or siblings.
+* `Q141D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141D.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Borrowed money from relatives and acquaintances.
+* `Q141E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141E.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Borrowed money from financial institutions.
+* `Q141F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141F.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Borrowed funds from public institutions.
+* `Q141G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141G.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Cancelled private insurance.
+* `Q141H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141H.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Received private insurance benefits
+* `Q141I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141I.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Claimed social insurance benefits such as worker’s compensation insurance.
+* `Q141J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141J.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Consulted public and professional organizations.
+* `Q141K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141K.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Had parents or siblings help or advise you.
+* `Q141L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141L.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Got help and advice from a friend.
+* `Q141M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141M.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Consulted clergy.
+* `Q141N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141N.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Other
+* `Q141O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141O.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Nothing in particular
 * `Q142     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q142.html>`_ : Working status [2nd wave - ]
 * `Q143     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q143.html>`_ : 休職理由
 * `Q144     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q144.html>`_ : Occupation [1st - 3th waves]
 * `Q145     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q145.html>`_ : Number of employees at work
 * `Q146     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q146.html>`_ : Industries ( Wave 1–20 )
-* `Q147     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q147.html>`_ : Type of employee [1st wave - 17th wave]
+* `Q147     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q147.html>`_ : Type of employee [Wave1 - Wave17]
 * `Q148     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q148.html>`_ : How salary is paid
 * `Q149     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q149.html>`_ : 月給・週給（月当たり額)
 * `Q150     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q150.html>`_ : 日給額
 * `Q151     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q151.html>`_ : 時給額
 * `Q152     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q152.html>`_ : Working hours
 * `Q153     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q153.html>`_ : Paid overtime hours
-* `Q154     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q154.html>`_ : unpaid overtime hours
+* `Q154     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q154.html>`_ : Unpaid overtime hours
 * `Q155     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q155.html>`_ : 勤務日数
-* `Q156     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q156.html>`_ : 創立時期〔～第26回〕
+* `Q156     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q156.html>`_ : Founding period ( - Wave 26)
 * `Q157     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q157.html>`_ : Child care system
 * `Q159     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q159.html>`_ : 勤務先での育児休業取得経験
 * `Q160     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q160.html>`_ : 育児休業取得経験者の有無
@@ -928,18 +930,18 @@ List of variables
 * `Q213     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q213.html>`_ : 配偶者の就業状態 [第2回–]
 * `Q214     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q214.html>`_ : 休職理由（配偶者）
 * `Q215     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q215.html>`_ : 職業 [第1回–第3回]
-* `Q216     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q216.html>`_ : 従業員数（配偶者）
+* `Q216     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q216.html>`_ : Number of employees at work (spouse)
 * `Q217     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q217.html>`_ : 業種（配偶者）[第1回–第20回]
 * `Q218     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q218.html>`_ : Type of employee (spouse) [Wave1 - Wave17]
-* `Q219     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q219.html>`_ : 給与支給方法（配偶者）
+* `Q219     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q219.html>`_ : How salary is paid (spouse)
 * `Q220     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q220.html>`_ : 月当たり額（月給・週給：配偶者）
 * `Q221     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q221.html>`_ : 日給額（配偶者）
 * `Q222     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q222.html>`_ : 時給額（配偶者）
 * `Q223     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q223.html>`_ : Working hours (spouse)
-* `Q224     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q224.html>`_ : 有給残業時間（配偶者）
+* `Q224     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q224.html>`_ : Paid overtime hours (spouse)
 * `Q225     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q225.html>`_ : 無給（サービス）残業時間（配偶者）
 * `Q226     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q226.html>`_ : 勤務日数（配偶者）
-* `Q227     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q227.html>`_ : 創立時期（配偶者）
+* `Q227     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q227.html>`_ : Founding period ( - Wave 26) (spouse)
 * `Q238     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q238.html>`_ : 有給休暇日数（配偶者）
 * `Q239     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q239.html>`_ : 有給休暇取得日数（配偶者）
 * `Q240     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q240.html>`_ : 就業状態の変化の有無（配偶者有職）
@@ -1088,7 +1090,7 @@ List of variables
 * `Q293E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q293E.html>`_ : Monthly Expenses: Cost of Living Expenses (for spouse)
 * `Q293F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q293F.html>`_ : Monthly expenditure: Cost of living expenditure (for children)
 * `Q293G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q293G.html>`_ : Monthly Expenses: Cost-of-living expenditures (for persons other than you, your husband, and children)
-* `Q294A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294A.html>`_ : 支出月額：貯蓄
+* `Q294A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294A.html>`_ : Monthly Expenditure: Savings
 * `Q294B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294B.html>`_ : Monthly expenses: savings (combined family savings)
 * `Q294C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294C.html>`_ : Monthly expenditure: Savings (for yourself)
 * `Q294D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294D.html>`_ : Monthly Expenditure: Savings (for spouse)
@@ -1118,7 +1120,8 @@ List of variables
 * `Q299E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q299E.html>`_ : Annual income: Other (other household members)
 * `Q299F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q299F.html>`_ : Annual income: Total (other household members)
 * `Q300A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300A.html>`_ : Household member with income other than husband and wife: Husband’s father
-* `Q300B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300B.html>`_ : Household member with income other than husband and wife: Husband’Household member with income other than husband and wife: Your father
+* `Q300B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300B.html>`_ : Household member with income other than husband and wife: Husband’s mother
+* `Q300C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300C.html>`_ : Household member with income other than husband and wife: Your father
 * `Q300D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300D.html>`_ : Household member with income other than husband and wife: Your mother
 * `Q300E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300E.html>`_ : Household members with income other than husband and wife: Husband’s grandparents
 * `Q300F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300F.html>`_ : Household members with income other than husband and wife: Your grandparents
@@ -1137,13 +1140,13 @@ List of variables
 * `Q301D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q301D.html>`_ : Taxes and social insurance: No payment (spouse)
 * `Q302B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q302B.html>`_ : Taxes and social insurance premiums: Amount paid
 * `Q302C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q302C.html>`_ : Taxes and social insurance premiums: Current month
-* `Q302D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q302D.html>`_ : 税金・社会保険料：支払いなし
+* `Q302D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q302D.html>`_ : Taxes and social insurance: No payment
 * `Q303B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q303B.html>`_ : Taxes and social insurance: Amount paid （other household members)
 * `Q303C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q303C.html>`_ : Taxes and social insurance premiums: Current month (other household members)
-* `Q303D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q303D.html>`_ : 税金・社会保険料：支払いなし（他の世帯員）
-* `Q304     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q304.html>`_ : 加入中の公的医療保険
+* `Q303D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q303D.html>`_ : Taxes and social security premiums: No payment (other household members)
+* `Q304     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q304.html>`_ : Current public medical insurance
 * `Q305     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q305.html>`_ : Participation in public pension insurance or not
-* `Q306     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q306.html>`_ : Employment insurance enrollment [Wave1-10]Employment insurance enrollment [Wave1-10]
+* `Q306     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q306.html>`_ : Employment insurance enrollment [Wave1-10]
 * `Q307A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q307A.html>`_ : Monthly income: Employed or not (spouse)
 * `Q307B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q307B.html>`_ : Monthly income (spouse)
 * `Q308A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q308A.html>`_ : Monthly income: Employed or not (spouse)
@@ -1168,10 +1171,12 @@ List of variables
 * `Q316     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q316.html>`_ : Monthly Expenditure (unmaried): Career Advancement
 * `Q317     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q317.html>`_ : Monthly Expenditure (unmarried): Saving
 * `Q318     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q318.html>`_ : Monthly Expenditures (unmarried): Total
+* `Q319     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q319.html>`_ : 1年間の教育娯楽費
+* `Q320     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q320.html>`_ : 1年間の教育娯楽費
 * `Q322     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q322.html>`_ : Highest level of education(mother-in-law) [Wave 2]
 * `Q323     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q323.html>`_ : Annual income of your parents
 * `Q324     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q324.html>`_ : Annual income of parents-in-law (married)
-* `Q325     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q325.html>`_ : Financial support from parents (no spouse)
+* `Q325     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q325.html>`_ : Financial support from parents (unmarried)
 * `Q326     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q326.html>`_ : Pocket money from parents (single)
 * `Q327A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q327A.html>`_ : Advancement: financial assets (your parents)
 * `Q327B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q327B.html>`_ : Advancement: Real assets (your parents)
@@ -1204,7 +1209,7 @@ List of variables
 * `Q347     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q347.html>`_ : Savings target amount
 * `Q350A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q350A.html>`_ : Savings target amount: You and your spouse’s retirement
 * `Q350C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q350C.html>`_ : Purpose of saving: You and your spouse’s retirement
-* `Q351A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q351A.html>`_ : Savings target amount: Unforeseen expenses
+* `Q351A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q351A.html>`_ : Savings target amount: Unexpected expenses
 * `Q351C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q351C.html>`_ : Purpose of saving: illness, disaster, or other unforeseen expenses
 * `Q352A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q352A.html>`_ : Savings target amount: Education expenses for children
 * `Q352C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q352C.html>`_ : Purpose of saving: Education expenses for children
@@ -1235,7 +1240,7 @@ List of variables
 * `Q367A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q367A.html>`_ : Private insurance: Purchase a lump-sum type insurance policy (spouse)
 * `Q367B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q367B.html>`_ : Private insurance: Purchase an accumulation type insurance (spouse)
 * `Q367C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q367C.html>`_ : My spouse does not have insurance.
-* `Q368     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q368.html>`_ : Your husband's annual premium for lump-sum type of insurance
+* `Q368     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q368.html>`_ : Your husband’s annual premium for lump-sum type of insurance
 * `Q369     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q369.html>`_ : Accumulation type insurance: Annual premiums (spouse)
 * `Q370     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q370.html>`_ : Accumulation-type insurance - Total premiums paid
 * `Q371     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q371.html>`_ : Type of residence
@@ -1261,13 +1266,14 @@ List of variables
 * `Q379     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q379.html>`_ : Type of in-laws’ residence
 * `Q380     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q380.html>`_ : Type of parent’s residence
 * `Q383A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q383A.html>`_ : Home purchase price : House
-* `Q383B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q383B.html>`_ : Home purchase price : LandHome purchase price : Total住宅購入価格：合計
+* `Q383B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q383B.html>`_ : Home purchase price : Land
+* `Q383C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q383C.html>`_ : Home purchase price : Total
 * `Q410     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q410.html>`_ : Availability of Mortgage Loan
 * `Q411     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q411.html>`_ : Mortgage loan balance
 * `Q412     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q412.html>`_ : Total mortgage repayment
 * `Q413A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413A.html>`_ : Mortgage status : Land purchase ･ Lender 1
 * `Q413B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413B.html>`_ : Mortgage status : Land purchase ･ Lender 2
-* `Q413C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413C.html>`_ : Mortgage status : Land purchase ･ Lender 3
+* `Q413C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413C.html>`_ : Mortgage status : Land Purchase ･ Lender 3
 * `Q413D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413D.html>`_ : Mortgage status : Land purchase ･ Lender 4
 * `Q413E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413E.html>`_ : Mortgage status : Land purchase ･ Lender 5
 * `Q413F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q413F.html>`_ : Mortgage status : Land purchase ･ Loan balance
@@ -1460,7 +1466,8 @@ List of variables
 * `Q493CM   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q493CM.html>`_ : Time spending per day: For schoolwork (studies) / minutes (workday)
 * `Q493DH   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q493DH.html>`_ : Time spending per day: For housekeeping and child care / hours (workday)
 * `Q493DM   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q493DM.html>`_ : Time spending per day: For housekeeping and child care / minutes (workday)
-* `Q493EH   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q493EH.html>`_ : 生活時間：買い物／分（平日）
+* `Q493EH   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q493EH.html>`_ : 生活時間：買い物／時間（平日）
+* `Q493EM   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q493EM.html>`_ : 生活時間：買い物／分（平日）
 * `Q493FH   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q493FH.html>`_ : 生活時間：移動／時間（平日）
 * `Q493FM   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q493FM.html>`_ : 生活時間：移動／分（平日）
 * `Q493GH   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q493GH.html>`_ : 生活時間：学習・研究／時間（平日）
@@ -1485,7 +1492,8 @@ List of variables
 * `Q494CM   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q494CM.html>`_ : Time spending per day: For schoolwork (studies) / minutes (day off)
 * `Q494DH   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q494DH.html>`_ : Time spending per day: For housekeeping and child care / hours (day off)
 * `Q494DM   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q494DM.html>`_ : Time spending per day: For housekeeping and child care / minutes (day off)
-* `Q494EH   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q494EH.html>`_ : 生活時間：買い物／分（休日）
+* `Q494EH   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q494EH.html>`_ : 生活時間：買い物／時間（休日）
+* `Q494EM   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q494EM.html>`_ : 生活時間：買い物／分（休日）
 * `Q494FH   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q494FH.html>`_ : 生活時間：移動／時間（休日）
 * `Q494FM   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q494FM.html>`_ : 生活時間：移動／分（休日）
 * `Q494GH   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q494GH.html>`_ : 生活時間：学習・研究／時間（休日）
@@ -1752,6 +1760,7 @@ List of variables
 * `Q684     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q684.html>`_ : Area of specialization at college or university (spouse)
 * `Q685     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q685.html>`_ : Finishing of graduate school (spouse)
 * `Q686     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q686.html>`_ : Category of graduate school (spouse)
+* `Q688     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q688.html>`_ : Year of graduation from the last school attended (spouse) [1st wave - 6th wave]
 * `Q689A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q689A.html>`_ : 就業期間合計：年（配偶者）
 * `Q689B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q689B.html>`_ : 就業期間合計：月（配偶者）
 * `Q690A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q690A.html>`_ : 前職からの離職期間：年（配偶者）
@@ -1894,6 +1903,8 @@ List of variables
 * `Q870B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q870B.html>`_ : 借入れできなかった：減額された
 * `Q870C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q870C.html>`_ : 借入れできなかった：断られていない
 * `Q870D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q870D.html>`_ : 借入れをあきらめた経験
+* `Q877     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q877.html>`_ : 離死別経験（有配偶）〔第6回〕
+* `Q878     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q878.html>`_ : 離死別経験（無配偶）〔第6回〕
 * `Q879A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879A.html>`_ : 支出月額（有配偶・無配偶共通）：食料
 * `Q879B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879B.html>`_ : 支出月額（有配偶・無配偶共通）：住居
 * `Q879C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879C.html>`_ : 支出月額（有配偶・無配偶共通）：水道・ガス・電気
@@ -1924,7 +1935,7 @@ List of variables
 * `Q889     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q889.html>`_ : 敷地取得年
 * `Q890     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q890.html>`_ : 住宅取得年
 * `Q891     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q891.html>`_ : 住宅建築年
-* `Q892     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q892.html>`_ : Year of graduation from the last school attended (spouse)
+* `Q892     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q892.html>`_ : Year of graduation from the last school attended (spouse) [7th wave - ]
 * `Q893     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q893.html>`_ : Time of death (father-in-law) [7th wave -]
 * `Q894     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q894.html>`_ : Time-of-death (mother-in-law) [7th wave - ]
 * `Q895A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q895A.html>`_ : 利用未就学児数：認可保育所
@@ -1935,6 +1946,10 @@ List of variables
 * `Q895G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q895G.html>`_ : 利用未就学児数：お稽古事、習い事
 * `Q896     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q896.html>`_ : 教育訓練給付制度の認知の有無
 * `Q897     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q897.html>`_ : 教育訓練給付制度の利用の有無
+* `Q898A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q898A.html>`_ : 教育訓練給付制度の利用目的：仕事発展のため
+* `Q898B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q898B.html>`_ : 教育訓練給付制度の利用目的：仕事に役立ちそう
+* `Q898C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q898C.html>`_ : 教育訓練給付制度の利用目的：興味があった
+* `Q898D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q898D.html>`_ : 教育訓練給付制度の利用目的：その他
 * `Q899     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q899.html>`_ : 教育訓練給付制度の今後の利用意向
 * `Q926     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q926.html>`_ : 家庭の収入への満足度
 * `Q927     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q927.html>`_ : 家庭の消費額への満足度
@@ -1949,6 +1964,10 @@ List of variables
 * `Q932H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932H.html>`_ : 生活領域重要度　交わる
 * `Q933     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q933.html>`_ : 離婚について
 * `Q965     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q965.html>`_ : 子育て費用への考え方
+* `Q980A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q980A.html>`_ : 教育訓練給付制度の今後の利用目的：仕事発展のため
+* `Q980B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q980B.html>`_ : 教育訓練給付制度の今後の利用目的：仕事に役立ちそう
+* `Q980C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q980C.html>`_ : 教育訓練給付制度の今後の利用目的：興味があった
+* `Q980D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q980D.html>`_ : 教育訓練給付制度の今後の利用目的：その他
 * `Q1004A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1004A.html>`_ : 結婚費用の内訳：婚約記念品への支出
 * `Q1004B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1004B.html>`_ : 結婚費用の内訳：その他婚約関係への支出
 * `Q1004C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1004C.html>`_ : 結婚費用の内訳：挙式披露宴への支出
@@ -1987,7 +2006,7 @@ List of variables
 * `Q1027    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1027.html>`_ : 育児休業制度・育児時間の利用の有無（配偶者）
 * `Q1028    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1028.html>`_ : 雇用保険加入〔第11回～〕
 * `Q1030    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1030.html>`_ : 離職時期
-* `Q1031    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1031.html>`_ : 雇用保険加入（配偶者）
+* `Q1031    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1031.html>`_ : Employment insurance coverage (spouse)
 * `Q1033    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1033.html>`_ : 離職時期（配偶者有職）
 * `Q1034    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1034.html>`_ : 実親からの相続の可能性
 * `Q1035    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1035.html>`_ : 義親からの相続の可能性
@@ -2041,7 +2060,7 @@ List of variables
 * `Q1046    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1046.html>`_ : 派遣社員か
 * `Q1047    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1047.html>`_ : Multiple employers (spouses)
 * `Q1048    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1048.html>`_ : 派遣社員か（配偶者）
-* `Q1049    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1049.html>`_ : 仕事の習熟期間（配偶者）
+* `Q1049    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1049.html>`_ : Work proficiency period (spouse)
 * `Q1050    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1050.html>`_ : 実親への経済的援助
 * `Q1051    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1051.html>`_ : 実親への家事・介護援助
 * `Q1052    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1052.html>`_ : 義親への経済援助
@@ -2054,7 +2073,8 @@ List of variables
 * `Q1056    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1056.html>`_ : 公的年金保険への加入の有無
 * `Q1057    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1057.html>`_ : 義親の住居形態　義父
 * `Q1058    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1058.html>`_ : 義親の住居形態　義母
-* `Q1060    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1060.html>`_ : 実親の住居形態　実父
+* `Q1059    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1059.html>`_ : 義親との同居予定
+* `Q1060    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1060.html>`_ : 本人親との同居予定
 * `Q1061    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1061.html>`_ : 実親の住居形態　実母
 * `Q1063    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1063.html>`_ : 児童手当受給の有無
 * `Q1064    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1064.html>`_ : 児童扶養手当対象子の有無
@@ -2105,7 +2125,7 @@ List of variables
 * `Q1077    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1077.html>`_ : Work experience (mother-in-law)
 * `Q1090    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1090.html>`_ : 離婚時の厚生年金分割制度の認知
 * `Q1091    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1091.html>`_ : Founded year
-* `Q1092    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1092.html>`_ : 創立年（配偶者）
+* `Q1092    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1092.html>`_ : Founded year (spouse)
 * `Q1093_1  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1093_1.html>`_ : からだ・心の状態：わずらわしい
 * `Q1093_10 <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1093_10.html>`_ : からだ・心の状態：寂しい
 * `Q1093_11 <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1093_11.html>`_ : からだ・心の状態：「毎日が楽しい」と感じた
@@ -2354,12 +2374,12 @@ List of variables
 * `Q1203    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1203.html>`_ : 3年後の労働意欲
 * `Q1204    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1204.html>`_ : 3年後の労働状況
 * `Q1205    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1205.html>`_ : 定年や老後について
-* `Q1206A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1206A.html>`_ : 悩み・困りごと：自分の健康
-* `Q1206B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1206B.html>`_ : 悩み・困りごと：家族の健康問題
-* `Q1206C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1206C.html>`_ : 悩み・困りごと：家族内の人間関係の悩み
-* `Q1206D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1206D.html>`_ : 悩み・困りごと：家族以外との人間関係の悩み
-* `Q1206E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1206E.html>`_ : 悩み・困りごと：気軽に相談できる家族以外の人がいる
-* `Q1206F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1206F.html>`_ : 悩み・困りごと：助けにきてくれる人が家族以外にもいる
+* `Q1206A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1206A.html>`_ : Problems or difficulties : Your health
+* `Q1206B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1206B.html>`_ : Problems or difficulties: Family health issues
+* `Q1206C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1206C.html>`_ : Problems or difficulties: Relationships in the family
+* `Q1206D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1206D.html>`_ : Problems or difficulties: Relationships with people outside the family
+* `Q1206E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1206E.html>`_ : Problems or difficulties: Having someone outside of the family to talk with freely.
+* `Q1206F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1206F.html>`_ : Problems or difficulties: Having someone other than your family who can come to your aid.
 * `Q1207    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1207.html>`_ : 10年前の生活満足度
 * `Q1208    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1208.html>`_ : 10年前の生活水準
 * `Q1209A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1209A.html>`_ : 夫婦間での生活費の把握
@@ -2408,8 +2428,8 @@ List of variables
 * `Q1222    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1222.html>`_ : Caregiving: Feeling of burden
 * `Q1223    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1223.html>`_ : Anxiety about caregiving
 * `Q1224    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1224.html>`_ : Are you giving care?
-* `Q1225    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1225.html>`_ : 創立時期〔第27回～〕
-* `Q1226    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1226.html>`_ : 創立時期（配偶者）〔第27回～〕
+* `Q1225    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1225.html>`_ : Establishment period (Wave 27 - )
+* `Q1226    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1226.html>`_ : Establishment period (Wave 27 - ) (spouse)
 * `Q1227A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1227A.html>`_ : 生前贈与：金融資産の有無（本人の親）
 * `Q1227B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1227B.html>`_ : 生前贈与：実物資産の有無（本人の親）
 * `Q1227C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1227C.html>`_ : 遺産相続：金融資産の有無（本人の親）
@@ -2446,45 +2466,45 @@ List of variables
 * `Q1238D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1238D.html>`_ : 仕事の変化：オンライン・電話での会議・商談
 * `Q1238E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1238E.html>`_ : 仕事の変化：勤務先への満足度・愛着度
 * `Q1238F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1238F.html>`_ : 仕事の変化：他の企業への転職度
-* `Q1239    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1239.html>`_ : 手取り収入の比較：緊急事態宣言中と2020年9月
-* `Q1240    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1240.html>`_ : 手取り収入の差額：緊急事態宣言中と2020年9月
-* `Q1241    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1241.html>`_ : 手取り収入の比較：緊急事態宣言中と2020年9月（配偶者）
-* `Q1242    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1242.html>`_ : 手取り収入の差額：緊急事態宣言中と2020年9月（配偶者）
-* `Q1243A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243A.html>`_ : 平日夕方子どもの世話をしている人：あなた
-* `Q1243B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243B.html>`_ : 平日夕方子どもの世話をしている人：お子さんの父親
-* `Q1243C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243C.html>`_ : 平日夕方世話をしている人：お子さんの祖父母・親戚
-* `Q1243D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243D.html>`_ : 平日夕方子どもの世話をしている人：お子さんのきょうだい
-* `Q1243E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243E.html>`_ : 平日夕方子どもの世話をしている人：お子さんの友だち
-* `Q1243F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243F.html>`_ : 平日夕方子どもの世話をしている人：近隣の人や子どもの友だちの親
-* `Q1243G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243G.html>`_ : 平日夕方子どもの世話をしている人：あなたの友人・知人
-* `Q1243H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243H.html>`_ : 平日夕方子どもの世話をしている人：ベビーシッター・家政婦など
-* `Q1243I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243I.html>`_ : 平日夕方子どもの世話をしている人：保育園・学童保育など
-* `Q1243J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243J.html>`_ : 平日夕方子どもの世話をしている人：塾・習い事など
-* `Q1243K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243K.html>`_ : 平日夕方子どもの世話をしている人：部活・クラブ活動など
-* `Q1243L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243L.html>`_ : 平日夕方子どもの世話をしている人：一人（世話の必要あり）
-* `Q1243M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243M.html>`_ : 平日夕方子どもの世話をしている人：一人（世話の必要なし）
-* `Q1243N   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243N.html>`_ : 平日夕方子どもの世話をしている人：その他
-* `Q1244A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1244A.html>`_ : 平日夕方に最も長く一緒にいる人：第1子
-* `Q1244B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1244B.html>`_ : 平日夕方に最も長く一緒にいる人：第2子
-* `Q1244C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1244C.html>`_ : 最も長くいる人・第三子
-* `Q1245    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1245.html>`_ : 緊急事態宣言発令中（2020年4月）の子どもの様子
-* `Q1246A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246A.html>`_ : 休校・休園中子どもの世話をしている人：あなた
-* `Q1246B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246B.html>`_ : 休校・休園中子どもの世話をしている人：お子さんの父親
-* `Q1246C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246C.html>`_ : 休校・休園中子どもの世話をしている人：お子さんの祖父母・親戚
-* `Q1246D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246D.html>`_ : 休校・休園中子どもの世話をしている人：お子さんのきょうだい
-* `Q1246E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246E.html>`_ : 休校・休園中子どもの世話をしている人：お子さんの友だち
-* `Q1246F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246F.html>`_ : 休校・休園中子どもの世話をしている人：近隣の人や子どもの友だちの親
-* `Q1246G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246G.html>`_ : 休校・休園中子どもの世話をしている人：あなたの友人・知人
-* `Q1246H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246H.html>`_ : 休校・休園中子どもの世話をしている人：ベビーシッター・家政婦など
-* `Q1246I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246I.html>`_ : 休校・休園中子どもの世話をしている人：保育園・学童保育など
-* `Q1246J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246J.html>`_ : 休校・休園中子どもの世話をしている人：塾・習い事など
-* `Q1246K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246K.html>`_ : 休校・休園中子どもの世話をしている人：部活・クラブ活動など
-* `Q1246L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246L.html>`_ : 休校・休園中子どもの世話をしている人：一人（世話の必要あり）
-* `Q1246M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246M.html>`_ : 休校・休園中子どもの世話をしている人：   一人（世話の必要なし）
-* `Q1246N   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246N.html>`_ : 休校・休園中子どもの世話をしている人：その他
-* `Q1247A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1247A.html>`_ : 休園・休校中最も長くいる人：第1子
-* `Q1247B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1247B.html>`_ : 休園・休校中最も長くいる人：第2子
-* `Q1247C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1247C.html>`_ : 休園・休校中最も長くいる人・第三子
+* `Q1239    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1239.html>`_ : Net income during the declaration of a state of emergency (April 2020): Comparison with take-home income in September 2020
+* `Q1240    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1240.html>`_ : Net income during the declaration of a state of emergency (April 2020): Difference
+* `Q1241    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1241.html>`_ : Net income during the declaration of a state of emergency (April 2020): Comparison with take-home income in September 2020 (spouse)
+* `Q1242    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1242.html>`_ : Net income during the declaration of a state of emergency (April 2020): Difference
+* `Q1243A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243A.html>`_ : Person taking care of children on weekday evenings: You
+* `Q1243B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243B.html>`_ : Weekday evening child care provider: Child’s father
+* `Q1243C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243C.html>`_ : Weekday evening caretaker: Child’s grandparents/relatives
+* `Q1243D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243D.html>`_ : Weekday evening child care provider: Your child’s siblings
+* `Q1243E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243E.html>`_ : Weekday evening child care provider: Your child’s friends
+* `Q1243F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243F.html>`_ : Weekday evening caretakers of children: Neighbors and parents of your children’s friends
+* `Q1243G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243G.html>`_ : Weekday evening child care provider: Your friends or acquaintances
+* `Q1243H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243H.html>`_ : Weekday evening child care provider: Babysitter, housekeeper, etc.
+* `Q1243I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243I.html>`_ : Persons taking care of children: Nursery school, after-school program, etc.
+* `Q1243J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243J.html>`_ : Weekday evening caretakers of children: Juku, after school activities, etc.
+* `Q1243K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243K.html>`_ : Weekday evening caretakers of children: Club activities, etc.
+* `Q1243L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243L.html>`_ : Weekday evening child care provider: Alone (needs care)
+* `Q1243M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243M.html>`_ : Weekday evening child care provider: Alone (no need for care)
+* `Q1243N   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1243N.html>`_ : Weekday evening child care provider: Other
+* `Q1244A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1244A.html>`_ : Person with whom you spend the most time on weekday evenings: First child
+* `Q1244B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1244B.html>`_ : Person with whom you spend the most time on weekday evenings: Second child
+* `Q1244C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1244C.html>`_ : Person with whom you spend the most time on weekday evenings: Third child
+* `Q1245    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1245.html>`_ : Closure of schools and preschools during a declared state of emergency (April 2020)
+* `Q1246A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246A.html>`_ : Person taking care of children during school,preschool or kindergarten closure: You
+* `Q1246B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246B.html>`_ : Person taking care of children during school,preschool or kindergarten closure: Your child’s father
+* `Q1246C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246C.html>`_ : Person taking care of children during school,preschool or kindergarten closure: Your child’s grandparents/relatives
+* `Q1246D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246D.html>`_ : Person taking care of children during school,preschool or kindergarten closure: Your child’s siblings
+* `Q1246E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246E.html>`_ : Person taking care of children during school,preschool or kindergarten closure: Your child’s friends
+* `Q1246F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246F.html>`_ : Person taking care of children during school,preschool or kindergarten closure: Neighbors and parents of your children’s friends
+* `Q1246G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246G.html>`_ : Person taking care of children during school, preschool or kindergarten closure: Your friends or acquaintances
+* `Q1246H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246H.html>`_ : Person taking care of children during school, preschool or kindergarten closure: Babysitter, housekeeper, etc.
+* `Q1246I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246I.html>`_ : Person taking care of children during school,preschool or kindergarten closure: Nursery school, after-school program, etc.
+* `Q1246J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246J.html>`_ : Person taking care of children during school, preschool or kindergarten closure: Juku, extracurricular activities, etc.
+* `Q1246K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246K.html>`_ : Person taking care of children during school, preschool or kindergarten closure: Club activities, etc.
+* `Q1246L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246L.html>`_ : Person taking care of children during school, preschool or kindergarten closure: Alone (needs care)
+* `Q1246M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246M.html>`_ : Person taking care of children during school,preschool or kindergarten closure: Alone (no need for care)
+* `Q1246N   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1246N.html>`_ : Person taking care of children during school, preschool or kindergarten closure: Other
+* `Q1247A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1247A.html>`_ : Person with whom the child will be with the longest during school, preschool, or kindergarten closure: First child
+* `Q1247B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1247B.html>`_ : Person with whom the child will be with the longest during school, preschool, or kindergarten closure: Second child
+* `Q1247C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1247C.html>`_ : Person with whom the child will be with the longest during school, preschool, or kindergarten closure: Third child
 * `Q1248    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1248.html>`_ : 週あたりの仕事日数
 * `Q1249    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1249.html>`_ : 週あたりの在宅勤務の日数
 * `Q1250AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1250AH.html>`_ : 生活時間：通勤・通学／時間（平日・在宅勤務の日）
@@ -2534,222 +2554,222 @@ List of variables
 * `Q1258B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1258B.html>`_ : 消費税10％の対応（増税直後）：その他の子ども費用の見直し
 * `Q1259    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1259.html>`_ : 消費税増税の負担感
 * `Q1260    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1260.html>`_ : Receiving a Special Cash Payment
-* `Q1261B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1261B.html>`_ : 特別定額給付金の使い道：家族共通の支出
-* `Q1261C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1261C.html>`_ : 特別定額給付金の使い道：妻（本人）のための支出
-* `Q1261E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1261E.html>`_ : 特別定額給付金の使い道：夫のための支出
-* `Q1261F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1261F.html>`_ : 特別定額給付金の使い道：子どものための支出
-* `Q1261G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1261G.html>`_ : 特別定額給付金の使い道：それ以外の方のための支出
-* `Q1262B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1262B.html>`_ : 特別定額給付金の使い道：家族共通の貯蓄
-* `Q1262C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1262C.html>`_ : 特別定額給付金の使い道：妻（本人）のための貯蓄
-* `Q1262D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1262D.html>`_ : 特別定額給付金の使い道：夫のための貯蓄
-* `Q1262E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1262E.html>`_ : 特別定額給付金の使い道：子どものための貯蓄
-* `Q1262F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1262F.html>`_ : 特別定額給付金の使い道：それ以外の方のための貯蓄
-* `Q1263A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1263A.html>`_ : 特別定額給付金の子どもへの渡し方：小学校低学年
-* `Q1263B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1263B.html>`_ : 特別定額給付金の子どもへの渡し方：小学校高学年
-* `Q1263C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1263C.html>`_ : 特別定額給付金の子どもへの渡し方：中学生
-* `Q1263D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1263D.html>`_ : 特別定額給付金の子どもへの渡し方：高校生
-* `Q1264A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264A.html>`_ : 公的経済支援の申請：住宅確保給付金
-* `Q1264B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264B.html>`_ : 公的経済支援の申請：雇用保険の失業手当
-* `Q1264C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264C.html>`_ : 公的経済支援の申請：職業訓練受講給付金
-* `Q1264D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264D.html>`_ : 公的経済支援の申請：生活資金の貸し付け
-* `Q1264E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264E.html>`_ : 公的経済支援の申請：国年年金・健康保険の保険料免除
-* `Q1264F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264F.html>`_ : 公的経済支援の申請：公共料金の支払い先延ばし
-* `Q1264G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264G.html>`_ : 公的経済支援の申請：税金の免除
-* `Q1264H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264H.html>`_ : 公的経済支援の申請：生活支援臨時給付金
-* `Q1264I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264I.html>`_ : 公的経済支援の申請：生活保護制度
-* `Q1264J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264J.html>`_ : 公的経済支援の申請：その他
-* `Q1264K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264K.html>`_ : 公的経済支援の申請：特にない
-* `Q1265    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1265.html>`_ : 収入・売上が低下した期間
-* `Q1266    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1266.html>`_ : 収入減少した月の最大値
-* `Q1267    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1267.html>`_ : 収入減少した月の平均値
-* `Q1268    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1268.html>`_ : 収入・売上が低下した期間（配偶者）
-* `Q1269    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1269.html>`_ : 収入減少した月の最大値（配偶者）
-* `Q1270    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1270.html>`_ : 収入減少した月の平均値（配偶者）
-* `Q1271A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271A.html>`_ : 収入の変動に対しての対処：収入だけで生活水準を維持
-* `Q1271B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271B.html>`_ : 収入の変動に対しての対処：支出の大幅な切り詰め
-* `Q1271C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271C.html>`_ : 収入の変動に対しての対処：資産の取り崩し
-* `Q1271D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271D.html>`_ : 収入の変動に対しての対処：親・親族・知人の援助
-* `Q1271E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271E.html>`_ : 収入の変動に対しての対処：新しい仕事や副業
-* `Q1271F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271F.html>`_ : 収入の変動に対しての対処：公共料金や保険料の支払い猶予や滞納
-* `Q1271G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271G.html>`_ : 収入の変動に対しての対処：国民保険料の減免や国税の猶予制度
-* `Q1271H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271H.html>`_ : 収入の変動に対しての対処：政府や自治体の給付金
-* `Q1271I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271I.html>`_ : 収入の変動に対しての対処：政府や自治体のその他の支援
-* `Q1271J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271J.html>`_ : 収入の変動に対しての対処・借金やカードでの買い物
-* `Q1271K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271K.html>`_ : 収入の変動に対しての対処・その他
-* `Q1271L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271L.html>`_ : 収入の変動に対しての対処・特にない
-* `Q1272A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1272A.html>`_ : 新型コロナウイルスに対する危機対応：政府
-* `Q1272B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1272B.html>`_ : 新型コロナウイルスに対する危機対応：政府・自粛要請策の内容
-* `Q1272C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1272C.html>`_ : 新型コロナウイルスに対する危機対応：政府・経済的支援策の内容
-* `Q1272D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1272D.html>`_ : 新型コロナウイルスに対する危機対応：地方自治体
-* `Q1272E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1272E.html>`_ : 新型コロナウイルスに対する危機対応：勤務先企業
-* `Q1272F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1272F.html>`_ : 政府・自治体の新型コロナウイルスに対する危機対応
-* `Q1273A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1273A.html>`_ : 新型コロナウイルス感染症に関する不安：治療が受けられない
-* `Q1273B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1273B.html>`_ : 新型コロナウイルス感染症に関する不安：食品などが購入できない
-* `Q1273C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1273C.html>`_ : 新型コロナウイルス感染症に関する不安：自分や家族の感染
-* `Q1273D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1273D.html>`_ : 新型コロナウイルス感染症に関する不安：別居の家族の感染
-* `Q1273E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1273E.html>`_ : 新型コロナウイルス感染症に関する不安：日常生活の支障
-* `Q1274A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1274A.html>`_ : 昨年との生活の変化：友人・知人との交流
-* `Q1274B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1274B.html>`_ : 昨年との生活の変化：配偶者との衝突
-* `Q1274C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1274C.html>`_ : 昨年との生活の変化：子ども・孫との衝突
-* `Q1274D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1274D.html>`_ : 昨年との生活の変化：その他の同居家族との衝突
-* `Q1274E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1274E.html>`_ : 昨年との生活の変化：自宅での調理の回数
-* `Q1274F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1274F.html>`_ : 昨年との生活の変化：買い物に出かける頻度
-* `Q1274G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1274G.html>`_ : 昨年との生活の変化：宅配・ネットショッピングの頻度
-* `Q1275    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1275.html>`_ : 2019年10月の週当たりの仕事をしている日
-* `Q1276    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1276.html>`_ : 2019年10月の週当たりの在宅勤務の日
-* `Q1277    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1277.html>`_ : 2019年10月の週当たりの仕事をしている日（配偶者）
-* `Q1278    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1278.html>`_ : 2019年10月の週当たりの在宅勤務の日（配偶者）
-* `Q1279    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1279.html>`_ : 緊急事態宣言時（2020年4月）の週当たりの仕事をしている日
-* `Q1280    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1280.html>`_ : 緊急事態宣言時（2020年4月）の週当たりの在宅勤務の日
-* `Q1281    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1281.html>`_ : 緊急事態宣言時（2020年4月）の週当たりの仕事をしている日（配偶者）
-* `Q1282    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1282.html>`_ : 緊急事態宣言時（2020年4月）の週当たりの在宅勤務の日（配偶者）
-* `Q1283    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1283.html>`_ : 2020年4月に新型コロナウイルスの影響で仕事をできなかった日
-* `Q1284    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1284.html>`_ : 2020年4月に新型コロナウイルスの影響で仕事をできなかった日（配偶者）
-* `Q1285AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285AH.html>`_ : 生活時間：通勤・通学／時間（緊急事態宣言中・通常の平日の日）
-* `Q1285AM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285AM.html>`_ : 生活時間：通勤・通学／分（緊急事態宣言中・通常の平日の日）
-* `Q1285BH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285BH.html>`_ : 生活時間：仕事／時間（緊急事態宣言中・通常の平日の日）
-* `Q1285BM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285BM.html>`_ : 生活時間：仕事／分（緊急事態宣言中・通常の平日の日）
-* `Q1285CH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285CH.html>`_ : 生活時間：勉学／時間（緊急事態宣言中・通常の平日の日）
-* `Q1285CM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285CM.html>`_ : 生活時間：勉学／分（緊急事態宣言中・通常の平日の日）
-* `Q1285DH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285DH.html>`_ : 生活時間：家事・育児／時間（緊急事態宣言中・通常の平日の日）
-* `Q1285DM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285DM.html>`_ : 生活時間：家事・育児／分（緊急事態宣言中・通常の平日の日）
-* `Q1285IH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285IH.html>`_ : 生活時間：趣味・娯楽・交際など／時間（緊急事態宣言中・通常の平日の日）
-* `Q1285IM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285IM.html>`_ : 生活時間：趣味・娯楽・交際など／分（緊急事態宣言中・通常の平日の日）
-* `Q1285MH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285MH.html>`_ : 生活時間：睡眠、食事、入浴など／時間（緊急事態宣言中・通常の平日の日）
-* `Q1285MM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285MM.html>`_ : 生活時間：睡眠、食事、入浴など／分（緊急事態宣言中・通常の平日の日）
-* `Q1286AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286AH.html>`_ : 生活時間：通勤・通学／時間（緊急事態宣言中・在宅勤務の日）
-* `Q1286AM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286AM.html>`_ : 生活時間：通勤・通学／分（緊急事態宣言中・在宅勤務の日）
-* `Q1286BH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286BH.html>`_ : 生活時間：仕事／時間（緊急事態宣言中・在宅勤務の日）
-* `Q1286BM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286BM.html>`_ : 生活時間：仕事／分（緊急事態宣言中・在宅勤務の日）
-* `Q1286CH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286CH.html>`_ : 生活時間：勉学／時間（緊急事態宣言中・在宅勤務の日）
-* `Q1286CM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286CM.html>`_ : 生活時間：勉学／分（緊急事態宣言中・在宅勤務の日）
-* `Q1286DH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286DH.html>`_ : 生活時間：家事・育児／時間（緊急事態宣言中・在宅勤務の日）
-* `Q1286DM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286DM.html>`_ : 生活時間：家事・育児／分（緊急事態宣言中・在宅勤務の日）
-* `Q1286IH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286IH.html>`_ : 生活時間：趣味・娯楽・交際など／時間（緊急事態宣言中・在宅勤務の日）
-* `Q1286IM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286IM.html>`_ : 生活時間：趣味・娯楽・交際など／分（緊急事態宣言中・在宅勤務の日）
-* `Q1286MH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286MH.html>`_ : 生活時間：睡眠、食事、入浴など／時間（緊急事態宣言中・在宅勤務の日）
-* `Q1286MM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286MM.html>`_ : 生活時間：睡眠、食事、入浴など／分（緊急事態宣言中・在宅勤務の日）
-* `Q1287AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287AH.html>`_ : 生活時間：通勤・通学／時間（緊急事態宣言中・ふつうの休日の日）
-* `Q1287AM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287AM.html>`_ : 生活時間：通勤・通学／分（緊急事態宣言中・ふつうの休日の日）
-* `Q1287BH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287BH.html>`_ : 生活時間：仕事／時間（緊急事態宣言中・ふつうの休日の日）
-* `Q1287BM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287BM.html>`_ : 生活時間：仕事／分（緊急事態宣言中・ふつうの休日の日）
-* `Q1287CH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287CH.html>`_ : 生活時間：勉学／時間（緊急事態宣言中・ふつうの休日の日）
-* `Q1287CM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287CM.html>`_ : 生活時間：勉学／分（緊急事態宣言中・ふつうの休日の日）
-* `Q1287DH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287DH.html>`_ : 生活時間：家事・育児／時間（緊急事態宣言中・ふつうの休日の日）
-* `Q1287DM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287DM.html>`_ : 生活時間：家事・育児／分（緊急事態宣言中・ふつうの休日の日）
-* `Q1287IH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287IH.html>`_ : 生活時間：趣味・娯楽・交際など／時間（緊急事態宣言中・ふつうの休日の日）
-* `Q1287IM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287IM.html>`_ : 生活時間：趣味・娯楽・交際など／分（緊急事態宣言中・ふつうの休日の日）
-* `Q1287MH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287MH.html>`_ : 生活時間：睡眠、食事、入浴など／時間（緊急事態宣言中・ふつうの休日の日）
-* `Q1287MM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287MM.html>`_ : 生活時間：睡眠、食事、入浴など／分（緊急事態宣言中・ふつうの休日の日）
-* `Q1288AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288AH.html>`_ : 生活時間：通勤・通学／時間（緊急事態宣言中・指示のあった休業日）
-* `Q1288AM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288AM.html>`_ : 生活時間：通勤・通学／分（緊急事態宣言中・指示のあった休業日）
-* `Q1288BH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288BH.html>`_ : 生活時間：仕事／時間（緊急事態宣言中・指示のあった休業日）
-* `Q1288BM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288BM.html>`_ : 生活時間：仕事／分（緊急事態宣言中・指示のあった休業日）
-* `Q1288CH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288CH.html>`_ : 生活時間：勉学／時間（緊急事態宣言中・指示のあった休業日）
-* `Q1288CM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288CM.html>`_ : 生活時間：勉学／分（緊急事態宣言中・指示のあった休業日）
-* `Q1288DH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288DH.html>`_ : 生活時間：家事・育児／時間（緊急事態宣言中・指示のあった休業日）
-* `Q1288DM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288DM.html>`_ : 生活時間：家事・育児／分（緊急事態宣言中・指示のあった休業日）
-* `Q1288IH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288IH.html>`_ : 生活時間：趣味・娯楽・交際など／時間（緊急事態宣言中・指示のあった休業日）
-* `Q1288IM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288IM.html>`_ : 生活時間：趣味・娯楽・交際など／分（緊急事態宣言中・指示のあった休業日）
-* `Q1288MH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288MH.html>`_ : 生活時間：睡眠、食事、入浴など／時間（緊急事態宣言中・指示のあった休業日）
-* `Q1288MM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288MM.html>`_ : 生活時間：睡眠、食事、入浴など／分（緊急事態宣言中・指示のあった休業日）
-* `Q1289AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289AH.html>`_ : 生活時間（配偶者）：通勤・通学／時間（緊急事態宣言中・通常の平日の日）
-* `Q1289AM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289AM.html>`_ : 生活時間（配偶者）：通勤・通学／分（緊急事態宣言中・通常の平日の日）
-* `Q1289BH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289BH.html>`_ : 生活時間（配偶者）：仕事／時間（緊急事態宣言中・通常の平日の日）
-* `Q1289BM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289BM.html>`_ : 生活時間（配偶者）：仕事／分（緊急事態宣言中・通常の平日の日）
-* `Q1289CH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289CH.html>`_ : 生活時間（配偶者）：勉学／時間（緊急事態宣言中・通常の平日の日）
-* `Q1289CM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289CM.html>`_ : 生活時間（配偶者）：勉学／分（緊急事態宣言中・通常の平日の日）
-* `Q1289DH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289DH.html>`_ : 生活時間（配偶者）：家事・育児／時間（緊急事態宣言中・通常の平日の日）
-* `Q1289DM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289DM.html>`_ : 生活時間（配偶者）：家事・育児／分（緊急事態宣言中・通常の平日の日）
-* `Q1289IH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289IH.html>`_ : 生活時間（配偶者）：趣味・娯楽・交際など／時間（緊急事態宣言中・通常の平日の日）
-* `Q1289IM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289IM.html>`_ : 生活時間（配偶者）：趣味・娯楽・交際など／分（緊急事態宣言中・通常の平日の日）
-* `Q1289MH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289MH.html>`_ : 生活時間（配偶者）：睡眠、食事、入浴など／時間（緊急事態宣言中・通常の平日の日）
-* `Q1289MM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289MM.html>`_ : 生活時間（配偶者）：睡眠、食事、入浴など／分（緊急事態宣言中・通常の平日の日）
-* `Q1290AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290AH.html>`_ : 生活時間（配偶者）：通勤・通学／時間（緊急事態宣言中・在宅勤務の日）
-* `Q1290AM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290AM.html>`_ : 生活時間（配偶者）：通勤・通学／分（緊急事態宣言中・在宅勤務の日）
-* `Q1290BH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290BH.html>`_ : 生活時間（配偶者）：仕事／時間（緊急事態宣言中・在宅勤務の日）
-* `Q1290BM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290BM.html>`_ : 生活時間（配偶者）：仕事／分（緊急事態宣言中・在宅勤務の日）
-* `Q1290CH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290CH.html>`_ : 生活時間（配偶者）：勉学／時間（緊急事態宣言中・在宅勤務の日）
-* `Q1290CM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290CM.html>`_ : 生活時間（配偶者）：勉学／分（緊急事態宣言中・在宅勤務の日）
-* `Q1290DH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290DH.html>`_ : 生活時間（配偶者）：家事育児／時間（緊急事態宣言中・在宅勤務の日）
-* `Q1290DM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290DM.html>`_ : 生活時間（配偶者）：家事・育児／分（緊急事態宣言中・在宅勤務の日）
-* `Q1290IH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290IH.html>`_ : 生活時間（配偶者）：趣味・娯楽・交際など／時間（緊急事態宣言中・在宅勤務の日）
-* `Q1290IM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290IM.html>`_ : 生活時間（配偶者）：趣味・娯楽・交際など／分（緊急事態宣言中・在宅勤務の日）
-* `Q1290MH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290MH.html>`_ : 生活時間（配偶者）：睡眠、食事、入浴など／時間（緊急事態宣言中・在宅勤務の日）
-* `Q1290MM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290MM.html>`_ : 生活時間（配偶者）：睡眠、食事、入浴など／分（緊急事態宣言中・在宅勤務の日）
-* `Q1291AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291AH.html>`_ : 生活時間（配偶者）：通勤・通学／時間（緊急事態宣言中・ふつうの休日の日）
-* `Q1291AM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291AM.html>`_ : 生活時間（配偶者）：通勤・通学／分（緊急事態宣言中・ふつうの休日の日）
-* `Q1291BH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291BH.html>`_ : 生活時間（配偶者）：仕事／時間（緊急事態宣言中・ふつうの休日の日）
-* `Q1291BM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291BM.html>`_ : 生活時間（配偶者）：仕事／分（緊急事態宣言中・ふつうの休日の日）
-* `Q1291CH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291CH.html>`_ : 生活時間（配偶者）：勉学／時間（緊急事態宣言中・ふつうの休日の日）
-* `Q1291CM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291CM.html>`_ : 生活時間（配偶者）：勉学／分（緊急事態宣言中・ふつうの休日の日）
-* `Q1291DH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291DH.html>`_ : 生活時間（配偶者）：家事・育児／時間（緊急事態宣言中・ふつうの休日の日）
-* `Q1291DM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291DM.html>`_ : 生活時間（配偶者）：家事・育児／分（緊急事態宣言中・ふつうの休日の日）
-* `Q1291IH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291IH.html>`_ : 生活時間（配偶者）：趣味・娯楽・交際など／時間（緊急事態宣言中・ふつうの休日の日）
-* `Q1291IM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291IM.html>`_ : 生活時間（配偶者）：趣味・娯楽・交際など／分（緊急事態宣言中・ふつうの休日の日）
-* `Q1291MH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291MH.html>`_ : 生活時間（配偶者）：睡眠、食事、入浴など／時間（緊急事態宣言中・ふつうの休日の日）
-* `Q1291MM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291MM.html>`_ : 生活時間（配偶者）：睡眠、食事、入浴など／分（緊急事態宣言中・ふつうの休日の日）
-* `Q1292AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292AH.html>`_ : 生活時間（配偶者）：通勤・通学／時間（緊急事態宣言中・指示のあった休業日）
-* `Q1292AM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292AM.html>`_ : 生活時間（配偶者）：通勤・通学／分（緊急事態宣言中・指示のあった休業日）
-* `Q1292BH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292BH.html>`_ : 生活時間（配偶者）：仕事／時間（緊急事態宣言中・指示のあった休業日）
-* `Q1292BM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292BM.html>`_ : 生活時間（配偶者）：仕事／分（緊急事態宣言中・指示のあった休業日）
-* `Q1292CH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292CH.html>`_ : 生活時間（配偶者）：勉学／時間（緊急事態宣言中・指示のあった休業日）
-* `Q1292CM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292CM.html>`_ : 生活時間（配偶者）：勉学／分（緊急事態宣言中・指示のあった休業日）
-* `Q1292DH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292DH.html>`_ : 生活時間（配偶者）：家事・育児／時間（緊急事態宣言中・指示のあった休業日）
-* `Q1292DM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292DM.html>`_ : 生活時間（配偶者）：家事・育児／分（緊急事態宣言中・指示のあった休業日）
-* `Q1292IH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292IH.html>`_ : 生活時間（配偶者）：趣味・娯楽・交際など／時間（緊急事態宣言中・指示のあった休業日）
-* `Q1292IM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292IM.html>`_ : 生活時間（配偶者）：趣味・娯楽・交際など／分（緊急事態宣言中・指示のあった休業日）
-* `Q1292MH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292MH.html>`_ : 生活時間（配偶者）：睡眠、食事、入浴など／時間（緊急事態宣言中・指示のあった休業日）
-* `Q1292MM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292MM.html>`_ : 生活時間（配偶者）：睡眠、食事、入浴など／分（緊急事態宣言中・指示のあった休業日）
-* `Q1293A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293A.html>`_ : 新型コロナウイルス感染症の影響：転居や地方への移住
-* `Q1293B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293B.html>`_ : 新型コロナウイルス感染症の影響：政府・自治体の要請による休業
-* `Q1293C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293C.html>`_ : 新型コロナウイルス感染症の影響：家計補填のため仕事増・就職
-* `Q1293D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293D.html>`_ : 新型コロナウイルス感染症の影響：仕事をやめた・減らした
-* `Q1293E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293E.html>`_ : 新型コロナウイルス感染症の影響：親や子ども孫との面会制限
-* `Q1293F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293F.html>`_ : 新型コロナウイルス感染症の影響：子どもが特別奨学金や減免を受けた
-* `Q1293G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293G.html>`_ : 新型コロナウイルス感染症の影響：子どもが進路変更・就業の変更
-* `Q1293H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293H.html>`_ : 新型コロナウイルス感染症の影響：婚活を積極的におこなった
-* `Q1293I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293I.html>`_ : 新型コロナウイルス感染症の影響：婚約や結婚の時期を変更した
-* `Q1293J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293J.html>`_ : 新型コロナウイルス感染症の影響：その他
-* `Q1293K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293K.html>`_ : 新型コロナウイルス感染症の影響：特にない
-* `Q1294A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1294A.html>`_ : 緊急事態宣言発令時の休業への給与・収入補填：会社から全額補償
-* `Q1294B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1294B.html>`_ : 緊急事態宣言発令時の休業への給与・収入補填：会社から一部補償
-* `Q1294C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1294C.html>`_ : 緊急事態宣言発令時の休業への給与・収入補填：有給休暇で対応
-* `Q1294D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1294D.html>`_ : 緊急事態宣言発令時の休業への給与・収入補填：欠勤対応
-* `Q1294E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1294E.html>`_ : 緊急事態宣言発令時の休業への給与・収入補填：休業支援金等申請
-* `Q1294F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1294F.html>`_ : 緊急事態宣言発令時の休業への給与・収入補填：補償はなかった
-* `Q1294G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1294G.html>`_ : 緊急事態宣言発令時の休業への給与・収入補填：その他
-* `Q1294H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1294H.html>`_ : 緊急事態宣言発令時の休業への給与・収入補填：特にない
-* `Q1294I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1294I.html>`_ : 緊急事態宣言発令時の休業への給与・収入補填：働いていない
-* `Q1295A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1295A.html>`_ : 緊急事態宣言発令時の休業への給与・収入補填（配偶者）：会社から全額補償
-* `Q1295B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1295B.html>`_ : 緊急事態宣言発令時の休業への給与・収入補填（配偶者）：会社から一部補償
-* `Q1295C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1295C.html>`_ : 緊急事態宣言発令時の休業への給与・収入補填（配偶者）：有給休暇で対応
-* `Q1295D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1295D.html>`_ : 緊急事態宣言発令時の休業への給与・収入補填（配偶者）：欠勤対応
-* `Q1295E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1295E.html>`_ : 緊急事態宣言発令時の休業への給与・収入補填（配偶者）：休業支援金等申請
-* `Q1295F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1295F.html>`_ : 緊急事態宣言発令時の休業への給与・収入補填（配偶者）：補償はなかった
-* `Q1295G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1295G.html>`_ : 緊急事態宣言発令時の休業への給与・収入補填（配偶者）：その他
-* `Q1295H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1295H.html>`_ : 緊急事態宣言発令時の休業への給与・収入補填（配偶者）：特にない
-* `Q1295I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1295I.html>`_ : 緊急事態宣言発令時の休業への給与・収入補填（配偶者）：働いていない
-* `Q1296    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1296.html>`_ : 2020年9月に新型コロナウイルス感染症で仕事ができなかった日
-* `Q1297    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1297.html>`_ : 2020年9月に新型コロナウイルス感染症で仕事ができなかった日（配偶者）
-* `Q1298A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1298A.html>`_ : 2020年9月の休業への給与・収入補填：会社から全額補償
-* `Q1298B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1298B.html>`_ : 2020年9月の休業への給与・収入補填：会社から一部補償
-* `Q1298C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1298C.html>`_ : 2020年9月の休業への給与・収入補填：有給休暇で対応
-* `Q1298D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1298D.html>`_ : 2020年月の休業への給与・収入補填：欠勤対応
-* `Q1298E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1298E.html>`_ : 2020年9月の休業への給与・収入補填：休業支援金等申請
-* `Q1298F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1298F.html>`_ : 2020年9月の休業への給与・収入補填：補償はなかった
-* `Q1298G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1298G.html>`_ : 2020年月の休業への給与・収入補填：その他
-* `Q1298H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1298H.html>`_ : 2020年9月の休業への給与・収入補填：特にない
-* `Q1298I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1298I.html>`_ : 2020年9月の休業への給与・収入補填：働いていない
-* `Q1299A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299A.html>`_ : 2020年9月の休業への給与・収入補填（配偶者）：会社から全額補償
-* `Q1299B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299B.html>`_ : 2020年9月の休業への給与・収入補填（配偶者）：会社から一部補償
-* `Q1299C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299C.html>`_ : 2020年9月の休業への給与・収入補填（配偶者）：有給休暇で対応
-* `Q1299D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299D.html>`_ : 2020年9月の休業への給与・収入補填（配偶者）：欠勤対応
-* `Q1299E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299E.html>`_ : 2020年9月の休業への給与・収入補填（配偶者）：休業支援金等申請
-* `Q1299F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299F.html>`_ : 2020年9月の休業への給与・収入補填（配偶者）：補償はなかった
-* `Q1299G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299G.html>`_ : 2020年9月の休業への給与・収入補填（配偶者）：その他
-* `Q1299H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299H.html>`_ : 2020年9月の休業への給与・収入補填（配偶者）：特にない
-* `Q1299I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299I.html>`_ : 2020年9月の休業への給与・収入補填（配偶者）：働いていない
+* `Q1261B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1261B.html>`_ : How was the Special Cash Payment used?: common family expenses
+* `Q1261C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1261C.html>`_ : How was the Special Cash Payment used?: expenditure for yourself
+* `Q1261E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1261E.html>`_ : How was the Special Cash Payment used?: expenditure for spouse
+* `Q1261F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1261F.html>`_ : How was the Special Cash Payment used?: expenditure for children
+* `Q1261G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1261G.html>`_ : How was the Special Cash Payment used?: expenditures for someone else
+* `Q1262B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1262B.html>`_ : How was the Special Cash Payment used?: common family savings
+* `Q1262C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1262C.html>`_ : How was the Special Cash Payment used?: savings for yourself
+* `Q1262D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1262D.html>`_ : How was the Special Cash Payment used?: savings for your spouse
+* `Q1262E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1262E.html>`_ : How was the Special Cash Payment used?: savings for your Children
+* `Q1262F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1262F.html>`_ : How was the Special Cash Payment used?: savings for someone else
+* `Q1263A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1263A.html>`_ : How to hand over Special Cash Payments to children: student in grades 1 to 3 of primary school
+* `Q1263B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1263B.html>`_ : How to hand over Special Cash Payments to children: student in grades 4 to 6 of primary school
+* `Q1263C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1263C.html>`_ : How to hand over Special Cash Payments to children: junior-high school student
+* `Q1263D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1263D.html>`_ : How to hand over Special Cash Payments to children: senior-high school student
+* `Q1264A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264A.html>`_ : Applying for public financial aid: housing Security Benefit
+* `Q1264B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264B.html>`_ : Applying for public financial aid: unemployment Insurance Benefit
+* `Q1264C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264C.html>`_ : Applying for public financial aid: job Training Benefit
+* `Q1264D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264D.html>`_ : Applying for public financial aid: obtaining a loan for living expenses
+* `Q1264E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264E.html>`_ : Applying for public financial aid: exemption from insurance premiums (taxes) for national pension and national health insurance
+* `Q1264F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264F.html>`_ : Applying for public financial aid: postponement of payment for utility bills, etc”
+* `Q1264G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264G.html>`_ : Applying for public financial aid: tax exemption
+* `Q1264H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264H.html>`_ : Applying for public financial aid: temporary benefits for livelihood support
+* `Q1264I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264I.html>`_ : Applying for public financial aid: public assistance program
+* `Q1264J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264J.html>`_ : Applying for public financial aid: housing Security Benefit
+* `Q1264K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1264K.html>`_ : Applying for public financial aid: nothing in particular
+* `Q1265    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1265.html>`_ : Periods of declining revenue and sales
+* `Q1266    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1266.html>`_ : maximum rate of decrease of decreased income month
+* `Q1267    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1267.html>`_ : Average percentage decrease in the month in which income decreased
+* `Q1268    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1268.html>`_ : Periods of declining revenue and sales (spouse)
+* `Q1269    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1269.html>`_ : Maximum of the month in which income decreased (spouse)
+* `Q1270    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1270.html>`_ : Average number of decreased income months (spouse)
+* `Q1271A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271A.html>`_ : Coping with income fluctuations due to the impact of COVID-19: just you and your family’s income was enough
+* `Q1271B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271B.html>`_ : Coping with income fluctuations due to the impact of COVID-19: by cutting back significantly on living expenses and other expenditures
+* `Q1271C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271C.html>`_ : Coping with income fluctuations due to the impact of COVID-19: withdrawal of savings and other assets
+* `Q1271D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271D.html>`_ : Coping with income fluctuations due to the impact of COVID-19: received support from my parents, etc.
+* `Q1271E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271E.html>`_ : Coping with income fluctuations due to the impact of COVID-19: taking a new job or using income from a secondary job, etc
+* `Q1271F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271F.html>`_ : Coping with income fluctuations due to the impact of COVID-19: deferred or overdue payment of utility bills and insurance premiums
+* `Q1271G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271G.html>`_ : Coping with income fluctuations due to the impact of COVID-19: use of National Health Insurance premium reduction/exemption and national tax deferment systems
+* `Q1271H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271H.html>`_ : Coping with income fluctuations due to the impact of COVID-19: utilizing benefits from the government and municipalities
+* `Q1271I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271I.html>`_ : Coping with income fluctuations due to the impact of COVID-19: leveraged other support from government and municipalities
+* `Q1271J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271J.html>`_ : Coping with income fluctuations due to the impact of COVID-19: made purchases with loan or credit cards
+* `Q1271K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271K.html>`_ : Coping with income fluctuations due to the impact of COVID-19: other
+* `Q1271L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1271L.html>`_ : Coping with income fluctuations due to the impact of COVID-19: nothing in particular
+* `Q1272A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1272A.html>`_ : Level of satisfaction with government/local authority response to the crisis: Government
+* `Q1272B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1272B.html>`_ : Level of satisfaction with government/local authority response to the crisis: details of measures requesting individuals and companies
+* `Q1272C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1272C.html>`_ : Level of satisfaction with government/local authority response to the crisis: details of financial support measures
+* `Q1272D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1272D.html>`_ : Level of satisfaction with government/local authority response to the crisis: local governments (prefectures, municipalities)
+* `Q1272E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1272E.html>`_ : Level of satisfaction with government/local authority response to the crisis: company you work for
+* `Q1272F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1272F.html>`_ : Level of satisfaction with government/local authority response to the crisis: after-school childcare
+* `Q1273A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1273A.html>`_ : Concerns about COVID-19: may not be able to get the necessary treatment
+* `Q1273B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1273B.html>`_ : Concerns about COVID-19: may not be able to purchase products such as food, etc.
+* `Q1273C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1273C.html>`_ : Concerns about COVID-19: you and your family members living with you may be infected.
+* `Q1273D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1273D.html>`_ : Concerns about COVID-19: separated family members may be infected
+* `Q1273E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1273E.html>`_ : Concerns about COVID-19: having trouble with daily life
+* `Q1274A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1274A.html>`_ : Lifestyle changes (compared to October 2019): with friends and acquaintances
+* `Q1274B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1274B.html>`_ : Lifestyle changes (compared to October 2019): conflicts, arguments, and quarrels with spouse
+* `Q1274C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1274C.html>`_ : Lifestyle changes (compared to October 2019): conflicts, arguments, and quarrels with children and grandchildren
+* `Q1274D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1274D.html>`_ : Lifestyle changes (compared to October 2019): conflicts, arguments, or quarrels with other family members living together
+* `Q1274E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1274E.html>`_ : Lifestyle changes (compared to October 2019): number of times cooking at home
+* `Q1274F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1274F.html>`_ : Lifestyle changes (compared to October 2019): frequency of shopping trips
+* `Q1274G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1274G.html>`_ : Lifestyle changes (compared to October 2019): frequency of home delivery and online shopping
+* `Q1275    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1275.html>`_ : Working days per week (October 2019)
+* `Q1276    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1276.html>`_ : Working from home/remotely days per week (October 2019)
+* `Q1277    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1277.html>`_ : Working days per week (October 2019) (spouse)
+* `Q1278    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1278.html>`_ : Working from home/remotely days per week (October 2019) (spouse)
+* `Q1279    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1279.html>`_ : Working days per week under a state of emergency declaration (April 2020)
+* `Q1280    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1280.html>`_ : Working from home/remotely days per week under a state of emergency declaration (April 2020)
+* `Q1281    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1281.html>`_ : Working days per week under a state of emergency declaration (April 2020) (spouse)
+* `Q1282    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1282.html>`_ : Working from home/remotely days per week under a state of emergency declaration (April 2020) (spouse)
+* `Q1283    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1283.html>`_ : Days in April 2020 when I could not work due to COVID-19
+* `Q1284    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1284.html>`_ : The day in April 2020 when I could not work due to COVID-19 (spouse)
+* `Q1285AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285AH.html>`_ : Dairy schedule: commuting to work or school / hours (during the State of Emergency / regular weekdays)
+* `Q1285AM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285AM.html>`_ : Dairy schedule: commuting to work or school / minutes (during the State of Emergency / regular weekdays)
+* `Q1285BH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285BH.html>`_ : Dairy schedule: work / hours (during the State of Emergency / regular weekdays)
+* `Q1285BM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285BM.html>`_ : Dairy schedule: work / minutes (during the State of Emergency / regular weekdays)
+* `Q1285CH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285CH.html>`_ : Dairy schedule: study / hours (during the State of Emergency / regular weekdays)
+* `Q1285CM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285CM.html>`_ : Dairy schedule: study / minutes (during the State of Emergency / regular weekdays)
+* `Q1285DH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285DH.html>`_ : Dairy schedule: housework / childcare / hours (during the State of Emergency / regular weekdays)
+* `Q1285DM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285DM.html>`_ : Dairy schedule: housework / childcare / minutes (during the State of Emergency / regular weekdays)
+* `Q1285IH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285IH.html>`_ : Dairy schedule: hobbies, entertainment, socializing, etc. / minutes (during the State of Emergency / regular weekdays)
+* `Q1285IM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285IM.html>`_ : Dairy schedule: hobbies, entertainment, socializing, etc. / hours (during the State of Emergency / regular weekdays)
+* `Q1285MH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285MH.html>`_ : Dairy schedule: sleeping, eating, bathing, etc. / hours (during the State of Emergency / regular weekdays)
+* `Q1285MM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1285MM.html>`_ : Dairy schedule: sleeping, eating, bathing, etc. / minutes (during the State of Emergency / regular weekdays)
+* `Q1286AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286AH.html>`_ : Dairy schedule: commuting to work or school / hours (during a declared state of emergency / working from home days)
+* `Q1286AM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286AM.html>`_ : Dairy schedule: commuting to work or school / minutes (during a declared state of emergency / working from home days)
+* `Q1286BH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286BH.html>`_ : Dairy schedule: work / hours (during a declared state of emergency / working from home days)
+* `Q1286BM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286BM.html>`_ : Dairy schedule: work / minutes (during a declared state of emergency / working from home days)
+* `Q1286CH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286CH.html>`_ : Dairy schedule: study / hours (during a declared state of emergency / working from home days)
+* `Q1286CM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286CM.html>`_ : Dairy schedule: study / minutes (during a declared state of emergency / working from home days)
+* `Q1286DH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286DH.html>`_ : Dairy schedule: housework / childcare / hours (during a declared state of emergency / working from home days)
+* `Q1286DM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286DM.html>`_ : Dairy schedule: housework / childcare / minutes (during a declared state of emergency / working from home days)
+* `Q1286IH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286IH.html>`_ : Dairy schedule: hobbies, entertainment, socializing, etc. / hours  (during a declared state of emergency / working from home days)
+* `Q1286IM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286IM.html>`_ : Dairy schedule: hobbies, entertainment, socializing, etc. / minutes  (during a declared state of emergency / working from home days)
+* `Q1286MH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286MH.html>`_ : Dairy schedule: sleeping, eating, bathing, etc. / hours (during a declared state of emergency / working from home days)
+* `Q1286MM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1286MM.html>`_ : Dairy schedule: sleeping, eating, bathing, etc. / minutes (during a declared state of emergency / working from home days)
+* `Q1287AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287AH.html>`_ : Dairy schedule: commuting to work or school / hours (during a declared state of emergency / ordinary holiday)
+* `Q1287AM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287AM.html>`_ : Dairy schedule: commuting to work or school / minutes (during a declared state of emergency / ordinary holiday)
+* `Q1287BH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287BH.html>`_ : Dairy schedule: work / hours (during a declared state of emergency / ordinary holiday)
+* `Q1287BM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287BM.html>`_ : Dairy schedule: work / minutes (during a declared state of emergency / ordinary holiday)
+* `Q1287CH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287CH.html>`_ : Dairy schedule: study / hours (during a declared state of emergency / ordinary holiday)
+* `Q1287CM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287CM.html>`_ : Dairy schedule: study / minutes (during a declared state of emergency / ordinary holiday)
+* `Q1287DH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287DH.html>`_ : Dairy schedule: housework / childcare / hours (during a declared state of emergency / ordinary holiday)
+* `Q1287DM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287DM.html>`_ : Dairy schedule: housework / childcare / minutes (during a declared state of emergency / ordinary holiday)
+* `Q1287IH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287IH.html>`_ : Dairy schedule: hobbies, entertainment, socializing, etc. / hours (during a declared state of emergency / ordinary holiday)
+* `Q1287IM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287IM.html>`_ : Dairy schedule: hobbies, entertainment, socializing, etc. / minutes (during a declared state of emergency / ordinary holiday)
+* `Q1287MH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287MH.html>`_ : Dairy schedule: sleeping, eating, bathing, etc. / hours (during a declared state of emergency / ordinary holiday)
+* `Q1287MM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1287MM.html>`_ : Dairy schedule: sleeping, eating, bathing, etc. / minutes (during a declared state of emergency / ordinary holiday)
+* `Q1288AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288AH.html>`_ : Dairy schedule: commuting to work or school / hours (during a declared state of emergency / days taken off as instructed)
+* `Q1288AM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288AM.html>`_ : Dairy schedule: commuting to work or school / minutes (during a declared state of emergency / days taken off as instructed)
+* `Q1288BH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288BH.html>`_ : Dairy schedule: work / hours (during a declared state of emergency / days taken off as instructed)
+* `Q1288BM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288BM.html>`_ : Dairy schedule: work / minutes (during a declared state of emergency / days taken off as instructed)
+* `Q1288CH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288CH.html>`_ : Dairy schedule: study / hours (during a declared state of emergency / days taken off as instructed)
+* `Q1288CM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288CM.html>`_ : Dairy schedule: study / minutes (during a declared state of emergency / days taken off as instructed)
+* `Q1288DH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288DH.html>`_ : Dairy schedule: housework / childcare / hours (during a declared state of emergency / days taken off as instructed)
+* `Q1288DM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288DM.html>`_ : Dairy schedule: housework / childcare / minutes (during a declared state of emergency / days taken off as instructed)
+* `Q1288IH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288IH.html>`_ : Dairy schedule: hobbies, entertainment, socializing, etc. / hours (during a declared state of emergency / days taken off as instructed)
+* `Q1288IM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288IM.html>`_ : Dairy schedule: hobbies, entertainment, socializing, etc. / minutes (during a declared state of emergency / days taken off as instructed)
+* `Q1288MH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288MH.html>`_ : Dairy schedule: sleeping, eating, bathing, etc. / hours (during a declared state of emergency / days taken off as instructed)
+* `Q1288MM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1288MM.html>`_ : Dairy schedule: sleeping, eating, bathing, etc. / minutes (during a declared state of emergency / days taken off as instructed)
+* `Q1289AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289AH.html>`_ : Dairy schedule (spouse): commuting to work or school / hours (during the State of Emergency / regular weekdays)
+* `Q1289AM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289AM.html>`_ : Dairy schedule (spouse): commuting to work or school / minutes (during the State of Emergency / regular weekdays)
+* `Q1289BH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289BH.html>`_ : Dairy schedule (spouse): work / hours (during the State of Emergency / regular weekdays)
+* `Q1289BM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289BM.html>`_ : Dairy schedule (spouse): work / minutes (during the State of Emergency / regular weekdays)
+* `Q1289CH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289CH.html>`_ : Dairy schedule (spouse): study / hours (during the State of Emergency / regular weekdays)
+* `Q1289CM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289CM.html>`_ : Dairy schedule (spouse): study / minutes (during the State of Emergency / regular weekdays)
+* `Q1289DH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289DH.html>`_ : Dairy schedule (spouse): housework / childcare / hours (during the State of Emergency / regular weekdays)
+* `Q1289DM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289DM.html>`_ : Dairy schedule (spouse): housework / childcare / minutes (during the State of Emergency / regular weekdays)
+* `Q1289IH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289IH.html>`_ : Dairy schedule (spouse): hobbies, entertainment, socializing, etc. / minutes (during the State of Emergency / regular weekdays)
+* `Q1289IM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289IM.html>`_ : Dairy schedule (spouse): hobbies, entertainment, socializing, etc. / hours (during the State of Emergency / regular weekdays)
+* `Q1289MH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289MH.html>`_ : Dairy schedule (spouse): sleeping, eating, bathing, etc. / hours (during the State of Emergency / regular weekdays)
+* `Q1289MM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1289MM.html>`_ : Dairy schedule (spouse): sleeping, eating, bathing, etc. / minutes (during the State of Emergency / regular weekdays)
+* `Q1290AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290AH.html>`_ : Dairy schedule (spouse): commuting to work or school / hours (during a declared state of emergency / working from home days)
+* `Q1290AM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290AM.html>`_ : Dairy schedule (spouse): commuting to work or school / minutes (during a declared state of emergency / working from home days)
+* `Q1290BH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290BH.html>`_ : Dairy schedule (spouse): work / hours (during a declared state of emergency / working from home days)
+* `Q1290BM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290BM.html>`_ : Dairy schedule (spouse): work / minutes (during a declared state of emergency / working from home days)
+* `Q1290CH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290CH.html>`_ : Dairy schedule (spouse): study / hours (during a declared state of emergency / working from home days)
+* `Q1290CM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290CM.html>`_ : Dairy schedule (spouse): study / minutes (during a declared state of emergency / working from home days)
+* `Q1290DH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290DH.html>`_ : Dairy schedule (spouse): housework / childcare / hours (during a declared state of emergency / working from home days)
+* `Q1290DM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290DM.html>`_ : Dairy schedule (spouse): housework / childcare / minutes (during a declared state of emergency / working from home days)
+* `Q1290IH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290IH.html>`_ : Dairy schedule (spouse): hobbies, entertainment, socializing, etc. / hours  (during a declared state of emergency / working from home days)
+* `Q1290IM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290IM.html>`_ : Dairy schedule (spouse): hobbies, entertainment, socializing, etc. / minutes  (during a declared state of emergency / working from home days)
+* `Q1290MH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290MH.html>`_ : Dairy schedule (spouse): sleeping, eating, bathing, etc. / hours (during a declared state of emergency / working from home days)
+* `Q1290MM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1290MM.html>`_ : Dairy schedule (spouse): sleeping, eating, bathing, etc. / minutes (during a declared state of emergency / working from home days)
+* `Q1291AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291AH.html>`_ : Dairy schedule (spouse): commuting to work or school / hours (during a declared state of emergency / ordinary holiday)
+* `Q1291AM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291AM.html>`_ : Dairy schedule (spouse): commuting to work or school / minutes (during a declared state of emergency / ordinary holiday)
+* `Q1291BH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291BH.html>`_ : Dairy schedule (spouse): work / hours (during a declared state of emergency / ordinary holiday)
+* `Q1291BM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291BM.html>`_ : Dairy schedule (spouse): work / minutes (during a declared state of emergency / ordinary holiday)
+* `Q1291CH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291CH.html>`_ : Dairy schedule (spouse): study / hours (during a declared state of emergency / ordinary holiday)
+* `Q1291CM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291CM.html>`_ : Dairy schedule (spouse): study / minutes (during a declared state of emergency / ordinary holiday)
+* `Q1291DH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291DH.html>`_ : Dairy schedule (spouse): housework / childcare / hours (during a declared state of emergency / ordinary holiday)
+* `Q1291DM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291DM.html>`_ : Dairy schedule (spouse): housework / childcare / minutes (during a declared state of emergency / ordinary holiday)
+* `Q1291IH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291IH.html>`_ : Dairy schedule (spouse): hobbies, entertainment, socializing, etc. / hours (during a declared state of emergency / ordinary holiday)
+* `Q1291IM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291IM.html>`_ : Dairy schedule (spouse): hobbies, entertainment, socializing, etc. / minutes (during a declared state of emergency / ordinary holiday)
+* `Q1291MH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291MH.html>`_ : Dairy schedule (spouse): sleeping, eating, bathing, etc. / minutes (during a declared state of emergency / ordinary holiday)
+* `Q1291MM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1291MM.html>`_ : Dairy schedule(spouse): sleeping, eating, bathing, etc. / minutes (during a declared state of emergency / ordinary holiday)
+* `Q1292AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292AH.html>`_ : Dairy schedule (spose): commuting to work or school / hours (during a declared state of emergency / days taken off as instructed)
+* `Q1292AM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292AM.html>`_ : Dairy schedule (spose): commuting to work or school / minutes (during a declared state of emergency / days taken off as instructed)
+* `Q1292BH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292BH.html>`_ : Dairy schedule (spouse): work / hours (during a declared state of emergency / days taken off as instructed)
+* `Q1292BM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292BM.html>`_ : Dairy schedule (spouse): work / minutes (during a declared state of emergency / days taken off as instructed)
+* `Q1292CH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292CH.html>`_ : Dairy schedule (spouse): study / hours (during a declared state of emergency / days taken off as instructed)
+* `Q1292CM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292CM.html>`_ : Dairy schedule (spouse): study / minutes (during a declared state of emergency / days taken off as instructed)
+* `Q1292DH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292DH.html>`_ : Dairy schedule (spouse): housework / childcare / hours (during a declared state of emergency / days taken off as instructed)
+* `Q1292DM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292DM.html>`_ : Dairy schedule (spouse): housework / childcare / minutes (during a declared state of emergency / days taken off as instructed)
+* `Q1292IH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292IH.html>`_ : Dairy schedule (spouse): hobbies, entertainment, socializing, etc. / hours (during a declared state of emergency / days taken off as instructed)
+* `Q1292IM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292IM.html>`_ : Dairy schedule (spouse): hobbies, entertainment, socializing, etc. / minutes (during a declared state of emergency / days taken off as instructed)
+* `Q1292MH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292MH.html>`_ : Dairy schedule (spouse): sleeping, eating, bathing, etc. / hours (during a declared state of emergency / days taken off as instructed)
+* `Q1292MM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1292MM.html>`_ : Dairy schedule (spouse): sleeping, eating, bathing, etc. / minutes (during a declared state of emergency / days taken off as instructed)
+* `Q1293A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293A.html>`_ : Events caused by COVID-19: considered moving or relocating to a rural area
+* `Q1293B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293B.html>`_ : Events caused by COVID-19: closed at the request of the government and local authorities
+* `Q1293C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293C.html>`_ : Events caused by COVID-19: worked more or got a job to supplement family income
+* `Q1293D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293D.html>`_ : Events caused by COVID-19: stopped or reduced work to cope with changes in family life
+* `Q1293E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293E.html>`_ : Events caused by COVID-19: restricted visitation with parents, children, and grandchildren
+* `Q1293F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293F.html>`_ : Events caused by COVID-19: child received a special scholarship or tuition reduction
+* `Q1293G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293G.html>`_ : Events caused by COVID-19: child has changed career path
+* `Q1293H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293H.html>`_ : Events caused by COVID-19: proactively seeking marriage
+* `Q1293I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293I.html>`_ : Events caused by COVID-19: changed the time of engagement or marriage
+* `Q1293J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293J.html>`_ : Events caused by COVID-19: other
+* `Q1293K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1293K.html>`_ : Events caused by COVID-19: not particularly
+* `Q1294A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1294A.html>`_ : Compensation for salaries and income due to the declaration of a state of emergency (April 2020): fully compensated by the company
+* `Q1294B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1294B.html>`_ : Compensation for salaries and income due to the declaration of a state of emergency (April 2020): partially compensated by the company
+* `Q1294C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1294C.html>`_ : Compensation for salaries and income due to the declaration of a state of emergency (April 2020): used paid leave
+* `Q1294D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1294D.html>`_ : Compensation for salaries and income due to the declaration of a state of emergency (April 2020): handled it with absences
+* `Q1294E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1294E.html>`_ : Compensation for salaries and income due to the declaration of a state of emergency (April 2020): applied for government and local authority leave support funds, etc.
+* `Q1294F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1294F.html>`_ : Compensation for salaries and income due to the declaration of a state of emergency (April 2020): didn’t have or receive any compensation at all during my absence
+* `Q1294G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1294G.html>`_ : Compensation for salaries and income due to the declaration of a state of emergency (April 2020): other
+* `Q1294H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1294H.html>`_ : Compensation for salaries and income due to the declaration of a state of emergency (April 2020): nothing in particular
+* `Q1294I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1294I.html>`_ : Compensation for salaries and income due to the declaration of a state of emergency (April 2020): not working
+* `Q1295A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1295A.html>`_ : Compensation for salaries and income due to the declaration of a state of emergency (April 2020)(spouse): fully compensated by the company
+* `Q1295B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1295B.html>`_ : Compensation for salaries and income due to the declaration of a state of emergency (April 2020)(spouse): partially compensated by the company
+* `Q1295C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1295C.html>`_ : Compensation for salaries and income due to the declaration of a state of emergency (April 2020)(spouse): used paid leave
+* `Q1295D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1295D.html>`_ : Compensation for salaries and income due to the declaration of a state of emergency (April 2020)(spouse): handled it with absences
+* `Q1295E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1295E.html>`_ : Compensation for salaries and income due to the declaration of a state of emergency (April 2020)(spouse): applied for government and local authority leave support funds, etc.
+* `Q1295F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1295F.html>`_ : Compensation for salaries and income due to the declaration of a state of emergency (April 2020)(spouse): didn’t have or receive any compensation at all during my absence
+* `Q1295G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1295G.html>`_ : Compensation for salaries and income due to the declaration of a state of emergency (April 2020)(spouse): other
+* `Q1295H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1295H.html>`_ : Compensation for salaries and income due to the declaration of a state of emergency (April 2020)(spouse): nothing in particular
+* `Q1295I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1295I.html>`_ : Compensation for salaries and income due to the declaration of a state of emergency (April 2020)(spouse): not working
+* `Q1296    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1296.html>`_ : Days in September 2020 you and your husband were unable to work due to the COVID-19
+* `Q1297    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1297.html>`_ : The day in September 2020 when I was unable to work due to COVID-19 (spouse)
+* `Q1298A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1298A.html>`_ : Salary and income compensation in September 2020: fully compensated by the company
+* `Q1298B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1298B.html>`_ : Salary and income compensation in September 2020: partially compensated by the company
+* `Q1298C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1298C.html>`_ : Salary and income compensation in September 2020: used paid leave
+* `Q1298D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1298D.html>`_ : Salary and income compensation in September 2020: Handled it with absences
+* `Q1298E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1298E.html>`_ : Salary and income compensation in September 2020: applied for government and local authority leave support funds, etc.
+* `Q1298F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1298F.html>`_ : Salary and income compensation in September 2020: didn’t have or receive any compensation at all during my absence
+* `Q1298G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1298G.html>`_ : Salary and income compensation in September 2020: other
+* `Q1298H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1298H.html>`_ : Salary and income compensation in September 2020: nothing in particular
+* `Q1298I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1298I.html>`_ : Salary and income compensation in September 2020: not working
+* `Q1299A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299A.html>`_ : Salary and income compensation (spouse) in September 2020: fully compensated by the company, etc.
+* `Q1299B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299B.html>`_ : Salary and income compensation (spouse) in September 2020: partially compensated by the company, etc.
+* `Q1299C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299C.html>`_ : Salary and income compensation (spouse) in September 2020: used paid leave.
+* `Q1299D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299D.html>`_ : Salary and income compensation (spouse) in September 2020: handled it with absences
+* `Q1299E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299E.html>`_ : Salary and income compensation (spouse) in September 2020: applied for government and local authority leave support funds, etc.
+* `Q1299F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299F.html>`_ : Salary and income compensation (spouse) in September 2020: didn’t have or receive any compensation at all during my absence
+* `Q1299G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299G.html>`_ : Salary and income compensation (spouse) in September 2020: other
+* `Q1299H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299H.html>`_ : Salary and income compensation (spouse) in September 2020: nothing in particular
+* `Q1299I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299I.html>`_ : Salary and income compensation (spouse) in September 2020: not working
 * `Q9001AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9001AH.html>`_ : 生活時間（調整版）：通勤・通学／時間（平日）
 * `Q9001AM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9001AM.html>`_ : 生活時間（調整版）：通勤・通学／分（平日）
 * `Q9001BH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9001BH.html>`_ : 生活時間（調整版）：仕事／時間（平日）

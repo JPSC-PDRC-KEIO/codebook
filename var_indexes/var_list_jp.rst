@@ -170,26 +170,26 @@ List of variables (in Japanese)
 * `P66D     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P66D.html>`_ : 前職への従事期間：終了月
 * `P67A     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67A.html>`_ : 前職の選択理由：給与がよい
 * `P67B     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67B.html>`_ : 前職の選択理由：休日、休暇が多い
-* `P67C     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67C.html>`_ : None
-* `P67D     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67D.html>`_ : None
+* `P67C     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67C.html>`_ : 前職の選択理由：労働時間が少ない、残業が少ない
+* `P67D     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67D.html>`_ : 前職の選択理由：労働時間が自由になる
 * `P67E     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67E.html>`_ : 前職の選択理由：家に近い、通勤距離が短い
 * `P67F     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67F.html>`_ : 前職の選択理由：転勤がない、少ない
 * `P67G     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67G.html>`_ : 前職の選択理由：.安定している、失業のおそれがない
 * `P67H     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67H.html>`_ : 前職の選択理由：将来発展する可能性がある
-* `P67I     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67I.html>`_ : None
-* `P67J     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67J.html>`_ : None
-* `P67K     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67K.html>`_ : None
-* `P67L     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67L.html>`_ : None
+* `P67I     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67I.html>`_ : 前職の選択理由：世間一般に知られている企業である
+* `P67J     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67J.html>`_ : 前職の選択理由： 組織にしばられない
+* `P67K     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67K.html>`_ : 前職の選択理由：結婚後も続けやすい
+* `P67L     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67L.html>`_ : 前職の選択理由：出産後も続けやすい
 * `P67M     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67M.html>`_ : 前職の選択理由：技術が身につく
 * `P67N     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67N.html>`_ : 前職の選択理由：能力が生かせる
 * `P67O     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67O.html>`_ : 前職の選択理由：仕事内容に興味がある
-* `P67P     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67P.html>`_ : None
-* `P67Q     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67Q.html>`_ : None
-* `P67R     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67R.html>`_ : None
-* `P67S     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67S.html>`_ : None
-* `P67T     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67T.html>`_ : None
-* `P67U     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67U.html>`_ : None
-* `P67V     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67V.html>`_ : None
+* `P67P     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67P.html>`_ : 前職の選択理由：管理職になれる
+* `P67Q     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67Q.html>`_ : 前職の選択理由：外国に行ける
+* `P67R     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67R.html>`_ : 前職の選択理由：結婚相手が見つかる
+* `P67S     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67S.html>`_ : 前職の選択理由：学校がすすめるので
+* `P67T     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67T.html>`_ : 前職の選択理由：家族がすすめるので
+* `P67U     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67U.html>`_ : 前職の選択理由：会社で指定された
+* `P67V     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67V.html>`_ : 前職の選択理由：家業だから
 * `P67W     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67W.html>`_ : 前職の選択理由：その他
 * `P67X     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67X.html>`_ : 前職の選択理由：拘束時間が少ない、労働時間が自由になる
 * `P67Y     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P67Y.html>`_ : 前職の選択理由：結婚・出産後も続けやすい
@@ -232,26 +232,26 @@ List of variables (in Japanese)
 * `P76B     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P76B.html>`_ : 初職への従事期間　終了月
 * `P77A     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77A.html>`_ : 初職の選択理由：給与がよい
 * `P77B     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77B.html>`_ : 初職の選択理由：休日、休暇が多い
-* `P77C     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77C.html>`_ : 初職の選択理由：
-* `P77D     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77D.html>`_ : None
+* `P77C     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77C.html>`_ : 初職の選択理由：拘束時間が少ない、残業が少ない
+* `P77D     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77D.html>`_ : 初職の選択理由：労働時間が自由になる
 * `P77E     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77E.html>`_ : 初職の選択理由：家に近い、通勤距離が短い
 * `P77F     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77F.html>`_ : 初職の選択理由：転勤がない、少ない
 * `P77G     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77G.html>`_ : 初職の選択理由：安定している、失業のおそれがない
 * `P77H     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77H.html>`_ : 初職の選択理由：将来発展する可能性がある
-* `P77I     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77I.html>`_ : None
-* `P77J     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77J.html>`_ : None
-* `P77K     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77K.html>`_ : None
-* `P77L     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77L.html>`_ : None
+* `P77I     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77I.html>`_ : 初職の選択理由：世間一般に知られている企業である
+* `P77J     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77J.html>`_ : 初職の選択理由：組織にしばられない
+* `P77K     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77K.html>`_ : 初職の選択理由：結婚後も続けやすい
+* `P77L     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77L.html>`_ : 初職の選択理由：出産後も続けやすい
 * `P77M     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77M.html>`_ : 初職の選択理由：技術が身につく
 * `P77N     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77N.html>`_ : 初職の選択理由：能力が生かせる
 * `P77O     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77O.html>`_ : 初職の選択理由：仕事内容に興味がある
-* `P77P     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77P.html>`_ : None
-* `P77Q     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77Q.html>`_ : None
-* `P77R     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77R.html>`_ : None
-* `P77S     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77S.html>`_ : None
-* `P77T     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77T.html>`_ : None
-* `P77U     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77U.html>`_ : None
-* `P77V     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77V.html>`_ : None
+* `P77P     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77P.html>`_ : 初職の選択理由：管理職になれる
+* `P77Q     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77Q.html>`_ : 初職の選択理由：外国に行ける
+* `P77R     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77R.html>`_ : 初職の選択理由：結婚相手が見つかる
+* `P77S     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77S.html>`_ : 初職の選択理由：学校がすすめるので
+* `P77T     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77T.html>`_ : 初職の選択理由：家族がすすめるので
+* `P77U     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77U.html>`_ : 初職の選択理由：会社で指定された
+* `P77V     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77V.html>`_ : 初職の選択理由：家業だから
 * `P77W     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77W.html>`_ : 初職の選択理由：その他(具体的に　　　　　　　　　　　　　　　)
 * `P77X     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77X.html>`_ : 初職の選択理由：拘束時間が少ない、労働時間が自由になる
 * `P77Y     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77Y.html>`_ : 初職の選択理由：結婚・出産後も続けやすい
@@ -482,6 +482,8 @@ List of variables (in Japanese)
 * `P148A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P148A.html>`_ : 配偶者のイメージ：第1位
 * `P148B    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P148B.html>`_ : 配偶者のイメージ：第2位
 * `P148C    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P148C.html>`_ : 配偶者のイメージ：第3位
+* `P159     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P159.html>`_ : 前職離職時の失業給付受給の有無
+* `P160     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P160.html>`_ : 前職離職時の失業給付受給月数
 * `P183     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P183.html>`_ : これまでの勤務先数〔第5回～〕
 * `P185     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P185.html>`_ : 前職の業種〔第21回〕
 * `P186A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P186A.html>`_ : 初職の評価：給与がよい
@@ -930,7 +932,7 @@ List of variables (in Japanese)
 * `Q215     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q215.html>`_ : 職業 [第1回–第3回]
 * `Q216     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q216.html>`_ : 従業員数（配偶者）
 * `Q217     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q217.html>`_ : 業種（配偶者）[第1回–第20回]
-* `Q218     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q218.html>`_ : 就業形態（配偶者）
+* `Q218     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q218.html>`_ : 職務（配偶者）〔第1～第17回〕
 * `Q219     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q219.html>`_ : 給与支給方法（配偶者）
 * `Q220     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q220.html>`_ : 月当たり額（月給・週給：配偶者）
 * `Q221     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q221.html>`_ : 日給額（配偶者）
@@ -1101,12 +1103,12 @@ List of variables (in Japanese)
 * `Q296D    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q296D.html>`_ : 年収：社会保障給付（配偶者）
 * `Q296E    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q296E.html>`_ : 年収：その他（配偶者）
 * `Q296F    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q296F.html>`_ : 年収：合計（配偶者）
-* `Q297A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q297A.html>`_ : 年収：勤め先の収入
-* `Q297B    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q297B.html>`_ : 年収：事業収入
-* `Q297C    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q297C.html>`_ : 年収：財産
-* `Q297D    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q297D.html>`_ : 年収：社会保障給付
-* `Q297E    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q297E.html>`_ : 年収：その他
-* `Q297F    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q297F.html>`_ : 年収：合計
+* `Q297A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q297A.html>`_ : 年収：勤め先の収入（本人）
+* `Q297B    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q297B.html>`_ : 年収：事業収入（本人）
+* `Q297C    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q297C.html>`_ : 年収：財産（本人）
+* `Q297D    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q297D.html>`_ : 年収：社会保障給付（本人）
+* `Q297E    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q297E.html>`_ : 年収：その他（本人）
+* `Q297F    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q297F.html>`_ : 年収：合計（本人）
 * `Q298A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q298A.html>`_ : 年収：財産（夫婦共通）
 * `Q298B    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q298B.html>`_ : 年収：社会保障給付（夫婦共通）
 * `Q298C    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q298C.html>`_ : 年収：その他（夫婦共通）
@@ -1169,6 +1171,8 @@ List of variables (in Japanese)
 * `Q316     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q316.html>`_ : 支出月額（無配偶）：キャリアアップ
 * `Q317     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q317.html>`_ : 支出月額（無配偶)：貯蓄
 * `Q318     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q318.html>`_ : 支出月額（無配偶）：総額
+* `Q319     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q319.html>`_ : 1年間の教育娯楽費
+* `Q320     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q320.html>`_ : 1年間の教育娯楽費
 * `Q322     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q322.html>`_ : 最終学歴（義母）〔第2回〕
 * `Q323     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q323.html>`_ : 実親年収
 * `Q324     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q324.html>`_ : 義親年収（有配偶）
@@ -1250,8 +1254,8 @@ List of variables (in Japanese)
 * `Q375E    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q375E.html>`_ : 敷地取得方法
 * `Q375F    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q375F.html>`_ : 敷地取得に関与した親（有配偶）
 * `Q375G    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q375G.html>`_ : 敷地の現市場価格
-* `Q376A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q376A.html>`_ : None
-* `Q376B    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q376B.html>`_ : None
+* `Q376A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q376A.html>`_ : 住宅・取得年
+* `Q376B    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q376B.html>`_ : 住宅・建築年
 * `Q376C    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q376C.html>`_ : 住宅の名義（有配偶）
 * `Q376D    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q376D.html>`_ : 住宅の名義（無配偶）
 * `Q376E    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q376E.html>`_ : 住宅取得方法
@@ -1462,7 +1466,8 @@ List of variables (in Japanese)
 * `Q493CM   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q493CM.html>`_ : 生活時間：勉学／分（平日）
 * `Q493DH   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q493DH.html>`_ : 生活時間：家事・育児／時間（平日）
 * `Q493DM   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q493DM.html>`_ : 生活時間：家事・育児／分（平日）
-* `Q493EH   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q493EH.html>`_ : 生活時間：買い物／分（平日）
+* `Q493EH   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q493EH.html>`_ : 生活時間：買い物／時間（平日）
+* `Q493EM   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q493EM.html>`_ : 生活時間：買い物／分（平日）
 * `Q493FH   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q493FH.html>`_ : 生活時間：移動／時間（平日）
 * `Q493FM   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q493FM.html>`_ : 生活時間：移動／分（平日）
 * `Q493GH   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q493GH.html>`_ : 生活時間：学習・研究／時間（平日）
@@ -1487,7 +1492,8 @@ List of variables (in Japanese)
 * `Q494CM   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q494CM.html>`_ : 生活時間：勉学／分（休日）
 * `Q494DH   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q494DH.html>`_ : 生活時間：家事・育児／時間（休日）
 * `Q494DM   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q494DM.html>`_ : 生活時間：家事・育児／分（休日）
-* `Q494EH   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q494EH.html>`_ : 生活時間：買い物／分（休日）
+* `Q494EH   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q494EH.html>`_ : 生活時間：買い物／時間（休日）
+* `Q494EM   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q494EM.html>`_ : 生活時間：買い物／分（休日）
 * `Q494FH   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q494FH.html>`_ : 生活時間：移動／時間（休日）
 * `Q494FM   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q494FM.html>`_ : 生活時間：移動／分（休日）
 * `Q494GH   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q494GH.html>`_ : 生活時間：学習・研究／時間（休日）
@@ -1754,6 +1760,7 @@ List of variables (in Japanese)
 * `Q684     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q684.html>`_ : 大学の専攻（配偶者）
 * `Q685     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q685.html>`_ : 大学院の修了（配偶者）
 * `Q686     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q686.html>`_ : 大学院区分（配偶者）
+* `Q688     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q688.html>`_ : 最終学校卒業年（配偶者）〔第1回～第6回〕
 * `Q689A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q689A.html>`_ : 就業期間合計：年（配偶者）
 * `Q689B    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q689B.html>`_ : 就業期間合計：月（配偶者）
 * `Q690A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q690A.html>`_ : 前職からの離職期間：年（配偶者）
@@ -1896,6 +1903,8 @@ List of variables (in Japanese)
 * `Q870B    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q870B.html>`_ : 借入れできなかった：減額された
 * `Q870C    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q870C.html>`_ : 借入れできなかった：断られていない
 * `Q870D    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q870D.html>`_ : 借入れをあきらめた経験
+* `Q877     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q877.html>`_ : 離死別経験（有配偶）〔第6回〕
+* `Q878     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q878.html>`_ : 離死別経験（無配偶）〔第6回〕
 * `Q879A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q879A.html>`_ : 支出月額（有配偶・無配偶共通）：食料
 * `Q879B    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q879B.html>`_ : 支出月額（有配偶・無配偶共通）：住居
 * `Q879C    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q879C.html>`_ : 支出月額（有配偶・無配偶共通）：水道・ガス・電気
@@ -1926,7 +1935,7 @@ List of variables (in Japanese)
 * `Q889     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q889.html>`_ : 敷地取得年
 * `Q890     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q890.html>`_ : 住宅取得年
 * `Q891     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q891.html>`_ : 住宅建築年
-* `Q892     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q892.html>`_ : 最終学校卒業年（配偶者）
+* `Q892     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q892.html>`_ : 最終学校卒業年（配偶者）〔第7回～〕
 * `Q893     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q893.html>`_ : 死亡時期（義父）〔第7回～〕
 * `Q894     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q894.html>`_ : 死亡時期（義母）〔第7回～〕
 * `Q895A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q895A.html>`_ : 利用未就学児数：認可保育所
@@ -1937,6 +1946,10 @@ List of variables (in Japanese)
 * `Q895G    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q895G.html>`_ : 利用未就学児数：お稽古事、習い事
 * `Q896     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q896.html>`_ : 教育訓練給付制度の認知の有無
 * `Q897     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q897.html>`_ : 教育訓練給付制度の利用の有無
+* `Q898A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q898A.html>`_ : 教育訓練給付制度の利用目的：仕事発展のため
+* `Q898B    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q898B.html>`_ : 教育訓練給付制度の利用目的：仕事に役立ちそう
+* `Q898C    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q898C.html>`_ : 教育訓練給付制度の利用目的：興味があった
+* `Q898D    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q898D.html>`_ : 教育訓練給付制度の利用目的：その他
 * `Q899     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q899.html>`_ : 教育訓練給付制度の今後の利用意向
 * `Q926     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q926.html>`_ : 家庭の収入への満足度
 * `Q927     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q927.html>`_ : 家庭の消費額への満足度
@@ -1951,6 +1964,10 @@ List of variables (in Japanese)
 * `Q932H    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q932H.html>`_ : 生活領域重要度　交わる
 * `Q933     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q933.html>`_ : 離婚について
 * `Q965     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q965.html>`_ : 子育て費用への考え方
+* `Q980A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q980A.html>`_ : 教育訓練給付制度の今後の利用目的：仕事発展のため
+* `Q980B    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q980B.html>`_ : 教育訓練給付制度の今後の利用目的：仕事に役立ちそう
+* `Q980C    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q980C.html>`_ : 教育訓練給付制度の今後の利用目的：興味があった
+* `Q980D    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q980D.html>`_ : 教育訓練給付制度の今後の利用目的：その他
 * `Q1004A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1004A.html>`_ : 結婚費用の内訳：婚約記念品への支出
 * `Q1004B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1004B.html>`_ : 結婚費用の内訳：その他婚約関係への支出
 * `Q1004C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1004C.html>`_ : 結婚費用の内訳：挙式披露宴への支出
@@ -2056,7 +2073,8 @@ List of variables (in Japanese)
 * `Q1056    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1056.html>`_ : 公的年金保険への加入の有無
 * `Q1057    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1057.html>`_ : 義親の住居形態　義父
 * `Q1058    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1058.html>`_ : 義親の住居形態　義母
-* `Q1060    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1060.html>`_ : 実親の住居形態　実父
+* `Q1059    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1059.html>`_ : 義親との同居予定
+* `Q1060    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1060.html>`_ : 本人親との同居予定
 * `Q1061    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1061.html>`_ : 実親の住居形態　実母
 * `Q1063    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1063.html>`_ : 児童手当受給の有無
 * `Q1064    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1064.html>`_ : 児童扶養手当対象子の有無
@@ -2135,7 +2153,7 @@ List of variables (in Japanese)
 * `Q1116    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1116.html>`_ : 派遣先変更の有無
 * `Q1117    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1117.html>`_ : 派遣就業からの変更の有無（無職）
 * `Q1118    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1118.html>`_ : 雇用保険失業給付受給の有無（無職）〔第18回～〕
-* `Q1119    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1119.html>`_ : 職務（配偶者）
+* `Q1119    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1119.html>`_ : 職務（配偶者）〔第18回～〕
 * `Q1120    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1120.html>`_ : 雇用保険失業給付受給の有無（配偶者有職）〔第18回～］
 * `Q1121    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1121.html>`_ : 派遣就業からの変更の有無（配偶者有職）
 * `Q1122    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1122.html>`_ : 派遣元変更の有無（配偶者有職）
@@ -2469,7 +2487,7 @@ List of variables (in Japanese)
 * `Q1244A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1244A.html>`_ : 平日夕方に最も長く一緒にいる人：第1子
 * `Q1244B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1244B.html>`_ : 平日夕方に最も長く一緒にいる人：第2子
 * `Q1244C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1244C.html>`_ : 最も長くいる人・第三子
-* `Q1245    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1245.html>`_ : 緊急事態宣言発令中（2020年4月）の子どもの様子
+* `Q1245    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1245.html>`_ : 緊急事態宣言発令中（2020年4月）の休校・休園
 * `Q1246A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1246A.html>`_ : 休校・休園中子どもの世話をしている人：あなた
 * `Q1246B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1246B.html>`_ : 休校・休園中子どもの世話をしている人：お子さんの父親
 * `Q1246C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1246C.html>`_ : 休校・休園中子どもの世話をしている人：お子さんの祖父母・親戚
