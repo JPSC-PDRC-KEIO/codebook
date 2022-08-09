@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-07-05 13:37+0900\n"
-"PO-Revision-Date: 2022-07-08 14:12+0900\n"
+"PO-Revision-Date: 2022-08-08 09:59+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
-"X-Generator: Poedit 3.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/P77I.rst:6
 msgid "初職の選択理由：世間一般に知られている企業である"
-msgstr "Reasons for choosing first position: Well known company"
+msgstr "Reasons for choosing first position: well known company"
 
 #: ../../variable/P77I.rst:11
 msgid "変数名"

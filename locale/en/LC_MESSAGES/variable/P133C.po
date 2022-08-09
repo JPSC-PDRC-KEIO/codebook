@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2022-07-19 11:02+0900\n"
+"PO-Revision-Date: 2022-08-08 10:33+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P133C.rst:5
 msgid "大きな出来事の経験：定年など退職-->世話が大変"
-msgstr "Major events experienced: Resignation due to retirement or other reasons-> Care was difficult."
+msgstr "Major events experienced: resignation due to retirement or other reasons--> care was difficult."
 
 #: ../../variable/P133C.rst:9
 msgid "変数名"
@@ -49,7 +49,7 @@ msgstr "\(2) What happened as a result? Please answer as many of the following q
 
 #: ../../variable/P133C.rst:27
 msgid "定年などによる退職-->世話（介護・看病など）が大変だった"
-msgstr "Care (including long-term care and nursing) was difficult."
+msgstr "Resignation due to retirement or other reasons--> care (including long-term care and nursing) was difficult."
 
 #: ../../variable/P133C.rst:33
 msgid "選択肢 / 記入欄"

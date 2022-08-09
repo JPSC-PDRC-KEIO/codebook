@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-07-05 13:37+0900\n"
-"PO-Revision-Date: 2022-07-08 14:03+0900\n"
+"PO-Revision-Date: 2022-08-08 09:59+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
-"X-Generator: Poedit 3.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/P77D.rst:6
 msgid "初職の選択理由：労働時間が自由になる"
-msgstr "Reason for choosing first position: Flexible working hours"
+msgstr "Reason for choosing first position: flexible working hours"
 
 #: ../../variable/P77D.rst:11
 msgid "変数名"
@@ -77,7 +77,7 @@ msgstr "Remarks"
 
 #: ../../variable/P77D.rst:66
 msgid "第11回調査からは :doc:`P77X </variable/P77X>` に変更されています"
-msgstr "Since \"Wave 11\", it has been changed to :doc:`P77X </variable/P77X>`."
+msgstr ""
 
 #: ../../variable/P77D.rst:72
 msgid "収録シート"

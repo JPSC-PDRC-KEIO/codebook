@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2022-07-11 10:38+0900\n"
+"PO-Revision-Date: 2022-08-08 11:01+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P132E.rst:5
 msgid "大きな出来事の経験：事故や災害-->精神的に落ち込んだ"
-msgstr "Experienced a major event: accident or disaster-->Mentally depressed"
+msgstr "Experienced a major event: accident or disaster--> depression"
 
 #: ../../variable/P132E.rst:9
 msgid "変数名"
@@ -49,7 +49,7 @@ msgstr "\(2) What happened as a result? Please answer as many of the following q
 
 #: ../../variable/P132E.rst:27
 msgid "大きな事故や災害-->あなた自身が精神的に落ち込んだ"
-msgstr "Major accident or disaster-->Your own mental depression"
+msgstr "Major accident or disaster--> your own depression"
 
 #: ../../variable/P132E.rst:33
 msgid "選択肢 / 記入欄"

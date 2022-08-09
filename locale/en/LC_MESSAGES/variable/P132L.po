@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2022-07-11 11:19+0900\n"
+"PO-Revision-Date: 2022-08-08 11:05+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -49,7 +49,7 @@ msgstr "\(2) What happened as a result? Please answer as many of the following q
 
 #: ../../variable/P132L.rst:27
 msgid "大きな事故や災害-->土地や家屋を売った"
-msgstr "Major accident or disaster--> Sold land or house"
+msgstr "Major accident or disaster--> sold land or house"
 
 #: ../../variable/P132L.rst:33
 msgid "選択肢 / 記入欄"

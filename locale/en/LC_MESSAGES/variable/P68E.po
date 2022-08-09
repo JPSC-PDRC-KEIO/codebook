@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2022-07-19 11:05+0900\n"
+"PO-Revision-Date: 2022-08-08 10:42+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P68E.rst:5
 msgid "前職の離職理由：自分に向かない仕事だったから"
-msgstr "Reason for leaving previous job: Job was not suitable for me."
+msgstr "Reason for leaving previous job: job was not suitable for me."
 
 #: ../../variable/P68E.rst:9
 msgid "変数名"

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2022-07-11 11:30+0900\n"
+"PO-Revision-Date: 2022-08-08 10:21+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P132M.rst:5
 msgid "大きな出来事の経験：事故や災害-->借金"
-msgstr "Experiencing a major event: accident or disaster--> debt"
+msgstr "Experienced a major event: accident or disaster--> debt"
 
 #: ../../variable/P132M.rst:9
 msgid "変数名"

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-07-05 13:37+0900\n"
-"PO-Revision-Date: 2022-07-08 13:50+0900\n"
+"PO-Revision-Date: 2022-08-08 09:56+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -18,11 +18,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.9.1\n"
-"X-Generator: Poedit 3.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/P67S.rst:6
 msgid "前職の選択理由：学校がすすめるので"
-msgstr "Reasons for choosing previous position: School recommendation"
+msgstr "Reasons for choosing previous position: school recommendation"
 
 #: ../../variable/P67S.rst:11
 msgid "変数名"
@@ -88,3 +88,11 @@ msgstr "p1_1"
 msgid "p5b_1"
 msgstr "p5b_1"
 
+#~ msgid "変数名: P67S"
+#~ msgstr ""
+
+#~ msgid "選択肢 / 記入欄"
+#~ msgstr ""
+
+#~ msgid "None"
+#~ msgstr "None"

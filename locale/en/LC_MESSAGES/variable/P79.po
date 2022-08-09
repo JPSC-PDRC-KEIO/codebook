@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-08-08 09:49+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/P79.rst:5
 msgid "これまでの勤務先数〔第1回〕"
-msgstr ""
+msgstr "Number of previous employers [Wave1]"
 
 #: ../../variable/P79.rst:9
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/P79.rst:18
 msgid "あなたは、これまでに、いくつの勤務先に勤めたことがありますか。（常勤従業者、パート、アルバイト、嘱託、自営、家族従業などをすべて含みます。(学生アルバイトは除きます)自営・家族従業も勤務先の一カ所と数えてください。現在の勤務先も含めてください。同じ会社で転勤した場合は数えないでください。）"
-msgstr ""
+msgstr "How many employers have you worked for in your career? (Include all full-time employment, part-time employment, contract work, self-employment, and family employment. (Exclude part-time student employment.) Please count self-employment and family employment as one type of employment. Include your current employer. (Do not count transfers within the same company.)"
 
 #: ../../variable/P79.rst:24
 msgid "選択肢 / 記入欄"
@@ -43,15 +45,15 @@ msgstr "Select / Fill in"
 
 #: ../../variable/P79.rst:27
 msgid "2ヵ所"
-msgstr ""
+msgstr "2 places"
 
 #: ../../variable/P79.rst:29
 msgid "3ヵ所"
-msgstr ""
+msgstr "3 places"
 
 #: ../../variable/P79.rst:31
 msgid "4ヵ所以上"
-msgstr ""
+msgstr "4 or more places"
 
 #: ../../variable/P79.rst:38
 msgid "桁あふれコード"
@@ -82,4 +84,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

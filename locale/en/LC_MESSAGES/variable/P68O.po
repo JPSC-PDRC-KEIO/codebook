@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2022-07-04 10:54+0900\n"
+"PO-Revision-Date: 2022-08-08 10:40+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 3.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/P68O.rst:5
 msgid "前職の離職理由：子どもが欲しいので"
-msgstr "Reason for leaving previous job: To have children."
+msgstr "Reason for leaving previous job: to have children"
 
 #: ../../variable/P68O.rst:9
 msgid "変数名"
@@ -37,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/P68O.rst:18
 msgid "どのような理由で、あなたはその前職をやめたのですか。(〇はいくつでも)"
-msgstr "What were your reasons for leaving your last job? (Circle all that pertain to you.)"
+msgstr "What were your reasons for leaving your previous job? (Circle all that pertain to you.)"
 
 #: ../../variable/P68O.rst:21
 msgid "子どもが欲しいので"
