@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q191A.rst:6
 msgid "現職（会社）の選択理由：給与がよい"
-msgstr ""
+msgstr "Reason for choosing current job: good salary"
 
 #: ../../variable/Q191A.rst:11
 msgid "変数名"
@@ -35,11 +35,11 @@ msgstr "Question"
 
 #: ../../variable/Q191A.rst:21
 msgid "なぜ、あなたは現在の会社等を選びましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "What were your reasons for choosing your current profession (Circle as many as pertain to you)?"
 
 #: ../../variable/Q191A.rst:24
 msgid "給与がよい"
-msgstr ""
+msgstr "Good salary"
 
 #: ../../variable/Q191A.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,11 +47,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q191A.rst:33
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q191A.rst:34
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q191A.rst:42
 msgid "桁あふれコード"

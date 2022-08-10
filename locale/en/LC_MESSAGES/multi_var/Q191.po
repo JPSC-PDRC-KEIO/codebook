@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q191.rst:8
 msgid "なぜ、あなたは現在の会社等を選びましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "What were your reasons for choosing your current profession (Circle as many as pertain to you)?"
 
 #: ../../multi_var/Q191.rst:1
 msgid "項目"
@@ -39,7 +39,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q191.rst:1
 msgid "給与がよい"
-msgstr ""
+msgstr "Good salary"
 
 #: ../../multi_var/Q191.rst:1
 msgid ":doc:`Q191A </variable/Q191A>`"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../multi_var/Q191.rst:1
 msgid "休日、休暇が多い"
-msgstr ""
+msgstr "Many holidays and paid leaves"
 
 #: ../../multi_var/Q191.rst:1
 msgid ":doc:`Q191B </variable/Q191B>`"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../multi_var/Q191.rst:1
 msgid "拘束時間が少ない、労働時間が自由になる"
-msgstr ""
+msgstr "Less time restraints and overtime work"
 
 #: ../../multi_var/Q191.rst:1
 msgid ":doc:`Q191U </variable/Q191U>`"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: ../../multi_var/Q191.rst:1
 msgid "家に近い、通勤距離が短い"
-msgstr ""
+msgstr "Close to home, short commute disntance"
 
 #: ../../multi_var/Q191.rst:1
 msgid ":doc:`Q191E </variable/Q191E>`"
@@ -71,7 +71,7 @@ msgstr ""
 
 #: ../../multi_var/Q191.rst:1
 msgid "転勤がない、少ない"
-msgstr ""
+msgstr "No or few transfers"
 
 #: ../../multi_var/Q191.rst:1
 msgid ":doc:`Q191F </variable/Q191F>`"
@@ -79,7 +79,7 @@ msgstr ""
 
 #: ../../multi_var/Q191.rst:1
 msgid "安定している、失業のおそれがない"
-msgstr ""
+msgstr "Stable and low risk of unemployment"
 
 #: ../../multi_var/Q191.rst:1
 msgid ":doc:`Q191G </variable/Q191G>`"
@@ -87,7 +87,7 @@ msgstr ""
 
 #: ../../multi_var/Q191.rst:1
 msgid "将来発展する可能性がある"
-msgstr ""
+msgstr "Potential for future development"
 
 #: ../../multi_var/Q191.rst:1
 msgid ":doc:`Q191H </variable/Q191H>`"
@@ -95,7 +95,7 @@ msgstr ""
 
 #: ../../multi_var/Q191.rst:1
 msgid "結婚・出産後も続けやすい"
-msgstr ""
+msgstr "Easy to continue after marriage and childbirth"
 
 #: ../../multi_var/Q191.rst:1
 msgid ":doc:`Q191V </variable/Q191V>`"
@@ -103,7 +103,7 @@ msgstr ""
 
 #: ../../multi_var/Q191.rst:1
 msgid "技術が身につく"
-msgstr ""
+msgstr "Developing skills"
 
 #: ../../multi_var/Q191.rst:1
 msgid ":doc:`Q191L </variable/Q191L>`"
@@ -111,7 +111,7 @@ msgstr ""
 
 #: ../../multi_var/Q191.rst:1
 msgid "能力が生かせる"
-msgstr ""
+msgstr "Utilizing abilities"
 
 #: ../../multi_var/Q191.rst:1
 msgid ":doc:`Q191M </variable/Q191M>`"
@@ -119,7 +119,7 @@ msgstr ""
 
 #: ../../multi_var/Q191.rst:1
 msgid "仕事内容に興味がある"
-msgstr ""
+msgstr "Interest in the job"
 
 #: ../../multi_var/Q191.rst:1
 msgid ":doc:`Q191N </variable/Q191N>`"
@@ -127,7 +127,7 @@ msgstr ""
 
 #: ../../multi_var/Q191.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Others"
 
 #: ../../multi_var/Q191.rst:1
 msgid ":doc:`Q191T </variable/Q191T>`"
