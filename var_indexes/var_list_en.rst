@@ -170,26 +170,26 @@ List of variables
 * `P66D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P66D.html>`_ : Duration of previous employment: End year
 * `P67A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67A.html>`_ : Reasons for choosing previous job: Good salary
 * `P67B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67B.html>`_ : Reasons for choosing previous job: Many holidays and paid leave
-* `P67C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67C.html>`_ : Reasons for choosing previous position: Less time restraints and overtime work
-* `P67D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67D.html>`_ : Reason for choosing previous position: Flexible working hours
+* `P67C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67C.html>`_ : Reasons for choosing previous position: less time restraints and overtime work
+* `P67D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67D.html>`_ : Reason for choosing previous position: flexible working hours
 * `P67E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67E.html>`_ : Reasons for choosing previous position: close to home, short commute distance
 * `P67F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67F.html>`_ : Reasons for choosing previous position: No or few transfers
 * `P67G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67G.html>`_ : Reasons for choosing previous position: stable, low risk of unemployment
 * `P67H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67H.html>`_ : Reasons for choosing previous position: Potential for future development
-* `P67I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67I.html>`_ : Reasons for choosing previous position: Well known company
+* `P67I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67I.html>`_ : Reasons for choosing previous position: well known company
 * `P67J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67J.html>`_ : Reason for choosing current position: not restricted by organization
-* `P67K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67K.html>`_ : Reason for choosing previous position: easy to continue after marriage
+* `P67K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67K.html>`_ : Reason for choosing first position: easy to continue after marriage
 * `P67L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67L.html>`_ : Reason for choosing previous position: easy to continue after childbirth
 * `P67M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67M.html>`_ : Reasons for choosing previous position: Developing skills
 * `P67N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67N.html>`_ : Reason for choosing previous position: Utilizing abilities
 * `P67O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67O.html>`_ : Reasons for choosing previous position: Interest in the job
 * `P67P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67P.html>`_ : Reason for choosing current position: Management position
-* `P67Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67Q.html>`_ : Reason for choosing previous position: Opportunities to work abroad
+* `P67Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67Q.html>`_ : Reason for choosing previous position: opportunities to work abroad
 * `P67R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67R.html>`_ : Reason for choosing previous position: finding a marriage partner
-* `P67S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67S.html>`_ : Reasons for choosing previous position: School recommendation
-* `P67T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67T.html>`_ : Reason for choosing previous position: A family member’s recommendation
-* `P67U     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67U.html>`_ : Reason for selecting previous position: assigned by company
-* `P67V     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67V.html>`_ : Reason for selecting previous position: Family business
+* `P67S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67S.html>`_ : Reasons for choosing previous position: school recommendation
+* `P67T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67T.html>`_ : Reason for choosing previous position: a family member’s recommendation
+* `P67U     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67U.html>`_ : Reason for selecting previous position: assigned by the company
+* `P67V     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67V.html>`_ : Reason for selecting previous position: family business
 * `P67W     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67W.html>`_ : Reason for selecting previous position: other
 * `P67X     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67X.html>`_ : Reasons for choosing previous position: Less time restraints and overtime work
 * `P67Y     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67Y.html>`_ : Reasons for choosing previous position: easy to continue after marriage and childbirth
@@ -199,7 +199,7 @@ List of variables
 * `P68B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68B.html>`_ : Reason for leaving previous job: Temporary/unstable job
 * `P68C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68C.html>`_ : Reason for leaving previous job: Low income
 * `P68D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68D.html>`_ : Reason for leaving previous job: Poor working conditions
-* `P68E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68E.html>`_ : Reason for leaving previous job: Job was not suitable for me.
+* `P68E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68E.html>`_ : Reason for leaving previous job: job was not suitable for me.
 * `P68F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68F.html>`_ : Reason for leaving previous job: family member’s employment, job change, transfer, or business relocation
 * `P68G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68G.html>`_ : Reason for leaving previous job: your own illness
 * `P68H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68H.html>`_ : Reason for leaving previous job: marriage
@@ -209,7 +209,7 @@ List of variables
 * `P68L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68L.html>`_ : Reason for leaving previous job: Relationships became awkward.
 * `P68M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68M.html>`_ : Reason for leaving previous job: Other
 * `P68N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68N.html>`_ : Reason for leaving previous job: felt monotonous and boring
-* `P68O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68O.html>`_ : Reason for leaving previous job: To have children.
+* `P68O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68O.html>`_ : Reason for leaving previous job: to have children
 * `P68P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68P.html>`_ : Reason for leaving previous job: Concern for my health due to pregnancy
 * `P68Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68Q.html>`_ : Reason for leaving previous job: to care for family members
 * `P68R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68R.html>`_ : Reason for leaving previous job: Difficulty in relationship with supervisor at work
@@ -233,25 +233,25 @@ List of variables
 * `P77A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77A.html>`_ : Reason for choosing first job: good salary
 * `P77B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77B.html>`_ : Reasons for choosing first job: Many holidays and paid leaves
 * `P77C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77C.html>`_ : Reason for leaving first job: less time restraints and overtime work
-* `P77D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77D.html>`_ : Reason for choosing first position: Flexible working hours
+* `P77D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77D.html>`_ : Reason for choosing first position: flexible working hours
 * `P77E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77E.html>`_ : Reasons for choosing first job: close to home, short commute distance
 * `P77F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77F.html>`_ : Reasons for choosing first job: No or few transfers
 * `P77G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77G.html>`_ : Reasons for choosing first job: Stable, low risk of unemployment
 * `P77H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77H.html>`_ : Reasons for choosing first job: potential for future development
-* `P77I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77I.html>`_ : Reasons for choosing first position: Well known company
+* `P77I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77I.html>`_ : Reasons for choosing first position: well known company
 * `P77J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77J.html>`_ : Reason for choosing first position: not restricted by organization
 * `P77K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77K.html>`_ : Reason for choosing first position: easy to continue after marriage
 * `P77L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77L.html>`_ : Reason for choosing first position: easy to continue after marriage
 * `P77M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77M.html>`_ : Reasons for choosing first job: Developing skills
 * `P77N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77N.html>`_ : Reason for choosing first job: utilizing abilities
 * `P77O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77O.html>`_ : Reasons for choosing first job: Interest in the job
-* `P77P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77P.html>`_ : Reason for choosing first position: Management position
-* `P77Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77Q.html>`_ : Reason for choosing first position: Opportunities to work abroad
+* `P77P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77P.html>`_ : Reason for choosing first position: management position
+* `P77Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77Q.html>`_ : Reason for choosing first position: opportunities to work abroad
 * `P77R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77R.html>`_ : Reason for choosing first position: finding a marriage partner
-* `P77S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77S.html>`_ : Reasons for choosing first position: School recommendation
-* `P77T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77T.html>`_ : Reason for choosing first position: A family member’s recommendation
-* `P77U     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77U.html>`_ : Reason for selecting first position: assigned by company
-* `P77V     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77V.html>`_ : Reason for selecting first position: Family business
+* `P77S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77S.html>`_ : Reasons for choosing first position: school recommendation
+* `P77T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77T.html>`_ : Reason for choosing first position: a family member’s recommendation
+* `P77U     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77U.html>`_ : Reason for selecting first position: assigned by the company
+* `P77V     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77V.html>`_ : Reason for selecting first position: family business
 * `P77W     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77W.html>`_ : Reason for choosing first job: Other (Specify)
 * `P77X     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77X.html>`_ : Reasons for choosing first job: Less time restraints and overtime work
 * `P77Y     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77Y.html>`_ : Reasons for choosing first job: easy to continue after marriage and childbirth
@@ -266,23 +266,23 @@ List of variables
 * `P78G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78G.html>`_ : Reason for leaving first job: illness
 * `P78H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78H.html>`_ : Reason for leaving first job: marriage
 * `P78I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78I.html>`_ : Reason for leaving first job: Childcare/child rearing
-* `P78J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78J.html>`_ : Reason for leaving first job: Job did not allow you to utilize your skills.
+* `P78J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78J.html>`_ : Reason for leavin first job: could not make use of your skills.
 * `P78K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78K.html>`_ : Reason for leaving first job: found a job with better conditions/became independent
-* `P78L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78L.html>`_ : Reason for leaving first job: Relationships became awkward.
-* `P78M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78M.html>`_ : Reason for leaving first job: other
+* `P78L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78L.html>`_ : Reason for leaving first job: relationships became awkward.
+* `P78M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78M.html>`_ : Reason for leaving previous job: other
 * `P78N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78N.html>`_ : Reason for leaving first job: felt monotonous and boring
 * `P78O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78O.html>`_ : Reason for leaving first job: to have children.
 * `P78P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78P.html>`_ : Reason for leaving first job: concern for your health due to pregnancy
 * `P78Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78Q.html>`_ : Reason for leaving previous job: to care for a family member
-* `P78R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78R.html>`_ : Reason for leaving first job: Difficulty with your supervisor at work
-* `P78S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78S.html>`_ : Reason for leaving first job: Relationship with co-workers was not going well.
+* `P78R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78R.html>`_ : Reason for leaving first job: difficulty with your supervisor at work
+* `P78S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78S.html>`_ : Reason for leaving first job: relationship with co-workers was not going well.
 * `P78T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78T.html>`_ : Reason for leaving first job: laid off
-* `P78U     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78U.html>`_ : 初職の離職理由：大学や専門学校などでの勉強や留学準備のため
+* `P78U     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78U.html>`_ : Reason for leaving first job: to study at a university or vocational school or to prepare for study abroad.
 * `P78V     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78V.html>`_ : 初職の離職理由：労働条件（収入、時間）が悪かったから
 * `P78W     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78W.html>`_ : 初職の離職理由：仕事の内容に不満があったため
 * `P78X     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78X.html>`_ : 初職の離職理由：妊娠・出産・育児のため
 * `P78Z     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78Z.html>`_ : 初職の離職理由：定年または雇用契約の満了
-* `P79      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P79.html>`_ : これまでの勤務先数〔第1回〕
+* `P79      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P79.html>`_ : Number of previous employers [Wave1]
 * `P84      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P84.html>`_ : Educational achievement at the last school (father) [1st wave]
 * `P85      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P85.html>`_ : Alive or not (father)
 * `P86      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P86.html>`_ : Age (father)
@@ -345,25 +345,25 @@ List of variables
 * `P132B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132B.html>`_ : Major events experienced: accident or disaster–>Major expense
 * `P132C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132C.html>`_ : Major events experienced: accident or disaster–> Care has become difficult
 * `P132D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132D.html>`_ : Major events experienced: accident or disaster–>The family has not been getting” along
-* `P132E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132E.html>`_ : Experienced a major event: accident or disaster–>Mentally depressed
-* `P132F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132F.html>`_ : Experiencing a major event: accident or disaster–>relocation
-* `P132G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132G.html>`_ : Experiencing a major event: accident or disaster–>Leaving school or withdrawing from school
-* `P132H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132H.html>`_ : Experiencing a major event: accident or disaster–>divorce or separation
-* `P132I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132I.html>`_ : Experience of a major event: accident or disaster–>I started working.
-* `P132J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132J.html>`_ : Experienced a major event: accident or disaster–> Family member started working.
+* `P132E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132E.html>`_ : Experienced a major event: accident or disaster–> depression
+* `P132F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132F.html>`_ : Experienced a major event: accident or disaster–> relocation
+* `P132G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132G.html>`_ : Experienced a major event: accident or disaster–>left school or withdrew from school
+* `P132H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132H.html>`_ : Experienced a major event: accident or disaster–> divorce or separation
+* `P132I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132I.html>`_ : Experienced a major event: accident or disaster–>I started working.
+* `P132J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132J.html>`_ : Experienced a major event: accident or disaster–> family member started working.
 * `P132K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132K.html>`_ : Experienced a major event: accident or disaster–> asked for financial assistance
 * `P132L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132L.html>`_ : Experienced a major event: accident or disaster–> sold land or house
-* `P132M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132M.html>`_ : Experiencing a major event: accident or disaster–> debt
-* `P132N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132N.html>`_ : Experiencing a major event: accident or disaster–> treatment and consultation at specialized institutions
+* `P132M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132M.html>`_ : Experienced a major event: accident or disaster–> debt
+* `P132N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132N.html>`_ : Experienced a major event: accident or disaster–> treatment and consultation at specialized institutions
 * `P132O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132O.html>`_ : Experiencing a major event: accident or disaster–> consulted a religious official
-* `P132P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132P.html>`_ : Experience of a major event: accident or disaster–>Other
-* `P132Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132Q.html>`_ : Experience of a major event: accident or calamity–>no particular change
-* `P133A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133A.html>`_ : Major events experienced: resignation due to retirement or other reasons->Income and assets declined
-* `P133B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133B.html>`_ : Major event experienced : retirement due to scheduled retirement or other reasons–>major expense
-* `P133C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133C.html>`_ : Major events experienced: Resignation due to retirement or other reasons-> Care was difficult.
-* `P133D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133D.html>`_ : Major events experienced: resignation due to retirement or other reasons-> Family relationship was strained.
-* `P133E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133E.html>`_ : Major events experienced: Resignation due to retirement or other reasons-> Mental depression
-* `P133F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133F.html>`_ : Major events experienced: resignation due to retirement or other reasons-> Moving
+* `P132P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132P.html>`_ : Experience of a major event: accident or disaster–> other
+* `P132Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P132Q.html>`_ : Experience of a major event: accident or calamity–> no particular change
+* `P133A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133A.html>`_ : Major events experienced: resignation due to retirement or other reasons-> income and assets declined
+* `P133B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133B.html>`_ : Major event experienced: retirement due to scheduled retirement or other reasons–> major expense
+* `P133C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133C.html>`_ : Major events experienced: resignation due to retirement or other reasons–> care was difficult.
+* `P133D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133D.html>`_ : Major events experienced: resignation due to retirement or other reasons-> family relationship was strained.
+* `P133E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133E.html>`_ : Major events experienced: resignation due to retirement or other reasons–> mental illness
+* `P133F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133F.html>`_ : Major events experienced: resignation due to retirement or other reasons–> moving
 * `P133G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133G.html>`_ : Major events experienced: retirement due to scheduled retirement or other reasons–> leave of absence/dropout from school
 * `P133H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133H.html>`_ : Major events experienced: retirement due to scheduled retirement or other reasons-> divorce/separation
 * `P133I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P133I.html>`_ : Major events experienced: resignation due to retirement or other reasons-> You’ve started working.
@@ -834,28 +834,28 @@ List of variables
 * `Q187E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q187E.html>`_ : Coping with life when leaving a job: With my credit card or borrowed money
 * `Q187F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q187F.html>`_ : Coping with life when leaving a job: Other
 * `Q188     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q188.html>`_ : Feeling toward leaving or changing job
-* `Q191A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191A.html>`_ : 現職（会社）の選択理由：給与がよい
-* `Q191B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191B.html>`_ : 現職（会社）の選択理由：休日、休暇が多い
-* `Q191C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191C.html>`_ : 現職（会社）の選択理由：拘束時間が少ない、残業が少ない
-* `Q191D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191D.html>`_ : 現職（会社）の選択理由：労働時間が自由になる
-* `Q191E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191E.html>`_ : 現職（会社）の選択理由：家に近い、通勤距離が短い
-* `Q191F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191F.html>`_ : 現職（会社）の選択理由：転勤がない、少ない
-* `Q191G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191G.html>`_ : 現職（会社）の選択理由：安定している、失業のおそれがない
-* `Q191H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191H.html>`_ : 現職（会社）の選択理由：将来発展する可能性がある
-* `Q191I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191I.html>`_ : 現職（会社）の選択理由：世間一般に知られている企業である
-* `Q191J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191J.html>`_ : 現職（会社）の選択理由：結婚後も続けやすい
-* `Q191K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191K.html>`_ : 現職（会社）の選択理由：出産後も続けやすい
-* `Q191L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191L.html>`_ : 現職（会社）の選択理由：技術が身につく
-* `Q191M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191M.html>`_ : 現職（会社）の選択理由：能力が生かせる
-* `Q191N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191N.html>`_ : 現職（会社）の選択理由：仕事内容に興味がある
-* `Q191O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191O.html>`_ : 現職（会社）の選択理由：管理職になれる
-* `Q191P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191P.html>`_ : 現職（会社）の選択理由：外国に行ける
-* `Q191Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191Q.html>`_ : 現職（会社）の選択理由：結婚相手が見つかる
-* `Q191R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191R.html>`_ : 現職（会社）の選択理由：学校がすすめるので
-* `Q191S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191S.html>`_ : 現職（会社）の選択理由：家族がすすめるので
-* `Q191T    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191T.html>`_ : 現職（会社）の選択理由：その他
-* `Q191U    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191U.html>`_ : 現職（会社）の選択理由：拘束時間が少ない、労働時間が自由になる
-* `Q191V    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191V.html>`_ : 現職（会社）の選択理由：結婚・出産後も続けやすい
+* `Q191A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191A.html>`_ : Reason for choosing current job: good salary
+* `Q191B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191B.html>`_ : Reason for choosing current job: many holidays and paid leaves
+* `Q191C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191C.html>`_ : Reason for choosing current job: less time restraints and overtime work
+* `Q191D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191D.html>`_ : Reason for choosing current job: flexible working hours
+* `Q191E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191E.html>`_ : Reason for choosing current job: close to home, short commute disntance
+* `Q191F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191F.html>`_ : Reason for choosing current job: no or few transfers
+* `Q191G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191G.html>`_ : Reason for choosing current job: stable and low risk of unemployment
+* `Q191H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191H.html>`_ : Reason for choosing current job: potential for future development
+* `Q191I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191I.html>`_ : Reason for choosing current job: well known company
+* `Q191J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191J.html>`_ : Reason for choosing current job: easy to continue after marriage
+* `Q191K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191K.html>`_ : Reason for choosing current job: easy to continue after childbirth
+* `Q191L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191L.html>`_ : Reason for choosing current job: developing skills
+* `Q191M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191M.html>`_ : Reason for choosing current job: utilizing abilities
+* `Q191N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191N.html>`_ : Reason for choosing current job: interest in the job
+* `Q191O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191O.html>`_ : Reason for choosing current job: Management position
+* `Q191P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191P.html>`_ : Reason for choosing current job: opportunities to work abroad
+* `Q191Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191Q.html>`_ : Reason for choosing current job: finding a marriage partner
+* `Q191R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191R.html>`_ : Reason for choosing current job: school recommendation
+* `Q191S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191S.html>`_ : Reason for choosing current job: a family member’s recommendation
+* `Q191T    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191T.html>`_ : Reason for choosing current job: other
+* `Q191U    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191U.html>`_ : Reason for choosing current job: less time restraints and overtime work
+* `Q191V    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191V.html>`_ : Reason for choosing current job: easy to continue after marriage and childbirth
 * `Q192A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192A.html>`_ : 現職（職種）の選択理由：収入・給与がよい
 * `Q192B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192B.html>`_ : 現職（職種）の選択理由：休日、休暇が多い
 * `Q192C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192C.html>`_ : 現職（職種）の選択理由：拘束時間が少ない、残業が少ない
