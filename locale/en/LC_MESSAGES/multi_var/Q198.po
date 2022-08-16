@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q198.rst:3
 msgid "離職理由（無職）"
-msgstr ""
+msgstr "Reason for leaving job (not working)"
 
 #: ../../multi_var/Q198.rst:7
 msgid "質問文"
@@ -27,7 +27,9 @@ msgstr "Question"
 
 #: ../../multi_var/Q198.rst:8
 msgid "どのような理由で、あなたは１年前（昨年9月末）の会社等をやめたのですか。（〇はいくつでも）"
-msgstr ""
+msgstr "Why did you leave the company or organization where you worked one year "
+"ago (at the end of September of the previous year of the survey)? (Circle"
+" as many as apply to you.)"
 
 #: ../../multi_var/Q198.rst:1
 msgid "項目"
@@ -39,7 +41,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q198.rst:1
 msgid "人員整理・会社解散・倒産のため"
-msgstr ""
+msgstr "Because of downsizing, or company dissolution or bankruptcy"
 
 #: ../../multi_var/Q198.rst:1
 msgid ":doc:`Q198A </variable/Q198A>`"
@@ -47,7 +49,7 @@ msgstr ""
 
 #: ../../multi_var/Q198.rst:1
 msgid "一時的・不安定な仕事だったから"
-msgstr ""
+msgstr "Temporary/unstable job"
 
 #: ../../multi_var/Q198.rst:1
 msgid ":doc:`Q198B </variable/Q198B>`"
@@ -55,7 +57,7 @@ msgstr ""
 
 #: ../../multi_var/Q198.rst:1
 msgid "労働条件（収入・時間）が悪かったため"
-msgstr ""
+msgstr "Poor working conditions (income, working hours)"
 
 #: ../../multi_var/Q198.rst:1
 msgid ":doc:`Q198U </variable/Q198U>`"
@@ -63,7 +65,7 @@ msgstr ""
 
 #: ../../multi_var/Q198.rst:1
 msgid "仕事の内容に不満があったため"
-msgstr ""
+msgstr "Dissatisfaction with job description"
 
 #: ../../multi_var/Q198.rst:1
 msgid ":doc:`Q198V </variable/Q198V>`"
@@ -71,7 +73,7 @@ msgstr ""
 
 #: ../../multi_var/Q198.rst:1
 msgid "家族の就職・転職・転勤及び事業所の移転のため"
-msgstr ""
+msgstr "Family member's employment, job change, transfer, and business relocation"
 
 #: ../../multi_var/Q198.rst:1
 msgid ":doc:`Q198G </variable/Q198G>`"
@@ -79,15 +81,14 @@ msgstr ""
 
 #: ../../multi_var/Q198.rst:1
 msgid "結婚のため"
-msgstr ""
-
+msgstr "Marriage"
 #: ../../multi_var/Q198.rst:1
 msgid ":doc:`Q198H </variable/Q198H>`"
 msgstr ""
 
 #: ../../multi_var/Q198.rst:1
 msgid "妊娠・出産のため"
-msgstr ""
+msgstr "Pregnancy and childbirth"
 
 #: ../../multi_var/Q198.rst:1
 msgid ":doc:`Q198Z </variable/Q198Z>`"
@@ -95,7 +96,7 @@ msgstr ""
 
 #: ../../multi_var/Q198.rst:1
 msgid "育児・子育てのため"
-msgstr ""
+msgstr "Childcare/child rearing"
 
 #: ../../multi_var/Q198.rst:1
 msgid ":doc:`Q198AA </variable/Q198AA>`"
@@ -103,7 +104,7 @@ msgstr ""
 
 #: ../../multi_var/Q198.rst:1
 msgid "自分が病気になったから"
-msgstr ""
+msgstr "Illness"
 
 #: ../../multi_var/Q198.rst:1
 msgid ":doc:`Q198L </variable/Q198L>`"
@@ -111,15 +112,15 @@ msgstr ""
 
 #: ../../multi_var/Q198.rst:1
 msgid "家族の介護のため"
-msgstr ""
+msgstr "To care for a family member"
 
 #: ../../multi_var/Q198.rst:1
 msgid ":doc:`Q198M </variable/Q198M>`"
 msgstr ""
 
 #: ../../multi_var/Q198.rst:1
-msgid "良い条件の仕事が見つかったら・独立したから"
-msgstr ""
+msgid "良い条件の仕事が見つかったから・独立したから"
+msgstr "Found a job with better conditions/became independent"
 
 #: ../../multi_var/Q198.rst:1
 msgid ":doc:`Q198O </variable/Q198O>`"
@@ -127,7 +128,7 @@ msgstr ""
 
 #: ../../multi_var/Q198.rst:1
 msgid "人間関係が気まずくなったから"
-msgstr ""
+msgstr "Relationships became awkward."
 
 #: ../../multi_var/Q198.rst:1
 msgid ":doc:`Q198X </variable/Q198X>`"
@@ -135,7 +136,7 @@ msgstr ""
 
 #: ../../multi_var/Q198.rst:1
 msgid "解雇された"
-msgstr ""
+msgstr "Laid off"
 
 #: ../../multi_var/Q198.rst:1
 msgid ":doc:`Q198Y </variable/Q198Y>`"
@@ -143,15 +144,14 @@ msgstr ""
 
 #: ../../multi_var/Q198.rst:1
 msgid "大学や専門学校などでの勉強や留学準備のため"
-msgstr ""
-
+msgstr "To study at a university or vocational school or to prepare for study abroad."
 #: ../../multi_var/Q198.rst:1
 msgid ":doc:`Q198R </variable/Q198R>`"
 msgstr ""
 
 #: ../../multi_var/Q198.rst:1
 msgid "定年又は雇用契約の満了"
-msgstr ""
+msgstr "Retirement or expiration of employment contract"
 
 #: ../../multi_var/Q198.rst:1
 msgid ":doc:`Q198S </variable/Q198S>`"
@@ -159,7 +159,7 @@ msgstr ""
 
 #: ../../multi_var/Q198.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q198.rst:1
 msgid ":doc:`Q198T </variable/Q198T>`"
@@ -168,10 +168,4 @@ msgstr ""
 #: ../../multi_var/Q198.rst:33
 msgid "現在無職で、前回調査時からの1年間に離職した人への質問です。この項目は、選択肢や変数名が以下のような変化をたどってきました。"
 msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
 

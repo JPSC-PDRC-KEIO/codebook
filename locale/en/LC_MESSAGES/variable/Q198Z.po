@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q198Z.rst:6
 msgid "離職理由（無職）：妊娠・出産のため"
-msgstr ""
+msgstr "Reason for leaving job (not working): pregnancy and childbirth"
 
 #: ../../variable/Q198Z.rst:11
 msgid "変数名"
@@ -36,10 +36,12 @@ msgstr "Question"
 #: ../../variable/Q198Z.rst:21
 msgid "どのような理由で、あなたは１年前（昨年9月末）の会社等をやめたのですか。"
 msgstr ""
+"Why did you leave the company or organization where you worked one year "
+"ago (at the end of September of the previous year of the survey)? "
 
 #: ../../variable/Q198Z.rst:24
 msgid "妊娠・出産のため"
-msgstr ""
+msgstr "Pregnancy and childbirth"
 
 #: ../../variable/Q198Z.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,11 +49,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q198Z.rst:33
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q198Z.rst:34
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q198Z.rst:42
 msgid "桁あふれコード"

@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q198B.rst:6
 msgid "離職理由（無職）：一時的・不安定な仕事だったから"
-msgstr ""
+msgstr "Reason for leaving job (not working): temporary/unstable job"
 
 #: ../../variable/Q198B.rst:11
 msgid "変数名"
@@ -36,10 +36,12 @@ msgstr "Question"
 #: ../../variable/Q198B.rst:21
 msgid "どのような理由で、あなたは１年前（昨年9月末）の会社等をやめたのですか。"
 msgstr ""
+"Why did you leave the company or organization where you worked one year "
+"ago (at the end of September of the previous year of the survey)? "
 
 #: ../../variable/Q198B.rst:24
 msgid "一時的・不安定な仕事だったから"
-msgstr ""
+msgstr "Temporary/unstable job"
 
 #: ../../variable/Q198B.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,11 +49,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q198B.rst:33
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q198B.rst:34
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q198B.rst:42
 msgid "桁あふれコード"

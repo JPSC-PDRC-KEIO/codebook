@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q198Y.rst:6
 msgid "離職理由（無職）：定年又は雇用契約の満了"
-msgstr ""
+msgstr "Reason for leaving job (not working): retirement or expiration of employment contract"
 
 #: ../../variable/Q198Y.rst:11
 msgid "変数名"
@@ -35,11 +35,12 @@ msgstr "Question"
 
 #: ../../variable/Q198Y.rst:21
 msgid "どのような理由で、あなたはその前職をやめたのですか。(〇はいくつでも)"
-msgstr ""
+msgstr "Why did you leave the company or organization where you worked one year "
+"ago (at the end of September of the previous year of the survey)? "
 
 #: ../../variable/Q198Y.rst:24
 msgid "定年又は雇用契約の満了"
-msgstr ""
+msgstr "Retirement or expiration of employment contract"
 
 #: ../../variable/Q198Y.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,11 +48,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q198Y.rst:33
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q198Y.rst:34
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q198Y.rst:42
 msgid "桁あふれコード"

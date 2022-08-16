@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q198N.rst:5
 msgid "離職理由（無職）：能力が生かせない仕事だったから"
-msgstr ""
+msgstr "Reason for leaving job (not working): job did not allow you to utilize your skills"
 
 #: ../../variable/Q198N.rst:9
 msgid "変数名"
@@ -36,10 +36,12 @@ msgstr "Question"
 #: ../../variable/Q198N.rst:18
 msgid "どのような理由で、あなたは１年前（昨年9月末）の会社等をやめたのですか。"
 msgstr ""
+"Why did you leave the company or organization where you worked one year "
+"ago (at the end of September of the previous year of the survey)? "
 
 #: ../../variable/Q198N.rst:21
 msgid "能力が生かせない仕事だったから"
-msgstr ""
+msgstr "Job did not allow you to utilize your skills."
 
 #: ../../variable/Q198N.rst:27
 msgid "選択肢 / 記入欄"
@@ -47,11 +49,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q198N.rst:30
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q198N.rst:32
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q198N.rst:39
 msgid "桁あふれコード"
