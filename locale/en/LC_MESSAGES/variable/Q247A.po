@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q247A.rst:6
 msgid "離職理由（配偶者有職）：人員整理・会社解散・倒産のため"
-msgstr ""
+msgstr "Reason for leaving job (spouse, currently working): downsizing, or company dissolution or bankruptcy"
 
 #: ../../variable/Q247A.rst:11
 msgid "変数名"
@@ -35,11 +35,11 @@ msgstr "Question"
 
 #: ../../variable/Q247A.rst:21
 msgid "どのような理由で、ご主人は１年前（昨年9月末）の会社等をやめたのですか。"
-msgstr ""
+msgstr "Why did your husband leave the company or organization where he worked one year ago (at the end of September of the previous year of the survey)"
 
 #: ../../variable/Q247A.rst:24
 msgid "人員整理・会社解散・倒産のため"
-msgstr ""
+msgstr "Because of downsizing, or company dissolution or bankruptcy"
 
 #: ../../variable/Q247A.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,11 +47,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q247A.rst:33
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q247A.rst:34
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q247A.rst:42
 msgid "桁あふれコード"

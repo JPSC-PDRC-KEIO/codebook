@@ -18,8 +18,8 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../variable/Q247P.rst:6
-msgid "離職理由（配偶者有職）：定年または雇用契約の満了"
-msgstr ""
+msgid "離職理由（配偶者有職）：大学や専門学校などでの勉強や留学準備のため"
+msgstr "Reason for leaving job (spouse, currently working): to study at a university or vocational school or to prepare for study abroad"
 
 #: ../../variable/Q247P.rst:11
 msgid "変数名"
@@ -35,11 +35,11 @@ msgstr "Question"
 
 #: ../../variable/Q247P.rst:21
 msgid "どのような理由で、ご主人は１年前（昨年9月末）の会社等をやめたのですか。"
-msgstr ""
+msgstr "Why did your husband leave the company or organization where he worked one year ago (at the end of September of the previous year of the survey)"
 
 #: ../../variable/Q247P.rst:24
-msgid "定年または雇用契約の満了"
-msgstr ""
+msgid "大学や専門学校などでの勉強や留学準備のため"
+msgstr "To study at a university or vocational school or to prepare for study abroad."
 
 #: ../../variable/Q247P.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,11 +47,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q247P.rst:33
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q247P.rst:34
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q247P.rst:42
 msgid "桁あふれコード"
