@@ -20,7 +20,7 @@ msgstr ""
 "X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/P78Z.rst:5
-msgid "初職の離職理由：定年または雇用契約の満了"
+msgid "初職の離職理由：定年又は雇用契約の満了"
 msgstr "Reason for leaving first job: retirement or expiration of employment contract"
 
 #: ../../variable/P78Z.rst:9
@@ -40,7 +40,7 @@ msgid "どのような理由で、あなたははじめての職業をやめた�
 msgstr "What were your reasons for leaving your first profession? (Circle as many as pertain to you)"
 
 #: ../../variable/P78Z.rst:21
-msgid "定年または雇用契約の満了"
+msgid "定年又は雇用契約の満了"
 msgstr "Retirement or expiration of employment contract"
 
 #: ../../variable/P78Z.rst:27

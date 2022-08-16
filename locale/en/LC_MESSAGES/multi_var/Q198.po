@@ -57,7 +57,7 @@ msgstr ""
 
 #: ../../multi_var/Q198.rst:1
 msgid "労働条件（収入・時間）が悪かったため"
-msgstr "Poor working conditions (income, working hours)"
+msgstr "Poor working conditions"
 
 #: ../../multi_var/Q198.rst:1
 msgid ":doc:`Q198U </variable/Q198U>`"

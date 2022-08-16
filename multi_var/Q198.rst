@@ -24,9 +24,9 @@
    家族の介護のため,:doc:`Q198M </variable/Q198M>`
    良い条件の仕事が見つかったから・独立したから,:doc:`Q198O </variable/Q198O>`
    人間関係が気まずくなったから,:doc:`Q198X </variable/Q198X>`
-   解雇された,:doc:`Q198Y </variable/Q198Y>`
-   大学や専門学校などでの勉強や留学準備のため,:doc:`Q198R </variable/Q198R>`
-   定年又は雇用契約の満了,:doc:`Q198S </variable/Q198S>`
+   解雇された,:doc:`Q198R </variable/Q198R>`
+   大学や専門学校などでの勉強や留学準備のため,:doc:`Q198S </variable/Q198S>`
+   定年又は雇用契約の満了,:doc:`Q198Y </variable/Q198Y>`
    その他,:doc:`Q198T </variable/Q198T>`
 
 .. note::
