@@ -41,7 +41,7 @@ msgstr "What were your reasons for choosing your first profession? (Circle as ma
 
 #: ../../variable/P77W.rst:21
 msgid "その他"
-msgstr "other"
+msgstr "Other"
 
 #: ../../variable/P77W.rst:27
 msgid "選択肢 / 記入欄"
