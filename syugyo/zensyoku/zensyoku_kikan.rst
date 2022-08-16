@@ -7,7 +7,7 @@
    :widths: 20, 5, 5
 
    前職の勤務開始時期, :doc:`P66A </variable/P66A>`, :doc:`P66B </variable/P66B>`
-   前職の勤務終了時期, :doc:`P66A </variable/P66A>`, :doc:`P66B </variable/P66B>`
+   前職の勤務終了時期, :doc:`P66C </variable/P66C>`, :doc:`P66D </variable/P66D>`
 
 
 .. note::
