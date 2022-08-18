@@ -18,8 +18,8 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../variable/Q1093_11.rst:6
-msgid "からだ・心の状態：「毎日が楽しい」と感じた"
-msgstr ""
+msgid "からだ・心の状態（CES-D）：「毎日が楽しい」と感じた"
+msgstr "Physical and mental state: I felt that my days were fun."
 
 #: ../../variable/Q1093_11.rst:11
 msgid "変数名"
@@ -34,12 +34,16 @@ msgid "質問文"
 msgstr "Question"
 
 #: ../../variable/Q1093_11.rst:21
-msgid "この1週間のあなたのからだや心の状態についてお聞きします。以下のような気分やことがらをどのくらい経験しましたか。"
+msgid "この1週間のあなたのからだや心の状態についてお聞きします。以下のような気分やことがらをどのくらい"
+"経験しましたか。それぞれあてはまる番号に〇をつけてください。（それぞれ〇は１つだけ）"
 msgstr ""
+"We would like to ask you about your physical or mental state during the past week. How often "
+"did you experience each of the following feelings or matters? Circle your answer to each "
+"question. (Circle one for each question.)"
 
 #: ../../variable/Q1093_11.rst:24
 msgid "「毎日が楽しい」と感じたこと"
-msgstr ""
+msgstr "I felt that my days were fun."
 
 #: ../../variable/Q1093_11.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,19 +51,19 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1093_11.rst:33
 msgid "まったくなかった"
-msgstr ""
+msgstr "Not at all"
 
 #: ../../variable/Q1093_11.rst:34
 msgid "週に1～2日"
-msgstr ""
+msgstr "One or two days a week"
 
 #: ../../variable/Q1093_11.rst:35
 msgid "週に3～4日"
-msgstr ""
+msgstr "Three or four days a week"
 
 #: ../../variable/Q1093_11.rst:36
 msgid "ほとんど毎日"
-msgstr ""
+msgstr "Almost every day"
 
 #: ../../variable/Q1093_11.rst:44
 msgid "桁あふれコード"
@@ -144,10 +148,4 @@ msgstr ""
 #: ../../variable/Q1093_11.rst:106
 msgid "p28_4"
 msgstr ""
-
-#~ msgid "変数名: Q1093_11"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
 

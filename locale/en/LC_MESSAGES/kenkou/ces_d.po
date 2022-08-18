@@ -66,7 +66,7 @@ msgid "ほとんど毎日"
 msgstr "Almost every day"
 
 #: ../../kenkou/ces_d.rst:1
-msgid "ふだんは何でもないことを煩わしいと感じたこと"
+msgid "ふだんは何でもないことをわずらわしいと感じたこと"
 msgstr "I was bothered by things which usually don’t bother me."
 
 #: ../../kenkou/ces_d.rst:1
@@ -98,7 +98,7 @@ msgid ":doc:`Q1093_2 </variable/Q1093_2>`"
 msgstr ""
 
 #: ../../kenkou/ces_d.rst:1
-msgid "憂鬱だと感じたこと"
+msgid "憂うつだと感じたこと"
 msgstr "I felt depressed."
 
 #: ../../kenkou/ces_d.rst:1
@@ -176,6 +176,3 @@ msgstr "I felt sad."
 #: ../../kenkou/ces_d.rst:1
 msgid ":doc:`Q1093_12 </variable/Q1093_12>`"
 msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr "Select / Fill in"
