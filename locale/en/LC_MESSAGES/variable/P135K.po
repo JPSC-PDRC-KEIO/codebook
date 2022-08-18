@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/P135K.rst:5
 msgid "大きな出来事の経験：多重債務・倒産・破産-->経済的援助を頼んだ"
-msgstr ""
+msgstr "Major events experienced: multiple debts, bankruptcy, and insolvency --> asked for financial support."
 
 #: ../../variable/P135K.rst:9
 msgid "変数名"
@@ -35,19 +35,19 @@ msgstr "Question"
 
 #: ../../variable/P135K.rst:18
 msgid "あなたやあなたのご家族に起こった大きな出来事についてうかがいます。"
-msgstr ""
+msgstr "Please answer the following questions about major events that you or your family have experienced."
 
 #: ../../variable/P135K.rst:21
 msgid "（1）あなたが、中学を卒業してから現在までのあいだで、あなたやあなたのご家族に次のような大きな出来事がありましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "\(1) Between the time you graduated from junior high school and now, have you or your family experienced any of the following major events? (circle as many as you like)"
 
 #: ../../variable/P135K.rst:24
 msgid "（2）その結果どのようなことが起こりましたか。あなたが覚えている限りで、次の中からいくつでもお答えください。（〇はいくつでも）"
-msgstr ""
+msgstr "\(2) What happened as a result? Please answer as many of the following questions as you can remember. (Circle as many as you like)"
 
 #: ../../variable/P135K.rst:27
 msgid "多重債務・倒産・破産-->親戚や友人に経済的援助を頼んだ"
-msgstr ""
+msgstr "Multiple debts, bankruptcy, and insolvency --> asked for financial support."
 
 #: ../../variable/P135K.rst:33
 msgid "選択肢 / 記入欄"
@@ -55,11 +55,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/P135K.rst:36
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/P135K.rst:38
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/P135K.rst:45
 msgid "桁あふれコード"

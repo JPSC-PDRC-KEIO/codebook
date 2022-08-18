@@ -50,7 +50,7 @@ msgstr "\(2) What happened as a result? Please answer as many of the following q
 
 #: ../../variable/P135J.rst:27
 msgid "多重債務・倒産・破産-->家族のだれかが新たに働き始めた"
-msgstr "Major events experienced: multiple debts, bankruptcy, and insolvency --> Family member has started working."
+msgstr "Multiple debts, bankruptcy, and insolvency --> Family member has started working."
 
 #: ../../variable/P135J.rst:33
 msgid "選択肢 / 記入欄"
