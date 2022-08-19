@@ -59,7 +59,7 @@ Q165
 備考
 ==================
  
-
+  この質問は、 :doc:`Q881 </variable/Q881>` から分岐した付問です。
 
 
 .. rst-class:: include_sheet

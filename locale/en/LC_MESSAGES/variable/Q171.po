@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"POT-Creation-Date: 2022-07-26 10:35+0900\n"
 "PO-Revision-Date: 2020-05-25 23:07+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -88,6 +88,10 @@ msgstr ""
 #: ../../variable/Q171.rst:64
 msgid "備考"
 msgstr "Remarks"
+
+#: ../../variable/Q171.rst:66
+msgid "この質問は、 :doc:`Q169 </variable/Q169>` から分岐した付問です。"
+msgstr "This is an additional question related to   :doc:`Q169 </variable/Q169>` "
 
 #: ../../variable/Q171.rst:72
 msgid "収録シート"
@@ -210,12 +214,10 @@ msgid "p26_1"
 msgstr ""
 
 #: ../../variable/Q171.rst:135
-
 msgid "p27_1"
 msgstr "p7_1"
 
 #: ../../variable/Q171.rst:137
-
 msgid "p28_1"
 msgstr "p8_1"
 
