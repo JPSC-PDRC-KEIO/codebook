@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"POT-Creation-Date: 2022-08-10 15:50+0900\n"
 "PO-Revision-Date: 2020-06-02 10:15+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q514C.rst:6
 msgid "出産を望まない理由（無配偶）：仕事を続けたい"
-msgstr "Reasons for not to have child-birth (single): Work"
+msgstr "Reasons for not to have child-birth (single): work"
 
 #: ../../variable/Q514C.rst:11
 msgid "変数名"
@@ -74,6 +74,10 @@ msgstr ""
 #: ../../variable/Q514C.rst:63
 msgid "備考"
 msgstr "Remarks"
+
+#: ../../variable/Q514C.rst:65
+msgid "この質問は、 :doc:`Q511 </variable/Q511>` から分岐した付問です。"
+msgstr "This is an additional question related to  :doc:`Q511 </variable/Q511>` ."
 
 #: ../../variable/Q514C.rst:71
 msgid "収録シート"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"POT-Creation-Date: 2022-08-10 15:50+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q512F.rst:6
 msgid "出産のための条件：その他"
-msgstr ""
+msgstr "Conditions for giving birth: other"
 
 #: ../../variable/Q512F.rst:11
 msgid "変数名"
@@ -35,11 +35,11 @@ msgstr "Question"
 
 #: ../../variable/Q512F.rst:21
 msgid "その条件とは何ですか（〇はいくつでも）"
-msgstr ""
+msgstr "What is (are) the condition(s)? (Pleas select all that apply.)"
 
 #: ../../variable/Q512F.rst:24
 msgid "その他"
-msgstr ""
+msgstr "For other reasons"
 
 #: ../../variable/Q512F.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,11 +47,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q512F.rst:33
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q512F.rst:34
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q512F.rst:42
 msgid "桁あふれコード"
@@ -72,6 +72,10 @@ msgstr ""
 #: ../../variable/Q512F.rst:63
 msgid "備考"
 msgstr "Remarks"
+
+#: ../../variable/Q512F.rst:65
+msgid "この質問は、 :doc:`Q511 </variable/Q511>` から分岐した付問です。"
+msgstr "This is an additional question related to  :doc:`Q511 </variable/Q511>` ."
 
 #: ../../variable/Q512F.rst:71
 msgid "収録シート"

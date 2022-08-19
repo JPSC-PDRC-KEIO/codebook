@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"POT-Creation-Date: 2022-08-10 15:50+0900\n"
 "PO-Revision-Date: 2020-06-02 09:40+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -20,9 +20,8 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../variable/Q513J.rst:6
-#, 
 msgid "出産を望まない理由（有配偶）：子どもが嫌い"
-msgstr "Reasons for not to have child-birth (married): Don’t like children"
+msgstr "Reasons for not to have child-birth (married): don’t like children"
 
 #: ../../variable/Q513J.rst:11
 msgid "変数名"
@@ -75,6 +74,10 @@ msgstr ""
 #: ../../variable/Q513J.rst:63
 msgid "備考"
 msgstr "Remarks"
+
+#: ../../variable/Q513J.rst:65
+msgid "この質問は、 :doc:`Q511 </variable/Q511>` から分岐した付問です。"
+msgstr "This is an additional question related to  :doc:`Q511 </variable/Q511>` ."
 
 #: ../../variable/Q513J.rst:71
 msgid "収録シート"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"POT-Creation-Date: 2022-08-10 15:50+0900\n"
 "PO-Revision-Date: 2020-06-01 13:55+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q512C.rst:6
 msgid "出産のための条件：仕事の継続"
-msgstr "Conditions for giving birth: Continue working"
+msgstr "Conditions for giving birth: continue working"
 
 #: ../../variable/Q512C.rst:11
 msgid "変数名"
@@ -74,6 +74,10 @@ msgstr ""
 #: ../../variable/Q512C.rst:63
 msgid "備考"
 msgstr "Remarks"
+
+#: ../../variable/Q512C.rst:65
+msgid "この質問は、 :doc:`Q511 </variable/Q511>` から分岐した付問です。"
+msgstr "This is an additional question related to  :doc:`Q511 </variable/Q511>` ."
 
 #: ../../variable/Q512C.rst:71
 msgid "収録シート"

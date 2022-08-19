@@ -8,18 +8,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 13:39+0900\n"
+"POT-Creation-Date: 2022-07-26 10:35+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../multi_var/Q513.rst:3
 msgid "出産を望まない理由"
-msgstr ""
+msgstr "Reasons for not to have child-birth"
 
 #: ../../multi_var/Q513.rst:7
 msgid "質問文"
@@ -27,19 +27,19 @@ msgstr "Question"
 
 #: ../../multi_var/Q513.rst:8
 msgid "（子どもは）なぜ欲しくないのですか。（〇はいくつでも）"
-msgstr ""
+msgstr "Why don’t you want to have a child or another child?"
 
 #: ../../multi_var/Q513.rst:1
 msgid "有配偶"
-msgstr ""
+msgstr "Married"
 
 #: ../../multi_var/Q513.rst:1
 msgid "無配偶"
-msgstr ""
+msgstr "Single"
 
 #: ../../multi_var/Q513.rst:1
 msgid "教育費・養育費の負担が大きいから"
-msgstr ""
+msgstr "Because the burden of childcare and educational expenses will be heavy"
 
 #: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513A </variable/Q513A>`"
@@ -51,7 +51,7 @@ msgstr ""
 
 #: ../../multi_var/Q513.rst:1
 msgid "広い家が必要だから"
-msgstr ""
+msgstr "Because we will need to get a larger house"
 
 #: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513B </variable/Q513B>`"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: ../../multi_var/Q513.rst:1
 msgid "仕事を続けたいから"
-msgstr ""
+msgstr "Because I want to continue working"
 
 #: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513C </variable/Q513C>`"
@@ -75,7 +75,7 @@ msgstr ""
 
 #: ../../multi_var/Q513.rst:1
 msgid "自分自身の生活を大切にしたいから"
-msgstr ""
+msgstr "Because I consider my own life as more important"
 
 #: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513D </variable/Q513D>`"
@@ -87,7 +87,7 @@ msgstr ""
 
 #: ../../multi_var/Q513.rst:1
 msgid "夫と2人の生活を大切にしたいから"
-msgstr ""
+msgstr "Because I consider mine and husband’s lives as more important"
 
 #: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513E </variable/Q513E>`"
@@ -100,6 +100,8 @@ msgstr ""
 #: ../../multi_var/Q513.rst:1
 msgid "子どもを一人前に育てるのは容易ではないから"
 msgstr ""
+"Because I think it is not easy to bring up a child to be a full-fledged "
+"member of society"
 
 #: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513F </variable/Q513F>`"
@@ -111,7 +113,7 @@ msgstr ""
 
 #: ../../multi_var/Q513.rst:1
 msgid "夫の育児教育が期待できないから"
-msgstr ""
+msgstr "Because I cannot expect that my husband will help me with childcare"
 
 #: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513G </variable/Q513G>`"
@@ -119,7 +121,7 @@ msgstr ""
 
 #: ../../multi_var/Q513.rst:1
 msgid "体力的に大変だから"
-msgstr ""
+msgstr "Because I am too weak physically to have a child"
 
 #: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513H </variable/Q513H>`"
@@ -127,7 +129,7 @@ msgstr ""
 
 #: ../../multi_var/Q513.rst:1
 msgid "丈夫な子供が生まれるかどうか不安だから"
-msgstr ""
+msgstr "Because I worry whether or not I will have a healthy child"
 
 #: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513I </variable/Q513I>`"
@@ -135,7 +137,7 @@ msgstr ""
 
 #: ../../multi_var/Q513.rst:1
 msgid "子どもが嫌いだから"
-msgstr ""
+msgstr "Because I don’t like children"
 
 #: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513J </variable/Q513J>`"
@@ -147,7 +149,7 @@ msgstr ""
 
 #: ../../multi_var/Q513.rst:1
 msgid "女の子さえ生まれればいいから"
-msgstr ""
+msgstr "Because I am simply satisfied having my daughter"
 
 #: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513K </variable/Q513K>`"
@@ -155,7 +157,7 @@ msgstr ""
 
 #: ../../multi_var/Q513.rst:1
 msgid "男の子さえ生まれればいいから"
-msgstr ""
+msgstr "Because I am simply satisfied having my son"
 
 #: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513L </variable/Q513L>`"
@@ -163,7 +165,7 @@ msgstr ""
 
 #: ../../multi_var/Q513.rst:1
 msgid "今の子どもの人数で満足だから"
-msgstr ""
+msgstr "Because I am satisfied with having my children"
 
 #: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513N </variable/Q513N>`"
@@ -171,7 +173,7 @@ msgstr ""
 
 #: ../../multi_var/Q513.rst:1
 msgid "結婚したくないから"
-msgstr ""
+msgstr "Because I don’t want to get married"
 
 #: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q514A </variable/Q514A>`"
@@ -179,7 +181,7 @@ msgstr ""
 
 #: ../../multi_var/Q513.rst:1
 msgid "その他"
-msgstr ""
+msgstr "For other reasons"
 
 #: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q513M </variable/Q513M>`"
@@ -188,4 +190,12 @@ msgstr ""
 #: ../../multi_var/Q513.rst:1
 msgid ":doc:`Q514H </variable/Q514H>`"
 msgstr ""
+
+#: ../../multi_var/Q513.rst:31
+msgid "備考"
+msgstr ""
+
+#: ../../multi_var/Q513.rst:33
+msgid "この質問は、 :doc:`Q511 </variable/Q511>` から分岐した付問です。"
+msgstr "This is an additional question related to  :doc:`Q511 </variable/Q511>` ."
 

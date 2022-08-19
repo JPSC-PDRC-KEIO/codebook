@@ -8,18 +8,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-24 18:42+0900\n"
+"POT-Creation-Date: 2022-07-26 10:35+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../multi_var/Q512.rst:3
 msgid "出産のための条件"
-msgstr ""
+msgstr "Conditions for giving birth"
 
 #: ../../multi_var/Q512.rst:7
 msgid "質問文"
@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q512.rst:8
 msgid "（子どもが欲しい）条件とは何ですか。（〇はいくつでも）"
-msgstr ""
+msgstr "What is (are) the condition(s)? (Pleas select all that apply.)"
 
 #: ../../multi_var/Q512.rst:1
 msgid "項目"
@@ -39,7 +39,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q512.rst:1
 msgid "生活費に余裕ができたら"
-msgstr ""
+msgstr "To be able to pay our living expenses with a child or another child"
 
 #: ../../multi_var/Q512.rst:1
 msgid ":doc:`Q512A </variable/Q512A>`"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../multi_var/Q512.rst:1
 msgid "住居が広くなったら"
-msgstr ""
+msgstr "To have a larger house"
 
 #: ../../multi_var/Q512.rst:1
 msgid ":doc:`Q512B </variable/Q512B>`"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../multi_var/Q512.rst:1
 msgid "仕事を続けられるなら"
-msgstr ""
+msgstr "To be able to continue working after giving birth"
 
 #: ../../multi_var/Q512.rst:1
 msgid ":doc:`Q512C </variable/Q512C>`"
@@ -84,6 +84,14 @@ msgstr ""
 #: ../../multi_var/Q512.rst:1
 msgid ":doc:`Q512F </variable/Q512F>`"
 msgstr ""
+
+#: ../../multi_var/Q512.rst:23
+msgid "備考"
+msgstr ""
+
+#: ../../multi_var/Q512.rst:25
+msgid "この質問は、 :doc:`Q511 </variable/Q511>` から分岐した付問です。"
+msgstr "This is an additional question related to  :doc:`Q511 </variable/Q511>` ."
 
 #~ msgid "変数名"
 #~ msgstr ""
