@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P67X.rst:5
 msgid "前職の選択理由：拘束時間が少ない、労働時間が自由になる"
-msgstr "Reasons for choosing previous position: Less time restraints and overtime work"
+msgstr "Reasons for choosing previous position: less time restraints and overtime work"
 
 #: ../../variable/P67X.rst:9
 msgid "変数名"

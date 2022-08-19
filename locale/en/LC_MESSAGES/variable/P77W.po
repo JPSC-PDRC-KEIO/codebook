@@ -20,8 +20,8 @@ msgstr ""
 "X-Generator: Poedit 3.1\n"
 
 #: ../../variable/P77W.rst:5
-msgid "初職の選択理由：その他(具体的に　　　　　　　　　　　　　　　)"
-msgstr "Reason for choosing first job: Other (Specify)"
+msgid "初職の選択理由：その他"
+msgstr "Reason for choosing first job: other"
 
 #: ../../variable/P77W.rst:9
 msgid "変数名"

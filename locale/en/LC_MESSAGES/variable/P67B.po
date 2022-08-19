@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P67B.rst:5
 msgid "前職の選択理由：休日、休暇が多い"
-msgstr "Reasons for choosing previous job: Many holidays and paid leave"
+msgstr "Reasons for choosing previous job: many holidays and paid leave"
 
 #: ../../variable/P67B.rst:9
 msgid "変数名"

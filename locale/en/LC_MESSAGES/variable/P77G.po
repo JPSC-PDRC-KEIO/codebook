@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P77G.rst:5
 msgid "初職の選択理由：安定している、失業のおそれがない"
-msgstr "Reasons for choosing first job: Stable, low risk of unemployment"
+msgstr "Reasons for choosing first job: stable, low risk of unemployment"
 
 #: ../../variable/P77G.rst:9
 msgid "変数名"

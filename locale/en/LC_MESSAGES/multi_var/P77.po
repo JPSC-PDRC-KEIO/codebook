@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/P77.rst:3
 msgid "初職の選択理由"
-msgstr ""
+msgstr "Reasons for choosing first job"
 
 #: ../../multi_var/P77.rst:7
 msgid "質問文"
@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/P77.rst:8
 msgid "どのような理由で、あなたははじめての職業を選びましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "What were your reasons for choosing your first profession? (Circle as many as pertain to you)"
 
 #: ../../multi_var/P77.rst:1
 msgid "項目"
@@ -39,7 +39,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/P77.rst:1
 msgid "給与がよい"
-msgstr ""
+msgstr "Good salary"
 
 #: ../../multi_var/P77.rst:1
 msgid ":doc:`P77A </variable/P77A>`"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../multi_var/P77.rst:1
 msgid "休日、休暇が多い"
-msgstr ""
+msgstr "Many holidays and paid leaves"
 
 #: ../../multi_var/P77.rst:1
 msgid ":doc:`P77B </variable/P77B>`"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../multi_var/P77.rst:1
 msgid "拘束時間が少ない、労働時間が自由になる"
-msgstr ""
+msgstr "Less time restraints and overtime work"
 
 #: ../../multi_var/P77.rst:1
 msgid ":doc:`P77X </variable/P77X>`"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: ../../multi_var/P77.rst:1
 msgid "家に近い、通勤距離が短い"
-msgstr ""
+msgstr "Close to home, short commute disntance"
 
 #: ../../multi_var/P77.rst:1
 msgid ":doc:`P77E </variable/P77E>`"
@@ -71,7 +71,7 @@ msgstr ""
 
 #: ../../multi_var/P77.rst:1
 msgid "転勤がない、少ない"
-msgstr ""
+msgstr "No or few transfers"
 
 #: ../../multi_var/P77.rst:1
 msgid ":doc:`P77F </variable/P77F>`"
@@ -79,7 +79,7 @@ msgstr ""
 
 #: ../../multi_var/P77.rst:1
 msgid "安定している、失業のおそれがない"
-msgstr ""
+msgstr "Stable and low risk of unemployment"
 
 #: ../../multi_var/P77.rst:1
 msgid ":doc:`P77G </variable/P77G>`"
@@ -87,7 +87,7 @@ msgstr ""
 
 #: ../../multi_var/P77.rst:1
 msgid "将来発展する可能性がある"
-msgstr ""
+msgstr "Potential for future development"
 
 #: ../../multi_var/P77.rst:1
 msgid ":doc:`P77H </variable/P77H>`"
@@ -95,7 +95,7 @@ msgstr ""
 
 #: ../../multi_var/P77.rst:1
 msgid "結婚・出産後も続けやすい"
-msgstr ""
+msgstr "Easy to continue after marriage and childbirth"
 
 #: ../../multi_var/P77.rst:1
 msgid ":doc:`P77Y </variable/P77Y>`"
@@ -103,7 +103,7 @@ msgstr ""
 
 #: ../../multi_var/P77.rst:1
 msgid "技術が身につく"
-msgstr ""
+msgstr "Developing skills"
 
 #: ../../multi_var/P77.rst:1
 msgid ":doc:`P77M </variable/P77M>`"
@@ -111,7 +111,7 @@ msgstr ""
 
 #: ../../multi_var/P77.rst:1
 msgid "能力が生かせる"
-msgstr ""
+msgstr "Utilizing abilities"
 
 #: ../../multi_var/P77.rst:1
 msgid ":doc:`P77N </variable/P77N>`"
@@ -119,7 +119,7 @@ msgstr ""
 
 #: ../../multi_var/P77.rst:1
 msgid "仕事内容に興味がある"
-msgstr ""
+msgstr "Interest in the job"
 
 #: ../../multi_var/P77.rst:1
 msgid ":doc:`P77O </variable/P77O>`"
@@ -127,7 +127,7 @@ msgstr ""
 
 #: ../../multi_var/P77.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/P77.rst:1
 msgid ":doc:`P77W </variable/P77W>`"
@@ -136,10 +136,4 @@ msgstr ""
 #: ../../multi_var/P77.rst:29
 msgid "この項目は、選択肢や変数名が以下のように変化してきました。"
 msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
 

@@ -41,7 +41,7 @@ msgstr "Why did you choose your previous position? (Circle all that pertain to y
 
 #: ../../variable/P67W.rst:21
 msgid "その他"
-msgstr "other"
+msgstr "Other"
 
 #: ../../variable/P67W.rst:27
 msgid "選択肢 / 記入欄"

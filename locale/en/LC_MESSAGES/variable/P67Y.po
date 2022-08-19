@@ -41,7 +41,7 @@ msgstr "Why did you choose your previous position? (Circle all that pertain to y
 
 #: ../../variable/P67Y.rst:21
 msgid "結婚・出産も続けやすい"
-msgstr "easy to continue after marriage and childbirth"
+msgstr "Easy to continue after marriage and childbirth"
 
 #: ../../variable/P67Y.rst:27
 msgid "選択肢 / 記入欄"

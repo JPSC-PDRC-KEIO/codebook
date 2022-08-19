@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P67O.rst:5
 msgid "前職の選択理由：仕事内容に興味がある"
-msgstr "Reasons for choosing previous position: Interest in the job"
+msgstr "Reasons for choosing previous position: interest in the job"
 
 #: ../../variable/P67O.rst:9
 msgid "変数名"

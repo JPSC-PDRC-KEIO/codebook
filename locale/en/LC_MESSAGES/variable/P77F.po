@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P77F.rst:5
 msgid "初職の選択理由：転勤がない、少ない"
-msgstr "Reasons for choosing first job: No or few transfers"
+msgstr "Reasons for choosing first job: no or few transfers"
 
 #: ../../variable/P77F.rst:9
 msgid "変数名"
