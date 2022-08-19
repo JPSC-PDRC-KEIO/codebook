@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"POT-Creation-Date: 2022-07-26 10:35+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -77,131 +77,135 @@ msgstr ""
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q214.rst:70
+#: ../../variable/Q214.rst:64
+msgid "この質問は、 :doc:`Q213 </variable/Q213>` から分岐した付問です。"
+msgstr "This is an additional question related to  :doc:`Q213 </variable/Q213>` "
+
+#: ../../variable/Q214.rst:71
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q214.rst:75
+#: ../../variable/Q214.rst:76
 msgid "p2_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:77
+#: ../../variable/Q214.rst:78
 msgid "p3_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:79
+#: ../../variable/Q214.rst:80
 msgid "p4_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:81
+#: ../../variable/Q214.rst:82
 msgid "p5a_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:83
+#: ../../variable/Q214.rst:84
 msgid "p5b_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:85
+#: ../../variable/Q214.rst:86
 msgid "p6_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:87
+#: ../../variable/Q214.rst:88
 msgid "p7_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:89
+#: ../../variable/Q214.rst:90
 msgid "p8_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:91
+#: ../../variable/Q214.rst:92
 msgid "p9_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:93
+#: ../../variable/Q214.rst:94
 msgid "p10_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:95
+#: ../../variable/Q214.rst:96
 msgid "p11ab_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:97
+#: ../../variable/Q214.rst:98
 msgid "p11c_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:99
+#: ../../variable/Q214.rst:100
 msgid "p12_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:101
+#: ../../variable/Q214.rst:102
 msgid "p13_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:103
+#: ../../variable/Q214.rst:104
 msgid "p14_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:105
+#: ../../variable/Q214.rst:106
 msgid "p15_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:107
+#: ../../variable/Q214.rst:108
 msgid "p16abc_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:109
+#: ../../variable/Q214.rst:110
 msgid "p16d_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:111
+#: ../../variable/Q214.rst:112
 msgid "p17_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:113
+#: ../../variable/Q214.rst:114
 msgid "p18_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:115
+#: ../../variable/Q214.rst:116
 msgid "p19_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:117
+#: ../../variable/Q214.rst:118
 msgid "p20_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:119
+#: ../../variable/Q214.rst:120
 msgid "p21abcd_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:121
+#: ../../variable/Q214.rst:122
 msgid "p21e_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:123
+#: ../../variable/Q214.rst:124
 msgid "p22_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:125
+#: ../../variable/Q214.rst:126
 msgid "p23_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:127
+#: ../../variable/Q214.rst:128
 msgid "p24_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:129
+#: ../../variable/Q214.rst:130
 msgid "p25_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:131
+#: ../../variable/Q214.rst:132
 msgid "p26_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:133
+#: ../../variable/Q214.rst:134
 msgid "p27_1"
 msgstr ""
 
-#: ../../variable/Q214.rst:135
+#: ../../variable/Q214.rst:136
 msgid "p28_1"
 msgstr ""
 
