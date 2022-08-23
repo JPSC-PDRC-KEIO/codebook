@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2022-02-15 14:39+0900\n"
+"PO-Revision-Date: 2022-07-22 11:56+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/Q141B.rst:5
 msgid "家族に起こった出来事による生活変化への対処方法：資産を売却した"
-msgstr "Coping with lifestyle changes resulting from events that happened to family members: Sold assets."
+msgstr "Coping with lifestyle changes resulting from events that happened to family members: sold assets."
 
 #: ../../variable/Q141B.rst:9
 msgid "変数名"

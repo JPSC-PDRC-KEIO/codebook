@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-08-23 10:49+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/P148C.rst:5
 msgid "配偶者のイメージ：第3位"
-msgstr ""
+msgstr "Image of spouse: 3rd place"
 
 #: ../../variable/P148C.rst:9
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/P148C.rst:18
 msgid "あなたにとって、ご主人はどのような存在ですか。ご主人のイメージに最も近いものから順に３つ（3位まで）を選んでください。（〇はそれぞれ１つずつ）"
-msgstr ""
+msgstr "What is your husband like to you? Please select the three ( up to the third place) that best describe your image of your husband. (Circle one for each )"
 
 #: ../../variable/P148C.rst:24
 msgid "選択肢 / 記入欄"
@@ -43,63 +45,63 @@ msgstr "Select / Fill in"
 
 #: ../../variable/P148C.rst:27
 msgid "親しい友人"
-msgstr ""
+msgstr "Close friend"
 
 #: ../../variable/P148C.rst:29
 msgid "子育てや人生に立ち向かう同志"
-msgstr ""
+msgstr "Comrades confronting parenting and life together"
 
 #: ../../variable/P148C.rst:31
 msgid "一心同体の人"
-msgstr ""
+msgstr "Being one in body and soul"
 
 #: ../../variable/P148C.rst:33
 msgid "趣味を共有する人"
-msgstr ""
+msgstr "A man who shares his hobbies"
 
 #: ../../variable/P148C.rst:35
 msgid "経済的に頼れる人"
-msgstr ""
+msgstr "Financially dependable"
 
 #: ../../variable/P148C.rst:37
 msgid "父親のように保護してくれる人"
-msgstr ""
+msgstr "Protects you like a father"
 
 #: ../../variable/P148C.rst:39
 msgid "心の支えになる人"
-msgstr ""
+msgstr "Emotional support"
 
 #: ../../variable/P148C.rst:41
 msgid "性的に魅力のある人"
-msgstr ""
+msgstr "Sexually attractive"
 
 #: ../../variable/P148C.rst:43
 msgid "子どものように甘えてくれる人"
-msgstr ""
+msgstr "Spoils you like a child"
 
 #: ../../variable/P148C.rst:45
 msgid "空気のような存在"
-msgstr ""
+msgstr "Like air"
 
 #: ../../variable/P148C.rst:47
 msgid "可愛い人"
-msgstr ""
+msgstr "Lovely person"
 
 #: ../../variable/P148C.rst:49
 msgid "世話がやける存在"
-msgstr ""
+msgstr "Takes care of you"
 
 #: ../../variable/P148C.rst:51
 msgid "自由を束縛する人"
-msgstr ""
+msgstr "Constrains freedom"
 
 #: ../../variable/P148C.rst:53
 msgid "経済的に頼りない人"
-msgstr ""
+msgstr "Economically undependable"
 
 #: ../../variable/P148C.rst:55
 msgid "そりがあわない"
-msgstr ""
+msgstr "Unable to cooperate"
 
 #: ../../variable/P148C.rst:62
 msgid "桁あふれコード"
@@ -134,4 +136,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

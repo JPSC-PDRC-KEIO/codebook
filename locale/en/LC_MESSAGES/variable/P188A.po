@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/P188A.rst:5
 msgid "前職の評価：給与がよい"
-msgstr ""
+msgstr "Evaluation of previous job: good salary"
 
 #: ../../variable/P188A.rst:9
 msgid "変数名"
@@ -35,11 +35,11 @@ msgstr "Question"
 
 #: ../../variable/P188A.rst:18
 msgid "あなたの前職の会社やお仕事について、以下のことはどれくらいあてはまりますか。（それぞれ〇は１つずつ）"
-msgstr ""
+msgstr "How well do the following apply to your first company or job? (Circle one for each.)"
 
 #: ../../variable/P188A.rst:21
 msgid "給与がよい"
-msgstr ""
+msgstr "Good salary"
 
 #: ../../variable/P188A.rst:27
 msgid "選択肢 / 記入欄"
@@ -47,23 +47,23 @@ msgstr "Select / Fill in"
 
 #: ../../variable/P188A.rst:30
 msgid "あてはまる"
-msgstr ""
+msgstr "Suitable"
 
 #: ../../variable/P188A.rst:32
 msgid "まああてはまる"
-msgstr ""
+msgstr "Somewhat applicable"
 
 #: ../../variable/P188A.rst:34
 msgid "あまりあてはまらない"
-msgstr ""
+msgstr "Not very suitable"
 
 #: ../../variable/P188A.rst:36
 msgid "ほとんどあてはまらない"
-msgstr ""
+msgstr "Barely suitable"
 
 #: ../../variable/P188A.rst:38
 msgid "わからない"
-msgstr ""
+msgstr "I don’t know."
 
 #: ../../variable/P188A.rst:45
 msgid "桁あふれコード"

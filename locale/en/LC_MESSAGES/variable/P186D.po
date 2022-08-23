@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-08-23 10:56+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/P186D.rst:5
 msgid "初職の評価：通勤時間が短い"
-msgstr ""
+msgstr "Evaluation of first job: short commute time"
 
 #: ../../variable/P186D.rst:9
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/P186D.rst:18
 msgid "あなたのはじめての会社やお仕事について、以下のことはどれくらいあてはまりますか。（それぞれ〇は１つずつ）"
-msgstr ""
+msgstr "How well do the following apply to your first company or job? (Circle one for each.)"
 
 #: ../../variable/P186D.rst:21
 msgid "通勤時間が短い"
-msgstr ""
+msgstr "Short commute time"
 
 #: ../../variable/P186D.rst:27
 msgid "選択肢 / 記入欄"
@@ -47,23 +49,23 @@ msgstr "Select / Fill in"
 
 #: ../../variable/P186D.rst:30
 msgid "あてはまる"
-msgstr ""
+msgstr "Suitable"
 
 #: ../../variable/P186D.rst:32
 msgid "まああてはまる"
-msgstr ""
+msgstr "Somewhat suitable"
 
 #: ../../variable/P186D.rst:34
 msgid "あまりあてはまらない"
-msgstr ""
+msgstr "Not very suitable"
 
 #: ../../variable/P186D.rst:36
 msgid "ほとんどあてはまらない"
-msgstr ""
+msgstr "Barely suitable"
 
 #: ../../variable/P186D.rst:38
 msgid "わからない"
-msgstr ""
+msgstr "Don’t know"
 
 #: ../../variable/P186D.rst:45
 msgid "桁あふれコード"
@@ -79,7 +81,7 @@ msgstr "No response code"
 
 #: ../../variable/P186D.rst:58
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../variable/P186D.rst:63
 msgid "備考"
@@ -91,11 +93,10 @@ msgstr "Data files (csv)"
 
 #: ../../variable/P186D.rst:74
 msgid "p21e_1"
-msgstr ""
+msgstr "p21e_1"
 
 #~ msgid "変数名: P186D"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

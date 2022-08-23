@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-08-23 10:16+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/Q80A.rst:6
 msgid "育児休業制度・育児時間の利用の有無"
-msgstr ""
+msgstr "Availability of \"childcare leave system\" and \"childcare time\""
 
 #: ../../variable/Q80A.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q80A.rst:21
 msgid "あなたは、育児休業制度や育児時間を利用しましたか（利用したか）。"
-msgstr ""
+msgstr "Have you used \"childcare leave system\" and \"childcare time\" ?"
 
 #: ../../variable/Q80A.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,15 +45,15 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q80A.rst:30
 msgid "利用した"
-msgstr ""
+msgstr "Yes, I have."
 
 #: ../../variable/Q80A.rst:31
 msgid "利用しない"
-msgstr ""
+msgstr "No, I haven't"
 
 #: ../../variable/Q80A.rst:32
 msgid "そうした制度がない"
-msgstr ""
+msgstr "There is no such system."
 
 #: ../../variable/Q80A.rst:40
 msgid "桁あふれコード"
@@ -67,7 +69,7 @@ msgstr "No response code"
 
 #: ../../variable/Q80A.rst:55
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../variable/Q80A.rst:61
 msgid "備考"
@@ -78,108 +80,134 @@ msgid "収録シート"
 msgstr "Data files (csv)"
 
 #: ../../variable/Q80A.rst:74
+#, fuzzy
 msgid "p2_1"
-msgstr ""
+msgstr "p2_1"
 
 #: ../../variable/Q80A.rst:76
+#, fuzzy
 msgid "p3_1"
-msgstr ""
+msgstr "p3_1"
 
 #: ../../variable/Q80A.rst:78
+#, fuzzy
 msgid "p4_1"
-msgstr ""
+msgstr "p4_1"
 
 #: ../../variable/Q80A.rst:80
+#, fuzzy
 msgid "p5a_1"
-msgstr ""
+msgstr "p5a_1"
 
 #: ../../variable/Q80A.rst:82
+#, fuzzy
 msgid "p6_1"
-msgstr ""
+msgstr "p6_1"
 
 #: ../../variable/Q80A.rst:84
+#, fuzzy
 msgid "p7_1"
-msgstr ""
+msgstr "p7_1"
 
 #: ../../variable/Q80A.rst:86
+#, fuzzy
 msgid "p8_1"
-msgstr ""
+msgstr "p8_1"
 
 #: ../../variable/Q80A.rst:88
+#, fuzzy
 msgid "p9_1"
-msgstr ""
+msgstr "p9_1"
 
 #: ../../variable/Q80A.rst:90
+#, fuzzy
 msgid "p10_1"
-msgstr ""
+msgstr "p10_1"
 
 #: ../../variable/Q80A.rst:92
+#, fuzzy
 msgid "p11ab_1"
-msgstr ""
+msgstr "p11ab_1"
 
 #: ../../variable/Q80A.rst:94
+#, fuzzy
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: ../../variable/Q80A.rst:96
+#, fuzzy
 msgid "p13_1"
-msgstr ""
+msgstr "p13_1"
 
 #: ../../variable/Q80A.rst:98
+#, fuzzy
 msgid "p14_1"
-msgstr ""
+msgstr "p14_1"
 
 #: ../../variable/Q80A.rst:100
+#, fuzzy
 msgid "p15_1"
-msgstr ""
+msgstr "p15_1"
 
 #: ../../variable/Q80A.rst:102
+#, fuzzy
 msgid "p16abc_1"
-msgstr ""
+msgstr "p16abc_1"
 
 #: ../../variable/Q80A.rst:104
+#, fuzzy
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: ../../variable/Q80A.rst:106
+#, fuzzy
 msgid "p18_1"
-msgstr ""
+msgstr "p18_1"
 
 #: ../../variable/Q80A.rst:108
+#, fuzzy
 msgid "p19_1"
-msgstr ""
+msgstr "p19_1"
 
 #: ../../variable/Q80A.rst:110
+#, fuzzy
 msgid "p20_1"
-msgstr ""
+msgstr "p20_1"
 
 #: ../../variable/Q80A.rst:112
+#, fuzzy
 msgid "p21abcd_1"
-msgstr ""
+msgstr "p21abcd_1"
 
 #: ../../variable/Q80A.rst:114
+#, fuzzy
 msgid "p22_1"
-msgstr ""
+msgstr "p22_1"
 
 #: ../../variable/Q80A.rst:116
+#, fuzzy
 msgid "p23_1"
-msgstr ""
+msgstr "p23_1"
 
 #: ../../variable/Q80A.rst:118
+#, fuzzy
 msgid "p24_1"
-msgstr ""
+msgstr "p24_1"
 
 #: ../../variable/Q80A.rst:120
+#, fuzzy
 msgid "p25_1"
-msgstr ""
+msgstr "p25_1"
 
 #: ../../variable/Q80A.rst:122
+#, fuzzy
 msgid "p26_1"
-msgstr ""
+msgstr "p26_1"
 
 #: ../../variable/Q80A.rst:124
+#, fuzzy
 msgid "p27_1"
-msgstr ""
+msgstr "p27_1"
 
 #: ../../variable/Q80A.rst:126
 msgid "p28_1"
@@ -190,4 +218,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
