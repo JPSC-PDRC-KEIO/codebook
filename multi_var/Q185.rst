@@ -22,7 +22,7 @@
    育児・子育てのため,:doc:`Q185AA </variable/Q185AA>`
    自分が病気になったから,:doc:`Q185L </variable/Q185L>`
    家族の介護のため,:doc:`Q185M </variable/Q185M>`
-   良い条件の仕事が見つかったら・独立したから,:doc:`Q185O </variable/Q185O>`
+   良い条件の仕事が見つかったから・独立したから,:doc:`Q185O </variable/Q185O>`
    人間関係が気まずくなったから,:doc:`Q185X </variable/Q185X>`
    解雇された,:doc:`Q185R </variable/Q185R>`
    大学や専門学校などでの勉強や留学準備のため,:doc:`Q185S </variable/Q185S>`

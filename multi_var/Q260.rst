@@ -23,7 +23,7 @@
    育児・子育てのため,:doc:`Q260AA </variable/Q260AA>`
    自分が病気になったから,:doc:`Q260I </variable/Q260I>`
    家族の介護のため,:doc:`Q260J </variable/Q260J>`
-   良い条件の仕事が見つかったら・独立したから,:doc:`Q260L </variable/Q260L>`
+   良い条件の仕事が見つかったから・独立したから,:doc:`Q260L </variable/Q260L>`
    人間関係が気まずくなったから,:doc:`Q260U </variable/Q260U>`
    解雇された,:doc:`Q260V </variable/Q260V>`
    大学や専門学校などでの勉強や留学準備のため,:doc:`Q260O </variable/Q260O>`

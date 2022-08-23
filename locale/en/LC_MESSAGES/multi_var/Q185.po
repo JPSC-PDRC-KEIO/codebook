@@ -111,14 +111,13 @@ msgstr ""
 
 #: ../../multi_var/Q185.rst:1
 msgid "家族の介護のため"
-msgstr ""
 
 #: ../../multi_var/Q185.rst:1
 msgid ":doc:`Q185M </variable/Q185M>`"
 msgstr ""
 
 #: ../../multi_var/Q185.rst:1
-msgid "良い条件の仕事が見つかったら・独立したから"
+msgid "良い条件の仕事が見つかったから・独立したから"
 msgstr ""
 
 #: ../../multi_var/Q185.rst:1
@@ -168,10 +167,3 @@ msgstr ""
 #: ../../multi_var/Q185.rst:33
 msgid "現在有職で、前回調査時からの1年間に離職があった人への質問です。この項目は、選択肢や変数名が以下のような変化をたどってきました。"
 msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
-

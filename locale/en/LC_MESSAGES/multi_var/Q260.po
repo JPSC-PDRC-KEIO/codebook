@@ -118,7 +118,7 @@ msgid ":doc:`Q260J </variable/Q260J>`"
 msgstr ""
 
 #: ../../multi_var/Q260.rst:1
-msgid "良い条件の仕事が見つかったら・独立したから"
+msgid "良い条件の仕事が見つかったから・独立したから"
 msgstr ""
 
 #: ../../multi_var/Q260.rst:1

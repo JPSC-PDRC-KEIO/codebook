@@ -89,7 +89,7 @@ msgid "宿泊業、飲食サービス業"
 msgstr "Accommodations and food services"
 
 #: ../../variable/P185.rst:41
-msgid "教育、学生支援業"
+msgid "教育、学習支援業"
 msgstr "Education and Student Support"
 
 #: ../../variable/P185.rst:42
