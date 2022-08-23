@@ -41,7 +41,7 @@ msgstr "What were your reasons for leaving your last job? (Circle all that perta
 
 #: ../../variable/P68K.rst:21
 msgid "良い条件の仕事が見つかったから・独立したから"
-msgstr "found a job with better conditions/became independent"
+msgstr "Found a job with better conditions/became independent"
 
 #: ../../variable/P68K.rst:27
 msgid "選択肢 / 記入欄"

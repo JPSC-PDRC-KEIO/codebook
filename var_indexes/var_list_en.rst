@@ -168,21 +168,21 @@ List of variables
 * `P66B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P66B.html>`_ : Duration of previous employment: Starting month
 * `P66C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P66C.html>`_ : Engaged in previous job: End year
 * `P66D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P66D.html>`_ : Duration of previous employment: End year
-* `P67A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67A.html>`_ : Reasons for choosing previous job: Good salary
-* `P67B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67B.html>`_ : Reasons for choosing previous job: Many holidays and paid leave
+* `P67A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67A.html>`_ : Reasons for choosing previous job: good salary
+* `P67B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67B.html>`_ : Reasons for choosing previous job: many holidays and paid leave
 * `P67C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67C.html>`_ : Reasons for choosing previous position: less time restraints and overtime work
 * `P67D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67D.html>`_ : Reason for choosing previous position: flexible working hours
 * `P67E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67E.html>`_ : Reasons for choosing previous position: close to home, short commute distance
-* `P67F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67F.html>`_ : Reasons for choosing previous position: No or few transfers
+* `P67F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67F.html>`_ : Reasons for choosing previous position: no or few transfers
 * `P67G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67G.html>`_ : Reasons for choosing previous position: stable, low risk of unemployment
 * `P67H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67H.html>`_ : Reasons for choosing previous position: Potential for future development
 * `P67I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67I.html>`_ : Reasons for choosing previous position: well known company
 * `P67J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67J.html>`_ : Reason for choosing current position: not restricted by organization
 * `P67K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67K.html>`_ : Reason for choosing first position: easy to continue after marriage
 * `P67L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67L.html>`_ : Reason for choosing previous position: easy to continue after childbirth
-* `P67M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67M.html>`_ : Reasons for choosing previous position: Developing skills
-* `P67N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67N.html>`_ : Reason for choosing previous position: Utilizing abilities
-* `P67O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67O.html>`_ : Reasons for choosing previous position: Interest in the job
+* `P67M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67M.html>`_ : Reasons for choosing previous position: developing skills
+* `P67N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67N.html>`_ : Reason for choosing previous position: utilizing abilities
+* `P67O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67O.html>`_ : Reasons for choosing previous position: interest in the job
 * `P67P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67P.html>`_ : Reason for choosing current position: Management position
 * `P67Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67Q.html>`_ : Reason for choosing previous position: opportunities to work abroad
 * `P67R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67R.html>`_ : Reason for choosing previous position: finding a marriage partner
@@ -191,12 +191,12 @@ List of variables
 * `P67U     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67U.html>`_ : Reason for selecting previous position: assigned by the company
 * `P67V     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67V.html>`_ : Reason for selecting previous position: family business
 * `P67W     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67W.html>`_ : Reason for selecting previous position: other
-* `P67X     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67X.html>`_ : Reasons for choosing previous position: Less time restraints and overtime work
+* `P67X     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67X.html>`_ : Reasons for choosing previous position: less time restraints and overtime work
 * `P67Y     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P67Y.html>`_ : Reasons for choosing previous position: easy to continue after marriage and childbirth
-* `P68A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68A.html>`_ : Reason for leaving previous job: Workforce reduction, company dissolution, or bankruptcy
-* `P68AA    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68AA.html>`_ : Reason for leaving previous job: Pregnancy and childbirth
-* `P68AB    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68AB.html>`_ : Reason for leaving previous job: Childcare/child rearing
-* `P68B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68B.html>`_ : Reason for leaving previous job: Temporary/unstable job
+* `P68A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68A.html>`_ : Reason for leaving previous job: workforce reduction, company dissolution, or bankruptcy
+* `P68AA    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68AA.html>`_ : Reason for leaving previous job: pregnancy and childbirth
+* `P68AB    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68AB.html>`_ : Reason for leaving previous job: childcare/child rearing
+* `P68B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68B.html>`_ : Reason for leaving previous job: temporary/unstable job
 * `P68C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68C.html>`_ : Reason for leaving previous job: Low income
 * `P68D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68D.html>`_ : Reason for leaving previous job: Poor working conditions
 * `P68E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68E.html>`_ : Reason for leaving previous job: job was not suitable for me.
@@ -206,8 +206,8 @@ List of variables
 * `P68I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68I.html>`_ : Reason for leaving previous job: childbirth/child care
 * `P68J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68J.html>`_ : Reason for leaving previous job: Job did not allow you to utilize your skills.
 * `P68K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68K.html>`_ : Reason for leaving previous job: found a job with better conditions/became independent
-* `P68L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68L.html>`_ : Reason for leaving previous job: Relationships became awkward.
-* `P68M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68M.html>`_ : Reason for leaving previous job: Other
+* `P68L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68L.html>`_ : Reason for leaving previous job: relationships became awkward.
+* `P68M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68M.html>`_ : Reason for leaving previous job: other
 * `P68N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68N.html>`_ : Reason for leaving previous job: felt monotonous and boring
 * `P68O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68O.html>`_ : Reason for leaving previous job: to have children
 * `P68P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68P.html>`_ : Reason for leaving previous job: Concern for my health due to pregnancy
@@ -216,11 +216,11 @@ List of variables
 * `P68S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68S.html>`_ : Reason for leaving preivous job: Relationship with co-workers was not going well.
 * `P68T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68T.html>`_ : Reason for leaving previous job: laid off
 * `P68U     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68U.html>`_ : Reason for leaving previous job: to study at a university or vocational school or to prepare for study abroad
-* `P68V     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68V.html>`_ : Reason for leaving previous job: Poor working conditions (income, hours)
-* `P68W     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68W.html>`_ : Reason for leaving previous job: Dissatisfaction with job description
+* `P68V     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68V.html>`_ : Reason for leaving previous job: poor working conditions (income, hours)
+* `P68W     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68W.html>`_ : Reason for leaving previous job: dissatisfaction with job description
 * `P68X     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68X.html>`_ : Reason for leaving previous job: pregnancy, childbirth, and childcare
 * `P68Y     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68Y.html>`_ : Reason for leaving previous job: laid off
-* `P68Z     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68Z.html>`_ : Reason for leaving previous job: Retirement or expiration of employment contract
+* `P68Z     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68Z.html>`_ : Reason for leaving previous job: retirement or expiration of employment contract
 * `P70      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P70.html>`_ : Is your first job your last job (unemployed)?
 * `P71      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P71.html>`_ : First occupation [Wave1]
 * `P72      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P72.html>`_ : Number of employees in first place of employment
@@ -231,20 +231,20 @@ List of variables
 * `P76A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P76A.html>`_ : Duration of engagement in first job End Year
 * `P76B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P76B.html>`_ : Duration of engagement in first job: End year
 * `P77A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77A.html>`_ : Reason for choosing first job: good salary
-* `P77B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77B.html>`_ : Reasons for choosing first job: Many holidays and paid leaves
+* `P77B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77B.html>`_ : Reasons for choosing first job: many holidays and paid leaves
 * `P77C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77C.html>`_ : Reason for leaving first job: less time restraints and overtime work
 * `P77D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77D.html>`_ : Reason for choosing first position: flexible working hours
 * `P77E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77E.html>`_ : Reasons for choosing first job: close to home, short commute distance
-* `P77F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77F.html>`_ : Reasons for choosing first job: No or few transfers
-* `P77G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77G.html>`_ : Reasons for choosing first job: Stable, low risk of unemployment
+* `P77F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77F.html>`_ : Reasons for choosing first job: no or few transfers
+* `P77G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77G.html>`_ : Reasons for choosing first job: stable, low risk of unemployment
 * `P77H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77H.html>`_ : Reasons for choosing first job: potential for future development
 * `P77I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77I.html>`_ : Reasons for choosing first position: well known company
 * `P77J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77J.html>`_ : Reason for choosing first position: not restricted by organization
 * `P77K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77K.html>`_ : Reason for choosing first position: easy to continue after marriage
 * `P77L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77L.html>`_ : Reason for choosing first position: easy to continue after marriage
-* `P77M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77M.html>`_ : Reasons for choosing first job: Developing skills
+* `P77M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77M.html>`_ : Reasons for choosing first job: developing skills
 * `P77N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77N.html>`_ : Reason for choosing first job: utilizing abilities
-* `P77O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77O.html>`_ : Reasons for choosing first job: Interest in the job
+* `P77O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77O.html>`_ : Reasons for choosing first job: interest in the job
 * `P77P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77P.html>`_ : Reason for choosing first position: management position
 * `P77Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77Q.html>`_ : Reason for choosing first position: opportunities to work abroad
 * `P77R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77R.html>`_ : Reason for choosing first position: finding a marriage partner
@@ -252,8 +252,8 @@ List of variables
 * `P77T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77T.html>`_ : Reason for choosing first position: a family member’s recommendation
 * `P77U     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77U.html>`_ : Reason for selecting first position: assigned by the company
 * `P77V     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77V.html>`_ : Reason for selecting first position: family business
-* `P77W     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77W.html>`_ : Reason for choosing first job: Other (Specify)
-* `P77X     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77X.html>`_ : Reasons for choosing first job: Less time restraints and overtime work
+* `P77W     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77W.html>`_ : Reasons for choosing first job: other
+* `P77X     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77X.html>`_ : Reasons for choosing first job: less time restraints and overtime work
 * `P77Y     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77Y.html>`_ : Reasons for choosing first job: easy to continue after marriage and childbirth
 * `P78A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78A.html>`_ : Reason for leaving first job: Workforce reduction, company dissolution, or bankruptcy
 * `P78AA    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P78AA.html>`_ : Reason for leaving first job: pregnancy and childbirth
@@ -479,44 +479,44 @@ List of variables
 * `P139Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P139Q.html>`_ : Major events experienced: death–> no particular change
 * `P140A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P140A.html>`_ : Marriage time with present spouse: Year
 * `P140B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P140B.html>`_ : Marriage time with present spouse: Month
-* `P148A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P148A.html>`_ : 配偶者のイメージ：第1位
-* `P148B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P148B.html>`_ : 配偶者のイメージ：第2位
-* `P148C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P148C.html>`_ : 配偶者のイメージ：第3位
+* `P148A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P148A.html>`_ : Image of spouse: 1st place
+* `P148B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P148B.html>`_ : Image of spouse: 2nd place
+* `P148C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P148C.html>`_ : Image of spouse: 3rd place
 * `P159     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P159.html>`_ : 前職離職時の失業給付受給の有無
 * `P160     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P160.html>`_ : 前職離職時の失業給付受給月数
-* `P183     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P183.html>`_ : これまでの勤務先数〔第5回～〕
+* `P183     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P183.html>`_ : Number of previous employers [Wave5～]
 * `P185     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P185.html>`_ : Industry of previous job [Wave21]
-* `P186A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186A.html>`_ : 初職の評価：給与がよい
-* `P186B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186B.html>`_ : 初職の評価：労働時間が長い
-* `P186C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186C.html>`_ : 初職の評価：休日・休暇をとりやすい
-* `P186D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186D.html>`_ : 初職の評価：通勤時間が短い
-* `P186E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186E.html>`_ : 初職の評価：転勤がない・少ない
-* `P186F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186F.html>`_ : 初職の評価：安定している・失業の恐れのない
-* `P186G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186G.html>`_ : 初職の評価：将来、発展する可能性がある
-* `P186H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186H.html>`_ : 初職の評価：結婚・出産後も続けやすい
-* `P186I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186I.html>`_ : 初職の評価：技術が身に付く
-* `P186J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186J.html>`_ : 初職の評価：能力が生かせる
-* `P186K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186K.html>`_ : 初職の評価：仕事内容に興味がある
-* `P186L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186L.html>`_ : 初職の評価：人間関係が良好である
-* `P186M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186M.html>`_ : 初職の評価：昇進・地位向上の機会がある
+* `P186A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186A.html>`_ : First job evaluation: good salary
+* `P186B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186B.html>`_ : Evaluation of first job: long working hours
+* `P186C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186C.html>`_ : Evaluation of first job: easy to take leave/vacation
+* `P186D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186D.html>`_ : Evaluation of first job: short commute time
+* `P186E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186E.html>`_ : Evaluation of first job: no or few transfers
+* `P186F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186F.html>`_ : Evaluation of first job: stable, low risk of unemployment
+* `P186G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186G.html>`_ : Evaluation of first job: potential for future development
+* `P186H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186H.html>`_ : Evaluation of first job: easy to continue after marriage and childbirth
+* `P186I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186I.html>`_ : Evaluation of first job: developing skills
+* `P186J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186J.html>`_ : Evaluation of first job: utilizing abilities
+* `P186K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186K.html>`_ : Evaluation of first job: interest in the job
+* `P186L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186L.html>`_ : Evaluation of first job: good relationships
+* `P186M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P186M.html>`_ : Evaluation of first job: opportunities for promotion and advancement
 * `P187     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P187.html>`_ : Industry of first job [Wave21]
-* `P188A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188A.html>`_ : 前職の評価：給与がよい
-* `P188B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188B.html>`_ : 前職の評価：労働時間が長い
-* `P188C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188C.html>`_ : 前職の評価：休日・休暇をとりやすい
-* `P188D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188D.html>`_ : 前職の評価：通勤時間が短い
-* `P188E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188E.html>`_ : 前職の評価：転勤がない・少ない
-* `P188F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188F.html>`_ : 前職の評価：安定している・失業の恐れのない
-* `P188G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188G.html>`_ : 前職の評価：将来、発展する可能性がある
-* `P188H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188H.html>`_ : 前職の評価：結婚・出産後も続けやすい
-* `P188I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188I.html>`_ : 前職の評価：技術が身に付く
-* `P188J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188J.html>`_ : 前職の評価：能力が生かせる
-* `P188K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188K.html>`_ : 前職の評価：仕事内容に興味がある
-* `P188L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188L.html>`_ : 前職の評価：人間関係が良好である
-* `P188M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188M.html>`_ : 前職の評価：昇進・地位向上の機会がある
+* `P188A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188A.html>`_ : Evaluation of previous job: good salary
+* `P188B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188B.html>`_ : Evaluation of previous job: long working hours
+* `P188C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188C.html>`_ : Evaluation of previous job: easy to take leave/vacations
+* `P188D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188D.html>`_ : Evaluation of previous job: short commute time
+* `P188E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188E.html>`_ : Evaluation of previous jobs: no or few transfers
+* `P188F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188F.html>`_ : Evaluation of previous job: stable, low risk of unemployment
+* `P188G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188G.html>`_ : Evaluation of previous job: potential for future development
+* `P188H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188H.html>`_ : Evaluation of previous job: easy to continue after marriage and childbirth
+* `P188I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188I.html>`_ : Evaluation of previous job: developing skills
+* `P188J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188J.html>`_ : Evaluation of previous job: utilizing abilities
+* `P188K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188K.html>`_ : Evaluation of previous job: interest in the job
+* `P188L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188L.html>`_ : Evaluation of previous job: good relationships.
+* `P188M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P188M.html>`_ : Evaluation of previous job: opportunities for promotion and advancement.
 * `Q5       <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q5.html>`_ : Number of other family members in the household
 * `Q8       <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q8.html>`_ : Age
 * `Q11      <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q11.html>`_ : Family 2: Relationship
-* `Q12      <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q12.html>`_ : Family-member2: Sex
+* `Q12      <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q12.html>`_ : Family-member2: gender
 * `Q13      <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q13.html>`_ : Family 2: Age
 * `Q14      <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q14.html>`_ : Family-member2: Student or Worker status [1st-9th waves]
 * `Q14R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q14R.html>`_ : Family2: Student or worker status [10th wave]
@@ -592,21 +592,21 @@ List of variables
 * `Q67L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q67L.html>`_ : Changes in household composition: Moved into parents’ house
 * `Q67M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q67M.html>`_ : Changes in household composition: No change
 * `Q68      <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q68.html>`_ : Birth order
-* `Q74A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q74A.html>`_ : 出産費用：病院代
+* `Q74A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q74A.html>`_ : Delivery costs: hospital charges
 * `Q74B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q74B.html>`_ : 出産費用：育児用品の購入費
 * `Q74C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q74C.html>`_ : 出産費用：産後の手伝いお礼
-* `Q74D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q74D.html>`_ : 出産費用：その他
-* `Q75      <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q75.html>`_ : 出産費用のまかない方（有配偶）
-* `Q76      <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q76.html>`_ : 出産費用のまかない方（無配偶）
-* `Q77      <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q77.html>`_ : 児童手当受給の有無〔第2回～第10回調査〕
-* `Q78      <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q78.html>`_ : 産前産後の就労
-* `Q79A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q79A.html>`_ : 産前産後休業の取得の有無
-* `Q79B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q79B.html>`_ : 産前休業の取得日数
-* `Q79C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q79C.html>`_ : 産後休業の取得日数
-* `Q80A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q80A.html>`_ : 育児休業制度・育児時間の利用の有無
-* `Q80B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q80B.html>`_ : 育児休業制度・育児時間の利用形態
-* `Q80C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q80C.html>`_ : 育児休業の利用月数
-* `Q80D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q80D.html>`_ : 育児時間の利用時間数
+* `Q74D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q74D.html>`_ : Maternity expenses: other
+* `Q75      <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q75.html>`_ : Maternity coverage (married)
+* `Q76      <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q76.html>`_ : Maternity coverage (unmarried)
+* `Q77      <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q77.html>`_ : Receipt or non-receipt of child allowance [Wave 2 to Wave 10 Surveys]
+* `Q78      <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q78.html>`_ : Prenatal and postpartum employment
+* `Q79A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q79A.html>`_ : Availability of maternity
+* `Q79B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q79B.html>`_ : Number of days of maternity leave taken before childbirth
+* `Q79C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q79C.html>`_ : Number of days of maternity leave taken after childbirth
+* `Q80A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q80A.html>`_ : Availability of “childcare leave system” and “childcare time”
+* `Q80B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q80B.html>`_ : Use of ”childcare leave system” and ”childcare time”
+* `Q80C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q80C.html>`_ : Number of months of childcare leave used
+* `Q80D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q80D.html>`_ : Number of hours of “childcare time” used
 * `Q84A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q84A.html>`_ : Family member’s death：Your father (married)
 * `Q84B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q84B.html>`_ : Family member’s death：Your mother (married)
 * `Q84C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q84C.html>`_ : Family member’s death：Your spouse’s father (married)
@@ -744,12 +744,12 @@ List of variables
 * `Q140F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q140F.html>`_ : Lifestyle changes due to events that happened to family members: Divorced or separated.
 * `Q140G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q140G.html>`_ : Lifestyle changes due to events that happened to family members: Other
 * `Q140H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q140H.html>`_ : Lifestyle changes due to events that happened to family members: No particular change
-* `Q141A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141A.html>`_ : Coping with lifestyle changes resulting from events that happened to family members?: Withdrew savings.
-* `Q141B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141B.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Sold assets.
-* `Q141C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141C.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Received financial support from parents or siblings.
-* `Q141D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141D.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Borrowed money from relatives and acquaintances.
-* `Q141E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141E.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Borrowed money from financial institutions.
-* `Q141F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141F.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Borrowed funds from public institutions.
+* `Q141A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141A.html>`_ : Coping with lifestyle changes resulting from events that happened to family members?: withdrew savings.
+* `Q141B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141B.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: sold assets.
+* `Q141C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141C.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: received financial support from parents or siblings.
+* `Q141D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141D.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: borrowed money from relatives and acquaintances.
+* `Q141E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141E.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: borrowed money from financial institutions.
+* `Q141F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141F.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: borrowed funds from public institutions.
 * `Q141G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141G.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Cancelled private insurance.
 * `Q141H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141H.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Received private insurance benefits
 * `Q141I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141I.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Claimed social insurance benefits such as worker’s compensation insurance.
@@ -905,7 +905,7 @@ List of variables
 * `Q198U    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198U.html>`_ : Reason for leaving job (not working): Poor working conditions
 * `Q198V    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198V.html>`_ : Reason for leaving job (not working): dissatisfaction with job description
 * `Q198W    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198W.html>`_ : Reason for leaving job (not working): pregnancy, childbirth, and childcare
-* `Q198X    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198X.html>`_ : Reason for leaving job (not working): relationships became awkward.
+* `Q198X    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198X.html>`_ : 離職理由（無職）：人間関係が気まずくなったから
 * `Q198Y    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198Y.html>`_ : Reason for leaving job (not working): retirement or expiration of employment contract
 * `Q198Z    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198Z.html>`_ : Reason for leaving job (not working): pregnancy and childbirth
 * `Q199A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q199A.html>`_ : 雇用保険失業給付の受給（本人無職/前職）
@@ -965,14 +965,14 @@ List of variables
 * `Q247L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247L.html>`_ : Reason for leaving job (spouse, currently working): found a job with better conditions/became independent
 * `Q247M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247M.html>`_ : Reason for leaving job (spouse, currently working): difficulty with your supervisor at work
 * `Q247N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247N.html>`_ : Reason for leaving job (spouse, currently working): relationship with co-workers was not going well
-* `Q247O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247O.html>`_ : Reason for leaving job (spouse, currently working): laid off
-* `Q247P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247P.html>`_ : Reason for leaving job (spouse, currently working): to study at a university or vocational school or to prepare for study abroad
+* `Q247O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247O.html>`_ : 離職理由（配偶者有職）：解雇された
+* `Q247P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247P.html>`_ : 離職理由（配偶者有職）：大学や専門学校などでの勉強や留学準備のため
 * `Q247Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247Q.html>`_ : Reason for leaving job (spouse, currently working): other
 * `Q247R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247R.html>`_ : Reason for leaving job (spouse, currently working): poor working conditions
 * `Q247S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247S.html>`_ : Reason for leaving job (spouse, currently working): dissatisfaction with job description
 * `Q247T    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247T.html>`_ : Reason for leaving job (spouse, currently working): childcare/child rearing
 * `Q247U    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247U.html>`_ : Reason for leaving job (spouse, currently working): relationships became awkward
-* `Q247V    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247V.html>`_ : Reason for leaving job (spouse, currently working): retirement or expiration of employment contract
+* `Q247V    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247V.html>`_ : 離職理由（配偶者有職）：定年または雇用契約の満了
 * `Q247Z    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247Z.html>`_ : Reason for leaving job (spouse, currently working): wife’s pregnancy or childbirth
 * `Q248A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q248A.html>`_ : 雇用保険失業給付受給の有無（配偶者有職）〔第2～第17回〕
 * `Q248B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q248B.html>`_ : 雇用保険失業給付受給月数（配偶者有職）
@@ -1583,34 +1583,34 @@ List of variables
 * `Q500H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q500H.html>`_ : Day off days (spouse) : Not fixed
 * `Q508     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q508.html>`_ : Marital satisfaction
 * `Q511     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q511.html>`_ : Willingness to give birth
-* `Q512A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q512A.html>`_ : Conditions for giving birth: Living expenses
-* `Q512B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q512B.html>`_ : Conditions for giving birth: Larger house
-* `Q512C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q512C.html>`_ : Conditions for giving birth: Continue working
+* `Q512A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q512A.html>`_ : Conditions for giving birth: living expenses
+* `Q512B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q512B.html>`_ : Conditions for giving birth: larger house
+* `Q512C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q512C.html>`_ : Conditions for giving birth: continue working
 * `Q512D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q512D.html>`_ : 出産のための条件：夫や家族の協力
 * `Q512E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q512E.html>`_ : 出産のための条件：社会制度
-* `Q512F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q512F.html>`_ : 出産のための条件：その他
+* `Q512F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q512F.html>`_ : Conditions for giving birth: other
 * `Q513A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513A.html>`_ : Reasons for not to have child-birth (married): childcare and educational expenses
-* `Q513B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513B.html>`_ : Reasons for not to have child-birth (married): Larger house
-* `Q513C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513C.html>`_ : Reasons for not to have child-birth (married): Work
-* `Q513D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513D.html>`_ : Reasons for not to have child-birth (married): My own life
-* `Q513E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513E.html>`_ : Reasons for not to have child-birth (married): Mine and husband’s lives
-* `Q513F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513F.html>`_ : Reasons for not to have child-birth (married): Not easy to bring up a child
-* `Q513G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513G.html>`_ : Reasons for not to have child-birth (married): Can’t expect husband’s help
-* `Q513H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513H.html>`_ : Reasons for not to have child-birth (married): Physically weak
-* `Q513I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513I.html>`_ : Reasons for not to have child-birth (married): Child might not be healthy
-* `Q513J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513J.html>`_ : Reasons for not to have child-birth (married): Don’t like children
-* `Q513K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513K.html>`_ : Reasons for not to have child-birth (married): Satisfied having my daughter
-* `Q513L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513L.html>`_ : Reasons for not to have child-birth (married): Satisfied having my son
-* `Q513M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513M.html>`_ : Reasons for not to have child-birth (married): Other
-* `Q513N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513N.html>`_ : Reasons for not to have child-birth (married): Satisfied having my children
-* `Q514A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q514A.html>`_ : Reasons for not to have child-birth (single): Don’t want to get married
-* `Q514B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q514B.html>`_ : Reasons for not to have child-birth (single): My own life
-* `Q514C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q514C.html>`_ : Reasons for not to have child-birth (single): Work
-* `Q514D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q514D.html>`_ : Reasons for not to have child-birth (single): Mine and Future-husband’s lives
-* `Q514E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q514E.html>`_ : Reasons for not to have child-birth (single): Don’t like children
+* `Q513B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513B.html>`_ : Reasons for not to have child-birth (married): larger house
+* `Q513C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513C.html>`_ : Reasons for not to have child-birth (married): work
+* `Q513D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513D.html>`_ : Reasons for not to have child-birth (married): my own life
+* `Q513E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513E.html>`_ : Reasons for not to have child-birth (married): mine and husband’s lives
+* `Q513F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513F.html>`_ : Reasons for not to have child-birth (married): not easy to bring up a child
+* `Q513G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513G.html>`_ : Reasons for not to have child-birth (married): can’t expect husband’s help
+* `Q513H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513H.html>`_ : Reasons for not to have child-birth (married): physically weak
+* `Q513I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513I.html>`_ : Reasons for not to have child-birth (married): child might not be healthy
+* `Q513J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513J.html>`_ : Reasons for not to have child-birth (married): don’t like children
+* `Q513K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513K.html>`_ : Reasons for not to have child-birth (married): satisfied having my daughter
+* `Q513L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513L.html>`_ : Reasons for not to have child-birth (married): satisfied having my son
+* `Q513M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513M.html>`_ : Reasons for not to have child-birth (married): other
+* `Q513N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q513N.html>`_ : Reasons for not to have child-birth (married): satisfied having my children
+* `Q514A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q514A.html>`_ : Reasons for not to have child-birth (single): don’t want to get married
+* `Q514B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q514B.html>`_ : Reasons for not to have child-birth (single): my own life
+* `Q514C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q514C.html>`_ : Reasons for not to have child-birth (single): work
+* `Q514D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q514D.html>`_ : Reasons for not to have child-birth (single): mine and Future-husband’s lives
+* `Q514E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q514E.html>`_ : Reasons for not to have child-birth (single): don’t like children
 * `Q514F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q514F.html>`_ : Reasons for not to have child-birth (single): childcare and educational expenses
-* `Q514G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q514G.html>`_ : Reasons for not to have child-birth (single): Not easy to bring up a child
-* `Q514H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q514H.html>`_ : Reasons for not to have child-birth (single): Other
+* `Q514G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q514G.html>`_ : Reasons for not to have child-birth (single): not easy to bring up a child
+* `Q514H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q514H.html>`_ : Reasons for not to have child-birth (single): other
 * `Q515     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q515.html>`_ : How many more children
 * `Q516     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q516.html>`_ : Sex of child you want to have
 * `Q518     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q518.html>`_ : 子どもの教育希望

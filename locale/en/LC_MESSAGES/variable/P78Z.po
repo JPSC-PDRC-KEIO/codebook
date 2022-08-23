@@ -8,82 +8,86 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-08-10 15:50+0900\n"
 "PO-Revision-Date: 2022-07-26 09:41+0900\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 3.1.1\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/P78Z.rst:5
+#: ../../variable/P78Z.rst:6
 msgid "初職の離職理由：定年又は雇用契約の満了"
-msgstr "Reason for leaving first job: retirement or expiration of employment contract"
+msgstr ""
+"Reason for leaving first job: retirement or expiration of employment "
+"contract"
 
-#: ../../variable/P78Z.rst:9
+#: ../../variable/P78Z.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/P78Z.rst:11
+#: ../../variable/P78Z.rst:13
 msgid "P78Z"
 msgstr ""
 
-#: ../../variable/P78Z.rst:15
+#: ../../variable/P78Z.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/P78Z.rst:18
-msgid "どのような理由で、あなたははじめての職業をやめたのですか。(〇はいくつでも)"
-msgstr "What were your reasons for leaving your first profession? (Circle as many as pertain to you)"
-
 #: ../../variable/P78Z.rst:21
+msgid "どのような理由で、あなたははじめての職業をやめたのですか。(〇はいくつでも)"
+msgstr ""
+"What were your reasons for leaving your first profession? (Circle as many"
+" as pertain to you)"
+
+#: ../../variable/P78Z.rst:24
 msgid "定年又は雇用契約の満了"
 msgstr "Retirement or expiration of employment contract"
 
-#: ../../variable/P78Z.rst:27
+#: ../../variable/P78Z.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/P78Z.rst:30
+#: ../../variable/P78Z.rst:33
 msgid "はい"
 msgstr "Yes"
 
-#: ../../variable/P78Z.rst:32
+#: ../../variable/P78Z.rst:34
 msgid "いいえ"
 msgstr "No"
 
-#: ../../variable/P78Z.rst:39
+#: ../../variable/P78Z.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/P78Z.rst:45
+#: ../../variable/P78Z.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/P78Z.rst:51
+#: ../../variable/P78Z.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/P78Z.rst:52
+#: ../../variable/P78Z.rst:57
 msgid "3"
 msgstr "3"
 
-#: ../../variable/P78Z.rst:57
+#: ../../variable/P78Z.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/P78Z.rst:63
+#: ../../variable/P78Z.rst:71
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/P78Z.rst:68
+#: ../../variable/P78Z.rst:76
 msgid "p16d_1"
 msgstr "p16d_1"
 
-#: ../../variable/P78Z.rst:70
+#: ../../variable/P78Z.rst:78
 msgid "p21e_1"
 msgstr "p21e_1"
 
@@ -92,3 +96,4 @@ msgstr "p21e_1"
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
+

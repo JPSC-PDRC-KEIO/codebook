@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P68V.rst:5
 msgid "前職の離職理由：労働条件（収入、時間）が悪かったから"
-msgstr "Reason for leaving previous job: Poor working conditions (income, hours)"
+msgstr "Reason for leaving previous job: poor working conditions (income, hours)"
 
 #: ../../variable/P68V.rst:9
 msgid "変数名"

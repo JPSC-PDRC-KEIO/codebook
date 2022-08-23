@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P68B.rst:5
 msgid "前職の離職理由：一時的・不安定な仕事だったから"
-msgstr "Reason for leaving previous job: Temporary/unstable job"
+msgstr "Reason for leaving previous job: temporary/unstable job"
 
 #: ../../variable/P68B.rst:9
 msgid "変数名"

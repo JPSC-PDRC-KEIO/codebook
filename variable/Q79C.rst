@@ -60,7 +60,7 @@ Q79C
 備考
 ==================
  
-
+この質問は、 :doc:`Q79A </variable/Q79A>` から分岐した付問です。
 
 
 .. rst-class:: include_sheet

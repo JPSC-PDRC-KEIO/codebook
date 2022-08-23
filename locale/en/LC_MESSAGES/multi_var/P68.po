@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/P68.rst:4
 msgid "前職の離職理由"
-msgstr ""
+msgstr "Reason for leaving previous job"
 
 #: ../../multi_var/P68.rst:8
 msgid "質問文"
@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/P68.rst:9
 msgid "どのような理由で、あなたはその前職をやめたのですか。(〇はいくつでも)"
-msgstr ""
+msgstr "What were your reasons for leaving your last job? (Circle all that pertain to you.)"
 
 #: ../../multi_var/P68.rst:1
 msgid "項目"
@@ -39,7 +39,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/P68.rst:1
 msgid "人員整理・会社解散・倒産のため"
-msgstr ""
+msgstr "Workforce reduction, company dissolution, or bankruptcy"
 
 #: ../../multi_var/P68.rst:1
 msgid ":doc:`P68A </variable/P68A>`"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../multi_var/P68.rst:1
 msgid "一時的・不安定な仕事だったから"
-msgstr ""
+msgstr "Temporary/unstable job"
 
 #: ../../multi_var/P68.rst:1
 msgid ":doc:`P68B </variable/P68B>`"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../multi_var/P68.rst:1
 msgid "労働条件（収入、時間）が悪かったから"
-msgstr ""
+msgstr "Poor working conditions (income, hours)"
 
 #: ../../multi_var/P68.rst:1
 msgid ":doc:`P68V </variable/P68V>`"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: ../../multi_var/P68.rst:1
 msgid "仕事の内容に不満があったため"
-msgstr ""
+msgstr "Dissatisfaction with job description"
 
 #: ../../multi_var/P68.rst:1
 msgid ":doc:`P68W </variable/P68W>`"
@@ -71,7 +71,7 @@ msgstr ""
 
 #: ../../multi_var/P68.rst:1
 msgid "家族の就職・転職・転勤および事業所の移転のため"
-msgstr ""
+msgstr "Family member's employment, job change, transfer, or business relocation"
 
 #: ../../multi_var/P68.rst:1
 msgid ":doc:`P68F </variable/P68F>`"
@@ -79,7 +79,7 @@ msgstr ""
 
 #: ../../multi_var/P68.rst:1
 msgid "自分が病気になったから"
-msgstr ""
+msgstr "Your own illness"
 
 #: ../../multi_var/P68.rst:1
 msgid ":doc:`P68G </variable/P68G>`"
@@ -87,7 +87,7 @@ msgstr ""
 
 #: ../../multi_var/P68.rst:1
 msgid "家族の介護のため"
-msgstr ""
+msgstr "To care for family members"
 
 #: ../../multi_var/P68.rst:1
 msgid ":doc:`P68Q </variable/P68Q>`"
@@ -95,7 +95,7 @@ msgstr ""
 
 #: ../../multi_var/P68.rst:1
 msgid "結婚のため"
-msgstr ""
+msgstr "Marriage"
 
 #: ../../multi_var/P68.rst:1
 msgid ":doc:`P68H </variable/P68H>`"
@@ -103,7 +103,7 @@ msgstr ""
 
 #: ../../multi_var/P68.rst:1
 msgid "妊娠・出産のため"
-msgstr ""
+msgstr "Pregnancy and childbirth"
 
 #: ../../multi_var/P68.rst:1
 msgid ":doc:`P68AA </variable/P68AA>`"
@@ -111,7 +111,7 @@ msgstr ""
 
 #: ../../multi_var/P68.rst:1
 msgid "育児・子育てのため"
-msgstr ""
+msgstr "Childcare/child rearing"
 
 #: ../../multi_var/P68.rst:1
 msgid ":doc:`P68AB </variable/P68AB>`"
@@ -119,7 +119,7 @@ msgstr ""
 
 #: ../../multi_var/P68.rst:1
 msgid "いい条件の仕事が見つかったから・独立したから"
-msgstr ""
+msgstr "Found a job with better conditions/became independent"
 
 #: ../../multi_var/P68.rst:1
 msgid ":doc:`P68K </variable/P68K>`"
@@ -127,7 +127,7 @@ msgstr ""
 
 #: ../../multi_var/P68.rst:1
 msgid "人間関係が気まずくなったから"
-msgstr ""
+msgstr "Relationships became awkward."
 
 #: ../../multi_var/P68.rst:1
 msgid ":doc:`P68L </variable/P68L>`"
@@ -135,7 +135,7 @@ msgstr ""
 
 #: ../../multi_var/P68.rst:1
 msgid "解雇された"
-msgstr ""
+msgstr "Laid off"
 
 #: ../../multi_var/P68.rst:1
 msgid ":doc:`P68T </variable/P68T>`"
@@ -143,7 +143,7 @@ msgstr ""
 
 #: ../../multi_var/P68.rst:1
 msgid "大学や専門学校などでの勉強や留学準備のため"
-msgstr ""
+msgstr "To study at a university or vocational school or to prepare for study abroad"
 
 #: ../../multi_var/P68.rst:1
 msgid ":doc:`P68U </variable/P68U>`"
@@ -151,7 +151,7 @@ msgstr ""
 
 #: ../../multi_var/P68.rst:1
 msgid "定年または雇用契約の満了"
-msgstr ""
+msgstr "Retirement or expiration of employment contract"
 
 #: ../../multi_var/P68.rst:1
 msgid ":doc:`P68Z </variable/P68Z>`"
@@ -159,7 +159,7 @@ msgstr ""
 
 #: ../../multi_var/P68.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/P68.rst:1
 msgid ":doc:`P68M </variable/P68M>`"
@@ -168,10 +168,3 @@ msgstr ""
 #: ../../multi_var/P68.rst:36
 msgid "初回調査時までの職業についての質問です。この項目は、選択肢や変数名が以下のような変化をたどってきました。"
 msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
-

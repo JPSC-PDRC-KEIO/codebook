@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P68A.rst:5
 msgid "前職の離職理由：人員整理・会社解散・倒産のため"
-msgstr "Reason for leaving previous job: Workforce reduction, company dissolution, or bankruptcy"
+msgstr "Reason for leaving previous job: workforce reduction, company dissolution, or bankruptcy"
 
 #: ../../variable/P68A.rst:9
 msgid "変数名"

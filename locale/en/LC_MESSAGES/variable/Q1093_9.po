@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"POT-Creation-Date: 2022-08-10 15:50+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1093_9.rst:6
 msgid "からだ・心の状態（CES-D）：口数が少ない"
-msgstr "Physical and mental state: I talked less than usual."
+msgstr "Physical and mental state (CES-D): I talked less than usual."
 
 #: ../../variable/Q1093_9.rst:11
 msgid "変数名"
@@ -34,12 +34,12 @@ msgid "質問文"
 msgstr "Question"
 
 #: ../../variable/Q1093_9.rst:21
-msgid "この1週間のあなたのからだや心の状態についてお聞きします。以下のような気分やことがらをどのくらい"
-"経験しましたか。それぞれあてはまる番号に〇をつけてください。（それぞれ〇は１つだけ）"
+msgid "この1週間のあなたのからだや心の状態についてお聞きします。以下のような気分やことがらをどのくらい経験しましたか。それぞれあてはまる番号に〇をつけてください。（それぞれ〇は１つだけ）"
 msgstr ""
-"We would like to ask you about your physical or mental state during the past week. How often "
-"did you experience each of the following feelings or matters? Circle your answer to each "
-"question. (Circle one for each question.)"
+"We would like to ask you about your physical or mental state during the "
+"past week. How often did you experience each of the following feelings or"
+" matters? Circle your answer to each question. (Circle one for each "
+"question.)"
 
 #: ../../variable/Q1093_9.rst:24
 msgid "ふだんより口数が少なくなったこと"

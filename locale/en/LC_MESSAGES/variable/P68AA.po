@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P68AA.rst:5
 msgid "前職の離職理由：妊娠・出産のため"
-msgstr "Reason for leaving previous job: Pregnancy and childbirth"
+msgstr "Reason for leaving previous job: pregnancy and childbirth"
 
 #: ../../variable/P68AA.rst:9
 msgid "変数名"

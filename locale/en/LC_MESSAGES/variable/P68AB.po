@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P68AB.rst:5
 msgid "前職の離職理由：育児・子育てのため"
-msgstr "Reason for leaving previous job: Childcare/child rearing"
+msgstr "Reason for leaving previous job: childcare/child rearing"
 
 #: ../../variable/P68AB.rst:9
 msgid "変数名"

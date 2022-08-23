@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"POT-Creation-Date: 2022-08-10 15:50+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1093_2.rst:6
 msgid "からだ・心の状態（CES-D）：気分が晴れない"
-msgstr "Physical and mental state: I could not shake off the blues."
+msgstr "Physical and mental state (CES-D): I could not shake off the blues."
 
 #: ../../variable/Q1093_2.rst:11
 msgid "変数名"
@@ -34,16 +34,18 @@ msgid "質問文"
 msgstr "Question"
 
 #: ../../variable/Q1093_2.rst:21
-msgid "この1週間のあなたのからだや心の状態についてお聞きします。以下のような気分やことがらをどのくらい"
-"経験しましたか。それぞれあてはまる番号に〇をつけてください。（それぞれ〇は１つだけ）"
+msgid "この1週間のあなたのからだや心の状態についてお聞きします。以下のような気分やことがらをどのくらい経験しましたか。それぞれあてはまる番号に〇をつけてください。（それぞれ〇は１つだけ）"
 msgstr ""
-"We would like to ask you about your physical or mental state during the past week. How often "
-"did you experience each of the following feelings or matters? Circle your answer to each "
-"question. (Circle one for each question.)"
+"We would like to ask you about your physical or mental state during the "
+"past week. How often did you experience each of the following feelings or"
+" matters? Circle your answer to each question. (Circle one for each "
+"question.)"
 
 #: ../../variable/Q1093_2.rst:24
 msgid "家族や友達から励ましてもらっても気分が晴れないこと"
-msgstr "I felt that I could not shake off the blues, even if my family or friends cheered me up."
+msgstr ""
+"I felt that I could not shake off the blues, even if my family or friends"
+" cheered me up."
 
 #: ../../variable/Q1093_2.rst:31
 msgid "選択肢 / 記入欄"

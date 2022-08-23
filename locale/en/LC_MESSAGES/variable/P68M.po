@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P68M.rst:5
 msgid "前職の離職理由：その他"
-msgstr "Reason for leaving previous job: Other"
+msgstr "Reason for leaving previous job: other"
 
 #: ../../variable/P68M.rst:9
 msgid "変数名"
