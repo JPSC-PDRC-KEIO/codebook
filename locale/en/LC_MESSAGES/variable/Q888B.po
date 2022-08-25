@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"POT-Creation-Date: 2022-08-10 15:50+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -72,6 +72,10 @@ msgstr ""
 #: ../../variable/Q888B.rst:61
 msgid "備考"
 msgstr "Remarks"
+
+#: ../../variable/Q888B.rst:63
+msgid "この質問は、 :doc:`Q1019 </variable/Q1019>` から分岐した付問です。"
+msgstr "This is an additional question related to   :doc:`Q1019 </variable/Q1019>` "
 
 #: ../../variable/Q888B.rst:69
 msgid "収録シート"
