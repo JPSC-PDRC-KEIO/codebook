@@ -35,7 +35,7 @@ msgstr "Question"
 
 #: ../../variable/Q247F.rst:18
 msgid "どのような理由で、ご主人は１年前（昨年9月末）の会社等をやめたのですか。"
-msgstr "Why did your husband leave the company or organization where he worked one year ago (at the end of September of the previous year of the survey)"
+msgstr "Why did your husband leave the company or organization where he worked one year ago (at the end of September of the previous year of the survey)?"
 
 #: ../../variable/Q247F.rst:21
 msgid "単調な仕事でむなしいと思ったから"

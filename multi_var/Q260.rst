@@ -25,9 +25,9 @@
    家族の介護のため,:doc:`Q260J </variable/Q260J>`
    良い条件の仕事が見つかったから・独立したから,:doc:`Q260L </variable/Q260L>`
    人間関係が気まずくなったから,:doc:`Q260U </variable/Q260U>`
-   解雇された,:doc:`Q260V </variable/Q260V>`
-   大学や専門学校などでの勉強や留学準備のため,:doc:`Q260O </variable/Q260O>`
-   定年又は雇用契約の満了,:doc:`Q260P </variable/Q260P>`
+   解雇された,:doc:`Q260O </variable/Q260O>`
+   大学や専門学校などでの勉強や留学準備のため,:doc:`Q260P </variable/Q260P>`
+   定年又は雇用契約の満了,:doc:`Q260V </variable/Q260V>`
    その他,:doc:`Q260Q </variable/Q260Q>`
 
 .. note::

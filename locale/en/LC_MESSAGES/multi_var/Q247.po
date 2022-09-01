@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q247.rst:8
 msgid "どのような理由で、ご主人は１年前（昨年9月末）の会社等をやめたのですか。（〇はいくつでも）"
-msgstr "Why did your husband leave the company or organization where he worked one year ago (at the end of September of the previous year of the survey) (Circle as many as apply to you.)"
+msgstr "Why did your husband leave the company or organization where he worked one year ago (at the end of September of the previous year of the survey)? (Circle as many as apply to you.)"
 
 #: ../../multi_var/Q247.rst:1
 msgid "項目"
@@ -96,6 +96,7 @@ msgstr ""
 #: ../../multi_var/Q247.rst:1
 msgid "育児・子育てのため"
 msgstr "Childcare/child rearing"
+
 #: ../../multi_var/Q247.rst:1
 msgid ":doc:`Q247AA </variable/Q247AA>`"
 msgstr ""

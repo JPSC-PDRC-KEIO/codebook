@@ -18,8 +18,8 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../variable/Q260V.rst:6
-msgid "離職理由（配偶者無職）：解雇された"
-msgstr ""
+msgid "離職理由（配偶者無職）：定年又は雇用契約の満了"
+msgstr "Reason for leaving job (spouse, not working): retirement or expiration of employment contract"
 
 #: ../../variable/Q260V.rst:11
 msgid "変数名"
@@ -35,11 +35,12 @@ msgstr "Question"
 
 #: ../../variable/Q260V.rst:21
 msgid "どのような理由で、ご主人は１年前（昨年9月末）の会社等をやめたのですか。"
-msgstr ""
+msgstr "Why did your husband leave the company or organization where he worked one year ago (at the end of September of the previous year of the survey)?"
 
 #: ../../variable/Q260V.rst:24
-msgid "解雇された"
-msgstr ""
+msgid "定年又は雇用契約の満了"
+msgstr "Retirement or expiration of employment contract"
+
 
 #: ../../variable/Q260V.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,11 +48,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q260V.rst:33
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q260V.rst:34
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q260V.rst:42
 msgid "桁あふれコード"
@@ -144,10 +145,3 @@ msgstr ""
 #: ../../variable/Q260V.rst:108
 msgid "p28_1"
 msgstr ""
-
-#~ msgid "変数名: Q260V"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-

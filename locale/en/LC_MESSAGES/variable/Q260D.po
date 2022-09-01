@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q260D.rst:5
 msgid "離職理由（配偶者無職）：労働条件が悪かったから"
-msgstr ""
+msgstr "Reason for leaving job (spouse, not working): poor working conditions"
 
 #: ../../variable/Q260D.rst:9
 msgid "変数名"
@@ -35,11 +35,11 @@ msgstr "Question"
 
 #: ../../variable/Q260D.rst:18
 msgid "どのような理由で、ご主人は１年前（昨年9月末）の会社等をやめたのですか。"
-msgstr ""
+msgstr "Why did your husband leave the company or organization where he worked one year ago (at the end of September of the previous year of the survey)?"
 
 #: ../../variable/Q260D.rst:21
 msgid "労働条件が悪かったから"
-msgstr ""
+msgstr "Poor working conditions"
 
 #: ../../variable/Q260D.rst:27
 msgid "選択肢 / 記入欄"
@@ -47,11 +47,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q260D.rst:30
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q260D.rst:32
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q260D.rst:39
 msgid "桁あふれコード"
@@ -112,10 +112,3 @@ msgstr ""
 #: ../../variable/Q260D.rst:84
 msgid "p10_1"
 msgstr ""
-
-#~ msgid "変数名: Q260D"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-

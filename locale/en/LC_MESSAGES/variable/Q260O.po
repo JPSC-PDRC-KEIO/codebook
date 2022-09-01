@@ -18,8 +18,8 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../variable/Q260O.rst:6
-msgid "離職理由（配偶者無職）：大学や専門学校などでの勉強や留学準備のため"
-msgstr ""
+msgid "離職理由（配偶者無職）：解雇された"
+msgstr "Reason for leaving job (spouse, not working): laid off"
 
 #: ../../variable/Q260O.rst:11
 msgid "変数名"
@@ -35,11 +35,11 @@ msgstr "Question"
 
 #: ../../variable/Q260O.rst:21
 msgid "どのような理由で、ご主人は１年前（昨年9月末）の会社等をやめたのですか。"
-msgstr ""
+msgstr "Why did your husband leave the company or organization where he worked one year ago (at the end of September of the previous year of the survey)?"
 
 #: ../../variable/Q260O.rst:24
-msgid "大学や専門学校などでの勉強や留学準備のため"
-msgstr ""
+msgid "解雇された"
+msgstr "Laid off"
 
 #: ../../variable/Q260O.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,11 +47,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q260O.rst:33
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q260O.rst:34
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q260O.rst:42
 msgid "桁あふれコード"
@@ -184,10 +184,3 @@ msgstr ""
 #: ../../variable/Q260O.rst:128
 msgid "p28_1"
 msgstr ""
-
-#~ msgid "変数名: Q260O"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-
