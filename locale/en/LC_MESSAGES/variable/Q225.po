@@ -35,7 +35,7 @@ msgstr "Question"
 
 #: ../../variable/Q225.rst:21
 msgid "給与の支払われていない、いわゆるサービス残業は週にどのくらいですか。"
-"How many hours of unpaid overtime, so-called “service overtime” does your husband do"
+msgstr "How many hours of unpaid overtime, so-called “service overtime” does your husband do"
 " per week?"
 
 #: ../../variable/Q225.rst:28
