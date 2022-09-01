@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q253L.rst:6
 msgid "現職（会社）の選択理由（配偶者）：仕事内容に興味がある"
-msgstr ""
+msgstr "Reason for choosing current job (spouse): interest in the job"
 
 #: ../../variable/Q253L.rst:11
 msgid "変数名"
@@ -35,11 +35,11 @@ msgstr "Question"
 
 #: ../../variable/Q253L.rst:21
 msgid "なぜ、ご主人は現在の会社等を選びましたか。"
-msgstr ""
+msgstr "What were your husband's reasons for choosing his current profession?"
 
 #: ../../variable/Q253L.rst:24
 msgid "仕事内容に興味がある"
-msgstr ""
+msgstr "Interest in the job"
 
 #: ../../variable/Q253L.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,11 +47,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q253L.rst:33
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q253L.rst:34
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q253L.rst:42
 msgid "桁あふれコード"
@@ -184,10 +184,3 @@ msgstr ""
 #: ../../variable/Q253L.rst:128
 msgid "p28_1"
 msgstr ""
-
-#~ msgid "変数名: Q253L"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-

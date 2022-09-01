@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q253.rst:3
 msgid "現職（会社）の選択理由（配偶者）"
-msgstr ""
+msgstr "Reason for choosing current job (spouse)"
 
 #: ../../multi_var/Q253.rst:7
 msgid "質問文"
@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q253.rst:8
 msgid "なぜ、ご主人は現在の会社等を選びましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "What were your husband's reasons for choosing his current profession (Circle as many as pertain to you)?"
 
 #: ../../multi_var/Q253.rst:1
 msgid "項目"
@@ -39,7 +39,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q253.rst:1
 msgid "給与がよい"
-msgstr ""
+msgstr "Good salary"
 
 #: ../../multi_var/Q253.rst:1
 msgid ":doc:`Q253A </variable/Q253A>`"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../multi_var/Q253.rst:1
 msgid "休日、休暇が多い"
-msgstr ""
+msgstr "Many holidays and paid leaves"
 
 #: ../../multi_var/Q253.rst:1
 msgid ":doc:`Q253B </variable/Q253B>`"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../multi_var/Q253.rst:1
 msgid "拘束時間が少ない、労働時間が自由になる"
-msgstr ""
+msgstr "Less time restraints and flexible working hours"
 
 #: ../../multi_var/Q253.rst:1
 msgid ":doc:`Q253S </variable/Q253S>`"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: ../../multi_var/Q253.rst:1
 msgid "家に近い、通勤距離が短い"
-msgstr ""
+msgstr "Close to home, short commute disntance"
 
 #: ../../multi_var/Q253.rst:1
 msgid ":doc:`Q253E </variable/Q253E>`"
@@ -71,7 +71,7 @@ msgstr ""
 
 #: ../../multi_var/Q253.rst:1
 msgid "転勤がない、少ない"
-msgstr ""
+msgstr "No or few transfers"
 
 #: ../../multi_var/Q253.rst:1
 msgid ":doc:`Q253F </variable/Q253F>`"
@@ -79,7 +79,7 @@ msgstr ""
 
 #: ../../multi_var/Q253.rst:1
 msgid "安定している、失業のおそれがない"
-msgstr ""
+msgstr "Stable and low risk of unemployment"
 
 #: ../../multi_var/Q253.rst:1
 msgid ":doc:`Q253G </variable/Q253G>`"
@@ -87,7 +87,7 @@ msgstr ""
 
 #: ../../multi_var/Q253.rst:1
 msgid "将来発展する可能性がある"
-msgstr ""
+msgstr "Potential for future development"
 
 #: ../../multi_var/Q253.rst:1
 msgid ":doc:`Q253H </variable/Q253H>`"
@@ -95,7 +95,7 @@ msgstr ""
 
 #: ../../multi_var/Q253.rst:1
 msgid "技術が身につく"
-msgstr ""
+msgstr "Developing skills"
 
 #: ../../multi_var/Q253.rst:1
 msgid ":doc:`Q253J </variable/Q253J>`"
@@ -103,7 +103,7 @@ msgstr ""
 
 #: ../../multi_var/Q253.rst:1
 msgid "能力が生かせる"
-msgstr ""
+msgstr "Utilizing abilities"
 
 #: ../../multi_var/Q253.rst:1
 msgid ":doc:`Q253K </variable/Q253K>`"
@@ -111,7 +111,7 @@ msgstr ""
 
 #: ../../multi_var/Q253.rst:1
 msgid "仕事内容に興味がある"
-msgstr ""
+msgstr "Interest in the job"
 
 #: ../../multi_var/Q253.rst:1
 msgid ":doc:`Q253L </variable/Q253L>`"
@@ -119,7 +119,7 @@ msgstr ""
 
 #: ../../multi_var/Q253.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Others"
 
 #: ../../multi_var/Q253.rst:1
 msgid ":doc:`Q253R </variable/Q253R>`"
@@ -128,10 +128,4 @@ msgstr ""
 #: ../../multi_var/Q253.rst:30
 msgid "配偶者が現在有職の人への質問で、1年間に、配偶者の就業状態の変化があった人に聞いています（初回調査時には聞いていません）。"
 msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
 

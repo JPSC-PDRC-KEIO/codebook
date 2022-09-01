@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q191.rst:3
 msgid "現職（会社）の選択理由"
-msgstr ""
+msgstr "Reason for choosing current job"
 
 #: ../../multi_var/Q191.rst:7
 msgid "質問文"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../multi_var/Q191.rst:1
 msgid "拘束時間が少ない、労働時間が自由になる"
-msgstr "Less time restraints and overtime work"
+msgstr "Less time restraints and flexible working hours"
 
 #: ../../multi_var/Q191.rst:1
 msgid ":doc:`Q191U </variable/Q191U>`"
@@ -138,22 +138,4 @@ msgid ""
 "現在有職の人への質問です。初回調査時と1年間に転職があった人に聞いています。この項目は、選択肢や変数名が以下のような変化をたどってきました。なお、コーホートAとコーホートB〔第1回・第5回〕では初回調査時の変数名が異なります。"
 " :doc:`現職（会社）の選択理由〔第1回・第5回〕（P54） </multi_var/P54>` をご参照ください。"
 msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "現在有職の人への質問です。初回調査時と1年間に転職があった人に聞いています。この項目は、選択肢や変数名が以下のような変化をたどってきました。なお、コーホートAとコーホートB〔第1回・第5回〕では初回調査時の変数名が異なります。"
-#~ " :doc:`現職（会社）の選択理由〔第1回・第5回〕（P54） </multi_var/P54>` "
-#~ "をご参照ください。"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "現在有職の人への質問です。初回調査時と1年間に転職があった人に聞いています。この項目は、選択肢や変数名が以下のような変化をたどってきました。なお、コーホートAとコーホートB〔第1回・第5回〕では初回調査時の変数名が異なります。"
-#~ "  :doc:`現職（会社）の選択理由〔第1回・第5回〕（P54） </multi_var/P54>` "
-#~ "をご参照ください。"
-#~ msgstr ""
 

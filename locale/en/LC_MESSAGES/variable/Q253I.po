@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q253I.rst:5
 msgid "現職（会社）の選択理由（配偶者）：世間一般に知られている企業である"
-msgstr ""
+msgstr "Reason for choosing current job (spouse): well known company"
 
 #: ../../variable/Q253I.rst:9
 msgid "変数名"
@@ -35,11 +35,11 @@ msgstr "Question"
 
 #: ../../variable/Q253I.rst:18
 msgid "なぜ、ご主人は現在の会社等を選びましたか。"
-msgstr ""
+msgstr "What were your husband's reasons for choosing his current profession?"
 
 #: ../../variable/Q253I.rst:21
 msgid "世間一般に知られている企業である"
-msgstr ""
+msgstr "Well known company"
 
 #: ../../variable/Q253I.rst:27
 msgid "選択肢 / 記入欄"
@@ -47,11 +47,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q253I.rst:30
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q253I.rst:32
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q253I.rst:39
 msgid "桁あふれコード"
@@ -112,10 +112,3 @@ msgstr ""
 #: ../../variable/Q253I.rst:84
 msgid "p10_1"
 msgstr ""
-
-#~ msgid "変数名: Q253I"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-

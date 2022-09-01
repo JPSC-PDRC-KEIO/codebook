@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q191U.rst:6
 msgid "現職（会社）の選択理由：拘束時間が少ない、労働時間が自由になる"
-msgstr "Reason for choosing current job: less time restraints and overtime work"
+msgstr "Reason for choosing current job: less time restraints and flexible working hours"
 
 #: ../../variable/Q191U.rst:11
 msgid "変数名"
@@ -39,7 +39,7 @@ msgstr "What were your reasons for choosing your current profession (Circle as m
 
 #: ../../variable/Q191U.rst:24
 msgid "拘束時間が少ない、労働時間が自由になる"
-msgstr "Less time restraints and overtime work"
+msgstr "Less time restraints and flexible working hours"
 
 #: ../../variable/Q191U.rst:31
 msgid "選択肢 / 記入欄"
