@@ -8,18 +8,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-10 15:50+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"PO-Revision-Date: 2022-09-01 16:24+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/Q242.rst:6
 msgid "勤務先従業員数の増減（配偶者）"
-msgstr ""
+msgstr "Increase/decrease in number of employees at work (spouse)"
 
 #: ../../variable/Q242.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q242.rst:21
 msgid "ご主人の勤め先の従業員数は会社全体で1年前に比べて増えていますか（注　公務員の方は「官公庁」に〇をしてください）。"
-msgstr ""
+msgstr "Has the number of employees at your husband's place of employment increased compared to one year ago for the company as a whole (Note: If you are a public employee, please circle \"Government and municipal office\")?"
 
 #: ../../variable/Q242.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,27 +45,27 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q242.rst:30
 msgid "3割以上増えた"
-msgstr ""
+msgstr "Increased by more than 30%."
 
 #: ../../variable/Q242.rst:31
 msgid "1～2割以上増えた"
-msgstr ""
+msgstr "Increased by more than 10-20%."
 
 #: ../../variable/Q242.rst:32
 msgid "変わらない"
-msgstr ""
+msgstr "No change"
 
 #: ../../variable/Q242.rst:33
 msgid "1～2割以上減った"
-msgstr ""
+msgstr "Decreased by more than 10-20%."
 
 #: ../../variable/Q242.rst:34
 msgid "3割以上減った"
-msgstr ""
+msgstr "Decreased by more than 30%."
 
 #: ../../variable/Q242.rst:35
 msgid "官公庁"
-msgstr ""
+msgstr "Government and municipal office"
 
 #: ../../variable/Q242.rst:43
 msgid "桁あふれコード"
@@ -79,7 +81,7 @@ msgstr "No response code"
 
 #: ../../variable/Q242.rst:58
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: ../../variable/Q242.rst:64
 msgid "備考"
@@ -95,103 +97,103 @@ msgstr "Data files (csv)"
 
 #: ../../variable/Q242.rst:77
 msgid "p2_1"
-msgstr ""
+msgstr "p2_1"
 
 #: ../../variable/Q242.rst:79
 msgid "p3_1"
-msgstr ""
+msgstr "p3_1"
 
 #: ../../variable/Q242.rst:81
 msgid "p4_1"
-msgstr ""
+msgstr "p4_1"
 
 #: ../../variable/Q242.rst:83
 msgid "p5a_1"
-msgstr ""
+msgstr "p5a_1"
 
 #: ../../variable/Q242.rst:85
 msgid "p6_1"
-msgstr ""
+msgstr "p6_1"
 
 #: ../../variable/Q242.rst:87
 msgid "p7_1"
-msgstr ""
+msgstr "p7_1"
 
 #: ../../variable/Q242.rst:89
 msgid "p8_1"
-msgstr ""
+msgstr "p8_1"
 
 #: ../../variable/Q242.rst:91
 msgid "p9_1"
-msgstr ""
+msgstr "p9_1"
 
 #: ../../variable/Q242.rst:93
 msgid "p10_1"
-msgstr ""
+msgstr "p10_1"
 
 #: ../../variable/Q242.rst:95
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: ../../variable/Q242.rst:97
-msgid "p13_1"
-msgstr ""
+"p13_1"
+msgstr "p13_1"
 
 #: ../../variable/Q242.rst:99
 msgid "p14_1"
-msgstr ""
+msgstr "p14_1"
 
 #: ../../variable/Q242.rst:101
 msgid "p15_1"
-msgstr ""
+msgstr "p15_1"
 
 #: ../../variable/Q242.rst:103
 msgid "p16abc_1"
-msgstr ""
+msgstr "p16abc_1"
 
 #: ../../variable/Q242.rst:105
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: ../../variable/Q242.rst:107
 msgid "p18_1"
-msgstr ""
+msgstr "p18_1"
 
 #: ../../variable/Q242.rst:109
 msgid "p19_1"
-msgstr ""
+msgstr "p19_1"
 
 #: ../../variable/Q242.rst:111
 msgid "p20_1"
-msgstr ""
+msgstr "p20_1"
 
 #: ../../variable/Q242.rst:113
 msgid "p21abcd_1"
-msgstr ""
+msgstr "p21abcd_1"
 
 #: ../../variable/Q242.rst:115
 msgid "p22_1"
-msgstr ""
+msgstr "p22_1"
 
 #: ../../variable/Q242.rst:117
 msgid "p23_1"
-msgstr ""
+msgstr "p23_1"
 
 #: ../../variable/Q242.rst:119
 msgid "p24_1"
-msgstr ""
+msgstr "p24_1"
 
 #: ../../variable/Q242.rst:121
 msgid "p25_1"
-msgstr ""
+msgstr "p25_1"
 
 #: ../../variable/Q242.rst:123
 msgid "p26_1"
-msgstr ""
+msgstr "p26_1"
 
 #: ../../variable/Q242.rst:125
 msgid "p27_1"
-msgstr ""
+msgstr "p27_1"
 
 #: ../../variable/Q242.rst:127
 msgid "p28_1"
@@ -202,4 +204,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

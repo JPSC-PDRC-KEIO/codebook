@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-09-02 15:41+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/Q860.rst:6
 msgid "職業（配偶者）〔第4回～〕"
-msgstr ""
+msgstr "Occupation (spouse) [Wave 4 -]"
 
 #: ../../variable/Q860.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q860.rst:21
 msgid "ご主人の現在の職業は何ですか。主たるお仕事の内容に〇をつけて下さい。"
-msgstr ""
+msgstr "What is your husband's current occupation? Please describe his primary occupation in detail and circle what pertains to you."
 
 #: ../../variable/Q860.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,55 +45,55 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q860.rst:30
 msgid "農林漁業（自営者）"
-msgstr ""
+msgstr "Agriculture, forestry and fishing (self-employed)"
 
 #: ../../variable/Q860.rst:31
 msgid "農林漁業（家族従業者）"
-msgstr ""
+msgstr "Agriculture, forestry and fishing (family employees)"
 
 #: ../../variable/Q860.rst:32
 msgid "小規模〔9人以下〕の商業・工業・サービス業（自営者）"
-msgstr ""
+msgstr "Small company [less than 9 employees] commercial, industrial, and service businesses (self-employed)"
 
 #: ../../variable/Q860.rst:33
 msgid "小規模〔9人以下〕の商業・工業・サービス業（家族従業者）"
-msgstr ""
+msgstr "Small company [less than 9 employees] commercial, industrial, and service industries (family employees)"
 
 #: ../../variable/Q860.rst:34
 msgid "自由業"
-msgstr ""
+msgstr "Free lance"
 
 #: ../../variable/Q860.rst:35
 msgid "管理職"
-msgstr ""
+msgstr "Management"
 
 #: ../../variable/Q860.rst:36
 msgid "専門職"
-msgstr ""
+msgstr "Profession"
 
 #: ../../variable/Q860.rst:37
 msgid "技術職"
-msgstr ""
+msgstr "Engineering"
 
 #: ../../variable/Q860.rst:38
 msgid "教員"
-msgstr ""
+msgstr "Teaching staff"
 
 #: ../../variable/Q860.rst:39
 msgid "事務職"
-msgstr ""
+msgstr "Clerical work"
 
 #: ../../variable/Q860.rst:40
 msgid "技能・作業職"
-msgstr ""
+msgstr "Technical and manufacturing jobs"
 
 #: ../../variable/Q860.rst:41
 msgid "販売サービス職"
-msgstr ""
+msgstr "Sales and Service"
 
 #: ../../variable/Q860.rst:42
 msgid "自宅で賃仕事"
-msgstr ""
+msgstr "Work from home"
 
 #: ../../variable/Q860.rst:50
 msgid "桁あふれコード"
@@ -103,7 +105,7 @@ msgstr "Unclassifiable response code"
 
 #: ../../variable/Q860.rst:58
 msgid "15"
-msgstr ""
+msgstr "15"
 
 #: ../../variable/Q860.rst:64
 msgid "無回答コード"
@@ -122,116 +124,144 @@ msgid "収録シート"
 msgstr "Data files (csv)"
 
 #: ../../variable/Q860.rst:84
+#, fuzzy
 msgid "p4_1"
-msgstr ""
+msgstr "p4_1"
 
 #: ../../variable/Q860.rst:86
+#, fuzzy
 msgid "p5a_1"
-msgstr ""
+msgstr "p5a_1"
 
 #: ../../variable/Q860.rst:88
+#, fuzzy
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #: ../../variable/Q860.rst:90
+#, fuzzy
 msgid "p6_1"
-msgstr ""
+msgstr "p6_1"
 
 #: ../../variable/Q860.rst:92
+#, fuzzy
 msgid "p7_1"
-msgstr ""
+msgstr "p7_1"
 
 #: ../../variable/Q860.rst:94
+#, fuzzy
 msgid "p8_1"
-msgstr ""
+msgstr "p8_1"
 
 #: ../../variable/Q860.rst:96
+#, fuzzy
 msgid "p9_1"
-msgstr ""
+msgstr "p9_1"
 
 #: ../../variable/Q860.rst:98
+#, fuzzy
 msgid "p10_1"
-msgstr ""
+msgstr "p10_1"
 
 #: ../../variable/Q860.rst:100
+#, fuzzy
 msgid "p11ab_1"
-msgstr ""
+msgstr "p11ab_1"
 
 #: ../../variable/Q860.rst:102
+#, fuzzy
 msgid "p11c_1"
-msgstr ""
+msgstr "p11c_1"
 
 #: ../../variable/Q860.rst:104
+#, fuzzy
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: ../../variable/Q860.rst:106
+#, fuzzy
 msgid "p13_1"
-msgstr ""
+msgstr "p13_1"
 
 #: ../../variable/Q860.rst:108
+#, fuzzy
 msgid "p14_1"
-msgstr ""
+msgstr "p14_1"
 
 #: ../../variable/Q860.rst:110
+#, fuzzy
 msgid "p15_1"
-msgstr ""
+msgstr "p15_1"
 
 #: ../../variable/Q860.rst:112
+#, fuzzy
 msgid "p16abc_1"
-msgstr ""
+msgstr "p16abc_1"
 
 #: ../../variable/Q860.rst:114
+#, fuzzy
 msgid "p16d_1"
-msgstr ""
+msgstr "p16d_1"
 
 #: ../../variable/Q860.rst:116
+#, fuzzy
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: ../../variable/Q860.rst:118
+#, fuzzy
 msgid "p18_1"
-msgstr ""
+msgstr "p18_1"
 
 #: ../../variable/Q860.rst:120
+#, fuzzy
 msgid "p19_1"
-msgstr ""
+msgstr "p19_1"
 
 #: ../../variable/Q860.rst:122
+#, fuzzy
 msgid "p20_1"
-msgstr ""
+msgstr "p20_1"
 
 #: ../../variable/Q860.rst:124
+#, fuzzy
 msgid "p21abcd_1"
-msgstr ""
+msgstr "p21abcd_1"
 
 #: ../../variable/Q860.rst:126
+#, fuzzy
 msgid "p21e_1"
-msgstr ""
+msgstr "p21e_1"
 
 #: ../../variable/Q860.rst:128
+#, fuzzy
 msgid "p22_1"
-msgstr ""
+msgstr "p22_1"
 
 #: ../../variable/Q860.rst:130
+#, fuzzy
 msgid "p23_1"
-msgstr ""
+msgstr "p23_1"
 
 #: ../../variable/Q860.rst:132
+#, fuzzy
 msgid "p24_1"
-msgstr ""
+msgstr "p24_1"
 
 #: ../../variable/Q860.rst:134
+#, fuzzy
 msgid "p25_1"
-msgstr ""
+msgstr "p25_1"
 
 #: ../../variable/Q860.rst:136
+#, fuzzy
 msgid "p26_1"
-msgstr ""
+msgstr "p26_1"
 
 #: ../../variable/Q860.rst:138
+#, fuzzy
 msgid "p27_1"
-msgstr ""
+msgstr "p27_1"
 
 #: ../../variable/Q860.rst:140
 msgid "p28_1"
@@ -245,4 +275,3 @@ msgstr ""
 
 #~ msgid "職業〔第4回～〕"
 #~ msgstr ""
-

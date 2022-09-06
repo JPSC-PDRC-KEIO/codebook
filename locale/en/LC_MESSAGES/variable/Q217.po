@@ -8,18 +8,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-17 10:58+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2022-03-11 10:49+0900\n"
+"PO-Revision-Date: 2022-09-02 15:43+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/Q217.rst:6
 msgid "業種（配偶者）[第1回 |endash| 第20回]"
-msgstr ""
+msgstr "Industry (spouse) [Wave 1 |endash| Wave 20]"
 
 #: ../../variable/Q217.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q217.rst:21
 msgid "その勤め先の業種は次のどれに該当しますか。（派遣社員の方は、派遣元の業種についてお答えください）"
-msgstr ""
+msgstr "Which of the following industries best describes your first employer? (If you are a temporary worker, please indicate the sector from which you were dispatched.)"
 
 #: ../../variable/Q217.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,51 +45,51 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q217.rst:30
 msgid "農林業"
-msgstr ""
+msgstr "Agriculture and forestry"
 
 #: ../../variable/Q217.rst:31
 msgid "漁業・水産業"
-msgstr ""
+msgstr "Fishing and fisheries"
 
 #: ../../variable/Q217.rst:32
 msgid "鉱業"
-msgstr ""
+msgstr "Mining"
 
 #: ../../variable/Q217.rst:33
 msgid "建設業"
-msgstr ""
+msgstr "Construction"
 
 #: ../../variable/Q217.rst:34
 msgid "製造業（出版、印刷を含む）"
-msgstr ""
+msgstr "Manufacturing (including publishing and printing)"
 
 #: ../../variable/Q217.rst:35
 msgid "卸売・小売業（デパート、スーパー、食堂、喫茶店を含む）"
-msgstr ""
+msgstr "Wholesale and retail trade (including department stores, supermarkets, cafeterias, and coffee shops)"
 
 #: ../../variable/Q217.rst:36
 msgid "金融・保険・不動産業"
-msgstr ""
+msgstr "Finance, insurance and real estate"
 
 #: ../../variable/Q217.rst:37
 msgid "運輸・通信業"
-msgstr ""
+msgstr "Transportation and communication"
 
 #: ../../variable/Q217.rst:38
 msgid "電気・ガス・水道・熱供給業"
-msgstr ""
+msgstr "Electricity, gas, water, and heat supply"
 
 #: ../../variable/Q217.rst:39
 msgid "サービス業（学校、病院、ホテル、映画館、理・美容店、広告代理店、清掃会社を含む）"
-msgstr ""
+msgstr "Service industry (including schools, hospitals, hotels, movie theaters, barber and beauty stores, advertising agencies, cleaning companies)"
 
 #: ../../variable/Q217.rst:40
 msgid "公務"
-msgstr ""
+msgstr "Official business"
 
 #: ../../variable/Q217.rst:41
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../variable/Q217.rst:49
 msgid "桁あふれコード"
@@ -109,146 +111,135 @@ msgstr ""
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q217.rst:72
-msgid ""
-"この変数は第1回から第20回まで使用されていた旧分類となります。 第21回からは16分類（:doc:`Q1183 "
-"</variable/Q1183>`）で尋ねています。こちらもあわせてご確認下さい。 ただし旧分類の当変数（:doc:`Q217 "
-"</variable/Q217>`）は、第21回以降のデータにも12分類にリコードして残しています"
-msgstr ""
-
-#: ../../variable/Q217.rst:76
-msgid "詳しくはこちら（:doc:`/syugyo_hs/gensyoku_hs/gyousyu_hs`）をご参照ください。"
-msgstr ""
-
-#: ../../variable/Q217.rst:82
+#: ../../variable/Q217.rst:78
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q217.rst:87
+#: ../../variable/Q217.rst:83
 msgid "p1_1"
-msgstr ""
+msgstr "p1_1"
+
+#: ../../variable/Q217.rst:85
+msgid "p2_1"
+msgstr "p2_1"
+
+#: ../../variable/Q217.rst:87
+msgid "p3_1"
+msgstr "p3_1"
 
 #: ../../variable/Q217.rst:89
-msgid "p2_1"
-msgstr ""
+msgid "p4_1"
+msgstr "p4_1"
 
 #: ../../variable/Q217.rst:91
-msgid "p3_1"
-msgstr ""
+msgid "p5a_1"
+msgstr "p5a_1"
 
 #: ../../variable/Q217.rst:93
-msgid "p4_1"
-msgstr ""
+msgid "p5b_1"
+msgstr "p5b_1"
 
 #: ../../variable/Q217.rst:95
-msgid "p5a_1"
-msgstr ""
+msgid "p6_1"
+msgstr "p6_1"
 
 #: ../../variable/Q217.rst:97
-msgid "p5b_1"
-msgstr ""
+msgid "p7_1"
+msgstr "p7_1"
 
 #: ../../variable/Q217.rst:99
-msgid "p6_1"
-msgstr ""
+msgid "p8_1"
+msgstr "p8_1"
 
 #: ../../variable/Q217.rst:101
-msgid "p7_1"
-msgstr ""
+msgid "p9_1"
+msgstr "p9_1"
 
 #: ../../variable/Q217.rst:103
-msgid "p8_1"
-msgstr ""
+msgid "p10_1"
+msgstr "p10_1"
 
 #: ../../variable/Q217.rst:105
-msgid "p9_1"
-msgstr ""
+msgid "p11ab_1"
+msgstr "p11ab_1"
 
 #: ../../variable/Q217.rst:107
-msgid "p10_1"
-msgstr ""
+msgid "p11c_1"
+msgstr "p11c_1"
 
 #: ../../variable/Q217.rst:109
-msgid "p11ab_1"
-msgstr ""
+msgid "p12_1"
+msgstr "p12_1"
 
 #: ../../variable/Q217.rst:111
-msgid "p11c_1"
-msgstr ""
+msgid "p13_1"
+msgstr "p13_1"
 
 #: ../../variable/Q217.rst:113
-msgid "p12_1"
-msgstr ""
+msgid "p14_1"
+msgstr "p14_1"
 
 #: ../../variable/Q217.rst:115
-msgid "p13_1"
-msgstr ""
+msgid "p15_1"
+msgstr "p15_1"
 
 #: ../../variable/Q217.rst:117
-msgid "p14_1"
-msgstr ""
+msgid "p16abc_1"
+msgstr "p16abc_1"
 
 #: ../../variable/Q217.rst:119
-msgid "p15_1"
-msgstr ""
+msgid "p16d_1"
+msgstr "p16d_1"
 
 #: ../../variable/Q217.rst:121
-msgid "p16abc_1"
-msgstr ""
+msgid "p17_1"
+msgstr "p17_1"
 
 #: ../../variable/Q217.rst:123
-msgid "p16d_1"
-msgstr ""
+msgid "p18_1"
+msgstr "p18_1"
 
 #: ../../variable/Q217.rst:125
-msgid "p17_1"
-msgstr ""
+msgid "p19_1"
+msgstr "p19_1"
 
 #: ../../variable/Q217.rst:127
-msgid "p18_1"
-msgstr ""
+msgid "p20_1"
+msgstr "p20_1"
 
 #: ../../variable/Q217.rst:129
-msgid "p19_1"
-msgstr ""
+msgid "p21abcd_1"
+msgstr "p21abcd_1"
 
 #: ../../variable/Q217.rst:131
-msgid "p20_1"
-msgstr ""
+msgid "p21e_1"
+msgstr "p21e_1"
 
 #: ../../variable/Q217.rst:133
-msgid "p21abcd_1"
-msgstr ""
+msgid "p22_1"
+msgstr "p22_1"
 
 #: ../../variable/Q217.rst:135
-msgid "p21e_1"
-msgstr ""
+msgid "p23_1"
+msgstr "p23_1"
 
 #: ../../variable/Q217.rst:137
-msgid "p22_1"
-msgstr ""
+msgid "p24_1"
+msgstr "p24_1"
 
 #: ../../variable/Q217.rst:139
-msgid "p23_1"
-msgstr ""
+msgid "p25_1"
+msgstr "p25_1"
 
 #: ../../variable/Q217.rst:141
-msgid "p24_1"
-msgstr ""
+msgid "p26_1"
+msgstr "p26_1"
 
 #: ../../variable/Q217.rst:143
-msgid "p25_1"
-msgstr ""
+msgid "p27_1"
+msgstr "p27_1"
 
 #: ../../variable/Q217.rst:145
-msgid "p26_1"
-msgstr ""
-
-#: ../../variable/Q217.rst:147
-msgid "p27_1"
-msgstr ""
-
-#: ../../variable/Q217.rst:149
 msgid "p28_1"
 msgstr ""
 
@@ -261,3 +252,11 @@ msgstr ""
 #~ msgid "業種（配偶者）〔第1～第20回〕"
 #~ msgstr ""
 
+#~ msgid ""
+#~ "この変数は第1回から第20回まで使用されていた旧分類となります。 第21回からは16分類（:doc:`Q1183 "
+#~ "</variable/Q1183>`）で尋ねています。こちらもあわせてご確認下さい。 ただし旧分類の当変数（:doc:`Q217"
+#~ " </variable/Q217>`）は、第21回以降のデータにも12分類にリコードして残しています"
+#~ msgstr ""
+
+#~ msgid "詳しくはこちら（:doc:`/syugyo_hs/gensyoku_hs/gyousyu_hs`）をご参照ください。"
+#~ msgstr ""

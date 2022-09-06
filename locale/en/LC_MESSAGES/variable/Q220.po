@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-09-01 16:14+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/Q220.rst:6
 msgid "月当たり額（月給・週給：配偶者）"
-msgstr ""
+msgstr "Salary per month (monthly/weekly salary: spouse)"
 
 #: ../../variable/Q220.rst:11
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q220.rst:21
 msgid "ご主人のは月にいくらぐらいこの仕事から収入を得ていますか。（残業手当を含む、ボーナスを含まない税引き前の収入）"
-msgstr ""
+msgstr "How much does your husband earn from this job per month? (pre-tax income including overtime pay and excluding bonuses)"
 
 #: ../../variable/Q220.rst:24
 msgid "月あたり"
-msgstr ""
+msgstr "Salary per month"
 
 #: ../../variable/Q220.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,7 +49,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q220.rst:33
 msgid "＿ ＿ ＿ 万 ＿ 千円"
-msgstr ""
+msgstr "_ , _ _ _ , 000 yen"
 
 #: ../../variable/Q220.rst:40
 msgid "桁あふれコード"
@@ -79,123 +81,123 @@ msgstr "Data files (csv)"
 
 #: ../../variable/Q220.rst:74
 msgid "p2_1"
-msgstr ""
+msgstr "p2_1"
 
 #: ../../variable/Q220.rst:76
 msgid "p3_1"
-msgstr ""
+msgstr "p3_1"
 
 #: ../../variable/Q220.rst:78
 msgid "p4_1"
-msgstr ""
+msgstr "p4_1"
 
 #: ../../variable/Q220.rst:80
 msgid "p5a_1"
-msgstr ""
+msgstr "p5a_1"
 
 #: ../../variable/Q220.rst:82
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #: ../../variable/Q220.rst:84
 msgid "p6_1"
-msgstr ""
+msgstr "p6_1"
 
 #: ../../variable/Q220.rst:86
 msgid "p7_1"
-msgstr ""
+msgstr "p7_1"
 
 #: ../../variable/Q220.rst:88
 msgid "p8_1"
-msgstr ""
+msgstr "p8_1"
 
 #: ../../variable/Q220.rst:90
 msgid "p9_1"
-msgstr ""
+msgstr "p9_1"
 
 #: ../../variable/Q220.rst:92
 msgid "p10_1"
-msgstr ""
+msgstr "p10_1"
 
 #: ../../variable/Q220.rst:94
 msgid "p11ab_1"
-msgstr ""
+msgstr "p11ab_1"
 
 #: ../../variable/Q220.rst:96
 msgid "p11c_1"
-msgstr ""
+msgstr "p11c_1"
 
 #: ../../variable/Q220.rst:98
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: ../../variable/Q220.rst:100
 msgid "p13_1"
-msgstr ""
+msgstr "p13_1"
 
 #: ../../variable/Q220.rst:102
 msgid "p14_1"
-msgstr ""
+msgstr "p14_1"
 
 #: ../../variable/Q220.rst:104
 msgid "p15_1"
-msgstr ""
+msgstr "p15_1"
 
 #: ../../variable/Q220.rst:106
 msgid "p16abc_1"
-msgstr ""
+msgstr "p16abc_1"
 
 #: ../../variable/Q220.rst:108
 msgid "p16d_1"
-msgstr ""
+msgstr "p16d_1"
 
 #: ../../variable/Q220.rst:110
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: ../../variable/Q220.rst:112
 msgid "p18_1"
-msgstr ""
+msgstr "p18_1"
 
 #: ../../variable/Q220.rst:114
 msgid "p19_1"
-msgstr ""
+msgstr "p19_1"
 
 #: ../../variable/Q220.rst:116
 msgid "p20_1"
-msgstr ""
+msgstr "p20_1"
 
 #: ../../variable/Q220.rst:118
 msgid "p21abcd_1"
-msgstr ""
+msgstr "p21abcd_1"
 
 #: ../../variable/Q220.rst:120
 msgid "p21e_1"
-msgstr ""
+msgstr "p21e_1"
 
 #: ../../variable/Q220.rst:122
 msgid "p22_1"
-msgstr ""
+msgstr "p22_1"
 
 #: ../../variable/Q220.rst:124
 msgid "p23_1"
-msgstr ""
+msgstr "p23_1"
 
 #: ../../variable/Q220.rst:126
 msgid "p24_1"
-msgstr ""
+msgstr "p24_1"
 
 #: ../../variable/Q220.rst:128
 msgid "p25_1"
-msgstr ""
+msgstr "p25_1"
 
 #: ../../variable/Q220.rst:130
 msgid "p26_1"
-msgstr ""
+msgstr "p26_1"
 
 #: ../../variable/Q220.rst:132
 msgid "p27_1"
-msgstr ""
+msgstr "p27_1"
 
 #: ../../variable/Q220.rst:134
 msgid "p28_1"
@@ -224,4 +226,3 @@ msgstr ""
 
 #~ msgid "|lline| |lline| |lline| 万 |lline| 千円"
 #~ msgstr ""
-
