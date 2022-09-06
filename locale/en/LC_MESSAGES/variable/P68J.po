@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/P68J.rst:5
 msgid "前職の離職理由：能力が生かせない仕事だったから"
-msgstr "Reason for leaving previous job: Job did not allow you to utilize your skills."
+msgstr "Reason for leaving previous job: job did not allow you to utilize your skills."
 
 #: ../../variable/P68J.rst:9
 msgid "変数名"
