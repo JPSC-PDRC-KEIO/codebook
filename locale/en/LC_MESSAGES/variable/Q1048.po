@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2022-09-02 16:15+0900\n"
+"PO-Revision-Date: 2022-09-06 14:48+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -45,11 +45,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1048.rst:27
 msgid "派遣社員"
-msgstr "Yes, he is."
+msgstr "Yes"
 
 #: ../../variable/Q1048.rst:29
 msgid "派遣社員ではない"
-msgstr "No, he isn't."
+msgstr "No"
 
 #: ../../variable/Q1048.rst:36
 msgid "桁あふれコード"

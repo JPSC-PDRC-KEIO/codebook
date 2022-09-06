@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: 2022-09-05 14:48+0900\n"
+"PO-Revision-Date: 2022-09-06 14:55+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -37,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q1123.rst:21
 msgid "この一年間(調査前年10月～調査年9月)に（a）登録している派遣会社と、（b）実際に勤務しているお勤め先にそれぞれ変更はありましたか。"
-msgstr "During the past year (from October of the previous year to September of the survey year), have there been any changes in (a) the temporary employment agency with which you are registered and (b) the company at which you actually work?"
+msgstr "During the past year (from October of the previous year to September of the survey year), have there been any changes in (a) the temporary employment agency with which your husband is registered and (b) the company at which he actually works?"
 
 #: ../../variable/Q1123.rst:24
 msgid "（b）お勤め先（派遣会社）"
-msgstr "\(b) the company at which you actually work (temporary employment agency)"
+msgstr "\(b) the company at which he actually works (temporary employment agency)"
 
 #: ../../variable/Q1123.rst:31
 msgid "選択肢 / 記入欄"
@@ -49,11 +49,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1123.rst:33
 msgid "変更あり"
-msgstr "Yes, there have."
+msgstr "Yes"
 
 #: ../../variable/Q1123.rst:34
 msgid "変更なし"
-msgstr "No, there haven't."
+msgstr "No"
 
 #: ../../variable/Q1123.rst:42
 msgid "桁あふれコード"

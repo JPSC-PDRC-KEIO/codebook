@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: 2022-08-30 11:00+0900\n"
+"PO-Revision-Date: 2022-09-06 14:39+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -45,11 +45,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q240.rst:30
 msgid "仕事についていた"
-msgstr "Yes, he did."
+msgstr "Yes"
 
 #: ../../variable/Q240.rst:31
 msgid "仕事についていなかった"
-msgstr "No, he isn't."
+msgstr "No"
 
 #: ../../variable/Q240.rst:39
 msgid "桁あふれコード"

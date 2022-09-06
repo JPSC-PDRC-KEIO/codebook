@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-11 10:49+0900\n"
-"PO-Revision-Date: 2022-09-02 12:52+0900\n"
+"PO-Revision-Date: 2022-09-06 14:25+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -37,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q1183.rst:21
 msgid "その勤め先の業種は次のどれに該当しますか。（派遣社員の方は、派遣元の業種についてお答えください）"
-msgstr "Which of the following industries best describes your first employer? (If you are a temporary worker, please indicate the sector from which you were dispatched.)"
+msgstr "Which of the following industries best describes your husband's employer? (If he is a temporary worker, please indicate the sector from which he was dispatched.)"
 
 #: ../../variable/Q1183.rst:28
 msgid "選択肢 / 記入欄"

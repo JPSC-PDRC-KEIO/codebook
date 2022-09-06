@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: 2022-09-01 16:21+0900\n"
+"PO-Revision-Date: 2022-09-06 14:29+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -37,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q226.rst:21
 msgid "この１年間（調査前年10月～調査年9月）に実際に勤務したのは何日ですか。"
-msgstr "How many days did you actually work during the past year (from October of previous year to September of survey year)?"
+msgstr "How many days did your husband actually work during the past year (from October of previous year to September of survey year)?"
 
 #: ../../variable/Q226.rst:28
 msgid "選択肢 / 記入欄"
