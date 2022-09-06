@@ -8,97 +8,110 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-09-06 13:34+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q185P.rst:5
-#: ../../variable/Q185P.rst:26
-msgid "職場の上司との関係がうまくいかなくて"
-msgstr ""
+#: ../../variable/Q185P.rst:6
+msgid "離職理由：職場の上司との関係がうまくいかなくて"
+msgstr "Reason for leaving job: difficulty in relationship with supervisor at work"
 
-#: ../../variable/Q185P.rst:9
+#: ../../variable/Q185P.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q185P.rst:11
+#: ../../variable/Q185P.rst:13
 msgid "Q185P"
 msgstr ""
 
-#: ../../variable/Q185P.rst:15
+#: ../../variable/Q185P.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q185P.rst:18
-msgid "どのような理由で、あなたは１年前（昨年9月末）の会社等をやめたのですか。(〇はいくつでも)"
+#: ../../variable/Q185P.rst:21
+msgid "どのような理由で、あなたは１年前（昨年9月末）の会社等をやめたのですか。"
 msgstr ""
+"Why did you leave the company or organization where you worked one year "
+"ago (at the end of September last year)?"
 
-#: ../../variable/Q185P.rst:24
+#: ../../variable/Q185P.rst:23
+msgid "職場の上司との関係がうまくいかなくて"
+msgstr "Difficulty in relationship with supervisor at work"
+
+#: ../../variable/Q185P.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q185P.rst:32
+#: ../../variable/Q185P.rst:30
+msgid "はい"
+msgstr "Yes"
+
+#: ../../variable/Q185P.rst:31
+msgid "いいえ"
+msgstr "No"
+
+#: ../../variable/Q185P.rst:36
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q185P.rst:38
+#: ../../variable/Q185P.rst:43
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q185P.rst:44
+#: ../../variable/Q185P.rst:50
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q185P.rst:45
+#: ../../variable/Q185P.rst:51
 msgid "3"
 msgstr ""
 
-#: ../../variable/Q185P.rst:50
+#: ../../variable/Q185P.rst:57
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q185P.rst:56
+#: ../../variable/Q185P.rst:65
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q185P.rst:61
+#: ../../variable/Q185P.rst:70
 msgid "p2_1"
 msgstr ""
 
-#: ../../variable/Q185P.rst:63
+#: ../../variable/Q185P.rst:72
 msgid "p3_1"
 msgstr ""
 
-#: ../../variable/Q185P.rst:65
+#: ../../variable/Q185P.rst:74
 msgid "p4_1"
 msgstr ""
 
-#: ../../variable/Q185P.rst:67
+#: ../../variable/Q185P.rst:76
 msgid "p5a_1"
 msgstr ""
 
-#: ../../variable/Q185P.rst:69
+#: ../../variable/Q185P.rst:78
 msgid "p6_1"
 msgstr ""
 
-#: ../../variable/Q185P.rst:71
+#: ../../variable/Q185P.rst:80
 msgid "p7_1"
 msgstr ""
 
-#: ../../variable/Q185P.rst:73
+#: ../../variable/Q185P.rst:82
 msgid "p8_1"
 msgstr ""
 
-#: ../../variable/Q185P.rst:75
+#: ../../variable/Q185P.rst:84
 msgid "p9_1"
 msgstr ""
 
-#: ../../variable/Q185P.rst:77
+#: ../../variable/Q185P.rst:86
 msgid "p10_1"
 msgstr ""
 

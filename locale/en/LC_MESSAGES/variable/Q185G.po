@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q185G.rst:6
 msgid "離職理由：家族の就職・転職・転勤及び事業所の移転のため"
-msgstr "Reason for leaving job: Workplace change of household member’s"
+msgstr "Reason for leaving job: workplace change of household member’s"
 
 #: ../../variable/Q185G.rst:11
 msgid "変数名"
@@ -36,12 +36,10 @@ msgid "質問文"
 msgstr "Question"
 
 #: ../../variable/Q185G.rst:21
-msgid "どのような理由で、あなたは１年前（昨年9月末）の会社等をやめたのですか。(〇はいくつでも)"
+msgid "どのような理由で、あなたは１年前（昨年9月末）の会社等をやめたのですか。"
 msgstr ""
 "Why did you leave the company or organization where you worked one year "
-"ago (at the end of September of the previous year of the survey)? (Circle"
-" as many as apply to you.)"
-
+"ago (at the end of September last year)? "
 #: ../../variable/Q185G.rst:24
 msgid "家族の就職・転職・転勤及び事業所の移転のため"
 msgstr ""

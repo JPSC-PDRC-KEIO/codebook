@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q185Z.rst:6
 msgid "離職理由：妊娠・出産のため"
-msgstr "Reason for leaving job: Pregnant or had a baby"
+msgstr "Reason for leaving job: pregnant or had a baby"
 
 #: ../../variable/Q185Z.rst:11
 msgid "変数名"
@@ -36,12 +36,10 @@ msgid "質問文"
 msgstr "Question"
 
 #: ../../variable/Q185Z.rst:21
-msgid "どのような理由で、あなたは１年前（昨年9月末）の会社等をやめたのですか。(〇はいくつでも)"
+msgid "どのような理由で、あなたは１年前（昨年9月末）の会社等をやめたのですか。"
 msgstr ""
 "Why did you leave the company or organization where you worked one year "
-"ago (at the end of September of the previous year of the survey)? (Circle"
-" as many as apply to you.)"
-
+"ago (at the end of September last year)? "
 #: ../../variable/Q185Z.rst:24
 msgid "妊娠・出産のため"
 msgstr "Because I was pregnant or had a baby"

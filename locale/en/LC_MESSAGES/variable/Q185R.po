@@ -20,8 +20,8 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../variable/Q185R.rst:6
-msgid "離職理由：大学や専門学校などでの勉強や留学準備のため"
-msgstr "Reason for leaving job: To study"
+msgid "離職理由：解雇された"
+msgstr "Reason for leaving job: dismissed"
 
 #: ../../variable/Q185R.rst:11
 msgid "変数名"
@@ -36,17 +36,14 @@ msgid "質問文"
 msgstr "Question"
 
 #: ../../variable/Q185R.rst:21
-msgid "どのような理由で、あなたは１年前（昨年9月末）の会社等をやめたのですか。(〇はいくつでも)"
+msgid "どのような理由で、あなたは１年前（昨年9月末）の会社等をやめたのですか。"
 msgstr ""
 "Why did you leave the company or organization where you worked one year "
-"ago (at the end of September of the previous year of the survey)? (Circle"
-" as many as apply to you.)"
+"ago (at the end of September of the previous year of the survey)? "
 
 #: ../../variable/Q185R.rst:24
-msgid "大学や専門学校などでの勉強や留学準備のため"
-msgstr ""
-"Because I wanted to study at university, college, or "
-"professional[[vocational]] school or prepare to study overseas"
+msgid "解雇された"
+msgstr "Dismissed."
 
 #: ../../variable/Q185R.rst:31
 msgid "選択肢 / 記入欄"

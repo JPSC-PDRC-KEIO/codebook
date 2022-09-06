@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q185X.rst:6
 msgid "離職理由：人間関係がきまずくなったから"
-msgstr "Reason for leaving job: Interpersonal problems at work"
+msgstr "Reason for leaving job: interpersonal problems at work"
 
 #: ../../variable/Q185X.rst:11
 msgid "変数名"
@@ -36,11 +36,10 @@ msgid "質問文"
 msgstr "Question"
 
 #: ../../variable/Q185X.rst:21
-msgid "どのような理由で、あなたはその前職をやめたのですか。(〇はいくつでも)"
+msgid "どのような理由で、あなたはその前職をやめたのですか。"
 msgstr ""
 "Why did you leave the company or organization where you worked one year "
-"ago (at the end of September of the previous year of the survey)? (Circle"
-" as many as apply to you.)"
+"ago (at the end of September last year)? "
 
 #: ../../variable/Q185X.rst:24
 msgid "人間関係がきまずくなったから"
