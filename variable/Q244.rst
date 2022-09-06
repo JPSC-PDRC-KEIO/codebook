@@ -59,7 +59,7 @@ Q244
 備考
 ==================
  
-
+   この質問は、 :doc:`Q241 </variable/Q241>` から分岐した付問です。
 
 
 .. rst-class:: include_sheet
