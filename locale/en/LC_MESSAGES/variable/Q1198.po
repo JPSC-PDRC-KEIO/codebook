@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-09-05 14:08+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/Q1198.rst:6
 msgid "お金の使い方"
-msgstr ""
+msgstr "Spending Habits"
 
 #: ../../variable/Q1198.rst:11
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q1198.rst:21
 msgid "あなた方ご夫婦は、お金に対して細かい方だと思いますか、ルーズな方だと思いますか。ご主人については、あなたの評価をお聞かせください。（それぞれ〇は１つずつ）"
-msgstr ""
+msgstr "Do you think you and your husband are thrifty with money or loose with money? Please tell us your evaluation of your husband. (circle one for each )"
 
 #: ../../variable/Q1198.rst:24
 msgid "あなた"
-msgstr ""
+msgstr "You"
 
 #: ../../variable/Q1198.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,23 +49,23 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1198.rst:33
 msgid "細かい"
-msgstr ""
+msgstr "Thrifty"
 
 #: ../../variable/Q1198.rst:34
 msgid "やや細かい"
-msgstr ""
+msgstr "Somewhat thrifty"
 
 #: ../../variable/Q1198.rst:35
 msgid "ちょうどよい"
-msgstr ""
+msgstr "Moderate"
 
 #: ../../variable/Q1198.rst:36
 msgid "ややルーズ"
-msgstr ""
+msgstr "Somewhat loose"
 
 #: ../../variable/Q1198.rst:37
 msgid "ルーズ"
-msgstr ""
+msgstr "Loose"
 
 #: ../../variable/Q1198.rst:45
 msgid "桁あふれコード"
@@ -79,7 +81,7 @@ msgstr "No response code"
 
 #: ../../variable/Q1198.rst:60
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../variable/Q1198.rst:66
 msgid "備考"
@@ -87,11 +89,11 @@ msgstr "Remarks"
 
 #: ../../variable/Q1198.rst:69
 msgid "無配偶票と共通の変数です。"
-msgstr ""
+msgstr "This is a common variable with the questionnaire to unmarried"
 
 #: ../../variable/Q1198.rst:72
 msgid "無配偶票の質問文は「あなたは、お金に対して細かい方だと思いますか、ルーズな方だと思いますか。」となっています。"
-msgstr ""
+msgstr "The question on the no-evening form is \"Do you think you are thrifty with money or loose with money?\""
 
 #: ../../variable/Q1198.rst:80
 msgid "収録シート"
@@ -99,23 +101,23 @@ msgstr "Data files (csv)"
 
 #: ../../variable/Q1198.rst:85
 msgid "p23_1"
-msgstr ""
+msgstr "p23_1"
 
 #: ../../variable/Q1198.rst:87
 msgid "p24_1"
-msgstr ""
+msgstr "p24_1"
 
 #: ../../variable/Q1198.rst:89
 msgid "p25_1"
-msgstr ""
+msgstr "p25_1"
 
 #: ../../variable/Q1198.rst:91
 msgid "p26_1"
-msgstr ""
+msgstr "p26_1"
 
 #: ../../variable/Q1198.rst:93
 msgid "p27_1"
-msgstr ""
+msgstr "p27_1"
 
 #: ../../variable/Q1198.rst:95
 msgid "p28_1"
@@ -140,4 +142,3 @@ msgstr ""
 
 #~ msgid "については、あなたの評価をお聞かせください。(それぞれ〇は１つずつ)"
 #~ msgstr ""
-

@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-09-05 14:40+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/Q1118.rst:6
 msgid "雇用保険失業給付受給の有無（無職）〔第18回～〕"
-msgstr ""
+msgstr "Receiving unemployment insurance benefits (unemployed) [Wave18 -]"
 
 #: ../../variable/Q1118.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q1118.rst:21
 msgid "この１年間（調査前年10月～調査年9月）に雇用保険の失業給付を受給しましたか。"
-msgstr ""
+msgstr "During the past year (from October of the previous year to September of the survey year), did you receive unemployment insurance benefits?"
 
 #: ../../variable/Q1118.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,23 +45,23 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1118.rst:30
 msgid "受給していた"
-msgstr ""
+msgstr "Yes, I did."
 
 #: ../../variable/Q1118.rst:31
 msgid "受給している"
-msgstr ""
+msgstr "No, I didn't"
 
 #: ../../variable/Q1118.rst:32
 msgid "現在申請している"
-msgstr ""
+msgstr "Currently under application"
 
 #: ../../variable/Q1118.rst:33
 msgid "雇用保険に入っていたが受給しなかった"
-msgstr ""
+msgstr "Had unemployment insurance but did not receive the benefits."
 
 #: ../../variable/Q1118.rst:34
 msgid "雇用保険には入っていなかった"
-msgstr ""
+msgstr "I didn't have unemployment insurance."
 
 #: ../../variable/Q1118.rst:42
 msgid "桁あふれコード"
@@ -75,7 +77,7 @@ msgstr "No response code"
 
 #: ../../variable/Q1118.rst:57
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../variable/Q1118.rst:63
 msgid "備考"
@@ -87,43 +89,43 @@ msgstr "Data files (csv)"
 
 #: ../../variable/Q1118.rst:76
 msgid "p18_1"
-msgstr ""
+msgstr "p18_1"
 
 #: ../../variable/Q1118.rst:78
 msgid "p19_1"
-msgstr ""
+msgstr "p19_1"
 
 #: ../../variable/Q1118.rst:80
 msgid "p20_1"
-msgstr ""
+msgstr "p20_1"
 
 #: ../../variable/Q1118.rst:82
 msgid "p21abcd_1"
-msgstr ""
+msgstr "p21abcd_1"
 
 #: ../../variable/Q1118.rst:84
 msgid "p22_1"
-msgstr ""
+msgstr "p22_1"
 
 #: ../../variable/Q1118.rst:86
 msgid "p23_1"
-msgstr ""
+msgstr "p23_1"
 
 #: ../../variable/Q1118.rst:88
 msgid "p24_1"
-msgstr ""
+msgstr "p24_1"
 
 #: ../../variable/Q1118.rst:90
 msgid "p25_1"
-msgstr ""
+msgstr "p25_1"
 
 #: ../../variable/Q1118.rst:92
 msgid "p26_1"
-msgstr ""
+msgstr "p26_1"
 
 #: ../../variable/Q1118.rst:94
 msgid "p27_1"
-msgstr ""
+msgstr "p27_1"
 
 #: ../../variable/Q1118.rst:96
 msgid "p28_1"
@@ -134,4 +136,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
