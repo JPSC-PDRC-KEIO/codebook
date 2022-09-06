@@ -59,7 +59,7 @@ Q1121
 備考
 ==================
  
-
+   この質問は、 :doc:`Q240 </variable/Q240>` から分岐した付問です。
 
 
 .. rst-class:: include_sheet
