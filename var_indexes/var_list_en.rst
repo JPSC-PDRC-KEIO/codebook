@@ -197,23 +197,23 @@ List of variables
 * `P68AA    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68AA.html>`_ : Reason for leaving previous job: pregnancy and childbirth
 * `P68AB    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68AB.html>`_ : Reason for leaving previous job: childcare/child rearing
 * `P68B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68B.html>`_ : Reason for leaving previous job: temporary/unstable job
-* `P68C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68C.html>`_ : Reason for leaving previous job: Low income
-* `P68D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68D.html>`_ : Reason for leaving previous job: Poor working conditions
+* `P68C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68C.html>`_ : Reason for leaving previous job: low income
+* `P68D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68D.html>`_ : Reason for leaving previous job: poor working conditions
 * `P68E     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68E.html>`_ : Reason for leaving previous job: job was not suitable for me.
 * `P68F     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68F.html>`_ : Reason for leaving previous job: family member’s employment, job change, transfer, or business relocation
 * `P68G     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68G.html>`_ : Reason for leaving previous job: your own illness
 * `P68H     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68H.html>`_ : Reason for leaving previous job: marriage
 * `P68I     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68I.html>`_ : Reason for leaving previous job: childbirth/child care
-* `P68J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68J.html>`_ : Reason for leaving previous job: Job did not allow you to utilize your skills.
+* `P68J     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68J.html>`_ : Reason for leaving previous job: job did not allow you to utilize your skills.
 * `P68K     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68K.html>`_ : Reason for leaving previous job: found a job with better conditions/became independent
 * `P68L     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68L.html>`_ : Reason for leaving previous job: relationships became awkward.
 * `P68M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68M.html>`_ : Reason for leaving previous job: other
 * `P68N     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68N.html>`_ : Reason for leaving previous job: felt monotonous and boring
 * `P68O     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68O.html>`_ : Reason for leaving previous job: to have children
-* `P68P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68P.html>`_ : Reason for leaving previous job: Concern for my health due to pregnancy
+* `P68P     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68P.html>`_ : Reason for leaving previous job: concern for my health due to pregnancy
 * `P68Q     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68Q.html>`_ : Reason for leaving previous job: to care for family members
-* `P68R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68R.html>`_ : Reason for leaving previous job: Difficulty in relationship with supervisor at work
-* `P68S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68S.html>`_ : Reason for leaving preivous job: Relationship with co-workers was not going well.
+* `P68R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68R.html>`_ : Reason for leaving previous job: difficulty in relationship with supervisor at work
+* `P68S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68S.html>`_ : Reason for leaving preivous job: relationship with co-workers was not going well.
 * `P68T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68T.html>`_ : Reason for leaving previous job: laid off
 * `P68U     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68U.html>`_ : Reason for leaving previous job: to study at a university or vocational school or to prepare for study abroad
 * `P68V     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P68V.html>`_ : Reason for leaving previous job: poor working conditions (income, hours)
@@ -798,33 +798,33 @@ List of variables
 * `Q181     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q181.html>`_ : 配置転換の有無
 * `Q182     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q182.html>`_ : 仕事内容変化の有無
 * `Q184     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q184.html>`_ : 勤務先変更理由
-* `Q185A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185A.html>`_ : Reason for leaving job: downsizing, dissolution, bankruptcy
-* `Q185AA   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185AA.html>`_ : Reason for leaving job: childcare/child rearing
-* `Q185B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185B.html>`_ : Reason for leaving job: temporary/unstable job
-* `Q185C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185C.html>`_ : Low income
-* `Q185D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185D.html>`_ : Poor working conditions
-* `Q185E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185E.html>`_ : Wasn’t the right job for me
-* `Q185F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185F.html>`_ : 単調な仕事でむなしいとおもったから
-* `Q185G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185G.html>`_ : Reason for leaving job: Workplace change of household member’s
-* `Q185H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185H.html>`_ : Reason for leaving job: Married
-* `Q185I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185I.html>`_ : Because I want to have children.
-* `Q185J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185J.html>`_ : 妊娠のため身体を気づかって
-* `Q185K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185K.html>`_ : Q185Oと重複
-* `Q185L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185L.html>`_ : Reason for leaving job: Sick
-* `Q185M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185M.html>`_ : Reason for leaving job: Care for household member
-* `Q185N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185N.html>`_ : 能力が生かせない仕事だったから
-* `Q185O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185O.html>`_ : Reason for leaving job: Found a new job or started my own company
-* `Q185P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185P.html>`_ : Difficulty with your supervisor at work
-* `Q185Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185Q.html>`_ : 職場の同僚との関係がうまくいかなくて
-* `Q185R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185R.html>`_ : Reason for leaving job: To study
-* `Q185S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185S.html>`_ : Reason for leaving job: Retirement age or contract finished
-* `Q185T    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185T.html>`_ : Reason for leaving job: Other
-* `Q185U    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185U.html>`_ : Reason for leaving job: poor working conditions
-* `Q185V    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185V.html>`_ : Reason for leaving job: Dissatisfied with work tasks
-* `Q185W    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185W.html>`_ : 離職理由：妊娠・出産・育児のため
-* `Q185X    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185X.html>`_ : 離職理由：人間関係がきまずくなったから
-* `Q185Y    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185Y.html>`_ : Reason for leaving job: Dismissed
-* `Q185Z    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185Z.html>`_ : Reason for leaving job: Pregnant or had a baby
+* `Q185A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185A.html>`_ : Reason for leaving job: downsizing, company dissolution, bankruptcy
+* `Q185AA   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185AA.html>`_ : Reason for leaving job: child care
+* `Q185B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185B.html>`_ : Reason for leaving job: work was temporary and unstable
+* `Q185C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185C.html>`_ : Reason for leaving job: low income
+* `Q185D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185D.html>`_ : Reason for leaving job: poor working conditions
+* `Q185E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185E.html>`_ : Reason for leaving job: ob was not suitable for me
+* `Q185F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185F.html>`_ : Reason for leaving job: felt monotonous and boring
+* `Q185G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185G.html>`_ : Reason for leaving job: workplace change of household member’s
+* `Q185H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185H.html>`_ : Reason for leaving job: married
+* `Q185I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185I.html>`_ : Reason for leaving job: to have children
+* `Q185J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185J.html>`_ : Reason for leaving job: concern for my health due to pregnancy
+* `Q185K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185K.html>`_ : Reason for leaving job: childbirth/child care
+* `Q185L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185L.html>`_ : Reason for leaving job: sick
+* `Q185M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185M.html>`_ : Reason for leaving job: care for household member
+* `Q185N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185N.html>`_ : Reason for leaving job: job did not allow you to utilize your skills.
+* `Q185O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185O.html>`_ : Reason for leaving job: found a new job or started my own company
+* `Q185P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185P.html>`_ : Reason for leaving job: difficulty in relationship with supervisor at work
+* `Q185Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185Q.html>`_ : Reason for leaving job: difficulty in relationship with supervisor at work
+* `Q185R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185R.html>`_ : Reason for leaving job: dismissed
+* `Q185S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185S.html>`_ : Reason for leaving job: to study
+* `Q185T    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185T.html>`_ : Reason for leaving job: other
+* `Q185U    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185U.html>`_ : Reason for leaving job: bad working conditions
+* `Q185V    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185V.html>`_ : Reason for leaving job: dissatisfied with work tasks
+* `Q185W    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185W.html>`_ : Reason for leaving job: pregnancy, childbirth, and childcare
+* `Q185X    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185X.html>`_ : Reason for leaving job: interpersonal problems at work
+* `Q185Y    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185Y.html>`_ : Reason for leaving job: retirement or expiration of employment contract
+* `Q185Z    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185Z.html>`_ : Reason for leaving job: pregnant or had a baby
 * `Q186A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q186A.html>`_ : Unemployment benefits received or not [2nd - 17th waves]
 * `Q186B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q186B.html>`_ : Months of receiving unemployment benefits
 * `Q187A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q187A.html>`_ : Coping with life when leaving a job: With my husband’s or my parent’s income
@@ -848,13 +848,13 @@ List of variables
 * `Q191L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191L.html>`_ : Reason for choosing current job: developing skills
 * `Q191M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191M.html>`_ : Reason for choosing current job: utilizing abilities
 * `Q191N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191N.html>`_ : Reason for choosing current job: interest in the job
-* `Q191O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191O.html>`_ : Reason for choosing current job: Management position
+* `Q191O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191O.html>`_ : Reason for choosing current job: management position
 * `Q191P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191P.html>`_ : Reason for choosing current job: opportunities to work abroad
 * `Q191Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191Q.html>`_ : Reason for choosing current job: finding a marriage partner
 * `Q191R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191R.html>`_ : Reason for choosing current job: school recommendation
 * `Q191S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191S.html>`_ : Reason for choosing current job: a family member’s recommendation
 * `Q191T    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191T.html>`_ : Reason for choosing current job: other
-* `Q191U    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191U.html>`_ : Reason for choosing current job: less time restraints and overtime work
+* `Q191U    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191U.html>`_ : Reason for choosing current job: less time restraints and flexible working hours
 * `Q191V    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191V.html>`_ : Reason for choosing current job: easy to continue after marriage and childbirth
 * `Q192A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192A.html>`_ : 現職（職種）の選択理由：収入・給与がよい
 * `Q192B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192B.html>`_ : 現職（職種）の選択理由：休日、休暇が多い
@@ -888,10 +888,10 @@ List of variables
 * `Q198D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198D.html>`_ : Reason for leaving job (not working): poor working conditions
 * `Q198E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198E.html>`_ : Reason for leaving job (not working): wasn’t the right job for me
 * `Q198F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198F.html>`_ : Reason for leaving job (not working): felt monotonous and boring
-* `Q198G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198G.html>`_ : 離職理由（無職）：家族の就職・転職・転勤および事業所の移転のため
+* `Q198G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198G.html>`_ : Reason for leaving job (not working): family member’s employment, job change, transfer, and business relocation
 * `Q198H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198H.html>`_ : Reason for leaving job (not working): marriage
 * `Q198I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198I.html>`_ : Reason for leaving job (not working): because I want to have children
-* `Q198J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198J.html>`_ : 離職理由（無職）：妊娠のために体を気づかって
+* `Q198J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198J.html>`_ : Reason for leaving job (not working): concern for your health due to pregnancy
 * `Q198K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198K.html>`_ : Reason for leaving job (not working): childcare/child rearing
 * `Q198L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198L.html>`_ : Reason for leaving job (not working): illness
 * `Q198M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198M.html>`_ : Reason for leaving job (not working): to care for a family member
@@ -905,7 +905,7 @@ List of variables
 * `Q198U    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198U.html>`_ : Reason for leaving job (not working): Poor working conditions
 * `Q198V    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198V.html>`_ : Reason for leaving job (not working): dissatisfaction with job description
 * `Q198W    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198W.html>`_ : Reason for leaving job (not working): pregnancy, childbirth, and childcare
-* `Q198X    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198X.html>`_ : 離職理由（無職）：人間関係が気まずくなったから
+* `Q198X    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198X.html>`_ : Reason for leaving job (not working): relationships became awkward.
 * `Q198Y    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198Y.html>`_ : Reason for leaving job (not working): retirement or expiration of employment contract
 * `Q198Z    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198Z.html>`_ : Reason for leaving job (not working): pregnancy and childbirth
 * `Q199A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q199A.html>`_ : 雇用保険失業給付の受給（本人無職/前職）
@@ -929,26 +929,26 @@ List of variables
 * `Q212B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q212B.html>`_ : 通算勤務先数（配偶者）
 * `Q213     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q213.html>`_ : 配偶者の就業状態 [第2回–]
 * `Q214     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q214.html>`_ : 休職理由（配偶者）
-* `Q215     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q215.html>`_ : 職業 [第1回–第3回]
+* `Q215     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q215.html>`_ : Occupation ( Wave 1–Wave 3 )
 * `Q216     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q216.html>`_ : Number of employees at work (spouse)
-* `Q217     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q217.html>`_ : 業種（配偶者）[第1回–第20回]
+* `Q217     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q217.html>`_ : Industry (spouse) [Wave 1–Wave 20]
 * `Q218     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q218.html>`_ : Type of employee (spouse) [Wave1 - Wave17]
 * `Q219     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q219.html>`_ : How salary is paid (spouse)
-* `Q220     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q220.html>`_ : 月当たり額（月給・週給：配偶者）
-* `Q221     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q221.html>`_ : 日給額（配偶者）
-* `Q222     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q222.html>`_ : 時給額（配偶者）
+* `Q220     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q220.html>`_ : Salary per month (monthly/weekly salary: spouse)
+* `Q221     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q221.html>`_ : Daily wage (spouse)
+* `Q222     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q222.html>`_ : Hourly wage (spouse)
 * `Q223     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q223.html>`_ : Working hours (spouse)
 * `Q224     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q224.html>`_ : Paid overtime hours (spouse)
 * `Q225     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q225.html>`_ : Unpaid overtime hours (spouse)
-* `Q226     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q226.html>`_ : 勤務日数（配偶者）
+* `Q226     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q226.html>`_ : Working days (spouse)
 * `Q227     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q227.html>`_ : Founding period ( - Wave 26) (spouse)
-* `Q238     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q238.html>`_ : 有給休暇日数（配偶者）
+* `Q238     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q238.html>`_ : Paid leave days (spouse)
 * `Q239     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q239.html>`_ : 有給休暇取得日数（配偶者）
-* `Q240     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q240.html>`_ : 就業状態の変化の有無（配偶者有職）
-* `Q241     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q241.html>`_ : 勤務先変更の有無（配偶者有職）
-* `Q242     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q242.html>`_ : 勤務先従業員数の増減（配偶者）
-* `Q243     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q243.html>`_ : 配置転換の有無（配偶者）
-* `Q244     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q244.html>`_ : 仕事内容変化の有無（配偶者）
+* `Q240     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q240.html>`_ : Change in employment status (spouse employed)
+* `Q241     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q241.html>`_ : Change of employer (spouse employed)
+* `Q242     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q242.html>`_ : Increase/decrease in number of employees at work (spouse)
+* `Q243     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q243.html>`_ : Redeployment (spouse)
+* `Q244     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q244.html>`_ : Change in job description (spouse)
 * `Q246     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q246.html>`_ : 勤務先変更理由（配偶者）
 * `Q247A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247A.html>`_ : Reason for leaving job (spouse, currently working): downsizing, or company dissolution or bankruptcy
 * `Q247AA   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247AA.html>`_ : Reason for leaving job (spouse, currently working): childcare/child rearing
@@ -965,14 +965,14 @@ List of variables
 * `Q247L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247L.html>`_ : Reason for leaving job (spouse, currently working): found a job with better conditions/became independent
 * `Q247M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247M.html>`_ : Reason for leaving job (spouse, currently working): difficulty with your supervisor at work
 * `Q247N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247N.html>`_ : Reason for leaving job (spouse, currently working): relationship with co-workers was not going well
-* `Q247O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247O.html>`_ : 離職理由（配偶者有職）：解雇された
-* `Q247P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247P.html>`_ : 離職理由（配偶者有職）：大学や専門学校などでの勉強や留学準備のため
+* `Q247O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247O.html>`_ : Reason for leaving job (spouse, currently working): laid off
+* `Q247P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247P.html>`_ : Reason for leaving job (spouse, currently working): to study at a university or vocational school or to prepare for study abroad
 * `Q247Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247Q.html>`_ : Reason for leaving job (spouse, currently working): other
 * `Q247R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247R.html>`_ : Reason for leaving job (spouse, currently working): poor working conditions
 * `Q247S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247S.html>`_ : Reason for leaving job (spouse, currently working): dissatisfaction with job description
 * `Q247T    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247T.html>`_ : Reason for leaving job (spouse, currently working): childcare/child rearing
 * `Q247U    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247U.html>`_ : Reason for leaving job (spouse, currently working): relationships became awkward
-* `Q247V    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247V.html>`_ : 離職理由（配偶者有職）：定年または雇用契約の満了
+* `Q247V    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247V.html>`_ : Reason for leaving job (spouse, currently working): retirement or expiration of employment contract
 * `Q247Z    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247Z.html>`_ : Reason for leaving job (spouse, currently working): wife’s pregnancy or childbirth
 * `Q248A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q248A.html>`_ : 雇用保険失業給付受給の有無（配偶者有職）〔第2～第17回〕
 * `Q248B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q248B.html>`_ : 雇用保険失業給付受給月数（配偶者有職）
@@ -983,25 +983,25 @@ List of variables
 * `Q249E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q249E.html>`_ : 離職時の生活への対処（配偶者有職）：借金やカードで買い物をした
 * `Q249F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q249F.html>`_ : 離職時の生活への対処（配偶者有職）：その他
 * `Q250     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q250.html>`_ : 配偶者が仕事を変えたことへの意識
-* `Q253A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253A.html>`_ : 現職（会社）の選択理由（配偶者）：給与がよい
-* `Q253B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253B.html>`_ : 現職（会社）の選択理由（配偶者）：休日、休暇が多い
-* `Q253C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253C.html>`_ : 現職（会社）の選択理由（配偶者）：拘束時間が少ない、残業が少ない
-* `Q253D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253D.html>`_ : 現職（会社）の選択理由（配偶者）：労働時間が自由になる
-* `Q253E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253E.html>`_ : 現職（会社）の選択理由（配偶者）：家に近い、通勤距離が短い
-* `Q253F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253F.html>`_ : 現職（会社）の選択理由（配偶者）：転勤がない、少ない
-* `Q253G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253G.html>`_ : 現職（会社）の選択理由（配偶者）：安定している、失業のおそれがない
-* `Q253H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253H.html>`_ : 現職（会社）の選択理由（配偶者）：将来発展する可能性がある
-* `Q253I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253I.html>`_ : 現職（会社）の選択理由（配偶者）：世間一般に知られている企業である
-* `Q253J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253J.html>`_ : 現職（会社）の選択理由（配偶者）：技術が身につく
-* `Q253K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253K.html>`_ : 現職（会社）の選択理由（配偶者）：能力が生かせる
-* `Q253L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253L.html>`_ : 現職（会社）の選択理由（配偶者）：仕事内容に興味がある
-* `Q253M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253M.html>`_ : 現職（会社）の選択理由（配偶者）：管理職になれる
-* `Q253N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253N.html>`_ : 現職（会社）の選択理由（配偶者）：外国に行ける
-* `Q253O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253O.html>`_ : 現職（会社）の選択理由（配偶者）：結婚相手が見つかる
-* `Q253P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253P.html>`_ : 現職（会社）の選択理由（配偶者）：学校がすすめるので
-* `Q253Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253Q.html>`_ : 現職（会社）の選択理由（配偶者）：家族がすすめるので
-* `Q253R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253R.html>`_ : 現職（会社）の選択理由（配偶者）：その他
-* `Q253S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253S.html>`_ : 現職（会社）の選択理由（配偶者）：拘束時間が少ない
+* `Q253A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253A.html>`_ : Reason for choosing current job (spouse): good salary
+* `Q253B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253B.html>`_ : Reason for choosing current job (spouse): many holidays and paid leaves
+* `Q253C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253C.html>`_ : Reason for choosing current job (spouse): less time restraints and overtime work
+* `Q253D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253D.html>`_ : Reason for choosing current job (spouse): flexible working hours
+* `Q253E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253E.html>`_ : Reason for choosing current job (spouse): close to home, short commute disntance
+* `Q253F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253F.html>`_ : Reason for choosing current job (spouse): no or few transfers
+* `Q253G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253G.html>`_ : Reason for choosing current job (spouse): stable and low risk of unemployment
+* `Q253H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253H.html>`_ : Reason for choosing current job (spouse): potential for future development
+* `Q253I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253I.html>`_ : Reason for choosing current job (spouse): well known company
+* `Q253J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253J.html>`_ : Reason for choosing current job (spouse): developing skills
+* `Q253K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253K.html>`_ : Reason for choosing current job (spouse): utilizing abilities
+* `Q253L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253L.html>`_ : Reason for choosing current job (spouse): interest in the job
+* `Q253M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253M.html>`_ : Reason for choosing current job (spouse): management position
+* `Q253N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253N.html>`_ : Reason for choosing current job (spouse): opportunities to work abroad
+* `Q253O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253O.html>`_ : Reason for choosing current job (spouse): finding a marriage partner
+* `Q253P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253P.html>`_ : Reason for choosing current job (spouse): school recommendation
+* `Q253Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253Q.html>`_ : Reason for choosing current job (spouse): a family member’s recommendation
+* `Q253R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253R.html>`_ : Reason for choosing current job (spouse): others
+* `Q253S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253S.html>`_ : Reason for choosing current job (spouse): less time restraints and flexible working hours
 * `Q254A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254A.html>`_ : 現職（職種）の選択理由（配偶者） ：収入・給与がよい
 * `Q254B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254B.html>`_ : 現職（職種）の選択理由（配偶者）：休日、休暇が多い
 * `Q254C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254C.html>`_ : 現職（職種）の選択理由（配偶者）：拘束時間が少ない、残業が少ない
@@ -1025,30 +1025,30 @@ List of variables
 * `Q257     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q257.html>`_ : 求職月数（配偶者）
 * `Q258     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q258.html>`_ : 勤務先数（配偶者有職）
 * `Q259     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q259.html>`_ : 就業状態の変化の有無（配偶者無職）
-* `Q260A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260A.html>`_ : 離職理由（配偶者無職）：人員整理・会社解散・倒産のため
-* `Q260AA   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260AA.html>`_ : 離職理由（配偶者無職）：育児・子育てのため
-* `Q260B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260B.html>`_ : 離職理由（配偶者無職）：一時的・不安定な仕事だったから
-* `Q260C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260C.html>`_ : 離職理由（配偶者無職）：収入が少なかったから
-* `Q260D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260D.html>`_ : 離職理由（配偶者無職）：労働条件が悪かったから
-* `Q260E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260E.html>`_ : 離職理由（配偶者無職）：自分に向かない仕事だったから
-* `Q260F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260F.html>`_ : 離職理由（配偶者無職）：単調な仕事でむなしいと思ったから
-* `Q260G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260G.html>`_ : 離職理由（配偶者無職）：家族の就職・転職・転勤及び事業所の移転のため
-* `Q260H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260H.html>`_ : 離職理由（配偶者無職）：結婚のため
-* `Q260I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260I.html>`_ : 離職理由（配偶者無職）：自分が病気になったから
-* `Q260J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260J.html>`_ : 離職理由（配偶者無職）：家族の介護のため
-* `Q260K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260K.html>`_ : 離職理由（配偶者無職）：能力が生かせない仕事だったから
-* `Q260L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260L.html>`_ : 離職理由（配偶者無職）：良い条件の仕事が見つかったから・独立したから
-* `Q260M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260M.html>`_ : 離職理由（配偶者無職）：職場の上司との関係がうまくいかなくて
-* `Q260N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260N.html>`_ : 離職理由（配偶者無職）：職場の同僚との関係がうまくいかなくて
-* `Q260O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260O.html>`_ : 離職理由（配偶者無職）：大学や専門学校などでの勉強や留学準備のため
-* `Q260P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260P.html>`_ : 離職理由（配偶者無職）：定年又は雇用契約の満了
-* `Q260Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260Q.html>`_ : 離職理由（配偶者無職）：その他
-* `Q260R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260R.html>`_ : 離職理由（配偶者無職）：労働条件（収入、時間）が悪かったため
-* `Q260S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260S.html>`_ : 離職理由（配偶者無職）：仕事の内容に不満があったため
-* `Q260T    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260T.html>`_ : 離職理由（配偶者無職）：出産・育児のため
-* `Q260U    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260U.html>`_ : 離職理由（配偶者無職）：人間関係が気まずくなったから
-* `Q260V    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260V.html>`_ : 離職理由（配偶者無職）：解雇された
-* `Q260Z    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260Z.html>`_ : 離職理由（配偶者無職）：妻の妊娠・出産のため
+* `Q260A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260A.html>`_ : Reason for leaving job (spouse, not working): downsizing, or company dissolution or bankruptcy
+* `Q260AA   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260AA.html>`_ : Reason for leaving job (spouse, not working): childcare/child rearing
+* `Q260B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260B.html>`_ : Reason for leaving job (spouse, not working): temporary/unstable job
+* `Q260C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260C.html>`_ : Reason for leaving job (spouse, not working): low income
+* `Q260D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260D.html>`_ : Reason for leaving job (spouse, not working): poor working conditions
+* `Q260E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260E.html>`_ : Reason for leaving job (spouse, not working): wasn’t the right job for me
+* `Q260F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260F.html>`_ : Reason for leaving job (spouse, not working): felt monotonous and boring
+* `Q260G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260G.html>`_ : Reason for leaving job (spouse, not working): family member’s employment, job change, transfer, and business relocation
+* `Q260H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260H.html>`_ : Reason for leaving job (spouse, not working): marriage
+* `Q260I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260I.html>`_ : Reason for leaving job (spouse, not working): illness
+* `Q260J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260J.html>`_ : Reason for leaving job (spouse, not working): to care for a family member
+* `Q260K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260K.html>`_ : Reason for leaving job (spouse, not working): job did not allow you to utilize your husband’s skills
+* `Q260L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260L.html>`_ : Reason for leaving job (spouse, not working): found a job with better conditions/became independent
+* `Q260M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260M.html>`_ : Reason for leaving job (spouse, not working): difficulty with your supervisor at work
+* `Q260N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260N.html>`_ : Reason for leaving job (spouse, not working): relationship with co-workers was not going well
+* `Q260O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260O.html>`_ : Reason for leaving job (spouse, not working): laid off
+* `Q260P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260P.html>`_ : Reason for leaving job (spouse, not working): to study at a university or vocational school or to prepare for study abroad
+* `Q260Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260Q.html>`_ : Reason for leaving job (spouse, not working): other
+* `Q260R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260R.html>`_ : Reason for leaving job (spouse, not working): poor working conditions
+* `Q260S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260S.html>`_ : Reason for leaving job (spouse, not working): dissatisfaction with job description
+* `Q260T    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260T.html>`_ : Reason for leaving job (spouse, not working): childcare/child rearing
+* `Q260U    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260U.html>`_ : Reason for leaving job (spouse, not working): relationships became awkward
+* `Q260V    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260V.html>`_ : Reason for leaving job (spouse, not working): retirement or expiration of employment contract
+* `Q260Z    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260Z.html>`_ : Reason for leaving job (spouse, not working):
 * `Q261A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q261A.html>`_ : 雇用保険失業給付受給の有無（配偶者無職）〔第2～第17回〕
 * `Q261B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q261B.html>`_ : 雇用保険失業給付受給月数（配偶者無職）〔第2～第17回〕
 * `Q262A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q262A.html>`_ : 離職時の生活への対処（配偶者無職）：妻や親の収入で生活はやっていけた
@@ -1895,7 +1895,7 @@ List of variables
 * `Q855T    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855T.html>`_ : 職歴　37歳
 * `Q858     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q858.html>`_ : Educational achievement at the last school (father-in-law) [5th wave - ]
 * `Q859     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q859.html>`_ : Occpation [4th wave -]
-* `Q860     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q860.html>`_ : 職業（配偶者）〔第4回～〕
+* `Q860     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q860.html>`_ : Occupation (spouse) [Wave 4 -]
 * `Q866     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q866.html>`_ : 実親からの経済的援助：月の援助額合計
 * `Q867     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q867.html>`_ : 義親からの経済的援助：月の援助額合計
 * `Q868     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q868.html>`_ : 本人以外に収入があった世帯員：その他
@@ -2004,10 +2004,10 @@ List of variables
 * `Q1025    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1025.html>`_ : Working status [1st wave]
 * `Q1026    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1026.html>`_ : 配偶者の就業状態〔第1回〕
 * `Q1027    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1027.html>`_ : 育児休業制度・育児時間の利用の有無（配偶者）
-* `Q1028    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1028.html>`_ : 雇用保険加入〔第11回～〕
-* `Q1030    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1030.html>`_ : 離職時期
+* `Q1028    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1028.html>`_ : Unemployment insurance enrollment [Wave11-]
+* `Q1030    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1030.html>`_ : Time of leaving job
 * `Q1031    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1031.html>`_ : Employment insurance coverage (spouse)
-* `Q1033    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1033.html>`_ : 離職時期（配偶者有職）
+* `Q1033    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1033.html>`_ : Time of leaving job (spouse employed)
 * `Q1034    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1034.html>`_ : 実親からの相続の可能性
 * `Q1035    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1035.html>`_ : 義親からの相続の可能性
 * `Q1036    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1036.html>`_ : 使用している部屋数（賃貸）
@@ -2059,18 +2059,18 @@ List of variables
 * `Q1045    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1045.html>`_ : Multiple job
 * `Q1046    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1046.html>`_ : 派遣社員か
 * `Q1047    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1047.html>`_ : Multiple employers (spouses)
-* `Q1048    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1048.html>`_ : 派遣社員か（配偶者）
+* `Q1048    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1048.html>`_ : temporary worker (spouse)
 * `Q1049    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1049.html>`_ : Work proficiency period (spouse)
 * `Q1050    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1050.html>`_ : 実親への経済的援助
 * `Q1051    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1051.html>`_ : 実親への家事・介護援助
 * `Q1052    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1052.html>`_ : 義親への経済援助
 * `Q1053    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1053.html>`_ : 義親への家事・介護援助
-* `Q1054    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1054.html>`_ : 公的医療保険への加入
-* `Q1055A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1055A.html>`_ : 公的医療保険の種類　会社の健康保険
-* `Q1055B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1055B.html>`_ : 公的医療保険の種類　国民健康保険
-* `Q1055C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1055C.html>`_ : 公的医療保険の種類　船員保険
-* `Q1055D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1055D.html>`_ : 公的医療保険の種類　共済保険・共済制度
-* `Q1056    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1056.html>`_ : 公的年金保険への加入の有無
+* `Q1054    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1054.html>`_ : Enrollment in public health insurance
+* `Q1055A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1055A.html>`_ : Type of public health insurance: company health insurance
+* `Q1055B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1055B.html>`_ : Type of public health insurance: National Health Insurance
+* `Q1055C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1055C.html>`_ : Type of public health insurance: seamen’s insurance
+* `Q1055D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1055D.html>`_ : Type of public health insurance: Mutual insurance and mutual aid programs
+* `Q1056    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1056.html>`_ : Participation in public pension insurance
 * `Q1057    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1057.html>`_ : 義親の住居形態　義父
 * `Q1058    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1058.html>`_ : 義親の住居形態　義母
 * `Q1059    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1059.html>`_ : 義親との同居予定
@@ -2147,19 +2147,19 @@ List of variables
 * `Q1095G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1095G.html>`_ : 入学費用のまかない方：準備の必要なし
 * `Q1095H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1095H.html>`_ : 入学費用のまかない方：その他
 * `Q1112    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1112.html>`_ : Type of employee [Wave18-]
-* `Q1113    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1113.html>`_ : 雇用保険失業給付受給の有無（新たに就職）
-* `Q1114    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1114.html>`_ : 派遣社員就業からの変更の有無
-* `Q1115    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1115.html>`_ : 派遣元変更の有無
-* `Q1116    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1116.html>`_ : 派遣先変更の有無
-* `Q1117    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1117.html>`_ : 派遣就業からの変更の有無（無職）
-* `Q1118    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1118.html>`_ : 雇用保険失業給付受給の有無（無職）〔第18回～〕
+* `Q1113    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1113.html>`_ : Receiving unemployment insurance benefits (newly employed)
+* `Q1114    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1114.html>`_ : Change from temporary worker
+* `Q1115    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1115.html>`_ : Change of temporary employment agency
+* `Q1116    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1116.html>`_ : Change of a dispatch company
+* `Q1117    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1117.html>`_ : Change from temporary employment
+* `Q1118    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1118.html>`_ : Receiving unemployment insurance benefits (unemployed) [Wave18 -]
 * `Q1119    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1119.html>`_ : Type of employee (spouse) [Wave18 - ]
-* `Q1120    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1120.html>`_ : 雇用保険失業給付受給の有無（配偶者有職）〔第18回～］
-* `Q1121    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1121.html>`_ : 派遣就業からの変更の有無（配偶者有職）
-* `Q1122    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1122.html>`_ : 派遣元変更の有無（配偶者有職）
-* `Q1123    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1123.html>`_ : 派遣先変更の有無（配偶者有職）
-* `Q1124    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1124.html>`_ : 派遣社員就業からの変更の有無（配偶者無職）
-* `Q1125    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1125.html>`_ : 雇用保険失業給付受給の有無（配偶者無職）〔第18回～〕
+* `Q1120    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1120.html>`_ : Receiving unemployment insurance benefits (spouse employed) [Wave18 -]
+* `Q1121    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1121.html>`_ : Change from temporary employment (spouse employed)
+* `Q1122    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1122.html>`_ : Change of temporary employment agency (spouse employed)
+* `Q1123    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1123.html>`_ : Change of workplace (spouse employed)
+* `Q1124    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1124.html>`_ : Change of dispatch destination (spouse unemployed)
+* `Q1125    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1125.html>`_ : Receiving unemployment insurance benefits (spouse unemployed) [Wave18 -]
 * `Q1126    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1126.html>`_ : ペットの有無
 * `Q1127A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127A.html>`_ : ペットの種類：犬(室外で)
 * `Q1127B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127B.html>`_ : ペットの種類：犬（室内で）
@@ -2290,7 +2290,7 @@ List of variables
 * `Q1170A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1170A.html>`_ : 今後充実させたいこと（有配偶）：１位
 * `Q1170B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1170B.html>`_ : 今後充実させたいこと（有配偶）：２位
 * `Q1170C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1170C.html>`_ : 今後充実させたいこと（有配偶）：３位
-* `Q1171    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1171.html>`_ : 貯蓄の習慣
+* `Q1171    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1171.html>`_ : Saving Habits
 * `Q1172    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1172.html>`_ : クレジットカード利用額：月
 * `Q1173    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1173.html>`_ : クレジットカード利用額：月（夫婦合計）
 * `Q1174    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1174.html>`_ : クレジットカード利用ルールの有無
@@ -2308,20 +2308,20 @@ List of variables
 * `Q1181F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1181F.html>`_ : 消費税８％への対策：家電や自動車などを見直す
 * `Q1181G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1181G.html>`_ : 消費税８％への対策：その他
 * `Q1182    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1182.html>`_ : Industries ( Wave 21–)
-* `Q1183    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1183.html>`_ : 業種（配偶者）〔第21回～〕
-* `Q1185A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185A.html>`_ : 勤務先の評価：給与がよい
-* `Q1185B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185B.html>`_ : 勤務先の評価：労働時間が長い
-* `Q1185C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185C.html>`_ : 勤務先の評価：休日・休暇をとりやすい
-* `Q1185D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185D.html>`_ : 勤務先の評価：通勤時間が短い
-* `Q1185E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185E.html>`_ : 勤務先の評価：転勤がない・少ない
-* `Q1185F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185F.html>`_ : 勤務先の評価：安定している・失業の恐れのない
-* `Q1185G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185G.html>`_ : 勤務先の評価：将来、発展する可能性がある
-* `Q1185H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185H.html>`_ : 勤務先の評価：結婚・出産後も続けやすい
-* `Q1185I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185I.html>`_ : 勤務先の評価：技術が身に付く
-* `Q1185J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185J.html>`_ : 1勤務先の評価：能力が生かせる
-* `Q1185K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185K.html>`_ : 勤務先の評価：仕事内容に興味がある
-* `Q1185L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185L.html>`_ : 勤務先の評価：人間関係が良好である
-* `Q1185M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185M.html>`_ : 勤務先の評価：昇進・地位向上の機会がある
+* `Q1183    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1183.html>`_ : Occupation (spouse) [Wave 21 -]
+* `Q1185A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185A.html>`_ : Evaluation of workplace: good salary
+* `Q1185B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185B.html>`_ : Evaluation of workplace: long working hours
+* `Q1185C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185C.html>`_ : Evaluation of workplace: easy to take leave/vacations
+* `Q1185D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185D.html>`_ : Evaluation of workplace: short commute time
+* `Q1185E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185E.html>`_ : Evaluation of workplace: no or few transfers
+* `Q1185F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185F.html>`_ : Evaluation of workplace: low risk of unemployment
+* `Q1185G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185G.html>`_ : Evaluation of workplace: potential for future development
+* `Q1185H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185H.html>`_ : Evaluation of workplace: easy to continue after marriage and childbirth
+* `Q1185I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185I.html>`_ : Evaluation of workplace: developing skills
+* `Q1185J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185J.html>`_ : Evaluation of workplace: utilizing abilities
+* `Q1185K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185K.html>`_ : Evaluation of workplace: interest in the job
+* `Q1185L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185L.html>`_ : Evaluation of workplace: good relationships
+* `Q1185M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185M.html>`_ : Evaluation of workplace: opportunities for promotion and advancement in status
 * `Q1186    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1186.html>`_ : 社会への満足度
 * `Q1187M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1187M.html>`_ : 新築・増改築：月
 * `Q1187Y   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1187Y.html>`_ : 新築・増改築：年
@@ -2355,8 +2355,8 @@ List of variables
 * `Q1196M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1196M.html>`_ : 睡眠時間　分（平日）
 * `Q1197H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1197H.html>`_ : 睡眠時間　時（休日）
 * `Q1197M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1197M.html>`_ : 睡眠時間　分（休日）
-* `Q1198    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1198.html>`_ : お金の使い方
-* `Q1199    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1199.html>`_ : 支出の傾向（配偶者）
+* `Q1198    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1198.html>`_ : Spending Habits
+* `Q1199    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1199.html>`_ : Expenditure trends (spouse)
 * `Q1200A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1200A.html>`_ : 将来の働き方希望：権限や責任がある仕事
 * `Q1200B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1200B.html>`_ : 将来の働き方希望：家庭を重視
 * `Q1200C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1200C.html>`_ : 将来の働き方希望：能力やスキルを生かせる仕事
