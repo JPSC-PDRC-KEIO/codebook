@@ -204,10 +204,3 @@ msgstr ""
 #: ../../variable/Q172.rst:136
 msgid "p28_1"
 msgstr ""
-
-#~ msgid "変数名: Q172"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-

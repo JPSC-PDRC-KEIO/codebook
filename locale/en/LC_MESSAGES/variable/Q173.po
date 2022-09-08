@@ -8,192 +8,199 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
+"POT-Creation-Date: 2022-07-26 10:35+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q173.rst:5
-msgid "研修・講習実施時間"
+#: ../../variable/Q172.rst:6
+msgid "研修・講習会への就業時間外参加"
 msgstr ""
 
-#: ../../variable/Q173.rst:9
+#: ../../variable/Q172.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q173.rst:11
-msgid "Q173"
+#: ../../variable/Q172.rst:13
+msgid "Q172"
 msgstr ""
 
-#: ../../variable/Q173.rst:15
+#: ../../variable/Q172.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q173.rst:18
-msgid ""
-"研修会や講習会は就業時間内に行われましたか。; 1. 就業時間内で行われた; 2. 就業時間外で行われた; 3. 就業時間内、就業時間外　"
-"両方で行われた"
+#: ../../variable/Q172.rst:21
+msgid "研修会や講習会は就業時間内に行われましたか。"
 msgstr ""
 
-#: ../../variable/Q173.rst:24
+#: ../../variable/Q172.rst:24
+msgid "就業時間外で行われた"
+msgstr ""
+
+#: ../../variable/Q172.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q173.rst:27
-msgid "回答あり"
+#: ../../variable/Q172.rst:33
+msgid "はい"
 msgstr ""
 
-#: ../../variable/Q173.rst:29
-msgid "回答なし"
+#: ../../variable/Q172.rst:34
+msgid "いいえ"
 msgstr ""
 
-#: ../../variable/Q173.rst:36
+#: ../../variable/Q172.rst:42
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q173.rst:42
+#: ../../variable/Q172.rst:49
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q173.rst:48
+#: ../../variable/Q172.rst:56
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q173.rst:49
+#: ../../variable/Q172.rst:57
 msgid "3"
 msgstr ""
 
-#: ../../variable/Q173.rst:54
+#: ../../variable/Q172.rst:63
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q173.rst:60
+#: ../../variable/Q172.rst:65
+msgid "この質問は、 :doc:`Q169 </variable/Q169>` から分岐した付問です。"
+msgstr "This is an additional question related to   :doc:`Q169 </variable/Q169>` "
+
+#: ../../variable/Q172.rst:71
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q173.rst:65
+#: ../../variable/Q172.rst:76
 msgid "p2_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:67
+#: ../../variable/Q172.rst:78
 msgid "p3_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:69
+#: ../../variable/Q172.rst:80
 msgid "p4_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:71
+#: ../../variable/Q172.rst:82
 msgid "p5a_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:73
+#: ../../variable/Q172.rst:84
 msgid "p5b_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:75
+#: ../../variable/Q172.rst:86
 msgid "p6_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:77
+#: ../../variable/Q172.rst:88
 msgid "p7_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:79
+#: ../../variable/Q172.rst:90
 msgid "p8_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:81
+#: ../../variable/Q172.rst:92
 msgid "p9_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:83
+#: ../../variable/Q172.rst:94
 msgid "p10_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:85
+#: ../../variable/Q172.rst:96
 msgid "p11ab_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:87
+#: ../../variable/Q172.rst:98
 msgid "p11c_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:89
+#: ../../variable/Q172.rst:100
 msgid "p12_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:91
+#: ../../variable/Q172.rst:102
 msgid "p13_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:93
+#: ../../variable/Q172.rst:104
 msgid "p14_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:95
+#: ../../variable/Q172.rst:106
 msgid "p15_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:97
+#: ../../variable/Q172.rst:108
 msgid "p16abc_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:99
+#: ../../variable/Q172.rst:110
 msgid "p16d_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:101
+#: ../../variable/Q172.rst:112
 msgid "p17_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:103
+#: ../../variable/Q172.rst:114
 msgid "p18_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:105
+#: ../../variable/Q172.rst:116
 msgid "p19_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:107
+#: ../../variable/Q172.rst:118
 msgid "p20_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:109
+#: ../../variable/Q172.rst:120
 msgid "p21abcd_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:111
+#: ../../variable/Q172.rst:122
 msgid "p21e_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:113
+#: ../../variable/Q172.rst:124
 msgid "p22_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:115
+#: ../../variable/Q172.rst:126
 msgid "p23_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:117
+#: ../../variable/Q172.rst:128
 msgid "p24_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:119
+#: ../../variable/Q172.rst:130
 msgid "p25_1"
 msgstr ""
 
-#: ../../variable/Q173.rst:121
+#: ../../variable/Q172.rst:132
 msgid "p26_1"
 msgstr ""
 
-#~ msgid "変数名: Q173"
-#~ msgstr ""
+#: ../../variable/Q172.rst:134
+msgid "p27_1"
+msgstr ""
 
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-
+#: ../../variable/Q172.rst:136
+msgid "p28_1"
+msgstr ""
