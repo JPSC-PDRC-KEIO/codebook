@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q567.rst:3
 msgid "結婚したくない理由"
-msgstr ""
+msgstr "Reason not to get married"
 
 #: ../../multi_var/Q567.rst:5
 msgid "Q564で「4.必ずしもしなくてよい」または「5.したくない」と答えた人が答える質問です。"
@@ -31,7 +31,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q567.rst:10
 msgid "（結婚したくない）理由は何ですか。（〇は３つまで）"
-msgstr ""
+msgstr "Why do you not get married?"
 
 #: ../../multi_var/Q567.rst:1
 msgid "項目"
@@ -43,7 +43,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q567.rst:1
 msgid "仕事をしていくうえで障害になるから"
-msgstr ""
+msgstr "Because it will interfere with my career"
 
 #: ../../multi_var/Q567.rst:1
 msgid ":doc:`Q567A </variable/Q567A>`"
@@ -52,6 +52,8 @@ msgstr ""
 #: ../../multi_var/Q567.rst:1
 msgid "現在の生活に満足しているので、特に結婚の必要性を感じないから"
 msgstr ""
+"I don’t feel any need to get married because I am satisfied with my life "
+"now"
 
 #: ../../multi_var/Q567.rst:1
 msgid ":doc:`Q567B </variable/Q567B>`"
@@ -59,7 +61,7 @@ msgstr ""
 
 #: ../../multi_var/Q567.rst:1
 msgid "結婚によって生活が向上するとは限らないから"
-msgstr ""
+msgstr "Life doesn’t always improve by getting married"
 
 #: ../../multi_var/Q567.rst:1
 msgid ":doc:`Q567C </variable/Q567C>`"
@@ -67,7 +69,7 @@ msgstr ""
 
 #: ../../multi_var/Q567.rst:1
 msgid "経済的に自立しているので、あえて結婚する必要がないから"
-msgstr ""
+msgstr "I don’t feel any need to get married because I’m financially independent"
 
 #: ../../multi_var/Q567.rst:1
 msgid ":doc:`Q567D </variable/Q567D>`"
@@ -75,7 +77,7 @@ msgstr ""
 
 #: ../../multi_var/Q567.rst:1
 msgid "対等なパートナーとしてやっていけるような男性が少ないから"
-msgstr ""
+msgstr "There are few men that will treat me as an equal partner"
 
 #: ../../multi_var/Q567.rst:1
 msgid ":doc:`Q567E </variable/Q567E>`"
@@ -83,7 +85,7 @@ msgstr ""
 
 #: ../../multi_var/Q567.rst:1
 msgid "結婚という形にこだわらずに異性とつきあう方がいいから"
-msgstr ""
+msgstr "It‘s better to have relationships with men without being married"
 
 #: ../../multi_var/Q567.rst:1
 msgid ":doc:`Q567F </variable/Q567F>`"
@@ -91,7 +93,7 @@ msgstr ""
 
 #: ../../multi_var/Q567.rst:1
 msgid "そもそも結婚に興味がないから"
-msgstr ""
+msgstr "I have no interest in being married"
 
 #: ../../multi_var/Q567.rst:1
 msgid ":doc:`Q567G </variable/Q567G>`"
@@ -99,7 +101,7 @@ msgstr ""
 
 #: ../../multi_var/Q567.rst:1
 msgid "結婚制度に疑問を感じるから"
-msgstr ""
+msgstr "I’m skeptical about the institution of marriage"
 
 #: ../../multi_var/Q567.rst:1
 msgid ":doc:`Q567H </variable/Q567H>`"
@@ -107,15 +109,8 @@ msgstr ""
 
 #: ../../multi_var/Q567.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q567.rst:1
 msgid ":doc:`Q567I </variable/Q567I>`"
 msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
-

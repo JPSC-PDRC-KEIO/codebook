@@ -14,7 +14,7 @@
 
    "給与がよい",":doc:`Q1185A </variable/Q1185A>`"
    "労働時間が長い",":doc:`Q1185B </variable/Q1185B>`"
-   "休日・休暇をとりやすい",":doc:`Q120C </variable/Q1185C>`"
+   "休日・休暇をとりやすい",":doc:`Q1185C </variable/Q1185C>`"
    "通勤時間が短い",":doc:`Q1185D </variable/Q1185D>`"
    "転勤がない・少ない",":doc:`Q1185E </variable/Q1185E>`"
    "安定している・失業のおそれがない",":doc:`Q1185F </variable/Q1185F>`"

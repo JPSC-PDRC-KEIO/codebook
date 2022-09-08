@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q187.rst:4
 msgid "離職時の生活への対処"
-msgstr ""
+msgstr "Coping with life when leaving a job"
 
 #: ../../multi_var/Q187.rst:8
 msgid "質問文"
@@ -28,6 +28,8 @@ msgstr "Question"
 #: ../../multi_var/Q187.rst:9
 msgid "仕事をやめたり、中断して、収入がなくなった時、どのように対処しましたか。（〇はいくつでも）"
 msgstr ""
+"How did you make a living without an income after having quit your job "
+"temporarily or permanently."
 
 #: ../../multi_var/Q187.rst:1
 msgid "項目"
@@ -39,7 +41,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q187.rst:1
 msgid "夫や親の収入で生活はやっていけた"
-msgstr ""
+msgstr "I could get by with my husband’s or my parent’s income"
 
 #: ../../multi_var/Q187.rst:1
 msgid ":doc:`Q187A </variable/Q187A>`"
@@ -47,7 +49,7 @@ msgstr ""
 
 #: ../../multi_var/Q187.rst:1
 msgid "すぐ次の仕事についた"
-msgstr ""
+msgstr "I found a new job quickly"
 
 #: ../../multi_var/Q187.rst:1
 msgid ":doc:`Q187B </variable/Q187B>`"
@@ -56,6 +58,8 @@ msgstr ""
 #: ../../multi_var/Q187.rst:1
 msgid "退職金や保険給付で当座はやっていけた"
 msgstr ""
+"I could get by with a retirement allowance or/and insurance benefits for "
+"a while"
 
 #: ../../multi_var/Q187.rst:1
 msgid ":doc:`Q187C </variable/Q187C>`"
@@ -63,7 +67,7 @@ msgstr ""
 
 #: ../../multi_var/Q187.rst:1
 msgid "預貯金の取り崩しをした"
-msgstr ""
+msgstr "I used my savings"
 
 #: ../../multi_var/Q187.rst:1
 msgid ":doc:`Q187D </variable/Q187D>`"
@@ -71,7 +75,7 @@ msgstr ""
 
 #: ../../multi_var/Q187.rst:1
 msgid "借金やカードで買い物をした"
-msgstr ""
+msgstr "I made purchases with my credit card or borrowed money"
 
 #: ../../multi_var/Q187.rst:1
 msgid ":doc:`Q187E </variable/Q187E>`"
@@ -79,15 +83,8 @@ msgstr ""
 
 #: ../../multi_var/Q187.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q187.rst:1
 msgid ":doc:`Q187F </variable/Q187F>`"
 msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
-

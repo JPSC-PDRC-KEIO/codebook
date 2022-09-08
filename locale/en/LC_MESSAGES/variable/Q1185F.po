@@ -20,7 +20,7 @@ msgstr ""
 "X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/Q1185F.rst:6
-msgid "勤務先の評価：安定している・失業の恐れのない"
+msgid "勤務先の評価：安定している・失業のおそれがない"
 msgstr "Evaluation of workplace: low risk of unemployment"
 
 #: ../../variable/Q1185F.rst:11
@@ -44,7 +44,7 @@ msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
 #: ../../variable/Q1185F.rst:30
-msgid "安定している・失業の恐れのない"
+msgid "安定している・失業のおそれがない"
 msgstr "Low risk of unemployment"
 
 #: ../../variable/Q1185F.rst:37

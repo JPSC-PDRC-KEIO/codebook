@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q543.rst:3
 msgid "受講費用負担者（有配偶）"
-msgstr ""
+msgstr "Person paid the tuition fee (married)"
 
 #: ../../multi_var/Q543.rst:7
 msgid "質問文"
@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q543.rst:8
 msgid "その費用はどなたが負担しましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "Who paid most of the cost? (Circle as many as apply to you.)"
 
 #: ../../multi_var/Q543.rst:1
 msgid "項目"
@@ -39,7 +39,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q543.rst:1
 msgid "自分自身"
-msgstr ""
+msgstr "Me"
 
 #: ../../multi_var/Q543.rst:1
 msgid ":doc:`Q543G </variable/Q543G>`"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../multi_var/Q543.rst:1
 msgid "勤め先"
-msgstr ""
+msgstr "My company"
 
 #: ../../multi_var/Q543.rst:1
 msgid ":doc:`Q543H </variable/Q543H>`"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../multi_var/Q543.rst:1
 msgid "夫"
-msgstr ""
+msgstr "My husband"
 
 #: ../../multi_var/Q543.rst:1
 msgid ":doc:`Q543I </variable/Q543I>`"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: ../../multi_var/Q543.rst:1
 msgid "自分の親"
-msgstr ""
+msgstr "My parent(s)"
 
 #: ../../multi_var/Q543.rst:1
 msgid ":doc:`Q543J </variable/Q543J>`"
@@ -71,7 +71,7 @@ msgstr ""
 
 #: ../../multi_var/Q543.rst:1
 msgid "教育訓練給付制度"
-msgstr ""
+msgstr "Training and Education Allowance"
 
 #: ../../multi_var/Q543.rst:1
 msgid ":doc:`Q543M </variable/Q543M>`"
@@ -79,7 +79,7 @@ msgstr ""
 
 #: ../../multi_var/Q543.rst:1
 msgid "その他の公的な助成"
-msgstr ""
+msgstr "Other public agency, as a grant-in-aid"
 
 #: ../../multi_var/Q543.rst:1
 msgid ":doc:`Q543K </variable/Q543K>`"
@@ -87,15 +87,9 @@ msgstr ""
 
 #: ../../multi_var/Q543.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q543.rst:1
 msgid ":doc:`Q543L </variable/Q543L>`"
 msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
 

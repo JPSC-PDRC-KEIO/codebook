@@ -20,7 +20,7 @@ msgstr ""
 "X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/Q1185I.rst:6
-msgid "勤務先の評価：技術が身に付く"
+msgid "勤務先の評価：技術が身につく"
 msgstr "Evaluation of workplace: developing skills"
 
 #: ../../variable/Q1185I.rst:11
@@ -44,7 +44,7 @@ msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
 #: ../../variable/Q1185I.rst:30
-msgid "技術が身に付く"
+msgid "技術が身につく"
 msgstr "Developing skills"
 
 #: ../../variable/Q1185I.rst:37

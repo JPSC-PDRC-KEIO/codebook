@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q537.rst:3
 msgid "受講先"
-msgstr ""
+msgstr "Schools attended"
 
 #: ../../multi_var/Q537.rst:7
 msgid "質問文"
@@ -28,6 +28,8 @@ msgstr "Question"
 #: ../../multi_var/Q537.rst:8
 msgid "通ったのはどのような学校ですか。（通信教育を含む）（〇はいくつでも）"
 msgstr ""
+"What kind of courses have you taken? (Include correspondence courses)  "
+"(Circle as many as apply to you.)"
 
 #: ../../multi_var/Q537.rst:1
 msgid "項目"
@@ -39,7 +41,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q537.rst:1
 msgid "各種学校"
-msgstr ""
+msgstr "”Miscellaneous” school"
 
 #: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537A </variable/Q537A>`"
@@ -47,7 +49,7 @@ msgstr ""
 
 #: ../../multi_var/Q537.rst:1
 msgid "職業訓練学校"
-msgstr ""
+msgstr "Occupational training school"
 
 #: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537B </variable/Q537B>`"
@@ -55,7 +57,7 @@ msgstr ""
 
 #: ../../multi_var/Q537.rst:1
 msgid "高等学校"
-msgstr ""
+msgstr "High school"
 
 #: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537P </variable/Q537P>`"
@@ -63,7 +65,7 @@ msgstr ""
 
 #: ../../multi_var/Q537.rst:1
 msgid "専門学校・専修学校"
-msgstr ""
+msgstr "Vocational school or or special (vocational) school"
 
 #: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537C </variable/Q537C>`"
@@ -71,7 +73,7 @@ msgstr ""
 
 #: ../../multi_var/Q537.rst:1
 msgid "短大・高専"
-msgstr ""
+msgstr "Junior college or college of technology"
 
 #: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537D </variable/Q537D>`"
@@ -79,7 +81,7 @@ msgstr ""
 
 #: ../../multi_var/Q537.rst:1
 msgid "大学（卒業を目的とする）"
-msgstr ""
+msgstr "University or college (graduate)"
 
 #: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537E </variable/Q537E>`"
@@ -88,6 +90,8 @@ msgstr ""
 #: ../../multi_var/Q537.rst:1
 msgid "大学（科目履修、聴講生、研究生など）"
 msgstr ""
+"University or college (completed some courses, or as auditor or research "
+"student)"
 
 #: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537F </variable/Q537F>`"
@@ -96,6 +100,8 @@ msgstr ""
 #: ../../multi_var/Q537.rst:1
 msgid "大学（通信部、放送大学）"
 msgstr ""
+"University or college (department of telecommunications or a broadcasting"
+" college)"
 
 #: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537G </variable/Q537G>`"
@@ -103,7 +109,7 @@ msgstr ""
 
 #: ../../multi_var/Q537.rst:1
 msgid "大学院"
-msgstr ""
+msgstr "Graduate school"
 
 #: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537H </variable/Q537H>`"
@@ -111,7 +117,7 @@ msgstr ""
 
 #: ../../multi_var/Q537.rst:1
 msgid "民間の通信教育"
-msgstr ""
+msgstr "Paid distance learning"
 
 #: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537J </variable/Q537J>`"
@@ -119,7 +125,7 @@ msgstr ""
 
 #: ../../multi_var/Q537.rst:1
 msgid "公民館・カルチャーセンター"
-msgstr ""
+msgstr "Community/Culture center"
 
 #: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537K </variable/Q537K>`"
@@ -127,15 +133,9 @@ msgstr ""
 
 #: ../../multi_var/Q537.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q537.rst:1
 msgid ":doc:`Q537I </variable/Q537I>`"
 msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
 

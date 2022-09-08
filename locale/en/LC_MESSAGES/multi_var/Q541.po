@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q541.rst:3
 msgid "受講理由"
-msgstr ""
+msgstr "Reason for attending school"
 
 #: ../../multi_var/Q541.rst:7
 msgid "質問文"
@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q541.rst:8
 msgid "受講した理由をお聞かせ下さい。（〇は２つまで）"
-msgstr ""
+msgstr "Why did you take the course? (Circle up to two answers.)"
 
 #: ../../multi_var/Q541.rst:1
 msgid "項目"
@@ -40,6 +40,8 @@ msgstr "Variable name"
 #: ../../multi_var/Q541.rst:1
 msgid "これまでの仕事を発展させるために役立ちそうな知識や資格などを得るため"
 msgstr ""
+"To acquire knowledge and qualifications that seem useful to developing my"
+" current job skills and abilities"
 
 #: ../../multi_var/Q541.rst:1
 msgid ":doc:`Q541A </variable/Q541A>`"
@@ -48,6 +50,8 @@ msgstr ""
 #: ../../multi_var/Q541.rst:1
 msgid "これからの仕事に役立ちそうな知識や資格を得るため"
 msgstr ""
+"To acquire knowledge and qualifications that seem useful to developing  "
+"future job skills and abilities"
 
 #: ../../multi_var/Q541.rst:1
 msgid ":doc:`Q541B </variable/Q541B>`"
@@ -55,7 +59,7 @@ msgstr ""
 
 #: ../../multi_var/Q541.rst:1
 msgid "進学の準備のため"
-msgstr ""
+msgstr "To prepare to go back to school"
 
 #: ../../multi_var/Q541.rst:1
 msgid ":doc:`Q541C </variable/Q541C>`"
@@ -63,7 +67,7 @@ msgstr ""
 
 #: ../../multi_var/Q541.rst:1
 msgid "教養を身につけるため"
-msgstr ""
+msgstr "To acquire some culture"
 
 #: ../../multi_var/Q541.rst:1
 msgid ":doc:`Q541D </variable/Q541D>`"
@@ -71,7 +75,7 @@ msgstr ""
 
 #: ../../multi_var/Q541.rst:1
 msgid "高度な勉強がしたいから"
-msgstr ""
+msgstr "To take some advanced courses"
 
 #: ../../multi_var/Q541.rst:1
 msgid ":doc:`Q541E </variable/Q541E>`"
@@ -79,7 +83,7 @@ msgstr ""
 
 #: ../../multi_var/Q541.rst:1
 msgid "自分の視点を作りたいから"
-msgstr ""
+msgstr "To acquire my own point of view"
 
 #: ../../multi_var/Q541.rst:1
 msgid ":doc:`Q541F </variable/Q541F>`"
@@ -87,7 +91,7 @@ msgstr ""
 
 #: ../../multi_var/Q541.rst:1
 msgid "芸術・芸能・趣味を高めるため"
-msgstr ""
+msgstr "To improve my abilities in art, entertainment, or hobby"
 
 #: ../../multi_var/Q541.rst:1
 msgid ":doc:`Q541G </variable/Q541G>`"
@@ -95,7 +99,7 @@ msgstr ""
 
 #: ../../multi_var/Q541.rst:1
 msgid "健康・体力作りのため"
-msgstr ""
+msgstr "To maintain health and develop physical strength"
 
 #: ../../multi_var/Q541.rst:1
 msgid ":doc:`Q541H </variable/Q541H>`"
@@ -103,7 +107,7 @@ msgstr ""
 
 #: ../../multi_var/Q541.rst:1
 msgid "時間を充実させるため"
-msgstr ""
+msgstr "To enrich my life"
 
 #: ../../multi_var/Q541.rst:1
 msgid ":doc:`Q541I </variable/Q541I>`"
@@ -111,7 +115,7 @@ msgstr ""
 
 #: ../../multi_var/Q541.rst:1
 msgid "打ち込めるものがほしいから"
-msgstr ""
+msgstr "To devote myself to something"
 
 #: ../../multi_var/Q541.rst:1
 msgid ":doc:`Q541J </variable/Q541J>`"
@@ -119,7 +123,7 @@ msgstr ""
 
 #: ../../multi_var/Q541.rst:1
 msgid "家庭・日常生活に関する知識や技能を得るため"
-msgstr ""
+msgstr "To acquire knowledge and skills relating to my household and daily life"
 
 #: ../../multi_var/Q541.rst:1
 msgid ":doc:`Q541K </variable/Q541K>`"
@@ -128,6 +132,8 @@ msgstr ""
 #: ../../multi_var/Q541.rst:1
 msgid "社会貢献（ボランティア等）のための知識や技能を得るため"
 msgstr ""
+"To acquire knowledge and skills relating to social action (volunteer "
+"activities, etc.)"
 
 #: ../../multi_var/Q541.rst:1
 msgid ":doc:`Q541L </variable/Q541L>`"
@@ -135,15 +141,8 @@ msgstr ""
 
 #: ../../multi_var/Q541.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q541.rst:1
 msgid ":doc:`Q541M </variable/Q541M>`"
 msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
-

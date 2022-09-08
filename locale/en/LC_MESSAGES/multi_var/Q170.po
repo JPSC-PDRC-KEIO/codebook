@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q170.rst:4
 msgid "研修・講習会の内容"
-msgstr ""
+msgstr "Seminar or course organize"
 
 #: ../../multi_var/Q170.rst:8
 msgid "質問文"
@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q170.rst:9
 msgid "どのような研修会・講習会の内容でしたか。（〇はいくつでも）"
-msgstr ""
+msgstr "What was the seminar or course? (Circle as many as apply to you.)"
 
 #: ../../multi_var/Q170.rst:1
 msgid "項目"
@@ -39,7 +39,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q170.rst:1
 msgid "あなたの勤めている会社等が主催した研修会・講習会"
-msgstr ""
+msgstr "Seminar(s) or course(s) organized by my employer"
 
 #: ../../multi_var/Q170.rst:1
 msgid ":doc:`Q170A </variable/Q170A>`"
@@ -48,6 +48,7 @@ msgstr ""
 #: ../../multi_var/Q170.rst:1
 msgid "地元の団体（商工会議所）等や同業組合などが主催した研修会・講習会"
 msgstr ""
+"Seminar(s) or course(s) organized by a local organization or trade association"
 
 #: ../../multi_var/Q170.rst:1
 msgid ":doc:`Q170B </variable/Q170B>`"
@@ -56,6 +57,7 @@ msgstr ""
 #: ../../multi_var/Q170.rst:1
 msgid "関連企業（機械を購入した企業などを含む）が主催した研修会・講習会"
 msgstr ""
+"Seminar(s) or course(s) organized by a related company"
 
 #: ../../multi_var/Q170.rst:1
 msgid ":doc:`Q170C </variable/Q170C>`"
@@ -63,7 +65,7 @@ msgstr ""
 
 #: ../../multi_var/Q170.rst:1
 msgid "市や県など行政が主催した研修会・講習会"
-msgstr ""
+msgstr "Seminar(s) or course(s) organized by the municipality or prefecture"
 
 #: ../../multi_var/Q170.rst:1
 msgid ":doc:`Q170D </variable/Q170D>`"
@@ -72,6 +74,8 @@ msgstr ""
 #: ../../multi_var/Q170.rst:1
 msgid "大学・専門学校など"
 msgstr ""
+"Seminar(s) or course(s) organized by a university, college, or vocational"
+" school"
 
 #: ../../multi_var/Q170.rst:1
 msgid ":doc:`Q170E </variable/Q170E>`"
@@ -79,7 +83,7 @@ msgstr ""
 
 #: ../../multi_var/Q170.rst:1
 msgid "留学"
-msgstr ""
+msgstr "Studying abroad"
 
 #: ../../multi_var/Q170.rst:1
 msgid ":doc:`Q170F </variable/Q170F>`"
@@ -87,15 +91,9 @@ msgstr ""
 
 #: ../../multi_var/Q170.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q170.rst:1
 msgid ":doc:`Q170G </variable/Q170G>`"
 msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
 

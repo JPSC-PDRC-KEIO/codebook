@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q1185.rst:3
 msgid "勤務先の評価"
-msgstr ""
+msgstr "Evaluation of workplace"
 
 #: ../../multi_var/Q1185.rst:6
 msgid "質問文"
@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q1185.rst:8
 msgid "あなたの勤めている会社やお仕事について、以下のことはどれくらいあてはまりますか。（それぞれ〇は１つずつ）"
-msgstr ""
+msgstr "How much of the following applies to the company you work for? (circle one for each)"
 
 #: ../../multi_var/Q1185.rst:1
 msgid "項目"
@@ -39,7 +39,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q1185.rst:1
 msgid "給与がよい"
-msgstr ""
+msgstr "Good salary"
 
 #: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185A </variable/Q1185A>`"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../multi_var/Q1185.rst:1
 msgid "労働時間が長い"
-msgstr ""
+msgstr "Long working hours"
 
 #: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185B </variable/Q1185B>`"
@@ -55,15 +55,15 @@ msgstr ""
 
 #: ../../multi_var/Q1185.rst:1
 msgid "休日・休暇をとりやすい"
-msgstr ""
+msgstr "Easy to take leave/vacations"
 
 #: ../../multi_var/Q1185.rst:1
-msgid ":doc:`Q120C </variable/Q1185C>`"
+msgid ":doc:`Q1185C </variable/Q1185C>`"
 msgstr ""
 
 #: ../../multi_var/Q1185.rst:1
 msgid "通勤時間が短い"
-msgstr ""
+msgstr "Short commute time"
 
 #: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185D </variable/Q1185D>`"
@@ -71,7 +71,7 @@ msgstr ""
 
 #: ../../multi_var/Q1185.rst:1
 msgid "転勤がない・少ない"
-msgstr ""
+msgstr "No or few transfers"
 
 #: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185E </variable/Q1185E>`"
@@ -79,7 +79,7 @@ msgstr ""
 
 #: ../../multi_var/Q1185.rst:1
 msgid "安定している・失業のおそれがない"
-msgstr ""
+msgstr "Low risk of unemployment"
 
 #: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185F </variable/Q1185F>`"
@@ -87,7 +87,7 @@ msgstr ""
 
 #: ../../multi_var/Q1185.rst:1
 msgid "将来、発展する可能性がある"
-msgstr ""
+msgstr "Potential for future development"
 
 #: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185G </variable/Q1185G>`"
@@ -95,7 +95,7 @@ msgstr ""
 
 #: ../../multi_var/Q1185.rst:1
 msgid "結婚・出産後も続けやすい"
-msgstr ""
+msgstr "Easy to continue after marriage and childbirth"
 
 #: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185H </variable/Q1185H>`"
@@ -103,7 +103,7 @@ msgstr ""
 
 #: ../../multi_var/Q1185.rst:1
 msgid "技術が身につく"
-msgstr ""
+msgstr "Developing skills"
 
 #: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185I </variable/Q1185I>`"
@@ -111,7 +111,7 @@ msgstr ""
 
 #: ../../multi_var/Q1185.rst:1
 msgid "能力が生かせる"
-msgstr ""
+msgstr "Utilizing abilities"
 
 #: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185J </variable/Q1185J>`"
@@ -119,7 +119,7 @@ msgstr ""
 
 #: ../../multi_var/Q1185.rst:1
 msgid "仕事内容に興味がある"
-msgstr ""
+msgstr "Interest in the job"
 
 #: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185K </variable/Q1185K>`"
@@ -127,7 +127,7 @@ msgstr ""
 
 #: ../../multi_var/Q1185.rst:1
 msgid "人間関係が良好である"
-msgstr ""
+msgstr "Good relationships"
 
 #: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185L </variable/Q1185L>`"
@@ -135,54 +135,8 @@ msgstr ""
 
 #: ../../multi_var/Q1185.rst:1
 msgid "昇進・地位向上の機会がある"
-msgstr ""
+msgstr "Opportunities for promotion and advancement in status"
 
 #: ../../multi_var/Q1185.rst:1
 msgid ":doc:`Q1185M </variable/Q1185M>`"
 msgstr ""
-
-#~ msgid "まああてはまる"
-#~ msgstr ""
-
-#~ msgid "あまりあて"
-#~ msgstr ""
-
-#~ msgid "はまらない"
-#~ msgstr ""
-
-#~ msgid "ほとんどあて"
-#~ msgstr ""
-
-#~ msgid "あてはまる"
-#~ msgstr ""
-
-#~ msgid "まあ"
-#~ msgstr ""
-
-#~ msgid "あまり"
-#~ msgstr ""
-
-#~ msgid "あてはまらない"
-#~ msgstr ""
-
-#~ msgid "ほとんど"
-#~ msgstr ""
-
-#~ msgid "わからない"
-#~ msgstr ""
-
-#~ msgid "1"
-#~ msgstr ""
-
-#~ msgid "2"
-#~ msgstr ""
-
-#~ msgid "3"
-#~ msgstr ""
-
-#~ msgid "4"
-#~ msgstr ""
-
-#~ msgid "5"
-#~ msgstr ""
-

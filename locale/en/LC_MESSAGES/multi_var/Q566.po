@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q566.rst:3
 msgid "結婚していない理由"
-msgstr ""
+msgstr "Reasons for not getting married"
 
 #: ../../multi_var/Q566.rst:5
 msgid "Q564で「2.すぐにでもしたい」または「3.今はしたくないが、いずれはしたい」と答えた人が答える質問です。"
@@ -31,7 +31,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q566.rst:10
 msgid "現在結婚していない理由をお聞かせください。（〇は３つまで）"
-msgstr ""
+msgstr "Why are you not married now? (Circle up to three answers)"
 
 #: ../../multi_var/Q566.rst:1
 msgid "項目"
@@ -43,7 +43,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q566.rst:1
 msgid "仕事が面白くて、まだ結婚にまで目が向かないから"
-msgstr ""
+msgstr "Because I enjoy work and don’t care about getting married yet"
 
 #: ../../multi_var/Q566.rst:1
 msgid ":doc:`Q566A </variable/Q566A>`"
@@ -51,7 +51,7 @@ msgstr ""
 
 #: ../../multi_var/Q566.rst:1
 msgid "勉強が面白くて、まだ結婚にまで目が向かないから"
-msgstr ""
+msgstr "Because I enjoy studying and don’t care about getting married yet"
 
 #: ../../multi_var/Q566.rst:1
 msgid ":doc:`Q566B </variable/Q566B>`"
@@ -60,6 +60,8 @@ msgstr ""
 #: ../../multi_var/Q566.rst:1
 msgid "現在の生活に満足しているので、まだ結婚にまで目が向かないから"
 msgstr ""
+"Because I am satisfied with my life now and don’t care about getting "
+"married yet"
 
 #: ../../multi_var/Q566.rst:1
 msgid ":doc:`Q566C </variable/Q566C>`"
@@ -67,7 +69,7 @@ msgstr ""
 
 #: ../../multi_var/Q566.rst:1
 msgid "結婚前にやっておきたいことがあるから"
-msgstr ""
+msgstr "I have things I want to do before getting married"
 
 #: ../../multi_var/Q566.rst:1
 msgid ":doc:`Q566D </variable/Q566D>`"
@@ -75,7 +77,7 @@ msgstr ""
 
 #: ../../multi_var/Q566.rst:1
 msgid "まだ結婚したい人に出会っていないから"
-msgstr ""
+msgstr "I haven’t met someone yet that I want to marry"
 
 #: ../../multi_var/Q566.rst:1
 msgid ":doc:`Q566E </variable/Q566E>`"
@@ -83,7 +85,7 @@ msgstr ""
 
 #: ../../multi_var/Q566.rst:1
 msgid "恋人とつきあっているが、まだ結婚に踏み切るところまでいかないから"
-msgstr ""
+msgstr "I have a boyfriend, but we are not yet ready to get married"
 
 #: ../../multi_var/Q566.rst:1
 msgid ":doc:`Q566F </variable/Q566F>`"
@@ -91,7 +93,7 @@ msgstr ""
 
 #: ../../multi_var/Q566.rst:1
 msgid "親の期待する結婚相手を見つけるのが難しいから"
-msgstr ""
+msgstr "It’s difficult to find a partner that my parents will approve of"
 
 #: ../../multi_var/Q566.rst:1
 msgid ":doc:`Q566G </variable/Q566G>`"
@@ -99,15 +101,8 @@ msgstr ""
 
 #: ../../multi_var/Q566.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q566.rst:1
 msgid ":doc:`Q566H </variable/Q566H>`"
 msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
-
