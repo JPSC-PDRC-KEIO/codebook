@@ -20,7 +20,7 @@ msgstr ""
 "X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/P186F.rst:5
-msgid "初職の評価：安定している・失業の恐れのない"
+msgid "初職の評価：安定している・失業のおそれがない"
 msgstr "Evaluation of first job: stable, low risk of unemployment"
 
 #: ../../variable/P186F.rst:9
@@ -40,7 +40,7 @@ msgid "あなたのはじめての会社やお仕事について、以下のこ�
 msgstr "How well do the following apply to your first company or job? (Circle one for each.)"
 
 #: ../../variable/P186F.rst:21
-msgid "安定している・失業の恐れのない"
+msgid "安定している・失業のおそれがない"
 msgstr "Stable, low risk of unemployment"
 
 #: ../../variable/P186F.rst:27

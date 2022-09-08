@@ -80,7 +80,6 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/P188L.rst:58
-#, fuzzy
 msgid "6"
 msgstr "6"
 
@@ -93,7 +92,6 @@ msgid "収録シート"
 msgstr "Data files (csv)"
 
 #: ../../variable/P188L.rst:74
-#, fuzzy
 msgid "p21e_1"
 msgstr "p21e_1"
 

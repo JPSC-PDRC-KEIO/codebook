@@ -20,7 +20,7 @@ msgstr ""
 "X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/P188I.rst:5
-msgid "前職の評価：技術が身に付く"
+msgid "前職の評価：技術が身につく"
 msgstr "Evaluation of previous job: developing skills"
 
 #: ../../variable/P188I.rst:9
@@ -40,7 +40,7 @@ msgid "あなたの前職の会社やお仕事について、以下のことは�
 msgstr "How well do the following apply to your previous company or job? (circle one for each)"
 
 #: ../../variable/P188I.rst:21
-msgid "技術が身に付く"
+msgid "技術が身につく"
 msgstr "Developing skills"
 
 #: ../../variable/P188I.rst:27

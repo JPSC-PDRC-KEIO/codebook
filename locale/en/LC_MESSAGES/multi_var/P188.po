@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/P188.rst:3
 msgid "前職の評価"
-msgstr ""
+msgstr "Evaluation of previous job"
 
 #: ../../multi_var/P188.rst:6
 msgid "質問文"
@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/P188.rst:8
 msgid "あなたの前職の会社やお仕事について、以下のことはどれくらいあてはまりますか。（それぞれ〇は１つずつ）"
-msgstr ""
+msgstr "How well do the following apply to your first company or job? (Circle one for each.)"
 
 #: ../../multi_var/P188.rst:1
 msgid "項目"
@@ -39,31 +39,31 @@ msgstr "Variable name"
 
 #: ../../multi_var/P188.rst:1
 msgid "あてはまる"
-msgstr ""
+msgstr "Suitable"
 
 #: ../../multi_var/P188.rst:1
 msgid "まああてはまる"
-msgstr ""
+msgstr "Somewhat suitable"
 
 #: ../../multi_var/P188.rst
 msgid "あまりあて"
-msgstr ""
+msgstr "Not very"
 
 #: ../../multi_var/P188.rst
 msgid "はまらない"
-msgstr ""
+msgstr "suitable"
 
 #: ../../multi_var/P188.rst
 msgid "ほとんどあて"
-msgstr ""
+msgstr "Barely"
 
 #: ../../multi_var/P188.rst:1
 msgid "わからない"
-msgstr ""
+msgstr "I don’t know."
 
 #: ../../multi_var/P188.rst:1
 msgid "給与がよい"
-msgstr ""
+msgstr "Good salary"
 
 #: ../../multi_var/P188.rst:1
 msgid ":doc:`P188A </variable/P188A>`"
@@ -91,7 +91,7 @@ msgstr ""
 
 #: ../../multi_var/P188.rst:1
 msgid "労働時間が長い"
-msgstr ""
+msgstr "Long working hours"
 
 #: ../../multi_var/P188.rst:1
 msgid ":doc:`P188B </variable/P188B>`"
@@ -99,15 +99,15 @@ msgstr ""
 
 #: ../../multi_var/P188.rst:1
 msgid "休日・休暇をとりやすい"
-msgstr ""
+msgstr "easy to take leave/vacation"
 
 #: ../../multi_var/P188.rst:1
-msgid ":doc:`Q188C </variable/P188C>`"
+msgid ":doc:`P188C </variable/P188C>`"
 msgstr ""
 
 #: ../../multi_var/P188.rst:1
 msgid "通勤時間が短い"
-msgstr ""
+msgstr "Short commute time"
 
 #: ../../multi_var/P188.rst:1
 msgid ":doc:`P188D </variable/P188D>`"
@@ -115,7 +115,7 @@ msgstr ""
 
 #: ../../multi_var/P188.rst:1
 msgid "転勤がない・少ない"
-msgstr ""
+msgstr "No or few transfers"
 
 #: ../../multi_var/P188.rst:1
 msgid ":doc:`P188E </variable/P188E>`"
@@ -123,7 +123,7 @@ msgstr ""
 
 #: ../../multi_var/P188.rst:1
 msgid "安定している・失業のおそれがない"
-msgstr ""
+msgstr "Stable, low risk of unemployment"
 
 #: ../../multi_var/P188.rst:1
 msgid ":doc:`P188F </variable/P188F>`"
@@ -131,7 +131,7 @@ msgstr ""
 
 #: ../../multi_var/P188.rst:1
 msgid "将来、発展する可能性がある"
-msgstr ""
+msgstr "Potential for future development"
 
 #: ../../multi_var/P188.rst:1
 msgid ":doc:`P188G </variable/P188G>`"
@@ -139,7 +139,7 @@ msgstr ""
 
 #: ../../multi_var/P188.rst:1
 msgid "結婚・出産後も続けやすい"
-msgstr ""
+msgstr "Easy to continue after marriage and childbirth"
 
 #: ../../multi_var/P188.rst:1
 msgid ":doc:`P188H </variable/P188H>`"
@@ -147,7 +147,7 @@ msgstr ""
 
 #: ../../multi_var/P188.rst:1
 msgid "技術が身につく"
-msgstr ""
+msgstr "Developing skills"
 
 #: ../../multi_var/P188.rst:1
 msgid ":doc:`P188I </variable/P188I>`"
@@ -155,7 +155,7 @@ msgstr ""
 
 #: ../../multi_var/P188.rst:1
 msgid "能力が生かせる"
-msgstr ""
+msgstr "Utilizing abilities"
 
 #: ../../multi_var/P188.rst:1
 msgid ":doc:`P188J </variable/P188J>`"
@@ -163,7 +163,7 @@ msgstr ""
 
 #: ../../multi_var/P188.rst:1
 msgid "仕事内容に興味がある"
-msgstr ""
+msgstr "Interest in the job"
 
 #: ../../multi_var/P188.rst:1
 msgid ":doc:`P188K </variable/P188K>`"
@@ -171,7 +171,7 @@ msgstr ""
 
 #: ../../multi_var/P188.rst:1
 msgid "人間関係が良好である"
-msgstr ""
+msgstr "Good relationships"
 
 #: ../../multi_var/P188.rst:1
 msgid ":doc:`P188L </variable/P188L>`"
@@ -179,7 +179,7 @@ msgstr ""
 
 #: ../../multi_var/P188.rst:1
 msgid "昇進・地位向上の機会がある"
-msgstr ""
+msgstr "Opportunities for promotion and advancement"
 
 #: ../../multi_var/P188.rst:1
 msgid ":doc:`P188M </variable/P188M>`"

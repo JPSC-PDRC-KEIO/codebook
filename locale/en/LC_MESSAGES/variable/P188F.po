@@ -20,7 +20,7 @@ msgstr ""
 "X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/P188F.rst:5
-msgid "前職の評価：安定している・失業の恐れのない"
+msgid "前職の評価：安定している・失業のおそれがない"
 msgstr "Evaluation of previous job: stable, low risk of unemployment"
 
 #: ../../variable/P188F.rst:9
@@ -40,7 +40,7 @@ msgid "あなたの前職の会社やお仕事について、以下のことは�
 msgstr "How well do the following apply to your previous company or job? (circle one for each)"
 
 #: ../../variable/P188F.rst:21
-msgid "安定している・失業の恐れのない"
+msgid "安定している・失業のおそれがない"
 msgstr "Stable, low risk of unemployment"
 
 #: ../../variable/P188F.rst:27
@@ -92,7 +92,6 @@ msgid "収録シート"
 msgstr "Data files (csv)"
 
 #: ../../variable/P188F.rst:74
-#, fuzzy
 msgid "p21e_1"
 msgstr "p21e_1"
 
