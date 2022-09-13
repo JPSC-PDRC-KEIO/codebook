@@ -760,29 +760,29 @@ List of variables
 * `Q141N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141N.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Other
 * `Q141O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q141O.html>`_ : Coping with lifestyle changes resulting from events that happened to family members: Nothing in particular
 * `Q142     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q142.html>`_ : Working status [2nd wave - ]
-* `Q143     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q143.html>`_ : 休職理由
+* `Q143     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q143.html>`_ : Reason for absence from work
 * `Q144     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q144.html>`_ : Occupation [1st - 3th waves]
 * `Q145     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q145.html>`_ : Number of employees at work
 * `Q146     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q146.html>`_ : Industries ( Wave 1–20 )
 * `Q147     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q147.html>`_ : Type of employee [Wave1 - Wave17]
 * `Q148     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q148.html>`_ : How salary is paid
-* `Q149     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q149.html>`_ : 月給・週給（月当たり額)
-* `Q150     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q150.html>`_ : 日給額
-* `Q151     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q151.html>`_ : 時給額
+* `Q149     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q149.html>`_ : Monthly/weekly salary (salary per month)
+* `Q150     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q150.html>`_ : Daily wage (spouse)
+* `Q151     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q151.html>`_ : Hourly wage (spouse)
 * `Q152     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q152.html>`_ : Working hours
 * `Q153     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q153.html>`_ : Paid overtime hours
 * `Q154     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q154.html>`_ : Unpaid overtime hours
-* `Q155     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q155.html>`_ : 勤務日数
+* `Q155     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q155.html>`_ : Working days
 * `Q156     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q156.html>`_ : Founding period ( - Wave 26)
 * `Q157     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q157.html>`_ : Child care system
 * `Q159     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q159.html>`_ : 勤務先での育児休業取得経験
-* `Q160     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q160.html>`_ : 育児休業取得経験者の有無
+* `Q160     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q160.html>`_ : Experienced childcare leave
 * `Q162     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q162.html>`_ : Care leave system
 * `Q164     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q164.html>`_ : 介護休業取得の有無
-* `Q165     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q165.html>`_ : 介護休業取得経験者の有無
-* `Q167     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q167.html>`_ : 有給休暇日数
-* `Q168     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q168.html>`_ : 有給休暇取得日数
-* `Q169     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q169.html>`_ : 研修・講習会への派遣の有無
+* `Q165     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q165.html>`_ : Experienced care leave
+* `Q167     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q167.html>`_ : Paid leave days (spouse)
+* `Q168     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q168.html>`_ : Paid leave days taken (spouse)
+* `Q169     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q169.html>`_ : Dispatch to training/seminars
 * `Q170A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q170A.html>`_ : Seminar or course organize: By my employer
 * `Q170B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q170B.html>`_ : Seminar or course organize: By a local organization
 * `Q170C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q170C.html>`_ : Seminar or course organize: By a related company
@@ -791,13 +791,13 @@ List of variables
 * `Q170F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q170F.html>`_ : Seminar or course organize: Studying abroad
 * `Q170G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q170G.html>`_ : Seminar or course organize: Other
 * `Q171     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q171.html>`_ : Number of days participating in seminars or courses
-* `Q172     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q172.html>`_ : 研修・講習会への就業時間内参加
-* `Q178     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q178.html>`_ : 就業状態の変化の有無
-* `Q179     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q179.html>`_ : 勤務先変更の有無
-* `Q180     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q180.html>`_ : 勤務先従業員数の増減
-* `Q181     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q181.html>`_ : 配置転換の有無
-* `Q182     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q182.html>`_ : 仕事内容変化の有無
-* `Q184     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q184.html>`_ : 勤務先変更理由
+* `Q172     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q172.html>`_ : 研修・講習会への就業時間外参加
+* `Q178     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q178.html>`_ : Change in employment status (spouse employed)
+* `Q179     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q179.html>`_ : Change of employer
+* `Q180     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q180.html>`_ : Increase/decrease in number of employees at work (spouse)
+* `Q181     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q181.html>`_ : Redeployment
+* `Q182     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q182.html>`_ : Change in job description
+* `Q184     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q184.html>`_ : Reason for changing employer
 * `Q185A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185A.html>`_ : Reason for leaving job: downsizing, company dissolution, bankruptcy
 * `Q185AA   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185AA.html>`_ : Reason for leaving job: child care
 * `Q185B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q185B.html>`_ : Reason for leaving job: work was temporary and unstable
@@ -876,11 +876,11 @@ List of variables
 * `Q192R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192R.html>`_ : 現職（職種）の選択理由：会社で指定された
 * `Q192S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192S.html>`_ : 現職（職種）の選択理由：家業だから
 * `Q192T    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192T.html>`_ : 現職（職種）の選択理由：その他
-* `Q193     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q193.html>`_ : 再就職月
-* `Q194     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q194.html>`_ : 就業月数
-* `Q195     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q195.html>`_ : 求職月数
-* `Q196     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q196.html>`_ : 勤務先数
-* `Q197     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q197.html>`_ : 就業状態の変化の有無（無職）
+* `Q193     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q193.html>`_ : Month of reemployment
+* `Q194     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q194.html>`_ : Months worked
+* `Q195     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q195.html>`_ : Months of Job Seeking
+* `Q196     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q196.html>`_ : Number of employers
+* `Q197     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q197.html>`_ : Change in employment status (unemployed)
 * `Q198A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198A.html>`_ : Reason for leaving job (not working): downsizing, or company dissolution or bankruptcy
 * `Q198AA   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198AA.html>`_ : Reason for leaving job (not working): childcare/child rearing
 * `Q198B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198B.html>`_ : Reason for leaving job (not working): temporary/unstable job
@@ -2357,11 +2357,11 @@ List of variables
 * `Q1197M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1197M.html>`_ : 睡眠時間　分（休日）
 * `Q1198    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1198.html>`_ : Spending Habits
 * `Q1199    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1199.html>`_ : Expenditure trends (spouse)
-* `Q1200A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1200A.html>`_ : 将来の働き方希望：権限や責任がある仕事
-* `Q1200B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1200B.html>`_ : 将来の働き方希望：家庭を重視
-* `Q1200C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1200C.html>`_ : 将来の働き方希望：能力やスキルを生かせる仕事
-* `Q1200D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1200D.html>`_ : 将来の働き方希望：収入をもっと
-* `Q1200E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1200E.html>`_ : 将来の働き方希望：今と同じ
+* `Q1200A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1200A.html>`_ : Desired future work style: work with authority and responsibility
+* `Q1200B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1200B.html>`_ : Future work preferences: family oriented
+* `Q1200C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1200C.html>`_ : Desired future work: a job where I can make use of my abilities and skills
+* `Q1200D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1200D.html>`_ : Future work desire: increased income
+* `Q1200E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1200E.html>`_ : Desired future work style: same as now
 * `Q1201A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201A.html>`_ : 人は信用できると思うか
 * `Q1201B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201B.html>`_ : 社会から取り残されていると感じるか
 * `Q1201C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201C.html>`_ : 人が嫌がる仕事もやる方か
@@ -2460,12 +2460,12 @@ List of variables
 * `Q1236F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1236F.html>`_ : 消費税10％への対応：外食・交際・娯楽費の見直し
 * `Q1237A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1237A.html>`_ : 消費税10％への対応（子どもがいる人）：子供の教育費の見直し
 * `Q1237B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1237B.html>`_ : 消費税10％への対応（子どもがいる人）：その他の子ども費用の見直し
-* `Q1238A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1238A.html>`_ : 仕事の変化：仕事の量・ノルマ
-* `Q1238B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1238B.html>`_ : 仕事の変化：仕事の裁量
-* `Q1238C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1238C.html>`_ : 仕事の変化：深夜・早朝の時間帯の仕事
-* `Q1238D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1238D.html>`_ : 仕事の変化：オンライン・電話での会議・商談
-* `Q1238E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1238E.html>`_ : 仕事の変化：勤務先への満足度・愛着度
-* `Q1238F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1238F.html>`_ : 仕事の変化：他の企業への転職度
+* `Q1238A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1238A.html>`_ : Changes in work: workload/quotas
+* `Q1238B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1238B.html>`_ : Changes in work: job discretion
+* `Q1238C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1238C.html>`_ : Change in work: late night/early morning hours
+* `Q1238D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1238D.html>`_ : Work changes: online or telephone meetings/business negotiations
+* `Q1238E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1238E.html>`_ : Work changes: satisfaction/attachment to workplace
+* `Q1238F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1238F.html>`_ : Job change: degree of desire to move to another company
 * `Q1239    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1239.html>`_ : Net income during the declaration of a state of emergency (April 2020): Comparison with take-home income in September 2020
 * `Q1240    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1240.html>`_ : Net income during the declaration of a state of emergency (April 2020): Difference
 * `Q1241    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1241.html>`_ : Net income during the declaration of a state of emergency (April 2020): Comparison with take-home income in September 2020 (spouse)
@@ -2818,3 +2818,38 @@ List of variables
 * `Q9004IM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9004IM.html>`_ : 生活時間（配偶者 調整版）：趣味・娯楽・交際など／分（休日）
 * `Q9004MH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9004MH.html>`_ : 生活時間（配偶者 調整版）：睡眠、食事、入浴、身の回りの用事など／時間（休日）
 * `Q9004MM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9004MM.html>`_ : 生活時間（配偶者 調整版）：睡眠、食事、入浴、身の回りの用事など／分（休日）
+* `ID       <https://jpsc-codebook.readthedocs.io/en/latest/id_panel/ID.html>`_ : Survey respondent's number (ID)
+* `PANEL    <https://jpsc-codebook.readthedocs.io/en/latest/id_panel/PANEL.html>`_ : Number of surveys
+* `REC      <https://jpsc-codebook.readthedocs.io/en/latest/id_panel/REC.html>`_ : Sheet number
+* `Q1       <https://jpsc-codebook.readthedocs.io/en/latest/kihon/Q1.html>`_ : Marital status
+* `Q2       <https://jpsc-codebook.readthedocs.io/en/latest/kihon/Q2.html>`_ : Regional Block
+* `Q3       <https://jpsc-codebook.readthedocs.io/en/latest/kihon/Q3.html>`_ : Municipality size
+* `Q4       <https://jpsc-codebook.readthedocs.io/en/latest/kihon/Q4.html>`_ : Local Government Code
+* `Q6       <https://jpsc-codebook.readthedocs.io/en/latest/kihon/Q6.html>`_ : Relationship
+* `Q7       <https://jpsc-codebook.readthedocs.io/en/latest/kihon/Q7.html>`_ : Gender
+* `Q9       <https://jpsc-codebook.readthedocs.io/en/latest/kihon/Q9.html>`_ : Educational status [1st - 9th wave]
+* `Q9R       <https://jpsc-codebook.readthedocs.io/en/latest/kihon/Q9R.html>`_ : Student or worker status [10th wave]
+* `Q9S       <https://jpsc-codebook.readthedocs.io/en/latest/kihon/Q9S.html>`_ : Student or worker status [11th wave - ]
+* `Q10       <https://jpsc-codebook.readthedocs.io/en/latest/kihon/Q10.html>`_ : 家族1（本人）：同居・別居
+* `Q11       <https://jpsc-codebook.readthedocs.io/en/latest/kihon_hs/Q11_hs.html>`_ : Relationship (spouse)
+* `Q12       <https://jpsc-codebook.readthedocs.io/en/latest/kihon_hs/Q12_hs.html>`_ : Sex (spouse)
+* `Q13       <https://jpsc-codebook.readthedocs.io/en/latest/kihon_hs/Q13_hs.html>`_ : Age (spouse)
+* `Q14       <https://jpsc-codebook.readthedocs.io/en/latest/kihon_hs/Q14_hs.html>`_ : Student or worker status (spouse) [1st-9th waves]
+* `Q14R       <https://jpsc-codebook.readthedocs.io/en/latest/kihon_hs/Q14R_hs.html>`_ : Student or worker status (spous) [10th wave]
+* `Q14S       <https://jpsc-codebook.readthedocs.io/en/latest/kihon_hs/Q14S_hs.html>`_ : Student or worker status (spouse) [11th wave- ]
+* `Q15       <https://jpsc-codebook.readthedocs.io/en/latest/kihon_hs/Q15_hs.html>`_ : Living together or separately (spouse)
+* `KEN1      <https://jpsc-codebook.readthedocs.io/en/latest/kihon/ken1.html>`_ : 引越し前住所（転居1）（一般ユーザー非公開）
+* `KEN2      <https://jpsc-codebook.readthedocs.io/en/latest/kihon/ken2.html>`_ : 引越し前住所（転居2）（一般ユーザー非公開）
+* `KEN3      <https://jpsc-codebook.readthedocs.io/en/latest/kihon/ken3.html>`_ : 引越し前住所（転居3）（一般ユーザー非公開）
+* `KEN4      <https://jpsc-codebook.readthedocs.io/en/latest/kihon/ken4.html>`_ : 引越し前住所（転居4）（一般ユーザー非公開）
+* `KEN5      <https://jpsc-codebook.readthedocs.io/en/latest/kihon/ken5.html>`_ : 引越し前住所（転居5）（一般ユーザー非公開）
+* `Q58R       <https://jpsc-codebook.readthedocs.io/en/latest/kihon_kazoku/Q58R.html>`_ : School enrollment of the oldest child
+* `Q59R       <https://jpsc-codebook.readthedocs.io/en/latest/kihon_kazoku/Q59R.html>`_ : School enrollment of the youngest child
+* `Q60SR       <https://jpsc-codebook.readthedocs.io/en/latest/kihon/Q60SR.html>`_ : Educational achievement at the last school attended
+* `Q61SR       <https://jpsc-codebook.readthedocs.io/en/latest/kihon_hs/Q61SR.html>`_ : Educational achievement at the last school (spouse)
+* `Q62       <https://jpsc-codebook.readthedocs.io/en/latest/kihon/Q62.html>`_ : Change in marriage status
+* `Q63       <https://jpsc-codebook.readthedocs.io/en/latest/kihon/Q63.html>`_ : Career change
+* `Q64       <https://jpsc-codebook.readthedocs.io/en/latest/kihon/Q64.html>`_ : Change in residence
+* `Q65       <https://jpsc-codebook.readthedocs.io/en/latest/kihon_kazoku/Q65.html>`_ : Family structure
+* `Q66       <https://jpsc-codebook.readthedocs.io/en/latest/kihon_hs/Q66.html>`_ : Husband’s salary
+* `Q1014_1       <https://jpsc-codebook.readthedocs.io/en/latest/kihon/Q1014_1.html>`_ : 家族1（本人）：配偶状況
