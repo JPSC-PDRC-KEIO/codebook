@@ -8,18 +8,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-26 10:35+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2022-01-06 14:05+0900\n"
+"PO-Revision-Date: 2022-09-06 13:35+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/Q165.rst:6
 msgid "介護休業取得経験者の有無"
-msgstr ""
+msgstr "Experienced care leave"
 
 #: ../../variable/Q165.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q165.rst:21
 msgid "あなたの勤めている会社等の中の周りの人で、介護休業を取った人、現在取っている人がいますか。"
-msgstr ""
+msgstr "Has anyone around you in the company or organization where you work currently taken care leave?"
 
 #: ../../variable/Q165.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,11 +45,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q165.rst:30
 msgid "いる"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q165.rst:31
 msgid "いない"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q165.rst:39
 msgid "桁あふれコード"
@@ -63,15 +65,11 @@ msgstr "No response code"
 
 #: ../../variable/Q165.rst:54
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../variable/Q165.rst:60
 msgid "備考"
 msgstr "Remarks"
-
-#: ../../variable/Q165.rst:62
-msgid "この質問は、 :doc:`Q881 </variable/Q881>` から分岐した付問です。"
-msgstr "This is an additional question related to  :doc:`Q881 </variable/Q881>` ."
 
 #: ../../variable/Q165.rst:68
 msgid "収録シート"
@@ -79,115 +77,115 @@ msgstr "Data files (csv)"
 
 #: ../../variable/Q165.rst:73
 msgid "p2_1"
-msgstr ""
+msgstr "p2_1"
 
 #: ../../variable/Q165.rst:75
 msgid "p5a_1"
-msgstr ""
+msgstr "p5a_1"
 
 #: ../../variable/Q165.rst:77
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #: ../../variable/Q165.rst:79
 msgid "p6_1"
-msgstr ""
+msgstr "p6_1"
 
 #: ../../variable/Q165.rst:81
 msgid "p7_1"
-msgstr ""
+msgstr "p7_1"
 
 #: ../../variable/Q165.rst:83
 msgid "p8_1"
-msgstr ""
+msgstr "p8_1"
 
 #: ../../variable/Q165.rst:85
 msgid "p9_1"
-msgstr ""
+msgstr "p9_1"
 
 #: ../../variable/Q165.rst:87
 msgid "p10_1"
-msgstr ""
+msgstr "p10_1"
 
 #: ../../variable/Q165.rst:89
 msgid "p11ab_1"
-msgstr ""
+msgstr "p11ab_1"
 
 #: ../../variable/Q165.rst:91
 msgid "p11c_1"
-msgstr ""
+msgstr "p11c_1"
 
 #: ../../variable/Q165.rst:93
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: ../../variable/Q165.rst:95
 msgid "p13_1"
-msgstr ""
+msgstr "p13_1"
 
 #: ../../variable/Q165.rst:97
 msgid "p14_1"
-msgstr ""
+msgstr "p14_1"
 
 #: ../../variable/Q165.rst:99
 msgid "p15_1"
-msgstr ""
+msgstr "p15_1"
 
 #: ../../variable/Q165.rst:101
 msgid "p16abc_1"
-msgstr ""
+msgstr "p16abc_1"
 
 #: ../../variable/Q165.rst:103
 msgid "p16d_1"
-msgstr ""
+msgstr "p16d_1"
 
 #: ../../variable/Q165.rst:105
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: ../../variable/Q165.rst:107
 msgid "p18_1"
-msgstr ""
+msgstr "p18_1"
 
 #: ../../variable/Q165.rst:109
 msgid "p19_1"
-msgstr ""
+msgstr "p19_1"
 
 #: ../../variable/Q165.rst:111
 msgid "p20_1"
-msgstr ""
+msgstr "p20_1"
 
 #: ../../variable/Q165.rst:113
 msgid "p21abcd_1"
-msgstr ""
+msgstr "p21abcd_1"
 
 #: ../../variable/Q165.rst:115
 msgid "p21e_1"
-msgstr ""
+msgstr "p21e_1"
 
 #: ../../variable/Q165.rst:117
 msgid "p22_1"
-msgstr ""
+msgstr "p22_1"
 
 #: ../../variable/Q165.rst:119
 msgid "p23_1"
-msgstr ""
+msgstr "p23_1"
 
 #: ../../variable/Q165.rst:121
 msgid "p24_1"
-msgstr ""
+msgstr "p24_1"
 
 #: ../../variable/Q165.rst:123
 msgid "p25_1"
-msgstr ""
+msgstr "p25_1"
 
 #: ../../variable/Q165.rst:125
 msgid "p26_1"
-msgstr ""
+msgstr "p26_1"
 
 #: ../../variable/Q165.rst:127
 msgid "p27_1"
-msgstr ""
+msgstr "p27_1"
 
 #: ../../variable/Q165.rst:129
 msgid "p28_1"
@@ -198,4 +196,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

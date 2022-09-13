@@ -4,23 +4,24 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-09-12 11:19+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/Q1238C.rst:6
 msgid "仕事の変化：深夜・早朝の時間帯の仕事"
-msgstr ""
+msgstr "Change in work: late night/early morning hours"
 
 #: ../../variable/Q1238C.rst:11
 msgid "変数名"
@@ -36,11 +37,12 @@ msgstr "Question"
 
 #: ../../variable/Q1238C.rst:21
 msgid "昨年の10月ごろ（前回の調査の回答時期）と比べて、以下のことはどの程度変わりましたか。（〇は１つずつ）"
-msgstr ""
+msgstr "Compared to around October last year
+ (when you answered the previous survey), to what extent have the following changed? (Circle for each one)"
 
 #: ../../variable/Q1238C.rst:23
 msgid "深夜・早朝などの時間帯での仕事"
-msgstr ""
+msgstr "Work late night or early morning hours"
 
 #: ../../variable/Q1238C.rst:33
 msgid "選択肢 / 記入欄"
@@ -48,27 +50,27 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1238C.rst:35
 msgid "大きく増えた"
-msgstr ""
+msgstr "Much more"
 
 #: ../../variable/Q1238C.rst:36
 msgid "少し増えた"
-msgstr ""
+msgstr "A little more"
 
 #: ../../variable/Q1238C.rst:37
 msgid "変わらない"
-msgstr ""
+msgstr "No change"
 
 #: ../../variable/Q1238C.rst:38
 msgid "少し減った"
-msgstr ""
+msgstr "A little less"
 
 #: ../../variable/Q1238C.rst:39
 msgid "大きく減った"
-msgstr ""
+msgstr "A lot less"
 
 #: ../../variable/Q1238C.rst:40
 msgid "該当しない"
-msgstr ""
+msgstr "Not applicable"
 
 #: ../../variable/Q1238C.rst:47
 msgid "桁あふれコード"
@@ -84,7 +86,7 @@ msgstr "No response code"
 
 #: ../../variable/Q1238C.rst:62
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: ../../variable/Q1238C.rst:68
 msgid "備考"
@@ -97,4 +99,3 @@ msgstr "Data files (csv)"
 #: ../../variable/Q1238C.rst:81
 msgid "p28_1"
 msgstr ""
-
