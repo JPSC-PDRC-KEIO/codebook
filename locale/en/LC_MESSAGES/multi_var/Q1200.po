@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q1200.rst:3
 msgid "将来の働き方希望"
-msgstr ""
+msgstr "Desired future work style"
 
 #: ../../multi_var/Q1200.rst:6
 msgid "質問文"
@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q1200.rst:8
 msgid "3年後のあなたの働き方の希望について、以下のことはどれくらいあてはまりますか。（それぞれ〇は１つずつ）"
-msgstr ""
+msgstr "How well do the following apply to your working preferences three years from now? (circle one for each)"
 
 #: ../../multi_var/Q1200.rst:1
 msgid "項目"
@@ -39,7 +39,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q1200.rst:1
 msgid "今より権限や責任がある仕事がしたい"
-msgstr ""
+msgstr "I want a job with more authority and responsibility than I have now."
 
 #: ../../multi_var/Q1200.rst:1
 msgid ":doc:`Q1200A </variable/Q1200A>`"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../multi_var/Q1200.rst:1
 msgid "家事・育児・介護など家庭の方をより重視したい"
-msgstr ""
+msgstr "Want to focus more on family, such as housework, childcare, and caregiving"
 
 #: ../../multi_var/Q1200.rst:1
 msgid ":doc:`Q1200B </variable/Q1200B>`"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../multi_var/Q1200.rst:1
 msgid "より能力やスキルを生かせる仕事がしたい"
-msgstr ""
+msgstr "I want to work in a job where I can make better use of my abilities and skills."
 
 #: ../../multi_var/Q1200.rst:1
 msgid ":doc:`Q1200C </variable/Q1200C>`"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: ../../multi_var/Q1200.rst:1
 msgid "収入をもっと増やしたい"
-msgstr ""
+msgstr "I want to increase my income."
 
 #: ../../multi_var/Q1200.rst:1
 msgid ":doc:`Q1200D </variable/Q1200D>`"
@@ -71,51 +71,8 @@ msgstr ""
 
 #: ../../multi_var/Q1200.rst:1
 msgid "今と同じ職場・会社で働いていたい"
-msgstr ""
+msgstr "I want to work at the same office/company I work at now."
 
 #: ../../multi_var/Q1200.rst:1
 msgid ":doc:`Q1200E </variable/Q1200E>`"
 msgstr ""
-
-#~ msgid "まああてはまる"
-#~ msgstr ""
-
-#~ msgid "あまりあてはまらない"
-#~ msgstr ""
-
-#~ msgid "ほとんどあてはまらない"
-#~ msgstr ""
-
-#~ msgid "あてはまる"
-#~ msgstr ""
-
-#~ msgid "まあ"
-#~ msgstr ""
-
-#~ msgid "あまり"
-#~ msgstr ""
-
-#~ msgid "あてはまらない"
-#~ msgstr ""
-
-#~ msgid "ほとんど"
-#~ msgstr ""
-
-#~ msgid "わからない"
-#~ msgstr ""
-
-#~ msgid "1"
-#~ msgstr ""
-
-#~ msgid "2"
-#~ msgstr ""
-
-#~ msgid "3"
-#~ msgstr ""
-
-#~ msgid "4"
-#~ msgstr ""
-
-#~ msgid "5"
-#~ msgstr ""
-

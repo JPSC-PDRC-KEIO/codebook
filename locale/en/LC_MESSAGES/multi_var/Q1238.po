@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../multi_var/Q1238.rst:3
 msgid "仕事に関する変化"
-msgstr ""
+msgstr "Job change"
 
 #: ../../multi_var/Q1238.rst:7
 msgid "質問文"
@@ -28,7 +28,8 @@ msgstr "Question"
 
 #: ../../multi_var/Q1238.rst:8
 msgid "昨年の10月ごろ（前回の調査の回答時期）と比べて、以下のことはどの程度変わりましたか。（〇は１つずつ）"
-msgstr ""
+msgstr "Compared to around October last year
+ ( when you answered the previous survey), to what extent have the following changed? (circle for each one)"
 
 #: ../../multi_var/Q1238.rst:1
 msgid "項目"
@@ -40,31 +41,31 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q1238.rst:1
 msgid "大きく増えた"
-msgstr ""
+msgstr "Much more"
 
 #: ../../multi_var/Q1238.rst:1
 msgid "少し増えた"
-msgstr ""
+msgstr "A little more"
 
 #: ../../multi_var/Q1238.rst:1
 msgid "変わらない"
-msgstr ""
+msgstr "No change"
 
 #: ../../multi_var/Q1238.rst:1
 msgid "少し減った"
-msgstr ""
+msgstr "A little less"
 
 #: ../../multi_var/Q1238.rst:1
 msgid "大きく減った"
-msgstr ""
+msgstr "A lot less"
 
 #: ../../multi_var/Q1238.rst:1
 msgid "該当しない"
-msgstr ""
+msgstr "Not applicable"
 
 #: ../../multi_var/Q1238.rst:1
 msgid "仕事の量・ノルマ"
-msgstr ""
+msgstr "Workload/quotas"
 
 #: ../../multi_var/Q1238.rst:1
 msgid ":doc:`Q1238A</variable/Q1238A>`"
@@ -96,7 +97,7 @@ msgstr ""
 
 #: ../../multi_var/Q1238.rst:1
 msgid "仕事の裁量"
-msgstr ""
+msgstr "Job discretion"
 
 #: ../../multi_var/Q1238.rst:1
 msgid ":doc:`Q1238B</variable/Q1238B>`"
@@ -104,7 +105,7 @@ msgstr ""
 
 #: ../../multi_var/Q1238.rst:1
 msgid "深夜・早朝などの時間帯での仕事"
-msgstr ""
+msgstr "Work late night or early morning hours"
 
 #: ../../multi_var/Q1238.rst:1
 msgid ":doc:`Q1238C</variable/Q1238C>`"
@@ -112,7 +113,7 @@ msgstr ""
 
 #: ../../multi_var/Q1238.rst:1
 msgid "オンライン（WEB）・電話での会議・商談"
-msgstr ""
+msgstr "online (web) or telephone meetings/business negotiations"
 
 #: ../../multi_var/Q1238.rst:1
 msgid ":doc:`Q1238D</variable/Q1238D>`"
@@ -120,7 +121,7 @@ msgstr ""
 
 #: ../../multi_var/Q1238.rst:1
 msgid "今の勤務先への満足度・愛着度"
-msgstr ""
+msgstr "Level of satisfaction/attachment to current employer"
 
 #: ../../multi_var/Q1238.rst:1
 msgid ":doc:`Q1238E</variable/Q1238E>`"
@@ -128,7 +129,7 @@ msgstr ""
 
 #: ../../multi_var/Q1238.rst:1
 msgid "他の企業などへの転職希望"
-msgstr ""
+msgstr "Desire to move to another company"
 
 #: ../../multi_var/Q1238.rst:1
 msgid ":doc:`Q1238F</variable/Q1238F>`"
