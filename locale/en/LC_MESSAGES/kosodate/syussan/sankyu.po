@@ -19,5 +19,5 @@ msgstr ""
 
 #: ../../kosodate/syussan/sankyu.rst:3
 msgid "産前産後休業"
-msgstr ""
+msgstr "Maternity leave before and after childbirth"
 

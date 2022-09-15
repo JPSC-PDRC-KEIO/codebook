@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../kakei/hoken.rst:3
 msgid "公的医療保障制度の加入"
-msgstr ""
+msgstr "Enrollment in public health insurance"
 
 #: ../../kakei/hoken.rst:6
 msgid "質問文"
@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../kakei/hoken.rst:8
 msgid "現在、あなたご自身は、どのような公的医療保障制度に加入していますか。"
-msgstr ""
+msgstr "What public health care coverage do you yourself currently have?"
 
 #: ../../kakei/hoken.rst:11
 msgid "本人の保険か家族の保険かも聞いています。"
@@ -39,35 +39,35 @@ msgstr "Items"
 
 #: ../../kakei/hoken.rst:1
 msgid "加入する保険の種類"
-msgstr ""
+msgstr "Type of the public health care"
 
 #: ../../kakei/hoken.rst:1
 msgid "本人の保険か家族の保険か"
-msgstr ""
+msgstr "Your own insurance or your family’s insurance"
 
-#: ../../kakei/hoken.rst
+#: ../../kakei/hoken.rst:17
 msgid "1. 会社の医療保険"
-msgstr ""
+msgstr "\1. Company health insurance"
 
-#: ../../kakei/hoken.rst
+#: ../../kakei/hoken.rst:18
 msgid "2. 国民健康保険"
-msgstr ""
+msgstr "\2. National Health Insurance"
 
-#: ../../kakei/hoken.rst
-msgid "3. 嘱託・その他"
-msgstr ""
+#: ../../kakei/hoken.rst:19
+msgid "3. 船員保険"
+msgstr "\3. Seamen's insurance"
 
-#: ../../kakei/hoken.rst
+#: ../../kakei/hoken.rst:20
 msgid "4. 共済保険・共済制度"
-msgstr ""
+msgstr "\4. Mutual Insurance and Mutual Aid Programs"
 
-#: ../../kakei/hoken.rst
+#: ../../kakei/hoken.rst:21
 msgid "5. 医療扶助"
-msgstr ""
+msgstr "\5. Medical assistance"
 
-#: ../../kakei/hoken.rst
+#: ../../kakei/hoken.rst:22
 msgid "6. どれにも加入していない"
-msgstr ""
+msgstr "\6. None of the above"
 
 #: ../../kakei/hoken.rst:1
 msgid ":doc:`Q1054 </variable/Q1054>`"

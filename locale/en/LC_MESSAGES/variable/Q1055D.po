@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q1055D.rst:6
 msgid "公的医療保険の種類　共済保険・共済制度"
-msgstr "Type of public health insurance: Mutual insurance and mutual aid programs"
+msgstr "Type of public health insurance: mutual insurance and mutual aid programs"
 
 #: ../../variable/Q1055D.rst:11
 msgid "変数名"

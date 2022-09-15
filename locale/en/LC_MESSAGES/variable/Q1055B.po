@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q1055B.rst:6
 msgid "公的医療保険の種類　国民健康保険"
-msgstr "Type of public health insurance: National Health Insurance"
+msgstr "Type of public health insurance: national Health Insurance"
 
 #: ../../variable/Q1055B.rst:11
 msgid "変数名"

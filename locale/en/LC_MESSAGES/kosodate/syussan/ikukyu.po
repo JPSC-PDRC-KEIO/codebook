@@ -19,5 +19,5 @@ msgstr ""
 
 #: ../../kosodate/syussan/ikukyu.rst:3
 msgid "育児休業"
-msgstr ""
+msgstr "Childcare leave"
 
