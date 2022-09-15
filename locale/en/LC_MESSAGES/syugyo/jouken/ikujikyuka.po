@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../syugyo/jouken/ikujikyuka.rst:3
 msgid "育児休業"
-msgstr ""
+msgstr "Childcare leave"
 
 #: ../../syugyo/jouken/ikujikyuka.rst:14
 msgid "「育児休業の有無」については、変数名と選択肢が下記のように変化しています。なお、第3回と第4回では、現在の勤務先での育児休業制度の有無を直接問う項目は設けていません。"
@@ -47,19 +47,19 @@ msgstr ""
 
 #: ../../syugyo/jouken/ikujikyuka.rst:1
 msgid "選択肢"
-msgstr ""
+msgstr "Select"
 
 #: ../../syugyo/jouken/ikujikyuka.rst
 msgid "1.ある"
-msgstr ""
+msgstr "1.Yes"
 
 #: ../../syugyo/jouken/ikujikyuka.rst
 msgid "2.ない"
-msgstr ""
+msgstr "2.No"
 
 #: ../../syugyo/jouken/ikujikyuka.rst
 msgid "3.知らない"
-msgstr ""
+msgstr "3.Don't know"
 
 #: ../../syugyo/jouken/ikujikyuka.rst
 msgid "1.会社等に制度があり、自分にも資格がある"

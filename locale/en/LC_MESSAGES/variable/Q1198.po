@@ -20,8 +20,8 @@ msgstr ""
 "X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/Q1198.rst:6
-msgid "お金の使い方"
-msgstr "Spending Habits"
+msgid "支出の傾向"
+msgstr "Expenditure trends"
 
 #: ../../variable/Q1198.rst:11
 msgid "変数名"

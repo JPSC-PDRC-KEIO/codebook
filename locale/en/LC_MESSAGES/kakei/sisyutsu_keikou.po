@@ -18,8 +18,8 @@ msgstr ""
 "Generated-By: Babel 2.9.0\n"
 
 #: ../../kakei/sisyutsu_keikou.rst:3
-msgid "お金の使い方"
-msgstr ""
+msgid "支出の傾向"
+msgstr "Expenditure trends"
 
 #: ../../kakei/sisyutsu_keikou.rst:6
 msgid "質問文"
@@ -27,11 +27,11 @@ msgstr "Question"
 
 #: ../../kakei/sisyutsu_keikou.rst:8
 msgid "あなた方ご夫婦は、お金に対して細かい方だと思いますか、ルーズな方だと思いますか。ご主人については、あなたの評価をお聞かせください。（それぞれ〇は１つずつ）"
-msgstr ""
+msgstr "Do you think you and your husband are thrifty with money or loose with money? Please tell us your evaluation of your husband. (circle one for each )"
 
 #: ../../kakei/sisyutsu_keikou.rst:12
-msgid "選択肢"
-msgstr ""
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
 
 #: ../../kakei/sisyutsu_keikou.rst:1
 msgid "項目"
@@ -43,27 +43,27 @@ msgstr "Variable name"
 
 #: ../../kakei/sisyutsu_keikou.rst:1
 msgid "細かい"
-msgstr ""
+msgstr "Thrifty"
 
 #: ../../kakei/sisyutsu_keikou.rst:1
 msgid "やや細かい"
-msgstr ""
+msgstr "Somewhat thrifty"
 
 #: ../../kakei/sisyutsu_keikou.rst:1
 msgid "ちょうどよい"
-msgstr ""
+msgstr "Moderate"
 
 #: ../../kakei/sisyutsu_keikou.rst:1
 msgid "ややルーズ"
-msgstr ""
+msgstr "Somewhat loose"
 
 #: ../../kakei/sisyutsu_keikou.rst:1
 msgid "ルーズ"
-msgstr ""
+msgstr "Loose"
 
 #: ../../kakei/sisyutsu_keikou.rst:1
 msgid "あなた"
-msgstr ""
+msgstr "You"
 
 #: ../../kakei/sisyutsu_keikou.rst:1
 msgid ":doc:`Q1198 </variable/Q1198>`"
@@ -91,7 +91,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_keikou.rst:1
 msgid "ご主人"
-msgstr ""
+msgstr "Your huband"
 
 #: ../../kakei/sisyutsu_keikou.rst:1
 msgid ":doc:`Q1199 </variable/Q1199>`"
@@ -103,12 +103,10 @@ msgstr "Remarks"
 
 #: ../../kakei/sisyutsu_keikou.rst:25
 msgid "Q1198は無配偶票と共通の変数です。"
-msgstr ""
+msgstr "This is a common variable with the questionnaire to unmarried"
 
 #: ../../kakei/sisyutsu_keikou.rst:27
 msgid "無配偶票の質問文は「あなたは、お金に対して細かい方だと思いますか、ルーズな方だと思いますか。」となっています。"
-msgstr ""
+msgstr "The question on the no-evening form is \"Do you think you are thrifty with money or loose with money?\""
 
-#~ msgid "支出の傾向"
-#~ msgstr ""
 

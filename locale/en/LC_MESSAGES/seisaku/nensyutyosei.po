@@ -60,7 +60,7 @@ msgstr ""
 #: ../../seisaku/nensyutyosei.rst:1
 
 msgid ":doc:`Q1212A </variable/Q1212A>`"
-msgstr ":doc:`Q1211 </variable/Q1211>`"
+msgstr ":doc:`Q1212A </variable/Q1212A>`"
 
 #: ../../seisaku/nensyutyosei.rst:1
 msgid "配偶者の配偶者控除や配偶者特別控除がなくなるから"
@@ -69,7 +69,7 @@ msgstr ""
 #: ../../seisaku/nensyutyosei.rst:1
 
 msgid ":doc:`Q1212B </variable/Q1212B>`"
-msgstr ":doc:`Q1211 </variable/Q1211>`"
+msgstr ":doc:`Q1212B </variable/Q1212B>`"
 
 #: ../../seisaku/nensyutyosei.rst:1
 msgid "配偶者の配偶者手当がもらえなくなるから"
@@ -78,7 +78,7 @@ msgstr ""
 #: ../../seisaku/nensyutyosei.rst:1
 
 msgid ":doc:`Q1212C </variable/Q1212C>`"
-msgstr ":doc:`Q1211 </variable/Q1211>`"
+msgstr ":doc:`Q1212C </variable/Q1212C>`"
 
 #: ../../seisaku/nensyutyosei.rst:1
 msgid "配偶者の健康保険の被保険者からはずれて自分で健康保険に加入しなければならないから"
@@ -87,7 +87,7 @@ msgstr ""
 #: ../../seisaku/nensyutyosei.rst:1
 
 msgid ":doc:`Q1212D </variable/Q1212D>`"
-msgstr ":doc:`Q1211 </variable/Q1211>`"
+msgstr ":doc:`Q1212D </variable/Q1212D>`"
 
 #: ../../seisaku/nensyutyosei.rst:1
 msgid "雇用保険に加入しなければならないから"
@@ -96,7 +96,7 @@ msgstr ""
 #: ../../seisaku/nensyutyosei.rst:1
 
 msgid ":doc:`Q1212E </variable/Q1212E>`"
-msgstr ":doc:`Q1211 </variable/Q1211>`"
+msgstr ":doc:`Q1212E </variable/Q1212E>`"
 
 #: ../../seisaku/nensyutyosei.rst:1
 msgid "配偶者の会社にあなたが働いていることを知られてしまうから"
@@ -105,7 +105,7 @@ msgstr ""
 #: ../../seisaku/nensyutyosei.rst:1
 
 msgid ":doc:`Q1212F </variable/Q1212F>`"
-msgstr ":doc:`Q1211 </variable/Q1211>`"
+msgstr ":doc:`Q1212F </variable/Q1212F>`"
 
 #: ../../seisaku/nensyutyosei.rst:1
 msgid "各種手当の支給条件の限度を意識しているから"
@@ -114,7 +114,7 @@ msgstr ""
 #: ../../seisaku/nensyutyosei.rst:1
 
 msgid ":doc:`Q1212G </variable/Q1212G>`"
-msgstr ":doc:`Q1211 </variable/Q1211>`"
+msgstr ":doc:`Q1212G </variable/Q1212G>`"
 
 #: ../../seisaku/nensyutyosei.rst:1
 msgid "各種サービス利用の収入段階を意識しているから"
@@ -123,7 +123,7 @@ msgstr ""
 #: ../../seisaku/nensyutyosei.rst:1
 
 msgid ":doc:`Q1212H </variable/Q1212H>`"
-msgstr ":doc:`Q1211 </variable/Q1211>`"
+msgstr ":doc:`Q1212H </variable/Q1212H>`"
 
 #: ../../seisaku/nensyutyosei.rst ../../seisaku/nensyutyosei.rst:1
 msgid "その他"
@@ -132,7 +132,7 @@ msgstr ""
 #: ../../seisaku/nensyutyosei.rst:1
 
 msgid ":doc:`Q1212I </variable/Q1212I>`"
-msgstr ":doc:`Q1211 </variable/Q1211>`"
+msgstr ":doc:`Q1212I </variable/Q1212I>`"
 
 #: ../../seisaku/nensyutyosei.rst:1
 
@@ -154,11 +154,6 @@ msgstr ""
 #: ../../seisaku/nensyutyosei.rst:1
 
 msgid ":doc:`Q1213 </variable/Q1213>`"
-msgstr ":doc:`Q1211 </variable/Q1211>`"
+msgstr ":doc:`Q1213 </variable/Q1213>`"
 
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
 

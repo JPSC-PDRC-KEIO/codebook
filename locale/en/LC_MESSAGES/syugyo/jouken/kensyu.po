@@ -19,5 +19,5 @@ msgstr ""
 
 #: ../../syugyo/jouken/kensyu.rst:3
 msgid "研修・講習"
-msgstr ""
+msgstr "Seminars, courses"
 

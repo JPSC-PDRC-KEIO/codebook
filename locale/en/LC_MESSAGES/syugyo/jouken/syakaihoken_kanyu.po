@@ -19,5 +19,5 @@ msgstr ""
 
 #: ../../syugyo/jouken/syakaihoken_kanyu.rst:3
 msgid "社会保険加入"
-msgstr ""
+msgstr "Participation in social insurance"
 

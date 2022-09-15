@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../syugyo/jouken/kaigokyuka.rst:3
 msgid "介護休業"
-msgstr ""
+msgstr "Care leave"
 
 #: ../../syugyo/jouken/kaigokyuka.rst:14
 msgid "「介護休業の有無」については、変数名と選択肢が下記のように変化しています。なお、第3回と第4回では、現在の勤務先での介護休業制度の有無を直接問う項目は設けていません。"
@@ -47,19 +47,19 @@ msgstr ""
 
 #: ../../syugyo/jouken/kaigokyuka.rst:1
 msgid "選択肢"
-msgstr ""
+msgstr "Select"
 
 #: ../../syugyo/jouken/kaigokyuka.rst
 msgid "1.ある"
-msgstr ""
+msgstr "1.Yes"
 
 #: ../../syugyo/jouken/kaigokyuka.rst
 msgid "2.ない"
-msgstr ""
+msgstr "2.No"
 
 #: ../../syugyo/jouken/kaigokyuka.rst
 msgid "3.知らない"
-msgstr ""
+msgstr "3.Don't know"
 
 #: ../../syugyo/jouken/kaigokyuka.rst
 msgid "1.会社等に制度があり、自分にも資格がある"
