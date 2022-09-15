@@ -593,8 +593,8 @@ List of variables
 * `Q67M     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q67M.html>`_ : Changes in household composition: No change
 * `Q68      <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q68.html>`_ : Birth order
 * `Q74A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q74A.html>`_ : Delivery costs: hospital charges
-* `Q74B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q74B.html>`_ : 出産費用：育児用品の購入費
-* `Q74C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q74C.html>`_ : 出産費用：産後の手伝いお礼
+* `Q74B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q74B.html>`_ : Childbirth expenses: purchase of baby care products
+* `Q74C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q74C.html>`_ : Birth expenses: gratuities for postpartum assistance
 * `Q74D     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q74D.html>`_ : Maternity expenses: other
 * `Q75      <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q75.html>`_ : Maternity coverage (married)
 * `Q76      <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q76.html>`_ : Maternity coverage (unmarried)
@@ -1135,15 +1135,15 @@ List of variables
 * `Q300N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300N.html>`_ : Household members with income other than you: Other [Wave2-4]
 * `Q300O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300O.html>`_ : Household members with income other than husband and wife: You children
 * `Q300P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q300P.html>`_ : Household members with income other than you: Other
-* `Q301B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q301B.html>`_ : Taxes and social insurance premiums: Amount paid (spouse)
+* `Q301B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q301B.html>`_ : Taxes and social insurance premiums: amount paid (spouse)
 * `Q301C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q301C.html>`_ : Taxes and social insurance premiums: Current month (spouse)
-* `Q301D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q301D.html>`_ : Taxes and social insurance: No payment (spouse)
-* `Q302B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q302B.html>`_ : Taxes and social insurance premiums: Amount paid
+* `Q301D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q301D.html>`_ : Taxes and social insurance: no payment (spouse)
+* `Q302B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q302B.html>`_ : Taxes and social insurance premiums: amount paid
 * `Q302C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q302C.html>`_ : Taxes and social insurance premiums: Current month
-* `Q302D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q302D.html>`_ : Taxes and social insurance: No payment
-* `Q303B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q303B.html>`_ : Taxes and social insurance: Amount paid （other household members)
+* `Q302D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q302D.html>`_ : Taxes and social insurance: no payment
+* `Q303B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q303B.html>`_ : Taxes and social insurance: amount paid (other household members)
 * `Q303C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q303C.html>`_ : Taxes and social insurance premiums: Current month (other household members)
-* `Q303D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q303D.html>`_ : Taxes and social security premiums: No payment (other household members)
+* `Q303D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q303D.html>`_ : Taxes and social security premiums: no payment (other household members)
 * `Q304     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q304.html>`_ : Current public medical insurance
 * `Q305     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q305.html>`_ : Participation in public pension insurance or not
 * `Q306     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q306.html>`_ : Employment insurance enrollment [Wave1-10]
@@ -2067,9 +2067,9 @@ List of variables
 * `Q1053    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1053.html>`_ : 義親への家事・介護援助
 * `Q1054    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1054.html>`_ : Enrollment in public health insurance
 * `Q1055A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1055A.html>`_ : Type of public health insurance: company health insurance
-* `Q1055B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1055B.html>`_ : Type of public health insurance: National Health Insurance
+* `Q1055B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1055B.html>`_ : Type of public health insurance: national Health Insurance
 * `Q1055C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1055C.html>`_ : Type of public health insurance: seamen’s insurance
-* `Q1055D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1055D.html>`_ : Type of public health insurance: Mutual insurance and mutual aid programs
+* `Q1055D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1055D.html>`_ : Type of public health insurance: mutual insurance and mutual aid programs
 * `Q1056    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1056.html>`_ : Participation in public pension insurance
 * `Q1057    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1057.html>`_ : 義親の住居形態　義父
 * `Q1058    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1058.html>`_ : 義親の住居形態　義母
@@ -2355,7 +2355,7 @@ List of variables
 * `Q1196M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1196M.html>`_ : 睡眠時間　分（平日）
 * `Q1197H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1197H.html>`_ : 睡眠時間　時（休日）
 * `Q1197M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1197M.html>`_ : 睡眠時間　分（休日）
-* `Q1198    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1198.html>`_ : Spending Habits
+* `Q1198    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1198.html>`_ : Expenditure trends
 * `Q1199    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1199.html>`_ : Expenditure trends (spouse)
 * `Q1200A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1200A.html>`_ : Desired future work style: work with authority and responsibility
 * `Q1200B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1200B.html>`_ : Future work preferences: family oriented
