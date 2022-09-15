@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q301D.rst:6
 msgid "税金・社会保険料：支払いなし（配偶者）"
-msgstr "Taxes and social insurance: No payment (spouse)"
+msgstr "Taxes and social insurance: no payment (spouse)"
 
 #: ../../variable/Q301D.rst:11
 msgid "変数名"

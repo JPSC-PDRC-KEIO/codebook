@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q301B.rst:6
 msgid "税金・社会保険料：支払額（配偶者）"
-msgstr "Taxes and social insurance premiums: Amount paid (spouse)"
+msgstr "Taxes and social insurance premiums: amount paid (spouse)"
 
 #: ../../variable/Q301B.rst:11
 msgid "変数名"

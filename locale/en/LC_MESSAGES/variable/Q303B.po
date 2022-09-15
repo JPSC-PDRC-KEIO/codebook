@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q303B.rst:6
 msgid "税金・社会保険料：支払額（他の世帯員)"
-msgstr "Taxes and social insurance: Amount paid （other household members)"
+msgstr "Taxes and social insurance: amount paid (other household members)"
 
 #: ../../variable/Q303B.rst:11
 msgid "変数名"

@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q303D.rst:6
 msgid "税金・社会保険料：支払いなし（他の世帯員）"
-msgstr "Taxes and social security premiums: No payment (other household members)"
+msgstr "Taxes and social security premiums: no payment (other household members)"
 
 #: ../../variable/Q303D.rst:11
 msgid "変数名"

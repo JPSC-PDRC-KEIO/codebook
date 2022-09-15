@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../kakei/zeikin.rst:3
 msgid "税金・社会保険料"
-msgstr ""
+msgstr "Taxes and social insurance premiums"
 
 #: ../../kakei/zeikin.rst:8
 msgid "質問文"
@@ -27,29 +27,29 @@ msgstr "Question"
 
 #: ../../kakei/zeikin.rst:11
 msgid "有配偶"
-msgstr ""
+msgstr "Married"
 
 #: ../../kakei/zeikin.rst:13
 msgid ""
 "あなたとあなたのご主人、及びご夫婦以外の方が世帯員にいらっしゃれば、その方がそれぞれお支払いになった税金（所得税、住民税など）と社会保険料（健康保険料、公的年金保険料、雇用保険料など）の合計は、昨年1年間（調査前年1月～12月）でいくらでしたか。"
 " （支払わなかった場合は「0支払いなし」に〇をして下さい）"
-msgstr ""
+msgstr "What was the total amount of taxes (income tax, inhabitant tax, etc.) and social insurance premiums (health insurance premiums, public pension insurance premiums, unemployment insurance premiums, etc.) paid by you and your husband, and by other members of the household if any, for the past year (from January to December of the year before the survey)? (If you did not pay, please circle \"0 no payment\")"
 
 #: ../../kakei/zeikin.rst:1
 msgid "配偶者"
-msgstr ""
+msgstr "Spouse"
 
 #: ../../kakei/zeikin.rst:1
 msgid "本人"
-msgstr ""
+msgstr "You"
 
 #: ../../kakei/zeikin.rst:1
 msgid "夫婦以外の方の世帯員全員"
-msgstr ""
+msgstr "Other household members"
 
 #: ../../kakei/zeikin.rst:1
 msgid "税金・社会保険料の支払額"
-msgstr ""
+msgstr "Taxes and social insurance premiums: amount paid"
 
 #: ../../kakei/zeikin.rst:1
 msgid ":doc:`Q301B </variable/Q301B>`"
@@ -65,7 +65,7 @@ msgstr ""
 
 #: ../../kakei/zeikin.rst:1
 msgid "税金・社会保険料（支払なし）"
-msgstr ""
+msgstr "Taxes and social insurance: no payment"
 
 #: ../../kakei/zeikin.rst:1
 msgid ":doc:`Q301D </variable/Q301D>`"
@@ -81,19 +81,19 @@ msgstr ""
 
 #: ../../kakei/zeikin.rst:25
 msgid "無配偶"
-msgstr ""
+msgstr "Single"
 
 #: ../../kakei/zeikin.rst:27
 msgid ""
 "あなた、及びあなた以外の方が世帯員にいらっしゃれば、その方がそれぞれお支払いになった税金（所得税、住民税など）と社会保険料（健康保険料、公的年金保険料、雇用保険料など）の合計は、昨年1年間（調査前年1月～12月）でいくらでしたか。"
 " （支払わなかった場合は「0支払いなし」に〇をして下さい）"
-msgstr ""
+msgstr "What was the total amount of taxes (income tax, inhabitant tax, etc.) and social insurance premiums (health insurance premiums, public pension insurance premiums, unemployment insurance premiums, etc.) paid by you and by other members of the household if any, for the past year (from January to December of the year before the survey)? (If you did not pay, please circle \"0 no payment\")"
 
 #: ../../kakei/zeikin.rst:1
 msgid "あなた以外の方の世帯員全員"
-msgstr ""
+msgstr "Other household members"
 
 #: ../../kakei/zeikin.rst:1
-msgid "税金・社会保険料（昨年1年）"
-msgstr ""
+msgid "税金・社会保険料の支払額"
+msgstr "Taxes and social insurance premiums: amount paid"
 

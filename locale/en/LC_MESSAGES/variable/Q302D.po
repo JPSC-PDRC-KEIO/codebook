@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q302D.rst:6
 msgid "税金・社会保険料：支払いなし"
-msgstr "Taxes and social insurance: No payment"
+msgstr "Taxes and social insurance: no payment"
 
 #: ../../variable/Q302D.rst:11
 msgid "変数名"
