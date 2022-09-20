@@ -107,8 +107,22 @@ msgstr "p27_1"
 msgid "p28_1"
 msgstr ""
 
-#~ msgid "変数名: Q1185H"
-#~ msgstr ""
+#: ../../variable/Q1185M.rst:30
+msgid "あてはまる"
+msgstr "Suitable"
 
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
+#: ../../variable/Q1185M.rst:31
+msgid "まああてはまる"
+msgstr "Somewhat suitable"
+
+#: ../../variable/Q1185M.rst:32
+msgid "あまりあてはまらない"
+msgstr "Not very suitable"
+
+#: ../../variable/Q1185M.rst:33
+msgid "ほとんどあてはまらない"
+msgstr "Barely suitable"
+
+#: ../../variable/Q1185M.rst:34
+msgid "わからない"
+msgstr "I don’t know."
