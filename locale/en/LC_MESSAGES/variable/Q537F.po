@@ -53,6 +53,14 @@ msgstr ""
 "University or college (completed some courses, or as auditor or research "
 "student)"
 
+#: ../../variable/Q537K.rst:33
+msgid "はい"
+msgstr "Yes"
+
+#: ../../variable/Q537K.rst:34
+msgid "いいえ"
+msgstr "No"
+
 #: ../../variable/Q537F.rst:37
 msgid "桁あふれコード"
 msgstr "Overflow code"

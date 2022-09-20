@@ -49,6 +49,14 @@ msgstr "Select / Fill in"
 msgid "大学（卒業を目的とする）"
 msgstr "University or college (graduate)"
 
+#: ../../variable/Q537K.rst:33
+msgid "はい"
+msgstr "Yes"
+
+#: ../../variable/Q537K.rst:34
+msgid "いいえ"
+msgstr "No"
+
 #: ../../variable/Q537E.rst:37
 msgid "桁あふれコード"
 msgstr "Overflow code"

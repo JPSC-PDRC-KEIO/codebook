@@ -41,6 +41,14 @@ msgstr ""
 "What kind of courses have you taken? (Include correspondence courses)  "
 "(Circle as many as apply to you.)"
 
+#: ../../variable/Q537K.rst:33
+msgid "はい"
+msgstr "Yes"
+
+#: ../../variable/Q537K.rst:34
+msgid "いいえ"
+msgstr "No"
+
 #: ../../variable/Q537B.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"

@@ -45,6 +45,14 @@ msgstr ""
 msgid "民間の通信教育"
 msgstr "Paid distance learning"
 
+#: ../../variable/Q537K.rst:33
+msgid "はい"
+msgstr "Yes"
+
+#: ../../variable/Q537K.rst:34
+msgid "いいえ"
+msgstr "No"
+
 #: ../../variable/Q537J.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"

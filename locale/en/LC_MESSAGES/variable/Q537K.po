@@ -38,6 +38,8 @@ msgstr "Question"
 #: ../../variable/Q537K.rst:21
 msgid "通ったのはどのような学校ですか。（通信教育を含む）（○はいくつでも）"
 msgstr ""
+"What kind of courses have you taken? (Include correspondence courses)  "
+"(Circle as many as apply to you.)"
 
 #: ../../variable/Q537K.rst:24
 msgid "公民館、カルチャーセンター"

@@ -49,6 +49,14 @@ msgstr "Select / Fill in"
 msgid "短大・高専"
 msgstr "Junior college or college of technology"
 
+#: ../../variable/Q537K.rst:33
+msgid "はい"
+msgstr "Yes"
+
+#: ../../variable/Q537K.rst:34
+msgid "いいえ"
+msgstr "No"
+
 #: ../../variable/Q537D.rst:37
 msgid "桁あふれコード"
 msgstr "Overflow code"
