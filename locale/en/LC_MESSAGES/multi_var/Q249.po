@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q249.rst:4
 msgid "離職時の生活への対処（配偶者有職）"
-msgstr ""
+msgstr "Coping with life at the time of employment separation (spouse employed)"
 
 #: ../../multi_var/Q249.rst:8
 msgid "質問文"
@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q249.rst:9
 msgid "仕事をやめたり、中断して、収入がなくなった時、どのように対処しましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "How did he cope with the loss of income when he stopped or interrupted work?"
 
 #: ../../multi_var/Q249.rst:1
 msgid "項目"
@@ -39,7 +39,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q249.rst:1
 msgid "妻や親の収入で生活はやっていけた"
-msgstr ""
+msgstr "Able to make ends meet on wife's or parents' income."
 
 #: ../../multi_var/Q249.rst:1
 msgid ":doc:`Q249A </variable/Q249A>`"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../multi_var/Q249.rst:1
 msgid "すぐ次の仕事についた"
-msgstr ""
+msgstr "Got a new job right away."
 
 #: ../../multi_var/Q249.rst:1
 msgid ":doc:`Q249B </variable/Q249B>`"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../multi_var/Q249.rst:1
 msgid "退職金や保険給付で当座はやっていけた"
-msgstr ""
+msgstr "Retirement and insurance benefits were enough to get by for the time being."
 
 #: ../../multi_var/Q249.rst:1
 msgid ":doc:`Q249C </variable/Q249C>`"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: ../../multi_var/Q249.rst:1
 msgid "預貯金の取り崩しをした"
-msgstr ""
+msgstr "Withdrawal from savings accounts"
 
 #: ../../multi_var/Q249.rst:1
 msgid ":doc:`Q249D </variable/Q249D>`"
@@ -71,7 +71,7 @@ msgstr ""
 
 #: ../../multi_var/Q249.rst:1
 msgid "借金やカードで買い物をした"
-msgstr ""
+msgstr "Borrowed money or made purchases using credit cards"
 
 #: ../../multi_var/Q249.rst:1
 msgid ":doc:`Q249E </variable/Q249E>`"
@@ -79,15 +79,8 @@ msgstr ""
 
 #: ../../multi_var/Q249.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q249.rst:1
 msgid ":doc:`Q249F </variable/Q249F>`"
 msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
-

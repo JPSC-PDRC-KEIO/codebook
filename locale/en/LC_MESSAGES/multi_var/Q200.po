@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q200.rst:4
 msgid "離職時の生活への対処（無職）"
-msgstr ""
+msgstr "Coping with life when leaving work (unemployed)"
 
 #: ../../multi_var/Q200.rst:8
 msgid "質問文"
@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q200.rst:9
 msgid "仕事をやめたり、中断して、収入がなくなった時、どのように対処しましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "When you stopped working, how did you cope with the loss of income or its interruption? (circle as many as pertain to you.)"
 
 #: ../../multi_var/Q200.rst:1
 msgid "項目"
@@ -39,7 +39,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q200.rst:1
 msgid "夫や親の収入で生活はやっていけた"
-msgstr ""
+msgstr "You were able to make ends meet on your husband's and parents' income."
 
 #: ../../multi_var/Q200.rst:1
 msgid ":doc:`Q200A </variable/Q200A>`"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../multi_var/Q200.rst:1
 msgid "退職金や保険給付で当座はやっていけた"
-msgstr ""
+msgstr "You were able to get by for the time being with severance pay and insurance benefits."
 
 #: ../../multi_var/Q200.rst:1
 msgid ":doc:`Q200B </variable/Q200B>`"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../multi_var/Q200.rst:1
 msgid "預貯金の取り崩しをした"
-msgstr ""
+msgstr "Withdrawal from savings accounts"
 
 #: ../../multi_var/Q200.rst:1
 msgid ":doc:`Q200C </variable/Q200C>`"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: ../../multi_var/Q200.rst:1
 msgid "借金やカードで買い物をした"
-msgstr ""
+msgstr "Borrowed money or made purchases using credit cards."
 
 #: ../../multi_var/Q200.rst:1
 msgid ":doc:`Q200D </variable/Q200D>`"
@@ -71,15 +71,10 @@ msgstr ""
 
 #: ../../multi_var/Q200.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q200.rst:1
 msgid ":doc:`Q200E </variable/Q200E>`"
 msgstr ""
 
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
 

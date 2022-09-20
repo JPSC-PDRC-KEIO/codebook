@@ -24,6 +24,10 @@
    その他の収入（昨年１年分）, :doc:`Q296E </variable/Q296E>`, :doc:`Q297E </variable/Q297E>`, :doc:`Q298C </variable/Q298C>`, :doc:`Q299E </variable/Q299E>`
    合計, :doc:`Q296F </variable/Q296F>`, :doc:`Q297F </variable/Q297F>`, :doc:`Q298D </variable/Q298D>`, :doc:`Q299F </variable/Q299F>`
 
+夫婦以外に収入があった世帯員
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+その方はどなたですか。（該当する方すべてに〇）
 
 .. csv-table::
    :header: "夫婦以外に収入があった世帯員", "変数名"

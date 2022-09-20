@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:3
 msgid "年収（税込み）"
-msgstr ""
+msgstr "Annual income (including tax)"
 
 #: ../../kakei/nensyu.rst:6
 msgid "質問文"
@@ -27,37 +27,37 @@ msgstr "Question"
 
 #: ../../kakei/nensyu.rst:9
 msgid "有配偶"
-msgstr ""
+msgstr "Married"
 
 #: ../../kakei/nensyu.rst:11
 msgid ""
 "あなた方ご夫婦、及びご夫婦以外の方が世帯員にいらっしゃればその方が昨年１年間 "
 "（調査年前年１月～調査年前年12月）に得た収入は、財産収入、社会保障給付なども含 め、全体でいくらくらいでしたか。次の１～5の区分でお答え下さい。"
-msgstr ""
+msgstr "How much did you and your spouse, as well as any other members of your household, earn during the past year (from January to December of the year before the survey), including property income, social security benefits, and remittances from your parents? Please answer in the following five categories."
 
 #: ../../kakei/nensyu.rst:1
 msgid "配偶者の年収"
-msgstr ""
+msgstr "Your husband's annual income"
 
 #: ../../kakei/nensyu.rst:1
 msgid "本人の年収"
-msgstr ""
+msgstr "Your annual income"
 
 #: ../../kakei/nensyu.rst:1
 msgid "夫婦共通の年収"
-msgstr ""
+msgstr "Total of my husband's and my annual incomes"
 
 #: ../../kakei/nensyu.rst
 msgid "夫婦以外の世帯員"
-msgstr ""
+msgstr "Annual income earned"
 
 #: ../../kakei/nensyu.rst
 msgid "の方全員の年収"
-msgstr ""
+msgstr "by the other household members"
 
 #: ../../kakei/nensyu.rst:1
 msgid "勤め先の収入"
-msgstr ""
+msgstr "Income from employer"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q296A </variable/Q296A>`"
@@ -77,7 +77,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:1
 msgid "事業収入"
-msgstr ""
+msgstr "Business income"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q296B </variable/Q296B>`"
@@ -93,7 +93,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:1
 msgid "財産収入（昨年１年分）"
-msgstr ""
+msgstr "Property income"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q296C </variable/Q296C>`"
@@ -113,7 +113,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:1
 msgid "社会保障給付（昨年１年分）"
-msgstr ""
+msgstr "Social security benefits"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q296D </variable/Q296D>`"
@@ -133,7 +133,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:1
 msgid "その他の収入（昨年１年分）"
-msgstr ""
+msgstr "Other"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q296E </variable/Q296E>`"
@@ -153,7 +153,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:1
 msgid "合計"
-msgstr ""
+msgstr "Total"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q296F </variable/Q296F>`"
@@ -173,7 +173,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:1
 msgid "夫婦以外に収入があった世帯員"
-msgstr ""
+msgstr "Household member with income other than husband and wife"
 
 #: ../../kakei/nensyu.rst:1
 msgid "変数名"
@@ -181,7 +181,7 @@ msgstr "Variable name"
 
 #: ../../kakei/nensyu.rst:1
 msgid "夫の父"
-msgstr ""
+msgstr "Your husband's father"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300A </variable/Q300A>`"
@@ -189,7 +189,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:1
 msgid "夫の母"
-msgstr ""
+msgstr "Your husband's mother"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300B </variable/Q300B>`"
@@ -197,7 +197,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:1
 msgid "本人の父"
-msgstr ""
+msgstr "Your father"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300C </variable/Q300C>`"
@@ -205,7 +205,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:1
 msgid "本人の母"
-msgstr ""
+msgstr "Your mother"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300D </variable/Q300D>`"
@@ -213,7 +213,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:1
 msgid "夫の祖父母"
-msgstr ""
+msgstr "Your husband's grandparents"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300E </variable/Q300E>`"
@@ -221,7 +221,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:1
 msgid "本人の祖父母"
-msgstr ""
+msgstr "Your grandparents"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300F </variable/Q300F>`"
@@ -229,7 +229,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:1
 msgid "夫・本人の兄弟姉妹"
-msgstr ""
+msgstr "Husband's or your siblings"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300H </variable/Q300H>`"
@@ -237,7 +237,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:1
 msgid "夫婦の子ども"
-msgstr ""
+msgstr "Your children"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300O </variable/Q300O>`"
@@ -245,7 +245,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300I </variable/Q300I>`"
@@ -259,33 +259,33 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:48
 msgid "無配偶"
-msgstr ""
+msgstr "Single"
 
 #: ../../kakei/nensyu.rst:50
 msgid ""
 "あなた、及びあなた以外の方が世帯員にいらっしゃればその方が昨年１年間 "
 "（調査年前年１月～調査年前年12月）に得た収入は、財産収入、社会保障給付なども含 め、全体でいくらくらいでしたか。次の１～5の区分でお答え下さい。"
-msgstr ""
+msgstr "How much did you, as well as any other members of your household, earn during the past year (from January to December of the year before the survey), including property income, social security benefits, and remittances from your parents? Please answer in the following five categories."
 
 #: ../../kakei/nensyu.rst:1
 msgid "あなたの年収"
-msgstr ""
+msgstr "Your annual income"
 
 #: ../../kakei/nensyu.rst:1
 msgid "あなた以外の世帯員の方全員の年収"
-msgstr ""
+msgstr "Annual income earned by the other household members"
 
 #: ../../kakei/nensyu.rst:1 ../../kakei/nensyu.rst:68
 msgid "本人以外に収入があった世帯員"
-msgstr ""
+msgstr "Household member with income other than you"
 
 #: ../../kakei/nensyu.rst:70
 msgid "その方はどなたですか。（該当する方すべてに〇）"
-msgstr ""
+msgstr "Who is this person? (Circle all that pertain to it.)"
 
 #: ../../kakei/nensyu.rst:1
 msgid "父"
-msgstr ""
+msgstr "Your father"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300J </variable/Q300J>`"
@@ -293,7 +293,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:1
 msgid "母"
-msgstr ""
+msgstr "Your mother"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300K </variable/Q300K>`"
@@ -301,7 +301,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:1
 msgid "祖父母"
-msgstr ""
+msgstr "Your grandparents"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300L </variable/Q300L>`"
@@ -309,7 +309,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:1
 msgid "兄弟姉妹"
-msgstr ""
+msgstr "Your siblings"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300M </variable/Q300M>`"
@@ -317,7 +317,7 @@ msgstr ""
 
 #: ../../kakei/nensyu.rst:1
 msgid "子ども"
-msgstr ""
+msgstr "Your children"
 
 #: ../../kakei/nensyu.rst:1
 msgid ":doc:`Q300P </variable/Q300P>`"
@@ -330,13 +330,4 @@ msgstr ""
 #: ../../kakei/nensyu.rst:85
 msgid "第2～4回では、無配偶の「その他」は「あなたの子ども」を含んでおり、変数名は :doc:`Q300N </variable/Q300N>` でした。"
 msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
-
-#~ msgid ":doc:`QQ868 </variable/Q868>`"
-#~ msgstr ""
 

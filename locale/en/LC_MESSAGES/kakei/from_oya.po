@@ -19,11 +19,11 @@ msgstr ""
 
 #: ../../kakei/from_oya.rst:3
 msgid "親からの経済的援助"
-msgstr ""
+msgstr "Financial assistance from parents"
 
 #: ../../kakei/from_oya.rst:6
 msgid "実親から"
-msgstr ""
+msgstr "From own parents"
 
 #: ../../kakei/from_oya.rst:9 ../../kakei/from_oya.rst:36
 msgid "質問文"
@@ -31,7 +31,7 @@ msgstr "Question"
 
 #: ../../kakei/from_oya.rst:10
 msgid "次のもののうち、あなた自身の親から一部でも出してもらっているものはありますか。（〇はいくつでも）"
-msgstr ""
+msgstr "Are any of the following items paid for even partially by your own parents? ( Circle as many as pertain to you)"
 
 #: ../../kakei/from_oya.rst:1
 msgid "項目"
@@ -43,7 +43,7 @@ msgstr ""
 
 #: ../../kakei/from_oya.rst:1
 msgid "住宅ローン返済"
-msgstr ""
+msgstr "Mortgage repayment"
 
 #: ../../kakei/from_oya.rst:1
 msgid ":doc:`Q309A </variable/Q309A>`"
@@ -51,7 +51,7 @@ msgstr ""
 
 #: ../../kakei/from_oya.rst:1
 msgid "家賃、地代"
-msgstr ""
+msgstr "Rent, land rent"
 
 #: ../../kakei/from_oya.rst:1
 msgid ":doc:`Q309B </variable/Q309B>`"
@@ -59,7 +59,7 @@ msgstr ""
 
 #: ../../kakei/from_oya.rst:1
 msgid "生活費"
-msgstr ""
+msgstr "Living expenses"
 
 #: ../../kakei/from_oya.rst:1
 msgid ":doc:`Q309C </variable/Q309C>`"
@@ -67,7 +67,7 @@ msgstr ""
 
 #: ../../kakei/from_oya.rst:1
 msgid "子どもの費用（教育費、服、その他の費用）"
-msgstr ""
+msgstr "Expenses for children (e.g., education, clothing, other expenses)"
 
 #: ../../kakei/from_oya.rst:1
 msgid ":doc:`Q309F </variable/Q309F>`"
@@ -75,7 +75,7 @@ msgstr ""
 
 #: ../../kakei/from_oya.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../kakei/from_oya.rst:1
 msgid ":doc:`Q309D </variable/Q309D>`"
@@ -83,7 +83,7 @@ msgstr ""
 
 #: ../../kakei/from_oya.rst:1
 msgid "出してもらっているものはない"
-msgstr ""
+msgstr "Nothing is being paid out."
 
 #: ../../kakei/from_oya.rst:1
 msgid ":doc:`Q309E </variable/Q309E>`"
@@ -95,19 +95,19 @@ msgstr ""
 
 #: ../../kakei/from_oya.rst:1
 msgid "合計額"
-msgstr ""
+msgstr "Total"
 
 #: ../../kakei/from_oya.rst:1
 msgid ":doc:`Q866 </variable/Q866>`"
 msgstr ""
 
 #: ../../kakei/from_oya.rst:33
-msgid "義親から（有配偶)"
-msgstr ""
+msgid "義親から（有配偶）"
+msgstr "From parents-in-law"
 
 #: ../../kakei/from_oya.rst:37
 msgid "次のもののうち、ご主人の親から一部でも出してもらっているものはありますか。（〇はいくつでも）"
-msgstr ""
+msgstr "Now, are there any items that are paid for even partially by your husband's parents? (Circle as many as pertain to you)"
 
 #: ../../kakei/from_oya.rst:1
 msgid ":doc:`Q310A </variable/Q310A>`"
@@ -141,12 +141,5 @@ msgstr ""
 msgid ":doc:`Q867 </variable/Q867>`"
 msgstr ""
 
-#~ msgid "変数名"
-#~ msgstr ""
 
-#~ msgid ":doc:`Q309EA </variable/Q309E>`"
-#~ msgstr ""
-
-#~ msgid ":doc:`Q310EA </variable/Q310E>`"
-#~ msgstr ""
 
