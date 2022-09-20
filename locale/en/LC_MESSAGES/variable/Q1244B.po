@@ -113,10 +113,9 @@ msgstr "98"
 
 #: ../../variable/Q1244B.rst:62
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response code’"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1244B.rst:63
-#, fuzzy
 msgid "15"
 msgstr "15 years or more"
 

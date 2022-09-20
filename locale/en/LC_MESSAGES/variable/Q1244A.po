@@ -113,7 +113,7 @@ msgstr "98"
 
 #: ../../variable/Q1244A.rst:62
 msgid "分類不能の回答コード"
-msgstr "Unclassifiable response code’"
+msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1244A.rst:69
 msgid "無回答コード"
