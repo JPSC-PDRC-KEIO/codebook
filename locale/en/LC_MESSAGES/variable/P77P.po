@@ -84,7 +84,6 @@ msgid "p1_3"
 msgstr ""
 
 #: ../../variable/P77P.rst:79
-#, fuzzy
 msgid "p5b_1"
 msgstr "p5b_1"
 

@@ -120,77 +120,62 @@ msgid "p12_1"
 msgstr "p12_1"
 
 #: ../../variable/Q78.rst:96
-#, fuzzy
 msgid "p13_1"
 msgstr "p13_1"
 
 #: ../../variable/Q78.rst:98
-#, fuzzy
 msgid "p14_1"
 msgstr "p14_1"
 
 #: ../../variable/Q78.rst:100
-#, fuzzy
 msgid "p15_1"
 msgstr "p15_1"
 
 #: ../../variable/Q78.rst:102
-#, fuzzy
 msgid "p16abc_1"
 msgstr "p16abc_1"
 
 #: ../../variable/Q78.rst:104
-#, fuzzy
 msgid "p17_1"
 msgstr "p17_1"
 
 #: ../../variable/Q78.rst:106
-#, fuzzy
 msgid "p18_1"
 msgstr "p18_1"
 
 #: ../../variable/Q78.rst:108
-#, fuzzy
 msgid "p19_1"
 msgstr "p19_1"
 
 #: ../../variable/Q78.rst:110
-#, fuzzy
 msgid "p20_1"
 msgstr "p20_1"
 
 #: ../../variable/Q78.rst:112
-#, fuzzy
 msgid "p21abcd_1"
 msgstr "p21abcd_1"
 
 #: ../../variable/Q78.rst:114
-#, fuzzy
 msgid "p22_1"
 msgstr "p22_1"
 
 #: ../../variable/Q78.rst:116
-#, fuzzy
 msgid "p23_1"
 msgstr "p23_1"
 
 #: ../../variable/Q78.rst:118
-#, fuzzy
 msgid "p24_1"
 msgstr "p24_1"
 
 #: ../../variable/Q78.rst:120
-#, fuzzy
 msgid "p25_1"
 msgstr "p25_1"
 
 #: ../../variable/Q78.rst:122
-#, fuzzy
 msgid "p26_1"
 msgstr "p26_1"
 
 #: ../../variable/Q78.rst:124
-#, fuzzy
 msgid "p27_1"
 msgstr "p27_1"
 

@@ -96,7 +96,6 @@ msgid "p16d_1"
 msgstr "p16d_1"
 
 #: ../../variable/P78F.rst:76
-#, fuzzy
 msgid "p21e_1"
 msgstr "p21e_1"
 

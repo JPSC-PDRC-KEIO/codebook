@@ -141,7 +141,7 @@ msgstr "p13_1"
 
 #: ../../variable/Q242.rst:99
 msgid "p14_1"
-msgstr "p14_1"
+msgstr "p13_1"
 
 #: ../../variable/Q242.rst:101
 msgid "p15_1"

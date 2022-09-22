@@ -84,22 +84,18 @@ msgid "p1_3"
 msgstr ""
 
 #: ../../variable/P77E.rst:70
-#, fuzzy
 msgid "p5b_1"
 msgstr "p5b_1"
 
 #: ../../variable/P77E.rst:72
-#, fuzzy
 msgid "p11c_1"
 msgstr "p11c_1"
 
 #: ../../variable/P77E.rst:74
-#, fuzzy
 msgid "p16d_1"
 msgstr "p16d_1"
 
 #: ../../variable/P77E.rst:76
-#, fuzzy
 msgid "p21e_1"
 msgstr "p21e_1"
 
