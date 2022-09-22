@@ -22,6 +22,7 @@
 
 .. toctree::
    :maxdepth: 1
+   :hidden:
 
    /variable/Q1201A
    /variable/Q1201B
