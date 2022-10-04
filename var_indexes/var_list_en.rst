@@ -943,7 +943,7 @@ List of variables
 * `Q226     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q226.html>`_ : Working days (spouse)
 * `Q227     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q227.html>`_ : Founding period ( - Wave 26) (spouse)
 * `Q238     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q238.html>`_ : Paid leave days (spouse)
-* `Q239     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q239.html>`_ : Paid leave days used (spouse)
+* `Q239     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q239.html>`_ : 有給休暇取得日数（配偶者）
 * `Q240     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q240.html>`_ : Change in employment status (spouse employed)
 * `Q241     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q241.html>`_ : Change of employer (spouse employed)
 * `Q242     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q242.html>`_ : Increase/decrease in number of employees at work (spouse)
@@ -1051,22 +1051,22 @@ List of variables
 * `Q260Z    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q260Z.html>`_ : Reason for leaving job (spouse, not working):
 * `Q261A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q261A.html>`_ : 雇用保険失業給付受給の有無（配偶者無職）〔第2～第17回〕
 * `Q261B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q261B.html>`_ : 雇用保険失業給付受給月数（配偶者無職）〔第2～第17回〕
-* `Q262A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q262A.html>`_ : 離職時の生活への対処（配偶者無職）：妻や親の収入で生活はやっていけた
-* `Q262B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q262B.html>`_ : 離職時の生活への対処（配偶者無職）：退職金や保険給付で当座はやっていけた
-* `Q262C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q262C.html>`_ : 離職時の生活への対処（配偶者無職）：預貯金の取り崩しをした
-* `Q262D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q262D.html>`_ : 離職時の生活への対処（配偶者無職）：借金やカードで買い物をした
-* `Q262E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q262E.html>`_ : 離職時の生活への対処（配偶者無職）：その他
-* `Q263     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q263.html>`_ : 離職・転職等への意識（配偶者無職）
-* `Q264     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q264.html>`_ : 離職時期（配偶者無職）
-* `Q266     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q266.html>`_ : 就業月数（転職者）
-* `Q267     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q267.html>`_ : 勤務先数（配偶者）
-* `Q268     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q268.html>`_ : 将来の就業希望（配偶者無職）
-* `Q269A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q269A.html>`_ : 求職活動（配偶者無職）：具体的な求職活動をしている
-* `Q269B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q269B.html>`_ : 求職活動（配偶者無職）：そろそろ具体的な求職活動をしようと思っている
-* `Q269C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q269C.html>`_ : 求職活動（配偶者無職）：職業訓練を受けている
-* `Q269D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q269D.html>`_ : 求職活動（配偶者無職）：そろそろ職業訓練を受けようと思っている
-* `Q269E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q269E.html>`_ : 求職活動（配偶者無職）：漠然と考えているだけ
-* `Q270     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q270.html>`_ : 求職月数（配偶者）
+* `Q262A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q262A.html>`_ : Coping with life at the time of job separation (spouse unemployed): could make ends meet on wife’s and parents’ income.
+* `Q262B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q262B.html>`_ : Coping with life at the time of job separation (spouse unemployed): retirement benefits and insurance benefits helped me get by for the time being.
+* `Q262C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q262C.html>`_ : Coping with life at the time of job separation (spouse unemployed): withdrawal from savings accounts
+* `Q262D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q262D.html>`_ : Coping with life at the time of job separation (spouse uemployed): loans or credit card purchases
+* `Q262E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q262E.html>`_ : Coping with life at the time of job separation (spouse unemployed): other
+* `Q263     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q263.html>`_ : Views on leaving a job, changing jobs (spouse unemployed)
+* `Q264     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q264.html>`_ : Job separation period (spouse unemployed)
+* `Q266     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q266.html>`_ : Months worked (job changes)
+* `Q267     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q267.html>`_ : Number of employers (spouse)
+* `Q268     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q268.html>`_ : Desire for future employment (spouse unemployed)
+* `Q269A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q269A.html>`_ : Job search (spouse unemployed): specific job search: engaged in specific job search activities.
+* `Q269B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q269B.html>`_ : Job search (spouse unemployed): it’s time to start looking for a specific job.
+* `Q269C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q269C.html>`_ : Job search (spouse unemployed): taking job training
+* `Q269D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q269D.html>`_ : Job search (spouse unemployed): it’s time to get some job training.
+* `Q269E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q269E.html>`_ : Job search (spouse unemployed): only vaguely considered
+* `Q270     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q270.html>`_ : Months of job search (spouse)
 * `Q271     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q271.html>`_ : 収入管理タイプ2：配偶者は収入を渡したか
 * `Q272     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q272.html>`_ : 収入管理タイプ3：本人のこづかいを分けたか
 * `Q273     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q273.html>`_ : 収入管理タイプ5：本人のこづかいを分けたか
@@ -1078,7 +1078,7 @@ List of variables
 * `Q279     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q279.html>`_ : 収入管理タイプ12：収入を一緒にしたか
 * `Q280     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q280.html>`_ : 収入管理タイプ14：本人のこづかいを分けたか
 * `Q281     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q281.html>`_ : 収入管理タイプ16：収入を一緒にしたか
-* `Q281B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q281B.html>`_ : 雇用保険失業給付受給月数（配偶者無職）〔第18回～〕
+* `Q281B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q281B.html>`_ : Months of receiving unemployment insurance benefits (spouse unemployed) [Wave18 -]
 * `Q282     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q282.html>`_ : 収入管理タイプ18：本人のこづかいを分けたか
 * `Q284     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q284.html>`_ : 収入管理タイプ4・5・15・16・17・18：配偶者のこづかい
 * `Q291     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q291.html>`_ : Do you like to manage the family budget?
@@ -1896,35 +1896,35 @@ List of variables
 * `Q858     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q858.html>`_ : Educational achievement at the last school (father-in-law) [5th wave - ]
 * `Q859     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q859.html>`_ : Occpation [4th wave -]
 * `Q860     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q860.html>`_ : Occupation (spouse) [Wave 4 -]
-* `Q866     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q866.html>`_ : 実親からの経済的援助：月の援助額合計
-* `Q867     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q867.html>`_ : 義親からの経済的援助：月の援助額合計
-* `Q868     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q868.html>`_ : 本人以外に収入があった世帯員：その他
+* `Q866     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q866.html>`_ : Financial assistance from your own parent(s): total monthly assistance
+* `Q867     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q867.html>`_ : Financial assistance from parents-in-law: total monthly assistance
+* `Q868     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q868.html>`_ : Household members with income other than you: other
 * `Q870A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q870A.html>`_ : 借入れできなかった：断られた
 * `Q870B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q870B.html>`_ : 借入れできなかった：減額された
 * `Q870C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q870C.html>`_ : 借入れできなかった：断られていない
 * `Q870D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q870D.html>`_ : 借入れをあきらめた経験
 * `Q877     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q877.html>`_ : 離死別経験（有配偶）〔第6回〕
 * `Q878     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q878.html>`_ : 離死別経験（無配偶）〔第6回〕
-* `Q879A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879A.html>`_ : 支出月額（有配偶・無配偶共通）：食料
-* `Q879B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879B.html>`_ : 支出月額（有配偶・無配偶共通）：住居
-* `Q879C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879C.html>`_ : 支出月額（有配偶・無配偶共通）：水道・ガス・電気
-* `Q879D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879D.html>`_ : 支出月額（有配偶・無配偶共通）：家具
-* `Q879E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879E.html>`_ : 支出月額（有配偶・無配偶共通）：被服
-* `Q879F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879F.html>`_ : 支出月額（有配偶・無配偶共通）：保健医療
-* `Q879G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879G.html>`_ : 支出月額（有配偶・無配偶共通）：交通
-* `Q879H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879H.html>`_ : 支出月額（有配偶・無配偶共通）：通信
-* `Q879I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879I.html>`_ : 支出月額（有配偶・無配偶共通）：教育
-* `Q879J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879J.html>`_ : 支出月額（有配偶・無配偶共通）：教養・娯楽
-* `Q879K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879K.html>`_ : 支出月額（有配偶・無配偶共通）：交際
+* `Q879A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879A.html>`_ : Monthly expenditure (both married and single) : food
+* `Q879B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879B.html>`_ : Monthly expenses (both married and single): residence
+* `Q879C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879C.html>`_ : Monthly expenses (both married and single): water, gas, electricity
+* `Q879D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879D.html>`_ : Monthly expenditure (both married and single) : furniture
+* `Q879E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879E.html>`_ : Monthly expenditure (both married and single) : clothing
+* `Q879F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879F.html>`_ : Monthly expenses (both married and single): health care
+* `Q879G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879G.html>`_ : Monthly expenditure (both married and single) : transportation
+* `Q879H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879H.html>`_ : Monthly expenditure (both married and single) : communication
+* `Q879I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879I.html>`_ : Monthly expenditure (both married and sigle) : education
+* `Q879J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879J.html>`_ : Monthly expenditure (both married and single): culture and recreation
+* `Q879K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879K.html>`_ : Monthly expenditure (both married and single) : entertainment
 * `Q879L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879L.html>`_ : 支出月額（無配偶）：家族のこづかい
-* `Q879M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879M.html>`_ : 支出月額（有配偶・無配偶共通）：その他
+* `Q879M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879M.html>`_ : Monthly expenditure (both married and single): other
 * `Q879N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879N.html>`_ : 支出月額（有配偶）：義親への譲渡額
 * `Q879O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879O.html>`_ : 支出月額（有配偶）：実親への譲渡額
-* `Q879P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879P.html>`_ : 支出月額（有配偶）：合計
-* `Q879R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879R.html>`_ : 支出月額（有配偶）：親への仕送り
-* `Q879S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879S.html>`_ : 支出月額（有配偶）：家族のこづかい
-* `Q880     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q880.html>`_ : 育児休業制度の有無
-* `Q881     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q881.html>`_ : 介護休業制度の有無
+* `Q879P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879P.html>`_ : Monthly expenses (married): total
+* `Q879R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879R.html>`_ : Monthly expenditures (married): sending money to parents
+* `Q879S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q879S.html>`_ : Monthly expenditures (married): family allowance
+* `Q880     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q880.html>`_ : Availability of childcare leave system
+* `Q881     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q881.html>`_ : Availability of care leave system
 * `Q887     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q887.html>`_ : 支出月額（有配偶）：地域振興券使用額
 * `Q888A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q888A.html>`_ : 未就学児の養育費用月額：認可保育所
 * `Q888B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q888B.html>`_ : 未就学児の養育費用月額：無認可保育所
