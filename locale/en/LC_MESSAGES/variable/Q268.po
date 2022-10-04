@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-09-30 11:37+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/Q268.rst:6
 msgid "将来の就業希望（配偶者無職）"
-msgstr ""
+msgstr "Desire for future employment (spouse unemployed)"
 
 #: ../../variable/Q268.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q268.rst:21
 msgid "ご主人は将来仕事につくことを考えていますか。"
-msgstr ""
+msgstr "Does your husband plan to work in the future?"
 
 #: ../../variable/Q268.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,19 +45,19 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q268.rst:30
 msgid "すぐにでも仕事をしたい"
-msgstr ""
+msgstr "He would like to work right away."
 
 #: ../../variable/Q268.rst:31
 msgid "2～3年後には仕事をしたい"
-msgstr ""
+msgstr "He would like to work in 2-3 years."
 
 #: ../../variable/Q268.rst:32
 msgid "将来的には仕事をしたい"
-msgstr ""
+msgstr "He would like to work in the future."
 
 #: ../../variable/Q268.rst:33
 msgid "考えていない"
-msgstr ""
+msgstr "No, he isn't."
 
 #: ../../variable/Q268.rst:41
 msgid "桁あふれコード"
@@ -67,7 +69,7 @@ msgstr "Unclassifiable response code"
 
 #: ../../variable/Q268.rst:49
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../variable/Q268.rst:55
 msgid "無回答コード"
@@ -75,7 +77,7 @@ msgstr "No response code"
 
 #: ../../variable/Q268.rst:56
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../variable/Q268.rst:62
 msgid "備考"
@@ -87,103 +89,103 @@ msgstr "Data files (csv)"
 
 #: ../../variable/Q268.rst:75
 msgid "p2_1"
-msgstr ""
+msgstr "p2_1"
 
 #: ../../variable/Q268.rst:77
 msgid "p3_1"
-msgstr ""
+msgstr "p3_1"
 
 #: ../../variable/Q268.rst:79
 msgid "p4_1"
-msgstr ""
+msgstr "p4_1"
 
 #: ../../variable/Q268.rst:81
 msgid "p5a_1"
-msgstr ""
+msgstr "p5a_1"
 
 #: ../../variable/Q268.rst:83
 msgid "p6_1"
-msgstr ""
+msgstr "p6_1"
 
 #: ../../variable/Q268.rst:85
 msgid "p7_1"
-msgstr ""
+msgstr "p7_1"
 
 #: ../../variable/Q268.rst:87
 msgid "p8_1"
-msgstr ""
+msgstr "p8_1"
 
 #: ../../variable/Q268.rst:89
 msgid "p9_1"
-msgstr ""
+msgstr "p9_1"
 
 #: ../../variable/Q268.rst:91
 msgid "p10_1"
-msgstr ""
+msgstr "p10_1"
 
 #: ../../variable/Q268.rst:93
 msgid "p11ab_1"
-msgstr ""
+msgstr "p11ab_1"
 
 #: ../../variable/Q268.rst:95
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: ../../variable/Q268.rst:97
 msgid "p13_1"
-msgstr ""
+msgstr "p13_1"
 
 #: ../../variable/Q268.rst:99
 msgid "p14_1"
-msgstr ""
+msgstr "p14_1"
 
 #: ../../variable/Q268.rst:101
 msgid "p15_1"
-msgstr ""
+msgstr "p15_1"
 
 #: ../../variable/Q268.rst:103
 msgid "p16abc_1"
-msgstr ""
+msgstr "p16abc_1"
 
 #: ../../variable/Q268.rst:105
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: ../../variable/Q268.rst:107
 msgid "p18_1"
-msgstr ""
+msgstr "p18_1"
 
 #: ../../variable/Q268.rst:109
 msgid "p19_1"
-msgstr ""
+msgstr "p19_1"
 
 #: ../../variable/Q268.rst:111
 msgid "p20_1"
-msgstr ""
+msgstr "p20_1"
 
 #: ../../variable/Q268.rst:113
 msgid "p21abcd_1"
-msgstr ""
+msgstr "p21abcd_1"
 
 #: ../../variable/Q268.rst:115
 msgid "p22_1"
-msgstr ""
+msgstr "p22_1"
 
 #: ../../variable/Q268.rst:117
 msgid "p23_1"
-msgstr ""
+msgstr "p23_1"
 
 #: ../../variable/Q268.rst:119
 msgid "p24_1"
-msgstr ""
+msgstr "p24_1"
 
 #: ../../variable/Q268.rst:121
 msgid "p25_1"
-msgstr ""
+msgstr "p25_1"
 
 #: ../../variable/Q268.rst:123
 msgid "p26_1"
-msgstr ""
+msgstr "p26_1"
 
 #: ../../variable/Q268.rst:125
 msgid "p27_1"
@@ -198,4 +200,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

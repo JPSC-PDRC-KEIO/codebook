@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-10-03 14:31+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/Q880.rst:6
 msgid "育児休業制度の有無"
-msgstr ""
+msgstr "Availability of childcare leave system"
 
 #: ../../variable/Q880.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q880.rst:21
 msgid "あなたの勤めている会社等には「育児休業制度」がありますか。"
-msgstr ""
+msgstr "Does your company have a childcare leave system?"
 
 #: ../../variable/Q880.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,23 +45,23 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q880.rst:30
 msgid "会社等に制度があり、自分にも資格がある"
-msgstr ""
+msgstr "Your employer has this program and you are eligible for it."
 
 #: ../../variable/Q880.rst:31
 msgid "会社等に制度はあるが、自分には資格がない"
-msgstr ""
+msgstr "Your employer has this program, but you are not eligible for it."
 
 #: ../../variable/Q880.rst:32
 msgid "会社等に制度はあるが、自分には資格があるかどうかわからない"
-msgstr ""
+msgstr "Your employer has this program, but you don't know if you are eligible for it."
 
 #: ../../variable/Q880.rst:33
 msgid "会社等に制度がない"
-msgstr ""
+msgstr "No system in your place of work."
 
 #: ../../variable/Q880.rst:34
 msgid "会社等に制度があるかどうかわからない"
-msgstr ""
+msgstr "Not sure if your employer has this system."
 
 #: ../../variable/Q880.rst:42
 msgid "桁あふれコード"
@@ -71,7 +73,7 @@ msgstr "Unclassifiable response code"
 
 #: ../../variable/Q880.rst:50
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../variable/Q880.rst:56
 msgid "無回答コード"
@@ -79,7 +81,7 @@ msgstr "No response code"
 
 #: ../../variable/Q880.rst:57
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: ../../variable/Q880.rst:63
 msgid "備考"
@@ -99,107 +101,107 @@ msgstr "Data files (csv)"
 
 #: ../../variable/Q880.rst:79
 msgid "p5a_1"
-msgstr ""
+msgstr "p5a_1"
 
 #: ../../variable/Q880.rst:81
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #: ../../variable/Q880.rst:83
 msgid "p6_1"
-msgstr ""
+msgstr "p6_1"
 
 #: ../../variable/Q880.rst:85
 msgid "p7_1"
-msgstr ""
+msgstr "p7_1"
 
 #: ../../variable/Q880.rst:87
 msgid "p8_1"
-msgstr ""
+msgstr "p8_1"
 
 #: ../../variable/Q880.rst:89
 msgid "p9_1"
-msgstr ""
+msgstr "p9_1"
 
 #: ../../variable/Q880.rst:91
 msgid "p10_1"
-msgstr ""
+msgstr "p10_1"
 
 #: ../../variable/Q880.rst:93
 msgid "p11ab_1"
-msgstr ""
+msgstr "p11ab_1"
 
 #: ../../variable/Q880.rst:95
 msgid "p11c_1"
-msgstr ""
+msgstr "p11c_1"
 
 #: ../../variable/Q880.rst:97
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: ../../variable/Q880.rst:99
 msgid "p13_1"
-msgstr ""
+msgstr "p13_1"
 
 #: ../../variable/Q880.rst:101
 msgid "p14_1"
-msgstr ""
+msgstr "p14_1"
 
 #: ../../variable/Q880.rst:103
 msgid "p15_1"
-msgstr ""
+msgstr "p15_1"
 
 #: ../../variable/Q880.rst:105
 msgid "p16abc_1"
-msgstr ""
+msgstr "p16abc_1"
 
 #: ../../variable/Q880.rst:107
 msgid "p16d_1"
-msgstr ""
+msgstr "p16d_1"
 
 #: ../../variable/Q880.rst:109
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: ../../variable/Q880.rst:111
 msgid "p18_1"
-msgstr ""
+msgstr "p18_1"
 
 #: ../../variable/Q880.rst:113
 msgid "p19_1"
-msgstr ""
+msgstr "p19_1"
 
 #: ../../variable/Q880.rst:115
 msgid "p20_1"
-msgstr ""
+msgstr "p20_1"
 
 #: ../../variable/Q880.rst:117
 msgid "p21abcd_1"
-msgstr ""
+msgstr "p21abcd_1"
 
 #: ../../variable/Q880.rst:119
 msgid "p21e_1"
-msgstr ""
+msgstr "p21e_1"
 
 #: ../../variable/Q880.rst:121
 msgid "p22_1"
-msgstr ""
+msgstr "p22_1"
 
 #: ../../variable/Q880.rst:123
 msgid "p23_1"
-msgstr ""
+msgstr "p23_1"
 
 #: ../../variable/Q880.rst:125
 msgid "p24_1"
-msgstr ""
+msgstr "p24_1"
 
 #: ../../variable/Q880.rst:127
 msgid "p25_1"
-msgstr ""
+msgstr "p25_1"
 
 #: ../../variable/Q880.rst:129
 msgid "p26_1"
-msgstr ""
+msgstr "p26_1"
 
 #: ../../variable/Q880.rst:131
 msgid "p27_1"
@@ -217,4 +219,3 @@ msgstr ""
 
 #~ msgid "|nt1| 詳しくはこちら（:doc:`/jyoken/ikujikyuka`）をご参照ください。"
 #~ msgstr ""
-

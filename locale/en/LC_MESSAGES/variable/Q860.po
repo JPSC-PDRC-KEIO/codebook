@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: 2022-09-06 14:18+0900\n"
+"PO-Revision-Date: 2022-09-27 10:36+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -37,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q860.rst:21
 msgid "ご主人の現在の職業は何ですか。主たるお仕事の内容に〇をつけて下さい。"
-msgstr "What is your husband's current occupation? Please describe his primary occupation in detail and circle what pertains to him."
+msgstr "What is your husband's current occupation? Please circle his primary occupation."
 
 #: ../../variable/Q860.rst:28
 msgid "選択肢 / 記入欄"
@@ -124,114 +124,142 @@ msgid "収録シート"
 msgstr "Data files (csv)"
 
 #: ../../variable/Q860.rst:84
+#, fuzzy
 msgid "p4_1"
 msgstr "p4_1"
 
 #: ../../variable/Q860.rst:86
+#, fuzzy
 msgid "p5a_1"
 msgstr "p5a_1"
 
 #: ../../variable/Q860.rst:88
+#, fuzzy
 msgid "p5b_1"
 msgstr "p5b_1"
 
 #: ../../variable/Q860.rst:90
+#, fuzzy
 msgid "p6_1"
 msgstr "p6_1"
 
 #: ../../variable/Q860.rst:92
+#, fuzzy
 msgid "p7_1"
 msgstr "p7_1"
 
 #: ../../variable/Q860.rst:94
+#, fuzzy
 msgid "p8_1"
 msgstr "p8_1"
 
 #: ../../variable/Q860.rst:96
+#, fuzzy
 msgid "p9_1"
 msgstr "p9_1"
 
 #: ../../variable/Q860.rst:98
+#, fuzzy
 msgid "p10_1"
 msgstr "p10_1"
 
 #: ../../variable/Q860.rst:100
+#, fuzzy
 msgid "p11ab_1"
 msgstr "p11ab_1"
 
 #: ../../variable/Q860.rst:102
+#, fuzzy
 msgid "p11c_1"
 msgstr "p11c_1"
 
 #: ../../variable/Q860.rst:104
+#, fuzzy
 msgid "p12_1"
 msgstr "p12_1"
 
 #: ../../variable/Q860.rst:106
+#, fuzzy
 msgid "p13_1"
 msgstr "p13_1"
 
 #: ../../variable/Q860.rst:108
+#, fuzzy
 msgid "p14_1"
 msgstr "p14_1"
 
 #: ../../variable/Q860.rst:110
+#, fuzzy
 msgid "p15_1"
 msgstr "p15_1"
 
 #: ../../variable/Q860.rst:112
+#, fuzzy
 msgid "p16abc_1"
 msgstr "p16abc_1"
 
 #: ../../variable/Q860.rst:114
+#, fuzzy
 msgid "p16d_1"
 msgstr "p16d_1"
 
 #: ../../variable/Q860.rst:116
+#, fuzzy
 msgid "p17_1"
 msgstr "p17_1"
 
 #: ../../variable/Q860.rst:118
+#, fuzzy
 msgid "p18_1"
 msgstr "p18_1"
 
 #: ../../variable/Q860.rst:120
+#, fuzzy
 msgid "p19_1"
 msgstr "p19_1"
 
 #: ../../variable/Q860.rst:122
+#, fuzzy
 msgid "p20_1"
 msgstr "p20_1"
 
 #: ../../variable/Q860.rst:124
+#, fuzzy
 msgid "p21abcd_1"
 msgstr "p21abcd_1"
 
 #: ../../variable/Q860.rst:126
+#, fuzzy
 msgid "p21e_1"
 msgstr "p21e_1"
 
 #: ../../variable/Q860.rst:128
+#, fuzzy
 msgid "p22_1"
 msgstr "p22_1"
 
 #: ../../variable/Q860.rst:130
+#, fuzzy
 msgid "p23_1"
 msgstr "p23_1"
 
 #: ../../variable/Q860.rst:132
+#, fuzzy
 msgid "p24_1"
 msgstr "p24_1"
 
 #: ../../variable/Q860.rst:134
+#, fuzzy
 msgid "p25_1"
 msgstr "p25_1"
 
 #: ../../variable/Q860.rst:136
+#, fuzzy
 msgid "p26_1"
 msgstr "p26_1"
 
 #: ../../variable/Q860.rst:138
+#, fuzzy
 msgid "p27_1"
 msgstr "p27_1"
 

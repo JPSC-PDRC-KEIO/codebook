@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-09-27 12:28+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/Q879S.rst:6
 msgid "支出月額（有配偶）：家族のこづかい"
-msgstr ""
+msgstr "Monthly expenditures (married): family allowance"
 
 #: ../../variable/Q879S.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q879S.rst:21
 msgid "次の各項目について、あなたのご家族でのこの9月1カ月間に支出した額を記入して下さい。（現金をしはらったものの他、クレジット・ローンで購入したもの、銀行・郵便局（ゆうちょ銀行）から自動的に引き落とした分も含みます）"
-msgstr ""
+msgstr "For each of the following items, please indicate the amount your family spent during the month of September. (In addition to cash payments, please include purchases made on credit, loans, and automatic withdrawals from banks and post offices (Japan Post Bank)."
 
 #: ../../variable/Q879S.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,11 +45,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q879S.rst:30
 msgid "夫・妻・子どもへの小遣い、子どもへの仕送り"
-msgstr ""
+msgstr "Allowance for husband, wife, and children / remittances to children"
 
 #: ../../variable/Q879S.rst:31
 msgid "＿ ＿ 万 ＿ 千円"
-msgstr ""
+msgstr "_ _ _ ,000 yen"
 
 #: ../../variable/Q879S.rst:39
 msgid "桁あふれコード"
@@ -67,7 +69,7 @@ msgstr "No response code"
 
 #: ../../variable/Q879S.rst:54
 msgid "999"
-msgstr ""
+msgstr "999"
 
 #: ../../variable/Q879S.rst:60
 msgid "備考"
@@ -79,87 +81,87 @@ msgstr "Data files (csv)"
 
 #: ../../variable/Q879S.rst:73
 msgid "p9_1"
-msgstr ""
+msgstr "p9_1"
 
 #: ../../variable/Q879S.rst:75
 msgid "p10_1"
-msgstr ""
+msgstr "p10_1"
 
 #: ../../variable/Q879S.rst:77
 msgid "p11ab_1"
-msgstr ""
+msgstr "p11ab_1"
 
 #: ../../variable/Q879S.rst:79
 msgid "p11c_1"
-msgstr ""
+msgstr "p11c_1"
 
 #: ../../variable/Q879S.rst:81
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: ../../variable/Q879S.rst:83
 msgid "p13_1"
-msgstr ""
+msgstr "p13_1"
 
 #: ../../variable/Q879S.rst:85
 msgid "p14_1"
-msgstr ""
+msgstr "p14_1"
 
 #: ../../variable/Q879S.rst:87
 msgid "p15_1"
-msgstr ""
+msgstr "p15_1"
 
 #: ../../variable/Q879S.rst:89
 msgid "p16abc_1"
-msgstr ""
+msgstr "p16abc_1"
 
 #: ../../variable/Q879S.rst:91
 msgid "p16d_1"
-msgstr ""
+msgstr "p16d_1"
 
 #: ../../variable/Q879S.rst:93
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: ../../variable/Q879S.rst:95
 msgid "p18_1"
-msgstr ""
+msgstr "p18_1"
 
 #: ../../variable/Q879S.rst:97
 msgid "p19_1"
-msgstr ""
+msgstr "p19_1"
 
 #: ../../variable/Q879S.rst:99
 msgid "p20_1"
-msgstr ""
+msgstr "p20_1"
 
 #: ../../variable/Q879S.rst:101
 msgid "p21abcd_1"
-msgstr ""
+msgstr "p21abcd_1"
 
 #: ../../variable/Q879S.rst:103
 msgid "p21e_1"
-msgstr ""
+msgstr "p21e_1"
 
 #: ../../variable/Q879S.rst:105
 msgid "p22_1"
-msgstr ""
+msgstr "p22_1"
 
 #: ../../variable/Q879S.rst:107
 msgid "p23_1"
-msgstr ""
+msgstr "p23_1"
 
 #: ../../variable/Q879S.rst:109
 msgid "p24_1"
-msgstr ""
+msgstr "p24_1"
 
 #: ../../variable/Q879S.rst:111
 msgid "p25_1"
-msgstr ""
+msgstr "p25_1"
 
 #: ../../variable/Q879S.rst:113
 msgid "p26_1"
-msgstr ""
+msgstr "p26_1"
 
 #: ../../variable/Q879S.rst:115
 msgid "p27_1"
@@ -174,4 +176,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
