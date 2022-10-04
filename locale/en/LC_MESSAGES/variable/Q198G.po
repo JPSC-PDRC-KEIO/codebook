@@ -18,7 +18,7 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../variable/Q198G.rst:6
-msgid "離職理由（無職）：家族の就職・転職・転勤及び事業所の移転のため"
+msgid "離職理由（無職）：家族の就職・転職・転勤および事業所の移転のため"
 msgstr "Reason for leaving job (not working): family member's employment, job change, transfer, and business relocation"
 
 #: ../../variable/Q198G.rst:11

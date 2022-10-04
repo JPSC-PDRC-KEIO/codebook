@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q262.rst:3
 msgid "離職時の生活への対処（配偶者無職）"
-msgstr ""
+msgstr "Coping with life at the time of job separation (spouse unemployed)"
 
 #: ../../multi_var/Q262.rst:7
 msgid "質問文"
@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q262.rst:8
 msgid "やめた時、収入がなくなったこと、またはその中断にどのように対処しましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "When your husband stopped working, how did he cope with the loss of income or its interruption? (circle as many as pertain to him.)"
 
 #: ../../multi_var/Q262.rst:1
 msgid "項目"
@@ -39,7 +39,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q262.rst:1
 msgid "妻や親の収入で生活はやっていけた"
-msgstr ""
+msgstr "Could make ends meet on wife's and parents' income."
 
 #: ../../multi_var/Q262.rst:1
 msgid ":doc:`Q262A </variable/Q262A>`"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../multi_var/Q262.rst:1
 msgid "退職金や保険給付で当座はやっていけた"
-msgstr ""
+msgstr "Retirement and insurance benefits were enough to get by for the time being."
 
 #: ../../multi_var/Q262.rst:1
 msgid ":doc:`Q262B </variable/Q262B>`"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../multi_var/Q262.rst:1
 msgid "預貯金の取り崩しをした"
-msgstr ""
+msgstr "withdrawal from savings accounts"
 
 #: ../../multi_var/Q262.rst:1
 msgid ":doc:`Q262C </variable/Q262C>`"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: ../../multi_var/Q262.rst:1
 msgid "借金やカードで買い物をした"
-msgstr ""
+msgstr "Loans or credit card purchases"
 
 #: ../../multi_var/Q262.rst:1
 msgid ":doc:`Q262D </variable/Q262D>`"
@@ -71,15 +71,9 @@ msgstr ""
 
 #: ../../multi_var/Q262.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q262.rst:1
 msgid ":doc:`Q262E </variable/Q262E>`"
 msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
 

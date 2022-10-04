@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q269.rst:3
 msgid "求職活動（配偶者無職）"
-msgstr ""
+msgstr "Job search (spouse unemployed)"
 
 #: ../../multi_var/Q269.rst:7
 msgid "質問文"
@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q269.rst:8
 msgid "そのために何らかの活動をしていますか。（〇はいくつでも）"
-msgstr ""
+msgstr "Is he engaged in any activities for this purpose? (circle as many as pertain to him.)"
 
 #: ../../multi_var/Q269.rst:1
 msgid "項目"
@@ -39,7 +39,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q269.rst:1
 msgid "具体的な求職活動をしている"
-msgstr ""
+msgstr "Engaged in specific job search activities."
 
 #: ../../multi_var/Q269.rst:1
 msgid ":doc:`Q269A </variable/Q269A>`"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../multi_var/Q269.rst:1
 msgid "そろそろ具体的な求職活動をしようと思っている"
-msgstr ""
+msgstr "It's time to start looking for a specific job."
 
 #: ../../multi_var/Q269.rst:1
 msgid ":doc:`Q269B </variable/Q269B>`"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../multi_var/Q269.rst:1
 msgid "職業訓練を受けている"
-msgstr ""
+msgstr "Taking job training"
 
 #: ../../multi_var/Q269.rst:1
 msgid ":doc:`Q269C </variable/Q269C>`"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: ../../multi_var/Q269.rst:1
 msgid "そろそろ職業訓練を受けようと思っている"
-msgstr ""
+msgstr "It' s time to get some job training."
 
 #: ../../multi_var/Q269.rst:1
 msgid ":doc:`Q269D </variable/Q269D>`"
@@ -71,15 +71,9 @@ msgstr ""
 
 #: ../../multi_var/Q269.rst:1
 msgid "漠然と考えているだけ"
-msgstr ""
+msgstr "Only vaguely considered"
 
 #: ../../multi_var/Q269.rst:1
 msgid ":doc:`Q269E </variable/Q269E>`"
 msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
 

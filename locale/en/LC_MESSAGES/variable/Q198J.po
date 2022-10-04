@@ -18,7 +18,7 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 
 #: ../../variable/Q198J.rst:5
-msgid "離職理由（無職）：妊娠ために体を気づかって"
+msgid "離職理由（無職）：妊娠のために体を気づかって"
 msgstr "Reason for leaving job (not working): concern for your health due to pregnancy"
 
 #: ../../variable/Q198J.rst:9
