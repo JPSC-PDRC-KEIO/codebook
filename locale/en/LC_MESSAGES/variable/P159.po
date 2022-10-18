@@ -8,52 +8,54 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2022-03-11 10:49+0900\n"
+"PO-Revision-Date: 2022-10-14 10:28+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
-#: ../../variable/P159.rst:5
+#: ../../variable/P159.rst:6
 msgid "前職離職時の失業給付受給の有無"
-msgstr ""
+msgstr "Availability of unemployment benefits at the time of previous period of unemployment"
 
-#: ../../variable/P159.rst:9
+#: ../../variable/P159.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/P159.rst:11
+#: ../../variable/P159.rst:13
 msgid "P159"
 msgstr ""
 
-#: ../../variable/P159.rst:15
+#: ../../variable/P159.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/P159.rst:18
-msgid "やめたとき、雇用保険の失業給付を受給しましたか。"
-msgstr ""
+#: ../../variable/P159.rst:21
+msgid "前職をやめた時、雇用保険の失業給付を受給しましたか。"
+msgstr "Did you receive unemployment insurance benefits when you quit your previous job?"
 
-#: ../../variable/P159.rst:24
+#: ../../variable/P159.rst:27
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/P159.rst:27
-msgid "受給した"
-msgstr ""
-
 #: ../../variable/P159.rst:29
+msgid "受給した"
+msgstr "Yes"
+
+#: ../../variable/P159.rst:30
 msgid "受給しなかった"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/P159.rst:31
 msgid "雇用保険には入っていなかった"
-msgstr ""
+msgstr "You didn't have unemployment insurance."
 
-#: ../../variable/P159.rst:38
+#: ../../variable/P159.rst:37
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
@@ -61,25 +63,27 @@ msgstr "Overflow code"
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/P159.rst:50
+#: ../../variable/P159.rst:51
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/P159.rst:51
+#: ../../variable/P159.rst:52
+#, fuzzy
 msgid "4"
-msgstr ""
+msgstr "4"
 
-#: ../../variable/P159.rst:56
+#: ../../variable/P159.rst:58
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/P159.rst:62
+#: ../../variable/P159.rst:66
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/P159.rst:67
+#: ../../variable/P159.rst:71
+#, fuzzy
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #~ msgid "変数名: P159"
 #~ msgstr ""
@@ -87,3 +91,5 @@ msgstr ""
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
 
+#~ msgid "やめたとき、雇用保険の失業給付を受給しましたか。"
+#~ msgstr ""

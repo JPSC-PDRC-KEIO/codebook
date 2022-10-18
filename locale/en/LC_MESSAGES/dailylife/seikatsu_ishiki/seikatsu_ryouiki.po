@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-28 13:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-10-17 10:44+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:3
 msgid "生活領域重要度"
-msgstr ""
+msgstr "Importance of life areas"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:6
 msgid "質問文"
@@ -27,7 +29,7 @@ msgstr "Question"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:7
 msgid "生活の領域を以下の8つに分けた場合、あなたは、それぞれの領域をどの程度重要だと思いますか。8つの領域のそれぞれについてお答えください。"
-msgstr ""
+msgstr "How important do you consider each of the following eight areas of life to be?"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid "項目"
@@ -39,55 +41,60 @@ msgstr "Variable name"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid "非常に重要"
-msgstr ""
+msgstr "Very important"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid "どちらかといえば重要"
-msgstr ""
+msgstr "Somewhat important"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid "どちらともいえない"
-msgstr ""
+msgstr "Neither"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid "どちらかといえば重要でない"
-msgstr ""
+msgstr "Not very important"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid "まったく重要ではない"
-msgstr ""
+msgstr "Not important at all"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid "住む（住居、住環境、犯罪防止など）"
-msgstr ""
+msgstr "Housing (e.g., residence, living environment, crime prevention)"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid ":doc:`Q932A</variable/Q932A>`"
-msgstr ""
+msgstr ":doc:`Q932A</variable/Q932A>`"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
+#, fuzzy
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
+#, fuzzy
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
+#, fuzzy
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
+#, fuzzy
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
+#, fuzzy
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid "費やす（収入、支出、資産、消費生活）"
-msgstr ""
+msgstr "Spending (income, expenses, assets, consumer spending)"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid ":doc:`Q932B</variable/Q932B>`"
@@ -95,7 +102,7 @@ msgstr ""
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid "働く（賃金、労働時間、就業機会、労働環境など）"
-msgstr ""
+msgstr "Work (wages, working hours, job opportunities, work environment, etc.)"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid ":doc:`Q932C</variable/Q932C>`"
@@ -103,7 +110,7 @@ msgstr ""
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid "育てる（子供のための支出、教育施設、教育環境について）"
-msgstr ""
+msgstr "Nurture (spending for children, educational facilities, and the educational environment)"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid ":doc:`Q932D</variable/Q932D>`"
@@ -111,7 +118,7 @@ msgstr ""
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid "癒す（医療、保健、健康、福祉サービス）"
-msgstr ""
+msgstr "Health (medical, healthcare, health and social services)"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid ":doc:`Q932E</variable/Q932E>`"
@@ -119,7 +126,7 @@ msgstr ""
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid "遊ぶ（余暇、余暇施設、余暇支出など）"
-msgstr ""
+msgstr "Play (leisure time, leisure facilities, leisure spending, etc.)"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid ":doc:`Q932F</variable/Q932F>`"
@@ -127,7 +134,7 @@ msgstr ""
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid "学ぶ（大学、生涯学習施設、文化財、学習時間など）"
-msgstr ""
+msgstr "Learning (universities, lifelong learning facilities, cultural assets, study hours, etc.)"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid ":doc:`Q932G</variable/Q932G>`"
@@ -135,9 +142,8 @@ msgstr ""
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid "交わる（地域交流、奉仕活動）"
-msgstr ""
+msgstr "Fellowship (community exchange, service activities)"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
 msgid ":doc:`Q932H</variable/Q932H>`"
 msgstr ""
-

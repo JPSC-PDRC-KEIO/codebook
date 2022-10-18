@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-10-14 13:45+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../variable/Q1207.rst:6
 msgid "10年前の生活満足度"
-msgstr ""
+msgstr "Life satisfaction 10 years ago"
 
 #: ../../variable/Q1207.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q1207.rst:21
 msgid "10 年前、あなたは生活全般に満足していたと思いますか。"
-msgstr ""
+msgstr "Do you think you were satisfied with your life in general 10 years ago?"
 
 #: ../../variable/Q1207.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,23 +45,23 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1207.rst:30
 msgid "満足"
-msgstr ""
+msgstr "Satisfied"
 
 #: ../../variable/Q1207.rst:31
 msgid "どちらかといえば満足"
-msgstr ""
+msgstr "Somewhat satisfied"
 
 #: ../../variable/Q1207.rst:32
 msgid "どちらともいえない"
-msgstr ""
+msgstr "Neutral"
 
 #: ../../variable/Q1207.rst:33
 msgid "どちらかといえば不満"
-msgstr ""
+msgstr "Somewhat dissatisfied"
 
 #: ../../variable/Q1207.rst:34
 msgid "不満"
-msgstr ""
+msgstr "Dissatisfied"
 
 #: ../../variable/Q1207.rst:42
 msgid "桁あふれコード"
@@ -74,8 +76,9 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q1207.rst:57
+#, fuzzy
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../variable/Q1207.rst:63
 msgid "備考"
@@ -110,4 +113,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

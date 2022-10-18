@@ -9,59 +9,61 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-28 13:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-10-14 13:40+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../../syugyo/syokureki/syokureki.rst:3
 msgid "初回調査時までの職歴についての質問概要"
-msgstr ""
+msgstr "Outline of questions about employment history up to the time of the initial survey"
 
 #: ../../syugyo/syokureki/syokureki.rst:6
 msgid "初回調査時までの職歴"
-msgstr ""
+msgstr "Employment history up to the time of the initial survey"
 
 #: ../../syugyo/syokureki/syokureki.rst:8
 msgid "全員に18歳からの職業履歴を聞いています。"
-msgstr ""
+msgstr "All were asked about their work history since the age of 18."
 
 #: ../../syugyo/syokureki/syokureki.rst:18
 msgid "初回調査時までの職業について"
-msgstr ""
+msgstr "About work history up to the time of the initial survey"
 
 #: ../../syugyo/syokureki/syokureki.rst:21
 msgid "質問の概要"
-msgstr ""
+msgstr "Outline of Questions"
 
 #: ../../syugyo/syokureki/syokureki.rst:23
 msgid "|nt5| に、初回調査時以前の職業経験について聞いています。"
-msgstr ""
+msgstr "The respondent was asked about their work experience prior to the time of the initial survey."
 
 #: ../../syugyo/syokureki/syokureki.rst:34
 msgid "|nt5| が学校卒業後はじめてついた職業は："
-msgstr ""
+msgstr "What was the respondent's first job after school?:"
 
 #: ../../syugyo/syokureki/syokureki.rst:36
 msgid "・1回も離職経験がない人は「現職」になります。"
-msgstr ""
+msgstr "Those who have never left their jobs are \"incumbent\"."
 
 #: ../../syugyo/syokureki/syokureki.rst:37
 msgid "・1回だけ離職経験がある人は「前職」になります。"
-msgstr ""
+msgstr "Those who have left a job only once will be \"previous job\"."
 
 #: ../../syugyo/syokureki/syokureki.rst:38
 msgid "・2回以上離職経験がある人は「初職」になります。"
-msgstr ""
+msgstr "Those who have left a job two or more times will be \"first job\"."
 
 #: ../../syugyo/syokureki/syokureki.rst:40
 msgid "ここで述べている「離職経験」は、初回調査時点までのことを指します。"
-msgstr ""
+msgstr "The \"experience of leaving a job\" mentioned here refers to up to the time of the initial survey."
 
 #: ../../syugyo/syokureki/syokureki.rst:43
 msgid "質問の構成"
-msgstr ""
-
+msgstr "Question structure"
