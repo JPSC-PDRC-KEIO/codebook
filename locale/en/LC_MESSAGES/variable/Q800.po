@@ -57,11 +57,11 @@ msgstr "Neither"
 
 #: ../../variable/Q800.rst:33
 msgid "少し不幸"
-msgstr "a little unhappy"
+msgstr "A little unhappy"
 
 #: ../../variable/Q800.rst:34
 msgid "とても不幸"
-msgstr "very unhappy"
+msgstr "Very unhappy"
 
 #: ../../variable/Q800.rst:42
 msgid "桁あふれコード"
