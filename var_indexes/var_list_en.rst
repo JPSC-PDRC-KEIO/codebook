@@ -482,7 +482,7 @@ List of variables
 * `P148A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P148A.html>`_ : Image of spouse: 1st place
 * `P148B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P148B.html>`_ : Image of spouse: 2nd place
 * `P148C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/P148C.html>`_ : Image of spouse: 3rd place
-* `P159     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P159.html>`_ : 前職離職時の失業給付受給の有無
+* `P159     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P159.html>`_ : Availability of unemployment benefits at the time of previous period of unemployment
 * `P160     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P160.html>`_ : 前職離職時の失業給付受給月数
 * `P183     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P183.html>`_ : Number of previous employers [Wave5～]
 * `P185     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P185.html>`_ : Industry of previous job [Wave21]
@@ -1692,7 +1692,7 @@ List of variables
 * `Q544K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q544K.html>`_ : Person paid the tuition fee (single): Training and Education Allowance
 * `Q558     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q558.html>`_ : Life satisfaction
 * `Q560     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q560.html>`_ : Current standard of living
-* `Q561     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q561.html>`_ : 生活程度の将来予測
+* `Q561     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q561.html>`_ : Future projections of living standards
 * `Q564     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q564.html>`_ : Intention to marry
 * `Q565     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q565.html>`_ : Hope for marriage age
 * `Q566A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q566A.html>`_ : Reasons for not getting married: Work
@@ -1838,7 +1838,7 @@ List of variables
 * `Q717I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q717I.html>`_ : 結婚費用のまかない方：合計（合計）
 * `Q718     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q718.html>`_ : 結納の費用：結納
 * `Q719     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q719.html>`_ : 結納の費用：結納返し
-* `Q800     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q800.html>`_ : 幸福感
+* `Q800     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q800.html>`_ : Feeling of happiness
 * `Q802     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q802.html>`_ : 住居延べ床面積
 * `Q806A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q806A.html>`_ : 住宅ローンの新規借入
 * `Q806B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q806B.html>`_ : 住宅ローンの新規借入額
@@ -1954,14 +1954,14 @@ List of variables
 * `Q926     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q926.html>`_ : 家庭の収入への満足度
 * `Q927     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q927.html>`_ : 家庭の消費額への満足度
 * `Q928     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q928.html>`_ : 家庭の消費内容への満足度
-* `Q932A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932A.html>`_ : 生活領域重要度　住む
-* `Q932B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932B.html>`_ : 生活領域重要度　費やす
-* `Q932C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932C.html>`_ : 生活領域重要度　働く
-* `Q932D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932D.html>`_ : 生活領域重要度　育てる
-* `Q932E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932E.html>`_ : 生活領域重要度　癒す
-* `Q932F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932F.html>`_ : 生活領域重要度　遊ぶ
-* `Q932G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932G.html>`_ : 生活領域重要度　学ぶ
-* `Q932H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932H.html>`_ : 生活領域重要度　交わる
+* `Q932A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932A.html>`_ : Importance of life areas: housing
+* `Q932B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932B.html>`_ : Importance of life areas: spending
+* `Q932C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932C.html>`_ : Importance of life areas: work
+* `Q932D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932D.html>`_ : Importance of life areas: nurture
+* `Q932E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932E.html>`_ : Importance of life areas: health
+* `Q932F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932F.html>`_ : Importance of life areas: play
+* `Q932G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932G.html>`_ : Importance of life areas: learning
+* `Q932H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932H.html>`_ : Importance of life areas: fellowship
 * `Q933     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q933.html>`_ : 離婚について
 * `Q965     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q965.html>`_ : 子育て費用への考え方
 * `Q980A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q980A.html>`_ : 教育訓練給付制度の今後の利用目的：仕事発展のため
@@ -2295,8 +2295,8 @@ List of variables
 * `Q1173    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1173.html>`_ : クレジットカード利用額：月（夫婦合計）
 * `Q1174    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1174.html>`_ : クレジットカード利用ルールの有無
 * `Q1175    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1175.html>`_ : クレジットカード利用明細確認の有無
-* `Q1176    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1176.html>`_ : 「家族に理解されていない」と感じた頻度
-* `Q1177    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1177.html>`_ : 家事・育児・介護の負担感
+* `Q1176    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1176.html>`_ : Frequency of feeling “not understood by family”
+* `Q1177    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1177.html>`_ : Burden of housework, childcare, and caregiving
 * `Q1178    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1178.html>`_ : 家計の先行き不安感
 * `Q1179    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1179.html>`_ : 消費税8％への賛否
 * `Q1180    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1180.html>`_ : 消費税8％での支出見直し予定
@@ -2322,7 +2322,7 @@ List of variables
 * `Q1185K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185K.html>`_ : Evaluation of workplace: interest in the job
 * `Q1185L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185L.html>`_ : Evaluation of workplace: good relationships
 * `Q1185M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185M.html>`_ : Evaluation of workplace: opportunities for promotion and advancement in status
-* `Q1186    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1186.html>`_ : 社会への満足度
+* `Q1186    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1186.html>`_ : Satisfaction with society
 * `Q1187M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1187M.html>`_ : 新築・増改築：月
 * `Q1187Y   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1187Y.html>`_ : 新築・増改築：年
 * `Q1188A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1188A.html>`_ : 消費税8％への対応：生活必需品の見直し
@@ -2371,17 +2371,17 @@ List of variables
 * `Q1201G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201G.html>`_ : 日本は暮らしやすい社会か
 * `Q1201H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201H.html>`_ : 政府や行政は問題によく取り組んでいるか
 * `Q1202    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1202.html>`_ : 消費税率の設定への意見
-* `Q1203    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1203.html>`_ : 3年後の労働意欲
-* `Q1204    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1204.html>`_ : 3年後の労働状況
-* `Q1205    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1205.html>`_ : 定年や老後について
+* `Q1203    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1203.html>`_ : Work ethic after 3 years
+* `Q1204    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1204.html>`_ : Labor situation after 3 years
+* `Q1205    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1205.html>`_ : Retirement and old age
 * `Q1206A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1206A.html>`_ : Problems or difficulties : Your health
 * `Q1206B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1206B.html>`_ : Problems or difficulties: Family health issues
 * `Q1206C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1206C.html>`_ : Problems or difficulties: Relationships in the family
 * `Q1206D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1206D.html>`_ : Problems or difficulties: Relationships with people outside the family
 * `Q1206E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1206E.html>`_ : Problems or difficulties: Having someone outside of the family to talk with freely.
 * `Q1206F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1206F.html>`_ : Problems or difficulties: Having someone other than your family who can come to your aid.
-* `Q1207    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1207.html>`_ : 10年前の生活満足度
-* `Q1208    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1208.html>`_ : 10年前の生活水準
+* `Q1207    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1207.html>`_ : Life satisfaction 10 years ago
+* `Q1208    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1208.html>`_ : Standard of living 10 years ago
 * `Q1209A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1209A.html>`_ : 夫婦間での生活費の把握
 * `Q1209B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1209B.html>`_ : 夫婦間での収入の開示：あなたの収入
 * `Q1210    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1210.html>`_ : 夫婦間での生活費の把握
