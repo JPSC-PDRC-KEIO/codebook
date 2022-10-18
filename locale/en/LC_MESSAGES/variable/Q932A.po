@@ -18,8 +18,8 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 
 #: ../../variable/Q932A.rst:5
-msgid "生活領域重要度　住む"
-msgstr ""
+msgid "生活領域重要度：住む"
+msgstr "Importance of life areas: housing"
 
 #: ../../variable/Q932A.rst:9
 msgid "変数名"
@@ -35,11 +35,11 @@ msgstr "Question"
 
 #: ../../variable/Q932A.rst:18
 msgid "生活の領域を以下の8つに分けた場合、あなたは、それぞれの領域をどの程度重要だと思いますか。8つの領域のそれぞれについてお答えください。"
-msgstr ""
+msgstr "How important do you consider each of the following eight areas of life to be?"
 
 #: ../../variable/Q932A.rst:21
 msgid "(1)住む（住居、住環境、犯罪防止など）"
-msgstr ""
+msgstr "\(1) Housing (e.g., residence, living environment, crime prevention)"
 
 #: ../../variable/Q932A.rst:27
 msgid "選択肢 / 記入欄"
@@ -47,23 +47,23 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q932A.rst:30
 msgid "非常に重要"
-msgstr ""
+msgstr "Very important"
 
 #: ../../variable/Q932A.rst:32
 msgid "どちらかといえば重要"
-msgstr ""
+msgstr "Somewhat important"
 
 #: ../../variable/Q932A.rst:34
 msgid "どちらともいえない"
-msgstr ""
+msgstr "Neither"
 
 #: ../../variable/Q932A.rst:36
-msgid "どちらかといえば重要ではない"
-msgstr ""
+msgid "どちらかといえば重要でない"
+msgstr "Not very important"
 
 #: ../../variable/Q932A.rst:38
 msgid "まったく重要ではない"
-msgstr ""
+msgstr "Not important at all"
 
 #: ../../variable/Q932A.rst:45
 msgid "桁あふれコード"
@@ -128,10 +128,3 @@ msgstr ""
 #: ../../variable/Q932A.rst:92
 msgid "p10_4"
 msgstr ""
-
-#~ msgid "変数名: Q932A"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-

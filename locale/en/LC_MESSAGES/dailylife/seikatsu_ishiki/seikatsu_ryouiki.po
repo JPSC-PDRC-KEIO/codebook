@@ -68,27 +68,22 @@ msgid ":doc:`Q932A</variable/Q932A>`"
 msgstr ":doc:`Q932A</variable/Q932A>`"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
-#, fuzzy
 msgid "1"
 msgstr "1"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
-#, fuzzy
 msgid "2"
 msgstr "2"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
-#, fuzzy
 msgid "3"
 msgstr "3"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
-#, fuzzy
 msgid "4"
 msgstr "4"
 
 #: ../../dailylife/seikatsu_ishiki/seikatsu_ryouiki.rst:1
-#, fuzzy
 msgid "5"
 msgstr "5"
 
