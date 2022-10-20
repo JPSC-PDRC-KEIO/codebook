@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q192.rst:4
 msgid "現職（職種）の選択理由"
-msgstr ""
+msgstr "Reason for selecting current occupation"
 
 #: ../../multi_var/Q192.rst:8
 msgid "質問文"
@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q192.rst:9
 msgid "なぜ、あなたは現在の職種を選びましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "Why did you choose your current position? (Circle all that pertain to you)"
 
 #: ../../multi_var/Q192.rst:12
 msgid ""
@@ -45,7 +45,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q192.rst:1
 msgid "収入・給与がよい"
-msgstr ""
+msgstr "Good salary"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192A </variable/Q192A>`"
@@ -53,7 +53,7 @@ msgstr ""
 
 #: ../../multi_var/Q192.rst:1
 msgid "休日、休暇が多い"
-msgstr ""
+msgstr "Many holidays and paid leave"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192B </variable/Q192B>`"
@@ -61,7 +61,7 @@ msgstr ""
 
 #: ../../multi_var/Q192.rst:1
 msgid "拘束時間が少ない、残業が少ない"
-msgstr ""
+msgstr "Less time restraints and overtime work"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192C </variable/Q192C>`"
@@ -69,7 +69,7 @@ msgstr ""
 
 #: ../../multi_var/Q192.rst:1
 msgid "労働時間が自由になる"
-msgstr ""
+msgstr "Flexible working hours"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192D </variable/Q192D>`"
@@ -77,7 +77,7 @@ msgstr ""
 
 #: ../../multi_var/Q192.rst:1
 msgid "転勤がない、少ない"
-msgstr ""
+msgstr "No or few transfers"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192F </variable/Q192F>`"
@@ -85,7 +85,7 @@ msgstr ""
 
 #: ../../multi_var/Q192.rst:1
 msgid "安定している、失業のおそれがない"
-msgstr ""
+msgstr "Stable and low risk of unemployment"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192G </variable/Q192G>`"
@@ -93,7 +93,7 @@ msgstr ""
 
 #: ../../multi_var/Q192.rst:1
 msgid "将来発展する可能性がある"
-msgstr ""
+msgstr "Potential for future development"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192H </variable/Q192H>`"
@@ -101,11 +101,11 @@ msgstr ""
 
 #: ../../multi_var/Q192.rst:1
 msgid "組織にしばられない"
-msgstr ""
+msgstr "Not restricted by organization"
 
 #: ../../multi_var/Q192.rst:1
 msgid "結婚後も続けやすい"
-msgstr ""
+msgstr "Easy to continue after marriage"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192I </variable/Q192I>`"
@@ -113,7 +113,7 @@ msgstr ""
 
 #: ../../multi_var/Q192.rst:1
 msgid "出産後も続けやすい"
-msgstr ""
+msgstr "Easy to continue after childbirth"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192J </variable/Q192J>`"
@@ -121,7 +121,7 @@ msgstr ""
 
 #: ../../multi_var/Q192.rst:1
 msgid "技術が身につく"
-msgstr ""
+msgstr "Developing skills"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192K </variable/Q192K>`"
@@ -129,7 +129,7 @@ msgstr ""
 
 #: ../../multi_var/Q192.rst:1
 msgid "能力が生かせる"
-msgstr ""
+msgstr "Utilizing abilities"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192L </variable/Q192L>`"
@@ -137,7 +137,7 @@ msgstr ""
 
 #: ../../multi_var/Q192.rst:1
 msgid "仕事内容に興味がある"
-msgstr ""
+msgstr "Interest in the job"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192M </variable/Q192M>`"
@@ -145,7 +145,7 @@ msgstr ""
 
 #: ../../multi_var/Q192.rst:1
 msgid "外国に行ける"
-msgstr ""
+msgstr "Opportunities to work abroad"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192N </variable/Q192N>`"
@@ -153,7 +153,7 @@ msgstr ""
 
 #: ../../multi_var/Q192.rst:1
 msgid "結婚相手が見つかる"
-msgstr ""
+msgstr "Finding a marriage partner"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192O </variable/Q192O>`"
@@ -161,7 +161,7 @@ msgstr ""
 
 #: ../../multi_var/Q192.rst:1
 msgid "学校がすすめるので"
-msgstr ""
+msgstr "School recommendation"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192P </variable/Q192P>`"
@@ -169,15 +169,15 @@ msgstr ""
 
 #: ../../multi_var/Q192.rst:1
 msgid "家族がすすめるので"
-msgstr ""
+msgstr "A family member's recommendation"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192Q </variable/Q192Q>`"
 msgstr ""
 
 #: ../../multi_var/Q192.rst:1
-msgid "会社ですすめられた（自分で選んだのではない）"
-msgstr ""
+msgid "会社で指定された（自分で選んだのではない）"
+msgstr "Assigned by the company (not chosen by me)"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192R </variable/Q192R>`"
@@ -185,7 +185,7 @@ msgstr ""
 
 #: ../../multi_var/Q192.rst:1
 msgid "家業だから"
-msgstr ""
+msgstr "Family business"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192S </variable/Q192S>`"
@@ -193,27 +193,9 @@ msgstr ""
 
 #: ../../multi_var/Q192.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q192.rst:1
 msgid ":doc:`Q192T </variable/Q192T>`"
 msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "現在有職の人への質問です。1年間に転職があった人に聞いています〔第11回以降は聞いていません）。なお、コーホートAとコーホートBの初回調査時〔第1回・第5回〕については変数名が異なります。"
-#~ " :doc:`現職（会社）の選択理由〔第1回・第5回〕（P56） </multi_var/P56>` "
-#~ "をご参照ください。"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "現在有職の人への質問です。1年間に転職があった人に聞いています〔第11回以降は聞いていません）。なお、コーホートAとコーホートBの初回調査時〔第1回・第5回〕については変数名が異なります。"
-#~ "  :doc:`現職（会社）の選択理由〔第1回・第5回〕（P56） </multi_var/P56>` "
-#~ "をご参照ください。"
-#~ msgstr ""
 

@@ -33,7 +33,7 @@
    結婚相手が見つかる,:doc:`Q192O </variable/Q192O>`
    学校がすすめるので,:doc:`Q192P </variable/Q192P>`
    家族がすすめるので,:doc:`Q192Q </variable/Q192Q>`
-   会社ですすめられた（自分で選んだのではない）,:doc:`Q192R </variable/Q192R>`
+   会社で指定された（自分で選んだのではない）,:doc:`Q192R </variable/Q192R>`
    家業だから,:doc:`Q192S </variable/Q192S>`
    その他,:doc:`Q192T </variable/Q192T>`
 
