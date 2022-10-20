@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q254P.rst:5
 msgid "現職（職種）の選択理由（配偶者）：会社で指定された（自分で選んだのではない）"
-msgstr ""
+msgstr "Reason for selecting current occupation (spouse): assigned by the company"
 
 #: ../../variable/Q254P.rst:9
 msgid "変数名"
@@ -34,12 +34,12 @@ msgid "質問文"
 msgstr "Question"
 
 #: ../../variable/Q254P.rst:18
-msgid "なぜ、ご主人は現在の職種を選びましたか。(〇はいくつでも)"
-msgstr ""
+msgid "なぜ、ご主人は現在の職種を選びましたか。（〇はいくつでも）"
+msgstr "Why did your husband choose his current position? (Circle all that pertain to you)"
 
 #: ../../variable/Q254P.rst:21
 msgid "会社で指定された（自分で選んだのではない）"
-msgstr ""
+msgstr "Assigned by the company (not chosen by me)"
 
 #: ../../variable/Q254P.rst:27
 msgid "選択肢 / 記入欄"
@@ -47,11 +47,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q254P.rst:30
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q254P.rst:32
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q254P.rst:39
 msgid "桁あふれコード"

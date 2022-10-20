@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q254.rst:4
 msgid "現職（職種）の選択理由（配偶者）"
-msgstr ""
+msgstr "Reason for selecting current occupation (spouse)"
 
 #: ../../multi_var/Q254.rst:8
 msgid "質問文"
@@ -27,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q254.rst:9
 msgid "なぜ、ご主人は現在の職種を選びましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "Why did your husband choose his current position? (Circle all that pertain to you)"
 
 #: ../../multi_var/Q254.rst:1
 msgid "項目"
@@ -39,7 +39,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q254.rst:1
 msgid "収入・給与がよい"
-msgstr ""
+msgstr "Good salary"
 
 #: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254A </variable/Q254A>`"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../multi_var/Q254.rst:1
 msgid "休日、休暇が多い"
-msgstr ""
+msgstr "Many holidays and paid leave"
 
 #: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254B </variable/Q254B>`"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../multi_var/Q254.rst:1
 msgid "拘束時間が少ない、残業が少ない"
-msgstr ""
+msgstr "Less time restraints and overtime work"
 
 #: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254C </variable/Q254C>`"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: ../../multi_var/Q254.rst:1
 msgid "労働時間が自由になる"
-msgstr ""
+msgstr "Flexible working hours"
 
 #: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254D </variable/Q254D>`"
@@ -71,7 +71,7 @@ msgstr ""
 
 #: ../../multi_var/Q254.rst:1
 msgid "転勤がない、少ない"
-msgstr ""
+msgstr "No or few transfers"
 
 #: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254E </variable/Q254F>`"
@@ -79,7 +79,7 @@ msgstr ""
 
 #: ../../multi_var/Q254.rst:1
 msgid "安定している、失業のおそれがない"
-msgstr ""
+msgstr "Stable and low risk of unemployment"
 
 #: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254F </variable/Q254F>`"
@@ -87,7 +87,7 @@ msgstr ""
 
 #: ../../multi_var/Q254.rst:1
 msgid "将来発展する可能性がある"
-msgstr ""
+msgstr "Potential for future development"
 
 #: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254G </variable/Q254G>`"
@@ -95,7 +95,7 @@ msgstr ""
 
 #: ../../multi_var/Q254.rst:1
 msgid "組織にしばられない"
-msgstr ""
+msgstr "Not restricted by organization"
 
 #: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254H </variable/Q254H>`"
@@ -103,7 +103,7 @@ msgstr ""
 
 #: ../../multi_var/Q254.rst:1
 msgid "技術が身につく"
-msgstr ""
+msgstr "Developing skills"
 
 #: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254I </variable/Q254I>`"
@@ -111,7 +111,7 @@ msgstr ""
 
 #: ../../multi_var/Q254.rst:1
 msgid "能力が生かせる"
-msgstr ""
+msgstr "Utilizing abilities"
 
 #: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254J </variable/Q254J>`"
@@ -119,7 +119,7 @@ msgstr ""
 
 #: ../../multi_var/Q254.rst:1
 msgid "仕事内容に興味がある"
-msgstr ""
+msgstr "Interest in the job"
 
 #: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254K </variable/Q254K>`"
@@ -127,7 +127,7 @@ msgstr ""
 
 #: ../../multi_var/Q254.rst:1
 msgid "外国に行ける"
-msgstr ""
+msgstr "Opportunities to work abroad"
 
 #: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254L </variable/Q254L>`"
@@ -135,7 +135,7 @@ msgstr ""
 
 #: ../../multi_var/Q254.rst:1
 msgid "結婚相手が見つかる"
-msgstr ""
+msgstr "Finding a marriage partner"
 
 #: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254M </variable/Q254M>`"
@@ -143,7 +143,7 @@ msgstr ""
 
 #: ../../multi_var/Q254.rst:1
 msgid "学校がすすめるので"
-msgstr ""
+msgstr "School recommendation"
 
 #: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254N </variable/Q254N>`"
@@ -151,15 +151,15 @@ msgstr ""
 
 #: ../../multi_var/Q254.rst:1
 msgid "家族がすすめるので"
-msgstr ""
+msgstr "A family member's recommendation"
 
 #: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254O </variable/Q254O>`"
 msgstr ""
 
 #: ../../multi_var/Q254.rst:1
-msgid "会社ですすめられた（自分で選んだのではない）"
-msgstr ""
+msgid "会社で指定された（自分で選んだのではない）"
+msgstr "Assigned by the company (not chosen by me)"
 
 #: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254P </variable/Q254P>`"
@@ -167,7 +167,7 @@ msgstr ""
 
 #: ../../multi_var/Q254.rst:1
 msgid "家業だから"
-msgstr ""
+msgstr "Family business"
 
 #: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254Q </variable/Q254Q>`"
@@ -175,7 +175,7 @@ msgstr ""
 
 #: ../../multi_var/Q254.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q254.rst:1
 msgid ":doc:`Q254R </variable/Q254R>`"

@@ -29,7 +29,7 @@
    結婚相手が見つかる,:doc:`Q254M </variable/Q254M>`
    学校がすすめるので,:doc:`Q254N </variable/Q254N>`
    家族がすすめるので,:doc:`Q254O </variable/Q254O>`
-   会社ですすめられた（自分で選んだのではない）,:doc:`Q254P </variable/Q254P>`
+   会社で指定された（自分で選んだのではない）,:doc:`Q254P </variable/Q254P>`
    家業だから,:doc:`Q254Q </variable/Q254Q>`
    その他,:doc:`Q254R </variable/Q254R>`
 
