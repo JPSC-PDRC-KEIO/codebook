@@ -856,26 +856,26 @@ List of variables
 * `Q191T    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191T.html>`_ : Reason for choosing current job: other
 * `Q191U    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191U.html>`_ : Reason for choosing current job: less time restraints and flexible working hours
 * `Q191V    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q191V.html>`_ : Reason for choosing current job: easy to continue after marriage and childbirth
-* `Q192A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192A.html>`_ : 現職（職種）の選択理由：収入・給与がよい
-* `Q192B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192B.html>`_ : 現職（職種）の選択理由：休日、休暇が多い
-* `Q192C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192C.html>`_ : 現職（職種）の選択理由：拘束時間が少ない、残業が少ない
-* `Q192D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192D.html>`_ : 現職（職種）の選択理由：労働時間が自由になる
-* `Q192E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192E.html>`_ : 現職（職種）の選択理由：転勤がない、少ない
-* `Q192F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192F.html>`_ : 現職（職種）の選択理由：安定している、失業のおそれがない
-* `Q192G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192G.html>`_ : 現職（職種）の選択理由：将来発展する可能性がある
-* `Q192H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192H.html>`_ : 現職（職種）の選択理由：組織にしばられない
-* `Q192I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192I.html>`_ : 現職（職種）の選択理由：出産後も続けやすい
-* `Q192J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192J.html>`_ : 現職（職種）の選択理由：出産後も続けやすい
-* `Q192K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192K.html>`_ : 現職（職種）の選択理由：技術が身につく
-* `Q192L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192L.html>`_ : 現職（職種）の選択理由：能力がいかせる
-* `Q192M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192M.html>`_ : 現職（職種）の選択理由：仕事内容に興味がある
-* `Q192N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192N.html>`_ : 現職（職種）の選択理由：外国に行ける
-* `Q192O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192O.html>`_ : 現職（職種）の選択理由：結婚相手が見つかる
-* `Q192P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192P.html>`_ : 現職（職種）の選択理由：学校がすすめるので
-* `Q192Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192Q.html>`_ : 現職（職種）の選択理由：家族がすすめるので
-* `Q192R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192R.html>`_ : 現職（職種）の選択理由：会社で指定された
-* `Q192S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192S.html>`_ : 現職（職種）の選択理由：家業だから
-* `Q192T    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192T.html>`_ : 現職（職種）の選択理由：その他
+* `Q192A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192A.html>`_ : Reason for selecting current occupation: good salary
+* `Q192B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192B.html>`_ : Reason for selecting current occupation: many holidays and paid leave
+* `Q192C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192C.html>`_ : Reason for selecting current occupation: less time restraints and overtime work
+* `Q192D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192D.html>`_ : Reason for selecting current occupation: flexible working hours
+* `Q192E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192E.html>`_ : Reason for selecting current occupation: no or few transfers
+* `Q192F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192F.html>`_ : Reason for selecting current occupation: stable and low risk of unemployment
+* `Q192G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192G.html>`_ : Reason for selecting current occupation: potential for future development
+* `Q192H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192H.html>`_ : Reason for selecting current occupation: not restricted by organization
+* `Q192I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192I.html>`_ : Reason for selecting current occupation: easy to continue after marriage
+* `Q192J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192J.html>`_ : Reason for selecting current occupation: easy to continue after childbirth
+* `Q192K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192K.html>`_ : Reason for selecting current occupation: developing skills
+* `Q192L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192L.html>`_ : Reason for selecting current occupation: utilizing abilities
+* `Q192M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192M.html>`_ : Reason for selecting current occupation: interest in the job
+* `Q192N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192N.html>`_ : Reason for selecting current occupation: opportunities to work abroad
+* `Q192O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192O.html>`_ : Reason for selecting current occupation: finding a marriage partner
+* `Q192P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192P.html>`_ : Reason for selecting current occupation: school recommendation
+* `Q192Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192Q.html>`_ : Reason for selecting current occupation: a family member’s recommendation
+* `Q192R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192R.html>`_ : Reason for selecting current occupation: assigned by the company
+* `Q192S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192S.html>`_ : Reason for selecting current occupation: family business
+* `Q192T    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q192T.html>`_ : Reason for selecting current occupation: other
 * `Q193     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q193.html>`_ : Month of reemployment
 * `Q194     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q194.html>`_ : Months worked
 * `Q195     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q195.html>`_ : Months of Job Seeking
@@ -1002,24 +1002,24 @@ List of variables
 * `Q253Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253Q.html>`_ : Reason for choosing current job (spouse): a family member’s recommendation
 * `Q253R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253R.html>`_ : Reason for choosing current job (spouse): others
 * `Q253S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q253S.html>`_ : Reason for choosing current job (spouse): less time restraints and flexible working hours
-* `Q254A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254A.html>`_ : 現職（職種）の選択理由（配偶者） ：収入・給与がよい
-* `Q254B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254B.html>`_ : 現職（職種）の選択理由（配偶者）：休日、休暇が多い
-* `Q254C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254C.html>`_ : 現職（職種）の選択理由（配偶者）：拘束時間が少ない、残業が少ない
-* `Q254D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254D.html>`_ : 現職（職種）の選択理由（配偶者）：労働時間が自由になる
-* `Q254E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254E.html>`_ : 現職（職種）の選択理由（配偶者）：転勤がない、少ない
-* `Q254F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254F.html>`_ : 現職（職種）の選択理由（配偶者）：安定している、失業のおそれがない
-* `Q254G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254G.html>`_ : 現職（職種）の選択理由（配偶者）：将来発展する可能性がある
-* `Q254H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254H.html>`_ : 現職（職種）の選択理由（配偶者）：組織にしばられない
-* `Q254I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254I.html>`_ : 現職（職種）の選択理由（配偶者）：技術が身につく
-* `Q254J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254J.html>`_ : 現職（職種）の選択理由（配偶者）：能力がいかせる
-* `Q254K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254K.html>`_ : 現職（職種）の選択理由（配偶者）：仕事内容に興味がある
-* `Q254L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254L.html>`_ : 現職（職種）の選択理由（配偶者）：外国に行ける
-* `Q254M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254M.html>`_ : 現職（職種）の選択理由（配偶者）結婚相手が見つかる
-* `Q254N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254N.html>`_ : 現職（職種）の選択理由（配偶者）：学校がすすめるので
-* `Q254O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254O.html>`_ : 現職（職種）の選択理由（配偶者）：家族がすすめるので
-* `Q254P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254P.html>`_ : 現職（職種）の選択理由（配偶者）：会社で指定された（自分で選んだのではない）
-* `Q254Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254Q.html>`_ : 現職（職種）の選択理由（配偶者）：家業だから
-* `Q254R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254R.html>`_ : 現職（職種）の選択理由（配偶者）：その他
+* `Q254A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254A.html>`_ : Reason for selecting current occupation (spouse): good salary
+* `Q254B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254B.html>`_ : Reason for selecting current occupation (spouse): many holidays and paid leave
+* `Q254C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254C.html>`_ : Reason for selecting current occupation (spouse): less time restraints and overtime work
+* `Q254D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254D.html>`_ : Reason for selecting current occupation (spouse): flexible working hours
+* `Q254E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254E.html>`_ : Reason for selecting current occupation (spouse): no or few transfers
+* `Q254F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254F.html>`_ : Reason for selecting current occupation (spouse): stable and low risk of unemployment
+* `Q254G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254G.html>`_ : Reason for selecting current occupation (spouse): potential for future development
+* `Q254H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254H.html>`_ : Reason for selecting current occupation (spouse): not restricted by organization
+* `Q254I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254I.html>`_ : Reason for selecting current occupation (spouse): developing skills
+* `Q254J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254J.html>`_ : Reason for selecting current occupation (spouse): utilizing abilities
+* `Q254K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254K.html>`_ : Reason for selecting current occupation (spouse): interest in the job
+* `Q254L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254L.html>`_ : Reason for selecting current occupation (spouse): opportunities to work abroad
+* `Q254M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254M.html>`_ : Reason for selecting current occupation (spouse): finding a marriage partner
+* `Q254N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254N.html>`_ : Reason for selecting current occupation (spouse): school recommendation
+* `Q254O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254O.html>`_ : Reason for selecting current occupation (spouse): a family member’s recommendation
+* `Q254P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254P.html>`_ : Reason for selecting current occupation (spouse): assigned by the company
+* `Q254Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254Q.html>`_ : Reason for selecting current occupation (spouse): family business
+* `Q254R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q254R.html>`_ : Reason for selecting current occupation (spouse): other
 * `Q255     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q255.html>`_ : Month of reemployment (spouse)
 * `Q256     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q256.html>`_ : Months worked (spouse)
 * `Q257     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q257.html>`_ : Months of job search (spouse)
