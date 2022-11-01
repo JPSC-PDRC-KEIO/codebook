@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-10-31 13:06+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../variable/Q1201C.rst:6
 msgid "人が嫌がる仕事もやる方か"
-msgstr ""
+msgstr "Are you the kind of person who does the work that other people don't like to do?"
 
 #: ../../variable/Q1201C.rst:11
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q1201C.rst:21
 msgid "次の事柄について、あなたのお考えをお答えください。"
-msgstr ""
+msgstr "Please share your opinion on the following matters."
 
 #: ../../variable/Q1201C.rst:24
 msgid "自分は人の嫌がる仕事でもすすんでやる方だ"
-msgstr ""
+msgstr "I'm willing to do the work that others don't want to do."
 
 #: ../../variable/Q1201C.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,23 +49,23 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1201C.rst:33
 msgid "そう思う"
-msgstr ""
+msgstr "Agree"
 
 #: ../../variable/Q1201C.rst:34
 msgid "どちらかといえばそう思う"
-msgstr ""
+msgstr "Somewhat agree"
 
 #: ../../variable/Q1201C.rst:35
 msgid "どちらともいえない"
-msgstr ""
+msgstr "Neutral"
 
 #: ../../variable/Q1201C.rst:36
 msgid "どちらかといえばそう思わない"
-msgstr ""
+msgstr "somewhat disagree"
 
 #: ../../variable/Q1201C.rst:37
 msgid "そう思わない"
-msgstr ""
+msgstr "Disagree"
 
 #: ../../variable/Q1201C.rst:45
 msgid "桁あふれコード"
@@ -79,7 +81,7 @@ msgstr "No response code"
 
 #: ../../variable/Q1201C.rst:60
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../variable/Q1201C.rst:66
 msgid "備考"
@@ -118,4 +120,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

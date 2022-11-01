@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-10-31 10:42+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:3
 msgid "社会生活で考えること"
-msgstr ""
+msgstr "Thinking in social life"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:6
 msgid "質問文"
@@ -27,7 +29,7 @@ msgstr "Question"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:7
 msgid "次の事柄について、あなたのお考えをお答えください。（それぞれ〇は１つずつ）"
-msgstr ""
+msgstr "Please share your opinion on the following matters.(Circle one for each)"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid "項目"
@@ -39,55 +41,60 @@ msgstr "Variable name"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid "そう思う"
-msgstr ""
+msgstr "Yes"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid "どちらかといえばそう思う"
-msgstr ""
+msgstr "Somewhat agree"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid "どちらともいえない"
-msgstr ""
+msgstr "Neutral"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid "どちらかといえばそう思わない"
-msgstr ""
+msgstr "somewhat disagree"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid "そう思わない"
-msgstr ""
+msgstr "Disagree"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid "たいていの人は信用できる"
-msgstr ""
+msgstr "Most people can be trusted."
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid ":doc:`Q1201A </variable/Q1201A>`"
 msgstr ""
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
+#, fuzzy
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
+#, fuzzy
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
+#, fuzzy
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
+#, fuzzy
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
+#, fuzzy
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid "「自分が社会や世の中の動きから取り残されている」 と感じる"
-msgstr ""
+msgstr "You feel that you are left behind in society and in the world."
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid ":doc:`Q1201B </variable/Q1201B>`"
@@ -95,7 +102,7 @@ msgstr ""
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid "自分は人の嫌がる仕事でもすすんでやる方だ"
-msgstr ""
+msgstr "I'm willing to do the work that others don't want to do."
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid ":doc:`Q1201C </variable/Q1201C>`"
@@ -103,7 +110,7 @@ msgstr ""
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid "努力は、いつか必ず報われる"
-msgstr ""
+msgstr "Hard work always pays off someday."
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid ":doc:`Q1201D </variable/Q1201D>`"
@@ -111,7 +118,7 @@ msgstr ""
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid "将来のことを考えるより、今の自分の人生を楽しむようにしている"
-msgstr ""
+msgstr "I try to enjoy my life now instead of thinking about the future"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid ":doc:`Q1201E </variable/Q1201E>`"
@@ -119,7 +126,7 @@ msgstr ""
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid "日本は所得格差の大きい社会だと思いますか"
-msgstr ""
+msgstr "Do you think Japan is a society with large income inequality?"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid ":doc:`Q1201F </variable/Q1201F>`"
@@ -127,7 +134,7 @@ msgstr ""
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid "日本は暮らしやすい社会だと思いますか"
-msgstr ""
+msgstr "Do you think Japan is a comfortable society to live in?"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid ":doc:`Q1201G </variable/Q1201G>`"
@@ -135,12 +142,8 @@ msgstr ""
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid "政府や行政は新しい問題、困難な問題によく取り組んでいると思いますか"
-msgstr ""
+msgstr "Do you think the government and administration are tackling new and difficult problems well?"
 
 #: ../../dailylife/seikatsu_ishiki/syakaiseikatsu.rst:1
 msgid ":doc:`Q1201H </variable/Q1201H>`"
 msgstr ""
-
-#~ msgid "項目\""
-#~ msgstr ""
-

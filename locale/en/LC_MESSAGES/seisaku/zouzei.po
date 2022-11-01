@@ -9,41 +9,37 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-10-31 11:27+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../seisaku/zouzei.rst:3
 msgid "消費税増税について"
-msgstr ""
+msgstr "Consumption tax increase"
 
 #: ../../seisaku/zouzei.rst:8
 msgid "消費税8％増税前の質問（2012・2013年）"
-msgstr ""
+msgstr "Questions before the 8% consumption tax increase (2012 and 2013)"
 
 #: ../../seisaku/zouzei.rst:19
 msgid "消費税8％増税時と増税後の質問（2014・2015年）"
-msgstr ""
+msgstr "Questions during and after the 8% consumption tax increase (2014 and 2015)"
 
 #: ../../seisaku/zouzei.rst:31
 msgid "消費税10％増税をめぐる質問（2016・2017年）"
-msgstr ""
+msgstr "Questions about the 10% consumption tax increase (2016 and 2017)"
 
 #: ../../seisaku/zouzei.rst:42
 msgid "消費税10％増税時の質問（2019年）"
-msgstr ""
+msgstr "Questions at the time of the 10% consumption tax increase (2019)"
 
 #: ../../seisaku/zouzei.rst:53
 msgid "消費税10％増税時の質問（2020年）"
-msgstr ""
-
-#~ msgid "消費税８％増税前の質問（2012・2013年）"
-#~ msgstr ""
-
-#~ msgid "消費税８％増税時と増税後の質問（2014・2015年）"
-#~ msgstr ""
-
+msgstr "Questions at the time of the 10% consumption tax increase (2020)"

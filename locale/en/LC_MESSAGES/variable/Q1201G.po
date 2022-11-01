@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-10-31 13:09+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../variable/Q1201G.rst:6
 msgid "日本は暮らしやすい社会か"
-msgstr ""
+msgstr "Is Japan a comfortable society to live in?"
 
 #: ../../variable/Q1201G.rst:11
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q1201G.rst:21
 msgid "次の事柄について、あなたのお考えをお答えください。"
-msgstr ""
+msgstr "Please share your opinion on the following matters."
 
 #: ../../variable/Q1201G.rst:24
 msgid "日本は暮らしやすい社会だと思いますか"
-msgstr ""
+msgstr "Do you think Japan is a comfortable society to live in?"
 
 #: ../../variable/Q1201G.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,23 +49,23 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1201G.rst:33
 msgid "そう思う"
-msgstr ""
+msgstr "Agree"
 
 #: ../../variable/Q1201G.rst:34
 msgid "どちらかといえばそう思う"
-msgstr ""
+msgstr "Somewhat agree"
 
 #: ../../variable/Q1201G.rst:35
 msgid "どちらともいえない"
-msgstr ""
+msgstr "Neutral"
 
 #: ../../variable/Q1201G.rst:36
 msgid "どちらかといえばそう思わない"
-msgstr ""
+msgstr "somewhat disagree"
 
 #: ../../variable/Q1201G.rst:37
 msgid "そう思わない"
-msgstr ""
+msgstr "Disagree"
 
 #: ../../variable/Q1201G.rst:45
 msgid "桁あふれコード"
@@ -78,8 +80,9 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q1201G.rst:60
+#, fuzzy
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../variable/Q1201G.rst:66
 msgid "備考"
@@ -117,4 +120,3 @@ msgstr ""
 
 #~ msgid "p23_3"
 #~ msgstr ""
-
