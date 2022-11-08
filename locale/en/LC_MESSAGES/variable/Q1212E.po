@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-10-31 15:07+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../variable/Q1212E.rst:6
 msgid "年収調整の理由：雇用保険"
-msgstr ""
+msgstr "Reason for annual income adjustment: unemployment insurance"
 
 #: ../../variable/Q1212E.rst:11
 msgid "変数名"
@@ -35,15 +37,15 @@ msgstr "Question"
 
 #: ../../variable/Q1212E.rst:21
 msgid "あなたは昨年、年収が一定額を超えないように調整しましたか。"
-msgstr ""
+msgstr "Did you adjust your annual income last year so that it did not exceed a certain amount?"
 
 #: ../../variable/Q1212E.rst:24
 msgid "調整したのはどの理由によるものですか。（〇はいくつでも）"
-msgstr ""
+msgstr "For which reason did you make the adjustment? (circle as many as pertain to you.)"
 
 #: ../../variable/Q1212E.rst:27
 msgid "雇用保険に加入しなければならないから"
-msgstr ""
+msgstr "Because they have to be covered by unemployment insurance."
 
 #: ../../variable/Q1212E.rst:33
 msgid "選択肢 / 記入欄"
@@ -51,11 +53,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1212E.rst:35
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q1212E.rst:36
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q1212E.rst:44
 msgid "桁あふれコード"
@@ -124,4 +126,3 @@ msgstr ""
 
 #~ msgid "各種サービス利用の収入段階を意識しているから"
 #~ msgstr ""
-

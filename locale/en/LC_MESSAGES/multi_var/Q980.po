@@ -9,29 +9,31 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-11 10:49+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-11-08 14:06+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../multi_var/Q980.rst:3
 msgid "教育訓練給付制度の今後の利用目的"
-msgstr ""
+msgstr "Purpose of future use of the Training and Education Benefits System"
 
 #: ../../multi_var/Q980.rst:7
 msgid "質問文"
-msgstr "Question"
+msgstr "Question (multiple answers)"
 
 #: ../../multi_var/Q980.rst:8
 msgid "「教育訓練給付制度」を今後利用したい目的は何ですか。（〇は２つまで）"
-msgstr ""
+msgstr "What is the purpose for which you would like to use the \" Training and Education Benefits System\"? (circle up to 2 )"
 
 #: ../../multi_var/Q980.rst:12
 msgid "選択肢"
-msgstr ""
+msgstr "Select"
 
 #: ../../multi_var/Q980.rst:1
 msgid "項目"
@@ -43,7 +45,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q980.rst:1
 msgid "これまでの仕事を発展させるために役立ちそうな知識や資格などを得るため"
-msgstr ""
+msgstr "To obtain knowledge, qualifications, etc. that may be useful in developing my present work"
 
 #: ../../multi_var/Q980.rst:1
 msgid ":doc:`Q980A </variable/Q980A>`"
@@ -51,7 +53,7 @@ msgstr ""
 
 #: ../../multi_var/Q980.rst:1
 msgid "これからの仕事に役立ちそうな知識や資格などを得るため"
-msgstr ""
+msgstr "To obtain knowledge and qualifications that may be useful for future work"
 
 #: ../../multi_var/Q980.rst:1
 msgid ":doc:`Q980B </variable/Q980B>`"
@@ -59,7 +61,7 @@ msgstr ""
 
 #: ../../multi_var/Q980.rst:1
 msgid "特に仕事に役立つとは思わないが、興味があったので"
-msgstr ""
+msgstr "I don't think it would be particularly useful for my job, but I was interested in it."
 
 #: ../../multi_var/Q980.rst:1
 msgid ":doc:`Q980C </variable/Q980C>`"
@@ -67,7 +69,7 @@ msgstr ""
 
 #: ../../multi_var/Q980.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q980.rst:1
 msgid ":doc:`Q980D </variable/Q980D>`"
@@ -95,4 +97,3 @@ msgstr "Remarks"
 
 #~ msgid "その（「教育訓練給付制度」を利用している）目的は何ですか。（〇は２つまで）"
 #~ msgstr ""
-

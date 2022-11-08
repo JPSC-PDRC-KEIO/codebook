@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-11-08 13:08+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../variable/Q897.rst:5
 msgid "教育訓練給付制度の利用の有無"
-msgstr ""
+msgstr "Availability of training and education benefits system"
 
 #: ../../variable/Q897.rst:9
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q897.rst:18
 msgid "「教育訓練給付制度」を利用したことがありますか。あるいは利用していますか。"
-msgstr ""
+msgstr "Have you ever used the \"Education and Training Benefits System\"? Or are you currently using it?"
 
 #: ../../variable/Q897.rst:24
 msgid "選択肢 / 記入欄"
@@ -43,15 +45,15 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q897.rst:27
 msgid "利用したことがあるが、昨年の10月以降は利用していない"
-msgstr ""
+msgstr "Have used it in the past, but not since last October"
 
 #: ../../variable/Q897.rst:29
 msgid "昨年の10月以降、利用した・現在、利用している"
-msgstr ""
+msgstr "Have useed it since last October / Currently using it"
 
 #: ../../variable/Q897.rst:31
 msgid "利用したことはない"
-msgstr ""
+msgstr "I have never used it."
 
 #: ../../variable/Q897.rst:38
 msgid "桁あふれコード"
@@ -66,8 +68,9 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q897.rst:51
+#, fuzzy
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../variable/Q897.rst:56
 msgid "備考"
@@ -94,4 +97,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

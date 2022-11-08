@@ -9,29 +9,31 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-11-08 14:23+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../syugyo/jouken/kaigokyuka.rst:3
 msgid "介護休業"
-msgstr "Care leave"
+msgstr "Caregiver leave"
 
 #: ../../syugyo/jouken/kaigokyuka.rst:14
 msgid "「介護休業の有無」については、変数名と選択肢が下記のように変化しています。なお、第3回と第4回では、現在の勤務先での介護休業制度の有無を直接問う項目は設けていません。"
-msgstr ""
+msgstr "For \"availability of caregiver leave,\" the variable names and options have changed as follows. Note that in Wave 3 and Wave 4, there is no item directly asking about the existence of a caregiver leave system at the current place of employment."
 
 #: ../../syugyo/jouken/kaigokyuka.rst:1
 msgid "第2回"
-msgstr ""
+msgstr "Wave 2"
 
 #: ../../syugyo/jouken/kaigokyuka.rst:1
 msgid "第5回～"
-msgstr ""
+msgstr "Wave5-"
 
 #: ../../syugyo/jouken/kaigokyuka.rst:1
 msgid "変数名"
@@ -59,37 +61,26 @@ msgstr "2.No"
 
 #: ../../syugyo/jouken/kaigokyuka.rst
 msgid "3.知らない"
-msgstr "3.Don't know"
+msgstr "3.I don't know"
 
 #: ../../syugyo/jouken/kaigokyuka.rst
 msgid "1.会社等に制度があり、自分にも資格がある"
-msgstr ""
+msgstr "1.The company has a system and I am qualified."
 
 #: ../../syugyo/jouken/kaigokyuka.rst
 msgid "2.会社等に制度はあるが、自分には資格がない"
-msgstr ""
+msgstr "2.The company has a system, but I am not qualified."
 
 #: ../../syugyo/jouken/kaigokyuka.rst
 msgid "3.会社等に制度はあるが、自分には資格があるかどうかわからない"
-msgstr ""
+msgstr "3.The company has a system, but I don't know if I am qualified."
 
 #: ../../syugyo/jouken/kaigokyuka.rst
 msgid "4.会社等に制度がない"
-msgstr ""
+msgstr "4.The company does not have a system."
 
 #: ../../syugyo/jouken/kaigokyuka.rst
 msgid "5.会社等に制度があるかどうかわからない"
-msgstr ""
+msgstr "5.I don't know if the company has a system."
 
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
-
-#~ msgid ":doc:`Q157 </variable/Q157>`"
-#~ msgstr ""
-
-#~ msgid ":doc:`Q880 </variable/Q880>`"
-#~ msgstr ""
 
