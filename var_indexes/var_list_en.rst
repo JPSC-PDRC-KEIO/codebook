@@ -123,7 +123,7 @@ List of variables
 * `P54R     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54R.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: School recommendation
 * `P54S     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54S.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: A family member’s recommendation
 * `P54T     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P54T.html>`_ : Reasons for choosing current job (company) [Wave1, 5]: Other
-* `P55A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P55A.html>`_ : Start date of current position: Year
+* `P55A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P55A.html>`_ : Start date of current occupation: year
 * `P55B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P55B.html>`_ : Start date of current position: Month
 * `P56A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56A.html>`_ : Reasons for choosing current position (type of work): Good salary
 * `P56B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P56B.html>`_ : Reasons for choosing current position (type of work): Many holidays and paid leave
@@ -226,10 +226,10 @@ List of variables
 * `P72      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P72.html>`_ : Number of employees in first place of employment
 * `P73      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P73.html>`_ : Industry of first job [Wave 1, Wave 5, Wave 11, Wave 16]
 * `P74      <https://jpsc-codebook.readthedocs.io/en/latest/variable/P74.html>`_ : First job duties
-* `P75A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P75A.html>`_ : Duration of engagement in first job: Starting year
-* `P75B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P75B.html>`_ : Duration of engagement in first job: Starting month
-* `P76A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P76A.html>`_ : Duration of engagement in first job End Year
-* `P76B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P76B.html>`_ : Duration of engagement in first job: End year
+* `P75A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P75A.html>`_ : Duration of engagement in first job: starting year
+* `P75B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P75B.html>`_ : Duration of engagement in first job: starting month
+* `P76A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P76A.html>`_ : Duration of engagement in first job: end year
+* `P76B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P76B.html>`_ : Duration of engagement in first job: end year
 * `P77A     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77A.html>`_ : Reason for choosing first job: good salary
 * `P77B     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77B.html>`_ : Reasons for choosing first job: many holidays and paid leaves
 * `P77C     <https://jpsc-codebook.readthedocs.io/en/latest/variable/P77C.html>`_ : Reason for leaving first job: less time restraints and overtime work
@@ -908,7 +908,7 @@ List of variables
 * `Q198X    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198X.html>`_ : Reason for leaving job (not working): relationships became awkward.
 * `Q198Y    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198Y.html>`_ : Reason for leaving job (not working): retirement or expiration of employment contract
 * `Q198Z    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q198Z.html>`_ : Reason for leaving job (not working): pregnancy and childbirth
-* `Q199A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q199A.html>`_ : 雇用保険失業給付の受給（本人無職/前職）
+* `Q199A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q199A.html>`_ : Receipt of unemployment insurance benefits (you unemployed/previous employment)
 * `Q199B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q199B.html>`_ : Months of unemployment insurance received (you unemployed/previous job)
 * `Q200A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q200A.html>`_ : Coping with life when you left your job (unemployed): you were able to make ends meet on your husband’s and parents’ income.
 * `Q200B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q200B.html>`_ : Coping with life when you left your job (unemployed): you were able to get by for the time being with severance pay and insurance benefits.
@@ -974,7 +974,7 @@ List of variables
 * `Q247U    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247U.html>`_ : Reason for leaving job (spouse, currently working): relationships became awkward
 * `Q247V    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247V.html>`_ : Reason for leaving job (spouse, currently working): retirement or expiration of employment contract
 * `Q247Z    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q247Z.html>`_ : Reason for leaving job (spouse, currently working): wife’s pregnancy or childbirth
-* `Q248A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q248A.html>`_ : 雇用保険失業給付受給の有無（配偶者有職）〔第2～第17回〕
+* `Q248A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q248A.html>`_ : Receiving unemployment insurance benefits (spouse employed) [Wave2-17]
 * `Q248B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q248B.html>`_ : Number of months receiving unemployment insurance benefits (with spouse)
 * `Q249A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q249A.html>`_ : Coping with life at the time of employment separation (spouse employed): able to make ends meet on wife’s or parents’ income.
 * `Q249B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q249B.html>`_ : Coping with life when leaving a job (spouse employed): got a new job right away.
@@ -1096,7 +1096,7 @@ List of variables
 * `Q294D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294D.html>`_ : Monthly Expenditure: Savings (for spouse)
 * `Q294E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294E.html>`_ : Monthly Expenditure: Savings (for children)
 * `Q294F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q294F.html>`_ : Monthly expenses: savings (combined family savings)
-* `Q295     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q295.html>`_ : Monthly Expenditure: Loan Repayment
+* `Q295     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q295.html>`_ : Monthly Expenditure: loan repayment
 * `Q296A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q296A.html>`_ : Annual income: income from employer (spouse)
 * `Q296B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q296B.html>`_ : Annual income: Business income (spouse)
 * `Q296C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q296C.html>`_ : Annual income: Property (spouse)
@@ -1167,10 +1167,10 @@ List of variables
 * `Q312     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q312.html>`_ : Monthly Expenditure (unmarried): Amount given to parents
 * `Q313     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q313.html>`_ : Monthly Expenditure (no spouse): Did you receive an allowance?
 * `Q314     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q314.html>`_ : Monthly expenditure (unmarried): Amount of allowance
-* `Q315     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q315.html>`_ : Monthly Expenditure (unmarried): Total Expenditure
+* `Q315     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q315.html>`_ : Monthly Expenditure (unmarried): total Expenditure
 * `Q316     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q316.html>`_ : Monthly Expenditure (unmaried): Career Advancement
-* `Q317     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q317.html>`_ : Monthly Expenditure (unmarried): Saving
-* `Q318     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q318.html>`_ : Monthly Expenditures (unmarried): Total
+* `Q317     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q317.html>`_ : Monthly Expenditure (unmarried): saving
+* `Q318     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q318.html>`_ : Monthly Expenditures (unmarried): total
 * `Q319     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q319.html>`_ : 1年間の教育娯楽費
 * `Q320     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q320.html>`_ : 1年間の教育娯楽費
 * `Q322     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q322.html>`_ : Highest level of education(mother-in-law) [Wave 2]
@@ -1873,26 +1873,26 @@ List of variables
 * `Q850     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q850.html>`_ : 住居以外の不動産の購入価格
 * `Q853     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q853.html>`_ : 住居以外の不動産売却の有無
 * `Q854     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q854.html>`_ : 住居以外の不動産の売却価格
-* `Q855A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855A.html>`_ : 職歴　18歳
-* `Q855B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855B.html>`_ : 職歴　19歳
-* `Q855C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855C.html>`_ : 職歴　20歳
-* `Q855D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855D.html>`_ : 職歴　21歳
-* `Q855E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855E.html>`_ : 職歴　22歳
-* `Q855F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855F.html>`_ : 職歴　23歳
-* `Q855G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855G.html>`_ : 職歴　24歳
-* `Q855H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855H.html>`_ : 職歴　25歳
-* `Q855I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855I.html>`_ : 職歴　26歳
-* `Q855J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855J.html>`_ : 職歴　27歳
-* `Q855K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855K.html>`_ : 職歴　28歳
-* `Q855L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855L.html>`_ : 職歴　29歳
-* `Q855M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855M.html>`_ : 職歴　30歳
-* `Q855N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855N.html>`_ : 職歴　31歳
-* `Q855O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855O.html>`_ : 職歴　32歳
-* `Q855P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855P.html>`_ : 職歴　33歳
-* `Q855Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855Q.html>`_ : 職歴　34歳
-* `Q855R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855R.html>`_ : 職歴　35歳
-* `Q855S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855S.html>`_ : 職歴　36歳
-* `Q855T    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855T.html>`_ : 職歴　37歳
+* `Q855A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855A.html>`_ : Work history: 18 years old
+* `Q855B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855B.html>`_ : Work history: 19 years old
+* `Q855C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855C.html>`_ : Work history: 20 years old
+* `Q855D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855D.html>`_ : Work history: 21 years old
+* `Q855E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855E.html>`_ : Work history: 22 years old
+* `Q855F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855F.html>`_ : Work history: 23 years old
+* `Q855G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855G.html>`_ : Work history: 24 years old
+* `Q855H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855H.html>`_ : Work history: 25 years old
+* `Q855I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855I.html>`_ : Work history: 26 years old
+* `Q855J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855J.html>`_ : Work history: 27 years old
+* `Q855K    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855K.html>`_ : Work history: 28 years old
+* `Q855L    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855L.html>`_ : Work history: 29 years old
+* `Q855M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855M.html>`_ : Work history: 30 years old
+* `Q855N    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855N.html>`_ : Work history: 31 years old
+* `Q855O    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855O.html>`_ : Work history: 32 years old
+* `Q855P    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855P.html>`_ : Work history: 33 years old
+* `Q855Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855Q.html>`_ : Work history: 34 years old
+* `Q855R    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855R.html>`_ : Work history: 35 years old
+* `Q855S    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855S.html>`_ : Work history: 36 years old
+* `Q855T    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855T.html>`_ : Work history: 37 years old
 * `Q858     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q858.html>`_ : Educational achievement at the last school (father-in-law) [5th wave - ]
 * `Q859     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q859.html>`_ : Occpation [4th wave -]
 * `Q860     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q860.html>`_ : Occupation (spouse) [Wave 4 -]
@@ -1997,7 +1997,7 @@ List of variables
 * `Q1014_8  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_8.html>`_ : Family8: Marital status
 * `Q1014_9  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_9.html>`_ : Family9: Marital status
 * `Q1019    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1019.html>`_ : Use of child-care services
-* `Q1020    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1020.html>`_ : 前職の職業〔第5回～〕
+* `Q1020    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1020.html>`_ : Previous occupation [Wave5-]
 * `Q1021    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1021.html>`_ : 初職の職業〔第5回～〕
 * `Q1023    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1023.html>`_ : Educational achievement at the last school (father) [3th wave - ]
 * `Q1024    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1024.html>`_ : Educational achievement at the last school (mother) [3th wave - ]
@@ -2438,8 +2438,8 @@ List of variables
 * `Q1228B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1228B.html>`_ : 生前贈与：実物資産の有無（配偶者の親）
 * `Q1228C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1228C.html>`_ : 遺産相続：金融資産の有無（配偶者の親）
 * `Q1228D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1228D.html>`_ : 遺産相続：実物資産の有無（配偶者の親）
-* `Q1229    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1229.html>`_ : キャシュレス決済の利用状況：QRコード・バーコード
-* `Q1230    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1230.html>`_ : キャシュレス決済の利用状況：電子マネー・交通系電子マネー
+* `Q1229    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1229.html>`_ : Usage of cachless payment: QR codes and barcodes
+* `Q1230    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1230.html>`_ : Usage of cashless payment: e-money and prepaid transportation cards
 * `Q1231A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1231A.html>`_ : 夫婦での話し合い：家計の収支の状況について
 * `Q1231B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1231B.html>`_ : 夫婦での話し合い：家計の管理法や費用負担について
 * `Q1231C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1231C.html>`_ : 夫婦での話し合い：住宅や教育費、家族の生涯設計について
