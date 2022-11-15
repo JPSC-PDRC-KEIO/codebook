@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: 2022-07-12 12:00+0900\n"
+"PO-Revision-Date: 2022-11-07 10:35+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../variable/P76A.rst:5
 msgid "初職への従事期間　終了年"
-msgstr "Duration of engagement in first job End Year"
+msgstr "Duration of engagement in first job: end year"
 
 #: ../../variable/P76A.rst:9
 msgid "変数名"

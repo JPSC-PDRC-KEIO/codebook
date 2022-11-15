@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-11-14 15:12+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../variable/Q1230.rst:6
 msgid "キャシュレス決済の利用状況：電子マネー・交通系電子マネー"
-msgstr ""
+msgstr "Usage of cashless payment: e-money and prepaid transportation cards"
 
 #: ../../variable/Q1230.rst:11
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q1230.rst:21
 msgid "キャッシュレスサービスの利用状況について、お尋ねします。あなたは普段の買い物で、次のような決済方法をどの程度利用されていますか。（〇はそれぞれひとつだけ）"
-msgstr ""
+msgstr "We would like to ask you about your use of cashless services. How often do you use the following payment methods for your daily shopping? (circle only one for each)."
 
 #: ../../variable/Q1230.rst:24
 msgid "（2）電子マネー・交通系電子マネー（交通以外）/ID・楽天Edy・nanacoなど"
-msgstr ""
+msgstr "\(2) E-money and prepaid transportation cards (other than transportation)/ID, Rakuten Edy, nanaco, etc."
 
 #: ../../variable/Q1230.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,19 +49,19 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1230.rst:33
 msgid "毎回のように利用している"
-msgstr ""
+msgstr "I use it every time."
 
 #: ../../variable/Q1230.rst:34
 msgid "たまに利用している"
-msgstr ""
+msgstr "I use it occasionally."
 
 #: ../../variable/Q1230.rst:35
 msgid "アプリ（電子マネー）はもっているが、ほぼ利用しない"
-msgstr ""
+msgstr "I have an app (e-money), but I almost never use it."
 
 #: ../../variable/Q1230.rst:36
 msgid "アプリ（電子マネー）をもっていない"
-msgstr ""
+msgstr "I don't have an app (e-money)"
 
 #: ../../variable/Q1230.rst:44
 msgid "桁あふれコード"
@@ -74,8 +76,9 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q1230.rst:59
+#, fuzzy
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../variable/Q1230.rst:65
 msgid "備考"
@@ -92,79 +95,3 @@ msgstr ""
 #: ../../variable/Q1230.rst:80
 msgid "p28_2"
 msgstr ""
-
-#~ msgid "p2_1"
-#~ msgstr ""
-
-#~ msgid "p5a_1"
-#~ msgstr ""
-
-#~ msgid "p5b_1"
-#~ msgstr ""
-
-#~ msgid "p6_1"
-#~ msgstr ""
-
-#~ msgid "p7_1"
-#~ msgstr ""
-
-#~ msgid "p8_1"
-#~ msgstr ""
-
-#~ msgid "p9_1"
-#~ msgstr ""
-
-#~ msgid "p10_1"
-#~ msgstr ""
-
-#~ msgid "p12_1"
-#~ msgstr ""
-
-#~ msgid "p13_1"
-#~ msgstr ""
-
-#~ msgid "p14_1"
-#~ msgstr ""
-
-#~ msgid "p15_1"
-#~ msgstr ""
-
-#~ msgid "p16abc_1"
-#~ msgstr ""
-
-#~ msgid "p16d_1"
-#~ msgstr ""
-
-#~ msgid "p17_1"
-#~ msgstr ""
-
-#~ msgid "p18_1"
-#~ msgstr ""
-
-#~ msgid "p19_1"
-#~ msgstr ""
-
-#~ msgid "p20_1"
-#~ msgstr ""
-
-#~ msgid "p21abcd_1"
-#~ msgstr ""
-
-#~ msgid "p21e_1"
-#~ msgstr ""
-
-#~ msgid "p22_1"
-#~ msgstr ""
-
-#~ msgid "p23_1"
-#~ msgstr ""
-
-#~ msgid "p24_1"
-#~ msgstr ""
-
-#~ msgid "p25_1"
-#~ msgstr ""
-
-#~ msgid "p26_1"
-#~ msgstr ""
-

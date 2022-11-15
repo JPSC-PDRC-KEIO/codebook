@@ -9,17 +9,20 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-28 13:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-11-07 09:53+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../syugyo/gensyoku/gensyoku_kaisi.rst:3
 msgid "現職の勤務開始時期"
-msgstr ""
+msgstr "Start date of current position"
 
 #: ../../syugyo/gensyoku/gensyoku_kaisi.rst:1
 msgid "項目"
@@ -27,15 +30,15 @@ msgstr "Items"
 
 #: ../../syugyo/gensyoku/gensyoku_kaisi.rst:1
 msgid "年"
-msgstr ""
+msgstr "Year"
 
 #: ../../syugyo/gensyoku/gensyoku_kaisi.rst:1
 msgid "月"
-msgstr ""
+msgstr "Month"
 
 #: ../../syugyo/gensyoku/gensyoku_kaisi.rst:1
 msgid "現会社の勤務開始時期"
-msgstr ""
+msgstr "Start date of work at current company"
 
 #: ../../syugyo/gensyoku/gensyoku_kaisi.rst:1
 msgid ":doc:`P53A </variable/P53A>`"
@@ -47,7 +50,7 @@ msgstr ""
 
 #: ../../syugyo/gensyoku/gensyoku_kaisi.rst:1
 msgid "現職種の勤務開始時期"
-msgstr ""
+msgstr "Start date of current position"
 
 #: ../../syugyo/gensyoku/gensyoku_kaisi.rst:1
 msgid ":doc:`P55A </variable/P53A>`"
@@ -56,4 +59,3 @@ msgstr ""
 #: ../../syugyo/gensyoku/gensyoku_kaisi.rst:1
 msgid ":doc:`P55B </variable/P53B>`"
 msgstr ""
-

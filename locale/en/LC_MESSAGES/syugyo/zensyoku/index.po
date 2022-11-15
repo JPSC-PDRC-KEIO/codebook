@@ -9,19 +9,21 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-28 13:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-11-07 10:06+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../syugyo/zensyoku/index.rst:3
 msgid "前職についての質問"
-msgstr ""
+msgstr "Questions about previous work"
 
 #: ../../syugyo/zensyoku/index.rst:6
 msgid "初回調査時までに前職がある人が回答しています。"
-msgstr ""
-
+msgstr "Those who had a previous job by the time of the first survey responded to this question."

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: 2022-03-14 11:11+0900\n"
+"PO-Revision-Date: 2022-11-14 15:16+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../variable/Q295.rst:6
 msgid "支出月額：ローン返済"
-msgstr "Monthly Expenditure: Loan Repayment"
+msgstr "Monthly Expenditure: loan repayment"
 
 #: ../../variable/Q295.rst:11
 msgid "変数名"

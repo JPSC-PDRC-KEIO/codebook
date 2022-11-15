@@ -9,21 +9,23 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-19 21:54+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-11-14 10:58+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:3
 msgid "支出月額（無配偶）"
-msgstr ""
+msgstr "Monthly Expenditures (unmarried)"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:6
 msgid "親と本人との金銭のやり取り"
-msgstr ""
+msgstr "Money exchange between your parents and you"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "項目"
@@ -35,7 +37,7 @@ msgstr "Variable name"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "本人から親へ"
-msgstr ""
+msgstr "From you to your parents"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q311 </variable/Q311>`"
@@ -43,7 +45,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "金額"
-msgstr ""
+msgstr "Amount of money"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q312 </variable/Q312>`"
@@ -51,7 +53,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "親から本人へ"
-msgstr ""
+msgstr "From your parents to you"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q313 </variable/Q313>`"
@@ -63,27 +65,31 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:18
 msgid "本人の支出細目"
-msgstr ""
+msgstr "Your expenditure details"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:21
 msgid "質問文"
 msgstr "Question"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:22
-msgid "この9月に、あなたの財布から（親に渡した分を除く）、どのように支出なさいましたか。（現金を支払ったものの他、クレジット・ローンで購入したもの、銀行・郵便局（ゆうちょ銀行）から自動的に引き落とした分も含みます）。支出がなかったものについては0と記入して下さい。"
+msgid ""
+"この9月に、あなたの財布から（親に渡した分を除く）、どのように支出なさいましたか。（現金を支払ったものの他、クレジット・ローンで購入し"
+"たもの、銀行・郵便局（ゆうちょ銀行）から自動的に引き落とした分も含みます）。支出がなかったものについては0と記入して下さい。"
 msgstr ""
+"How did you spend your money last September (excluding the money you gave to your parents)? (Include purchases made on credit, loans, "
+"and automatic withdrawals from banks and post offices (Japan Post Bank) in addition to those paid in cash."
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:26
 msgid "各細目の記入欄は10万円の位までですが、生活費合計だけ百万円の位まで記入欄を設けています。"
-msgstr ""
+msgstr "The columns for each item are limited to 100,000 yen, but the column for total living expenses is limited to 1,000,000 yen."
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "変数"
-msgstr ""
+msgstr "Variable"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "食料（外食・給食代も含みます）"
-msgstr ""
+msgstr "Food (includes meals out and school lunches)"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q879A </variable/Q879A>`"
@@ -91,7 +97,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "家賃・地代・住宅の修繕（住宅ローンは含みません）"
-msgstr ""
+msgstr "Rent, land rent, and home repairs (not including mortgages)"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q879B </variable/Q879B>`"
@@ -99,7 +105,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "電気・ガス・水道（上・下）"
-msgstr ""
+msgstr "Electricity, gas, water and sewerage"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q879C </variable/Q879C>`"
@@ -107,7 +113,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "家具・家事用品（寝具はこちらに含みます）"
-msgstr ""
+msgstr "Furniture and housewares (including bedding)"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q879D </variable/Q879D>`"
@@ -115,7 +121,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "衣類・履物"
-msgstr ""
+msgstr "Clothing and footwear"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q879E </variable/Q879E>`"
@@ -123,7 +129,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "保険医療（栄養ドリンク・健康食品も含みます）"
-msgstr ""
+msgstr "Health care (including nutritional drinks and health foods)"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q879F </variable/Q879F>`"
@@ -131,7 +137,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "交通（自動車購入費用・ガソリン代・定期代なども含みます）"
-msgstr ""
+msgstr "Transportation (including the cost of purchasing a car, gasoline, and commuter passes)"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q879G </variable/Q879G>`"
@@ -139,7 +145,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "通信（郵便・電話代・インターネットなど）"
-msgstr ""
+msgstr "Communication (cost of postage, telephone, internet, etc.)"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q879H </variable/Q879H>`"
@@ -147,7 +153,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "教育（授業料・受験や補習用の塾・教科書・参考書など）"
-msgstr ""
+msgstr "Education (tuition, cram school fees for examinations and supplementary studies, textbooks, reference books, etc.)"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q879I </variable/Q879I>`"
@@ -156,6 +162,8 @@ msgstr ""
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "教養・娯楽（受験・補習塾以外の習い事。教養・娯楽用の耐久消費財はこちらに含みます）"
 msgstr ""
+"Culture and recreation (including lessons other than cram schools for entrance examinations and supplementary education, and durable "
+"goods for culture and recreation)"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q879J </variable/Q879J>`"
@@ -163,7 +171,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "交際"
-msgstr ""
+msgstr "Entertainment"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q879K </variable/Q879K>`"
@@ -171,7 +179,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "家族への小遣い"
-msgstr ""
+msgstr "Allowance for family"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q879L </variable/Q879L>`"
@@ -179,7 +187,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "その他支出"
-msgstr ""
+msgstr "Other expenses"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q879M </variable/Q879M>`"
@@ -187,14 +195,13 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:49
 msgid ""
-"第2～5回では、「教育娯楽」の変数名は :doc:`Q319 </variable/Q319>` 、「交際」の変数名は :doc:`Q320 "
-"</variable/Q320>` でした。また、「キャリアアップのための支出（資格取得や職業のため）」（ :doc:`Q316 "
-"</variable/Q316>`）を聞いています。"
+"第2～5回では、「教育娯楽」の変数名は :doc:`Q319 </variable/Q319>` 、「交際」の変数名は :doc:`Q320 </variable/Q320>` でした。また、"
+"「キャリアアップのための支出（資格取得や職業のため）」（ :doc:`Q316 </variable/Q316>`）を聞いています。"
 msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "支出計"
-msgstr ""
+msgstr "Total Expenditure"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q315 </variable/Q315>`"
@@ -202,7 +209,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "貯蓄"
-msgstr ""
+msgstr "Saving"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q317 </variable/Q317>`"
@@ -210,7 +217,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "ローンの返済"
-msgstr ""
+msgstr "Loan repayment"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q295 </variable/Q295>`"
@@ -218,7 +225,7 @@ msgstr ""
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid "総額"
-msgstr ""
+msgstr "Total"
 
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:1
 msgid ":doc:`Q318 </variable/Q318>`"
@@ -227,4 +234,4 @@ msgstr ""
 #: ../../kakei/sisyutsu_getsugaku_mu.rst:62
 msgid "第7回には、合計額のうち地域振興券を使用した額（ :doc:`Q887 </variable/Q887>` ）も聞いています。"
 msgstr ""
-
+"In Wave7, of the total amount, we also ask about the total sum of regional promotion coupons used ( :doc:`Q887 </variable/Q887>` )."
