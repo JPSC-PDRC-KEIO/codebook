@@ -1067,20 +1067,20 @@ List of variables
 * `Q269D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q269D.html>`_ : Job search (spouse unemployed): it’s time to get some job training.
 * `Q269E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q269E.html>`_ : Job search (spouse unemployed): only vaguely considered
 * `Q270     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q270.html>`_ : Months of job search (spouse)
-* `Q271     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q271.html>`_ : 収入管理タイプ2：配偶者は収入を渡したか
+* `Q271     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q271.html>`_ : Income management type 2: did your spouse hand over income to you?
 * `Q272     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q272.html>`_ : 収入管理タイプ3：本人のこづかいを分けたか
-* `Q273     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q273.html>`_ : 収入管理タイプ5：本人のこづかいを分けたか
-* `Q274     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q274.html>`_ : 収入管理タイプ6：本人のこづかいを残したか
-* `Q275     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q275.html>`_ : 収入管理タイプ7：本人のこづかいをもらったか
-* `Q276     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q276.html>`_ : 収入管理タイプ10：生活費拠出（配偶者）
-* `Q277     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q277.html>`_ : 収入管理タイプ10：生活費拠出
-* `Q278     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q278.html>`_ : 収入管理タイプ11：配偶者は収入を渡したか
-* `Q279     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q279.html>`_ : 収入管理タイプ12：収入を一緒にしたか
+* `Q273     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q273.html>`_ : Income management type 5: did he separate your allowance from that?
+* `Q274     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q274.html>`_ : Income management type 6: did you leave an allowance?
+* `Q275     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q275.html>`_ : Income management type 7: Did you receive your own allowance?
+* `Q276     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q276.html>`_ : Income management type 10: cost-of-living contribution (spouse)
+* `Q277     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q277.html>`_ : Income management type 10: cost-of-living contribution (spouse)
+* `Q278     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q278.html>`_ : Income management type 11: did spouse hand over income to you?
+* `Q279     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q279.html>`_ : Income management type 12: did you combine your income with your husband’s?
 * `Q280     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q280.html>`_ : 収入管理タイプ14：本人のこづかいを分けたか
-* `Q281     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q281.html>`_ : 収入管理タイプ16：収入を一緒にしたか
+* `Q281     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q281.html>`_ : Income management type 16: did you combine your income with your husband’s?
 * `Q281B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q281B.html>`_ : Months of receiving unemployment insurance benefits (spouse unemployed) [Wave18 -]
 * `Q282     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q282.html>`_ : 収入管理タイプ18：本人のこづかいを分けたか
-* `Q284     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q284.html>`_ : 収入管理タイプ4・5・15・16・17・18：配偶者のこづかい
+* `Q284     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q284.html>`_ : Income management types 4, 5, 15, 16, 17, and 18: spouse’s allowance
 * `Q291     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q291.html>`_ : Do you like to manage the family budget?
 * `Q292     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q292.html>`_ : Is household budget management a right or a duty?
 * `Q293A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q293A.html>`_ : Monthly expenditures: Living expenses and other expenditures
@@ -1171,7 +1171,7 @@ List of variables
 * `Q316     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q316.html>`_ : Monthly Expenditure (unmaried): Career Advancement
 * `Q317     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q317.html>`_ : Monthly Expenditure (unmarried): saving
 * `Q318     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q318.html>`_ : Monthly Expenditures (unmarried): total
-* `Q319     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q319.html>`_ : 1年間の教育娯楽費
+* `Q319     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q319.html>`_ : Education and entertainment expenses per year
 * `Q320     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q320.html>`_ : 1年間の教育娯楽費
 * `Q322     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q322.html>`_ : Highest level of education(mother-in-law) [Wave 2]
 * `Q323     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q323.html>`_ : Annual income of your parents
@@ -1443,21 +1443,21 @@ List of variables
 * `Q443F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q443F.html>`_ : クレジットカード利用の制約条件（義親名義）：利用する店などを決めている
 * `Q443G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q443G.html>`_ : クレジットカード利用の制約条件（義親名義）：その他
 * `Q443H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q443H.html>`_ : クレジットカード利用の制約条件（義親名義）：特に制約はない
-* `Q444AB   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q444AB.html>`_ : 耐久消費財（保有）：パソコン
-* `Q444AF   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q444AF.html>`_ : 耐久消費財（保有）：衣類乾燥機能付き洗たく機
-* `Q444AG   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q444AG.html>`_ : 耐久消費財（保有））：携帯電話・スマートフォン
-* `Q444F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q444F.html>`_ : 耐久消費財（保有）：自動食器洗い機
-* `Q444M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q444M.html>`_ : 耐久消費財（保有）：ルームエアコン
-* `Q444Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q444Q.html>`_ : 耐久消費財（保有）：カラーテレビ
-* `Q444X    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q444X.html>`_ : 耐久消費財（保有）：乗用車
-* `Q450A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q450A.html>`_ : 耐久消費財（購入）：自動食器洗い器
-* `Q450B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q450B.html>`_ : 耐久消費財（購入金額）：自動食器洗い器
-* `Q457A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q457A.html>`_ : 耐久消費財（購入）：ルームエアコン
+* `Q444AB   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q444AB.html>`_ : Durable consumer goods (owned): personal computers
+* `Q444AF   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q444AF.html>`_ : Durable consumer goods (owned): washing machine with dryer
+* `Q444AG   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q444AG.html>`_ : Durable consumer goods (owned): cell phones and smartphones
+* `Q444F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q444F.html>`_ : Durable consumer goods (owned): automatic dishwashers
+* `Q444M    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q444M.html>`_ : Durable consumer goods (owned): room air conditioners
+* `Q444Q    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q444Q.html>`_ : Durable consumer goods (owned): color TVs
+* `Q444X    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q444X.html>`_ : Durable consumer property (retention) : passenger cars
+* `Q450A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q450A.html>`_ : Durable consumer goods (purchased): automatic dishwashers
+* `Q450B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q450B.html>`_ : Durable consumer goods (purchased): automatic dishwashers
+* `Q457A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q457A.html>`_ : Durable consumer goods (purchased): room air conditioners
 * `Q457B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q457B.html>`_ : ルームエアコン　購入費用
 * `Q461A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q461A.html>`_ : 耐久消費財（購入）：カラーテレビ
-* `Q461B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q461B.html>`_ : 耐久消費財（購入金額）：カラーテレビ
-* `Q468A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q468A.html>`_ : 耐久消費財（購入）：乗用車
-* `Q468B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q468B.html>`_ : 耐久消費財（購入金額）：乗用車
+* `Q461B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q461B.html>`_ : Durable consumer goods (purchase price): color TVs
+* `Q468A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q468A.html>`_ : Durable consumer goods (purchased): passenger cars
+* `Q468B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q468B.html>`_ : Durable consumer goods (purchase price): passenger cars
 * `Q493AH   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q493AH.html>`_ : Time spending per day: For commuting / hours (workday)
 * `Q493AM   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q493AM.html>`_ : Time spending per day: For commuting / minutes (workday)
 * `Q493BH   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q493BH.html>`_ : Time spending per day: For work / hours (workday)
@@ -1857,8 +1857,8 @@ List of variables
 * `Q808F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808F.html>`_ : 事業用資金：借入先理由3
 * `Q808G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808G.html>`_ : 事業用資金：借入残高
 * `Q808H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808H.html>`_ : 事業用資金：返済額
-* `Q813A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q813A.html>`_ : 耐久消費財（購入）：パソコン
-* `Q813B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q813B.html>`_ : 耐久消費財（購入金額）：パソコン
+* `Q813A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q813A.html>`_ : Durable consumer goods (purchased): personal computers
+* `Q813B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q813B.html>`_ : Durable consumer goods (purchase price): personal computers
 * `Q836     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q836.html>`_ : 住宅購入の有無
 * `Q839     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q839.html>`_ : Educational achievement at the last school (mother-in-law) [5th wave - ]
 * `Q841     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q841.html>`_ : 住宅売却の有無
@@ -1998,7 +1998,7 @@ List of variables
 * `Q1014_9  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_9.html>`_ : Family9: Marital status
 * `Q1019    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1019.html>`_ : Use of child-care services
 * `Q1020    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1020.html>`_ : Previous occupation [Wave5-]
-* `Q1021    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1021.html>`_ : 初職の職業〔第5回～〕
+* `Q1021    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1021.html>`_ : First occupation [Wave5-]
 * `Q1023    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1023.html>`_ : Educational achievement at the last school (father) [3th wave - ]
 * `Q1024    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1024.html>`_ : Educational achievement at the last school (mother) [3th wave - ]
 * `Q1025    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1025.html>`_ : Working status [1st wave]
@@ -2160,16 +2160,16 @@ List of variables
 * `Q1123    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1123.html>`_ : Change of workplace (spouse employed)
 * `Q1124    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1124.html>`_ : Change of dispatch destination (spouse unemployed)
 * `Q1125    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1125.html>`_ : Receiving unemployment insurance benefits (spouse unemployed) [Wave18 -]
-* `Q1126    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1126.html>`_ : ペットの有無
-* `Q1127A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127A.html>`_ : ペットの種類：犬(室外で)
-* `Q1127B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127B.html>`_ : ペットの種類：犬（室内で）
-* `Q1127C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127C.html>`_ : ペットの種類：猫
-* `Q1127D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127D.html>`_ : ペットの種類：小型の哺乳類
-* `Q1127E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127E.html>`_ : ペットの種類：鳥類
-* `Q1127F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127F.html>`_ : ペットの種類：魚類
-* `Q1127G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127G.html>`_ : ペットの種類：両生類、爬虫類
-* `Q1127H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127H.html>`_ : ペットの種類：昆虫類
-* `Q1127I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127I.html>`_ : ペットの種類：その他
+* `Q1126    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1126.html>`_ : Pets
+* `Q1127A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127A.html>`_ : Type of pets: dogs (outdoors)
+* `Q1127B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127B.html>`_ : Type of pets: Dogs (indoors)
+* `Q1127C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127C.html>`_ : Type of pets: cats
+* `Q1127D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127D.html>`_ : Type of pets: small mammals
+* `Q1127E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127E.html>`_ : Type of pets: birds
+* `Q1127F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127F.html>`_ : Type of pets: fish
+* `Q1127G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127G.html>`_ : Type of pets: amphibians or reptiles
+* `Q1127H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127H.html>`_ : Type of pets: insects
+* `Q1127I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1127I.html>`_ : Type of pets: other
 * `Q1128    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1128.html>`_ : 喫煙習慣の有無
 * `Q1129    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1129.html>`_ : 喫煙本数平均
 * `Q1130    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1130.html>`_ : 喫煙開始年齢
@@ -2204,10 +2204,10 @@ List of variables
 * `Q1140F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1140F.html>`_ : 子どもの教育関係費用（第4子以降）：学校以外の学習費
 * `Q1140G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1140G.html>`_ : 子どもの教育関係費用（第4子以降）：お稽古事・習い事
 * `Q1140H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1140H.html>`_ : 子どもの教育関係費用（第4子以降）：自宅外の仕送り
-* `Q1146A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1146A.html>`_ : 耐久消費財（購入）：衣類乾燥機能付き洗たく機
-* `Q1146B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1146B.html>`_ : 耐久消費財（購入金額）：衣類乾燥機能付き洗たく機
-* `Q1147    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1147.html>`_ : 耐久消費財（利用料） 携帯電話・スマートフォン
-* `Q1148    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1148.html>`_ : ペット費用
+* `Q1146A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1146A.html>`_ : Durable consumer goods (purchased): washing machine with dryer
+* `Q1146B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1146B.html>`_ : Durable consumer goods (purchased): washing machine with dryer
+* `Q1147    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1147.html>`_ : Durable consumer goods (usage fees): mobile phones and smartphones
+* `Q1148    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1148.html>`_ : Pet expenses
 * `Q1149    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1149.html>`_ : 次の住まいの計画の有無
 * `Q1150    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1150.html>`_ : 次の住まいの計画：実現時期
 * `Q1151    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1151.html>`_ : 次の住まいの計画：住居形態
