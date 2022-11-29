@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-11-28 15:13+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../variable/Q1147.rst:6
 msgid "耐久消費財（利用料） 携帯電話・スマートフォン"
-msgstr ""
+msgstr "Durable consumer goods (usage fees): mobile phones and smartphones"
 
 #: ../../variable/Q1147.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q1147.rst:21
 msgid "通信、そのほかのサービスを含めた9月の利用料金はいくらですか。"
-msgstr ""
+msgstr "What are the charges for September, including communications and other services?"
 
 #: ../../variable/Q1147.rst:28
 msgid "選択肢 / 記入欄"
@@ -50,8 +52,9 @@ msgid "桁あふれコード"
 msgstr "Overflow code"
 
 #: ../../variable/Q1147.rst:38
+#, fuzzy
 msgid "98"
-msgstr ""
+msgstr "98"
 
 #: ../../variable/Q1147.rst:44
 msgid "分類不能の回答コード"
@@ -62,8 +65,9 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q1147.rst:52
+#, fuzzy
 msgid "99"
-msgstr ""
+msgstr "99"
 
 #: ../../variable/Q1147.rst:58
 msgid "備考"
@@ -122,4 +126,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-11-28 15:07+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../variable/Q813A.rst:6
 msgid "耐久消費財（購入）：パソコン"
-msgstr ""
+msgstr "Durable consumer goods (purchased): personal computers"
 
 #: ../../variable/Q813A.rst:11
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q813A.rst:21
 msgid "また、この1年間に購入した方は、その購入台数と購入金額を記入してください。（2台以上購入した場合は、合計金額を記入してください）"
-msgstr ""
+msgstr "If you have purchased any units during the past year, please indicate the number of units purchased and the amount of the purchases. (If you purchased more than one unit, please enter the total amount)"
 
 #: ../../variable/Q813A.rst:24
 msgid "パソコン"
-msgstr ""
+msgstr "Personal computer"
 
 #: ../../variable/Q813A.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,15 +49,16 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q813A.rst:33
 msgid "＿＿台"
-msgstr ""
+msgstr "____ units"
 
 #: ../../variable/Q813A.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
 #: ../../variable/Q813A.rst:41
+#, fuzzy
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: ../../variable/Q813A.rst:47
 msgid "分類不能の回答コード"
@@ -66,8 +69,9 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q813A.rst:55
+#, fuzzy
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: ../../variable/Q813A.rst:61
 msgid "備考"
@@ -158,4 +162,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

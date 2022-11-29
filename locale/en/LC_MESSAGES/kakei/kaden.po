@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-28 14:33+0900\n"
-"PO-Revision-Date: 2020-01-28 19:43+0900\n"
+"PO-Revision-Date: 2022-11-28 13:50+0900\n"
 "Last-Translator: \n"
-"Language: en\n"
 "Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../kakei/kaden.rst:3
 msgid "耐久消費財"
@@ -29,15 +30,15 @@ msgstr "Question"
 
 #: ../../kakei/kaden.rst:8
 msgid "現在、あなた方ご夫婦は次のものをいくつ保有していますか。その台数を記入してください。持っていない場合は、0を ご記入ください。"
-msgstr ""
+msgstr "How many of the following do you and your spouse currently own? Please fill in the number. If you do not have any, please fill in 0."
 
 #: ../../kakei/kaden.rst:10
 msgid "また、この1年間に購入した方は、その購入台数と購入金額を記入してください。（2台以上購入した場合は、合計金額を記入してください）"
-msgstr ""
+msgstr "If you have purchased any units during the past year, please indicate the number of units purchased and the amount of the purchases. (If you purchased more than one unit, please enter the total amount)"
 
 #: ../../kakei/kaden.rst:13
 msgid "選択肢"
-msgstr ""
+msgstr "Select"
 
 #: ../../kakei/kaden.rst:1
 msgid "項目"
@@ -45,19 +46,19 @@ msgstr "Items"
 
 #: ../../kakei/kaden.rst:1
 msgid "現在の保有台数"
-msgstr ""
+msgstr "Number of units currently owned"
 
 #: ../../kakei/kaden.rst:1
 msgid "そのうちこの1年間に購入した台数"
-msgstr ""
+msgstr "Number of those units purchased in the past year"
 
 #: ../../kakei/kaden.rst:1
 msgid "その購入金額"
-msgstr ""
+msgstr "The amount of that purchase"
 
 #: ../../kakei/kaden.rst:1
 msgid "自動食器洗い機"
-msgstr ""
+msgstr "Automatic dishwasher"
 
 #: ../../kakei/kaden.rst:1
 msgid ":doc:`Q444F</variable/Q444F>`"
@@ -73,7 +74,7 @@ msgstr ""
 
 #: ../../kakei/kaden.rst:1
 msgid "衣類乾燥機付き洗たく機"
-msgstr ""
+msgstr "Washing machine with dryer"
 
 #: ../../kakei/kaden.rst:1
 msgid ":doc:`Q444AF</variable/Q444AF>`"
@@ -89,7 +90,7 @@ msgstr ""
 
 #: ../../kakei/kaden.rst:1
 msgid "ルームエアコン"
-msgstr ""
+msgstr "Room air-conditioner"
 
 #: ../../kakei/kaden.rst:1
 msgid ":doc:`Q444M</variable/Q444M>`"
@@ -105,7 +106,7 @@ msgstr ""
 
 #: ../../kakei/kaden.rst:1
 msgid "カラーテレビ"
-msgstr ""
+msgstr "Color TV"
 
 #: ../../kakei/kaden.rst:1
 msgid ":doc:`Q444Q</variable/Q444Q>`"
@@ -121,7 +122,7 @@ msgstr ""
 
 #: ../../kakei/kaden.rst:1
 msgid "パソコン"
-msgstr ""
+msgstr "Personal computer"
 
 #: ../../kakei/kaden.rst:1
 msgid ":doc:`Q444AB</variable/Q444AB>`"
@@ -137,7 +138,7 @@ msgstr ""
 
 #: ../../kakei/kaden.rst:1
 msgid "乗用車"
-msgstr ""
+msgstr "Passenger vehicle"
 
 #: ../../kakei/kaden.rst:1
 msgid ":doc:`Q444X</variable/Q444X>`"
@@ -153,15 +154,15 @@ msgstr ""
 
 #: ../../kakei/kaden.rst
 msgid "9月の利用料（通信、その他の"
-msgstr ""
+msgstr "September usage fees"
 
 #: ../../kakei/kaden.rst
 msgid "サービスを含めた料金）"
-msgstr ""
+msgstr "(including telecommunications and other services)"
 
 #: ../../kakei/kaden.rst:1
 msgid "携帯電話・スマートフォン （ご家族全員分の台数）"
-msgstr ""
+msgstr "Mobile phones/smart phones (number of phones for all family members)"
 
 #: ../../kakei/kaden.rst:1
 msgid ":doc:`Q444AG</variable/Q444AG>`"
@@ -170,7 +171,3 @@ msgstr ""
 #: ../../kakei/kaden.rst:1
 msgid ":doc:`Q1147</variable/Q1147>`"
 msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-

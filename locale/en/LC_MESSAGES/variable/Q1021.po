@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-11-28 13:48+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../variable/Q1021.rst:5
 msgid "初職の職業〔第5回～〕"
-msgstr ""
+msgstr "First occupation [Wave5-]"
 
 #: ../../variable/Q1021.rst:9
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q1021.rst:18
 msgid "あなたがはじめてついた職業は何ですか。具体的にご記入のうえ、〇をつけてください。お手数ですが、自営・自由業の方も会社にお勤めの方も「〇〇を作っている」、「〇〇を売っている」、「スーパーのレジ係」、「トラックの運転手」など職業の内容を具体的にお書き下さい。（〇は一つだけ）"
-msgstr ""
+msgstr "What was your first job? Please be specific and circle only one. Please be specific about your occupation, whether you were self-employed or working for a company, such as \"making ○\", \"selling ○\", \"working as a cashier at a supermarket\", \"driving a truck\", etc."
 
 #: ../../variable/Q1021.rst:24
 msgid "選択肢 / 記入欄"
@@ -43,55 +45,55 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1021.rst:27
 msgid "農林漁業（自営者）"
-msgstr ""
+msgstr "Agriculture, forestry and fishing (self-employed)"
 
 #: ../../variable/Q1021.rst:29
 msgid "農林漁業（家族従業者）"
-msgstr ""
+msgstr "Agriculture, forestry and fishing (family employees)"
 
 #: ../../variable/Q1021.rst:31
 msgid "小規模〔9人以下〕の商業・工業・サービス業（自営者）"
-msgstr ""
+msgstr "Small company [less than 9 employees] commercial, industrial, and service businesses (self-employed)"
 
 #: ../../variable/Q1021.rst:33
 msgid "小規模〔9人以下〕の商業・工業・サービス業（家族従業者）"
-msgstr ""
+msgstr "Small company [less than 9 employees] commercial, industrial, and service industries (family employees)"
 
 #: ../../variable/Q1021.rst:35
 msgid "自由業"
-msgstr ""
+msgstr "Free lance"
 
 #: ../../variable/Q1021.rst:37
 msgid "管理職"
-msgstr ""
+msgstr "Management"
 
 #: ../../variable/Q1021.rst:39
 msgid "専門職"
-msgstr ""
+msgstr "Profession"
 
 #: ../../variable/Q1021.rst:41
 msgid "技術職"
-msgstr ""
+msgstr "Engineering"
 
 #: ../../variable/Q1021.rst:43
 msgid "教員"
-msgstr ""
+msgstr "Teaching staff"
 
 #: ../../variable/Q1021.rst:45
 msgid "事務職"
-msgstr ""
+msgstr "Clerical work"
 
 #: ../../variable/Q1021.rst:47
 msgid "技能・作業職"
-msgstr ""
+msgstr "Technical and manufacturing jobs"
 
 #: ../../variable/Q1021.rst:49
 msgid "販売サービス職"
-msgstr ""
+msgstr "Sales and Service"
 
 #: ../../variable/Q1021.rst:51
 msgid "自宅で賃仕事"
-msgstr ""
+msgstr "Work from home"
 
 #: ../../variable/Q1021.rst:58
 msgid "桁あふれコード"
@@ -110,8 +112,9 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q1021.rst:71
+#, fuzzy
 msgid "15"
-msgstr ""
+msgstr "15"
 
 #: ../../variable/Q1021.rst:76
 msgid "備考"
@@ -122,24 +125,27 @@ msgid "収録シート"
 msgstr "Data files (csv)"
 
 #: ../../variable/Q1021.rst:87
+#, fuzzy
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #: ../../variable/Q1021.rst:89
+#, fuzzy
 msgid "p11c_1"
-msgstr ""
+msgstr "p11c_1"
 
 #: ../../variable/Q1021.rst:91
+#, fuzzy
 msgid "p16d_1"
-msgstr ""
+msgstr "p16d_1"
 
 #: ../../variable/Q1021.rst:93
+#, fuzzy
 msgid "p21e_1"
-msgstr ""
+msgstr "p21e_1"
 
 #~ msgid "変数名: Q1021"
 #~ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

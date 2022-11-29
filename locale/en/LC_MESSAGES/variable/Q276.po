@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-11-29 11:43+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #: ../../variable/Q276.rst:6
 msgid "収入管理タイプ10：生活費拠出（配偶者）"
-msgstr ""
+msgstr "Income management type 10: cost-of-living contribution (spouse)"
 
 #: ../../variable/Q276.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q276.rst:21
 msgid "光熱費・子どもの教育費など夫以外の家族のための生活費を夫の収入からいくら支出しましたか"
-msgstr ""
+msgstr "How much did you spend from your husband's income on living expenses for family members other than your husband, such as utilities and children's education?"
 
 #: ../../variable/Q276.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,15 +45,16 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q276.rst:30
 msgid "＿ ＿ 万 ＿ ＿ 千円"
-msgstr ""
+msgstr "_ , _ _ _ , 000 yen"
 
 #: ../../variable/Q276.rst:37
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
 #: ../../variable/Q276.rst:38
+#, fuzzy
 msgid "998"
-msgstr ""
+msgstr "998"
 
 #: ../../variable/Q276.rst:44
 msgid "分類不能の回答コード"
@@ -62,8 +65,9 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q276.rst:52
+#, fuzzy
 msgid "999"
-msgstr ""
+msgstr "999"
 
 #: ../../variable/Q276.rst:58
 msgid "備考"
@@ -74,128 +78,159 @@ msgid "収録シート"
 msgstr "Data files (csv)"
 
 #: ../../variable/Q276.rst:71
+#, fuzzy
 msgid "p1_1"
-msgstr ""
+msgstr "p1_1"
 
 #: ../../variable/Q276.rst:73
+#, fuzzy
 msgid "p2_1"
-msgstr ""
+msgstr "p2_1"
 
 #: ../../variable/Q276.rst:75
+#, fuzzy
 msgid "p3_1"
-msgstr ""
+msgstr "p3_1"
 
 #: ../../variable/Q276.rst:77
+#, fuzzy
 msgid "p4_1"
-msgstr ""
+msgstr "p4_1"
 
 #: ../../variable/Q276.rst:79
+#, fuzzy
 msgid "p5a_1"
-msgstr ""
+msgstr "p5a_1"
 
 #: ../../variable/Q276.rst:81
+#, fuzzy
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #: ../../variable/Q276.rst:83
+#, fuzzy
 msgid "p6_1"
-msgstr ""
+msgstr "p6_1"
 
 #: ../../variable/Q276.rst:85
+#, fuzzy
 msgid "p7_1"
-msgstr ""
+msgstr "p7_1"
 
 #: ../../variable/Q276.rst:87
+#, fuzzy
 msgid "p8_1"
-msgstr ""
+msgstr "p8_1"
 
 #: ../../variable/Q276.rst:89
+#, fuzzy
 msgid "p9_1"
-msgstr ""
+msgstr "p9_1"
 
 #: ../../variable/Q276.rst:91
+#, fuzzy
 msgid "p10_1"
-msgstr ""
+msgstr "p10_1"
 
 #: ../../variable/Q276.rst:93
+#, fuzzy
 msgid "p11ab_1"
-msgstr ""
+msgstr "p11ab_1"
 
 #: ../../variable/Q276.rst:95
+#, fuzzy
 msgid "p11c_1"
-msgstr ""
+msgstr "p11c_1"
 
 #: ../../variable/Q276.rst:97
+#, fuzzy
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: ../../variable/Q276.rst:99
+#, fuzzy
 msgid "p13_1"
-msgstr ""
+msgstr "p13_1"
 
 #: ../../variable/Q276.rst:101
+#, fuzzy
 msgid "p14_1"
-msgstr ""
+msgstr "p14_1"
 
 #: ../../variable/Q276.rst:103
+#, fuzzy
 msgid "p15_1"
-msgstr ""
+msgstr "p15_1"
 
 #: ../../variable/Q276.rst:105
+#, fuzzy
 msgid "p16abc_1"
-msgstr ""
+msgstr "p16abc_1"
 
 #: ../../variable/Q276.rst:107
+#, fuzzy
 msgid "p16d_1"
-msgstr ""
+msgstr "p16d_1"
 
 #: ../../variable/Q276.rst:109
+#, fuzzy
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: ../../variable/Q276.rst:111
+#, fuzzy
 msgid "p18_1"
-msgstr ""
+msgstr "p18_1"
 
 #: ../../variable/Q276.rst:113
+#, fuzzy
 msgid "p19_1"
-msgstr ""
+msgstr "p19_1"
 
 #: ../../variable/Q276.rst:115
+#, fuzzy
 msgid "p20_1"
-msgstr ""
+msgstr "p20_1"
 
 #: ../../variable/Q276.rst:117
+#, fuzzy
 msgid "p21abcd_1"
-msgstr ""
+msgstr "p21abcd_1"
 
 #: ../../variable/Q276.rst:119
+#, fuzzy
 msgid "p21e_1"
-msgstr ""
+msgstr "p21e_1"
 
 #: ../../variable/Q276.rst:121
+#, fuzzy
 msgid "p22_1"
-msgstr ""
+msgstr "p22_1"
 
 #: ../../variable/Q276.rst:123
+#, fuzzy
 msgid "p23_1"
-msgstr ""
+msgstr "p23_1"
 
 #: ../../variable/Q276.rst:125
+#, fuzzy
 msgid "p24_1"
-msgstr ""
+msgstr "p24_1"
 
 #: ../../variable/Q276.rst:127
+#, fuzzy
 msgid "p25_1"
-msgstr ""
+msgstr "p25_1"
 
 #: ../../variable/Q276.rst:129
+#, fuzzy
 msgid "p26_1"
-msgstr ""
+msgstr "p26_1"
 
 #: ../../variable/Q276.rst:131
+#, fuzzy
 msgid "p27_1"
-msgstr ""
+msgstr "p27_1"
 
 #: ../../variable/Q276.rst:133
 msgid "p28_1"
@@ -206,4 +241,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
