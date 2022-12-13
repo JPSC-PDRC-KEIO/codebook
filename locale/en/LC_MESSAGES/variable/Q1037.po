@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-12-05 14:56+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q1037.rst:6
 msgid "使用している部屋数（持ち家）"
-msgstr ""
+msgstr "Number of rooms used (owner-occupied)"
 
 #: ../../variable/Q1037.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q1037.rst:21
 msgid "使用している部屋（居住室）の数はいくつですか。ダイニングキッチンは居住室に含めます。ただし、流しなどの部分を除いた広さが3畳にみたない場合は含めません。"
-msgstr ""
+msgstr "How many rooms (living rooms) do you occupy? Dining room and kitchen are included in the rooms. However, if the size is less than 3 tatami mats excluding the sink, etc., it is not included."
 
 #: ../../variable/Q1037.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,15 +45,16 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1037.rst:30
 msgid "＿ ＿ 室"
-msgstr ""
+msgstr "_ _ room(s)"
 
 #: ../../variable/Q1037.rst:37
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
 #: ../../variable/Q1037.rst:38
+#, fuzzy
 msgid "98"
-msgstr ""
+msgstr "98"
 
 #: ../../variable/Q1037.rst:44
 msgid "分類不能の回答コード"
@@ -62,8 +65,9 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q1037.rst:52
+#, fuzzy
 msgid "99"
-msgstr ""
+msgstr "99"
 
 #: ../../variable/Q1037.rst:58
 msgid "備考"
@@ -165,4 +169,3 @@ msgstr ""
 
 #~ msgid "＿＿室"
 #~ msgstr ""
-

@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-12-06 10:25+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q890.rst:6
 msgid "住宅取得年"
-msgstr ""
+msgstr "Residence acquisition year"
 
 #: ../../variable/Q890.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q890.rst:21
 msgid "その住宅はいつ取得（贈与・相続を含む）しましたか。"
-msgstr ""
+msgstr "When did you acquire (including by gift or inheritance) the residence?"
 
 #: ../../variable/Q890.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,7 +45,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q890.rst:30
 msgid "＿ ＿ ＿ ＿年"
-msgstr ""
+msgstr "In ＿＿＿＿ (year)"
 
 #: ../../variable/Q890.rst:37
 msgid "桁あふれコード"
@@ -111,4 +113,3 @@ msgstr ""
 
 #~ msgid "99"
 #~ msgstr ""
-

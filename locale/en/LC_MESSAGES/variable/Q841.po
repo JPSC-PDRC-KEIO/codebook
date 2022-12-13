@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-12-12 11:39+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q841.rst:6
 msgid "住宅売却の有無"
-msgstr ""
+msgstr "Sale of housing"
 
 #: ../../variable/Q841.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q841.rst:21
 msgid "この１年間（調査前年10月～調査年9月）に、あなた方ご夫婦が自分たちで住んだり、セカンドハウスとして利用していた土地または住宅を売却しましたか。（親との共同名義のものも含みます）"
-msgstr ""
+msgstr "Did you and your spouse purchase land or a house for yourselves to live in or use as a second home during the past year (from October of the previous year to September of the survey year)? (Including jointly owned with parents)"
 
 #: ../../variable/Q841.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,23 +45,23 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q841.rst:30
 msgid "土地のみを売却した"
-msgstr ""
+msgstr "Only land was sold."
 
 #: ../../variable/Q841.rst:31
 msgid "家屋のみを売却した"
-msgstr ""
+msgstr "Only houses were sold."
 
 #: ../../variable/Q841.rst:32
 msgid "土地と家屋両方を売却した"
-msgstr ""
+msgstr "Sold both land and house."
 
 #: ../../variable/Q841.rst:33
 msgid "マンションを売却した"
-msgstr ""
+msgstr "Sold a condominium."
 
 #: ../../variable/Q841.rst:34
 msgid "売却しなかった"
-msgstr ""
+msgstr "No, I didn't."
 
 #: ../../variable/Q841.rst:42
 msgid "桁あふれコード"
@@ -74,8 +76,9 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q841.rst:57
+#, fuzzy
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../variable/Q841.rst:63
 msgid "備考"
@@ -202,4 +205,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

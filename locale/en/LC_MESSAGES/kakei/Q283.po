@@ -9,21 +9,23 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-12-13 13:07+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../kakei/Q283.rst:4
 msgid "収入管理タイプ区分"
-msgstr ""
+msgstr "Current income management type classification"
 
 #: ../../kakei/Q283.rst:8
 msgid "変数名：Q283"
-msgstr ""
+msgstr "Variable name : Q283"
 
 #: ../../kakei/Q283.rst:10
 msgid "1_MM"
@@ -99,7 +101,7 @@ msgstr ""
 
 #: ../../kakei/Q283.rst:53
 msgid "・夫妻とも収入なし"
-msgstr ""
+msgstr "No income for either husband or wife."
 
 #: ../../kakei/Q283.rst:54
 msgid "|1_MM|"
@@ -107,19 +109,19 @@ msgstr ""
 
 #: ../../kakei/Q283.rst
 msgid "・夫のみ収入あり"
-msgstr ""
+msgstr "Only the husband has income."
 
 #: ../../kakei/Q283.rst
 msgid "・妻が収入管理"
-msgstr ""
+msgstr "Wife manages income"
 
 #: ../../kakei/Q283.rst
 msgid "・夫は収入一部拠出"
-msgstr ""
+msgstr "Husband contributes part of income"
 
 #: ../../kakei/Q283.rst
 msgid "・妻の財布なし"
-msgstr ""
+msgstr "Wife has no income."
 
 #: ../../kakei/Q283.rst:63
 msgid "|2_A|"
@@ -127,7 +129,7 @@ msgstr ""
 
 #: ../../kakei/Q283.rst
 msgid "・妻の財布あり"
-msgstr ""
+msgstr "Wife has income"
 
 #: ../../kakei/Q283.rst:69
 msgid "|3_AA|"
@@ -135,7 +137,7 @@ msgstr ""
 
 #: ../../kakei/Q283.rst
 msgid "・夫は収入全部拠出"
-msgstr ""
+msgstr "Husband contributes all income."
 
 #: ../../kakei/Q283.rst:75
 msgid "|4_B|"
@@ -147,15 +149,15 @@ msgstr ""
 
 #: ../../kakei/Q283.rst
 msgid "・夫妻とも収入あり"
-msgstr ""
+msgstr "Both husband and wife have income."
 
 #: ../../kakei/Q283.rst
 msgid "・夫が収入管理"
-msgstr ""
+msgstr "Husband manages income"
 
 #: ../../kakei/Q283.rst
 msgid "・妻は収入一部拠出"
-msgstr ""
+msgstr "Wife contributes part of income"
 
 #: ../../kakei/Q283.rst:86
 msgid "|6_J|"
@@ -163,7 +165,7 @@ msgstr ""
 
 #: ../../kakei/Q283.rst
 msgid "・妻は収入全部拠出"
-msgstr ""
+msgstr "Wife contributes all income."
 
 #: ../../kakei/Q283.rst:92
 msgid "|7_K|"
@@ -175,7 +177,7 @@ msgstr ""
 
 #: ../../kakei/Q283.rst:100
 msgid "・妻のみ収入あり"
-msgstr ""
+msgstr "Only the wife has income."
 
 #: ../../kakei/Q283.rst:101
 msgid "|9_M|"
@@ -183,7 +185,7 @@ msgstr ""
 
 #: ../../kakei/Q283.rst
 msgid "・各自収入管理"
-msgstr ""
+msgstr "Individual income management"
 
 #: ../../kakei/Q283.rst:105
 msgid "|10_I|"
@@ -191,7 +193,7 @@ msgstr ""
 
 #: ../../kakei/Q283.rst
 msgid "・妻の拠出なし"
-msgstr ""
+msgstr "No contribution by wife"
 
 #: ../../kakei/Q283.rst:114
 msgid "|11_H|"
@@ -199,7 +201,7 @@ msgstr ""
 
 #: ../../kakei/Q283.rst
 msgid "・夫収入一部拠出"
-msgstr ""
+msgstr "Husband contributes part of income"
 
 #: ../../kakei/Q283.rst:119
 msgid "|12_G|"
@@ -215,7 +217,7 @@ msgstr ""
 
 #: ../../kakei/Q283.rst
 msgid "・妻の拠出あり"
-msgstr ""
+msgstr "Wife's contribution is available."
 
 #: ../../kakei/Q283.rst:137
 msgid "|15_E|"
@@ -227,7 +229,7 @@ msgstr ""
 
 #: ../../kakei/Q283.rst
 msgid "・夫妻とも収入全部拠出"
-msgstr ""
+msgstr "Both husband and wife contribute all of their income."
 
 #: ../../kakei/Q283.rst:149
 msgid "|17_C|"
@@ -251,89 +253,88 @@ msgstr "Data files (csv)"
 
 #: ../../kakei/Q283.rst:169
 msgid "p17_1"
-msgstr ""
+msgstr "p17_1"
 
 #: ../../kakei/Q283.rst:171
 msgid "p11ab_1"
-msgstr ""
+msgstr "p11ab_1"
 
 #: ../../kakei/Q283.rst:173
 msgid "p2_1"
-msgstr ""
+msgstr "p2_1"
 
 #: ../../kakei/Q283.rst:175
 msgid "p1_1"
-msgstr ""
+msgstr "p1_1"
 
 #: ../../kakei/Q283.rst:177
 msgid "p8_1"
-msgstr ""
+msgstr "p8_1"
 
 #: ../../kakei/Q283.rst:179
 msgid "p3_1"
-msgstr ""
+msgstr "p3_1"
 
 #: ../../kakei/Q283.rst:181
 msgid "p13_1"
-msgstr ""
+msgstr "p13_1"
 
 #: ../../kakei/Q283.rst:183
 msgid "p16d_1"
-msgstr ""
+msgstr "p16d_1"
 
 #: ../../kakei/Q283.rst:185
 msgid "p5a_1"
-msgstr ""
+msgstr "p5a_1"
 
 #: ../../kakei/Q283.rst:187
 msgid "p16abc_1"
-msgstr ""
+msgstr "p16abc_1"
 
 #: ../../kakei/Q283.rst:189
 msgid "p4_1"
-msgstr ""
+msgstr "p4_1"
 
 #: ../../kakei/Q283.rst:191
 msgid "p15_1"
-msgstr ""
+msgstr "p15_1"
 
 #: ../../kakei/Q283.rst:193
 msgid "p10_1"
-msgstr ""
+msgstr "p10_1"
 
 #: ../../kakei/Q283.rst:195
 msgid "p14_1"
-msgstr ""
+msgstr "p14_1"
 
 #: ../../kakei/Q283.rst:197
 msgid "p11c_1"
-msgstr ""
+msgstr "p11c_1"
 
 #: ../../kakei/Q283.rst:199
 msgid "p18_1"
-msgstr ""
+msgstr "p18_1"
 
 #: ../../kakei/Q283.rst:201
 msgid "p6_1"
-msgstr ""
+msgstr "p6_1"
 
 #: ../../kakei/Q283.rst:203
 msgid "p19_1"
-msgstr ""
+msgstr "p19_1"
 
 #: ../../kakei/Q283.rst:205
 msgid "p5b_1"
-msgstr ""
+msgstr "p5b_1"
 
 #: ../../kakei/Q283.rst:207
 msgid "p12_1"
-msgstr ""
+msgstr "p12_1"
 
 #: ../../kakei/Q283.rst:209
 msgid "p7_1"
-msgstr ""
+msgstr "p7_1"
 
 #: ../../kakei/Q283.rst:211
 msgid "p9_1"
-msgstr ""
-
+msgstr "p9_1"

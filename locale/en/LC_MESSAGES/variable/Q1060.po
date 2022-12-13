@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-12-12 11:16+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q1060.rst:6
 msgid "実親の住居形態　実父"
-msgstr ""
+msgstr "Residence type of your parent: your father"
 
 #: ../../variable/Q1060.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q1060.rst:21
 msgid "あなたの親が現在お住まいの住居は、次のどれになりますか。父親、母親についてお答え下さい。"
-msgstr ""
+msgstr "Which of the following residences does your parent(s) currently reside in? Please answer for father and mother."
 
 #: ../../variable/Q1060.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,35 +45,35 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1060.rst:30
 msgid "一戸建・持ち家（敷地は自己所有・区分所有）"
-msgstr ""
+msgstr "Detached/owned house (site is self-owned or unit-owned)"
 
 #: ../../variable/Q1060.rst:31
 msgid "一戸建・持ち家（敷地は借地）"
-msgstr ""
+msgstr "Detached and owned house (site is leased land)"
 
 #: ../../variable/Q1060.rst:32
 msgid "マンション・持ち家"
-msgstr ""
+msgstr "Condominium/owner-occupied house"
 
 #: ../../variable/Q1060.rst:33
 msgid "民間の賃貸住宅"
-msgstr ""
+msgstr "Private rental housing"
 
 #: ../../variable/Q1060.rst:34
 msgid "公営・公団・公社などの賃貸住宅"
-msgstr ""
+msgstr "Rental housing by public management, public corporation, public agency, etc."
 
 #: ../../variable/Q1060.rst:35
 msgid "社宅・寮（借り上げ社宅を含む）"
-msgstr ""
+msgstr "Company housing or dormitory (including rented company housing)"
 
 #: ../../variable/Q1060.rst:36
 msgid "介護施設・有料老人ホーム・ケア付きの高齢者住宅など"
-msgstr ""
+msgstr "Nursing homes, retirement homes require a fee, senior housing with care, etc."
 
 #: ../../variable/Q1060.rst:37
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../variable/Q1060.rst:45
 msgid "桁あふれコード"
@@ -86,8 +88,9 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q1060.rst:60
+#, fuzzy
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #: ../../variable/Q1060.rst:66
 msgid "備考"
@@ -181,4 +184,3 @@ msgstr ""
 
 #~ msgid "9.死亡"
 #~ msgstr ""
-
