@@ -1068,7 +1068,7 @@ List of variables
 * `Q269E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q269E.html>`_ : Job search (spouse unemployed): only vaguely considered
 * `Q270     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q270.html>`_ : Months of job search (spouse)
 * `Q271     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q271.html>`_ : Income management type 2: did your spouse hand over income to you?
-* `Q272     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q272.html>`_ : 収入管理タイプ3：本人のこづかいを分けたか
+* `Q272     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q272.html>`_ : Income Management Type 3: did you separate your allowance from that?
 * `Q273     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q273.html>`_ : Income management type 5: did he separate your allowance from that?
 * `Q274     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q274.html>`_ : Income management type 6: did you leave an allowance?
 * `Q275     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q275.html>`_ : Income management type 7: Did you receive your own allowance?
@@ -1076,10 +1076,10 @@ List of variables
 * `Q277     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q277.html>`_ : Income management type 10: cost-of-living contribution (spouse)
 * `Q278     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q278.html>`_ : Income management type 11: did spouse hand over income to you?
 * `Q279     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q279.html>`_ : Income management type 12: did you combine your income with your husband’s?
-* `Q280     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q280.html>`_ : 収入管理タイプ14：本人のこづかいを分けたか
+* `Q280     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q280.html>`_ : Income management type 14: did you separate your allowance from that?
 * `Q281     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q281.html>`_ : Income management type 16: did you combine your income with your husband’s?
 * `Q281B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q281B.html>`_ : Months of receiving unemployment insurance benefits (spouse unemployed) [Wave18 -]
-* `Q282     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q282.html>`_ : 収入管理タイプ18：本人のこづかいを分けたか
+* `Q282     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q282.html>`_ : Income management type 18: did you separate your allowance from that?
 * `Q284     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q284.html>`_ : Income management types 4, 5, 15, 16, 17, and 18: spouse’s allowance
 * `Q291     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q291.html>`_ : Do you like to manage the family budget?
 * `Q292     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q292.html>`_ : Is household budget management a right or a duty?
@@ -1839,7 +1839,7 @@ List of variables
 * `Q718     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q718.html>`_ : 結納の費用：結納
 * `Q719     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q719.html>`_ : 結納の費用：結納返し
 * `Q800     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q800.html>`_ : Feeling of happiness
-* `Q802     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q802.html>`_ : 住居延べ床面積
+* `Q802     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q802.html>`_ : Total floor area of residence
 * `Q806A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q806A.html>`_ : 住宅ローンの新規借入
 * `Q806B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q806B.html>`_ : 住宅ローンの新規借入額
 * `Q807A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807A.html>`_ : 住宅ローンの借入れ状況：借り替え・借入先1
@@ -1861,10 +1861,10 @@ List of variables
 * `Q813B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q813B.html>`_ : Durable consumer goods (purchase price): personal computers
 * `Q836     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q836.html>`_ : 住宅購入の有無
 * `Q839     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q839.html>`_ : Educational achievement at the last school (mother-in-law) [5th wave - ]
-* `Q841     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q841.html>`_ : 住宅売却の有無
-* `Q842A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q842A.html>`_ : 住宅売却価格：家屋
-* `Q842B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q842B.html>`_ : 住宅売却価格：土地
-* `Q842C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q842C.html>`_ : 住宅売却価格：合計
+* `Q841     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q841.html>`_ : Sale of housing
+* `Q842A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q842A.html>`_ : Home sale price: houses
+* `Q842B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q842B.html>`_ : Home sale price: land
+* `Q842C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q842C.html>`_ : Home sale price: total
 * `Q845     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q845.html>`_ : 住居の増改築の有無
 * `Q846     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q846.html>`_ : 住居の増改築費用
 * `Q847     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q847.html>`_ : 住居以外の不動産所有
@@ -1932,9 +1932,9 @@ List of variables
 * `Q888D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q888D.html>`_ : 未就学児の養育費用月額：ベビーシッター、家政婦
 * `Q888E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q888E.html>`_ : 未就学児の養育費用月額：その他
 * `Q888G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q888G.html>`_ : 未就学児の養育費用月額：お稽古事、習い事
-* `Q889     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q889.html>`_ : 敷地取得年
-* `Q890     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q890.html>`_ : 住宅取得年
-* `Q891     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q891.html>`_ : 住宅建築年
+* `Q889     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q889.html>`_ : Site acquisition year
+* `Q890     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q890.html>`_ : Residence acquisition year
+* `Q891     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q891.html>`_ : Year the house was built
 * `Q892     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q892.html>`_ : Year of graduation from the last school attended (spouse) [7th wave - ]
 * `Q893     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q893.html>`_ : Time of death (father-in-law) [7th wave -]
 * `Q894     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q894.html>`_ : Time-of-death (mother-in-law) [7th wave - ]
@@ -2011,7 +2011,7 @@ List of variables
 * `Q1034    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1034.html>`_ : 実親からの相続の可能性
 * `Q1035    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1035.html>`_ : 義親からの相続の可能性
 * `Q1036    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1036.html>`_ : 使用している部屋数（賃貸）
-* `Q1037    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1037.html>`_ : 使用している部屋数（持ち家）
+* `Q1037    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1037.html>`_ : Number of rooms used (owner-occupied)
 * `Q1038A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1038A.html>`_ : 国内旅行（観光）
 * `Q1038B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1038B.html>`_ : 国内旅行（帰省、訪問）
 * `Q1038C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1038C.html>`_ : 国内旅行（業務出張、研修）
@@ -2071,18 +2071,18 @@ List of variables
 * `Q1055C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1055C.html>`_ : Type of public health insurance: seamen’s insurance
 * `Q1055D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1055D.html>`_ : Type of public health insurance: mutual insurance and mutual aid programs
 * `Q1056    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1056.html>`_ : Participation in public pension insurance
-* `Q1057    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1057.html>`_ : 義親の住居形態　義父
-* `Q1058    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1058.html>`_ : 義親の住居形態　義母
+* `Q1057    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1057.html>`_ : Type of residence of parent-in-law: father-in-law
+* `Q1058    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1058.html>`_ : Type of residence of parent-in-law: mother-in-law
 * `Q1059    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1059.html>`_ : 義親との同居予定
 * `Q1060    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1060.html>`_ : 本人親との同居予定
-* `Q1061    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1061.html>`_ : 実親の住居形態　実母
+* `Q1061    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1061.html>`_ : Residence type of your parent: your mother
 * `Q1063    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1063.html>`_ : 児童手当受給の有無
 * `Q1064    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1064.html>`_ : 児童扶養手当対象子の有無
 * `Q1065    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1065.html>`_ : 児童扶養手当受給の有無
 * `Q1066    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1066.html>`_ : 児童扶養手当の受給額
-* `Q1067    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1067.html>`_ : 義親との同居の意向
-* `Q1068    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1068.html>`_ : 実親との同居の意向
-* `Q1069    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1069.html>`_ : 親との別居の意向
+* `Q1067    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1067.html>`_ : Intention to live with parents-in-law
+* `Q1068    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1068.html>`_ : Intention to live with your parents
+* `Q1069    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1069.html>`_ : Intention to live separately from parents
 * `Q1070    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1070.html>`_ : 住宅ローン減税制度変更の認知
 * `Q1071A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1071A.html>`_ : 住宅ローン減税制度変更の影響・住宅資金の贈与：あなたの親
 * `Q1071B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1071B.html>`_ : 住宅ローン減税制度変更の影響・住宅資金の贈与：夫の親
@@ -2209,7 +2209,7 @@ List of variables
 * `Q1147    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1147.html>`_ : Durable consumer goods (usage fees): mobile phones and smartphones
 * `Q1148    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1148.html>`_ : Pet expenses
 * `Q1149    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1149.html>`_ : 次の住まいの計画の有無
-* `Q1150    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1150.html>`_ : 次の住まいの計画：実現時期
+* `Q1150    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1150.html>`_ : Planning your next home: when it will happen
 * `Q1151    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1151.html>`_ : 次の住まいの計画：住居形態
 * `Q1152    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1152.html>`_ : Year-on-year change in consumption expenditures
 * `Q1153    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1153.html>`_ : Future projections of consumption expenditures
@@ -2323,8 +2323,8 @@ List of variables
 * `Q1185L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185L.html>`_ : Evaluation of workplace: good relationships
 * `Q1185M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1185M.html>`_ : Evaluation of workplace: opportunities for promotion and advancement in status
 * `Q1186    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1186.html>`_ : Satisfaction with society
-* `Q1187M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1187M.html>`_ : 新築・増改築：月
-* `Q1187Y   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1187Y.html>`_ : 新築・増改築：年
+* `Q1187M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1187M.html>`_ : New construction/extension: month
+* `Q1187Y   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1187Y.html>`_ : New construction/extension: year
 * `Q1188A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1188A.html>`_ : 消費税8％への対応：生活必需品の見直し
 * `Q1188B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1188B.html>`_ : 消費税8％への対応：光熱費を節約
 * `Q1188C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1188C.html>`_ : 消費税8％への対応：衣服や化粧品などを見直し
