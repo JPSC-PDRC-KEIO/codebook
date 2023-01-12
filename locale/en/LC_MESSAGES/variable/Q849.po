@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-12-27 10:13+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q849.rst:5
 msgid "住居以外の不動産購入の有無"
-msgstr ""
+msgstr "Purchase of non-residential real estate"
 
 #: ../../variable/Q849.rst:9
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q849.rst:18
 msgid "この２年間に、あなた方ご夫婦は、今住んでいる家やセカンドハウス以外に、土地・建物を購入しましたか。（新築や親との共同名義のものも含みます）"
-msgstr ""
+msgstr "During the past two years, have you and your spouse purchased any land or buildings other than the house you currently live in or a second home? (Include new construction and joint ownership with parents)"
 
 #: ../../variable/Q849.rst:24
 msgid "選択肢 / 記入欄"
@@ -43,23 +45,23 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q849.rst:27
 msgid "土地のみを購入した"
-msgstr ""
+msgstr "Only land was purchased."
 
 #: ../../variable/Q849.rst:29
 msgid "建物のみを購入した"
-msgstr ""
+msgstr "Only building was purchased."
 
 #: ../../variable/Q849.rst:31
 msgid "土地と家屋両方を購入した"
-msgstr ""
+msgstr "Purchased both land and house."
 
 #: ../../variable/Q849.rst:33
 msgid "マンションを購入した"
-msgstr ""
+msgstr "Purchased a condominium."
 
 #: ../../variable/Q849.rst:35
 msgid "購入しなかった"
-msgstr ""
+msgstr "No, I didn't."
 
 #: ../../variable/Q849.rst:42
 msgid "桁あふれコード"
@@ -150,4 +152,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

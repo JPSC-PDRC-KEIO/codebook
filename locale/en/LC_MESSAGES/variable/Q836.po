@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-21 14:56+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-12-12 11:25+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q836.rst:6
 msgid "住宅購入の有無"
-msgstr ""
+msgstr "Purchase of housing"
 
 #: ../../variable/Q836.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q836.rst:21
 msgid "あなた方ご夫婦はこの1年間（調査前年１０月～調査年９月）に、自分たちで住んだり、セカンドハウスとして利用するために土地または住宅を購入しましたか。（新築や親との共同名義のものも含みます）"
-msgstr ""
+msgstr "Did you and your spouse purchase land or a house for yourselves to live in or use as a second home during the past year (from October of the previous year to September of the survey year)? (Including new construction or jointly owned with parents)"
 
 #: ../../variable/Q836.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,23 +45,23 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q836.rst:30
 msgid "土地のみを購入した"
-msgstr ""
+msgstr "Only land was purchased."
 
 #: ../../variable/Q836.rst:31
 msgid "家屋のみを購入した"
-msgstr ""
+msgstr "Only houses were purchased."
 
 #: ../../variable/Q836.rst:32
 msgid "土地と家屋両方を購入した"
-msgstr ""
+msgstr "Purchased both land and house."
 
 #: ../../variable/Q836.rst:33
 msgid "マンションを購入した"
-msgstr ""
+msgstr "Purchased a condominium."
 
 #: ../../variable/Q836.rst:34
 msgid "購入しなかった"
-msgstr ""
+msgstr "No, I didn't."
 
 #: ../../variable/Q836.rst:42
 msgid "桁あふれコード"
@@ -75,7 +77,7 @@ msgstr "No response code"
 
 #: ../../variable/Q836.rst:57
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../variable/Q836.rst:63
 msgid "備考"
@@ -83,11 +85,11 @@ msgstr "Remarks"
 
 #: ../../variable/Q836.rst:65
 msgid "調査表に記載の選択肢とデータの内容が異なる変数です。"
-msgstr ""
+msgstr "These are variables that differ from the options listed in the survey table and the data."
 
 #: ../../variable/Q836.rst:67
 msgid "データ上は「1=家屋のみ」「2=土地のみ」となっています。"
-msgstr ""
+msgstr "In the data, \"1 = house only\" and \"2 = land only\"."
 
 #: ../../variable/Q836.rst:74
 msgid "収録シート"
@@ -204,10 +206,4 @@ msgstr ""
 #: ../../variable/Q836.rst:133
 msgid "p28_2"
 msgstr ""
-
-#~ msgid "変数名: Q836"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
 

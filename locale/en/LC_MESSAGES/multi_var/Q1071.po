@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-24 18:42+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-12-26 14:21+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../multi_var/Q1071.rst:4
 msgid "住宅ローン減税制度変更の影響：住宅資金の贈与"
-msgstr ""
+msgstr "Impact of changes of the housing loan tax credit program: gifts of housing funds"
 
 #: ../../multi_var/Q1071.rst:8
 msgid "質問文"
@@ -27,7 +29,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q1071.rst:10
 msgid "（問8で「1～4.購入した」と答えた方にお聞きします）このような住宅ローン減税の制度変更によって、次の方から住宅取得資金贈与がありましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "(If you answered \"1-4. Purchased\" in Q8, please answer the following question) Have you received a gift of home acquisition funds from the following persons as a result of these changes in the mortgage tax reduction program? (circle as many as pertain to you)"
 
 #: ../../multi_var/Q1071.rst:1
 msgid "項目"
@@ -39,7 +41,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q1071.rst:1
 msgid "あなたの親"
-msgstr ""
+msgstr "Your parents"
 
 #: ../../multi_var/Q1071.rst:1
 msgid ":doc:`Q1071A </variable/Q1071A>`"
@@ -47,7 +49,7 @@ msgstr ""
 
 #: ../../multi_var/Q1071.rst:1
 msgid "夫の親"
-msgstr ""
+msgstr "Husband's parents"
 
 #: ../../multi_var/Q1071.rst:1
 msgid ":doc:`Q1071B </variable/Q1071B>`"
@@ -55,7 +57,7 @@ msgstr ""
 
 #: ../../multi_var/Q1071.rst:1
 msgid "あなたの祖父母"
-msgstr ""
+msgstr "Your grandparent(s)"
 
 #: ../../multi_var/Q1071.rst:1
 msgid ":doc:`Q1071C </variable/Q1071C>`"
@@ -63,7 +65,7 @@ msgstr ""
 
 #: ../../multi_var/Q1071.rst:1
 msgid "夫の祖父母"
-msgstr ""
+msgstr "Your husband’s grandparent(s)"
 
 #: ../../multi_var/Q1071.rst:1
 msgid ":doc:`Q1071D </variable/Q1071D>`"
@@ -71,7 +73,7 @@ msgstr ""
 
 #: ../../multi_var/Q1071.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q1071.rst:1
 msgid ":doc:`Q1071E </variable/Q1071E>`"
@@ -79,7 +81,7 @@ msgstr ""
 
 #: ../../multi_var/Q1071.rst:1
 msgid "だれからもなかった"
-msgstr ""
+msgstr "I didn't receive a gift from anyone."
 
 #: ../../multi_var/Q1071.rst:1
 msgid ":doc:`Q1071F </variable/Q1071F>`"
@@ -90,4 +92,3 @@ msgstr ""
 
 #~ msgid "変数"
 #~ msgstr ""
-

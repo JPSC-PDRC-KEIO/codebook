@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-12-12 10:16+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q848.rst:6
 msgid "住居以外の所有不動産の現市場価格"
-msgstr ""
+msgstr "Current market value of real estate owned other than dwellings"
 
 #: ../../variable/Q848.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q848.rst:21
 msgid "所有している不動産の現在の市場価格（売るとした場合の価格）は合計でいくらぐらいですか。"
-msgstr ""
+msgstr "What is the total current market value (price if you were to sell) of the real estate you own?"
 
 #: ../../variable/Q848.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,7 +45,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q848.rst:30
 msgid "＿ 億 ＿ ＿ ＿ 0 万円"
-msgstr ""
+msgstr "_ _ _ _ 00,000 yen"
 
 #: ../../variable/Q848.rst:37
 msgid "桁あふれコード"
@@ -174,4 +176,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

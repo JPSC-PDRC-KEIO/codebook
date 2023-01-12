@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-24 18:42+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-01-06 11:45+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../multi_var/Q1076.rst:3
 msgid "住宅ローン減税制度変更の影響：将来の住宅購入への影響"
-msgstr ""
+msgstr "Impact of Changes in themortgage tax reduction program : impact on future home purchases"
 
 #: ../../multi_var/Q1076.rst:7
 msgid "質問文"
@@ -27,7 +29,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q1076.rst:8
 msgid "このような住宅ローン減税の制度変更はあなたの住宅取得行動にどのような影響を及ぼすと思いますか。（〇はいくつでも）"
-msgstr ""
+msgstr "How do you think these changes in the mortgage tax reduction program will affect your home acquisition decisions? ( circle as many as pertain to you )"
 
 #: ../../multi_var/Q1076.rst:1
 msgid "項目"
@@ -39,7 +41,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q1076.rst:1
 msgid "住宅購入の時期を早める"
-msgstr ""
+msgstr "Accelerate the time to purchase a home"
 
 #: ../../multi_var/Q1076.rst:1
 msgid ":doc:`Q1076A </variable/Q1076A>`"
@@ -47,7 +49,7 @@ msgstr ""
 
 #: ../../multi_var/Q1076.rst:1
 msgid "住宅購入が不可能になる"
-msgstr ""
+msgstr "Makes it impossible to purchase a home."
 
 #: ../../multi_var/Q1076.rst:1
 msgid ":doc:`Q1076B </variable/Q1076B>`"
@@ -55,7 +57,7 @@ msgstr ""
 
 #: ../../multi_var/Q1076.rst:1
 msgid "住宅購入の時期を遅らせる"
-msgstr ""
+msgstr "Delay the purchase of a home."
 
 #: ../../multi_var/Q1076.rst:1
 msgid ":doc:`Q1076C </variable/Q1076C>`"
@@ -63,7 +65,7 @@ msgstr ""
 
 #: ../../multi_var/Q1076.rst:1
 msgid "住宅の購入価格を下げる"
-msgstr ""
+msgstr "Reduce the purchase price of a home"
 
 #: ../../multi_var/Q1076.rst:1
 msgid ":doc:`Q1076D </variable/Q1076D>`"
@@ -71,7 +73,7 @@ msgstr ""
 
 #: ../../multi_var/Q1076.rst:1
 msgid "住宅の購入価格を上げる"
-msgstr ""
+msgstr "Increase the purchase price of a home"
 
 #: ../../multi_var/Q1076.rst:1
 msgid ":doc:`Q1076G </variable/Q1076G>`"
@@ -79,7 +81,7 @@ msgstr ""
 
 #: ../../multi_var/Q1076.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q1076.rst:1
 msgid ":doc:`Q1076E </variable/Q1076E>`"
@@ -87,7 +89,7 @@ msgstr ""
 
 #: ../../multi_var/Q1076.rst:1
 msgid "何の影響もない"
-msgstr ""
+msgstr "Have no effect."
 
 #: ../../multi_var/Q1076.rst:1
 msgid ":doc:`Q1076F </variable/Q1076F>`"
@@ -98,4 +100,3 @@ msgstr ""
 
 #~ msgid "変数"
 #~ msgstr ""
-

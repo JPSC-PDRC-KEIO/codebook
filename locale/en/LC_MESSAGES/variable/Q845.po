@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-12-26 14:15+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q845.rst:6
 msgid "住居の増改築の有無"
-msgstr ""
+msgstr "Extension or remodeling of a dwelling"
 
 #: ../../variable/Q845.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q845.rst:21
 msgid "この１年間（調査前年10月～調査年9月）に、あなた方ご夫婦が自分たちで住んだり、セカンドハウスとして利用していた住宅を増築または改築しましたか。（親との共同名義のものも含みます）"
-msgstr ""
+msgstr "During the past year (from October of the previous year to September of the survey year), have you and your spouse expanded or remodeled a house that you lived in yourselves or used as a second home? (Including those jointly owned with parents)"
 
 #: ../../variable/Q845.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,15 +45,15 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q845.rst:30
 msgid "増築した"
-msgstr ""
+msgstr "Extension"
 
 #: ../../variable/Q845.rst:31
 msgid "改築した"
-msgstr ""
+msgstr "Reconstructed"
 
 #: ../../variable/Q845.rst:32
 msgid "どちらもしなかった"
-msgstr ""
+msgstr "Neither"
 
 #: ../../variable/Q845.rst:40
 msgid "桁あふれコード"
@@ -67,7 +69,7 @@ msgstr "No response code"
 
 #: ../../variable/Q845.rst:55
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../variable/Q845.rst:61
 msgid "備考"
@@ -194,4 +196,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

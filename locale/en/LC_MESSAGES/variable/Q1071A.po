@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-12-12 18:27+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q1071A.rst:5
 msgid "住宅ローン減税制度変更の影響・住宅資金の贈与：あなたの親"
-msgstr ""
+msgstr "Impact of changes in the mortgage tax credit program / gift of housing funds: your parents"
 
 #: ../../variable/Q1071A.rst:9
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q1071A.rst:18
 msgid "（問8で「1～4.購入した」と答えた方にお聞きします。それ以外の方は問11にお進み下さい）このような住宅ローン減税の制度変更によって、次の方から住宅取得資金贈与がありましたか。"
-msgstr ""
+msgstr "(This question is for those who answered \"1-4. purchased\" in Q8. (For all others, please proceed to Q11.) Have you received any gifts of home acquisition funds from the following persons as a result of these changes in the mortgage tax credit system?"
 
 #: ../../variable/Q1071A.rst:21
 msgid "あなたの親"
-msgstr ""
+msgstr "Your parents"
 
 #: ../../variable/Q1071A.rst:27
 msgid "選択肢 / 記入欄"
@@ -47,11 +49,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1071A.rst:30
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q1071A.rst:32
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q1071A.rst:39
 msgid "桁あふれコード"
@@ -66,8 +68,9 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q1071A.rst:52
+#, fuzzy
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../variable/Q1071A.rst:57
 msgid "備考"
@@ -130,4 +133,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

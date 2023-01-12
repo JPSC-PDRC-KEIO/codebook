@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-31 17:58+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-01-06 13:10+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst:3
 msgid "住宅ローンの借入れ状況"
-msgstr ""
+msgstr "Mortgage borrowing status"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst:6
 msgid "質問文"
@@ -27,29 +29,29 @@ msgstr "Question"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst:8
 msgid "現在の借り入れについて、以下の項目にご記入ください。「1.借りた目的」「2.借入先」は、次ページのコード表からあてはまる「コード番号」をご記入ください。"
-msgstr ""
+msgstr "Please complete the following sections regarding your current borrowing. For \"1. Purpose of borrowing\" and \"2. Lender,\" please enter the applicable \"code number\" from the code table on the next page."
 
 #: ../../syakunyu/loan_jutaku/kariire.rst:1
 #: ../../syakunyu/loan_jutaku/kariire.rst:52
 msgid "借りた目的"
-msgstr ""
+msgstr "Purpose of borrowing"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst:1
 #: ../../syakunyu/loan_jutaku/kariire.rst:53
 msgid "借入先"
-msgstr ""
+msgstr "Lender"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst:1
 msgid "借入残高(合計)"
-msgstr ""
+msgstr "Loan balance (total)"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst:1
 msgid "年間返済額(合計)"
-msgstr ""
+msgstr "Annual repayment (total)"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst:1
 msgid "借り替え"
-msgstr ""
+msgstr "Refunding"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "1 :doc:`Q807A </variable/Q807A>`"
@@ -81,7 +83,7 @@ msgstr ""
 
 #: ../../syakunyu/loan_jutaku/kariire.rst:1
 msgid "土地の購入"
-msgstr ""
+msgstr "Purchase of land"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "1 :doc:`Q413A </variable/Q413A>`"
@@ -113,7 +115,7 @@ msgstr ""
 
 #: ../../syakunyu/loan_jutaku/kariire.rst:1
 msgid "住宅（土地も含む）の購入"
-msgstr ""
+msgstr "Purchase of housing (including land)"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "1 :doc:`Q414A </variable/Q414A>`"
@@ -145,7 +147,7 @@ msgstr ""
 
 #: ../../syakunyu/loan_jutaku/kariire.rst:1
 msgid "建物の建築"
-msgstr ""
+msgstr "Building construction"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "1 :doc:`Q415A </variable/Q415A>`"
@@ -177,7 +179,7 @@ msgstr ""
 
 #: ../../syakunyu/loan_jutaku/kariire.rst:1
 msgid "増改築"
-msgstr ""
+msgstr "extension and structural alteration of building"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "1 :doc:`Q416A </variable/Q416A>`"
@@ -237,53 +239,52 @@ msgstr ""
 
 #: ../../syakunyu/loan_jutaku/kariire.rst:48
 msgid "**コード表**"
-msgstr ""
+msgstr "**Code Table**"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "01 借り替え"
-msgstr ""
+msgstr "01 Refunding"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "02 土地の購入"
-msgstr ""
+msgstr "02 Purchase of land"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "03 住宅（土地も含む）の購入"
-msgstr ""
+msgstr "03 Purchase of housing (including land)"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "04 建物の建築"
-msgstr ""
+msgstr "04 Building construction"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "05 増改築"
-msgstr ""
+msgstr "05 extension and structural alteration of building"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "06 別荘の購入"
-msgstr ""
+msgstr "06 Purchase of a villa"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "11 銀行などの金融機関"
-msgstr ""
+msgstr "11 Banks and other financial institutions"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "12 住宅金融支援機構・年金融資・財形融資・公団融資・自治体融資などの公的融資"
-msgstr ""
+msgstr "12 Public loans such as JHF, pension loans, property loans, public corporation loans, and municipal loans"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "13 社内融資"
-msgstr ""
+msgstr "13 In-house financing"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "14 妻の親"
-msgstr ""
+msgstr "14 Wife's parents"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "15 夫の親"
-msgstr ""
+msgstr "15 Husband's parents"
 
 #: ../../syakunyu/loan_jutaku/kariire.rst
 msgid "16 その他"
-msgstr ""
-
+msgstr "16 Other"
