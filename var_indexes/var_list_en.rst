@@ -1840,14 +1840,14 @@ List of variables
 * `Q719     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q719.html>`_ : 結納の費用：結納返し
 * `Q800     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q800.html>`_ : Feeling of happiness
 * `Q802     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q802.html>`_ : Total floor area of residence
-* `Q806A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q806A.html>`_ : 住宅ローンの新規借入
-* `Q806B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q806B.html>`_ : 住宅ローンの新規借入額
-* `Q807A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807A.html>`_ : 住宅ローンの借入れ状況：借り替え・借入先1
-* `Q807B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807B.html>`_ : 住宅ローンの借入れ状況：借り替え・借入先2
-* `Q807C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807C.html>`_ : 住宅ローンの借入れ状況：借り替え・借入先3
-* `Q807D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807D.html>`_ : 住宅ローンの借入れ状況：借り替え・借入先4
-* `Q807E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807E.html>`_ : 住宅ローンの借入れ状況：借り替え・借入先5
-* `Q807F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807F.html>`_ : 住宅ローンの借入れ状況：借り替え・借入残高
+* `Q806A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q806A.html>`_ : New mortgage loans
+* `Q806B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q806B.html>`_ : New mortgage loans
+* `Q807A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807A.html>`_ : Mortgage borrowing status: refunding / lender1
+* `Q807B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807B.html>`_ : Mortgage borrowing status: refunding / lender2
+* `Q807C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807C.html>`_ : Mortgage borrowing status: refunding / lender3
+* `Q807D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807D.html>`_ : Mortgage borrowing status: refunding / lender4
+* `Q807E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807E.html>`_ : Mortgage borrowing status: refunding / lender5
+* `Q807F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807F.html>`_ : Mortgage borrowing status: refinancing and loan balance
 * `Q807G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807G.html>`_ : 住宅ローンの借入れ状況：借り替え・返済額
 * `Q808A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808A.html>`_ : 借入れ状況：事業用資金・借入先1
 * `Q808B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808B.html>`_ : 事業用資金：借入先理由1
@@ -1859,20 +1859,20 @@ List of variables
 * `Q808H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808H.html>`_ : 事業用資金：返済額
 * `Q813A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q813A.html>`_ : Durable consumer goods (purchased): personal computers
 * `Q813B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q813B.html>`_ : Durable consumer goods (purchase price): personal computers
-* `Q836     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q836.html>`_ : 住宅購入の有無
+* `Q836     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q836.html>`_ : Purchase of housing
 * `Q839     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q839.html>`_ : Educational achievement at the last school (mother-in-law) [5th wave - ]
 * `Q841     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q841.html>`_ : Sale of housing
 * `Q842A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q842A.html>`_ : Home sale price: houses
 * `Q842B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q842B.html>`_ : Home sale price: land
 * `Q842C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q842C.html>`_ : Home sale price: total
-* `Q845     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q845.html>`_ : 住居の増改築の有無
-* `Q846     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q846.html>`_ : 住居の増改築費用
-* `Q847     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q847.html>`_ : 住居以外の不動産所有
-* `Q848     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q848.html>`_ : 住居以外の所有不動産の現市場価格
-* `Q849     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q849.html>`_ : 住居以外の不動産購入の有無
-* `Q850     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q850.html>`_ : 住居以外の不動産の購入価格
-* `Q853     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q853.html>`_ : 住居以外の不動産売却の有無
-* `Q854     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q854.html>`_ : 住居以外の不動産の売却価格
+* `Q845     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q845.html>`_ : Extension or remodeling of a dwelling
+* `Q846     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q846.html>`_ : Expenses for extension or remodeling of a dwelling
+* `Q847     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q847.html>`_ : Real estate ownership other than residence
+* `Q848     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q848.html>`_ : Current market value of real estate owned other than dwellings
+* `Q849     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q849.html>`_ : Purchase of non-residential real estate
+* `Q850     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q850.html>`_ : Purchase price of real estate other than dwellings
+* `Q853     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q853.html>`_ : Sale of non-residential real estate
+* `Q854     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q854.html>`_ : Purchase price of real estate other than dwellings
 * `Q855A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855A.html>`_ : Work history: 18 years old
 * `Q855B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855B.html>`_ : Work history: 19 years old
 * `Q855C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q855C.html>`_ : Work history: 20 years old
@@ -2083,19 +2083,19 @@ List of variables
 * `Q1067    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1067.html>`_ : Intention to live with parents-in-law
 * `Q1068    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1068.html>`_ : Intention to live with your parents
 * `Q1069    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1069.html>`_ : Intention to live separately from parents
-* `Q1070    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1070.html>`_ : 住宅ローン減税制度変更の認知
-* `Q1071A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1071A.html>`_ : 住宅ローン減税制度変更の影響・住宅資金の贈与：あなたの親
-* `Q1071B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1071B.html>`_ : 住宅ローン減税制度変更の影響・住宅資金の贈与：夫の親
-* `Q1071C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1071C.html>`_ : 住宅ローン減税制度変更の影響・住宅資金の贈与：あなたの祖父母
-* `Q1071D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1071D.html>`_ : 住宅ローン減税制度変更の影響・住宅資金の贈与：夫の祖父母
-* `Q1071E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1071E.html>`_ : 住宅ローン減税制度変更の影響・住宅資金の贈与：その他
-* `Q1071F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1071F.html>`_ : 住宅ローン減税制度変更の影響・住宅資金の贈与：だれからもなかった
-* `Q1072A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1072A.html>`_ : 住宅ローン減税制度変更の影響・住宅資金贈与への影響：初めて贈与を受けた
-* `Q1072B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1072B.html>`_ : 住宅ローン減税制度変更の影響・住宅資金贈与への影響：贈与の時期が早まった
-* `Q1072C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1072C.html>`_ : 住宅ローン減税制度変更の影響・住宅資金贈与への影響：贈与の時期が遅くなった
-* `Q1072D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1072D.html>`_ : 住宅ローン減税制度変更の影響・住宅資金贈与への影響：贈与の額が増えた
-* `Q1072E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1072E.html>`_ : 住宅ローン減税制度変更の影響・住宅資金贈与への影響：贈与の額が減った
-* `Q1072F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1072F.html>`_ : 住宅ローン減税制度変更の影響・住宅資金贈与への影響：その他
+* `Q1070    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1070.html>`_ : Acknowledgement of changes in tax reduction program on housing loans
+* `Q1071A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1071A.html>`_ : Impact of changes in the mortgage tax credit program / gift of housing funds: your parents
+* `Q1071B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1071B.html>`_ : Impact of changes in the mortgage tax reduction program / gift of housing funds: your husband’s parents
+* `Q1071C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1071C.html>`_ : Impact of changes in the mortgage tax reduction program / gift of housing funds: your grandparents
+* `Q1071D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1071D.html>`_ : Impact of changes in the mortgage tax reduction program / gift of housing funds: your husband’s parents
+* `Q1071E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1071E.html>`_ : Impact of changes in the mortgage tax reduction program / gift of housing funds: other
+* `Q1071F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1071F.html>`_ : Impact of changes in the mortgage tax reduction program / gift of housing funds: didn’t receive a gift from anyone.
+* `Q1072A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1072A.html>`_ : Impact of changes in the mortgage tax reduction program / impact on housing fund gifts: received first gift.
+* `Q1072B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1072B.html>`_ : Impact of changes in the mortgage tax reduction program / impact on housing fund gifts: the time of the gift was accelerated.
+* `Q1072C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1072C.html>`_ : Impact of changes in the mortgage tax reduction program / impact on housing fund gifts: the timing of the gift was delayed.
+* `Q1072D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1072D.html>`_ : Impact of changes in the mortgage tax reduction program / impact on housing fund gifts: the amount of the gift increased.
+* `Q1072E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1072E.html>`_ : Impact of changes in the mortgage tax reduction program / impact on housing fund gifts: the amount of the gift decreased.
+* `Q1072F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1072F.html>`_ : Impact of changes in the mortgage tax reduction program / impact on housing fund gifts: other
 * `Q1073A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1073A.html>`_ : 住宅ローン減税制度変更の影響・住宅購入への影響：住宅購入の時期を早める
 * `Q1073B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1073B.html>`_ : 住宅ローン減税制度変更の影響・住宅購入への影響：住宅購入が不可能になる
 * `Q1073C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1073C.html>`_ : 住宅ローン減税制度変更の影響・住宅購入への影響：住宅購入の時期を遅らせる
@@ -2103,25 +2103,25 @@ List of variables
 * `Q1073E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1073E.html>`_ : 住宅ローン減税制度変更の影響・住宅購入への影響：その他
 * `Q1073F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1073F.html>`_ : 住宅ローン減税制度変更の影響・住宅購入への影響：何の影響もない
 * `Q1073G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1073G.html>`_ : 住宅ローン減税制度変更の影響・住宅購入への影響：住宅の購入価格を上げた
-* `Q1074A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1074A.html>`_ : 住宅ローン減税制度変更の影響・将来の資金贈与の見通し：あなたの親
-* `Q1074B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1074B.html>`_ : 住宅ローン減税制度変更の影響・将来の資金贈与の見通し：夫の親
-* `Q1074C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1074C.html>`_ : 住宅ローン減税制度変更の影響・将来の資金贈与の見通し：あなたの祖父母
-* `Q1074D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1074D.html>`_ : 住宅ローン減税制度変更の影響・将来の資金贈与の見通し：夫の祖父母
-* `Q1074E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1074E.html>`_ : 住宅ローン減税制度変更の影響・将来の資金贈与の見通し：その他
-* `Q1074F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1074F.html>`_ : 住宅ローン減税制度変更の影響・将来の資金贈与の見通し：だれからもないと思う
-* `Q1075A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1075A.html>`_ : 住宅ローン減税制度変更の影響・将来の資金贈与への影響：初めて贈与を受ける
-* `Q1075B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1075B.html>`_ : 住宅ローン減税制度変更の影響・将来の資金贈与への影響：贈与の時期が早まる
-* `Q1075C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1075C.html>`_ : 住宅ローン減税制度変更の影響・将来の資金贈与への影響：贈与の時期が遅くなる
-* `Q1075D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1075D.html>`_ : 住宅ローン減税制度変更の影響・将来の資金贈与への影響：贈与の額が増える
-* `Q1075E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1075E.html>`_ : 住宅ローン減税制度変更の影響・将来の資金贈与への影響：贈与の額が減る
-* `Q1075F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1075F.html>`_ : 住宅ローン減税制度変更の影響・将来の資金贈与への影響：その他
-* `Q1076A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1076A.html>`_ : 住宅ローン減税制度変更の影響・将来の住宅購入への影響：住宅購入の時期を早める
-* `Q1076B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1076B.html>`_ : 住宅ローン減税制度変更の影響・将来の住宅購入への影響：住宅購入が不可能になる
-* `Q1076C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1076C.html>`_ : 住宅ローン減税制度変更の影響・将来の住宅購入への影響：住宅購入の時期を遅らせる
-* `Q1076D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1076D.html>`_ : 住宅ローン減税制度変更の影響・将来の住宅購入への影響：住宅の購入価格を下げる
-* `Q1076E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1076E.html>`_ : 住宅ローン減税制度変更の影響・将来の住宅購入への影響：その他
-* `Q1076F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1076F.html>`_ : 住宅ローン減税制度変更の影響・将来の住宅購入への影響：何の影響もない
-* `Q1076G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1076G.html>`_ : 住宅ローン減税制度変更の影響・将来の住宅購入への影響：住宅の購入価格を上げる
+* `Q1074A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1074A.html>`_ : Impact of changes in the mortgage tax reduction program / prospects for future gifts of funds: your parents
+* `Q1074B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1074B.html>`_ : Impact of changes in the mortgage tax reduction program and prospects for future gifts of funds: husband’s parents
+* `Q1074C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1074C.html>`_ : Impact of changes in the mortgage tax reduction program and prospects for future gifts of funds: your grandparents
+* `Q1074D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1074D.html>`_ : Impact of changes in the mortgage tax reduction program and prospects for future gifts of funds: husband’s grandparents
+* `Q1074E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1074E.html>`_ : Impact of changes in the mortgage tax reduction program and prospects for future capital gifting: other
+* `Q1074F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1074F.html>`_ : Impact of changes to the mortgage tax credit program / prospects for future gifts of funds: I don’t think anyone will give me a gift.
+* `Q1075A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1075A.html>`_ : Impact of Changes in the mortgage tax reduction program: impact on gifts of housing funds: will receive first gift.
+* `Q1075B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1075B.html>`_ : Impact of Changes in the mortgage tax reduction program: impact on gifts of housing funds: accelerate the time of the gift.
+* `Q1075C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1075C.html>`_ : Impact of Changes in the mortgage tax reduction program: impact on gifts of housing funds: delay the timing of the gift.
+* `Q1075D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1075D.html>`_ : Impact of Changes in the mortgage tax reduction program: impact on gifts of housing funds: increase the amount of the gift.
+* `Q1075E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1075E.html>`_ : Impact of Changes in the mortgage tax reduction program: impact on gifts of housing funds: decrease the amount of the gift.
+* `Q1075F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1075F.html>`_ : Impact of changes in the mortgage tax reduction program / impact on housing fund gifts: other
+* `Q1076A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1076A.html>`_ : Impact of Changes in the mortgage tax reduction program / impact on future home purchases: accelerate the time to purchase a home.
+* `Q1076B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1076B.html>`_ : Impact of Changes in the mortgage tax reduction program / impact on future home purchases: makes it impossible to purchase a home.
+* `Q1076C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1076C.html>`_ : Impact of Changes in the mortgage tax reduction program / impact on future home purchases: delay the purchase of a home.
+* `Q1076D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1076D.html>`_ : Impact of Changes in the mortgage tax reduction program / impact on future home purchases: reduce the purchase price of a home.
+* `Q1076E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1076E.html>`_ : Impact of Changes in the mortgage tax reduction program / impact on future home purchases: other
+* `Q1076F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1076F.html>`_ : Impact of Changes in the mortgage tax reduction program / impact on future home purchases: have no effect.
+* `Q1076G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1076G.html>`_ : Impact of Changes in the mortgage tax reduction program / impact on future home purchases: increase the purchase price of a home.
 * `Q1077    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1077.html>`_ : Work experience (mother-in-law)
 * `Q1090    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1090.html>`_ : Recognition of the employee pension division system in the event of divorce
 * `Q1091    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1091.html>`_ : Founded year
