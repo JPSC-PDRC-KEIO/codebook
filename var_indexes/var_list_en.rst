@@ -1307,27 +1307,27 @@ List of variables
 * `Q417F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q417F.html>`_ : Mortgage status : Villa purchase ・ Loan balance
 * `Q417G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q417G.html>`_ : Mortgage status : Villa purchase ・ Repayment amounts
 * `Q418     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q418.html>`_ : Burden of mortgage repayment
-* `Q419     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q419.html>`_ : 借入れの有無
-* `Q420     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q420.html>`_ : 借入れ残高
-* `Q421     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q421.html>`_ : 借入れ返済総額
-* `Q422     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q422.html>`_ : 新規借入れの有無
-* `Q423     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q423.html>`_ : 新規借入れ額
-* `Q424A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q424A.html>`_ : 借入れ状況：乗用車購入・借入先1
-* `Q424B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q424B.html>`_ : 借入れ状況：乗用車購入・借入先理由1
-* `Q424C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q424C.html>`_ : 借入れ状況：乗用車購入・借入先2
-* `Q424D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q424D.html>`_ : 借入れ状況：乗用車購入・借入先理由2
-* `Q424E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q424E.html>`_ : 借入れ状況：乗用車購入・借入先3
-* `Q424F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q424F.html>`_ : 乗用車購入：借入先理由3
-* `Q424G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q424G.html>`_ : 借入れ状況：乗用車購入・借入残高
-* `Q424H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q424H.html>`_ : 借入れ状況：乗用車購入・返済額
-* `Q425A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425A.html>`_ : 借入れ状況：耐久消費財購入借入先1
-* `Q425B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425B.html>`_ : 借入れ状況：耐久消費財購・借入先理由1
-* `Q425C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425C.html>`_ : 借入れ状況：耐久消費財購入・借入先2
-* `Q425D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425D.html>`_ : 借入れ状況：耐久消費財購入・借入先理由2
-* `Q425E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425E.html>`_ : 借入れ状況：耐久消費財購入・借入先3
-* `Q425F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425F.html>`_ : 借入れ状況：耐久消費財購入・借入先理由3
-* `Q425G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425G.html>`_ : 借入れ状況：耐久消費財購入・借入残高
-* `Q425H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425H.html>`_ : 借入れ状況：耐久消費財購入・返済額
+* `Q419     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q419.html>`_ : Borrowing
+* `Q420     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q420.html>`_ : Loan balance
+* `Q421     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q421.html>`_ : Total debt repayment
+* `Q422     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q422.html>`_ : New loan
+* `Q423     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q423.html>`_ : New loan amount
+* `Q424A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q424A.html>`_ : Borrowing status: purchase of passenger car, and lender 1
+* `Q424B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q424B.html>`_ : Borrowing status: passenger car purchase and reason for borrowing from there 1
+* `Q424C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q424C.html>`_ : Borrowing status: purchase of passenger car, lender 2
+* `Q424D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q424D.html>`_ : Borrowing status: passenger car purchase and reason for borrowing from there 1
+* `Q424E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q424E.html>`_ : Borrowing status: purchase of passenger car, lender 3
+* `Q424F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q424F.html>`_ : Passenger car purchase: reason for borrowing from there 3
+* `Q424G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q424G.html>`_ : Borrowing status: passenger car purchases and outstanding loans
+* `Q424H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q424H.html>`_ : Borrowing status: passenger car purchase and repayment amount
+* `Q425A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425A.html>`_ : Borrowing status: durable consumer goods purchases and lender1
+* `Q425B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425B.html>`_ : Borrowing status: consumer durables purchases and reason for borrowing from there 1
+* `Q425C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425C.html>`_ : Borrowing status: durable consumer goods purchases and lender 2
+* `Q425D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425D.html>`_ : Borrowing status: consumer durables purchases and lender reason 2
+* `Q425E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425E.html>`_ : Borrowing status: consumer durables purchases and lender 3
+* `Q425F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425F.html>`_ : Borrowing status: consumer durables purchases and lender reason 3
+* `Q425G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425G.html>`_ : Borrowing status: durable consumer goods purchases and borrowing balances
+* `Q425H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425H.html>`_ : Borrowing status: durable consumer goods purchased and repayment amount
 * `Q426A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426A.html>`_ : 借入れ状況：衣類等購入・借入先1
 * `Q426B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426B.html>`_ : 借入れ状況：衣類等購入・借入先理由1
 * `Q426C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426C.html>`_ : 借入れ状況：衣類等購入・借入先2
@@ -1848,15 +1848,15 @@ List of variables
 * `Q807D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807D.html>`_ : Mortgage borrowing status: refunding / lender4
 * `Q807E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807E.html>`_ : Mortgage borrowing status: refunding / lender5
 * `Q807F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807F.html>`_ : Mortgage borrowing status: refinancing and loan balance
-* `Q807G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807G.html>`_ : 住宅ローンの借入れ状況：借り替え・返済額
-* `Q808A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808A.html>`_ : 借入れ状況：事業用資金・借入先1
-* `Q808B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808B.html>`_ : 事業用資金：借入先理由1
-* `Q808C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808C.html>`_ : 事業用資金：借入先2
-* `Q808D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808D.html>`_ : 事業用資金：借入先理由2
-* `Q808E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808E.html>`_ : 事業用資金：借入先3
-* `Q808F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808F.html>`_ : 事業用資金：借入先理由3
-* `Q808G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808G.html>`_ : 事業用資金：借入残高
-* `Q808H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808H.html>`_ : 事業用資金：返済額
+* `Q807G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q807G.html>`_ : Mortgage borrowing status: refinance / repayment amount
+* `Q808A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808A.html>`_ : Borrowing status: business funds and lender1
+* `Q808B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808B.html>`_ : Business funds: reason for borrowing from there 1
+* `Q808C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808C.html>`_ : Business funds: lender 2
+* `Q808D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808D.html>`_ : Business funds: reason for borrowing money from there 2
+* `Q808E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808E.html>`_ : Business funds: lender 3
+* `Q808F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808F.html>`_ : Business funds: reason for borrowing from there 3
+* `Q808G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808G.html>`_ : Business funds: loan balances
+* `Q808H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q808H.html>`_ : Business funds: repayment amount
 * `Q813A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q813A.html>`_ : Durable consumer goods (purchased): personal computers
 * `Q813B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q813B.html>`_ : Durable consumer goods (purchase price): personal computers
 * `Q836     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q836.html>`_ : Purchase of housing
@@ -2208,9 +2208,9 @@ List of variables
 * `Q1146B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1146B.html>`_ : Durable consumer goods (purchased): washing machine with dryer
 * `Q1147    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1147.html>`_ : Durable consumer goods (usage fees): mobile phones and smartphones
 * `Q1148    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1148.html>`_ : Pet expenses
-* `Q1149    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1149.html>`_ : 次の住まいの計画の有無
+* `Q1149    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1149.html>`_ : Availability of plans for next home
 * `Q1150    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1150.html>`_ : Planning your next home: when it will happen
-* `Q1151    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1151.html>`_ : 次の住まいの計画：住居形態
+* `Q1151    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1151.html>`_ : Planning your next home: housing type
 * `Q1152    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1152.html>`_ : Year-on-year change in consumption expenditures
 * `Q1153    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1153.html>`_ : Future projections of consumption expenditures
 * `Q1154    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1154.html>`_ : 子育てと仕事（ワークライフバランス）への希望
