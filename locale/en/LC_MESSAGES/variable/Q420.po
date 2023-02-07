@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-01-20 11:30+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q420.rst:6
 msgid "借入れ残高"
-msgstr ""
+msgstr "Loan balance"
 
 #: ../../variable/Q420.rst:11
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q420.rst:21
 msgid "現在の借入れ残高の総額およびこの1年間（調査前年10月～調査年9月）の返済総額はいくらですか。"
-msgstr ""
+msgstr "What is the total amount of your current loan balance and your total repayments during the past year (from October of the previous year to September of the survey year)?"
 
 #: ../../variable/Q420.rst:24
 msgid "借入れ残高総額"
-msgstr ""
+msgstr "Total amount of loan balance"
 
 #: ../../variable/Q420.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,7 +49,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q420.rst:33
 msgid "＿ ＿ ＿ ＿ 万円"
-msgstr ""
+msgstr "_ _ _ _0 ,000 yen"
 
 #: ../../variable/Q420.rst:40
 msgid "桁あふれコード"
@@ -201,4 +203,3 @@ msgstr ""
 
 #~ msgid "借入れ残高総額＿ ＿ ＿ ＿ 万円"
 #~ msgstr ""
-

@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-31 17:58+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-02-01 14:40+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:3
 msgid "借入れ状況"
-msgstr ""
+msgstr "Borrowing status"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:6
 msgid "質問文"
@@ -27,33 +29,33 @@ msgstr "Question"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:8
 msgid "現在の借り入れについて、以下の項目にご記入ください。「借りた目的」「借入先」「借りた理由」は、下のコード表からあてはまる「コード番号」をご記入ください。"
-msgstr ""
+msgstr "Please complete the following sections regarding your current borrowing. For \"Reason for loan,\" \"Lender,\" and \"Reason for borrowing money from there,\" please enter the applicable \"Code Number\" from the code table below."
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:10
 msgid "「借りた理由」は、1カ所の借入先それぞれについて最大の理由１つを選んでご記入下さい。"
-msgstr ""
+msgstr "For \"Reason for borrowing money from there,\" please select the single largest reason for each lender."
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:80
 msgid "借入先"
-msgstr ""
+msgstr "Lender"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:81
 msgid "借りた理由"
-msgstr ""
+msgstr "Reason for borrowing money from there"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
 msgid "借入残高(合計)"
-msgstr ""
+msgstr "Loan balance (total)"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
 msgid "年間返済額(合計)"
-msgstr ""
+msgstr "Annual repayment (total)"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
 msgid "事業用の資金"
-msgstr ""
+msgstr "Funds for business use"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "1 :doc:`Q808A </variable/Q808A>`"
@@ -89,7 +91,7 @@ msgstr ""
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
 msgid "乗用車の購入"
-msgstr ""
+msgstr "Purchase of passenger cars"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "1 :doc:`Q424A </variable/Q424A>`"
@@ -125,7 +127,7 @@ msgstr ""
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
 msgid "家具・家電などの耐久消費財の購入"
-msgstr ""
+msgstr "Purchase of durable consumer goods such as furniture and appliances"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "1 :doc:`Q425A </variable/Q425A>`"
@@ -161,7 +163,7 @@ msgstr ""
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
 msgid "衣類・身の回り品・食料品などの購入"
-msgstr ""
+msgstr "Purchase of clothing, personal effects, groceries, etc."
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "1 :doc:`Q426A </variable/Q426A>`"
@@ -197,7 +199,7 @@ msgstr ""
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
 msgid "趣味・レジャー・交際費として"
-msgstr ""
+msgstr "For hobbies, leisure and entertainment"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "1 :doc:`Q427A </variable/Q427A>`"
@@ -233,7 +235,7 @@ msgstr ""
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
 msgid "教育費"
-msgstr ""
+msgstr "Education expenses"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "1 :doc:`Q428A </variable/Q428A>`"
@@ -269,7 +271,7 @@ msgstr ""
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
 msgid "結婚費用"
-msgstr ""
+msgstr "Wedding expenses"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "1 :doc:`Q429A </variable/Q429A>`"
@@ -305,7 +307,7 @@ msgstr ""
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
 msgid "病気・不慮の事故"
-msgstr ""
+msgstr "Illness and unforeseen accidents"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "1 :doc:`Q430A </variable/Q430A>`"
@@ -341,7 +343,7 @@ msgstr ""
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
 msgid "家族の生活費の補填"
-msgstr ""
+msgstr "Supplementing family living expenses"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "1 :doc:`Q431A </variable/Q431A>`"
@@ -377,7 +379,7 @@ msgstr ""
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
 msgid "借金の返済"
-msgstr ""
+msgstr "Debt repayment"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "1 :doc:`Q432A </variable/Q432A>`"
@@ -413,7 +415,7 @@ msgstr ""
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "1 :doc:`Q433A </variable/Q433A>`"
@@ -449,149 +451,148 @@ msgstr ""
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:75
 msgid "**コード表**"
-msgstr ""
+msgstr "**Code Table**"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst:79
 msgid "借りた目的"
-msgstr ""
+msgstr "Purpose of borrowing"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "01 事業用の資金"
-msgstr ""
+msgstr "01 Funds for business use"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "02 乗用車の購入"
-msgstr ""
+msgstr "02 Purchase of passenger cars"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "03 家具・家電などの耐久消費財の購入"
-msgstr ""
+msgstr "03 Purchase of durable consumer goods such as furniture and appliances"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "04 衣類・身の回り品・食料品などの購入"
-msgstr ""
+msgstr "04 Purchase of clothing, personal effects, groceries, etc."
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "05 趣味・レジャー・交際費として"
-msgstr ""
+msgstr "05 For hobbies, leisure and entertainment"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "06 教育費"
-msgstr ""
+msgstr "06 Education expenses"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "07 結婚費用"
-msgstr ""
+msgstr "07 Wedding expenses"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "08 病気・不慮の事故"
-msgstr ""
+msgstr "08 Illness and unforeseen accidents"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "09 家族の生活費の補填"
-msgstr ""
+msgstr "09 Supplementing family living expenses"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "10 借金の返済"
-msgstr ""
+msgstr "10 Debt repayment"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "11 その他"
-msgstr ""
+msgstr "11 Other"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "21 銀行などの金融機関・郵便局"
-msgstr ""
+msgstr "21 Banks and other financial institutions, post offices"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "22 社内融資"
-msgstr ""
+msgstr "22 In-house financing"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "23 銀行系クレジット会社"
-msgstr ""
+msgstr "23 Banking credit companies"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "24 信販会社"
-msgstr ""
+msgstr "24 Credit companies"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "25 消費者金融会社"
-msgstr ""
+msgstr "25 Consumer Finance Corporation"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "26 流通関連会社"
-msgstr ""
+msgstr "26 Distribution companies"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "27 妻の親"
-msgstr ""
+msgstr "27 Wife's parents"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "28 夫の親"
-msgstr ""
+msgstr "28 Husband's parents"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "29 その他"
-msgstr ""
+msgstr "29 Other"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "31 そこでしか借りられなかった"
-msgstr ""
+msgstr "31 I could only borrow from there."
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "32 手続きが簡単だった"
-msgstr ""
+msgstr "32 The procedure was easy."
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "33 時間的に一番早く借りられた"
-msgstr ""
+msgstr "33 Quickest loan"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "34 営業時間が長く、夜も開いていた"
-msgstr ""
+msgstr "34 Long business hours and open at night"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "35 土曜・日曜も借りられた"
-msgstr ""
+msgstr "35 Could rent on Saturdays and Sundays."
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "36 金利が低かった"
-msgstr ""
+msgstr "36 Interest rate was low"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "37 その機関の人から熱心に勧められた"
-msgstr ""
+msgstr "37 Enthusiastically recommended by someone from that institution"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "38 友人・知人に勧められた"
-msgstr ""
+msgstr "38 Recommended by a friend or acquaintance"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "39 借入れできるカードを持っていた"
-msgstr ""
+msgstr "39 I had a card that allowed me to borrow money."
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "40 返済方法が簡単そうだった"
-msgstr ""
+msgstr "40 The repayment method seemed easy."
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "41 たまたま近くにあった"
-msgstr ""
+msgstr "41 It just happened to be nearby."
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "42 有名で信頼できると思った"
-msgstr ""
+msgstr "42 Famous and trustworthy"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "43 気軽に借りられるから"
-msgstr ""
+msgstr "43. Easy to borrow"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "44 金融機関から借金をしたくなかった"
-msgstr ""
+msgstr "44 Did not want to borrow money from financial institutions"
 
 #: ../../syakunyu/loan_sonota/kariire_sonota.rst
 msgid "45 その他"
-msgstr ""
-
+msgstr "45 Other"

@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-02-01 14:27+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q424D.rst:6
 msgid "借入れ状況：乗用車購入・借入先理由2"
-msgstr ""
+msgstr "Borrowing status: passenger car purchase and reason for borrowing from there 1"
 
 #: ../../variable/Q424D.rst:11
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q424D.rst:21
 msgid "現在の借入れについて、以下の項目にご記入下さい。"
-msgstr ""
+msgstr "Please complete the following regarding your current borrowing."
 
 #: ../../variable/Q424D.rst:24
 msgid "乗用車購入・理由2"
-msgstr ""
+msgstr "Purchase of passenger car: reason for borrowing from there 2"
 
 #: ../../variable/Q424D.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,63 +49,63 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q424D.rst:33
 msgid "そこでしか借りられなかった"
-msgstr ""
+msgstr "It was the only place I could rent."
 
 #: ../../variable/Q424D.rst:34
 msgid "手続きが簡単だった"
-msgstr ""
+msgstr "The procedure was easy."
 
 #: ../../variable/Q424D.rst:35
 msgid "時間的に一番早く借りられた"
-msgstr ""
+msgstr "Quickest loan"
 
 #: ../../variable/Q424D.rst:36
 msgid "営業時間が長く、夜も開いていた"
-msgstr ""
+msgstr "Long business hours and open at night"
 
 #: ../../variable/Q424D.rst:37
 msgid "土曜・日曜にも借りられた"
-msgstr ""
+msgstr "Could rent on Saturdays and Sundays."
 
 #: ../../variable/Q424D.rst:38
 msgid "金利が低かった"
-msgstr ""
+msgstr "Interest rates were low."
 
 #: ../../variable/Q424D.rst:39
 msgid "その機関の人から熱心に勧められた"
-msgstr ""
+msgstr "Enthusiastically recommended by someone from that institution"
 
 #: ../../variable/Q424D.rst:40
 msgid "友人・知人に勧められた"
-msgstr ""
+msgstr "Recommended by a friend or acquaintance"
 
 #: ../../variable/Q424D.rst:41
 msgid "借入れできるカードを持っていた"
-msgstr ""
+msgstr "I had a card that allowed me to borrow money."
 
 #: ../../variable/Q424D.rst:42
 msgid "返済方法が簡単そうだった"
-msgstr ""
+msgstr "The repayment method seemed easy."
 
 #: ../../variable/Q424D.rst:43
 msgid "たまたま近くにあった"
-msgstr ""
+msgstr "It just happened to be nearby."
 
 #: ../../variable/Q424D.rst:44
 msgid "有名で信頼できると思った"
-msgstr ""
+msgstr "Famous and trustworthy"
 
 #: ../../variable/Q424D.rst:45
 msgid "気軽に借りられるから"
-msgstr ""
+msgstr "Easy to rent"
 
 #: ../../variable/Q424D.rst:46
 msgid "金融機関から借金をしたくなかった"
-msgstr ""
+msgstr "Did not want to borrow money from financial institutions"
 
 #: ../../variable/Q424D.rst:47
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../variable/Q424D.rst:55
 msgid "桁あふれコード"
@@ -254,4 +256,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
