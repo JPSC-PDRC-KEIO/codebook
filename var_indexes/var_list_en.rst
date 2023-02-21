@@ -1328,84 +1328,84 @@ List of variables
 * `Q425F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425F.html>`_ : Borrowing status: consumer durables purchases and lender reason 3
 * `Q425G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425G.html>`_ : Borrowing status: durable consumer goods purchases and borrowing balances
 * `Q425H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q425H.html>`_ : Borrowing status: durable consumer goods purchased and repayment amount
-* `Q426A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426A.html>`_ : 借入れ状況：衣類等購入・借入先1
-* `Q426B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426B.html>`_ : 借入れ状況：衣類等購入・借入先理由1
-* `Q426C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426C.html>`_ : 借入れ状況：衣類等購入・借入先2
-* `Q426D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426D.html>`_ : 借入れ状況：衣類等購入・ 借入先理由2
-* `Q426E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426E.html>`_ : 借入れ状況：衣類等購入・借入先3
-* `Q426F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426F.html>`_ : 借入れ状況：衣類等購入・借入先理由3
-* `Q426G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426G.html>`_ : 借入れ状況：衣類等購入・借入残高
-* `Q426H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426H.html>`_ : 借入れ状況：衣類等購入・返済額
-* `Q427A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q427A.html>`_ : 借入れ状況：趣味、レジャー・借入先1
-* `Q427B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q427B.html>`_ : 借入れ状況：趣味、レジャー・借入先理由1
-* `Q427C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q427C.html>`_ : 借入れ状況：趣味、レジャー・借入先2
-* `Q427D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q427D.html>`_ : 借入れ状況：趣味、レジャー・借入先理由2
-* `Q427E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q427E.html>`_ : 借入れ状況：趣味、レジャー・借入先3
-* `Q427F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q427F.html>`_ : 借入れ状況：趣味、レジャー・借入先理由3
-* `Q427G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q427G.html>`_ : 借入れ状況：趣味、レジャー・借入残高
-* `Q427H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q427H.html>`_ : 借入れ状況：趣味、レジャー・返済額
-* `Q428A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q428A.html>`_ : 借入れ状況：教育費・借入先1
-* `Q428B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q428B.html>`_ : 借入れ状況：教育費・借入先理由1
-* `Q428C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q428C.html>`_ : 借入れ状況：教育費・借入先2
-* `Q428D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q428D.html>`_ : 借入れ状況：教育費・借入先理由2
-* `Q428E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q428E.html>`_ : 借入れ状況：教育費・借入先3
-* `Q428F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q428F.html>`_ : 借入れ状況：教育費・借入先理由3
-* `Q428G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q428G.html>`_ : 借入れ状況：教育費・借入残高
-* `Q428H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q428H.html>`_ : 借入れ状況：教育費・返済額
-* `Q429A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q429A.html>`_ : 借入れ状況：結婚費用・借入先1
-* `Q429B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q429B.html>`_ : 借入れ状況：結婚費用・借入先理由1
-* `Q429C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q429C.html>`_ : 借入れ状況：結婚費用・借入先2
-* `Q429D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q429D.html>`_ : 借入れ状況：結婚費用・借入先理由2
-* `Q429E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q429E.html>`_ : 借入れ状況：結婚費用・借入先3
-* `Q429F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q429F.html>`_ : 借入れ状況：結婚費用・借入先理由3
-* `Q429G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q429G.html>`_ : 借入れ状況：結婚費用・借入残高
-* `Q429H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q429H.html>`_ : 借入れ状況：結婚費用・返済額
-* `Q430A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q430A.html>`_ : 借入れ状況：病気、事故・借入先1
-* `Q430B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q430B.html>`_ : 借入れ状況：病気、事故・借入先理由1
-* `Q430C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q430C.html>`_ : 借入れ状況：病気、事故・借入先2
-* `Q430D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q430D.html>`_ : 借入れ状況：病気、事故・借入先理由2
-* `Q430E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q430E.html>`_ : 借入れ状況：病気、事故・借入先3
-* `Q430F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q430F.html>`_ : 借入れ状況：病気、事故・借入先理由3
-* `Q430G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q430G.html>`_ : 借入れ状況：病気、事故・借入残高
-* `Q430H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q430H.html>`_ : 借入れ状況：病気、事故・返済額
-* `Q431A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q431A.html>`_ : 借入れ状況：生活費補填・借入先1
-* `Q431B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q431B.html>`_ : 借入れ状況：生活費補填・借入先理由1
-* `Q431C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q431C.html>`_ : 借入れ状況：生活費補填・借入先2
-* `Q431D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q431D.html>`_ : 借入れ状況：生活費補填・借入先理由2
-* `Q431E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q431E.html>`_ : 借入れ状況：生活費補填・借入先3
-* `Q431F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q431F.html>`_ : 借入れ状況：生活費補填・借入先理由3
-* `Q431G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q431G.html>`_ : 借入れ状況：生活費補填・借入残高
-* `Q431H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q431H.html>`_ : 借入れ状況：生活費補填・返済額
-* `Q432A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q432A.html>`_ : 借入れ状況：借金返済・借入先1
-* `Q432B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q432B.html>`_ : 借入れ状況：借金返済・借入先理由1
-* `Q432C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q432C.html>`_ : 借入れ状況：借金返済・借入先2
-* `Q432D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q432D.html>`_ : 借入れ状況：借金返済・借入先理由2
-* `Q432E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q432E.html>`_ : 借入れ状況：借金返済・借入先3
-* `Q432F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q432F.html>`_ : 借入れ状況：借金返済・借入先理由3
-* `Q432G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q432G.html>`_ : 借入れ状況：借金返済・借入残高
-* `Q432H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q432H.html>`_ : 借入れ状況：借金返済・返済額
-* `Q433A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q433A.html>`_ : その他　借入先1
-* `Q433B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q433B.html>`_ : その他　借入先理由1
-* `Q433C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q433C.html>`_ : その他　借入先2
-* `Q433D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q433D.html>`_ : その他　借入先理由2
-* `Q433E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q433E.html>`_ : その他　借入先3
-* `Q433F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q433F.html>`_ : その他　借入先理由3
-* `Q433G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q433G.html>`_ : その他　借入残高
-* `Q433H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q433H.html>`_ : その他　返済額
-* `Q434     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q434.html>`_ : 借入れ返済の負担感
-* `Q435     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q435.html>`_ : 今後の借入れ予定
-* `Q436A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q436A.html>`_ : 借入れ先候補：1位
-* `Q436B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q436B.html>`_ : 借入れ先候補：2位
-* `Q436C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q436C.html>`_ : 借入れ先候補：3位
-* `Q437A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437A.html>`_ : 借入れ先の選択理由：手続きが簡単
-* `Q437B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437B.html>`_ : 借入れ先の選択理由：営業時間
-* `Q437C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437C.html>`_ : 借入れ先の選択理由：土日の利用
-* `Q437D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437D.html>`_ : 借入れ先の選択理由：低金利
-* `Q437E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437E.html>`_ : 借入れ先の選択理由：無担保等
-* `Q437F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437F.html>`_ : 借入れ先の選択理由：秘密保持
-* `Q437G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437G.html>`_ : 借入れ先の選択理由：アフターサービス
-* `Q437H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437H.html>`_ : 借入れ先の選択理由：有名
-* `Q437I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437I.html>`_ : 借入れ先の選択理由：その他
+* `Q426A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426A.html>`_ : Purpose for loan: purchase of clothing - lender 1
+* `Q426B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426B.html>`_ : Purpose for loan: purchase of clothing - reason for borrowing from lender1
+* `Q426C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426C.html>`_ : Purpose for loan: purchase of clothing - lender 2
+* `Q426D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426D.html>`_ : Purpose for loan: purchase of clothing - reason for borrowing from lender 2
+* `Q426E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426E.html>`_ : Purpose for loan: purchase of clothing - lender3
+* `Q426F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426F.html>`_ : Purpose for loan: purchase of clothing - reason for borrowing from lender3
+* `Q426G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426G.html>`_ : Purpose for loan: clothing and other purchases - outstanding loans
+* `Q426H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q426H.html>`_ : Purpose for loan: clothing and other purchases - repayment amounts
+* `Q427A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q427A.html>`_ : Purpose for loan: hobby, leisure - lender 1
+* `Q427B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q427B.html>`_ : Purpose for loan: hobby, leisure - reason for borrowing from lender 1
+* `Q427C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q427C.html>`_ : Purpose for loan: hobby, leisure - reason for borrowing from lender2
+* `Q427D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q427D.html>`_ : Purpose for loan: hobby, leisure - reason for borrowing from lender2
+* `Q427E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q427E.html>`_ : Borrowing status: hobby, leisure - reason for borrowing from lender3
+* `Q427F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q427F.html>`_ : Purpose for loan: hobby, leisure - reason for borrowing from lender3
+* `Q427G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q427G.html>`_ : Purpose for loan: hobbies, leisure - outstanding loans
+* `Q427H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q427H.html>`_ : Purpose for loan: clothing and other purchases and repayment amounts
+* `Q428A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q428A.html>`_ : Purpose for loan: educational expenses, lender 1
+* `Q428B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q428B.html>`_ : Purpose for loan: education expenses - reason for borrowing from lender 1
+* `Q428C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q428C.html>`_ : Purpose for loan: educational expenses, lender 2
+* `Q428D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q428D.html>`_ : Purpose for loan: education expenses - reason for borrowing from lender 2
+* `Q428E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q428E.html>`_ : Purpose for loan: educational expenses - lender 3
+* `Q428F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q428F.html>`_ : Purpose for loan: education expenses - reason for borrowing from lender 3
+* `Q428G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q428G.html>`_ : Purpose for loan: education expenses - loan balance
+* `Q428H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q428H.html>`_ : Purpose for loan: educational expenses - repayment amount
+* `Q429A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q429A.html>`_ : Purpose for loan: wedding expenses - lender 1
+* `Q429B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q429B.html>`_ : Purpose for loan: wedding expenses - reason for borrowing from lender 1
+* `Q429C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q429C.html>`_ : Purpose for loan: wedding expenses - lender 2
+* `Q429D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q429D.html>`_ : Purpose for loan: wedding expenses - reason for borrowing from lender 2
+* `Q429E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q429E.html>`_ : Purpose for loan: wedding expenses - lender 2
+* `Q429F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q429F.html>`_ : Purpose for loan: wedding expenses - reason for borrowing from lender 3
+* `Q429G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q429G.html>`_ : Purpose for loan: wedding expenses - loan balance
+* `Q429H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q429H.html>`_ : Purpose for loan: wedding expenses - repayment amount
+* `Q430A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q430A.html>`_ : Purpose for loan: illness, accident - lender 1
+* `Q430B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q430B.html>`_ : Purpose for loan: illness, accident - reason for borrowing from lender1
+* `Q430C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q430C.html>`_ : Purpose for loan: illness, accident - lender 2
+* `Q430D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q430D.html>`_ : Purpose for loan: illness, accident - reason for borrowing from lender2
+* `Q430E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q430E.html>`_ : Purpose for loan: illness, accident - lender3
+* `Q430F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q430F.html>`_ : Purpose for loan: illness, accident - reason for borrowing from lender3
+* `Q430G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q430G.html>`_ : Purpose for loan: illness, accident - loan balance
+* `Q430H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q430H.html>`_ : Purpose for loan: illness, accident - repayment amount
+* `Q431A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q431A.html>`_ : Purpose for loan: compensating for living expenses - lender 1
+* `Q431B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q431B.html>`_ : Purpose for loan: compensating for living expenses - reason for borrowing from lender1
+* `Q431C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q431C.html>`_ : Purpose for loan: compensating for living expenses - lender2
+* `Q431D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q431D.html>`_ : Purpose for loan: compensating for living expenses - reason for borrowing from lender2
+* `Q431E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q431E.html>`_ : Purpose for loan: compensating for living expenses - lender3
+* `Q431F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q431F.html>`_ : Purpose for loan: compensating for living expenses - reason for borrowing from lender3
+* `Q431G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q431G.html>`_ : Purpose for loan: compensating for living expenses - repayment amount
+* `Q431H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q431H.html>`_ : Purpose for loan: compensating for living expenses - repayment amount
+* `Q432A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q432A.html>`_ : Purpose for loan: debt repayment - lender1
+* `Q432B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q432B.html>`_ : Purpose for loan: debt repayment - reason for borrowing from lender1
+* `Q432C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q432C.html>`_ : Purpose for loan: debt repayment - lender2
+* `Q432D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q432D.html>`_ : Purpose for loan: debt repayment - reason for borrowing from lender2
+* `Q432E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q432E.html>`_ : Purpose for loan: debt repayment - lender3
+* `Q432F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q432F.html>`_ : Purpose for loan: debt repayment - reason for borrowing from lender3
+* `Q432G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q432G.html>`_ : Purpose for loan: debt repayment - loan balance
+* `Q432H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q432H.html>`_ : Borrowing status: debt repayment - repayment amount
+* `Q433A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q433A.html>`_ : Other - lender1
+* `Q433B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q433B.html>`_ : Other - reason for borrowing from lender1
+* `Q433C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q433C.html>`_ : Other - lender2
+* `Q433D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q433D.html>`_ : Other - reason for borrowing from lender2
+* `Q433E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q433E.html>`_ : Other - lender3
+* `Q433F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q433F.html>`_ : Other - reason for borrowing from lender3
+* `Q433G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q433G.html>`_ : Other - repayment amount
+* `Q433H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q433H.html>`_ : Other - repayment amount
+* `Q434     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q434.html>`_ : Burden of debt repayment
+* `Q435     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q435.html>`_ : Future Loans
+* `Q436A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q436A.html>`_ : Potential lenders: 1st place
+* `Q436B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q436B.html>`_ : Potential lenders: 2nd place
+* `Q436C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q436C.html>`_ : Potential lenders: 3rd place
+* `Q437A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437A.html>`_ : Reasons for choosing a lender: easy process
+* `Q437B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437B.html>`_ : Reason for selecting a lender: business hours
+* `Q437C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437C.html>`_ : Reasons for choosing a lender: available on Saturdays and Sundays
+* `Q437D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437D.html>`_ : Reasons for choosing a lender: low interest rates
+* `Q437E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437E.html>`_ : Reason for choosing a lender: unsecured
+* `Q437F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437F.html>`_ : Reasons for selecting a lender: confidentiality
+* `Q437G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437G.html>`_ : Reason for choosing a lender: after-sales service
+* `Q437H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437H.html>`_ : Reasons for choosing a lender: famous
+* `Q437I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437I.html>`_ : Reasons for choosing a lender: other
 * `Q439     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q439.html>`_ : クレジットカード利用の有無
 * `Q440A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q440A.html>`_ : クレジットカードの保有枚数（本人）
 * `Q440B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q440B.html>`_ : クレジットカード利用の制約条件（本人名義）：月2万円位まで
@@ -1899,9 +1899,9 @@ List of variables
 * `Q866     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q866.html>`_ : Financial assistance from your own parent(s): total monthly assistance
 * `Q867     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q867.html>`_ : Financial assistance from parents-in-law: total monthly assistance
 * `Q868     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q868.html>`_ : Household members with income other than you: other
-* `Q870A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q870A.html>`_ : 借入れできなかった：断られた
-* `Q870B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q870B.html>`_ : 借入れできなかった：減額された
-* `Q870C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q870C.html>`_ : 借入れできなかった：断られていない
+* `Q870A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q870A.html>`_ : Could not borrow: refused
+* `Q870B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q870B.html>`_ : Could not borrow: loan amount reduced
+* `Q870C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q870C.html>`_ : Could not borrow: not refused
 * `Q870D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q870D.html>`_ : 借入れをあきらめた経験
 * `Q877     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q877.html>`_ : 離死別経験（有配偶）〔第6回〕
 * `Q878     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q878.html>`_ : 離死別経験（無配偶）〔第6回〕
