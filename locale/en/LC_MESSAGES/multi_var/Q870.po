@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-24 18:42+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-02-19 13:19+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../multi_var/Q870.rst:3
 msgid "借入れを断られた経験"
-msgstr ""
+msgstr "Experience of being turned down for a loan"
 
 #: ../../multi_var/Q870.rst:7
 msgid "質問文"
@@ -27,7 +29,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q870.rst:9
 msgid "あなた方ご夫婦は、この1年間（調査前年１０月～調査年９月）借入れをしたかったのに、断られたことがありますか。（〇はいくつでも）"
-msgstr ""
+msgstr "During the past year (from October of the previous year to September of the survey year), have you and your spouse wanted to borrow but were turned down? (Please circle as many as pertain to you.)"
 
 #: ../../multi_var/Q870.rst:1
 msgid "項目"
@@ -39,7 +41,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q870.rst:1
 msgid "断られたことがある"
-msgstr ""
+msgstr "Have been refused"
 
 #: ../../multi_var/Q870.rst:1
 msgid ":doc:`Q870A </variable/Q870A>`"
@@ -47,7 +49,7 @@ msgstr ""
 
 #: ../../multi_var/Q870.rst:1
 msgid "認められたが減額されたことがある"
-msgstr ""
+msgstr "Have been approved but loan amount reduced"
 
 #: ../../multi_var/Q870.rst:1
 msgid ":doc:`Q870B </variable/Q870B>`"
@@ -55,7 +57,7 @@ msgstr ""
 
 #: ../../multi_var/Q870.rst:1
 msgid "ない"
-msgstr ""
+msgstr "No"
 
 #: ../../multi_var/Q870.rst:1
 msgid ":doc:`Q870C </variable/Q870C>`"
@@ -66,4 +68,3 @@ msgstr ""
 
 #~ msgid "変数"
 #~ msgstr ""
-

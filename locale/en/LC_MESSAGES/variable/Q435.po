@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-02-19 13:22+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q435.rst:6
 msgid "今後の借入れ予定"
-msgstr ""
+msgstr "Future Loans"
 
 #: ../../variable/Q435.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q435.rst:21
 msgid "あなた方ご夫婦は、今後、新規に、または追加して借入れをなさるおつもりがありますか。"
-msgstr ""
+msgstr "Do you and your spouse intend to take out new or additional loans in the future?"
 
 #: ../../variable/Q435.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,15 +45,15 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q435.rst:30
 msgid "借入れのつもりがある"
-msgstr ""
+msgstr "Have intentions of borrowing money."
 
 #: ../../variable/Q435.rst:31
 msgid "ない"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q435.rst:32
 msgid "わからない"
-msgstr ""
+msgstr "I don’t know."
 
 #: ../../variable/Q435.rst:40
 msgid "桁あふれコード"
@@ -66,8 +68,9 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q435.rst:55
+#, fuzzy
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../variable/Q435.rst:61
 msgid "備考"
@@ -210,4 +213,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

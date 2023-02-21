@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-24 18:42+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-02-19 13:27+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:3
 msgid "借入れ先候補"
-msgstr ""
+msgstr "Potential lenders"
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:7
 msgid "質問文"
@@ -27,11 +29,11 @@ msgstr "Question"
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:8
 msgid "その場合、借入れ先としてどの機関を考えますか。下の9つの中から、あなたが考える順に３つを選び、番号を▢にご記入下さい。"
-msgstr ""
+msgstr "If so, which institutions would you consider as lenders? Please select the top three and order them by writing the number in the ▢."
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:1
 msgid "順位"
-msgstr ""
+msgstr "Order"
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:1
 msgid "変数名"
@@ -39,7 +41,7 @@ msgstr "Variable name"
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:1
 msgid "1位"
-msgstr ""
+msgstr "1st place"
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:1
 msgid ":doc:`Q436A </variable/Q436A>`"
@@ -47,7 +49,7 @@ msgstr ""
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:1
 msgid "2位"
-msgstr ""
+msgstr "2nd place"
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:1
 msgid ":doc:`Q436B </variable/Q436B>`"
@@ -55,7 +57,7 @@ msgstr ""
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:1
 msgid "3位"
-msgstr ""
+msgstr "3rd place"
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:1
 msgid ":doc:`Q436C </variable/Q436C>`"
@@ -63,43 +65,43 @@ msgstr ""
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:21
 msgid "選択肢"
-msgstr ""
+msgstr "Select"
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:23
 msgid "銀行などの金融機関・郵便局（ゆうちょ銀行）"
-msgstr ""
+msgstr "Banks and other financial institutions, post offices (Japan Post Bank)"
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:24
 msgid "住宅金融支援機構・年金融資・財形融資・公団融資・自治体融資などの公的融資"
-msgstr ""
+msgstr "Public loans such as Japan Housing Finance Agency, pension loans, property loans, public corporation loans, municipal loans, etc."
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:25
 msgid "社内融資"
-msgstr ""
+msgstr "In-house financing"
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:26
 msgid "銀行系クレジット会社"
-msgstr ""
+msgstr "Bank-affiliated credit company"
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:27
 msgid "信販会社"
-msgstr ""
+msgstr "Credit company"
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:28
 msgid "消費者金融会社"
-msgstr ""
+msgstr "Consumer finance corporation"
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:29
 msgid "流通関連会社"
-msgstr ""
+msgstr "Distribution companies"
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:30
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../syakunyu/loan_sonota/kariiresaki.rst:31
 msgid "わからない"
-msgstr ""
+msgstr "I don’t know."
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
@@ -109,4 +111,3 @@ msgstr ""
 
 #~ msgid "変数"
 #~ msgstr ""
-

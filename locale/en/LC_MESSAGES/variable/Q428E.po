@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-04 16:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-02-21 09:13+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q428E.rst:5
 msgid "借入れ状況：教育費・借入先3"
-msgstr ""
+msgstr "Purpose for loan: educational expenses - lender 3"
 
 #: ../../variable/Q428E.rst:9
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q428E.rst:18
 msgid "現在の借入れについて、以下の項目にご記入下さい。"
-msgstr ""
+msgstr "Please complete the following regarding your current loan."
 
 #: ../../variable/Q428E.rst:21
 msgid "教育費・借入先3"
-msgstr ""
+msgstr "Educational expenses - lender 3"
 
 #: ../../variable/Q428E.rst:27
 msgid "選択肢 / 記入欄"
@@ -47,39 +49,39 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q428E.rst:30
 msgid "銀行など金融機関    ・郵便局"
-msgstr ""
+msgstr "Banks and other financial institutions / post office"
 
 #: ../../variable/Q428E.rst:32
 msgid "社内融資"
-msgstr ""
+msgstr "In-house financing"
 
 #: ../../variable/Q428E.rst:34
 msgid "銀行系クレジット会社"
-msgstr ""
+msgstr "Bank-affiliated credit company"
 
 #: ../../variable/Q428E.rst:36
 msgid "信販会社"
-msgstr ""
+msgstr "Credit company"
 
 #: ../../variable/Q428E.rst:38
 msgid "消費者金融会社"
-msgstr ""
+msgstr "Consumer finance corporation"
 
 #: ../../variable/Q428E.rst:40
 msgid "流通関連会社"
-msgstr ""
+msgstr "Distribution companies"
 
 #: ../../variable/Q428E.rst:42
 msgid "妻の親"
-msgstr ""
+msgstr "Wife's parents"
 
 #: ../../variable/Q428E.rst:44
 msgid "夫の親"
-msgstr ""
+msgstr "Husband's parents"
 
 #: ../../variable/Q428E.rst:46
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../variable/Q428E.rst:53
 msgid "桁あふれコード"
@@ -190,4 +192,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
