@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-28 14:33+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-03 15:12+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:3
 msgid "結婚費用の内訳"
-msgstr ""
+msgstr "Breakdown of wedding expenses"
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:7
 msgid "質問文"
@@ -27,11 +29,11 @@ msgstr "Question"
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:9
 msgid "ご夫婦の結婚費用はいくらぐらいでしたか。（結納、結納返しを除く）。各項目についての双方の支出をご記入下さい。"
-msgstr ""
+msgstr "How much did you and your spouse spend on your wedding? (Excluding the betrothal gift and the return of the betrothal gift). Please indicate the expenditures of both sides for each item."
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:13
 msgid "選択肢"
-msgstr ""
+msgstr "Select"
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid "項目"
@@ -39,23 +41,23 @@ msgstr "Items"
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid "支出の有無"
-msgstr ""
+msgstr "Expenditures"
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid "本人（妻）側"
-msgstr ""
+msgstr "My (wife's) side"
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid "配偶者（夫）側"
-msgstr ""
+msgstr "Spouse (husband's) side"
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid "合計"
-msgstr ""
+msgstr "total amount"
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid "婚約記念品"
-msgstr ""
+msgstr "engagement gift"
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid ":doc:`Q1004A </variable/Q1004A>`"
@@ -75,7 +77,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid "その他婚約関係"
-msgstr ""
+msgstr "Other engagement-related"
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid ":doc:`Q1004B </variable/Q1004B>`"
@@ -95,7 +97,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid "挙式披露宴"
-msgstr ""
+msgstr "wedding reception"
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid ":doc:`Q1004C </variable/Q1004C>`"
@@ -115,7 +117,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid "仲人へのお礼"
-msgstr ""
+msgstr "Gift to the matchmaker"
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid ":doc:`Q1004D </variable/Q1004D>`"
@@ -135,7 +137,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid "新婚旅行"
-msgstr ""
+msgstr "Honeymoon"
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid ":doc:`Q1004E </variable/Q1004E>`"
@@ -155,7 +157,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid "家具・電気製品台所用品等"
-msgstr ""
+msgstr "Furniture, electrical appliances kitchenware, etc."
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid ":doc:`Q1004F </variable/Q1004F>`"
@@ -175,7 +177,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid "着物・洋服・装飾品等"
-msgstr ""
+msgstr "Kimono, clothing, ornaments, etc."
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid ":doc:`Q1004G </variable/Q1004G>`"
@@ -195,7 +197,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid "住居（新しく借りた場合※）"
-msgstr ""
+msgstr "Housing (if newly rented*)"
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid ":doc:`Q1004H </variable/Q1004H>`"
@@ -215,7 +217,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:1
 msgid ":doc:`Q1004I </variable/Q1004I>`"
@@ -247,12 +249,8 @@ msgstr ""
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:33
 msgid "※は引っ越しの費用、礼金、敷金不動産屋手数など含みます"
-msgstr ""
+msgstr "*includes moving expenses, key money, deposit real estate agent fees, etc."
 
 #: ../../kekkon/hiyou/kekkonhiyou.rst:35
 msgid "また、**A**　 **B**　 **C**　の内訳については　:doc:`hiyou_how` を参照してください。"
-msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-
+msgstr "Also see :doc:`hiyou_how` for a breakdown of **A** **B** **C**."

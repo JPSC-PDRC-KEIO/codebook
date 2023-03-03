@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-03 11:30+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q1175.rst:6
 msgid "クレジットカード利用明細確認の有無"
-msgstr ""
+msgstr "Credit card statement confirmation"
 
 #: ../../variable/Q1175.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q1175.rst:21
 msgid "あなたは、クレジットカードの利用明細を、毎月確認していますか。"
-msgstr ""
+msgstr "Do you check your credit card statement every month?"
 
 #: ../../variable/Q1175.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,15 +45,15 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1175.rst:30
 msgid "必ず確認している"
-msgstr ""
+msgstr "I always check it."
 
 #: ../../variable/Q1175.rst:31
 msgid "時々確認している"
-msgstr ""
+msgstr "I check it from time to time."
 
 #: ../../variable/Q1175.rst:32
 msgid "あまり確認しない"
-msgstr ""
+msgstr "I seldom check it."
 
 #: ../../variable/Q1175.rst:40
 msgid "桁あふれコード"
@@ -67,7 +69,7 @@ msgstr "No response code"
 
 #: ../../variable/Q1175.rst:55
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../variable/Q1175.rst:61
 msgid "備考"
@@ -122,4 +124,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

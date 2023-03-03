@@ -9,13 +9,15 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-28 14:33+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-03 15:14+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../kekkon/hiyou/hiyou_how.rst:3
 msgid "結婚費用のまかない方"
@@ -27,11 +29,11 @@ msgstr "Question"
 
 #: ../../kekkon/hiyou/hiyou_how.rst:10
 msgid "その費用をどのように賄いましたか。 :doc:`kekkonhiyou` のA・B・Cの金額それぞれの内訳をご記入ください。"
-msgstr ""
+msgstr "How did you cover these expenses? Please provide a breakdown of each of the amounts in :doc:`kekkonhiyou` A, B, and C."
 
 #: ../../kekkon/hiyou/hiyou_how.rst:13
 msgid "選択肢"
-msgstr ""
+msgstr "Select"
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid "項目"
@@ -43,27 +45,27 @@ msgstr ""
 
 #: ../../kekkon/hiyou/hiyou_how.rst
 msgid "本人（妻）側"
-msgstr ""
+msgstr "My (wife) side"
 
 #: ../../kekkon/hiyou/hiyou_how.rst
 msgid "（Aの内訳）"
-msgstr ""
+msgstr "(Breakdown of A)"
 
 #: ../../kekkon/hiyou/hiyou_how.rst
 msgid "配偶者（夫）側"
-msgstr ""
+msgstr "Spouse (husband) side"
 
 #: ../../kekkon/hiyou/hiyou_how.rst
 msgid "（Bの内訳）"
-msgstr ""
+msgstr "(Breakdown of B)"
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid "合計（Cの内訳）"
-msgstr ""
+msgstr "Total (Breakdown of C)"
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid "自分の貯蓄"
-msgstr ""
+msgstr "My savings"
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid ":doc:`Q1005A </variable/Q1005A>`"
@@ -83,7 +85,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid "親からの援助"
-msgstr ""
+msgstr "Support from Parents"
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid ":doc:`Q1005B </variable/Q1005B>`"
@@ -103,7 +105,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid "親からの借入れ"
-msgstr ""
+msgstr "Loan from parents"
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid ":doc:`Q1005C </variable/Q1005C>`"
@@ -123,7 +125,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid "親以外からの援助"
-msgstr ""
+msgstr "Support from someone other than parents"
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid ":doc:`Q1005D </variable/Q1005D>`"
@@ -143,7 +145,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid "親以外からの借入れ（金融機関除く）"
-msgstr ""
+msgstr "Loans from someone other than parents (excluding financial institutions)"
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid ":doc:`Q1005E </variable/Q1005E>`"
@@ -163,7 +165,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid "金融機関からの借入れ"
-msgstr ""
+msgstr "Loan from a financial institution"
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid ":doc:`Q1005F </variable/Q1005F>`"
@@ -183,7 +185,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid "お祝い金など"
-msgstr ""
+msgstr "Congratulatory money, etc."
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid ":doc:`Q1005G </variable/Q1005G>`"
@@ -203,7 +205,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid ":doc:`Q1005H </variable/Q1005H>`"
@@ -223,7 +225,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid "合計"
-msgstr ""
+msgstr "Total amount"
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid ":doc:`Q715I </variable/Q715I>`"
@@ -236,7 +238,3 @@ msgstr ""
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid ":doc:`Q717I </variable/Q717I>`"
 msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-

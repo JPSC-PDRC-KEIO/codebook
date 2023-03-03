@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-24 18:42+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-03 15:19+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../multi_var/Q1168.rst:3
 msgid "配偶者との出会い"
-msgstr ""
+msgstr "How did you meet your spouse?"
 
 #: ../../multi_var/Q1168.rst:7
 msgid "質問文"
@@ -27,11 +29,11 @@ msgstr "Question"
 
 #: ../../multi_var/Q1168.rst:8
 msgid "あなたは今のご主人とどのようなきっかけで出会いましたか。（〇はいくつでも）"
-msgstr ""
+msgstr "How did you meet your husband? (Circle as many as you pertain to you.)"
 
 #: ../../multi_var/Q1168.rst:12
 msgid "選択肢"
-msgstr ""
+msgstr "Select"
 
 #: ../../multi_var/Q1168.rst:1
 msgid "項目"
@@ -43,7 +45,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q1168.rst:1
 msgid "親・きょうだいの紹介で"
-msgstr ""
+msgstr "Introduced by parents/siblings"
 
 #: ../../multi_var/Q1168.rst:1
 msgid ":doc:`Q1168A </variable/Q1168A>`"
@@ -51,7 +53,7 @@ msgstr ""
 
 #: ../../multi_var/Q1168.rst:1
 msgid "親・きょうだい以外の親族の紹介で"
-msgstr ""
+msgstr "Introduced by a relative other than a parent or sibling."
 
 #: ../../multi_var/Q1168.rst:1
 msgid ":doc:`Q1168B </variable/Q1168B>`"
@@ -59,7 +61,7 @@ msgstr ""
 
 #: ../../multi_var/Q1168.rst:1
 msgid "友人・知人・幼なじみの紹介で"
-msgstr ""
+msgstr "Introduced by a friend, acquaintance, or childhood friend."
 
 #: ../../multi_var/Q1168.rst:1
 msgid ":doc:`Q1168C </variable/Q1168C>`"
@@ -67,7 +69,7 @@ msgstr ""
 
 #: ../../multi_var/Q1168.rst:1
 msgid "職場の同僚・上司の紹介で"
-msgstr ""
+msgstr "Introduced by colleagues and supervisors at work."
 
 #: ../../multi_var/Q1168.rst:1
 msgid ":doc:`Q1168D </variable/Q1168D>`"
@@ -75,7 +77,7 @@ msgstr ""
 
 #: ../../multi_var/Q1168.rst:1
 msgid "職場で"
-msgstr ""
+msgstr "At work"
 
 #: ../../multi_var/Q1168.rst:1
 msgid ":doc:`Q1168E </variable/Q1168E>`"
@@ -83,7 +85,7 @@ msgstr ""
 
 #: ../../multi_var/Q1168.rst:1
 msgid "学校の授業・部活・サークル活動で"
-msgstr ""
+msgstr "In school classes, club activities, and circle activities"
 
 #: ../../multi_var/Q1168.rst:1
 msgid ":doc:`Q1168F </variable/Q1168F>`"
@@ -91,7 +93,7 @@ msgstr ""
 
 #: ../../multi_var/Q1168.rst:1
 msgid "アルバイト先で"
-msgstr ""
+msgstr "At a part-time job"
 
 #: ../../multi_var/Q1168.rst:1
 msgid ":doc:`Q1168G </variable/Q1168G>`"
@@ -99,7 +101,7 @@ msgstr ""
 
 #: ../../multi_var/Q1168.rst:1
 msgid "趣味・習い事で"
-msgstr ""
+msgstr "While doing a hobby or class"
 
 #: ../../multi_var/Q1168.rst:1
 msgid ":doc:`Q1168H </variable/Q1168H>`"
@@ -107,7 +109,7 @@ msgstr ""
 
 #: ../../multi_var/Q1168.rst:1
 msgid "合コンで"
-msgstr ""
+msgstr "On a blind date."
 
 #: ../../multi_var/Q1168.rst:1
 msgid ":doc:`Q1168I </variable/Q1168I>`"
@@ -115,7 +117,7 @@ msgstr ""
 
 #: ../../multi_var/Q1168.rst:1
 msgid "お見合いで"
-msgstr ""
+msgstr "Matchmaking"
 
 #: ../../multi_var/Q1168.rst:1
 msgid ":doc:`Q1168J </variable/Q1168J>`"
@@ -123,7 +125,7 @@ msgstr ""
 
 #: ../../multi_var/Q1168.rst:1
 msgid "お見合いパーティーで"
-msgstr ""
+msgstr "At a matchmaking party"
 
 #: ../../multi_var/Q1168.rst:1
 msgid ":doc:`Q1168K </variable/Q1168K>`"
@@ -131,7 +133,7 @@ msgstr ""
 
 #: ../../multi_var/Q1168.rst:1
 msgid "インターネット・携帯を通して"
-msgstr ""
+msgstr "Through the Internet or cell phone"
 
 #: ../../multi_var/Q1168.rst:1
 msgid ":doc:`Q1168L</variable/Q1168L>`"
@@ -139,7 +141,7 @@ msgstr ""
 
 #: ../../multi_var/Q1168.rst:1
 msgid "街中や旅先で"
-msgstr ""
+msgstr "In town or on the road"
 
 #: ../../multi_var/Q1168.rst:1
 msgid ":doc:`Q1168M </variable/Q1168M>`"
@@ -147,7 +149,7 @@ msgstr ""
 
 #: ../../multi_var/Q1168.rst:1
 msgid "結婚相談所や結婚仲介サービスで"
-msgstr ""
+msgstr "Marriage counseling and marriage brokerage services"
 
 #: ../../multi_var/Q1168.rst:1
 msgid ":doc:`Q1168N </variable/Q1168N>`"
@@ -155,18 +157,9 @@ msgstr ""
 
 #: ../../multi_var/Q1168.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q1168.rst:1
 msgid ":doc:`Q1168O </variable/Q1168O>`"
 msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-
-#~ msgid "変数名"
-#~ msgstr ""
-
-#~ msgid "変数"
-#~ msgstr ""
 

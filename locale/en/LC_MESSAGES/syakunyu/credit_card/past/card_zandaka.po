@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-31 17:58+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-03 14:01+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../syakunyu/credit_card/past/card_zandaka.rst:3
 msgid "クレジットカードの利用残高"
-msgstr ""
+msgstr "Credit card balances"
 
 #: ../../syakunyu/credit_card/past/card_zandaka.rst:6
 msgid "質問文"
@@ -27,22 +29,12 @@ msgstr "Question"
 
 #: ../../syakunyu/credit_card/past/card_zandaka.rst:8
 msgid "現在、これから決済される（引き落とされる）利用残高はいくらくらいありますか。"
-msgstr ""
+msgstr "How much is your current credit balance?"
 
 #: ../../syakunyu/credit_card/past/card_zandaka.rst:14
 msgid "有配偶"
-msgstr ""
+msgstr "Married"
 
 #: ../../syakunyu/credit_card/past/card_zandaka.rst:25
 msgid "無配偶"
-msgstr ""
-
-#~ msgid "Todo"
-#~ msgstr ""
-
-#~ msgid "課題"
-#~ msgstr ""
-
-#~ msgid "変数/variable/Q440IとJ、/variable/Q441IとJが別の変数になっていないので修正する"
-#~ msgstr ""
-
+msgstr "Single"
