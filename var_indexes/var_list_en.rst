@@ -1406,8 +1406,8 @@ List of variables
 * `Q437G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437G.html>`_ : Reason for choosing a lender: after-sales service
 * `Q437H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437H.html>`_ : Reasons for choosing a lender: famous
 * `Q437I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q437I.html>`_ : Reasons for choosing a lender: other
-* `Q439     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q439.html>`_ : クレジットカード利用の有無
-* `Q440A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q440A.html>`_ : クレジットカードの保有枚数（本人）
+* `Q439     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q439.html>`_ : Credit card usage
+* `Q440A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q440A.html>`_ : Number of credit cards held (you)
 * `Q440B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q440B.html>`_ : クレジットカード利用の制約条件（本人名義）：月2万円位まで
 * `Q440C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q440C.html>`_ : クレジットカード利用の制約条件（本人名義）：月5万円位まで
 * `Q440D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q440D.html>`_ : クレジットカード利用の制約条件（本人名義）：月10万円位まで
@@ -1417,7 +1417,7 @@ List of variables
 * `Q440H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q440H.html>`_ : クレジットカード利用の制約条件（本人名義）：特に制約はない
 * `Q440I    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q440I.html>`_ : クレジットカードの利用残高（本人名義）：金額
 * `Q440J    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q440J.html>`_ : クレジットカードの利用残高（本人名義）：状況
-* `Q441A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q441A.html>`_ : クレジットカードの保有枚数（配偶者）
+* `Q441A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q441A.html>`_ : Number of credit cards held (spouse)
 * `Q441B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q441B.html>`_ : クレジットカード利用の制約条件（配偶者名義）：月2万円位まで
 * `Q441C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q441C.html>`_ : クレジットカード利用の制約条件（配偶者名義）：月5万円位まで
 * `Q441D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q441D.html>`_ : クレジットカード利用の制約条件（配偶者名義）：月10万円位まで
@@ -1962,7 +1962,7 @@ List of variables
 * `Q932F    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932F.html>`_ : Importance of life areas: play
 * `Q932G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932G.html>`_ : Importance of life areas: learning
 * `Q932H    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q932H.html>`_ : Importance of life areas: fellowship
-* `Q933     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q933.html>`_ : 離婚について
+* `Q933     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q933.html>`_ : Divorce
 * `Q965     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q965.html>`_ : 子育て費用への考え方
 * `Q980A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q980A.html>`_ : Purpose of future use of the Training and Education Benefits System: for job development
 * `Q980B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q980B.html>`_ : Future use of the Training and Education Benefits System: will be useful for my job.
@@ -2251,9 +2251,9 @@ List of variables
 * `Q1164A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1164A.html>`_ : 今後充実させたいこと（無配偶）：１位
 * `Q1164B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1164B.html>`_ : 今後充実させたいこと（無配偶）：２位
 * `Q1164C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1164C.html>`_ : 今後充実させたいこと（無配偶）：３位
-* `Q1165A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1165A.html>`_ : 性別役割分業（男性は外、女性は家庭）について
-* `Q1165B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1165B.html>`_ : ３歳児神話（3歳までは母親は育児に専念）について
-* `Q1165C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1165C.html>`_ : 事実婚（入籍しなくてもかまわない）について
+* `Q1165A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1165A.html>`_ : Gender role division of labor (men outside, women at home)
+* `Q1165B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1165B.html>`_ : The myth of the three-year-old child (mothers are devoted to childcare until the age of three)
+* `Q1165C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1165C.html>`_ : De facto marriage (no need to register)
 * `Q1166A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1166A.html>`_ : 配偶者のイメージ：親しい友人
 * `Q1166B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1166B.html>`_ : 配偶者のイメージ：人生に共に立ち向かう人
 * `Q1166C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1166C.html>`_ : 配偶者のイメージ：一心同体の人
@@ -2291,10 +2291,10 @@ List of variables
 * `Q1170B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1170B.html>`_ : 今後充実させたいこと（有配偶）：２位
 * `Q1170C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1170C.html>`_ : 今後充実させたいこと（有配偶）：３位
 * `Q1171    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1171.html>`_ : Saving Habits
-* `Q1172    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1172.html>`_ : クレジットカード利用額：月
-* `Q1173    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1173.html>`_ : クレジットカード利用額：月（夫婦合計）
-* `Q1174    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1174.html>`_ : クレジットカード利用ルールの有無
-* `Q1175    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1175.html>`_ : クレジットカード利用明細確認の有無
+* `Q1172    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1172.html>`_ : Credit card usage: monthly
+* `Q1173    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1173.html>`_ : Credit card usage: monthly (total for couple)
+* `Q1174    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1174.html>`_ : Credit card usage rules
+* `Q1175    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1175.html>`_ : Credit card statement confirmation
 * `Q1176    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1176.html>`_ : Frequency of feeling “not understood by family”
 * `Q1177    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1177.html>`_ : Burden of housework, childcare, and caregiving
 * `Q1178    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1178.html>`_ : Sense of uncertainty about household finances
