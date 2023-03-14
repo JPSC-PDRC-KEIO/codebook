@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-28 14:33+0900\n"
-"PO-Revision-Date: 2023-03-03 15:14+0900\n"
+"PO-Revision-Date: 2023-03-10 09:48+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../kekkon/hiyou/hiyou_how.rst:3
 msgid "結婚費用のまかない方"
-msgstr ""
+msgstr "How did you cover these expenses?"
 
 #: ../../kekkon/hiyou/hiyou_how.rst:7
 msgid "質問文"
@@ -41,7 +41,7 @@ msgstr "Items"
 
 #: ../../kekkon/hiyou/hiyou_how.rst:1
 msgid "使ったか"
-msgstr ""
+msgstr "Did you use it?"
 
 #: ../../kekkon/hiyou/hiyou_how.rst
 msgid "本人（妻）側"

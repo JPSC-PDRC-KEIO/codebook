@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-28 13:39+0900\n"
-"PO-Revision-Date: 2023-03-03 15:23+0900\n"
+"PO-Revision-Date: 2023-03-10 09:37+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../syakunyu/credit_card/past/card_maisu.rst:3
 msgid "クレジットカードの利用枚数（親名義）"
-msgstr ""
+msgstr "Number of credit cards used (parents)"
 
 #: ../../syakunyu/credit_card/past/card_maisu.rst:6
 msgid "質問文"
