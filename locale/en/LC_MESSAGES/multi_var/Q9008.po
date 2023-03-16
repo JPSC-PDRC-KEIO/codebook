@@ -1,0 +1,131 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+ ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-05 13:37+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../multi_var/Q9008.rst:3
+msgid "調査で負担に感じたこと"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:7
+msgid "質問文"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:8
+msgid "これまでの調査を振り返って、次のようなことについてどの程度、負担に感じていましたか。【お子さんが３歳以上の場合】その子が３歳時点の状況"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:1
+msgid "項目"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:1
+msgid "変数名"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:1
+msgid "とても負担であった"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:1
+msgid "やや負担であった"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:1
+msgid "あまり負担ではなかった"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:1
+msgid "まったく負担ではなかった"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst
+msgid "ご自身のプライバシーに立ち入った内容"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst
+msgid "（学歴、所得、就業状態等）"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:1
+msgid ":doc:`Q9008A</variable/Q9008A>`"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:1
+msgid "1"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:1
+msgid "2"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:1
+msgid "3"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:1
+msgid "4"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst
+msgid "ご家族のプライバシーに立ち入った内容"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:1
+msgid ":doc:`Q9008B</variable/Q9008B>`"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst
+msgid "ご自身に関する情報・数字"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst
+msgid "（所得や労働時間など）の記入指示が細かい"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:1
+msgid ":doc:`Q9008C</variable/Q9008C>`"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst
+msgid "ご家族に関する情報・数字（家計、ご家族の"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst
+msgid "所得や労働時間など）の記入指示が細かい"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:1
+msgid ":doc:`Q9008D</variable/Q9008D>`"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:1
+msgid "調査票を記入する時間をつくること"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:1
+msgid ":doc:`Q9008E</variable/Q9008E>`"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:1
+msgid "調査票に記入する量が多いことへの精神的な負担"
+msgstr ""
+
+#: ../../multi_var/Q9008.rst:1
+msgid ":doc:`Q9008F</variable/Q9008F>`"
+msgstr ""
+

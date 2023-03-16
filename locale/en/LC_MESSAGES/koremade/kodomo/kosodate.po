@@ -1,0 +1,31 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+ ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-05 13:37+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../koremade/kodomo/kosodate.rst:3
+msgid "健在のお子さんについての振り返り"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:7
+msgid "質問文"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:8
+msgid "１番上のお子さんから３番目のお子さんについて、それぞれお答えください。"
+msgstr ""
+

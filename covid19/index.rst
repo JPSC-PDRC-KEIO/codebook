@@ -11,6 +11,7 @@
 	 tokubetsu_kyufu/index
 	 dekigoto
 	 kosodate/index
+	 vaccine/index
 
 
 （参考）緊急事態宣言（2020年4月）について
