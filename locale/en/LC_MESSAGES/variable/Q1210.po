@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-16 10:15+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q1210.rst:6
 msgid "夫婦間での生活費の把握"
-msgstr ""
+msgstr "Understanding the cost of living between husband and wife"
 
 #: ../../variable/Q1210.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q1210.rst:21
 msgid "あなた方ご夫婦は、家族の生活費について収支を把握していますか。（それぞれ〇は１つずつ）"
-msgstr ""
+msgstr "Do you and your spouse keep track of your family's living expenses? (Please circle one for each)"
 
 #: ../../variable/Q1210.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,19 +45,19 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1210.rst:30
 msgid "夫婦2人で把握している"
-msgstr ""
+msgstr "We figure it out together."
 
 #: ../../variable/Q1210.rst:31
 msgid "夫のみ把握している"
-msgstr ""
+msgstr "Only the husband understands."
 
 #: ../../variable/Q1210.rst:32
 msgid "妻のみ把握している"
-msgstr ""
+msgstr "Only the wife understands."
 
 #: ../../variable/Q1210.rst:33
 msgid "夫婦2人とも把握していない"
-msgstr ""
+msgstr "Neither has grasped it."
 
 #: ../../variable/Q1210.rst:41
 msgid "桁あふれコード"
@@ -70,8 +72,9 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q1210.rst:56
+#, fuzzy
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../variable/Q1210.rst:62
 msgid "備考"
@@ -109,4 +112,3 @@ msgstr ""
 
 #~ msgid "選択肢"
 #~ msgstr ""
-

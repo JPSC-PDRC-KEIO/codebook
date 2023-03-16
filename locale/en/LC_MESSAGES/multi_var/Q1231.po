@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-15 14:59+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-16 13:29+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../multi_var/Q1231.rst:3
 msgid "夫婦での話し合い"
-msgstr ""
+msgstr "Discussions between husband and wife"
 
 #: ../../multi_var/Q1231.rst:7
 msgid "質問文"
@@ -27,7 +29,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q1231.rst:8
 msgid "以下のようなことについて、ご夫婦でどのように話し合いをされて、決められていますか。（それぞれ〇は１つずつ）"
-msgstr ""
+msgstr "How do you and your spouse discuss and decide on the following? (circle one for each)"
 
 #: ../../multi_var/Q1231.rst:1
 msgid "項目"
@@ -37,57 +39,46 @@ msgstr "Items"
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../multi_var/Q1231.rst
-msgid "特に相談せず、"
-msgstr ""
+#: ../../multi_var/Q1231.rst:13
+msgid "特に相談せず、夫が決めた"
+msgstr "My husband makes the decisions, without discussing it with me."
 
-#: ../../multi_var/Q1231.rst
-msgid "夫が決めた"
-msgstr ""
+#: ../../multi_var/Q1231.rst:13
+msgid "特に相談せず、私が決めた"
+msgstr "I make the decisions, without discussing it with my husband."
 
-#: ../../multi_var/Q1231.rst
-msgid "私が決めた"
-msgstr ""
+#: ../../multi_var/Q1231.rst:13
+msgid "特に相談せず、なんとなく決まっている"
+msgstr "It's somewhat mutual."
 
-#: ../../multi_var/Q1231.rst
-msgid "なんとなく決まっている"
-msgstr ""
+#: ../../multi_var/Q1231.rst:13
+msgid "2人で相談して、合意して決めた"
+msgstr "We discuss it together and agree upon it."
 
-#: ../../multi_var/Q1231.rst
-msgid "2人で相談して、"
-msgstr ""
+#: ../../multi_var/Q1231.rst:13
+msgid "2人で相談して、ほぼ夫の意見が通った"
+msgstr "We discuss it together and my husband's opinion is almost always the right one."
 
-#: ../../multi_var/Q1231.rst
-msgid "合意して決めた"
-msgstr ""
+#: ../../multi_var/Q1231.rst:13
+msgid "2人で相談して、ほぼ私の意見が通った"
+msgstr "We discuss it together and my opinion is almost always the right one."
 
-#: ../../multi_var/Q1231.rst
-msgid "ほぼ夫の意見が通った"
-msgstr ""
+#: ../../multi_var/Q1231.rst:13
+msgid "2人で相談して妥協の結果"
+msgstr "We discuss it together and we compromise."
 
-#: ../../multi_var/Q1231.rst
-msgid "ほぼ私の意見が通った"
-msgstr ""
 
-#: ../../multi_var/Q1231.rst
-msgid "2人で相談して"
-msgstr ""
-
-#: ../../multi_var/Q1231.rst
-msgid "妥協の結果"
-msgstr ""
-
-#: ../../multi_var/Q1231.rst:1
+#: ../../multi_var/Q1231.rst:13
 msgid "特に相談することはない"
-msgstr ""
+msgstr "Not discuss specifically."
 
-#: ../../multi_var/Q1231.rst:1
+#: ../../multi_var/Q1231.rst:13
 msgid "その他"
-msgstr ""
+msgstr "Others"
 
 #: ../../multi_var/Q1231.rst:1
 msgid "（1）家計の収支の状況について"
-msgstr ""
+msgstr "\(1) Household Income and Expenses"
 
 #: ../../multi_var/Q1231.rst:1
 msgid ":doc:`Q1231A </variable/Q1231A>`"
@@ -95,43 +86,43 @@ msgstr ""
 
 #: ../../multi_var/Q1231.rst:1
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../multi_var/Q1231.rst:1
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../multi_var/Q1231.rst:1
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../multi_var/Q1231.rst:1
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../multi_var/Q1231.rst:1
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../multi_var/Q1231.rst:1
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../multi_var/Q1231.rst:1
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: ../../multi_var/Q1231.rst:1
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: ../../multi_var/Q1231.rst:1
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: ../../multi_var/Q1231.rst:1
 msgid "（2）家計の管理法や費用負担について"
-msgstr ""
+msgstr "\(2) Household management methods and cost sharing"
 
 #: ../../multi_var/Q1231.rst:1
 msgid ":doc:`Q1231B </variable/Q1231B>`"
@@ -139,7 +130,7 @@ msgstr ""
 
 #: ../../multi_var/Q1231.rst:1
 msgid "（3）住宅や教育費、家族の生涯設計について"
-msgstr ""
+msgstr "\(3) Housing or education expenses and lifetime planning for the family"
 
 #: ../../multi_var/Q1231.rst:1
 msgid ":doc:`Q1231C </variable/Q1231C>`"
@@ -147,7 +138,7 @@ msgstr ""
 
 #: ../../multi_var/Q1231.rst:1
 msgid "（4）老後の生活について"
-msgstr ""
+msgstr "\(4) Life in old age"
 
 #: ../../multi_var/Q1231.rst:1
 msgid ":doc:`Q1231D </variable/Q1231D>`"
@@ -155,7 +146,7 @@ msgstr ""
 
 #: ../../multi_var/Q1231.rst:1
 msgid "（5）夫の働き方や収入について"
-msgstr ""
+msgstr "\(5) Husband's work style and income"
 
 #: ../../multi_var/Q1231.rst:1
 msgid ":doc:`Q1231E </variable/Q1231E>`"
@@ -163,9 +154,8 @@ msgstr ""
 
 #: ../../multi_var/Q1231.rst:1
 msgid "（6）私の働き方や収入について"
-msgstr ""
+msgstr "\(6) My work style and income"
 
 #: ../../multi_var/Q1231.rst:1
 msgid ":doc:`Q1231F </variable/Q1231F>`"
 msgstr ""
-
