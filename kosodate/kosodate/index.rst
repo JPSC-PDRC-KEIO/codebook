@@ -15,3 +15,4 @@
    kyouiku
    jidou_teate
    kosodate_hs
+   kodomo_gakureki
