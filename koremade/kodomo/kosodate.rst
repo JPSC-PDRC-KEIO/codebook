@@ -9,12 +9,11 @@
 
 
 .. csv-table:: 
-   :header: "項目", 1番目の子, 2番目の子, 3番目の子
-   :widths: 5, 5, 5, 5
+   :header: 項目, 1番目の子, 2番目の子, 3番目の子
 
-   "子育てについて", ":doc:`Q1327</multi_var/Q1327>`", ":doc:`Q1339</multi_var/Q1339>`", ":doc:`Q1351/multi_var/Q1351>`",
+   "子育てについて", ":doc:`Q1327</multi_var/Q1327>`", ":doc:`Q1339</multi_var/Q1339>`", ":doc:`Q1351</multi_var/Q1351>`"
    "18歳になるまでの教育やしつけ", ":doc:`Q1328</variable/Q1328>`", ":doc:`Q1340</variable/Q1340>`", ":doc:`Q1352</variable/Q1352>`"
-   "3歳時点の通園・保育, ":doc:`Q1329</multi_var/Q1329>`", ":doc:`Q1341</multi_var/Q1341>`", ":doc:`Q1353</multi_var/Q1353>`"
+   "3歳時点の通園・保育", ":doc:`Q1329</multi_var/Q1329>`", ":doc:`Q1341</multi_var/Q1341>`", ":doc:`Q1353</multi_var/Q1353>`"
    "経済援助やお世話", ":doc:`Q1330</variable/Q1330>`", ":doc:`Q1342</variable/Q1342>`", ":doc:`Q1354</variable/Q1354>`"
    "学校卒業後の就業", ":doc:`Q1331</variable/Q1331>`", ":doc:`Q1343</variable/Q1343>`", ":doc:`Q1355</variable/Q1355>`"
    "現在の就業", ":doc:`Q1332</variable/Q1332>`", ":doc:`Q1344</variable/Q1344>`", ":doc:`Q1356</variable/Q1356>`"

@@ -23,3 +23,5 @@
    seisaku/index
    sonota/index
    covid19/index
+   koremade/index
+   enquete/index

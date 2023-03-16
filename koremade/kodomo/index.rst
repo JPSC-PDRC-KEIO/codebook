@@ -8,3 +8,4 @@
    /variable/Q1323A
    /variable/Q1323B
    kodomo_status
+   kosodate
