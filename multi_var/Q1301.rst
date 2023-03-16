@@ -18,7 +18,7 @@
    勤め先の都合（人員整理、倒産等）で今の仕事をやめる,:doc:`Q1301E </variable/Q1301E>`
    定年退職,:doc:`Q1301F </variable/Q1301F>`
    定年退職以外の雇用契約の満了,:doc:`Q1301G </variable/Q1301G>`
-   手術や長期の療養が必要な入院,:doc:`Q1301H </variable/Q1301I>`
+   手術や長期の療養が必要な入院,:doc:`Q1301H </variable/Q1301H>`
 
 
 .. toctree::

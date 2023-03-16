@@ -9,3 +9,4 @@
    dekigoto_past
    hendou_year
    dekigoto_year
+   dekigoto_nextyear
