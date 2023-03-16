@@ -10,3 +10,4 @@
    /variable/Q1254
    kyujitsu
    ryokou
+   /multi_var/Q1309
