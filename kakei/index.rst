@@ -10,3 +10,4 @@
   syunyu_all
   zeisyakaihoken
   syunyukanri
+  nensyu_mikomi

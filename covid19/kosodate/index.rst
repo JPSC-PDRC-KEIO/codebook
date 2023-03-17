@@ -8,6 +8,7 @@
 
    sewa_normal
    /variable/Q1245
+   /variable/Q1308
    sewa_kinkyujitai
 
 
