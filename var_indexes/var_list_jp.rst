@@ -252,7 +252,7 @@ List of variables (in Japanese)
 * `P77T     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77T.html>`_ : 初職の選択理由：家族がすすめるので
 * `P77U     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77U.html>`_ : 初職の選択理由：会社で指定された
 * `P77V     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77V.html>`_ : 初職の選択理由：家業だから
-* `P77W     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77W.html>`_ : 初職の選択理由：その他(具体的に　　　　　　　　　　　　　　　)
+* `P77W     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77W.html>`_ : 初職の選択理由：その他
 * `P77X     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77X.html>`_ : 初職の選択理由：拘束時間が少ない、労働時間が自由になる
 * `P77Y     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P77Y.html>`_ : 初職の選択理由：結婚・出産後も続けやすい
 * `P78A     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P78A.html>`_ : 初職の離職理由：人員整理・会社解散・倒産のため
@@ -281,7 +281,7 @@ List of variables (in Japanese)
 * `P78V     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P78V.html>`_ : 初職の離職理由：労働条件（収入、時間）が悪かったから
 * `P78W     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P78W.html>`_ : 初職の離職理由：仕事の内容に不満があったため
 * `P78X     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P78X.html>`_ : 初職の離職理由：妊娠・出産・育児のため
-* `P78Z     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P78Z.html>`_ : 初職の離職理由：定年または雇用契約の満了
+* `P78Z     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P78Z.html>`_ : 初職の離職理由：定年又は雇用契約の満了
 * `P79      <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P79.html>`_ : これまでの勤務先数〔第1回〕
 * `P84      <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P84.html>`_ : 最終学歴（実父）〔第1回〕
 * `P85      <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P85.html>`_ : 健在か（実父）
@@ -491,10 +491,10 @@ List of variables (in Japanese)
 * `P186C    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P186C.html>`_ : 初職の評価：休日・休暇をとりやすい
 * `P186D    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P186D.html>`_ : 初職の評価：通勤時間が短い
 * `P186E    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P186E.html>`_ : 初職の評価：転勤がない・少ない
-* `P186F    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P186F.html>`_ : 初職の評価：安定している・失業の恐れのない
+* `P186F    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P186F.html>`_ : 初職の評価：安定している・失業のおそれがない
 * `P186G    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P186G.html>`_ : 初職の評価：将来、発展する可能性がある
 * `P186H    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P186H.html>`_ : 初職の評価：結婚・出産後も続けやすい
-* `P186I    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P186I.html>`_ : 初職の評価：技術が身に付く
+* `P186I    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P186I.html>`_ : 初職の評価：技術が身につく
 * `P186J    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P186J.html>`_ : 初職の評価：能力が生かせる
 * `P186K    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P186K.html>`_ : 初職の評価：仕事内容に興味がある
 * `P186L    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P186L.html>`_ : 初職の評価：人間関係が良好である
@@ -505,10 +505,10 @@ List of variables (in Japanese)
 * `P188C    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P188C.html>`_ : 前職の評価：休日・休暇をとりやすい
 * `P188D    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P188D.html>`_ : 前職の評価：通勤時間が短い
 * `P188E    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P188E.html>`_ : 前職の評価：転勤がない・少ない
-* `P188F    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P188F.html>`_ : 前職の評価：安定している・失業の恐れのない
+* `P188F    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P188F.html>`_ : 前職の評価：安定している・失業のおそれがない
 * `P188G    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P188G.html>`_ : 前職の評価：将来、発展する可能性がある
 * `P188H    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P188H.html>`_ : 前職の評価：結婚・出産後も続けやすい
-* `P188I    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P188I.html>`_ : 前職の評価：技術が身に付く
+* `P188I    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P188I.html>`_ : 前職の評価：技術が身につく
 * `P188J    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P188J.html>`_ : 前職の評価：能力が生かせる
 * `P188K    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P188K.html>`_ : 前職の評価：仕事内容に興味がある
 * `P188L    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/P188L.html>`_ : 前職の評価：人間関係が良好である
@@ -791,7 +791,7 @@ List of variables (in Japanese)
 * `Q170F    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q170F.html>`_ : 研修・講習会の内容：留学
 * `Q170G    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q170G.html>`_ : 研修・講習会の内容：その他
 * `Q171     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q171.html>`_ : 研修・講習会への参加日数
-* `Q172     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q172.html>`_ : 研修・講習会への就業時間内参加
+* `Q172     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q172.html>`_ : 研修・講習会への就業時間外参加
 * `Q178     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q178.html>`_ : 就業状態の変化の有無
 * `Q179     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q179.html>`_ : 勤務先変更の有無
 * `Q180     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q180.html>`_ : 勤務先従業員数の増減
@@ -801,29 +801,29 @@ List of variables (in Japanese)
 * `Q185A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185A.html>`_ : 離職理由：人員整理・会社解散・倒産のため
 * `Q185AA   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185AA.html>`_ : 離職理由：育児・子育てのため
 * `Q185B    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185B.html>`_ : 離職理由：一時的・不安定な仕事だったから
-* `Q185C    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185C.html>`_ : 収入が少なかったから
-* `Q185D    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185D.html>`_ : 労働条件が悪かったから
-* `Q185E    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185E.html>`_ : 自分に向かない仕事だったから
-* `Q185F    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185F.html>`_ : 単調な仕事でむなしいとおもったから
+* `Q185C    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185C.html>`_ : 離職理由：収入が少なかったから
+* `Q185D    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185D.html>`_ : 離職理由：労働条件が悪かったから
+* `Q185E    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185E.html>`_ : 離職理由：自分に向かない仕事だったから
+* `Q185F    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185F.html>`_ : 離職理由：単調な仕事でむなしいとおもったから
 * `Q185G    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185G.html>`_ : 離職理由：家族の就職・転職・転勤及び事業所の移転のため
 * `Q185H    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185H.html>`_ : 離職理由：結婚のため
-* `Q185I    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185I.html>`_ : 子どもが欲しいので
-* `Q185J    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185J.html>`_ : 妊娠のため身体を気づかって
-* `Q185K    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185K.html>`_ : Q185Oと重複
+* `Q185I    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185I.html>`_ : 離職理由：子どもが欲しいので
+* `Q185J    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185J.html>`_ : 離職理由：妊娠のため身体を気づかって
+* `Q185K    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185K.html>`_ : 離職理由：出産・育児のため
 * `Q185L    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185L.html>`_ : 離職理由：自分が病気になったから
 * `Q185M    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185M.html>`_ : 離職理由：家族の介護のため
-* `Q185N    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185N.html>`_ : 能力が生かせない仕事だったから
+* `Q185N    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185N.html>`_ : 離職理由：能力が生かせない仕事だったから
 * `Q185O    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185O.html>`_ : 離職理由：良い条件の仕事が見つかったから・独立したから
-* `Q185P    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185P.html>`_ : 職場の上司との関係がうまくいかなくて
-* `Q185Q    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185Q.html>`_ : 職場の同僚との関係がうまくいかなくて
-* `Q185R    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185R.html>`_ : 離職理由：大学や専門学校などでの勉強や留学準備のため
-* `Q185S    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185S.html>`_ : 離職理由：定年又は雇用契約の満了
+* `Q185P    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185P.html>`_ : 離職理由：職場の上司との関係がうまくいかなくて
+* `Q185Q    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185Q.html>`_ : 離職理由：職場の同僚との関係がうまくいかなくて
+* `Q185R    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185R.html>`_ : 離職理由：解雇された
+* `Q185S    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185S.html>`_ : 離職理由：大学や専門学校などでの勉強や留学準備のため
 * `Q185T    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185T.html>`_ : 離職理由：その他
 * `Q185U    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185U.html>`_ : 離職理由：労働条件（収入、時間）が悪かったため
 * `Q185V    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185V.html>`_ : 離職理由：仕事の内容に不満があったため
 * `Q185W    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185W.html>`_ : 離職理由：妊娠・出産・育児のため
 * `Q185X    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185X.html>`_ : 離職理由：人間関係がきまずくなったから
-* `Q185Y    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185Y.html>`_ : 離職理由：解雇された
+* `Q185Y    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185Y.html>`_ : 離職理由：定年又は雇用契約の満了
 * `Q185Z    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q185Z.html>`_ : 離職理由：妊娠・出産のため
 * `Q186A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q186A.html>`_ : 雇用保険失業給付受給の有無〔第2～第17回〕
 * `Q186B    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q186B.html>`_ : 雇用保険失業給付受給月数
@@ -864,10 +864,10 @@ List of variables (in Japanese)
 * `Q192F    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q192F.html>`_ : 現職（職種）の選択理由：安定している、失業のおそれがない
 * `Q192G    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q192G.html>`_ : 現職（職種）の選択理由：将来発展する可能性がある
 * `Q192H    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q192H.html>`_ : 現職（職種）の選択理由：組織にしばられない
-* `Q192I    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q192I.html>`_ : 現職（職種）の選択理由：出産後も続けやすい
+* `Q192I    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q192I.html>`_ : 現職（職種）の選択理由：結婚後も続けやすい
 * `Q192J    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q192J.html>`_ : 現職（職種）の選択理由：出産後も続けやすい
 * `Q192K    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q192K.html>`_ : 現職（職種）の選択理由：技術が身につく
-* `Q192L    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q192L.html>`_ : 現職（職種）の選択理由：能力がいかせる
+* `Q192L    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q192L.html>`_ : 現職（職種）の選択理由：能力が生かせる
 * `Q192M    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q192M.html>`_ : 現職（職種）の選択理由：仕事内容に興味がある
 * `Q192N    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q192N.html>`_ : 現職（職種）の選択理由：外国に行ける
 * `Q192O    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q192O.html>`_ : 現職（職種）の選択理由：結婚相手が見つかる
@@ -891,7 +891,7 @@ List of variables (in Japanese)
 * `Q198G    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q198G.html>`_ : 離職理由（無職）：家族の就職・転職・転勤および事業所の移転のため
 * `Q198H    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q198H.html>`_ : 離職理由（無職）：結婚のため
 * `Q198I    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q198I.html>`_ : 離職理由（無職）：子どもが欲しいので
-* `Q198J    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q198J.html>`_ : 離職理由（無職）：妊娠ために体を気づかって
+* `Q198J    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q198J.html>`_ : 離職理由（無職）：妊娠のために体を気づかって
 * `Q198K    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q198K.html>`_ : 離職理由（無職）：出産・育児のため
 * `Q198L    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q198L.html>`_ : 離職理由（無職）：自分が病気になったから
 * `Q198M    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q198M.html>`_ : 離職理由（無職）：家族の介護のため
@@ -905,7 +905,7 @@ List of variables (in Japanese)
 * `Q198U    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q198U.html>`_ : 離職理由（無職）：労働条件（収入、時間）が悪かったため
 * `Q198V    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q198V.html>`_ : 離職理由（無職）：仕事の内容に不満があったため
 * `Q198W    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q198W.html>`_ : 離職理由（無職）：妊娠・出産・育児のため
-* `Q198X    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q198X.html>`_ : 離職理由（無職）：人間関係がきまずくなったから
+* `Q198X    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q198X.html>`_ : 離職理由（無職）：人間関係が気まずくなったから
 * `Q198Y    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q198Y.html>`_ : 離職理由（無職）：定年又は雇用契約の満了
 * `Q198Z    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q198Z.html>`_ : 離職理由（無職）：妊娠・出産のため
 * `Q199A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q199A.html>`_ : 雇用保険失業給付の受給（本人無職/前職）
@@ -965,14 +965,14 @@ List of variables (in Japanese)
 * `Q247L    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q247L.html>`_ : 離職理由（配偶者有職）：良い条件の仕事が見つかったから・独立したから
 * `Q247M    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q247M.html>`_ : 離職理由（配偶者有職）：職場の上司との関係がうまくいかなくて
 * `Q247N    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q247N.html>`_ : 離職理由（配偶者有職）：職場の同僚との関係がうまくいかなくて
-* `Q247O    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q247O.html>`_ : 離職理由（配偶者有職）：大学や専門学校などでの勉強や留学準備のため
-* `Q247P    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q247P.html>`_ : 離職理由（配偶者有職）：定年または雇用契約の満了
+* `Q247O    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q247O.html>`_ : 離職理由（配偶者有職）：解雇された
+* `Q247P    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q247P.html>`_ : 離職理由（配偶者有職）：大学や専門学校などでの勉強や留学準備のため
 * `Q247Q    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q247Q.html>`_ : 離職理由（配偶者有職）：その他
 * `Q247R    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q247R.html>`_ : 離職理由（配偶者有職）：労働条件（収入、時間）が悪かったため
 * `Q247S    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q247S.html>`_ : 離職理由（配偶者有職）：仕事の内容に不満があったため
 * `Q247T    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q247T.html>`_ : 離職理由（配偶者有職）：出産・育児のため
 * `Q247U    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q247U.html>`_ : 離職理由（配偶者有職）：人間関係が気まずくなったから
-* `Q247V    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q247V.html>`_ : 離職理由（配偶者有職）：解雇された
+* `Q247V    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q247V.html>`_ : 離職理由（配偶者有職）：定年または雇用契約の満了
 * `Q247Z    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q247Z.html>`_ : 離職理由（配偶者有職）：妻の妊娠・出産のため
 * `Q248A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q248A.html>`_ : 雇用保険失業給付受給の有無（配偶者有職）〔第2～第17回〕
 * `Q248B    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q248B.html>`_ : 雇用保険失業給付受給月数（配偶者有職）
@@ -1001,7 +1001,7 @@ List of variables (in Japanese)
 * `Q253P    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q253P.html>`_ : 現職（会社）の選択理由（配偶者）：学校がすすめるので
 * `Q253Q    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q253Q.html>`_ : 現職（会社）の選択理由（配偶者）：家族がすすめるので
 * `Q253R    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q253R.html>`_ : 現職（会社）の選択理由（配偶者）：その他
-* `Q253S    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q253S.html>`_ : 現職（会社）の選択理由（配偶者）：拘束時間が少ない
+* `Q253S    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q253S.html>`_ : 現職（会社）の選択理由（配偶者）：拘束時間が少ない、労働時間が自由になる
 * `Q254A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q254A.html>`_ : 現職（職種）の選択理由（配偶者） ：収入・給与がよい
 * `Q254B    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q254B.html>`_ : 現職（職種）の選択理由（配偶者）：休日、休暇が多い
 * `Q254C    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q254C.html>`_ : 現職（職種）の選択理由（配偶者）：拘束時間が少ない、残業が少ない
@@ -1011,7 +1011,7 @@ List of variables (in Japanese)
 * `Q254G    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q254G.html>`_ : 現職（職種）の選択理由（配偶者）：将来発展する可能性がある
 * `Q254H    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q254H.html>`_ : 現職（職種）の選択理由（配偶者）：組織にしばられない
 * `Q254I    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q254I.html>`_ : 現職（職種）の選択理由（配偶者）：技術が身につく
-* `Q254J    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q254J.html>`_ : 現職（職種）の選択理由（配偶者）：能力がいかせる
+* `Q254J    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q254J.html>`_ : 現職（職種）の選択理由（配偶者）：能力が生かせる
 * `Q254K    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q254K.html>`_ : 現職（職種）の選択理由（配偶者）：仕事内容に興味がある
 * `Q254L    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q254L.html>`_ : 現職（職種）の選択理由（配偶者）：外国に行ける
 * `Q254M    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q254M.html>`_ : 現職（職種）の選択理由（配偶者）結婚相手が見つかる
@@ -1040,14 +1040,14 @@ List of variables (in Japanese)
 * `Q260L    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q260L.html>`_ : 離職理由（配偶者無職）：良い条件の仕事が見つかったから・独立したから
 * `Q260M    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q260M.html>`_ : 離職理由（配偶者無職）：職場の上司との関係がうまくいかなくて
 * `Q260N    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q260N.html>`_ : 離職理由（配偶者無職）：職場の同僚との関係がうまくいかなくて
-* `Q260O    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q260O.html>`_ : 離職理由（配偶者無職）：大学や専門学校などでの勉強や留学準備のため
-* `Q260P    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q260P.html>`_ : 離職理由（配偶者無職）：定年又は雇用契約の満了
+* `Q260O    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q260O.html>`_ : 離職理由（配偶者無職）：解雇された
+* `Q260P    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q260P.html>`_ : 離職理由（配偶者無職）：大学や専門学校などでの勉強や留学準備のため
 * `Q260Q    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q260Q.html>`_ : 離職理由（配偶者無職）：その他
 * `Q260R    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q260R.html>`_ : 離職理由（配偶者無職）：労働条件（収入、時間）が悪かったため
 * `Q260S    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q260S.html>`_ : 離職理由（配偶者無職）：仕事の内容に不満があったため
 * `Q260T    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q260T.html>`_ : 離職理由（配偶者無職）：出産・育児のため
 * `Q260U    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q260U.html>`_ : 離職理由（配偶者無職）：人間関係が気まずくなったから
-* `Q260V    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q260V.html>`_ : 離職理由（配偶者無職）：解雇された
+* `Q260V    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q260V.html>`_ : 離職理由（配偶者無職）：定年又は雇用契約の満了
 * `Q260Z    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q260Z.html>`_ : 離職理由（配偶者無職）：妻の妊娠・出産のため
 * `Q261A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q261A.html>`_ : 雇用保険失業給付受給の有無（配偶者無職）〔第2～第17回〕
 * `Q261B    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q261B.html>`_ : 雇用保険失業給付受給月数（配偶者無職）〔第2～第17回〕
@@ -1954,14 +1954,14 @@ List of variables (in Japanese)
 * `Q926     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q926.html>`_ : 家庭の収入への満足度
 * `Q927     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q927.html>`_ : 家庭の消費額への満足度
 * `Q928     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q928.html>`_ : 家庭の消費内容への満足度
-* `Q932A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q932A.html>`_ : 生活領域重要度　住む
-* `Q932B    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q932B.html>`_ : 生活領域重要度　費やす
-* `Q932C    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q932C.html>`_ : 生活領域重要度　働く
-* `Q932D    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q932D.html>`_ : 生活領域重要度　育てる
-* `Q932E    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q932E.html>`_ : 生活領域重要度　癒す
-* `Q932F    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q932F.html>`_ : 生活領域重要度　遊ぶ
-* `Q932G    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q932G.html>`_ : 生活領域重要度　学ぶ
-* `Q932H    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q932H.html>`_ : 生活領域重要度　交わる
+* `Q932A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q932A.html>`_ : 生活領域重要度：住む
+* `Q932B    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q932B.html>`_ : 生活領域重要度：費やす
+* `Q932C    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q932C.html>`_ : 生活領域重要度：働く
+* `Q932D    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q932D.html>`_ : 生活領域重要度：育てる
+* `Q932E    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q932E.html>`_ : 生活領域重要度：癒す
+* `Q932F    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q932F.html>`_ : 生活領域重要度：遊ぶ
+* `Q932G    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q932G.html>`_ : 生活領域重要度：学ぶ
+* `Q932H    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q932H.html>`_ : 生活領域重要度：交わる
 * `Q933     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q933.html>`_ : 離婚について
 * `Q965     <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q965.html>`_ : 子育て費用への考え方
 * `Q980A    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q980A.html>`_ : 教育訓練給付制度の今後の利用目的：仕事発展のため
@@ -2126,18 +2126,18 @@ List of variables (in Japanese)
 * `Q1090    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1090.html>`_ : 離婚時の厚生年金分割制度の認知
 * `Q1091    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1091.html>`_ : 創立年
 * `Q1092    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1092.html>`_ : 創立年（配偶者）
-* `Q1093_1  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_1.html>`_ : からだ・心の状態：わずらわしい
-* `Q1093_10 <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_10.html>`_ : からだ・心の状態：寂しい
-* `Q1093_11 <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_11.html>`_ : からだ・心の状態：「毎日が楽しい」と感じた
-* `Q1093_12 <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_12.html>`_ : からだ・心の状態：悲しい
-* `Q1093_2  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_2.html>`_ : からだ・心の状態：気分が晴れない
-* `Q1093_3  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_3.html>`_ : からだ・心の状態：憂鬱
-* `Q1093_4  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_4.html>`_ : からだ・心の状態：集中できない
-* `Q1093_5  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_5.html>`_ : からだ・心の状態：食欲が落ちた
-* `Q1093_6  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_6.html>`_ : からだ・心の状態：面倒
-* `Q1093_7  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_7.html>`_ : からだ・心の状態：恐ろしい
-* `Q1093_8  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_8.html>`_ : からだ・心の状態：眠れない
-* `Q1093_9  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_9.html>`_ : からだ・心の状態：口数が少ない
+* `Q1093_1  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_1.html>`_ : からだ・心の状態（CES-D）：わずらわしい
+* `Q1093_10 <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_10.html>`_ : からだ・心の状態（CES-D）：寂しい
+* `Q1093_11 <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_11.html>`_ : からだ・心の状態（CES-D）：「毎日が楽しい」と感じた
+* `Q1093_12 <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_12.html>`_ : からだ・心の状態（CES-D）：悲しい
+* `Q1093_2  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_2.html>`_ : からだ・心の状態（CES-D）：気分が晴れない
+* `Q1093_3  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_3.html>`_ : からだ・心の状態（CES-D）：憂鬱
+* `Q1093_4  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_4.html>`_ : からだ・心の状態（CES-D）：集中できない
+* `Q1093_5  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_5.html>`_ : からだ・心の状態（CES-D）：食欲が落ちた
+* `Q1093_6  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_6.html>`_ : からだ・心の状態（CES-D）：面倒
+* `Q1093_7  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_7.html>`_ : からだ・心の状態（CES-D）：恐ろしい
+* `Q1093_8  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_8.html>`_ : からだ・心の状態（CES-D）：眠れない
+* `Q1093_9  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1093_9.html>`_ : からだ・心の状態（CES-D）：口数が少ない
 * `Q1095A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1095A.html>`_ : 入学費用のまかない方：日ごろの収入
 * `Q1095B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1095B.html>`_ : 入学費用のまかない方：学資保険
 * `Q1095C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1095C.html>`_ : 入学費用のまかない方：預貯金、資産売却
@@ -2314,10 +2314,10 @@ List of variables (in Japanese)
 * `Q1185C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1185C.html>`_ : 勤務先の評価：休日・休暇をとりやすい
 * `Q1185D   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1185D.html>`_ : 勤務先の評価：通勤時間が短い
 * `Q1185E   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1185E.html>`_ : 勤務先の評価：転勤がない・少ない
-* `Q1185F   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1185F.html>`_ : 勤務先の評価：安定している・失業の恐れのない
+* `Q1185F   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1185F.html>`_ : 勤務先の評価：安定している・失業のおそれがない
 * `Q1185G   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1185G.html>`_ : 勤務先の評価：将来、発展する可能性がある
 * `Q1185H   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1185H.html>`_ : 勤務先の評価：結婚・出産後も続けやすい
-* `Q1185I   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1185I.html>`_ : 勤務先の評価：技術が身に付く
+* `Q1185I   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1185I.html>`_ : 勤務先の評価：技術が身につく
 * `Q1185J   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1185J.html>`_ : 1勤務先の評価：能力が生かせる
 * `Q1185K   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1185K.html>`_ : 勤務先の評価：仕事内容に興味がある
 * `Q1185L   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1185L.html>`_ : 勤務先の評価：人間関係が良好である
@@ -2355,7 +2355,7 @@ List of variables (in Japanese)
 * `Q1196M   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1196M.html>`_ : 睡眠時間　分（平日）
 * `Q1197H   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1197H.html>`_ : 睡眠時間　時（休日）
 * `Q1197M   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1197M.html>`_ : 睡眠時間　分（休日）
-* `Q1198    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1198.html>`_ : お金の使い方
+* `Q1198    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1198.html>`_ : 支出の傾向
 * `Q1199    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1199.html>`_ : 支出の傾向（配偶者）
 * `Q1200A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1200A.html>`_ : 将来の働き方希望：権限や責任がある仕事
 * `Q1200B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1200B.html>`_ : 将来の働き方希望：家庭を重視
@@ -2370,6 +2370,14 @@ List of variables (in Japanese)
 * `Q1201F   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1201F.html>`_ : 日本は所得格差の大きい社会か
 * `Q1201G   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1201G.html>`_ : 日本は暮らしやすい社会か
 * `Q1201H   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1201H.html>`_ : 政府や行政は問題によく取り組んでいるか
+* `Q1201I   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1201I.html>`_ : 貯蓄計画を立てても達成できないことが多い
+* `Q1201J   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1201J.html>`_ : ほしいものがあると我慢できずに買ってしまう
+* `Q1201K   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1201K.html>`_ : 万が一の時に備えてなるべく貯蓄をしておきたい
+* `Q1201L   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1201L.html>`_ : 自分の貯蓄額が周りの人よりも少ないと気になる
+* `Q1201M   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1201M.html>`_ : 貯蓄額が以前よりも少ないと気になる
+* `Q1201N   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1201N.html>`_ : 思いがけず10万円失うぐらいなら、最初から10万円持っていなかった方がマシだと思う
+* `Q1201O   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1201O.html>`_ : 思いがけない出来事により１万円失う恐れがあったが、結局失わないで済んだときはとてもうれしく思う
+* `Q1201P   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1201P.html>`_ : 思いがけない出来事により１万円もらえるはずだったが、結局もらえなかったときはとても残念に思う
 * `Q1202    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1202.html>`_ : 消費税率の設定への意見
 * `Q1203    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1203.html>`_ : 3年後の労働意欲
 * `Q1204    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1204.html>`_ : 3年後の労働状況
@@ -2382,8 +2390,8 @@ List of variables (in Japanese)
 * `Q1206F   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1206F.html>`_ : 悩み・困りごと：助けにきてくれる人が家族以外にもいる
 * `Q1207    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1207.html>`_ : 10年前の生活満足度
 * `Q1208    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1208.html>`_ : 10年前の生活水準
-* `Q1209A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1209A.html>`_ : 夫婦間での生活費の把握
-* `Q1209B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1209B.html>`_ : 夫婦間での収入の開示：あなたの収入
+* `Q1209A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1209A.html>`_ : 夫婦間での収入の開示：あなたの収入
+* `Q1209B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1209B.html>`_ : 夫婦間での収入の開示：夫の収入
 * `Q1210    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1210.html>`_ : 夫婦間での生活費の把握
 * `Q1211    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1211.html>`_ : 年収調整の有無
 * `Q1212A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1212A.html>`_ : 年収調整の理由：所得税
@@ -2770,6 +2778,161 @@ List of variables (in Japanese)
 * `Q1299G   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1299G.html>`_ : 2020年9月の休業への給与・収入補填（配偶者）：その他
 * `Q1299H   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1299H.html>`_ : 2020年9月の休業への給与・収入補填（配偶者）：特にない
 * `Q1299I   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1299I.html>`_ : 2020年9月の休業への給与・収入補填（配偶者）：働いていない
+* `Q1300A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1300A.html>`_ : 今後１年間の出来事（本人）：就職
+* `Q1300B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1300B.html>`_ : 今後１年間の出来事（本人）：転勤や単身赴任
+* `Q1300C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1300C.html>`_ : 今後１年間の出来事（本人）：転職
+* `Q1300D   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1300D.html>`_ : 今後１年間の出来事（本人）：希望退職
+* `Q1300E   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1300E.html>`_ : 今後１年間の出来事（本人）：人員整理・倒産
+* `Q1300F   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1300F.html>`_ : 今後１年間の出来事（本人）：定年退職
+* `Q1300G   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1300G.html>`_ : 今後１年間の出来事（本人）：雇用期間の満了
+* `Q1300H   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1300H.html>`_ : 今後１年間の出来事（本人）：病気
+* `Q1300I   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1300I.html>`_ : 今後１年間の出来事（本人）：結婚
+* `Q1300J   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1300J.html>`_ : 今後１年間の出来事（本人）：離婚
+* `Q1300K   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1300K.html>`_ : 今後１年間の出来事（本人）：出産
+* `Q1300L   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1300L.html>`_ : 今後１年間の出来事（本人）：引っ越し
+* `Q1301A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1301A.html>`_ : 今後１年間の出来事（配偶者）：就職
+* `Q1301B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1301B.html>`_ : 今後１年間の出来事（配偶者）：転勤や単身赴任
+* `Q1301C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1301C.html>`_ : 今後１年間の出来事（配偶者）：転職
+* `Q1301D   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1301D.html>`_ : 今後１年間の出来事（配偶者）：希望退職
+* `Q1301E   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1301E.html>`_ : 今後１年間の出来事（配偶者）：人員整理・倒産
+* `Q1301F   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1301F.html>`_ : 今後１年間の出来事（配偶者）：定年退職
+* `Q1301G   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1301G.html>`_ : 今後１年間の出来事（配偶者）：雇用期間の満了
+* `Q1301H   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1301H.html>`_ : 今後１年間の出来事（配偶者）：病気
+* `Q1302A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1302A.html>`_ : 今年の収入見込み（配偶者）
+* `Q1302B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1302B.html>`_ : 今年の税金・社会保険料（配偶者）
+* `Q1303A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1303A.html>`_ : 今年の収入見込み（本人）
+* `Q1303B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1303B.html>`_ : 今年の税金・社会保険料（本人）
+* `Q1304A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1304A.html>`_ : 今年の収入見込み（世帯員）
+* `Q1304B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1304B.html>`_ : 今年の税金・社会保険料（世帯員）
+* `Q1305A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1305A.html>`_ : １番上の子：最後に在籍した学校
+* `Q1305B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1305B.html>`_ : １番上の子：最後に在籍した学校の卒業の有無
+* `Q1306A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1306A.html>`_ : ２番目の子：最後に在籍した学校
+* `Q1306B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1306B.html>`_ : ２番上の子：最後に在籍した学校の卒業の有無
+* `Q1307A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1307A.html>`_ : ３番目の子：最後に在籍した学校
+* `Q1307B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1307B.html>`_ : ３番上の子：最後に在籍した学校の卒業の有無
+* `Q1308    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1308.html>`_ : 令和２年10月～令和３年9月の休校・休園
+* `Q1309A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1309A.html>`_ : 今後１年間に行いたいこと：外食や買い物
+* `Q1309B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1309B.html>`_ : 今後１年間に行いたいこと：県や地域内の旅行・帰省
+* `Q1309C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1309C.html>`_ : 今後１年間に行いたいこと：県や地域を超えた旅行・帰省
+* `Q1309D   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1309D.html>`_ : 今後１年間に行いたいこと：海外旅行
+* `Q1310    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1310.html>`_ : 新型コロナワクチン接種状況：意向
+* `Q1311    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1311.html>`_ : 18歳以上同居家族の新型コロナワクチン接種状況
+* `Q1312    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1312.html>`_ : 12～15歳の新型コロナワクチン接種について
+* `Q1313A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1313A.html>`_ : 労力や意識を向けた項目：学生時代の勉強や課外活動
+* `Q1313B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1313B.html>`_ : 労力や意識を向けた項目：仕事
+* `Q1313C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1313C.html>`_ : 労力や意識を向けた項目：収入や家計のやりくり
+* `Q1313D   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1313D.html>`_ : 労力や意識を向けた項目：家事や家族のこと
+* `Q1313E   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1313E.html>`_ : 労力や意識を向けた項目：夫に対して
+* `Q1313F   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1313F.html>`_ : 労力や意識を向けた項目：子供のしつけ、教育
+* `Q1313G   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1313G.html>`_ : 労力や意識を向けた項目：友人・知人との人間関係
+* `Q1313H   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1313H.html>`_ : 労力や意識を向けた項目：家族からの評価
+* `Q1313I   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1313I.html>`_ : 労力や意識を向けた項目：周囲からの評価
+* `Q1313J   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1313J.html>`_ : 労力や意識を向けた項目：女性らしく、女の子らしくふるまうこと
+* `Q1314A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1314A.html>`_ : これまでの生き方：様々な目標を持って過ごしてきた、過ごしている
+* `Q1314B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1314B.html>`_ : これまでの生き方：家庭生活や仕事、旅行等で、気づきや発見の機会があった
+* `Q1314C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1314C.html>`_ : これまでの生き方：趣味やボランティアなど、家事・仕事以外でやりがいのあることに取り組んだ
+* `Q1314D   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1314D.html>`_ : これまでの生き方：困難な状況に直面することが多くあった
+* `Q1314E   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1314E.html>`_ : これまでの生き方：新しいことにいろいろと挑戦してきた
+* `Q1314F   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1314F.html>`_ : これまでの生き方：自分の人生は唯一かけがえのないものであると思う
+* `Q1314G   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1314G.html>`_ : これまでの生き方：自分の人生は単調であった
+* `Q1314H   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1314H.html>`_ : これまでの生き方：有意義で価値のある人生を過ごしてきたと思う
+* `Q1314I   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1314I.html>`_ : これまでの生き方：喜びや幸せを感じることが多かった
+* `Q1314J   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1314J.html>`_ : これまでの生き方：悲しみやつらさを感じることが多かった
+* `Q1314K   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1314K.html>`_ : これまでの生き方：気持ちの高揚を感じることが多かった
+* `Q1314L   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1314L.html>`_ : これまでの生き方：日々をつまらなく感じることが多かった
+* `Q1315A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1315A.html>`_ : 世代間の環境評価（上の世代）：進路や職業選択の多様性
+* `Q1315B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1315B.html>`_ : 世代間の環境評価（本人の世代）：進路や職業選択の多様性
+* `Q1315C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1315C.html>`_ : 世代間の環境評価（下の世代）：進路や職業選択の多様性
+* `Q1316A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1316A.html>`_ : 世代間の環境評価（上の世代）：学校を卒業した頃の経済状況
+* `Q1316B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1316B.html>`_ : 世代間の環境評価（本人の世代）：学校を卒業した頃の経済状況
+* `Q1316C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1316C.html>`_ : 世代間の環境評価（下の世代）：学校を卒業した頃の経済状況
+* `Q1317A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1317A.html>`_ : 世代間の環境評価（上の世代）：雇用機会や待遇（賃金、昇進）の男女平等
+* `Q1317B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1317B.html>`_ : 世代間の環境評価（本人の世代）：雇用機会や待遇（賃金、昇進）の男女平等
+* `Q1317C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1317C.html>`_ : 世代間の環境評価（下の世代）：雇用機会や待遇（賃金、昇進）の男女平等
+* `Q1318A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1318A.html>`_ : 世代間の環境評価（上の世代）：男女がともに家事：育児にかかわること
+* `Q1318B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1318B.html>`_ : 世代間の環境評価（本人の世代）：男女がともに家事：育児にかかわること
+* `Q1318C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1318C.html>`_ : 世代間の環境評価（下の世代）：男女がともに家事：育児にかかわること
+* `Q1319A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1319A.html>`_ : 世代間の環境評価（上の世代）：将来の人生設計の立てやすさ
+* `Q1319B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1319B.html>`_ : 世代間の環境評価（本人の世代）：将来の人生設計の立てやすさ
+* `Q1319C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1319C.html>`_ : 世代間の環境評価（下の世代）：将来の人生設計の立てやすさ
+* `Q1320A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1320A.html>`_ : 世代間の環境評価（上の世代）：他人との競争が少ないこと
+* `Q1320B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1320B.html>`_ : 世代間の環境評価（本人の世代）：他人との競争が少ないこと
+* `Q1320C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1320C.html>`_ : 世代間の環境評価（下の世代）：他人との競争が少ないこと
+* `Q1321A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1321A.html>`_ : 世代間の環境評価（上の世代）：女性らしさに縛られず生きること
+* `Q1321B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1321B.html>`_ : 世代間の環境評価（本人の世代）：女性らしさに縛られず生きること
+* `Q1321C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1321C.html>`_ : 世代間の環境評価（下の世代）：女性らしさに縛られず生きること
+* `Q1322    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1322.html>`_ : 他の世代に生まれ変わることができる場合
+* `Q1323A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1323A.html>`_ : 健在の子供
+* `Q1323B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1323B.html>`_ : 健在の子供の人数
+* `Q1324A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1324A.html>`_ : 健在の子供（1）1番上：性別
+* `Q1324B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1324B.html>`_ : 健在の子供（2）1番上：生年
+* `Q1324C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1324C.html>`_ : 健在の子供（2）1番上：生月
+* `Q1324D   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1324D.html>`_ : 健在の子供（3）1番上：同居・別居
+* `Q1325A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1325A.html>`_ : 健在の子供（1）２番目：性別
+* `Q1325B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1325B.html>`_ : 健在の子供（2）２番目：生年
+* `Q1325C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1325C.html>`_ : 健在の子供（2）２番目：生月
+* `Q1325D   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1325D.html>`_ : 健在の子供（3）２番目：同居・別居
+* `Q1326A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1326A.html>`_ : 健在の子供（1）３番目：性別
+* `Q1326B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1326B.html>`_ : 健在の子供（2）３番目：生年
+* `Q1326C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1326C.html>`_ : 健在の子供（2）３番目・生月
+* `Q1326D   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1326D.html>`_ : 健在の子供（3）３番目：同居・別居
+* `Q1327A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1327A.html>`_ : 健在の子供（1）1番上：子育て・楽しかった
+* `Q1327B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1327B.html>`_ : 健在の子供（1）1番上：子育て・育てやすかった
+* `Q1327C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1327C.html>`_ : 健在の子供（1）1番上：子育て・苦労や心配が多かった
+* `Q1327D   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1327D.html>`_ : 健在の子供（1）1番上：子育て・過保護だった
+* `Q1328    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1328.html>`_ : 健在の子供（2）1番上：18歳になるまでの教育やしつけ
+* `Q1329A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1329A.html>`_ : 健在の子供（3）1番上：３歳時点の通園・保育　保育園
+* `Q1329B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1329B.html>`_ : 健在の子供（3）1番上：３歳時点の通園・保育　幼稚園
+* `Q1329C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1329C.html>`_ : 健在の子供（3）1番上：３歳時点の通園・保育　家庭保育（未通園）
+* `Q1329D   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1329D.html>`_ : 健在の子供（3）1番上：３歳時点の通園・保育　その他
+* `Q1330    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1330.html>`_ : 健在の子供（4）1番上：経済援助やお世話
+* `Q1331    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1331.html>`_ : 健在の子供（5）1番上：学校卒業後の就業
+* `Q1332    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1332.html>`_ : 健在の子供（6）1番上：現在の就業
+* `Q1333    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1333.html>`_ : 健在の子供（7）1番上：生活程度
+* `Q1334A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1334A.html>`_ : 健在の子供（8）1番上：子供の有無
+* `Q1334B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1334B.html>`_ : 健在の子供（8）1番上：子供人数
+* `Q1335    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1335.html>`_ : 健在の子供（9）1番上：未既婚
+* `Q1336    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1336.html>`_ : 健在の子供（10）1番上：初婚年齢
+* `Q1337    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1337.html>`_ : 健在の子供（11）1番上：子供の配偶者の最終学歴
+* `Q1338    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1338.html>`_ : 健在の子供（12）1番上：最後に行った学校の卒業
+* `Q1339A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1339A.html>`_ : 健在の子供（1）2番目：子育て・楽しかった
+* `Q1339B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1339B.html>`_ : 健在の子供（1）2番目：子育て・育てやすかった
+* `Q1339C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1339C.html>`_ : 健在の子供（1）2番目：子育て・苦労や心配が多かった
+* `Q1339D   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1339D.html>`_ : 健在の子供（1）2番目：子育て・過保護だった
+* `Q1340    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1340.html>`_ : 健在の子供（2）2番目：18歳になるまでの教育やしつけ
+* `Q1341A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1341A.html>`_ : 健在の子供（3）2番目：３歳時点の通園・保育　保育園
+* `Q1341B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1341B.html>`_ : 健在の子供（3）2番目：３歳時点の通園・保育　幼稚園
+* `Q1341C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1341C.html>`_ : 健在の子供（3）2番目：３歳時点の通園・保育　家庭保育（未通園）
+* `Q1341D   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1341D.html>`_ : 健在の子供（3）2番目：３歳時点の通園・保育　その他
+* `Q1342    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1342.html>`_ : 健在の子供（4）2番目：経済援助やお世話
+* `Q1343    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1343.html>`_ : 健在の子供（5）2番目：学校卒業後の就業
+* `Q1344    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1344.html>`_ : 健在の子供（6）2番目：現在の就業
+* `Q1345    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1345.html>`_ : 健在の子供（7）2番目：生活程度
+* `Q1346A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1346A.html>`_ : 健在の子供（8）2番目：子供の有無
+* `Q1346B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1346B.html>`_ : 健在の子供（8）2番目：子供人数
+* `Q1347    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1347.html>`_ : 健在の子供（9）2番目：未既婚
+* `Q1348    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1348.html>`_ : 健在の子供（10）2番目：初婚年齢
+* `Q1349    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1349.html>`_ : 健在の子供（11）2番目：子供の配偶者の最終学歴
+* `Q1350    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1350.html>`_ : 健在の子供（12）2番目：最後に行った学校の卒業
+* `Q1351A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1351A.html>`_ : 健在の子供（1）３番目：子育て・楽しかった
+* `Q1351B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1351B.html>`_ : 健在の子供（1）３番目：子育て・育てやすかった
+* `Q1351C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1351C.html>`_ : 健在の子供（1）３番目：子育て・苦労や心配が多かった
+* `Q1351D   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1351D.html>`_ : 健在の子供（1）３番目：子育て・過保護だった
+* `Q1352    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1352.html>`_ : 健在の子供（2）３番目：18歳になるまでの教育やしつけ
+* `Q1353A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1353A.html>`_ : 健在の子供（3）３番目：３歳時点の通園・保育　保育園
+* `Q1353B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1353B.html>`_ : 健在の子供（3）３番目：３歳時点の通園・保育　幼稚園
+* `Q1353C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1353C.html>`_ : 健在の子供（3）３番目：３歳時点の通園・保育　家庭保育（未通園）
+* `Q1353D   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1353D.html>`_ : 健在の子供（3）３番目：３歳時点の通園・保育　その他
+* `Q1354    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1354.html>`_ : 健在の子供（4）３番目：経済援助やお世話
+* `Q1355    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1355.html>`_ : 健在の子供（5）３番目：学校卒業後の就業
+* `Q1356    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1356.html>`_ : 健在の子供（6）３番目：現在の就業
+* `Q1357    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1357.html>`_ : 健在の子供（7）３番目：生活程度
+* `Q1358A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1358A.html>`_ : 健在の子供（8）３番目：子供の有無
+* `Q1358B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1358B.html>`_ : 健在の子供（8）３番目：子供人数
+* `Q1359    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1359.html>`_ : 健在の子供（9）３番目：未既婚
+* `Q1360    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1360.html>`_ : 健在の子供（10）３番目：初婚年齢
+* `Q1361    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1361.html>`_ : 健在の子供（11）３番目：子供の配偶者の最終学歴
+* `Q1362    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q1362.html>`_ : 健在の子供（12）３番目：最後に行った学校の卒業
 * `Q9001AH  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9001AH.html>`_ : 生活時間（調整版）：通勤・通学／時間（平日）
 * `Q9001AM  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9001AM.html>`_ : 生活時間（調整版）：通勤・通学／分（平日）
 * `Q9001BH  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9001BH.html>`_ : 生活時間（調整版）：仕事／時間（平日）
@@ -2818,6 +2981,25 @@ List of variables (in Japanese)
 * `Q9004IM  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9004IM.html>`_ : 生活時間（配偶者 調整版）：趣味・娯楽・交際など／分（休日）
 * `Q9004MH  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9004MH.html>`_ : 生活時間（配偶者 調整版）：睡眠、食事、入浴、身の回りの用事など／時間（休日）
 * `Q9004MM  <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9004MM.html>`_ : 生活時間（配偶者 調整版）：睡眠、食事、入浴、身の回りの用事など／分（休日）
+* `Q9008A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9008A.html>`_ : 調査で負担に感じたこと：ご自身のプライバシーに立ち入った内容（学歴、所得、就業状態等）
+* `Q9008B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9008B.html>`_ : 調査で負担に感じたこと：ご家族のプライバシーに立ち入った内容（学歴、所得、就業状態等）
+* `Q9008C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9008C.html>`_ : 調査で負担に感じたこと：ご自身に関する情報：数字（所得や労働時間など）の記入指示が細かい
+* `Q9008D   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9008D.html>`_ : 調査で負担に感じたこと：ご家族に関する情報：数字（家計、ご家族の所得や労働時間など）の記入指示が細かい
+* `Q9008E   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9008E.html>`_ : 調査で負担に感じたこと：調査票を記入する時間をつくること
+* `Q9008F   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9008F.html>`_ : 調査で負担に感じたこと：調査票に記入する量が多いことへの精神的な負担
+* `Q9009A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9009A.html>`_ : 調査への協力をやめようと思ったこと
+* `Q9009B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9009B.html>`_ : 調査への協力をやめようと思った回数
+* `Q9010A   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9010A.html>`_ : 回答をやめようと思った調査回：最初（１回目）
+* `Q9010B   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9010B.html>`_ : やめようと思った調査回：２回目
+* `Q9010C   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9010C.html>`_ : やめようと思った調査回：３回目
+* `Q9010D   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9010D.html>`_ : やめようと思った調査回：４回から９回目
+* `Q9010E   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9010E.html>`_ : やめようと思った調査回：１０回目以降
+* `Q9010F   <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9010F.html>`_ : やめようと思った調査回：覚えていない
+* `Q9011    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9011.html>`_ : 回答をやめようと思った理由
+* `Q9012    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9012.html>`_ : 調査を続けてこられた理由
+* `Q9013    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9013.html>`_ : 謝礼の金額
+* `Q9014    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9014.html>`_ : 調査について
+* `Q9015    <https://jpsc-codebook.readthedocs.io/ja/latest/variable/Q9015.html>`_ : 調査方法
 * `ID       <https://jpsc-codebook.readthedocs.io/ja/latest/id_panel/ID.html>`_ : 調査対象者の番号（ID）
 * `PANEL    <https://jpsc-codebook.readthedocs.io/ja/latest/id_panel/PANEL.html>`_ : 調査回数
 * `REC      <https://jpsc-codebook.readthedocs.io/ja/latest/id_panel/REC.html>`_ : シート番号
