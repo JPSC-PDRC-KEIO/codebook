@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: 2023-03-16 10:13+0900\n"
+"PO-Revision-Date: 2023-03-16 10:14+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -19,120 +19,98 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 "X-Generator: Poedit 3.2.2\n"
 
-#: ../../variable/Q1209A.rst:6
-msgid "夫婦間での生活費の把握"
-msgstr "Understanding the cost of living between husband and wife"
+#: ../../variable/Q1209B.rst:6
+msgid "夫婦間での収入の開示：あなたの収入"
+msgstr "Marital income disclosure: your income"
 
-#: ../../variable/Q1209A.rst:11
+#: ../../variable/Q1209B.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q1209A.rst:13
+#: ../../variable/Q1209B.rst:13
 msgid "Q1209A"
 msgstr ""
 
-#: ../../variable/Q1209A.rst:18
+#: ../../variable/Q1209B.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q1209A.rst:21
-msgid "あなた方ご夫婦は、家族の生活費について収支を把握していますか。（それぞれ〇は１つずつ）"
-msgstr "Do you and your spouse keep track of your family's living expenses? (Please circle one for each)"
+#: ../../variable/Q1209B.rst:21
+msgid "あなた方ご夫婦は、お互いに収入を開示、報告していますか。（それぞれ〇は１つずつ）"
+msgstr "Do you and your spouse disclose and report your income to each other? (circle one for each)"
 
-#: ../../variable/Q1209A.rst:28
+#: ../../variable/Q1209B.rst:24
+msgid "あなたの収入"
+msgstr "Your income"
+
+#: ../../variable/Q1209B.rst:31
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q1209A.rst:30
-msgid "夫婦2人で把握している"
-msgstr "We figure it out together."
+#: ../../variable/Q1209B.rst:33
+msgid "詳細を開示している"
+msgstr "Details are disclosed."
 
-#: ../../variable/Q1209A.rst:31
-msgid "夫のみ把握している"
-msgstr "Only the husband understands."
+#: ../../variable/Q1209B.rst:34
+msgid "おおよその額は開示している"
+msgstr "Approximate amounts disclosed."
 
-#: ../../variable/Q1209A.rst:32
-msgid "妻のみ把握している"
-msgstr "Only the wife understands."
+#: ../../variable/Q1209B.rst:35
+msgid "ほとんどの額を開示していない"
+msgstr "Few details are disclosed."
 
-#: ../../variable/Q1209A.rst:33
-msgid "夫婦2人とも把握していない"
-msgstr "Neither has grasped it."
+#: ../../variable/Q1209B.rst:36
+msgid "まったく開示していない"
+msgstr "Somewhat dissatisfied"
 
-#: ../../variable/Q1209A.rst:41
+#: ../../variable/Q1209B.rst:37
+msgid "どの程度開示しているか、わからない"
+msgstr "Dissatisfied"
+
+#: ../../variable/Q1209B.rst:38
+msgid "収入はなかった"
+msgstr "Dissatisfied"
+
+#: ../../variable/Q1209B.rst:45
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q1209A.rst:48
+#: ../../variable/Q1209B.rst:52
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q1209A.rst:55
+#: ../../variable/Q1209B.rst:59
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q1209A.rst:56
-#, fuzzy
-msgid "5"
-msgstr "5"
+#: ../../variable/Q1209B.rst:60
+msgid "7"
+msgstr "7"
 
-#: ../../variable/Q1209A.rst:62
+#: ../../variable/Q1209B.rst:66
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q1209A.rst:70
+#: ../../variable/Q1209B.rst:74
 msgid "収録シート"
 msgstr "Data files (csv)"
 
-#: ../../variable/Q1209A.rst:75
+#: ../../variable/Q1209B.rst:79
 msgid "p24_3"
 msgstr ""
 
-#: ../../variable/Q1209A.rst:77
+#: ../../variable/Q1209B.rst:81
 msgid "p25_3"
 msgstr ""
 
-#: ../../variable/Q1209A.rst:79
+#: ../../variable/Q1209B.rst:83
 msgid "p26_3"
 msgstr ""
 
-#: ../../variable/Q1209A.rst:81
+#: ../../variable/Q1209B.rst:85
 msgid "p27_3"
 msgstr ""
 
-#: ../../variable/Q1209A.rst:83
+#: ../../variable/Q1209B.rst:87
 msgid "p28_3"
 msgstr ""
-
-#~ msgid "夫婦間での収入の開示：あなたの収入"
-#~ msgstr ""
-
-#~ msgid "変数名: Q1209A"
-#~ msgstr ""
-
-#~ msgid "あなた方ご夫婦は、お互いに収入を開示、報告していますか。（それぞれ〇は１つずつ）"
-#~ msgstr ""
-
-#~ msgid "あなたの収入"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-
-#~ msgid "詳細を開示している"
-#~ msgstr ""
-
-#~ msgid "おおよその額は開示している"
-#~ msgstr ""
-
-#~ msgid "ほとんどの額を開示していない"
-#~ msgstr ""
-
-#~ msgid "どちらかといえば不満"
-#~ msgstr ""
-
-#~ msgid "不満"
-#~ msgstr ""
-
-#~ msgid "6"
-#~ msgstr ""
