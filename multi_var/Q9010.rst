@@ -10,14 +10,13 @@
 
 .. csv-table:: 
    :header: 項目, 変数名
-   :widths: 10, 3
 
    "最初に協力を依頼されたとき（1回目）", ":doc:`Q9010A</variable/Q9010A>`"
    "2回目", ":doc:`Q9010B</variable/Q9010B>`"
    "3回目", ":doc:`Q9010C</variable/Q9010C>`"
    "4回目から9回目", ":doc:`Q9010D</variable/Q9010D>`"
    "10回目以降", ":doc:`Q9010E</variable/Q9010E>`"
-   "覚えていない, ":doc:`Q9010F</variable/Q9010F>`"
+   "覚えていない", ":doc:`Q9010F</variable/Q9010F>`"
 
 
 .. toctree::
