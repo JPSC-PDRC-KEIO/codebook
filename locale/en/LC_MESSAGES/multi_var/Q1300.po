@@ -1,0 +1,140 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../multi_var/Q1300.rst:3
+msgid "今後1年間に予定されている出来事（本人）"
+msgstr "Events planned for the coming year (yourself)"
+
+#: ../../multi_var/Q1300.rst:7
+msgid "質問文"
+msgstr "Question"
+
+#: ../../multi_var/Q1300.rst:8
+msgid ""
+"次のことのうち、これからの１年間（2021年10 "
+"月～2022年9月）であなたご自身が予定している、あるいは予告されていることはありますか。（○はいくつでも）"
+msgstr "Do you plan to do any of the following, or have been notified of any of the following, for the coming year (October 2021 to September 2022)? (Circle as many as apply to you.)"
+
+#: ../../multi_var/Q1300.rst:1
+msgid "項目"
+msgstr "Items"
+
+#: ../../multi_var/Q1300.rst:1
+msgid "変数"
+msgstr "Variable"
+
+
+#: ../../multi_var/Q1300.rst:1
+msgid "新たに仕事につく"
+msgstr "Start a new job."
+
+#: ../../multi_var/Q1300.rst:1
+msgid ":doc:`Q1300A </variable/Q1300A>`"
+msgstr ""
+
+#: ../../multi_var/Q1300.rst:1
+msgid "転勤や単身赴任"
+msgstr "Transfer."
+
+
+#: ../../multi_var/Q1300.rst:1
+msgid ":doc:`Q1300B </variable/Q1300B>`"
+msgstr ""
+
+#: ../../multi_var/Q1300.rst:1
+msgid "職場または仕事を変える"
+msgstr "Change your workplace or job."
+
+#: ../../multi_var/Q1300.rst:1
+msgid ":doc:`Q1300C </variable/Q1300C>`"
+msgstr ""
+
+#: ../../multi_var/Q1300.rst:1
+msgid "自らの意思、都合で今の仕事をやめる"
+msgstr "Leave your current job of your own volition or at your own convenience."
+
+#: ../../multi_var/Q1300.rst:1
+msgid ":doc:`Q1300D </variable/Q1300D>`"
+msgstr ""
+
+#: ../../multi_var/Q1300.rst:1
+msgid "勤め先の都合（人員整理、倒産等）で今の仕事をやめる"
+msgstr "Leave your current job due to workplace issues beyond your control (restructuring, bankruptcy, etc.)."
+
+#: ../../multi_var/Q1300.rst:1
+msgid ":doc:`Q1300E </variable/Q1300E>`"
+msgstr ""
+
+#: ../../multi_var/Q1300.rst:1
+msgid "定年退職"
+msgstr "Retire."
+
+#: ../../multi_var/Q1300.rst:1
+msgid ":doc:`Q1300F </variable/Q1300F>`"
+msgstr ""
+
+#: ../../multi_var/Q1300.rst:1
+msgid "定年退職以外の雇用契約の満了"
+msgstr "Finish an employment contract (for a reason other than retirement)."
+
+#: ../../multi_var/Q1300.rst:1
+msgid ":doc:`Q1300G </variable/Q1300G>`"
+msgstr ""
+
+#: ../../multi_var/Q1300.rst:1
+msgid "手術や長期の療養が必要な入院"
+msgstr "Be hospitalized for surgery or long-term treatment."
+
+#: ../../multi_var/Q1300.rst:1
+msgid ":doc:`Q1300H </variable/Q1300I>`"
+msgstr ""
+
+#: ../../multi_var/Q1300.rst:1
+msgid "結婚する"
+msgstr "Get married."
+
+#: ../../multi_var/Q1300.rst:1
+msgid ":doc:`Q1300I </variable/Q1300I>`"
+msgstr ""
+
+#: ../../multi_var/Q1300.rst:1
+msgid "離婚する"
+msgstr "Get divorced."
+
+#: ../../multi_var/Q1300.rst:1
+msgid ":doc:`Q1300J </variable/Q1300J>`"
+msgstr ""
+
+#: ../../multi_var/Q1300.rst:1
+msgid "自分の子どもが生まれる"
+msgstr "Have a child."
+
+#: ../../multi_var/Q1300.rst:1
+msgid ":doc:`Q1300K </variable/Q1300K>`"
+msgstr ""
+
+#: ../../multi_var/Q1300.rst:1
+msgid "引っ越し"
+msgstr "Move residence."
+
+#: ../../multi_var/Q1300.rst:1
+msgid ":doc:`Q1300L </variable/Q1300L>`"
+msgstr ""
+
