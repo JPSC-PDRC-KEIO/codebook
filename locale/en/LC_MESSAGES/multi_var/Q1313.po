@@ -1,0 +1,168 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../multi_var/Q1313.rst:3
+msgid "これまでの人生で労力や意識を向けた項目"
+msgstr "How much effort and awareness have you devoted to"
+
+#: ../../multi_var/Q1313.rst:7
+msgid "質問文"
+msgstr "Question"
+
+#: ../../multi_var/Q1313.rst:8
+msgid "次の項目について、これまでの人生を振り返ると、あなたはどのくらいの労力や意識を向けてきましたか。 「ちょうどよかった」を中心にして、過剰と感じているか、不足と感じているかを現在の評価でお聞かせください。（それぞれ〇は１つずつ）"
+msgstr "Looking back on your life, how much effort and awareness have you devoted to the following topics? Please tell us your current estimation of whether you feel it has been excessive or insufficient, centering on “Just right.” (Circle one number per item.)"
+
+#: ../../multi_var/Q1313.rst:1
+msgid "項目"
+msgstr "Items"
+
+#: ../../multi_var/Q1313.rst:1
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../multi_var/Q1313.rst:1
+msgid "とても過剰であった"
+msgstr "Very excessive"
+
+#: ../../multi_var/Q1313.rst:1
+msgid "やや過剰であった"
+msgstr "Somewhat excessive"
+
+#: ../../multi_var/Q1313.rst:1
+msgid "ちょうどよかった"
+msgstr "Just right"
+
+#: ../../multi_var/Q1313.rst:1
+msgid "やや不足していた"
+msgstr "Somewhat insufficient"
+
+#: ../../multi_var/Q1313.rst:1
+msgid "とても不足していた"
+msgstr "Very insufficient"
+
+#: ../../multi_var/Q1313.rst:1
+msgid "自分にあてはまらない項目"
+msgstr "Not applicable"
+
+#: ../../multi_var/Q1313.rst:1
+msgid "学生時代の勉強や課外活動への取り組み"
+msgstr "Studying and engagement in extracurricular activities as a student."
+
+#: ../../multi_var/Q1313.rst:1
+msgid ":doc:`Q1313A</variable/Q1313A>`"
+msgstr ""
+
+#: ../../multi_var/Q1313.rst:1
+msgid "1"
+msgstr ""
+
+#: ../../multi_var/Q1313.rst:1
+msgid "2"
+msgstr ""
+
+#: ../../multi_var/Q1313.rst:1
+msgid "3"
+msgstr ""
+
+#: ../../multi_var/Q1313.rst:1
+msgid "4"
+msgstr ""
+
+#: ../../multi_var/Q1313.rst:1
+msgid "5"
+msgstr ""
+
+#: ../../multi_var/Q1313.rst:1
+msgid "6"
+msgstr ""
+
+#: ../../multi_var/Q1313.rst:1
+msgid "仕事"
+msgstr "Work."
+
+#: ../../multi_var/Q1313.rst:1
+msgid ":doc:`Q1313B</variable/Q1313B>`"
+msgstr ""
+
+#: ../../multi_var/Q1313.rst:1
+msgid "収入、家計のやりくりに頭を悩ますこと"
+msgstr "Worrying about income and household spending."
+
+#: ../../multi_var/Q1313.rst:1
+msgid ":doc:`Q1313C</variable/Q1313C>`"
+msgstr ""
+
+#: ../../multi_var/Q1313.rst:1
+msgid "家事や家族のことに関わる時間"
+msgstr "Time related to housework and family."
+
+#: ../../multi_var/Q1313.rst:1
+msgid ":doc:`Q1313D</variable/Q1313D>`"
+msgstr ""
+
+#: ../../multi_var/Q1313.rst:1
+msgid "夫（配偶者）に対して"
+msgstr "Regarding your husband (spouse)."
+
+#: ../../multi_var/Q1313.rst:1
+msgid ":doc:`Q1313E</variable/Q1313E>`"
+msgstr ""
+
+#: ../../multi_var/Q1313.rst:1
+msgid "子どものしつけ、教育"
+msgstr "Children’s education and discipline."
+
+#: ../../multi_var/Q1313.rst:1
+msgid ":doc:`Q1313F</variable/Q1313F>`"
+msgstr ""
+
+#: ../../multi_var/Q1313.rst:1
+msgid "友人・知人などとの人間関係"
+msgstr "Relationships with friends and acquaintances."
+
+#: ../../multi_var/Q1313.rst:1
+msgid ":doc:`Q1313G</variable/Q1313G>`"
+msgstr ""
+
+#: ../../multi_var/Q1313.rst:1
+msgid "家族（親、夫など）からの評価を気にすること"
+msgstr "Worrying about approval from family members (parents, husband, etc.)."
+
+#: ../../multi_var/Q1313.rst:1
+msgid ":doc:`Q1313H</variable/Q1313H>`"
+msgstr ""
+
+#: ../../multi_var/Q1313.rst:1
+msgid "周囲（先生や上司、友人など）からの評価を気にすること"
+msgstr "Worrying about approval from people around you (teachers, bosses, friends, etc.)."
+
+#: ../../multi_var/Q1313.rst:1
+msgid ":doc:`Q1313I</variable/Q1313I>`"
+msgstr ""
+
+#: ../../multi_var/Q1313.rst:1
+msgid "女性らしく、女の子らしく振る舞うこと"
+msgstr "Behaving like a woman or a girl."
+
+#: ../../multi_var/Q1313.rst:1
+msgid ":doc:`Q1313J</variable/Q1313J>`"
+msgstr ""
+

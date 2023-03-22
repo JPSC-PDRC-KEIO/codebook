@@ -1,0 +1,249 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../var_indexes/gouseihensu.rst:3
+msgid "List of variables (in Japanese)"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:5
+msgid ""
+"`ID       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/id_panel/ID.html>`_ : 調査対象者の番号（ID）"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:6
+msgid ""
+"`PANEL    <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/id_panel/PANEL.html>`_ : 調査回数"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:7
+msgid ""
+"`REC      <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/id_panel/REC.html>`_ : シート番号"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:8
+msgid ""
+"`Q1       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/Q1.html>`_ : 配偶者の有無"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:9
+msgid ""
+"`Q2       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/Q2.html>`_ : 地域ブロック"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:10
+msgid ""
+"`Q3       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/Q3.html>`_ : 市郡規模"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:11
+msgid ""
+"`Q4       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/Q4.html>`_ : "
+"全国地方公共団体コード（一般ユーザー非公開）"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:12
+msgid ""
+"`Q6       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/Q6.html>`_ : 続柄"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:13
+msgid ""
+"`Q7       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/Q7.html>`_ : 性別"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:14
+msgid ""
+"`Q8       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/Q8.html>`_ : 年齢"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:15
+msgid ""
+"`Q9       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/Q9.html>`_ : 現在の就学状況〔第1～9回〕"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:16
+msgid ""
+"`Q9R       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/Q9R.html>`_ : 現在の就学・就労〔第10回〕"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:17
+msgid ""
+"`Q9S       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/Q9S.html>`_ : 現在の就学・就労状況〔第11回～〕"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:18
+msgid ""
+"`Q10       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/Q10.html>`_ : 家族1（本人）：同居・別居"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:19
+msgid ""
+"`Q11       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon_hs/Q11_hs.html>`_ : 続柄（配偶者）"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:20
+msgid ""
+"`Q12       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon_hs/Q12_hs.html>`_ : 性別（配偶者）"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:21
+msgid ""
+"`Q13       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon_hs/Q13_hs.html>`_ : 年齢（配偶者）"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:22
+msgid ""
+"`Q14       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon_hs/Q14_hs.html>`_ : "
+"現在の就学・就労（配偶者）〔第1～9回〕"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:23
+msgid ""
+"`Q14R       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon_hs/Q14R_hs.html>`_ : "
+"現在の就学・就労（配偶者）〔第10回調査〕"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:24
+msgid ""
+"`Q14S       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon_hs/Q14S_hs.html>`_ : "
+"現在の就学・就労（配偶者）〔第11回～〕"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:25
+msgid ""
+"`Q15       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon_hs/Q15_hs.html>`_ : 同居・別居（配偶者）"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:26
+msgid ""
+"`KEN1      <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/ken1.html>`_ : "
+"引越し前住所（転居1）（一般ユーザー非公開）"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:27
+msgid ""
+"`KEN2      <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/ken2.html>`_ : "
+"引越し前住所（転居2）（一般ユーザー非公開）"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:28
+msgid ""
+"`KEN3      <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/ken3.html>`_ : "
+"引越し前住所（転居3）（一般ユーザー非公開）"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:29
+msgid ""
+"`KEN4      <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/ken4.html>`_ : "
+"引越し前住所（転居4）（一般ユーザー非公開）"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:30
+msgid ""
+"`KEN5      <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/ken5.html>`_ : "
+"引越し前住所（転居5）（一般ユーザー非公開）"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:31
+msgid ""
+"`Q58R       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon_kazoku/Q58R.html>`_ : 長子の就学状況"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:32
+msgid ""
+"`Q59R       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon_kazoku/Q59R.html>`_ : 末子の就学状況"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:33
+msgid ""
+"`Q60SR       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/Q60SR.html>`_ : 最終学歴"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:34
+msgid ""
+"`Q61SR       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon_hs/Q61SR.html>`_ : 最終学歴（配偶者）"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:35
+msgid ""
+"`Q62       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/Q62.html>`_ : 未既婚変化"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:36
+msgid ""
+"`Q63       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/Q63.html>`_ : 職業変化"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:37
+msgid ""
+"`Q64       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/Q64.html>`_ : 住宅変化"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:38
+msgid ""
+"`Q65       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon_kazoku/Q65.html>`_ : 家族構成"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:39
+msgid ""
+"`Q66       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon_hs/Q66_hs.html>`_ : 収入区分（配偶者）"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu.rst:40
+msgid ""
+"`Q1014_1       <https://jpsc-"
+"codebook.readthedocs.io/ja/latest/kihon/Q1014_1.html>`_ : 家族1（本人）：配偶状況"
+msgstr ""
+

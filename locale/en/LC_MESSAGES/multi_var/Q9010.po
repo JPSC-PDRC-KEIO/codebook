@@ -1,14 +1,14 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
- ""
+#, fuzzy
+msgid ""
 msgstr ""
-"Project-Id-Version: JPSC codebook 0.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-05 13:37+0900\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,13 +19,69 @@ msgstr ""
 
 #: ../../multi_var/Q9010.rst:3
 msgid "やめようと思った調査回"
-msgstr ""
+msgstr "Survey times to feel to quit doing the survey"
 
 #: ../../multi_var/Q9010.rst:7
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../multi_var/Q9010.rst:8
 msgid "調査への協力をやめようと考えたのは何回目の調査のときですか。（〇はいくつでも）"
+msgstr "When did you feel that you wanted to quit doing the survey? (Circle as many as pertain to you.)"
+
+#: ../../multi_var/Q9010.rst:1
+msgid "項目"
+msgstr "Items"
+
+#: ../../multi_var/Q9010.rst:1
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../multi_var/Q9010.rst:1
+msgid "最初に協力を依頼されたとき（1回目）"
+msgstr "The first survey."
+
+#: ../../multi_var/Q9010.rst:1
+msgid ":doc:`Q9010A</variable/Q9010A>`"
+msgstr ""
+
+#: ../../multi_var/Q9010.rst:1
+msgid "2回目"
+msgstr "The second survey."
+
+#: ../../multi_var/Q9010.rst:1
+msgid ":doc:`Q9010B</variable/Q9010B>`"
+msgstr ""
+
+#: ../../multi_var/Q9010.rst:1
+msgid "3回目"
+msgstr "The third survey."
+
+#: ../../multi_var/Q9010.rst:1
+msgid ":doc:`Q9010C</variable/Q9010C>`"
+msgstr ""
+
+#: ../../multi_var/Q9010.rst:1
+msgid "4回目から9回目"
+msgstr "Sometime between the fourth and ninth survey."
+
+#: ../../multi_var/Q9010.rst:1
+msgid ":doc:`Q9010D</variable/Q9010D>`"
+msgstr ""
+
+#: ../../multi_var/Q9010.rst:1
+msgid "10回目以降"
+msgstr "The tenth or more survey."
+
+#: ../../multi_var/Q9010.rst:1
+msgid ":doc:`Q9010E</variable/Q9010E>`"
+msgstr ""
+
+#: ../../multi_var/Q9010.rst:1
+msgid "覚えていない"
+msgstr "I don't remember."
+
+#: ../../multi_var/Q9010.rst:1
+msgid ":doc:`Q9010F</variable/Q9010F>`"
 msgstr ""
 

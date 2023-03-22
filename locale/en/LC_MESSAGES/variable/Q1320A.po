@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1320A.rst:5
+msgid "世代間の環境評価（上の世代）：他人との競争が少ないこと"
+msgstr "Evaluation about the generation (Older generation) (6): less competition with others"
+
+#: ../../variable/Q1320A.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1320A.rst:11
+msgid "Q1320A"
+msgstr ""
+
+#: ../../variable/Q1320A.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1320A.rst:18
+msgid ""
+"次の項目について、あなたの世代では環境が整備されていた、あるいは状況が恵まれていたと思いますか。あなたの評価をお答えください。 "
+"あわせて上下の世代について、あなたからみてどう感じていたかもお答えください。 上下の世代はそれぞれ5～10 "
+"歳程度、あなたから年齢の離れた人たちを想定してください。（それぞれ○は１つずつ）"
+msgstr "Do you think your generation had a good environment or a good situation with regard to the following items? Please answer with your own evaluation. In addition, please tell us how you felt about the generations above and below you. Assume that the above and below generations are each about 5-10 years older than you. (Circle one number per item.)"
+
+#: ../../variable/Q1320A.rst:22
+msgid "上の世代"
+msgstr "Older generation"
+
+#: ../../variable/Q1320A.rst:24
+msgid "他人との競争が少ないこと"
+msgstr "Less competition with others."
+
+#: ../../variable/Q1320A.rst:30
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1320A.rst:32
+msgid "とてもそう思う"
+msgstr "Strongly agree"
+
+#: ../../variable/Q1320A.rst:33
+msgid "そう思う"
+msgstr "Agree"
+
+#: ../../variable/Q1320A.rst:34
+msgid "どちらともいえない"
+msgstr "Neither agree nor disagree"
+
+#: ../../variable/Q1320A.rst:35
+msgid "そうとは思わない"
+msgstr "Disagree"
+
+#: ../../variable/Q1320A.rst:36
+msgid "まったくそう思わない"
+msgstr "Strongly disagree"
+
+#: ../../variable/Q1320A.rst:42
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1320A.rst:48
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code"
+
+#: ../../variable/Q1320A.rst:54
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1320A.rst:56
+msgid "6"
+msgstr ""
+
+#: ../../variable/Q1320A.rst:60
+msgid "備考"
+msgstr "Remarks"
+#: ../../variable/Q1320A.rst:66
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1320A.rst:71
+msgid "p29_5"
+msgstr ""
+

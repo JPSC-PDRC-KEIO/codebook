@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1327D.rst:5
+msgid "健在の子供（1）1番上：子育て・過保護だった"
+msgstr "Child in good health(1): 1st child: Child-rasing: I have been overprotective."
+
+#: ../../variable/Q1327D.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1327D.rst:11
+msgid "Q1327D"
+msgstr ""
+
+#: ../../variable/Q1327D.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1327D.rst:17
+msgid "1番上のお子さん"
+msgstr "1st child"
+
+#: ../../variable/Q1327D.rst:19
+msgid "そのお子さんの子育ては（あてはまるものすべてに〇）"
+msgstr "What has it been like raising the child ."
+
+#: ../../variable/Q1327D.rst:21
+msgid "過保護だった"
+msgstr "have been overprotective."
+
+#: ../../variable/Q1327D.rst:27
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1327D.rst:29
+msgid "はい"
+msgstr "Yes."
+
+#: ../../variable/Q1327D.rst:30
+msgid "いいえ"
+msgstr "No."
+
+#: ../../variable/Q1327D.rst:35
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1327D.rst:41
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code"
+
+#: ../../variable/Q1327D.rst:47
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1327D.rst:49
+msgid "3"
+msgstr ""
+
+#: ../../variable/Q1327D.rst:53
+msgid "備考"
+msgstr "Remarks"
+#: ../../variable/Q1327D.rst:59
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1327D.rst:64
+msgid "p29_5"
+msgstr ""
+

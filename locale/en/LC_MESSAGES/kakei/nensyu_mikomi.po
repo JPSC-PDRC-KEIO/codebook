@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../kakei/nensyu_mikomi.rst:3
+msgid "見込み年収（税込み）"
+msgstr "Expectation of the earnings for the current year (including tax)"
+
+#: ../../kakei/nensyu_mikomi.rst:6
+msgid "質問文"
+msgstr "Question"
+
+#: ../../kakei/nensyu_mikomi.rst:8
+msgid "今年1年間（2021年1月～12月）の収入見込みをおうかがいします。それぞれの方について、合計額はいくらぐらいになりそうですか。"
+msgstr "This question refers to expected earnings for the current year (January to December 2021). What do you expect to be the total amount for each person?"
+
+#: ../../kakei/nensyu_mikomi.rst:10
+msgid "おおよその額で結構ですので税込みの合計金額をお答え下さい。"
+msgstr "Please write the amount of income including tax, and approximate amounts are fine."
+
+#: ../../kakei/nensyu_mikomi.rst:12
+msgid "あわせて、税金（所得税、住民税など）と社会保険料（健康保険料、公的年金保険料、雇用保険料など）の見込みについてもおおよその額をご記入ください。（その方の収入や税金の支払いが見込まれない場合は「０」と記入して下さい）"
+msgstr "Please also enter approximate amounts for taxes (income tax, residents’ tax, etc.) and social insurance premiums (health insurance premiums, public pension insurance premiums, employment insurance premiums, etc.). (If you do not expect the person in question to pay any taxes or receive any income, please write “0”)."
+
+#: ../../kakei/nensyu_mikomi.rst:1
+msgid "配偶者"
+msgstr "Spouse"
+
+#: ../../kakei/nensyu_mikomi.rst:1
+msgid "本人"
+msgstr "Yours"
+
+#: ../../kakei/nensyu_mikomi.rst:1
+msgid "夫婦以外の世帯員の方全員"
+msgstr "Ohter household"
+
+#: ../../kakei/nensyu_mikomi.rst
+msgid "収入（税込み）"
+msgstr "Income (including tax)"
+
+#: ../../kakei/nensyu_mikomi.rst
+msgid "（勤め先、事業収入、"
+msgstr "(Total amount of employment and business income,"
+
+#: ../../kakei/nensyu_mikomi.rst
+msgid "財産収入、社会保障給付、"
+msgstr "property income, social security benefits,"
+
+#: ../../kakei/nensyu_mikomi.rst
+msgid "支援金・給付金等の合計額）"
+msgstr "support and other benefits, etc.)"
+
+#: ../../kakei/nensyu_mikomi.rst:1
+msgid ":doc:`Q1302A </variable/Q1302A>`"
+msgstr ""
+
+#: ../../kakei/nensyu_mikomi.rst:1
+msgid ":doc:`Q1303A </variable/Q1303A>`"
+msgstr ""
+
+#: ../../kakei/nensyu_mikomi.rst:1
+msgid ":doc:`Q1304A </variable/Q1304A>`"
+msgstr ""
+
+#: ../../kakei/nensyu_mikomi.rst:1
+msgid "税金・社会保険料"
+msgstr "Taxes and social insurance"
+
+#: ../../kakei/nensyu_mikomi.rst:1
+msgid ":doc:`Q1302B </variable/Q1302B>`"
+msgstr ""
+
+#: ../../kakei/nensyu_mikomi.rst:1
+msgid ":doc:`Q1303B </variable/Q1303B>`"
+msgstr ""
+
+#: ../../kakei/nensyu_mikomi.rst:1
+msgid ":doc:`Q1304B </variable/Q1304B>`"
+msgstr ""
+

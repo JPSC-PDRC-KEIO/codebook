@@ -1,0 +1,256 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../var_indexes/gouseihensu_en.rst:3
+msgid "List of variables (in Japanese)"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:5
+msgid ""
+"`ID       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/id_panel/ID.html>`_ : Survey "
+"respondent's number (ID)"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:6
+msgid ""
+"`PANEL    <https://jpsc-"
+"codebook.readthedocs.io/en/latest/id_panel/PANEL.html>`_ : Number of "
+"surveys"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:7
+msgid ""
+"`REC      <https://jpsc-"
+"codebook.readthedocs.io/en/latest/id_panel/REC.html>`_ : Sheet number"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:8
+msgid ""
+"`Q1       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/Q1.html>`_ : Marital status"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:9
+msgid ""
+"`Q2       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/Q2.html>`_ : Regional Block"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:10
+msgid ""
+"`Q3       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/Q3.html>`_ : Municipality size"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:11
+msgid ""
+"`Q4       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/Q4.html>`_ : Local Government "
+"Code"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:12
+msgid ""
+"`Q6       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/Q6.html>`_ : Relationship"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:13
+msgid ""
+"`Q7       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/Q7.html>`_ : Gender"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:14
+msgid ""
+"`Q9       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/Q9.html>`_ : Educational status "
+"[1st - 9th wave]"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:15
+msgid ""
+"`Q9R       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/Q9R.html>`_ : Student or worker "
+"status [10th wave]"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:16
+msgid ""
+"`Q9S       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/Q9S.html>`_ : Student or worker "
+"status [11th wave - ]"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:17
+msgid ""
+"`Q10       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/Q10.html>`_ : 家族1（本人）：同居・別居"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:18
+msgid ""
+"`Q11       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon_hs/Q11_hs.html>`_ : Relationship "
+"(spouse)"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:19
+msgid ""
+"`Q12       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon_hs/Q12_hs.html>`_ : Sex (spouse)"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:20
+msgid ""
+"`Q13       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon_hs/Q13_hs.html>`_ : Age (spouse)"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:21
+msgid ""
+"`Q14       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon_hs/Q14_hs.html>`_ : Student or "
+"worker status (spouse) [1st-9th waves]"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:22
+msgid ""
+"`Q14R       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon_hs/Q14R_hs.html>`_ : Student or "
+"worker status (spous) [10th wave]"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:23
+msgid ""
+"`Q14S       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon_hs/Q14S_hs.html>`_ : Student or "
+"worker status (spouse) [11th wave- ]"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:24
+msgid ""
+"`Q15       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon_hs/Q15_hs.html>`_ : Living "
+"together or separately (spouse)"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:25
+msgid ""
+"`KEN1      <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/ken1.html>`_ : "
+"引越し前住所（転居1）（一般ユーザー非公開）"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:26
+msgid ""
+"`KEN2      <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/ken2.html>`_ : "
+"引越し前住所（転居2）（一般ユーザー非公開）"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:27
+msgid ""
+"`KEN3      <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/ken3.html>`_ : "
+"引越し前住所（転居3）（一般ユーザー非公開）"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:28
+msgid ""
+"`KEN4      <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/ken4.html>`_ : "
+"引越し前住所（転居4）（一般ユーザー非公開）"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:29
+msgid ""
+"`KEN5      <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/ken5.html>`_ : "
+"引越し前住所（転居5）（一般ユーザー非公開）"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:30
+msgid ""
+"`Q58R       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon_kazoku/Q58R.html>`_ : School "
+"enrollment of the oldest child"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:31
+msgid ""
+"`Q59R       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon_kazoku/Q59R.html>`_ : School "
+"enrollment of the youngest child"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:32
+msgid ""
+"`Q60SR       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/Q60SR.html>`_ : Educational "
+"achievement at the last school attended"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:33
+msgid ""
+"`Q61SR       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon_hs/Q61SR.html>`_ : Educational "
+"achievement at the last school (spouse)"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:34
+msgid ""
+"`Q62       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/Q62.html>`_ : Change in marriage "
+"status"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:35
+msgid ""
+"`Q63       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/Q63.html>`_ : Career change"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:36
+msgid ""
+"`Q64       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/Q64.html>`_ : Change in residence"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:37
+msgid ""
+"`Q65       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon_kazoku/Q65.html>`_ : Family "
+"structure"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:38
+msgid ""
+"`Q66       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon_hs/Q66.html>`_ : Husband’s salary"
+msgstr ""
+
+#: ../../var_indexes/gouseihensu_en.rst:39
+msgid ""
+"`Q1014_1       <https://jpsc-"
+"codebook.readthedocs.io/en/latest/kihon/Q1014_1.html>`_ : 家族1（本人）：配偶状況"
+msgstr ""
+

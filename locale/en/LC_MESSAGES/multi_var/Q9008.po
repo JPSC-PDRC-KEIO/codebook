@@ -1,14 +1,14 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
- ""
+#, fuzzy
+msgid ""
 msgstr ""
-"Project-Id-Version: JPSC codebook 0.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-05 13:37+0900\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,48 +18,44 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../multi_var/Q9008.rst:3
-msgid "調査で負担に感じたこと"
-msgstr ""
+msgid "調査の負担感"
+msgstr "Burden of the survey"
 
 #: ../../multi_var/Q9008.rst:7
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../multi_var/Q9008.rst:8
-msgid "これまでの調査を振り返って、次のようなことについてどの程度、負担に感じていましたか。【お子さんが３歳以上の場合】その子が３歳時点の状況"
-msgstr ""
+msgid "これまでの調査を振り返って、次のようなことについてどの程度、負担に感じていましたか。"
+msgstr "Reflecting back on the survey up to this point, to what extent did you feel burdened by the following? (Please circle one for each)"
 
 #: ../../multi_var/Q9008.rst:1
 msgid "項目"
-msgstr ""
+msgstr "Items"
 
 #: ../../multi_var/Q9008.rst:1
 msgid "変数名"
-msgstr ""
+msgstr "Variable name"
 
 #: ../../multi_var/Q9008.rst:1
 msgid "とても負担であった"
-msgstr ""
+msgstr "Very intrusive"
 
 #: ../../multi_var/Q9008.rst:1
 msgid "やや負担であった"
-msgstr ""
+msgstr "Somewhat intrusive"
 
 #: ../../multi_var/Q9008.rst:1
 msgid "あまり負担ではなかった"
-msgstr ""
+msgstr "Not very intrusive"
 
 #: ../../multi_var/Q9008.rst:1
 msgid "まったく負担ではなかった"
-msgstr ""
+msgstr "Not intrusive at all"
 
 #: ../../multi_var/Q9008.rst
-msgid "ご自身のプライバシーに立ち入った内容"
-msgstr ""
-
-#: ../../multi_var/Q9008.rst
-msgid "（学歴、所得、就業状態等）"
-msgstr ""
+msgid "ご自身のプライバシーに立ち入った内容（学歴、所得、就業状態等）"
+msgstr "The details that go into your privacy (educational background, income, employment status, etc.)"
 
 #: ../../multi_var/Q9008.rst:1
 msgid ":doc:`Q9008A</variable/Q9008A>`"
@@ -82,8 +78,8 @@ msgid "4"
 msgstr ""
 
 #: ../../multi_var/Q9008.rst
-msgid "ご家族のプライバシーに立ち入った内容"
-msgstr ""
+msgid "ご自身のプライバシーに立ち入った内容（学歴、所得、就業状態等）"
+msgstr "Your family’s private details (educational background, income, employment status, etc.)"
 
 #: ../../multi_var/Q9008.rst:1
 msgid ":doc:`Q9008B</variable/Q9008B>`"
@@ -91,11 +87,11 @@ msgstr ""
 
 #: ../../multi_var/Q9008.rst
 msgid "ご自身に関する情報・数字"
-msgstr ""
+msgstr "Detailed instructions for how to fill out information "
 
 #: ../../multi_var/Q9008.rst
 msgid "（所得や労働時間など）の記入指示が細かい"
-msgstr ""
+msgstr "and figures about yourself (income, working hours, etc.)"
 
 #: ../../multi_var/Q9008.rst:1
 msgid ":doc:`Q9008C</variable/Q9008C>`"
@@ -103,11 +99,11 @@ msgstr ""
 
 #: ../../multi_var/Q9008.rst
 msgid "ご家族に関する情報・数字（家計、ご家族の"
-msgstr ""
+msgstr "Detailed instructions for how to fill out information and figures about your family "
 
 #: ../../multi_var/Q9008.rst
 msgid "所得や労働時間など）の記入指示が細かい"
-msgstr ""
+msgstr "(household finances, family members’ income and working hours, etc.)"
 
 #: ../../multi_var/Q9008.rst:1
 msgid ":doc:`Q9008D</variable/Q9008D>`"
@@ -115,7 +111,7 @@ msgstr ""
 
 #: ../../multi_var/Q9008.rst:1
 msgid "調査票を記入する時間をつくること"
-msgstr ""
+msgstr "Setting aside time to fill out the questionnaire"
 
 #: ../../multi_var/Q9008.rst:1
 msgid ":doc:`Q9008E</variable/Q9008E>`"
@@ -123,7 +119,7 @@ msgstr ""
 
 #: ../../multi_var/Q9008.rst:1
 msgid "調査票に記入する量が多いことへの精神的な負担"
-msgstr ""
+msgstr "The mental burden of completing a questionnaire with such a large amount of information to fill out"
 
 #: ../../multi_var/Q9008.rst:1
 msgid ":doc:`Q9008F</variable/Q9008F>`"

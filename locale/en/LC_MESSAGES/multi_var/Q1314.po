@@ -1,0 +1,176 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../multi_var/Q1314.rst:3
+msgid "これまでの人生であてはまること"
+msgstr "How you’ve lived your life to date"
+
+#: ../../multi_var/Q1314.rst:7
+msgid "質問文"
+msgstr "Question"
+
+#: ../../multi_var/Q1314.rst:8
+msgid "次の項目について、これまでの生き方を振り返ってどのくらいあてはまりますか。（それぞれ○は１つずつ）"
+msgstr "Reflecting on how you’ve lived your life to date, how applicable are the following items? (Circle one number per item.)"
+
+#: ../../multi_var/Q1314.rst:1
+msgid "項目"
+msgstr "Items"
+
+#: ../../multi_var/Q1314.rst:1
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../multi_var/Q1314.rst:1
+msgid "とてもそう思う"
+msgstr "Strongly agree"
+
+#: ../../multi_var/Q1314.rst:1
+msgid "そう思う"
+msgstr "Agree"
+
+#: ../../multi_var/Q1314.rst:1
+msgid "どちらともいえない"
+msgstr "Neither agree nor disagree"
+
+#: ../../multi_var/Q1314.rst:1
+msgid "そうとは思わない"
+msgstr "Disagree"
+
+#: ../../multi_var/Q1314.rst:1
+msgid "まったくそう思わない"
+msgstr "Strongly disagree"
+
+#: ../../multi_var/Q1314.rst:1
+msgid "様々な目標を持って過ごしてきた、過ごしている"
+msgstr "I have always had a variety of goals in life."
+
+#: ../../multi_var/Q1314.rst:1
+msgid ":doc:`Q1314A</variable/Q1314A>`"
+msgstr ""
+
+#: ../../multi_var/Q1314.rst:1
+msgid "1"
+msgstr ""
+
+#: ../../multi_var/Q1314.rst:1
+msgid "2"
+msgstr ""
+
+#: ../../multi_var/Q1314.rst:1
+msgid "3"
+msgstr ""
+
+#: ../../multi_var/Q1314.rst:1
+msgid "4"
+msgstr ""
+
+#: ../../multi_var/Q1314.rst:1
+msgid "5"
+msgstr ""
+
+#: ../../multi_var/Q1314.rst:1
+msgid "家庭生活や仕事、旅行等で、気づきや発見の機会があった"
+msgstr "I had opportunities for awareness and discovery in my family life, work, travel, etc."
+
+#: ../../multi_var/Q1314.rst:1
+msgid ":doc:`Q1314B</variable/Q1314B>`"
+msgstr ""
+
+#: ../../multi_var/Q1314.rst:1
+msgid "趣味やボランティアなど、家事・仕事以外でやりがいのあることに取り組んだ"
+msgstr "I engaged in things that I found meaningful and rewarding other than housework and work, such as hobbies and volunteering."
+
+#: ../../multi_var/Q1314.rst:1
+msgid ":doc:`Q1314C</variable/Q1314C>`"
+msgstr ""
+
+#: ../../multi_var/Q1314.rst:1
+msgid "困難な状況に直面することが多くあった"
+msgstr "I have often faced difficult situations."
+
+#: ../../multi_var/Q1314.rst:1
+msgid ":doc:`Q1314D</variable/Q1314D>`"
+msgstr ""
+
+#: ../../multi_var/Q1314.rst:1
+msgid "新しいことにいろいろと挑戦してきた"
+msgstr "I have tried a wide variety of new things."
+
+#: ../../multi_var/Q1314.rst:1
+msgid ":doc:`Q1314E</variable/Q1314E>`"
+msgstr ""
+
+#: ../../multi_var/Q1314.rst:1
+msgid "自分の人生は唯一かけがえのないものであると思う"
+msgstr "I think you’ve only got one life to live."
+
+#: ../../multi_var/Q1314.rst:1
+msgid ":doc:`Q1314F</variable/Q1314F>`"
+msgstr ""
+
+#: ../../multi_var/Q1314.rst:1
+msgid "自分の人生は単調であった"
+msgstr "My life has been monotonous."
+
+#: ../../multi_var/Q1314.rst:1
+msgid ":doc:`Q1314G</variable/Q1314G>`"
+msgstr ""
+
+#: ../../multi_var/Q1314.rst:1
+msgid "有意義で価値のある人生を過ごしてきたと思う"
+msgstr "I think that I've lived a meaningful and valuable life."
+
+#: ../../multi_var/Q1314.rst:1
+msgid ":doc:`Q1314H</variable/Q1314H>`"
+msgstr ""
+
+#: ../../multi_var/Q1314.rst:1
+msgid "喜びや幸せを感じることが多かった"
+msgstr "I have felt a lot of joy and happiness."
+
+#: ../../multi_var/Q1314.rst:1
+msgid ":doc:`Q1314I</variable/Q1314I>`"
+msgstr ""
+
+#: ../../multi_var/Q1314.rst:1
+msgid "悲しみやつらさを感じることが多かった"
+msgstr "I have felt a lot of sadness and pain."
+
+#: ../../multi_var/Q1314.rst:1
+msgid ":doc:`Q1314J</variable/Q1314J>`"
+msgstr ""
+
+#: ../../multi_var/Q1314.rst:1
+msgid "気持ちの高揚を感じることが多かった"
+msgstr "I have often felt uplifted."
+
+#: ../../multi_var/Q1314.rst:1
+msgid ":doc:`Q1314K</variable/Q1314K>`"
+msgstr ""
+
+#: ../../multi_var/Q1314.rst:1
+msgid "日々をつまらなく感じることが多かった"
+msgstr "I have often felt that my days were boring."
+
+#: ../../multi_var/Q1314.rst:1
+msgid ":doc:`Q1314L</variable/Q1314L>`"
+msgstr ""
+

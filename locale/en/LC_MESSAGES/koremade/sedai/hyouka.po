@@ -1,14 +1,14 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
- ""
+#, fuzzy
+msgid ""
 msgstr ""
-"Project-Id-Version: JPSC codebook 0.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-05 13:37+0900\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,21 +17,194 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #: ../../koremade/sedai/hyouka.rst:3
 msgid "世代に対する評価"
-msgstr ""
+msgstr "Evaluation about the generation"
 
 #: ../../koremade/sedai/hyouka.rst:7
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../koremade/sedai/hyouka.rst:8
 msgid "次の項目について、あなたの世代では環境が整備されていた、あるいは状況が恵まれていたと思いますか。あなたの評価をお答えください。"
-msgstr ""
+msgstr "Do you think your generation had a good environment or a good situation with regard to the following items? Please answer with your own evaluation."
 
 #: ../../koremade/sedai/hyouka.rst:10
 msgid ""
 "あわせて上下の世代について、あなたからみてどう感じていたかもお答えください。上下の世代はそれぞれ5～10 "
 "歳程度、あなたから年齢の離れた人たちを想定してください。（それぞれ○は１つずつ）"
+msgstr "In addition, please tell us how you felt about the generations above and below you. Assume that the above and below generations are each about 5-10 years older than you. (Circle one number per item.)"
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "項目"
+msgstr "Items"
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "上の世代"
+msgstr "Older generation"
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "あなたの世代"
+msgstr "Your generation"
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "下の世代"
+msgstr "Younger generation"
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "とてもそう思う"
+msgstr "Strongly agree"
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "そう思う"
+msgstr "Agree"
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "どちらともいえない"
+msgstr "Neither agree nor disagree"
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "そうとは思わない"
+msgstr "Disagree"
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "まったくそう思わない"
+msgstr "Strongly disagree"
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "進路や職業選択の多様性"
+msgstr "Diversity in career and occupational choices."
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1315A</variable/Q1315A>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1315B</variable/Q1315B>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1315C</variable/Q1315C>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "1"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "2"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "3"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "4"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "5"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "学校を卒業した頃の経済状況"
+msgstr "Economic prospects upon graduation from school."
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1316A</variable/Q1316A>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1316B</variable/Q1316B>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1316C</variable/Q1316C>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "雇用機会や待遇（賃金、昇進）の男女平等"
+msgstr "Gender equality in terms of employment opportunities and treatment in the workplace (wages, promotions, etc.)."
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1317A</variable/Q1317A>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1317B</variable/Q1317B>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1317C</variable/Q1317C>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "男女がともに家事・育児にかかわること"
+msgstr "Men and women being involved in housework and childcare."
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1318A</variable/Q1318A>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1318B</variable/Q1318B>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1318C</variable/Q1318C>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "将来の人生設計の立てやすさ"
+msgstr "Ease of planning a life for the future."
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1319A</variable/Q1319A>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1319B</variable/Q1319B>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1319C</variable/Q1319C>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "他人との競争が少ないこと"
+msgstr "Less competition with others."
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1320A</variable/Q1320A>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1320B</variable/Q1320B>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1320C</variable/Q1320C>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid "女性らしさに縛られず生きること"
+msgstr "Living without being constrained by femininity."
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1321A</variable/Q1320A>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1321B</variable/Q1321B>`"
+msgstr ""
+
+#: ../../koremade/sedai/hyouka.rst:1
+msgid ":doc:`Q1321C</variable/Q1321C>`"
 msgstr ""
 

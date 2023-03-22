@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1353A.rst:5
+msgid "健在の子供（3）３番目：３歳時点の通園・保育　保育園"
+msgstr ""
+
+#: ../../variable/Q1353A.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1353A.rst:11
+msgid "Q1353A"
+msgstr ""
+
+#: ../../variable/Q1353A.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1353A.rst:17
+msgid "3番目のお子さん"
+msgstr "3rd child"
+
+#: ../../variable/Q1353A.rst:19
+msgid "【３歳以上の場合】その子が３歳時点の状況"
+msgstr ""
+
+#: ../../variable/Q1353A.rst:21
+msgid "保育園"
+msgstr ""
+
+#: ../../variable/Q1353A.rst:26
+msgid "択肢 / 記入欄"
+msgstr ""
+
+#: ../../variable/Q1353A.rst:28
+msgid "はい"
+msgstr "Yes."
+
+#: ../../variable/Q1353A.rst:29
+msgid "いいえ"
+msgstr "No."
+
+#: ../../variable/Q1353A.rst:34
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1353A.rst:40
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code"
+
+#: ../../variable/Q1353A.rst:46
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1353A.rst:48
+msgid "3"
+msgstr ""
+
+#: ../../variable/Q1353A.rst:52
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1353A.rst:57
+msgid "p29_5"
+msgstr ""
+

@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1201I.rst:5 ../../variable/Q1201I.rst:21
+msgid "貯蓄計画を立てても達成できないことが多い"
+msgstr "Saving plans often don't work."
+
+#: ../../variable/Q1201I.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1201I.rst:11
+msgid "Q1201I"
+msgstr ""
+
+#: ../../variable/Q1201I.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1201I.rst:18
+msgid "次の事柄について、あなたのお考えをお答えください。"
+msgstr "Please share your opinion on the following matters."
+
+#: ../../variable/Q1201I.rst:27
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1201I.rst:29
+msgid "そう思う"
+msgstr "Agree"
+
+#: ../../variable/Q1201I.rst:30
+msgid "どちらかといえばそう思う"
+msgstr "Somewhat agree"
+
+#: ../../variable/Q1201I.rst:31
+msgid "どちらともいえない"
+msgstr "Neutral"
+
+#: ../../variable/Q1201I.rst:32
+msgid "どちらかといえばそう思わない"
+msgstr "Somewhat disagree"
+
+#: ../../variable/Q1201I.rst:33
+msgid "そう思わない"
+msgstr "Disagree"
+
+#: ../../variable/Q1201I.rst:40
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1201I.rst:46
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code"
+
+#: ../../variable/Q1201I.rst:52
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1201I.rst:53
+msgid "6"
+msgstr ""
+
+#: ../../variable/Q1201I.rst:58
+msgid "備考"
+msgstr "Remarks"
+#: ../../variable/Q1201I.rst:64
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1201I.rst:69
+msgid "p29_3"
+msgstr ""
+

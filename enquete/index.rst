@@ -15,3 +15,6 @@
    /variable/Q9011
    /variable/Q9012
    /variable/Q9013
+   /variable/Q9014
+   /variable/Q9015
+

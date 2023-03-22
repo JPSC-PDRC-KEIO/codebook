@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1335.rst:5
+msgid "健在の子供（9）1番上：未既婚"
+msgstr ""
+
+#: ../../variable/Q1335.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1335.rst:11
+msgid "Q1335"
+msgstr ""
+
+#: ../../variable/Q1335.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1335.rst:17
+msgid "2番目のお子さん"
+msgstr "2nd child"
+
+#: ../../variable/Q1335.rst:19
+msgid "結婚していますか。"
+msgstr ""
+
+#: ../../variable/Q1335.rst:24
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1335.rst:26
+msgid "現在、結婚している"
+msgstr ""
+
+#: ../../variable/Q1335.rst:27
+msgid "結婚したことはない"
+msgstr ""
+
+#: ../../variable/Q1335.rst:28
+msgid "以前、結婚していた（離死別）"
+msgstr ""
+
+#: ../../variable/Q1335.rst:33
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1335.rst:39
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code"
+
+#: ../../variable/Q1335.rst:45
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1335.rst:47
+msgid "4"
+msgstr ""
+
+#: ../../variable/Q1335.rst:51
+msgid "備考"
+msgstr "Remarks"
+#: ../../variable/Q1335.rst:57
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1335.rst:62
+msgid "p29_5"
+msgstr ""
+

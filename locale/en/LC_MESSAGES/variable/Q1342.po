@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1342.rst:5
+msgid "健在の子供（4）2番目：経済援助やお世話"
+msgstr ""
+
+#: ../../variable/Q1342.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1342.rst:11
+msgid "Q1342"
+msgstr ""
+
+#: ../../variable/Q1342.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1342.rst:17
+msgid "2番目のお子さん"
+msgstr "2nd child"
+
+#: ../../variable/Q1342.rst:19
+msgid "【学校を終えた方のみ】この1 年間でのそのお子さんに対する経済的援助やお世話について"
+msgstr ""
+
+#: ../../variable/Q1342.rst:24
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1342.rst:26
+msgid "援助・お世話をし、子どもからもあった（相互にあり）"
+msgstr ""
+
+#: ../../variable/Q1342.rst:27
+msgid "自分が援助・お世話するのみ（親のみあり）"
+msgstr ""
+
+#: ../../variable/Q1342.rst:28
+msgid "子どもから援助・お世話をされるのみ（子のみあり）"
+msgstr ""
+
+#: ../../variable/Q1342.rst:29
+msgid "いずれもない（相互になし）"
+msgstr ""
+
+#: ../../variable/Q1342.rst:35
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1342.rst:41
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code"
+
+#: ../../variable/Q1342.rst:47
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1342.rst:49
+msgid "5"
+msgstr ""
+
+#: ../../variable/Q1342.rst:53
+msgid "備考"
+msgstr "Remarks"
+#: ../../variable/Q1342.rst:59
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1342.rst:64
+msgid "p29_5"
+msgstr ""
+

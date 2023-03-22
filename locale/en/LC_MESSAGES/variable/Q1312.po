@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1312.rst:5
+msgid "12～15歳の新型コロナワクチン接種について"
+msgstr "About COVID-19 vaccination for children aged 12 to 15 years old"
+
+#: ../../variable/Q1312.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1312.rst:11
+msgid "Q1312"
+msgstr ""
+
+#: ../../variable/Q1312.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1312.rst:18
+msgid "あなたは、12 歳から15 歳の子どもの新型コロナワクチン接種についてどう思いますか。"
+msgstr "What do you think of COVID-19 vaccination for children aged 12 to 15 years old?"
+
+#: ../../variable/Q1312.rst:24
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1312.rst:26
+msgid "接種した方がよい"
+msgstr "They should be vaccinated."
+
+#: ../../variable/Q1312.rst:27
+msgid "接種しない方がよい"
+msgstr "They should not be vaccinated."
+
+#: ../../variable/Q1312.rst:28
+msgid "どちらともいえない"
+msgstr "I can’t say either way."
+
+#: ../../variable/Q1312.rst:33
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1312.rst:39
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code"
+
+#: ../../variable/Q1312.rst:45
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1312.rst:47
+msgid "4"
+msgstr ""
+
+#: ../../variable/Q1312.rst:51
+msgid "備考"
+msgstr "Remarks"
+#: ../../variable/Q1312.rst:57
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1312.rst:62
+msgid "p29_5"
+msgstr ""
+

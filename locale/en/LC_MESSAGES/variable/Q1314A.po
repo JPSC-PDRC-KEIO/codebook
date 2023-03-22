@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1314A.rst:5
+msgid "これまでの生き方：様々な目標を持って過ごしてきた、過ごしている"
+msgstr "How you’ve lived your life to date: I have always had a variety of goals in life"
+
+#: ../../variable/Q1314A.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1314A.rst:11
+msgid "Q1314A"
+msgstr ""
+
+#: ../../variable/Q1314A.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1314A.rst:18
+msgid "次の項目について、これまでの生き方を振り返ってどのくらいあてはまりますか。（それぞれ○は１つずつ）"
+msgstr "Reflecting on how you’ve lived your life to date, how applicable are the following items? (Circle one number per item.)"
+
+#: ../../variable/Q1314A.rst:21
+msgid "様々な目標を持って過ごしてきた、過ごしている"
+msgstr "I have always had a variety of goals in life."
+
+#: ../../variable/Q1314A.rst:26
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1314A.rst:28
+msgid "とてもそう思う"
+msgstr "Strongly agree"
+
+#: ../../variable/Q1314A.rst:29
+msgid "そう思う"
+msgstr "Agree"
+
+#: ../../variable/Q1314A.rst:30
+msgid "どちらともいえない"
+msgstr "Neither agree nor disagree"
+
+#: ../../variable/Q1314A.rst:31
+msgid "そうとは思わない"
+msgstr "Disagree"
+
+#: ../../variable/Q1314A.rst:32
+msgid "まったくそう思わない"
+msgstr "Strongly disagree"
+
+#: ../../variable/Q1314A.rst:38
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1314A.rst:44
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code"
+
+#: ../../variable/Q1314A.rst:50
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1314A.rst:52
+msgid "6"
+msgstr ""
+
+#: ../../variable/Q1314A.rst:56
+msgid "備考"
+msgstr "Remarks"
+#: ../../variable/Q1314A.rst:62
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1314A.rst:67
+msgid "p29_5"
+msgstr ""
+

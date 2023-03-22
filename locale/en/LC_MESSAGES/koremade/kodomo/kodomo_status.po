@@ -1,14 +1,14 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
- ""
+#, fuzzy
+msgid ""
 msgstr ""
-"Project-Id-Version: JPSC codebook 0.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-05 13:37+0900\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,15 +17,96 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #: ../../koremade/kodomo/kodomo_status.rst:3
 msgid "健在のお子さんについて"
-msgstr ""
+msgstr "About your children are in good health"
 
 #: ../../koremade/kodomo/kodomo_status.rst:7
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../koremade/kodomo/kodomo_status.rst:8
 msgid "ご健在のお子さん一人ひとりについて、年上のお子さんから順に３人の方までお答えください。"
+msgstr "Please answer for each healthy child (up to three), beginning with the eldest."
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid "1番目の子"
+msgstr "First child"
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid "2番目の子"
+msgstr "Second child"
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid "3番目の子"
+msgstr "Third child"
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid "性別"
+msgstr "Gender"
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid ":doc:`Q1324A</variable/Q1324A>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid ":doc:`Q1325A</variable/Q1325A>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid ":doc:`Q1326A</variable/Q1326A>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid "生年月日（生年：西暦）"
+msgstr "Date of birth (Year, western calendar)"
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid ":doc:`Q1324B</variable/Q1324B>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid ":doc:`Q1325B</variable/Q1325B>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid ":doc:`Q1326B</variable/Q1326B>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid "生年月日（生年：月）"
+msgstr "Date of birth (Month)"
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid ":doc:`Q1324C</variable/Q1324C>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid ":doc:`Q1325C</variable/Q1325C>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid ":doc:`Q1326C</variable/Q1326C>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid "現在の同別居"
+msgstr "Current residence"
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid ":doc:`Q1324D</variable/Q1324D>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid ":doc:`Q1325D</variable/Q1325D>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kodomo_status.rst:1
+msgid ":doc:`Q1326C</variable/Q1326D>`"
 msgstr ""
 

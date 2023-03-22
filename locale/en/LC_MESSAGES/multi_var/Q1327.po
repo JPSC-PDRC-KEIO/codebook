@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../multi_var/Q1327.rst:3
+msgid "健在の子供：子育てについて（第1子）"
+msgstr "Child in good health: child-raising (1st child)"
+
+#: ../../multi_var/Q1327.rst:7
+msgid "質問文"
+msgstr "Question"
+
+#: ../../multi_var/Q1327.rst:8
+msgid "そのお子さんの子育ては（あてはまるものすべてに〇）"
+msgstr "What has it been like raising the child ."
+
+#: ../../multi_var/Q1327.rst:1
+msgid "項目"
+msgstr "Items"
+
+#: ../../multi_var/Q1327.rst:1
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../multi_var/Q1327.rst:1
+msgid "楽しかった"
+msgstr "It was fun."
+
+#: ../../multi_var/Q1327.rst:1
+msgid ":doc:`Q1327A</variable/Q1327A>`"
+msgstr ""
+
+#: ../../multi_var/Q1327.rst:1
+msgid "育てやすかった"
+msgstr "The child was easy to raise."
+
+#: ../../multi_var/Q1327.rst:1
+msgid ":doc:`Q1327B</variable/Q1327B>`"
+msgstr ""
+
+#: ../../multi_var/Q1327.rst:1
+msgid "苦労や心配が多かった"
+msgstr "It was a lot of trouble and worry."
+
+#: ../../multi_var/Q1327.rst:1
+msgid ":doc:`Q1327C</variable/Q1327C>`"
+msgstr ""
+
+#: ../../multi_var/Q1327.rst:1
+msgid "過保護だった"
+msgstr "have been overprotective."
+
+#: ../../multi_var/Q1327.rst:1
+msgid ":doc:`Q1327D</variable/Q1327D>`"
+msgstr ""
+

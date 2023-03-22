@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1349.rst:5
+msgid "健在の子供（11）2番目：子供の配偶者の最終学歴"
+msgstr ""
+
+#: ../../variable/Q1349.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1349.rst:11
+msgid "Q1349"
+msgstr ""
+
+#: ../../variable/Q1349.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1349.rst:17
+msgid "2番目のお子さん"
+msgstr "2nd child"
+
+#: ../../variable/Q1349.rst:19
+msgid "【現在、結婚しているお子さんについて】現在のお子さんの配偶者が最後に行かれた学校は"
+msgstr ""
+
+#: ../../variable/Q1349.rst:24
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1349.rst:26
+msgid "義務教育"
+msgstr ""
+
+#: ../../variable/Q1349.rst:27
+msgid "高等学校"
+msgstr ""
+
+#: ../../variable/Q1349.rst:28
+msgid "短大"
+msgstr ""
+
+#: ../../variable/Q1349.rst:29
+msgid "専門学校・高専"
+msgstr ""
+
+#: ../../variable/Q1349.rst:30
+msgid "大学"
+msgstr ""
+
+#: ../../variable/Q1349.rst:31
+msgid "大学院"
+msgstr "Graduate school"
+
+#: ../../variable/Q1349.rst:32
+msgid "その他"
+msgstr ""
+
+#: ../../variable/Q1349.rst:37
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1349.rst:43
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code"
+
+#: ../../variable/Q1349.rst:49
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1349.rst:51
+msgid "8"
+msgstr ""
+
+#: ../../variable/Q1349.rst:55
+msgid "備考"
+msgstr "Remarks"
+#: ../../variable/Q1349.rst:61
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1349.rst:66
+msgid "p29_5"
+msgstr ""
+

@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1310.rst:5
+msgid "新型コロナワクチン接種状況：意向"
+msgstr "COVID-19 vaccination: your status as of the end of September"
+
+#: ../../variable/Q1310.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1310.rst:11
+msgid "Q1310"
+msgstr ""
+
+#: ../../variable/Q1310.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1310.rst:18
+msgid ""
+"あなたの新型コロナワクチン接種の状況・意向についておうかがいします。あてはまる番号に〇をつけてください。9 "
+"月末時点の状況をご記入ください。（〇は１つ）"
+msgstr "This question refers to status and intentions regarding COVID-19 vaccination. Please circle the applicable number. Please enter your status as of the end of September. (Please choose one.)"
+
+#: ../../variable/Q1310.rst:24
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1310.rst:27
+msgid "すでに2 回の接種を行った"
+msgstr "I have already received two doses."
+
+#: ../../variable/Q1310.rst:28
+msgid "１回は接種したが2 回目はまだである"
+msgstr "I have received one dose, but have not yet received my second dose."
+
+#: ../../variable/Q1310.rst:29
+msgid "まだ接種していない。すぐにでも受けたい（接種予約済を含む） "
+msgstr "I have not yet been vaccinated. I would like to get the vaccine as soon as possible (including if you have already made a vaccination appointment)."
+
+#: ../../variable/Q1310.rst:30
+msgid "まだ接種していない。どこかの時点で接種したい"
+msgstr "I have not yet been vaccinated I would like to get the vaccine at some point."
+
+#: ../../variable/Q1310.rst:31
+msgid "まだ接種していない。接種するかは決めていない"
+msgstr "I have not yet been vaccinated. I have not decided whether I would get the vaccine."
+
+#: ../../variable/Q1310.rst:32
+msgid "まだ接種していない。接種しない"
+msgstr "I have not yet been vaccinated, and I will not be vaccinated."
+
+#: ../../variable/Q1310.rst:37
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1310.rst:43
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code"
+
+#: ../../variable/Q1310.rst:49
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1310.rst:51
+msgid "7"
+msgstr ""
+
+#: ../../variable/Q1310.rst:55
+msgid "備考"
+msgstr "Remarks"
+#: ../../variable/Q1310.rst:61
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1310.rst:66
+msgid "p29_5"
+msgstr ""
+

@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1307B.rst:5
+msgid "３番上の子：最後に在籍した学校の卒業の有無"
+msgstr "Did he or she graduate: 3rd child"
+
+#: ../../variable/Q1307B.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1307B.rst:11
+msgid "Q1307B"
+msgstr ""
+
+#: ../../variable/Q1307B.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1307B.rst:18
+msgid "お子さんが最後に行かれた学校をコード表の4～12から選択してお答え下さい。大学を卒業された後に専修学校（専門学校）、各種学校に通学された場合は、大学としてして下さい。"
+msgstr "Please select the most recent school your child attended, choosing from options 4 to 12 in the code table.If your child attended a vocational school (professional school) or other type school after graduating from a university, please treat it as a university."
+
+#: ../../variable/Q1307B.rst:21
+msgid "卒業しましたか。"
+msgstr "Did he or she graduate?"
+
+#: ../../variable/Q1307B.rst:27
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1307B.rst:29
+msgid "はい"
+msgstr "Yes."
+
+#: ../../variable/Q1307B.rst:30
+msgid "いいえ"
+msgstr "No."
+
+#: ../../variable/Q1307B.rst:35
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1307B.rst:41
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code"
+
+#: ../../variable/Q1307B.rst:47
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1307B.rst:48
+msgid "3"
+msgstr ""
+
+#: ../../variable/Q1307B.rst:53
+msgid "備考"
+msgstr "Remarks"
+#: ../../variable/Q1307B.rst:59
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1307B.rst:64
+msgid "p29_4"
+msgstr ""
+

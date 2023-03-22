@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1351C.rst:5
+msgid "健在の子供（1）３番目：子育て・苦労や心配が多かった"
+msgstr "Child in good health(1): 3rd child: Child-rasing: It was a lot of trouble and worry."
+
+#: ../../variable/Q1351C.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1351C.rst:11
+msgid "Q1351C"
+msgstr ""
+
+#: ../../variable/Q1351C.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1351C.rst:17
+msgid "3番目のお子さん"
+msgstr "3rd child"
+
+#: ../../variable/Q1351C.rst:19
+msgid "そのお子さんの子育ては（あてはまるものすべてに〇）"
+msgstr "What has it been like raising the child ."
+
+#: ../../variable/Q1351C.rst:21
+msgid "苦労や心配が多かった"
+msgstr "It was a lot of trouble and worry."
+
+#: ../../variable/Q1351C.rst:27
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1351C.rst:29
+msgid "はい"
+msgstr "Yes."
+
+#: ../../variable/Q1351C.rst:30
+msgid "いいえ"
+msgstr "No."
+
+#: ../../variable/Q1351C.rst:35
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1351C.rst:41
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code"
+
+#: ../../variable/Q1351C.rst:47
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1351C.rst:49
+msgid "3"
+msgstr ""
+
+#: ../../variable/Q1351C.rst:53
+msgid "備考"
+msgstr "Remarks"
+#: ../../variable/Q1351C.rst:59
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1351C.rst:64
+msgid "p29_5"
+msgstr ""
+

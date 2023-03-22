@@ -4,7 +4,8 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
- ""
+#, fuzzy
+msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
@@ -19,5 +20,5 @@ msgstr ""
 
 #: ../../koremade/sedai/index.rst:3
 msgid "世代観について"
-msgstr ""
+msgstr "About your view of generation"
 

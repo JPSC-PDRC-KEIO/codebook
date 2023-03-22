@@ -1,14 +1,14 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2019, KEIO PDRC
-# This file is distributed under the same license as the JPSC codebook
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
- ""
+#, fuzzy
+msgid ""
 msgstr ""
-"Project-Id-Version: JPSC codebook 0.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-05 13:37+0900\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,15 +17,244 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #: ../../koremade/kodomo/kosodate.rst:3
 msgid "健在のお子さんについての振り返り"
-msgstr ""
+msgstr "Looking back on your children"
 
 #: ../../koremade/kodomo/kosodate.rst:7
 msgid "質問文"
-msgstr ""
+msgstr "Question"
 
 #: ../../koremade/kodomo/kosodate.rst:8
 msgid "１番上のお子さんから３番目のお子さんについて、それぞれお答えください。"
+msgstr "Please answer the following for each of the children above, from the first to the third, as applicable."
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid "項目"
+msgstr "Items"
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid "1番目の子"
+msgstr "First child"
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid "2番目の子"
+msgstr "Second child"
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid "3番目の子"
+msgstr "Third child"
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid "子育てについて"
+msgstr "Child-raising"
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1327</multi_var/Q1327>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1339</multi_var/Q1339>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1351</multi_var/Q1351>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid "18歳になるまでの教育やしつけ"
+msgstr "Education and discipline until he or she was 18 years old"
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1328</variable/Q1328>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1340</variable/Q1340>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1352</variable/Q1352>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid "3歳時点の通園・保育"
+msgstr "What was the child doing at the age of 3 years"
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1329</multi_var/Q1329>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1341</multi_var/Q1341>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1353</multi_var/Q1353>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid "経済援助やお世話"
+msgstr "Financial support and care for your children"
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1330</variable/Q1330>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1342</variable/Q1342>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1354</variable/Q1354>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid "学校卒業後の就業"
+msgstr "Employment after leavomg the last school?"
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1331</variable/Q1331>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1343</variable/Q1343>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1355</variable/Q1355>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid "現在の就業"
+msgstr "Current form of employment"
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1332</variable/Q1332>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1344</variable/Q1344>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1356</variable/Q1356>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid "生活程度"
+msgstr "Current standard of living"
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1333</variable/Q1333>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1345</variable/Q1345>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1357</variable/Q1357>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid "子どもの有無"
+msgstr "Presence of children"
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1334A</variable/Q1334A>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1346A</variable/Q1346A>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1358A</variable/Q1358A>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid "子どもの人数"
+msgstr "Number of children"
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1334B</variable/Q1334B>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1346B</variable/Q1346B>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1358B</variable/Q1358B>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid "未既婚"
+msgstr "Married or unmarried"
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1335</variable/Q1335>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1347</variable/Q1347>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1359</variable/Q1359>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid "初婚年齢"
+msgstr "First marriage age"
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1336</variable/Q1336>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1348</variable/Q1348>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1360</variable/Q1360>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid "子どもの配偶者の最終学歴"
+msgstr "The highest level of education attained by your children’s spouses"
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1337</variable/Q1337>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1349</variable/Q1349>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1361</variable/Q1361>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid "最後に行った学校の卒業"
+msgstr "Whether your children’s spouses graduate from the last educational institution or not"
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1338</variable/Q1338>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1350</variable/Q1350>`"
+msgstr ""
+
+#: ../../koremade/kodomo/kosodate.rst:1
+msgid ":doc:`Q1362</variable/Q1362>`"
 msgstr ""
 

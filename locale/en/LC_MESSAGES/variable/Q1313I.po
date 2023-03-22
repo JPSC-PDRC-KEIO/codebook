@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1313I.rst:5
+msgid "労力や意識を向けた項目：周囲からの評価"
+msgstr "How much effort and awareness have you devoted to: worrying about approval from people around you"
+
+#: ../../variable/Q1313I.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1313I.rst:11
+msgid "Q1313I"
+msgstr ""
+
+#: ../../variable/Q1313I.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1313I.rst:18
+msgid "次の項目について、これまでの人生を振り返ると、あなたはどのくらいの労力や意識を向けてきましたか。 「ちょうどよかった」を中心にして、過剰と感じているか、不足と感じているかを現在の評価でお聞かせください。（それぞれ〇は１つずつ）"
+msgstr "Looking back on your life, how much effort and awareness have you devoted to the following topics? Please tell us your current estimation of whether you feel it has been excessive or insufficient, centering on “Just right.” (Circle one number per item.)"
+
+#: ../../variable/Q1313I.rst:21
+msgid "周囲（先生や上司、友人など）からの評価を気にすること"
+msgstr "Worrying about approval from people around you (teachers, bosses, friends, etc.)."
+
+#: ../../variable/Q1313I.rst:26
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1313I.rst:28
+msgid "とても過剰であった"
+msgstr "Very excessive"
+
+#: ../../variable/Q1313I.rst:29
+msgid "やや過剰であった"
+msgstr "Somewhat excessive"
+
+#: ../../variable/Q1313I.rst:30
+msgid "ちょうどよかった"
+msgstr "Just right"
+
+#: ../../variable/Q1313I.rst:31
+msgid "やや不足していた"
+msgstr "Somewhat insufficient"
+
+#: ../../variable/Q1313I.rst:32
+msgid "とても不足していた"
+msgstr "Very insufficient"
+
+#: ../../variable/Q1313I.rst:33
+msgid "自分にあてはまらない項目"
+msgstr "Not applicable"
+
+#: ../../variable/Q1313I.rst:38
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1313I.rst:44
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code"
+
+#: ../../variable/Q1313I.rst:50
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1313I.rst:52
+msgid "7"
+msgstr ""
+
+#: ../../variable/Q1313I.rst:56
+msgid "備考"
+msgstr "Remarks"
+#: ../../variable/Q1313I.rst:62
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1313I.rst:67
+msgid "p29_5"
+msgstr ""
+

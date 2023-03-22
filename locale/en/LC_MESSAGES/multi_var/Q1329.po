@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../multi_var/Q1329.rst:3
+msgid "健在の子供：3歳時点の状況（第1子）"
+msgstr ""
+
+#: ../../multi_var/Q1329.rst:7
+msgid "質問文"
+msgstr "Question"
+
+#: ../../multi_var/Q1329.rst:8
+msgid "【お子さんが３歳以上の場合】その子が３歳時点の状況"
+msgstr ""
+
+#: ../../multi_var/Q1329.rst:1
+msgid "項目"
+msgstr "Items"
+
+#: ../../multi_var/Q1329.rst:1
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../multi_var/Q1329.rst:1
+msgid "保育園"
+msgstr ""
+
+#: ../../multi_var/Q1329.rst:1
+msgid ":doc:`Q1329A</variable/Q1329A>`"
+msgstr ""
+
+#: ../../multi_var/Q1329.rst:1
+msgid "幼稚園"
+msgstr ""
+
+#: ../../multi_var/Q1329.rst:1
+msgid ":doc:`Q1329B</variable/Q1329B>`"
+msgstr ""
+
+#: ../../multi_var/Q1329.rst:1
+msgid "家庭保育（未通園）"
+msgstr ""
+
+#: ../../multi_var/Q1329.rst:1
+msgid ":doc:`Q1329C</variable/Q1329C>`"
+msgstr ""
+
+#: ../../multi_var/Q1329.rst:1
+msgid "その他"
+msgstr ""
+
+#: ../../multi_var/Q1329.rst:1
+msgid ":doc:`Q1329D</variable/Q1329D>`"
+msgstr ""
+

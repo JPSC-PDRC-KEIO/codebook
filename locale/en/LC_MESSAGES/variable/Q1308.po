@@ -1,0 +1,85 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, KEIO PDRC
+# This file is distributed under the same license as the JPSC codebook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JPSC codebook 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../variable/Q1308.rst:5
+msgid "2020年10月～2021年9月の休校・休園"
+msgstr "Closure of schools and preschools (October 2020 to September 2021)"
+
+#: ../../variable/Q1308.rst:9
+msgid "変数名"
+msgstr "Variable name"
+
+#: ../../variable/Q1308.rst:11
+msgid "Q1308"
+msgstr ""
+
+#: ../../variable/Q1308.rst:15
+msgid "質問文"
+msgstr "Question"
+
+#: ../../variable/Q1308.rst:18
+msgid ""
+"この１年間（2020年10 "
+"月～2021年9月）で、中学生までの子どもが通う園や学校が休校・休園（長期休みの延長を含む）や登校禁止になったことはありましたか。(〇は１つだけ)"
+msgstr "In the past year (i.e., from October 2020 to September 2021), have any of your children in junior high school or below taken a leave of absence (including extended long holidays) or been suspended from their school or kindergarten? (Circle one that applies)"
+
+#: ../../variable/Q1308.rst:24
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
+
+#: ../../variable/Q1308.rst:27
+msgid "休校・休園や登校禁止になったことがあった"
+msgstr "Yes, they took a leave or received a suspension."
+
+#: ../../variable/Q1308.rst:28
+msgid "休校・休園や登校禁止にはならなかった"
+msgstr "No, they did not take a leave or receive a suspension."
+
+#: ../../variable/Q1308.rst:29
+msgid "中学生以下の子どもはすべて未就園児"
+msgstr "All children were of pre-kindergarten age."
+
+#: ../../variable/Q1308.rst:34
+msgid "桁あふれコード"
+msgstr "Overflow code"
+
+#: ../../variable/Q1308.rst:40
+msgid "分類不能の回答コード"
+msgstr "Unclassifiable response code"
+
+#: ../../variable/Q1308.rst:46
+msgid "無回答コード"
+msgstr "No response code"
+
+#: ../../variable/Q1308.rst:48
+msgid "4"
+msgstr ""
+
+#: ../../variable/Q1308.rst:52
+msgid "備考"
+msgstr "Remarks"
+#: ../../variable/Q1308.rst:58
+msgid "収録シート"
+msgstr "Data files (csv)"
+
+#: ../../variable/Q1308.rst:63
+msgid "p29_4"
+msgstr ""
+
