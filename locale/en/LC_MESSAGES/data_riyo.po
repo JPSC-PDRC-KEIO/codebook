@@ -24,7 +24,7 @@ msgstr "Data acquisition procedure"
 
 #: ../../data_riyo.rst:5
 msgid ""
-"JPSCの調査データは、 `慶應義塾大学パネル設計・解析センター"
+"JPSCの調査データは、 `慶應義塾大学経済学部附属経済研究所パネルデータ設計・解析センター"
 "（PDRC) <https://www.pdrc.keio.ac.jp/>`_ にて管理していま"
 "す。データの利用者がデータセットを入手するためには事前に"
 "PDRCに `登録 <https://www.pdrc.keio.ac.jp/pdrc/>`_ すること"
