@@ -87,8 +87,7 @@ msgstr ""
 
 #: ../../multi_var/Q512.rst:23
 msgid "備考"
-msgstr ""
-
+msgstr "Remarks"
 #: ../../multi_var/Q512.rst:25
 msgid "この質問は、 :doc:`Q511 </variable/Q511>` から分岐した付問です。"
 msgstr "This is an additional question related to  :doc:`Q511 </variable/Q511>` ."

@@ -35,7 +35,8 @@ msgstr "Items"
 
 #: ../../multi_var/Q1161.rst:1
 msgid "変数"
-msgstr ""
+msgstr "Variable"
+
 
 #: ../../multi_var/Q1161.rst:1
 msgid "おむつを替えたり、着替えをさせる、着替えを用意する"

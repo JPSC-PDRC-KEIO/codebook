@@ -30,8 +30,6 @@
     "第４子以降", "－", "－", "－", "－", ":doc:`Q1140E </variable/Q1140E>`", ":doc:`Q1140F </variable/Q1140F>`", ":doc:`Q1140G </variable/Q1140G>`", ":doc:`Q1140H </variable/Q1140H>`"
 
 .. list-table:: **在学先コード表**
-   :widths: 15, 15
-   :header-rows: 1
 
    * - | 1 未就学（家庭内保育）
        | 2 未就学（保育園）

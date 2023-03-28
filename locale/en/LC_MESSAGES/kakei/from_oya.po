@@ -39,7 +39,8 @@ msgstr "Items"
 
 #: ../../kakei/from_oya.rst:1
 msgid "変数"
-msgstr ""
+msgstr "Variable"
+
 
 #: ../../kakei/from_oya.rst:1
 msgid "住宅ローン返済"
