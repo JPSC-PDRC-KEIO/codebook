@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q9008C.rst:5
 msgid "調査で負担に感じたこと：ご自身に関する情報：数字（所得や労働時間など）の記入指示が細かい"
-msgstr ""
+msgstr "Burden of the survey: detailed instructions for how to fill out information and figures about yourself"
 
 #: ../../variable/Q9008C.rst:9
 msgid "変数名"

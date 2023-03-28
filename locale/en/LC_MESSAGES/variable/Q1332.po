@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1332.rst:5
 msgid "健在の子供（6）1番上：現在の就業"
-msgstr ""
+msgstr "Child in good health(6): 1st child: current employment form"
 
 #: ../../variable/Q1332.rst:9
 msgid "変数名"
@@ -40,7 +39,7 @@ msgstr "1st child"
 
 #: ../../variable/Q1332.rst:19
 msgid "【学校を終えた方のみ】現在は、どのような働き方ですか。"
-msgstr ""
+msgstr "[Only for children who have finished school] What is their current form of employment?"
 
 #: ../../variable/Q1332.rst:24
 msgid "選択肢 / 記入欄"
@@ -48,31 +47,31 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1332.rst:26
 msgid "正社員・正職員"
-msgstr ""
+msgstr "Full-time and regular employees."
 
 #: ../../variable/Q1332.rst:27
 msgid "派遣社員"
-msgstr ""
+msgstr "Dispatched employees."
 
 #: ../../variable/Q1332.rst:28
 msgid "契約・嘱託・その他"
-msgstr ""
+msgstr "Contract employees, temporary employees, and others."
 
 #: ../../variable/Q1332.rst:29
 msgid "パート・アルバイト"
-msgstr ""
+msgstr "Part-time employees."
 
 #: ../../variable/Q1332.rst:30
 msgid "自営業・家族従業者"
-msgstr ""
+msgstr "Self-employed or working for the family business."
 
 #: ../../variable/Q1332.rst:31
 msgid "仕事についていない（休職・求職中）"
-msgstr ""
+msgstr "He/she did not get a job (in temporary retirement or currently seeking)."
 
 #: ../../variable/Q1332.rst:32
 msgid "仕事についていない（専業主婦・その他）"
-msgstr ""
+msgstr "He/she did not get a job (housewife or other unemployed)."
 
 #: ../../variable/Q1332.rst:37
 msgid "桁あふれコード"

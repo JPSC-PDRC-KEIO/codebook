@@ -85,9 +85,3 @@ msgstr ""
 msgid "p26_5"
 msgstr ""
 
-#~ msgid "変数名: Q9006"
-#~ msgstr ""
-
-#~ msgid "選択肢 / 記入欄"
-#~ msgstr ""
-

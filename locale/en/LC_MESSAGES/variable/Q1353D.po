@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1353D.rst:5
 msgid "健在の子供（3）３番目：３歳時点の通園・保育　その他"
-msgstr ""
+msgstr "Child in good health(3): 3rd child: schooling at the age of 3 years: other"
 
 #: ../../variable/Q1353D.rst:9
 msgid "変数名"
@@ -39,16 +38,16 @@ msgid "3番目のお子さん"
 msgstr "3rd child"
 
 #: ../../variable/Q1353D.rst:19
-msgid "【３歳以上の場合】その子が３歳時点の状況"
-msgstr ""
+msgid "【お子さんが３歳以上の場合】その子が３歳時点の状況"
+msgstr "[For children aged 3 year or older] What was the child doing at the age of 3 years?"
 
 #: ../../variable/Q1353D.rst:21
 msgid "その他"
-msgstr ""
+msgstr "Other."
 
 #: ../../variable/Q1353D.rst:26
-msgid "択肢 / 記入欄"
-msgstr ""
+msgid "選択肢 / 記入欄"
+msgstr "Select / Fill in"
 
 #: ../../variable/Q1353D.rst:28
 msgid "はい"

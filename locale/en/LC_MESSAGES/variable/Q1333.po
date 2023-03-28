@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1333.rst:5
 msgid "健在の子供（7）1番上：生活程度"
-msgstr ""
+msgstr "Child in good health(7): 1st child: current standard of living"
 
 #: ../../variable/Q1333.rst:9
 msgid "変数名"
@@ -40,7 +39,7 @@ msgstr "1st child"
 
 #: ../../variable/Q1333.rst:19
 msgid "【学校を終えた方のみ】そのお子さん（夫婦）の現在の生活程度は、世間一般からみて、次のどれにはいると思いますか。"
-msgstr ""
+msgstr "[Only for children who have finished school] Which of the following do you feel best describes your children’s (and children’s spouses, if applicable) current standard of living from the perspective of the general public?"
 
 #: ../../variable/Q1333.rst:24
 msgid "選択肢 / 記入欄"
@@ -48,23 +47,23 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1333.rst:26
 msgid "上"
-msgstr ""
+msgstr "High."
 
 #: ../../variable/Q1333.rst:27
 msgid "中の上"
-msgstr ""
+msgstr "Medium-high."
 
 #: ../../variable/Q1333.rst:28
 msgid "中の中"
-msgstr ""
+msgstr "Medium."
 
 #: ../../variable/Q1333.rst:29
 msgid "中の下"
-msgstr ""
+msgstr "Medium-low."
 
 #: ../../variable/Q1333.rst:30
 msgid "下"
-msgstr ""
+msgstr "Low."
 
 #: ../../variable/Q1333.rst:35
 msgid "桁あふれコード"

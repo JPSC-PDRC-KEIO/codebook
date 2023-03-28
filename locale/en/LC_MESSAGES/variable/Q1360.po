@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1360.rst:5
 msgid "健在の子供（10）３番目：初婚年齢"
-msgstr ""
+msgstr "Child in good health(10): 3rd child: first marriage age"
 
 #: ../../variable/Q1360.rst:9
 msgid "変数名"
@@ -40,7 +39,7 @@ msgstr "3rd child"
 
 #: ../../variable/Q1360.rst:19
 msgid "【結婚したことがあるお子さんについて】初めて結婚されたのは、そのお子さんが何歳の時ですか。"
-msgstr ""
+msgstr "[For children who have been married] How old were your children when they first got married?"
 
 #: ../../variable/Q1360.rst:24
 msgid "選択肢 / 記入欄"
@@ -48,7 +47,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1360.rst:26
 msgid "＿ ＿ 歳ごろ"
-msgstr ""
+msgstr "_ _ years old"
 
 #: ../../variable/Q1360.rst:32
 msgid "桁あふれコード"

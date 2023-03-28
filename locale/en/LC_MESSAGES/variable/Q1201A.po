@@ -61,7 +61,7 @@ msgstr "Neutral"
 
 #: ../../variable/Q1201A.rst:36
 msgid "どちらかといえばそう思わない"
-msgstr "somewhat disagree"
+msgstr "Somewhat disagree"
 
 #: ../../variable/Q1201A.rst:37
 msgid "そう思わない"
@@ -80,7 +80,6 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q1201A.rst:60
-#, fuzzy
 msgid "6"
 msgstr "6"
 

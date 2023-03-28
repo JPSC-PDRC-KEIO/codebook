@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1315C.rst:5
 msgid "世代間の環境評価（下の世代）：進路や職業選択の多様性"
-msgstr "Evaluation about the generation (Yougerer generation) (1): diversity in career and occupational choices"
+msgstr "Evaluation about the generation (youger generation) (1): diversity in career and occupational choices"
 
 #: ../../variable/Q1315C.rst:9
 msgid "変数名"

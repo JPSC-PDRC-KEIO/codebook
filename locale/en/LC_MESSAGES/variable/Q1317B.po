@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1317B.rst:5
 msgid "世代間の環境評価（本人の世代）：雇用機会や待遇（賃金、昇進）の男女平等"
-msgstr "Evaluation about the generation (My generation) (3): gender equality in terms of employment opportunities and treatment in the workplace"
+msgstr "Evaluation about the generation (your generation) (3): gender equality in terms of employment opportunities and treatment in the workplace"
 
 #: ../../variable/Q1317B.rst:9
 msgid "変数名"

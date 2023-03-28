@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,5 +19,5 @@ msgstr ""
 
 #: ../../covid19/vaccine/index.rst:3
 msgid "新型コロナワクチンについて"
-msgstr ""
+msgstr "About COVID-19 vaccination"
 

@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1321B.rst:5
 msgid "世代間の環境評価（本人の世代）：女性らしさに縛られず生きること"
-msgstr "Evaluation about the generation (My generation) (7): living without being constrained by femininity"
+msgstr "Evaluation about the generation (your generation) (7): living without being constrained by femininity"
 
 #: ../../variable/Q1321B.rst:9
 msgid "変数名"

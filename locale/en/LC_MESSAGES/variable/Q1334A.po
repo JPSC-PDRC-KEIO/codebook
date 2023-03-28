@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1334A.rst:5
 msgid "健在の子供（8）1番上：子供の有無"
-msgstr ""
+msgstr "Child in good health(8): 1st child: presence of children"
 
 #: ../../variable/Q1334A.rst:9
 msgid "変数名"
@@ -40,7 +39,7 @@ msgstr "1st child"
 
 #: ../../variable/Q1334A.rst:19
 msgid "そのお子さんには子ども（あなたのお孫さん）がいますか。"
-msgstr ""
+msgstr "Do your children have any children of their own? (i.e., your grandchild or grandchildren?)"
 
 #: ../../variable/Q1334A.rst:25
 msgid "選択肢 / 記入欄"
@@ -48,11 +47,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1334A.rst:27
 msgid "いる  →  :doc:`Q1334B</variable/Q1334B>` へ"
-msgstr ""
+msgstr "Yes. to :doc:`Q1334B</variable/Q1334B>`"
 
 #: ../../variable/Q1334A.rst:28
 msgid "いない"
-msgstr ""
+msgstr "No."
 
 #: ../../variable/Q1334A.rst:33
 msgid "桁あふれコード"

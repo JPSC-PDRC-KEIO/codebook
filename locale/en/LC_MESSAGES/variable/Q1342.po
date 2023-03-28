@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1342.rst:5
 msgid "健在の子供（4）2番目：経済援助やお世話"
-msgstr ""
+msgstr "Child in good health(4): 2nd child: financial support and care for your children"
 
 #: ../../variable/Q1342.rst:9
 msgid "変数名"
@@ -40,7 +39,7 @@ msgstr "2nd child"
 
 #: ../../variable/Q1342.rst:19
 msgid "【学校を終えた方のみ】この1 年間でのそのお子さんに対する経済的援助やお世話について"
-msgstr ""
+msgstr "[Only for children who have finished school] Regarding financial support and care for your children over the past year."
 
 #: ../../variable/Q1342.rst:24
 msgid "選択肢 / 記入欄"
@@ -48,19 +47,19 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1342.rst:26
 msgid "援助・お世話をし、子どもからもあった（相互にあり）"
-msgstr ""
+msgstr "I supported and took care of them, and my children sometimes did the same for me (mutual)."
 
 #: ../../variable/Q1342.rst:27
 msgid "自分が援助・お世話するのみ（親のみあり）"
-msgstr ""
+msgstr "I supported and took care of my children (parent only)."
 
 #: ../../variable/Q1342.rst:28
 msgid "子どもから援助・お世話をされるのみ（子のみあり）"
-msgstr ""
+msgstr "I was supported and taken care of by my children (child only)."
 
 #: ../../variable/Q1342.rst:29
 msgid "いずれもない（相互になし）"
-msgstr ""
+msgstr "None (neither)."
 
 #: ../../variable/Q1342.rst:35
 msgid "桁あふれコード"

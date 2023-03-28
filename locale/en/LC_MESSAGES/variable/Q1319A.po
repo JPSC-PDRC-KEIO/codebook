@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1319A.rst:5
 msgid "世代間の環境評価（上の世代）：将来の人生設計の立てやすさ"
-msgstr "Evaluation about the generation (Older generation) (5): ease of planning a life for the future"
+msgstr "Evaluation about the generation (older generation) (5): ease of planning a life for the future"
 
 #: ../../variable/Q1319A.rst:9
 msgid "変数名"

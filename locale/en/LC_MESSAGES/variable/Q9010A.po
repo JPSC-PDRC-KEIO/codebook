@@ -4,12 +4,11 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-17 11:46+0900\n"
+"POT-Creation-Date: 2023-03-23 15:43+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,62 +17,69 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
-#: ../../variable/Q9010A.rst:5
+#: ../../variable/Q9010A.rst:6
 msgid "回答をやめようと思った調査回：最初（１回目）"
 msgstr "Survey times to feel to quit doing the survey: the first time"
 
-#: ../../variable/Q9010A.rst:9
+#: ../../variable/Q9010A.rst:11
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q9010A.rst:11
+#: ../../variable/Q9010A.rst:13
 msgid "Q9010A"
 msgstr ""
 
-#: ../../variable/Q9010A.rst:15
+#: ../../variable/Q9010A.rst:18
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q9010A.rst:18
+#: ../../variable/Q9010A.rst:21
 msgid "回答をやめようと思ったのは何回目の調査のときですか。（〇はいくつでも）"
-msgstr "When did you feel that you wanted to quit doing the survey? (Circle as many as pertain to you.)"
+msgstr ""
+"When did you feel that you wanted to quit doing the survey? (Circle as "
+"many as pertain to you.)"
 
-#: ../../variable/Q9010A.rst:20
+#: ../../variable/Q9010A.rst:23
 msgid "最初に協力を依頼されたとき（1回目）"
 msgstr "The first survey."
 
-#: ../../variable/Q9010A.rst:25
+#: ../../variable/Q9010A.rst:29
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q9010A.rst:27
+#: ../../variable/Q9010A.rst:31
 msgid "はい"
 msgstr "Yes."
 
-#: ../../variable/Q9010A.rst:28
+#: ../../variable/Q9010A.rst:32
 msgid "いいえ"
 msgstr "No."
 
-#: ../../variable/Q9010A.rst:34
+#: ../../variable/Q9010A.rst:39
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q9010A.rst:40
+#: ../../variable/Q9010A.rst:46
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q9010A.rst:46
+#: ../../variable/Q9010A.rst:53
 msgid "無回答コード"
 msgstr "No response code"
 
-#: ../../variable/Q9010A.rst:48
+#: ../../variable/Q9010A.rst:55
 msgid "3"
 msgstr ""
 
-#: ../../variable/Q9010A.rst:52
+#: ../../variable/Q9010A.rst:60
 msgid "備考"
 msgstr "Remarks"
-#: ../../variable/Q9010A.rst:58
+
+#: ../../variable/Q9010A.rst:67
 msgid "収録シート"
 msgstr "Data files (csv)"
+
+#: ../../variable/Q9010A.rst:72
+msgid "p29_5"
+msgstr ""
 

@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1347.rst:5
 msgid "健在の子供（9）2番目：未既婚"
-msgstr ""
+msgstr "Child in good health(9): 2nd child: married or unmarried"
 
 #: ../../variable/Q1347.rst:9
 msgid "変数名"
@@ -40,7 +39,7 @@ msgstr "3rd child"
 
 #: ../../variable/Q1347.rst:19
 msgid "結婚していますか。"
-msgstr ""
+msgstr "Are your children married?"
 
 #: ../../variable/Q1347.rst:24
 msgid "選択肢 / 記入欄"
@@ -48,15 +47,15 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1347.rst:26
 msgid "現在、結婚している"
-msgstr ""
+msgstr "Yes, at present."
 
 #: ../../variable/Q1347.rst:27
 msgid "結婚したことはない"
-msgstr ""
+msgstr "Have never been married"
 
 #: ../../variable/Q1347.rst:28
 msgid "以前、結婚していた（離死別）"
-msgstr ""
+msgstr "Have been married, but is now separated or divorced"
 
 #: ../../variable/Q1347.rst:33
 msgid "桁あふれコード"

@@ -4,7 +4,7 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
- ""
+msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
@@ -18,6 +18,5 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../enquete/index.rst:3
-msgid "調査についてのお尋ね（調査最終回）"
-msgstr ""
-
+msgid "調査についてのお尋ね"
+msgstr "About the survey"

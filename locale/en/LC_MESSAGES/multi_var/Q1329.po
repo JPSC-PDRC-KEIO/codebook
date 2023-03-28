@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: ../../multi_var/Q1329.rst:3
 msgid "健在の子供：3歳時点の状況（第1子）"
-msgstr ""
+msgstr "Child in good health: schooling at the age of 3 years (1st child)"
 
 #: ../../multi_var/Q1329.rst:7
 msgid "質問文"
@@ -28,7 +27,7 @@ msgstr "Question"
 
 #: ../../multi_var/Q1329.rst:8
 msgid "【お子さんが３歳以上の場合】その子が３歳時点の状況"
-msgstr ""
+msgstr "[For children aged 3 year or older] What was the child doing at the age of 3 years?"
 
 #: ../../multi_var/Q1329.rst:1
 msgid "項目"
@@ -40,7 +39,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q1329.rst:1
 msgid "保育園"
-msgstr ""
+msgstr "Nursery school."
 
 #: ../../multi_var/Q1329.rst:1
 msgid ":doc:`Q1329A</variable/Q1329A>`"
@@ -48,7 +47,7 @@ msgstr ""
 
 #: ../../multi_var/Q1329.rst:1
 msgid "幼稚園"
-msgstr ""
+msgstr "Kindergarten."
 
 #: ../../multi_var/Q1329.rst:1
 msgid ":doc:`Q1329B</variable/Q1329B>`"
@@ -56,7 +55,7 @@ msgstr ""
 
 #: ../../multi_var/Q1329.rst:1
 msgid "家庭保育（未通園）"
-msgstr ""
+msgstr "Home childcare (not attending organized childcare)."
 
 #: ../../multi_var/Q1329.rst:1
 msgid ":doc:`Q1329C</variable/Q1329C>`"
@@ -64,7 +63,7 @@ msgstr ""
 
 #: ../../multi_var/Q1329.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other."
 
 #: ../../multi_var/Q1329.rst:1
 msgid ":doc:`Q1329D</variable/Q1329D>`"

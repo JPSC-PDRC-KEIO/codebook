@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q9009B.rst:5
 msgid "調査への協力をやめようと思った回数"
-msgstr "Number of times considering stopping your participation in the survey"
+msgstr "The number of times considering stopping your participation in the survey"
 
 #: ../../variable/Q9009B.rst:9
 msgid "変数名"
@@ -44,7 +43,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q9009B.rst:26
 msgid "＿ ＿ 回程度"
-msgstr ""
+msgstr "About _ _ times."
 
 #: ../../variable/Q9009B.rst:32
 msgid "桁あふれコード"

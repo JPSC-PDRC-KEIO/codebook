@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1318A.rst:5
 msgid "世代間の環境評価（上の世代）：男女がともに家事：育児にかかわること"
-msgstr "Evaluation about the generation (Older generation) (4): men and women being involved in housework and childcare"
+msgstr "Evaluation about the generation (older generation) (4): men and women being involved in housework and childcare"
 
 #: ../../variable/Q1318A.rst:9
 msgid "変数名"

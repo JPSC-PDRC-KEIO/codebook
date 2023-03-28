@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1358B.rst:5
 msgid "健在の子供（8）３番目：子供人数"
-msgstr ""
+msgstr "Child in good health(8): 3rd child: the number of children"
 
 #: ../../variable/Q1358B.rst:9
 msgid "変数名"
@@ -36,7 +35,7 @@ msgstr "Question"
 
 #: ../../variable/Q1358B.rst:17
 msgid "3番目のお子さんの人数"
-msgstr ""
+msgstr "The number of children (3rd child)"
 
 #: ../../variable/Q1358B.rst:23
 msgid "選択肢 / 記入欄"
@@ -44,7 +43,7 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1358B.rst:25
 msgid "＿ ＿ 人"
-msgstr ""
+msgstr "_ _ child(ren)"
 
 #: ../../variable/Q1358B.rst:31
 msgid "桁あふれコード"

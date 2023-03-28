@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1337.rst:5
 msgid "健在の子供（11）1番上：子供の配偶者の最終学歴"
-msgstr ""
+msgstr "Child in good health(11): 1st child: the highest level of education attained by your children’s spouses"
 
 #: ../../variable/Q1337.rst:9
 msgid "変数名"
@@ -40,7 +39,7 @@ msgstr "1st child"
 
 #: ../../variable/Q1337.rst:19
 msgid "【現在、結婚しているお子さんについて】現在のお子さんの配偶者が最後に行かれた学校は"
-msgstr ""
+msgstr "[For children who are currently married] What is the highest level of education attained by your children’s spouses?"
 
 #: ../../variable/Q1337.rst:24
 msgid "選択肢 / 記入欄"
@@ -48,23 +47,23 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1337.rst:26
 msgid "義務教育"
-msgstr ""
+msgstr "Compulsory education."
 
 #: ../../variable/Q1337.rst:27
 msgid "高等学校"
-msgstr ""
+msgstr "High school."
 
 #: ../../variable/Q1337.rst:28
 msgid "短大"
-msgstr ""
+msgstr "Junior college."
 
 #: ../../variable/Q1337.rst:29
 msgid "専門学校・高専"
-msgstr ""
+msgstr "Vocational school or Colleges of Technology (KOSEN)"
 
 #: ../../variable/Q1337.rst:30
 msgid "大学"
-msgstr ""
+msgstr "College or University (4years)."
 
 #: ../../variable/Q1337.rst:31
 msgid "大学院"
@@ -72,7 +71,7 @@ msgstr "Graduate school"
 
 #: ../../variable/Q1337.rst:32
 msgid "その他"
-msgstr ""
+msgstr "Other."
 
 #: ../../variable/Q1337.rst:37
 msgid "桁あふれコード"

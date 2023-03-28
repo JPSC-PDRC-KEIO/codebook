@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1201H.rst:6
 msgid "政府や行政は問題によく取り組んでいるか"
-msgstr ""
+msgstr "Do you think the government and administration are tackling new and difficult problems well?"
 
 #: ../../variable/Q1201H.rst:11
 msgid "変数名"
@@ -35,11 +35,11 @@ msgstr "Question"
 
 #: ../../variable/Q1201H.rst:21
 msgid "次の事柄について、あなたのお考えをお答えください。"
-msgstr ""
+msgstr "Please share your opinion on the following matters."
 
 #: ../../variable/Q1201H.rst:24
 msgid "政府や行政は新しい問題、困難な問題によく取り組んでいると思いますか"
-msgstr ""
+msgstr "Do you think the Japanese government and the administration work hard to address new as well as difficult problems?"
 
 #: ../../variable/Q1201H.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,23 +47,23 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1201H.rst:33
 msgid "そう思う"
-msgstr ""
+msgstr "Agree"
 
 #: ../../variable/Q1201H.rst:34
 msgid "どちらかといえばそう思う"
-msgstr ""
+msgstr "Somewhat agree"
 
 #: ../../variable/Q1201H.rst:35
 msgid "どちらともいえない"
-msgstr ""
+msgstr "Neutral"
 
 #: ../../variable/Q1201H.rst:36
 msgid "どちらかといえばそう思わない"
-msgstr ""
+msgstr "Somewhat disagree"
 
 #: ../../variable/Q1201H.rst:37
 msgid "そう思わない"
-msgstr ""
+msgstr "Disagree"
 
 #: ../../variable/Q1201H.rst:45
 msgid "桁あふれコード"

@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -29,6 +28,10 @@ msgstr "Variable name"
 #: ../../variable/Q1302B.rst:11
 msgid "Q1302B"
 msgstr ""
+
+#: ../../variable/Q1302A.rst:15
+msgid "質問文"
+msgstr "Question"
 
 #: ../../variable/Q1302B.rst:16
 msgid ""

@@ -4,7 +4,6 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1355.rst:5
 msgid "健在の子供（5）３番目：学校卒業後の就業"
-msgstr ""
+msgstr "Child in good health(5): 3rd child: employment after leavomg the last school"
 
 #: ../../variable/Q1355.rst:9
 msgid "変数名"
@@ -40,7 +39,7 @@ msgstr "3rd child"
 
 #: ../../variable/Q1355.rst:19
 msgid "【学校を終えた方のみ】最後の学校を出られた直後は、どのような形で働いていましたか。"
-msgstr ""
+msgstr "[Only for children who have finished school] employment after leavomg the last school"
 
 #: ../../variable/Q1355.rst:25
 msgid "選択肢 / 記入欄"
@@ -48,27 +47,27 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1355.rst:27
 msgid "正社員・正職員"
-msgstr ""
+msgstr "Full-time and regular employees."
 
 #: ../../variable/Q1355.rst:28
 msgid "派遣社員"
-msgstr ""
+msgstr "Dispatched employees."
 
 #: ../../variable/Q1355.rst:29
 msgid "契約・嘱託・その他"
-msgstr ""
+msgstr "Contract employees, temporary employees, and others."
 
 #: ../../variable/Q1355.rst:30
 msgid "パート・アルバイト"
-msgstr ""
+msgstr "Part-time employees."
 
 #: ../../variable/Q1355.rst:31
 msgid "自営業・家族従業者"
-msgstr ""
+msgstr "Self-employed or working for the family business."
 
 #: ../../variable/Q1355.rst:32
 msgid "仕事につかなかった"
-msgstr ""
+msgstr "He/she did not get a job."
 
 #: ../../variable/Q1355.rst:37
 msgid "桁あふれコード"
