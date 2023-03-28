@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-22 15:31+0900\n"
+"POT-Creation-Date: 2023-03-23 15:43+0900\n"
 "PO-Revision-Date: 2021-08-30 14:49+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -22,6 +22,10 @@ msgstr ""
 #: ../../id_panel/sampleDS.rst:3
 msgid "サンプルデザイン"
 msgstr "Sample design"
+
+#: ../../id_panel/sampleDS.rst:6
+msgid "本調査は1993年～2021年に実施し、全29回の調査で完了いたしました。"
+msgstr "This survey was conducted from 1993 (Wave 1) to 2021 (Wave 29)."
 
 #: ../../id_panel/sampleDS.rst:6
 msgid "コーホートA"
@@ -39,11 +43,10 @@ msgid "全国の都道府県を8ブロックに分類した。"
 msgstr "The prefectures of Japan were classified into eight blocks."
 
 #: ../../id_panel/sampleDS.rst:12 ../../id_panel/sampleDS.rst:72
-
 msgid "各ブロック内でさらに都市規模によって、次のように分類し層化した。"
 msgstr ""
-"The number of cities in each block. Within each block, the cities "
-"were further classified and stratified by city size as follows."
+"The number of cities in each block. Within each block, the cities were "
+"further classified and stratified by city size as follows."
 
 #: ../../id_panel/sampleDS.rst:14
 msgid "13大都市（札幌市、仙台市、千葉市、東京都区、横浜市、川崎市、名古屋市、京都市、大阪市、神戸市、広島市、北九州市、福岡市）"
@@ -89,23 +92,23 @@ msgstr "Sampling"
 #: ../../id_panel/sampleDS.rst:27
 msgid "第1次抽出単位となる調査地点として、平成2年国勢調査時に設定された調査区を使用した。"
 msgstr ""
-"The survey area established at the time of the 1990 census was used "
-"as the survey point to serve as the primary extraction unit."
+"The survey area established at the time of the 1990 census was used as "
+"the survey point to serve as the primary extraction unit."
 
 #: ../../id_panel/sampleDS.rst:28
 msgid "調査地点（国勢調査区）の抽出数については、1調査地点あたりの標本数が12になるよう、各層に割り当てられた標本数から算出し決定した。"
 msgstr ""
-"The number of survey points (census tracts) The number of survey "
-"sites (census tracts) was determined by calculating the number of samples"
-" assigned to each stratum so that the sample size per survey site would "
-"be 12."
+"The number of survey points (census tracts) The number of survey sites "
+"(census tracts) was determined by calculating the number of samples "
+"assigned to each stratum so that the sample size per survey site would be"
+" 12."
 
 #: ../../id_panel/sampleDS.rst:29
 msgid "調査地点（調査区）の抽出は、層内での抽出地点数が2地点以上割り当てられた層について、以下のように抽出間隔を算出し、等間隔法によって抽出した。"
 msgstr ""
-"Extraction of study sites (study area) was carried out using the "
-"equal interval method by calculating the extraction intervals as follows "
-"for the strata where the number of extraction sites within a stratum was "
+"Extraction of study sites (study area) was carried out using the equal "
+"interval method by calculating the extraction intervals as follows for "
+"the strata where the number of extraction sites within a stratum was "
 "assigned to two or more sites."
 
 #: ../../id_panel/sampleDS.rst:31
@@ -130,15 +133,15 @@ msgstr ""
 #: ../../id_panel/sampleDS.rst:37
 msgid "この調査は完了指定数調査としたため、上記の正規対象者1について予備対象者3を付した。"
 msgstr ""
-"Since this survey was designed to be a survey with a specified "
-"number of completions, a reserve respondent 3 was added to the regular "
-"respondent 1 above."
+"Since this survey was designed to be a survey with a specified number of "
+"completions, a reserve respondent 3 was added to the regular respondent 1"
+" above."
 
 #: ../../id_panel/sampleDS.rst:38
 msgid "以上の作業の結果得られた層別の標本数、調査地点数は表-1のとおりである。"
 msgstr ""
-"The number of samples by stratum and the number of survey sites "
-"obtained as a result of the above work are shown in Table-1."
+"The number of samples by stratum and the number of survey sites obtained "
+"as a result of the above work are shown in Table-1."
 
 #: ../../id_panel/cohortA.rst:2
 msgid "**表- 1　コーホートAの層別推定母集団数、標本サイズ、調査地点数**"
@@ -1117,8 +1120,8 @@ msgstr "Cohort D"
 #: ../../id_panel/sampleDS.rst:99 ../../id_panel/sampleDS.rst:125
 msgid "各ブロック内でさらに、都市規模によって次のように分類し、層化した。"
 msgstr ""
-"The number of cities in each block. Within each block, the cities "
-"were further classified and stratified by city size as follows."
+"The number of cities in each block. Within each block, the cities were "
+"further classified and stratified by city size as follows."
 
 #: ../../id_panel/sampleDS.rst:101
 msgid "18大都市（札幌市、仙台市、さいたま市、千葉市、東京都区、横浜市、川崎市、新潟市、静岡市、浜松市、名古屋市、京都市、大阪市、堺市、神戸市、広島市、北九州市、福岡市）"
@@ -1130,7 +1133,7 @@ msgstr ""
 #: ../../id_panel/sampleDS.rst:102
 msgid "その他の市 （注）2008年4月1日現在による市政施行の地域"
 msgstr ""
-"\(Note) Cities in this section are defined as areas where municipal "
+"\\(Note) Cities in this section are defined as areas where municipal "
 "government was in effect as of April 1, 1993."
 
 #: ../../id_panel/sampleDS.rst:109
@@ -1371,7 +1374,7 @@ msgstr ""
 #: ../../id_panel/sampleDS.rst:128
 msgid "その他の市 （注）2013年4月1日現在による市政施行の地域"
 msgstr ""
-"\(Note) Cities in this section are defined as areas where municipal "
+"\\(Note) Cities in this section are defined as areas where municipal "
 "government was in effect as of April 1, 1993."
 
 #: ../../id_panel/sampleDS.rst:135
@@ -1633,4 +1636,11 @@ msgstr "128"
 #~ "single household, and 7 reserve "
 #~ "respondents for each unmarried respondent "
 #~ "in a single household"
+
+#~ msgid "\\frac{\\text{層での調査区数(計)}}{\\text{層での抽出調査地点数}} = \\text{抽出間隔}"
+#~ msgstr ""
+#~ "\\frac{\\text{Number of survey areas in "
+#~ "strata (total)}}{\\text{Number of survey sites"
+#~ " extracted in stratum}} = \\text{Extraction"
+#~ " interval}"
 
