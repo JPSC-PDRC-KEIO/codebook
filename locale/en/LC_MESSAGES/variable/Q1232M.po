@@ -60,7 +60,6 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q1232M.rst:52
-#, fuzzy
 msgid "99"
 msgstr "99"
 
@@ -81,11 +80,9 @@ msgid "収録シート"
 msgstr "Data files (csv)"
 
 #: ../../variable/Q1232M.rst:77
-#, fuzzy
 msgid "p27_3"
 msgstr "p27_3"
 
 #: ../../variable/Q1232M.rst:79
-#, fuzzy
 msgid "p28_3"
 msgstr "p28_3"

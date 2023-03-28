@@ -52,7 +52,6 @@ msgid "はい"
 msgstr "Yes"
 
 #: ../../variable/Q980D.rst:32
-#, fuzzy
 msgid "いいえ"
 msgstr "No"
 
@@ -69,7 +68,6 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q980D.rst:55
-#, fuzzy
 msgid "3"
 msgstr "3"
 

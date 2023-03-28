@@ -64,7 +64,6 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q164.rst:49
-#, fuzzy
 msgid "3"
 msgstr "3"
 
@@ -77,52 +76,42 @@ msgid "収録シート"
 msgstr "Data files (csv)"
 
 #: ../../variable/Q164.rst:65
-#, fuzzy
 msgid "p2_1"
 msgstr "p2_1"
 
 #: ../../variable/Q164.rst:67
-#, fuzzy
 msgid "p5a_1"
 msgstr "p5a_1"
 
 #: ../../variable/Q164.rst:69
-#, fuzzy
 msgid "p5b_1"
 msgstr "p5b_1"
 
 #: ../../variable/Q164.rst:71
-#, fuzzy
 msgid "p6_1"
 msgstr "p6_1"
 
 #: ../../variable/Q164.rst:73
-#, fuzzy
 msgid "p7_1"
 msgstr "p7_1"
 
 #: ../../variable/Q164.rst:75
-#, fuzzy
 msgid "p8_1"
 msgstr "p8_1"
 
 #: ../../variable/Q164.rst:77
-#, fuzzy
 msgid "p9_1"
 msgstr "p9_1"
 
 #: ../../variable/Q164.rst:79
-#, fuzzy
 msgid "p10_1"
 msgstr "p10_1"
 
 #: ../../variable/Q164.rst:81
-#, fuzzy
 msgid "p16d_1"
 msgstr "p16d_1"
 
 #: ../../variable/Q164.rst:83
-#, fuzzy
 msgid "p21e_1"
 msgstr "p21e_1"
 

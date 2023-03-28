@@ -60,7 +60,6 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q1232H.rst:52
-#, fuzzy
 msgid "99"
 msgstr "99"
 

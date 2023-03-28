@@ -65,7 +65,6 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q159.rst:49
-#, fuzzy
 msgid "3"
 msgstr "3"
 
@@ -114,7 +113,6 @@ msgid "p16d_1"
 msgstr "p16d_1"
 
 #: ../../variable/Q159.rst:83
-#, fuzzy
 msgid "p21e_1"
 msgstr "p21e_1"
 

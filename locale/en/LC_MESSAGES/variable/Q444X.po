@@ -40,7 +40,6 @@ msgid "現在、あなた方ご夫婦は次のものをいくつ保有してい�
 msgstr "How many of the following do you and your spouse currently own? Please fill in the number. If you do not have any, please fill in 0."
 
 #: ../../variable/Q444X.rst:24
-#, fuzzy
 msgid "乗用車"
 msgstr "Passenger vehicle"
 
@@ -49,7 +48,6 @@ msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
 #: ../../variable/Q444X.rst:33
-#, fuzzy
 msgid "＿＿台"
 msgstr "____ units"
 
@@ -58,7 +56,6 @@ msgid "桁あふれコード"
 msgstr "Overflow code"
 
 #: ../../variable/Q444X.rst:41
-#, fuzzy
 msgid "8"
 msgstr "8"
 
@@ -71,7 +68,6 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q444X.rst:55
-#, fuzzy
 msgid "9"
 msgstr "9"
 

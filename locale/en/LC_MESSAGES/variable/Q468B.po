@@ -56,7 +56,6 @@ msgid "桁あふれコード"
 msgstr "Overflow code"
 
 #: ../../variable/Q468B.rst:41
-#, fuzzy
 msgid "98"
 msgstr "98"
 
@@ -69,7 +68,6 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q468B.rst:55
-#, fuzzy
 msgid "99"
 msgstr "99"
 

@@ -64,7 +64,6 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/P160.rst:52
-#, fuzzy
 msgid "99"
 msgstr "99"
 
@@ -77,7 +76,6 @@ msgid "収録シート"
 msgstr "Data files (csv)"
 
 #: ../../variable/P160.rst:71
-#, fuzzy
 msgid "p5b_1"
 msgstr "p5b_1"
 

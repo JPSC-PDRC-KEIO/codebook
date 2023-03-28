@@ -76,7 +76,6 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q1166I.rst:59
-#, fuzzy
 msgid "5"
 msgstr "5"
 
@@ -121,7 +120,6 @@ msgid "p25_4"
 msgstr ""
 
 #: ../../variable/Q1166I.rst:94
-#, fuzzy
 msgid "p26_4"
 msgstr "p26_4"
 

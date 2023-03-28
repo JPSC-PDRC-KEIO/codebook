@@ -68,7 +68,6 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q199A.rst:51
-#, fuzzy
 msgid "4"
 msgstr "4"
 
@@ -81,97 +80,78 @@ msgid "収録シート"
 msgstr "Data files (csv)"
 
 #: ../../variable/Q199A.rst:67
-#, fuzzy
 msgid "p2_1"
 msgstr "p2_1"
 
 #: ../../variable/Q199A.rst:69
-#, fuzzy
 msgid "p3_1"
 msgstr "p3_1"
 
 #: ../../variable/Q199A.rst:71
-#, fuzzy
 msgid "p4_1"
 msgstr "p4_1"
 
 #: ../../variable/Q199A.rst:73
-#, fuzzy
 msgid "p5a_1"
 msgstr "p5a_1"
 
 #: ../../variable/Q199A.rst:75
-#, fuzzy
 msgid "p6_1"
 msgstr "p6_1"
 
 #: ../../variable/Q199A.rst:77
-#, fuzzy
 msgid "p7_1"
 msgstr "p7_1"
 
 #: ../../variable/Q199A.rst:79
-#, fuzzy
 msgid "p8_1"
 msgstr "p8_1"
 
 #: ../../variable/Q199A.rst:81
-#, fuzzy
 msgid "p9_1"
 msgstr "p9_1"
 
 #: ../../variable/Q199A.rst:83
-#, fuzzy
 msgid "p10_1"
 msgstr "p10_1"
 
 #: ../../variable/Q199A.rst:85
-#, fuzzy
 msgid "p11ab_1"
 msgstr "p11ab_1"
 
 #: ../../variable/Q199A.rst:87
-#, fuzzy
 msgid "p11c_1"
 msgstr "p11c_1"
 
 #: ../../variable/Q199A.rst:89
-#, fuzzy
 msgid "p12_1"
 msgstr "p12_1"
 
 #: ../../variable/Q199A.rst:91
-#, fuzzy
 msgid "p13_1"
 msgstr "p13_1"
 
 #: ../../variable/Q199A.rst:93
-#, fuzzy
 msgid "p14_1"
 msgstr "p14_1"
 
 #: ../../variable/Q199A.rst:95
-#, fuzzy
 msgid "p15_1"
 msgstr "p15_1"
 
 #: ../../variable/Q199A.rst:97
-#, fuzzy
 msgid "p16abc_1"
 msgstr "p16abc_1"
 
 #: ../../variable/Q199A.rst:99
-#, fuzzy
 msgid "p16d_1"
 msgstr "p16d_1"
 
 #: ../../variable/Q199A.rst:101
-#, fuzzy
 msgid "p17_1"
 msgstr "p17_1"
 
 #: ../../variable/Q199A.rst:103
-#, fuzzy
 msgid "p21e_1"
 msgstr "p21e_1"
 

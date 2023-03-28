@@ -56,7 +56,6 @@ msgid "桁あふれコード"
 msgstr "Overflow code"
 
 #: ../../variable/Q433H.rst:41
-#, fuzzy
 msgid "998"
 msgstr "998"
 
@@ -69,7 +68,6 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q433H.rst:55
-#, fuzzy
 msgid "999"
 msgstr "999"
 

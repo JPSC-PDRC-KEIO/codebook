@@ -64,7 +64,6 @@ msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
 #: ../../variable/Q1149.rst:48
-#, fuzzy
 msgid "4"
 msgstr "4"
 
@@ -73,7 +72,6 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q1149.rst:55
-#, fuzzy
 msgid "5"
 msgstr "5"
 

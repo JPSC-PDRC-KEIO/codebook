@@ -80,132 +80,106 @@ msgid "収録シート"
 msgstr "Data files (csv)"
 
 #: ../../variable/Q74B.rst:74
-#, fuzzy
 msgid "p2_1"
 msgstr "p2_1"
 
 #: ../../variable/Q74B.rst:76
-#, fuzzy
 msgid "p3_1"
 msgstr "p3_1"
 
 #: ../../variable/Q74B.rst:78
-#, fuzzy
 msgid "p4_1"
 msgstr "p4_1"
 
 #: ../../variable/Q74B.rst:80
-#, fuzzy
 msgid "p5a_1"
 msgstr "p5a_1"
 
 #: ../../variable/Q74B.rst:82
-#, fuzzy
 msgid "p6_1"
 msgstr "p6_1"
 
 #: ../../variable/Q74B.rst:84
-#, fuzzy
 msgid "p7_1"
 msgstr "p7_1"
 
 #: ../../variable/Q74B.rst:86
-#, fuzzy
 msgid "p8_1"
 msgstr "p8_1"
 
 #: ../../variable/Q74B.rst:88
-#, fuzzy
 msgid "p9_1"
 msgstr "p9_1"
 
 #: ../../variable/Q74B.rst:90
-#, fuzzy
 msgid "p10_1"
 msgstr "p10_1"
 
 #: ../../variable/Q74B.rst:92
-#, fuzzy
 msgid "p11ab_1"
 msgstr "p11ab_1"
 
 #: ../../variable/Q74B.rst:94
-#, fuzzy
 msgid "p12_1"
 msgstr "p12_1"
 
 #: ../../variable/Q74B.rst:96
-#, fuzzy
 msgid "p13_1"
 msgstr "p13_1"
 
 #: ../../variable/Q74B.rst:98
-#, fuzzy
 msgid "p14_1"
 msgstr "p14_1"
 
 #: ../../variable/Q74B.rst:100
-#, fuzzy
 msgid "p15_1"
 msgstr "p15_1"
 
 #: ../../variable/Q74B.rst:102
-#, fuzzy
 msgid "p16abc_1"
 msgstr "p16abc_1"
 
 #: ../../variable/Q74B.rst:104
-#, fuzzy
 msgid "p17_1"
 msgstr "p17_1"
 
 #: ../../variable/Q74B.rst:106
-#, fuzzy
 msgid "p18_1"
 msgstr "p18_1"
 
 #: ../../variable/Q74B.rst:108
-#, fuzzy
 msgid "p19_1"
 msgstr "p19_1"
 
 #: ../../variable/Q74B.rst:110
-#, fuzzy
 msgid "p20_1"
 msgstr "p20_1"
 
 #: ../../variable/Q74B.rst:112
-#, fuzzy
 msgid "p21abcd_1"
 msgstr "p21abcd_1"
 
 #: ../../variable/Q74B.rst:114
-#, fuzzy
 msgid "p22_1"
 msgstr "p22_1"
 
 #: ../../variable/Q74B.rst:116
-#, fuzzy
 msgid "p23_1"
 msgstr "p23_1"
 
 #: ../../variable/Q74B.rst:118
-#, fuzzy
 msgid "p24_1"
 msgstr "p24_1"
 
 #: ../../variable/Q74B.rst:120
-#, fuzzy
 msgid "p25_1"
 msgstr "p25_1"
 
 #: ../../variable/Q74B.rst:122
-#, fuzzy
 msgid "p26_1"
 msgstr "p26_1"
 
 #: ../../variable/Q74B.rst:124
-#, fuzzy
 msgid "p27_1"
 msgstr "p27_1"
 

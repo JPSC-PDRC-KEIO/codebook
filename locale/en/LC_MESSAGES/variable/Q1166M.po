@@ -120,7 +120,6 @@ msgid "p25_4"
 msgstr ""
 
 #: ../../variable/Q1166M.rst:94
-#, fuzzy
 msgid "p26_4"
 msgstr "p26_4"
 

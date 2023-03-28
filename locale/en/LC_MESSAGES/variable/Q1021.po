@@ -112,7 +112,6 @@ msgid "無回答コード"
 msgstr "No response code"
 
 #: ../../variable/Q1021.rst:71
-#, fuzzy
 msgid "15"
 msgstr "15"
 
@@ -125,22 +124,18 @@ msgid "収録シート"
 msgstr "Data files (csv)"
 
 #: ../../variable/Q1021.rst:87
-#, fuzzy
 msgid "p5b_1"
 msgstr "p5b_1"
 
 #: ../../variable/Q1021.rst:89
-#, fuzzy
 msgid "p11c_1"
 msgstr "p11c_1"
 
 #: ../../variable/Q1021.rst:91
-#, fuzzy
 msgid "p16d_1"
 msgstr "p16d_1"
 
 #: ../../variable/Q1021.rst:93
-#, fuzzy
 msgid "p21e_1"
 msgstr "p21e_1"
 

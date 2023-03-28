@@ -84,7 +84,6 @@ msgid "p9_5"
 msgstr ""
 
 #: ../../variable/Q891.rst:77
-#, fuzzy
 msgid "p10_5"
 msgstr "p10_5"
 
@@ -161,7 +160,6 @@ msgid "p25_5"
 msgstr ""
 
 #: ../../variable/Q891.rst:115
-#, fuzzy
 msgid "p26_5"
 msgstr "p26_5"
 
