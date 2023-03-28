@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-24 18:42+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-20 13:52+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../multi_var/Q1042.rst:3
 msgid "子育ての相談相手"
-msgstr ""
+msgstr "Parenting Advisor"
 
 #: ../../multi_var/Q1042.rst:7
 msgid "質問文"
@@ -27,11 +29,11 @@ msgstr "Question"
 
 #: ../../multi_var/Q1042.rst:8
 msgid "現在、育児や子育てについて相談できる方はいますか。（〇はいくつでも）"
-msgstr ""
+msgstr "Do you have anyone you can currently consult with about child-rearing or parenting? (circle as many as pertain to you.)"
 
 #: ../../multi_var/Q1042.rst:11
 msgid "有配偶"
-msgstr ""
+msgstr "Married"
 
 #: ../../multi_var/Q1042.rst:1
 msgid "項目"
@@ -43,7 +45,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q1042.rst:1
 msgid "あなたの夫"
-msgstr ""
+msgstr "Your husband"
 
 #: ../../multi_var/Q1042.rst:1
 msgid ":doc:`Q1042A </variable/Q1042A>`"
@@ -51,7 +53,7 @@ msgstr ""
 
 #: ../../multi_var/Q1042.rst:1
 msgid "あなたの親"
-msgstr ""
+msgstr "Your parents"
 
 #: ../../multi_var/Q1042.rst:1
 msgid ":doc:`Q1042B </variable/Q1042B>`"
@@ -59,7 +61,7 @@ msgstr ""
 
 #: ../../multi_var/Q1042.rst:1
 msgid "あなたのきょうだい"
-msgstr ""
+msgstr "Your siblings"
 
 #: ../../multi_var/Q1042.rst:1
 msgid ":doc:`Q1042C </variable/Q1042C>`"
@@ -67,7 +69,7 @@ msgstr ""
 
 #: ../../multi_var/Q1042.rst:1
 msgid "夫の親"
-msgstr ""
+msgstr "Husband's parents"
 
 #: ../../multi_var/Q1042.rst:1
 msgid ":doc:`Q1042D </variable/Q1042D>`"
@@ -75,7 +77,7 @@ msgstr ""
 
 #: ../../multi_var/Q1042.rst:1
 msgid "友人"
-msgstr ""
+msgstr "Friends"
 
 #: ../../multi_var/Q1042.rst:1
 msgid ":doc:`Q1042E </variable/Q1042E>`"
@@ -83,7 +85,7 @@ msgstr ""
 
 #: ../../multi_var/Q1042.rst:1
 msgid "近所の人"
-msgstr ""
+msgstr "Neighbors"
 
 #: ../../multi_var/Q1042.rst:1
 msgid ":doc:`Q1042F </variable/Q1042F>`"
@@ -91,7 +93,7 @@ msgstr ""
 
 #: ../../multi_var/Q1042.rst:1
 msgid "医師、助産婦、保育士、保健師などの専門家"
-msgstr ""
+msgstr "Professionals such as doctors, midwives, childcare workers, and public health nurses"
 
 #: ../../multi_var/Q1042.rst:1
 msgid ":doc:`Q1042G </variable/Q1042G>`"
@@ -99,7 +101,7 @@ msgstr ""
 
 #: ../../multi_var/Q1042.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q1042.rst:1
 msgid ":doc:`Q1042H </variable/Q1042H>`"
@@ -107,7 +109,7 @@ msgstr ""
 
 #: ../../multi_var/Q1042.rst:1
 msgid "特に相談できる人はいない"
-msgstr ""
+msgstr "I don't have anyone in particular that I can consult with."
 
 #: ../../multi_var/Q1042.rst:1
 msgid ":doc:`Q1042I </variable/Q1042I>`"
@@ -115,7 +117,7 @@ msgstr ""
 
 #: ../../multi_var/Q1042.rst:1
 msgid "特に相談する必要がない"
-msgstr ""
+msgstr "There is no particular need for me to consult with anyone."
 
 #: ../../multi_var/Q1042.rst:1
 msgid ":doc:`Q1042J </variable/Q1042J>`"
@@ -123,11 +125,11 @@ msgstr ""
 
 #: ../../multi_var/Q1042.rst:30
 msgid "無配偶"
-msgstr ""
+msgstr "Single"
 
 #: ../../multi_var/Q1042.rst:1
 msgid "子どもの父親"
-msgstr ""
+msgstr "Child's father"
 
 #: ../../multi_var/Q1042.rst:1
 msgid ":doc:`Q1042K </variable/Q1042K>`"
@@ -138,4 +140,3 @@ msgstr ""
 
 #~ msgid "変数"
 #~ msgstr ""
-

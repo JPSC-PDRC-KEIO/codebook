@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: 2023-03-16 10:14+0900\n"
+"PO-Revision-Date: 2023-03-21 14:27+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -20,8 +20,8 @@ msgstr ""
 "X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q1209B.rst:6
-msgid "夫婦間での収入の開示：夫の収入"
-msgstr "Marital income disclosure: husband's income"
+msgid "夫婦間での収入の開示：あなたの収入"
+msgstr "Do you and your spouse report your income to each other?: your income"
 
 #: ../../variable/Q1209B.rst:11
 msgid "変数名"
@@ -37,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q1209B.rst:21
 msgid "あなた方ご夫婦は、お互いに収入を開示、報告していますか。（それぞれ〇は１つずつ）"
-msgstr "Do you and your spouse disclose and report your income to each other? (circle one for each)"
+msgstr "Do you and your spouse report your income to each other? (circle one for each)"
 
 #: ../../variable/Q1209B.rst:24
 msgid "夫の収入"
@@ -49,27 +49,27 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1209B.rst:33
 msgid "詳細を開示している"
-msgstr "Details are disclosed."
+msgstr "Details are reported."
 
 #: ../../variable/Q1209B.rst:34
 msgid "おおよその額は開示している"
-msgstr "Approximate amounts disclosed."
+msgstr "Approximate amounts are reported."
 
 #: ../../variable/Q1209B.rst:35
 msgid "ほとんどの額を開示していない"
-msgstr "Few details are disclosed."
+msgstr "Few details are reported."
 
 #: ../../variable/Q1209B.rst:36
 msgid "まったく開示していない"
-msgstr "Somewhat dissatisfied"
+msgstr "We don't report at all."
 
 #: ../../variable/Q1209B.rst:37
 msgid "どの程度開示しているか、わからない"
-msgstr "Dissatisfied"
+msgstr "I don't remember how much we report to each other"
 
 #: ../../variable/Q1209B.rst:38
 msgid "収入はなかった"
-msgstr "Dissatisfied"
+msgstr "There was no income."
 
 #: ../../variable/Q1209B.rst:45
 msgid "桁あふれコード"

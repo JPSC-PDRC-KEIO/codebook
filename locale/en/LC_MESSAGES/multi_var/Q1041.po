@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-24 18:42+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-24 10:00+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../multi_var/Q1041.rst:3
 msgid "子育ての協力者"
-msgstr ""
+msgstr "Childcare supporter"
 
 #: ../../multi_var/Q1041.rst:7
 msgid "質問文"
@@ -27,11 +29,11 @@ msgstr "Question"
 
 #: ../../multi_var/Q1041.rst:8
 msgid "現在、あなた以外に子どもの世話をしてくれる人がいますか。（〇はいくつでも）"
-msgstr ""
+msgstr "Do you currently have anyone other than yourself who takes care of your child/children? (circle as many as pertain to you)"
 
 #: ../../multi_var/Q1041.rst:11
 msgid "有配偶"
-msgstr ""
+msgstr "Married"
 
 #: ../../multi_var/Q1041.rst:1
 msgid "項目"
@@ -43,7 +45,7 @@ msgstr "Variable name"
 
 #: ../../multi_var/Q1041.rst:1
 msgid "あなたの夫"
-msgstr ""
+msgstr "Your husband"
 
 #: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041A </variable/Q1041A>`"
@@ -51,7 +53,7 @@ msgstr ""
 
 #: ../../multi_var/Q1041.rst:1
 msgid "あなたの親"
-msgstr ""
+msgstr "Your parents"
 
 #: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041B </variable/Q1041B>`"
@@ -59,7 +61,7 @@ msgstr ""
 
 #: ../../multi_var/Q1041.rst:1
 msgid "あなたのきょうだい"
-msgstr ""
+msgstr "Your siblings"
 
 #: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041C </variable/Q1041C>`"
@@ -67,7 +69,7 @@ msgstr ""
 
 #: ../../multi_var/Q1041.rst:1
 msgid "夫の親"
-msgstr ""
+msgstr "Husband's parents"
 
 #: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041D </variable/Q1041D>`"
@@ -75,7 +77,7 @@ msgstr ""
 
 #: ../../multi_var/Q1041.rst:1
 msgid "友人"
-msgstr ""
+msgstr "Friends"
 
 #: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041E </variable/Q1041E>`"
@@ -83,7 +85,7 @@ msgstr ""
 
 #: ../../multi_var/Q1041.rst:1
 msgid "近所の人"
-msgstr ""
+msgstr "Neighbors"
 
 #: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041F </variable/Q1041F>`"
@@ -91,7 +93,7 @@ msgstr ""
 
 #: ../../multi_var/Q1041.rst:1
 msgid "保育所・幼稚園・学童保育など"
-msgstr ""
+msgstr "Nursery schools, kindergartens, after-school care programs, etc."
 
 #: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041G </variable/Q1041G>`"
@@ -99,7 +101,7 @@ msgstr ""
 
 #: ../../multi_var/Q1041.rst:1
 msgid "ベビーシッター・家政婦など"
-msgstr ""
+msgstr "Babysitter, housekeeper, etc."
 
 #: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041H </variable/Q1041H>`"
@@ -107,7 +109,7 @@ msgstr ""
 
 #: ../../multi_var/Q1041.rst:1
 msgid "その他"
-msgstr ""
+msgstr "Other"
 
 #: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041I </variable/Q1041I>`"
@@ -115,7 +117,7 @@ msgstr ""
 
 #: ../../multi_var/Q1041.rst:1
 msgid "特に世話をしてくれる人はいない"
-msgstr ""
+msgstr "There is no one in particular who takes care of them."
 
 #: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041J </variable/Q1041J>`"
@@ -123,7 +125,7 @@ msgstr ""
 
 #: ../../multi_var/Q1041.rst:1
 msgid "特に世話をしてもらう必要がない"
-msgstr ""
+msgstr "There is no need for anyone in particular to take care of them."
 
 #: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041K </variable/Q1041K>`"
@@ -131,11 +133,11 @@ msgstr ""
 
 #: ../../multi_var/Q1041.rst:32
 msgid "無配偶"
-msgstr ""
+msgstr "Single"
 
 #: ../../multi_var/Q1041.rst:1
 msgid "子どもの父親"
-msgstr ""
+msgstr "Child's father"
 
 #: ../../multi_var/Q1041.rst:1
 msgid ":doc:`Q1041L </variable/Q1041L>`"
@@ -146,4 +148,3 @@ msgstr ""
 
 #~ msgid "変数"
 #~ msgstr ""
-

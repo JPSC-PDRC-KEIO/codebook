@@ -47,11 +47,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1041L.rst:33
 msgid "はい"
-msgstr ""
+msgstr "Yes."
 
 #: ../../variable/Q1041L.rst:34
 msgid "いいえ"
-msgstr ""
+msgstr "No."
 
 #: ../../variable/Q1041L.rst:42
 msgid "桁あふれコード"

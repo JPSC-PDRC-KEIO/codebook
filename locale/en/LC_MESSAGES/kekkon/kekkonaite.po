@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-24 09:37+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../kekkon/kekkonaite.rst:3
 msgid "結婚相手に重視する要素"
-msgstr ""
+msgstr "Factors to prioritize in a spouse"
 
 #: ../../kekkon/kekkonaite.rst:9
 msgid "質問文"
@@ -27,11 +29,11 @@ msgstr "Question"
 
 #: ../../kekkon/kekkonaite.rst:10
 msgid "あなたは、結婚相手にはどのような要素を重視しますか。以下の要素についてあなたのお考えを選んでください。（それぞれ〇は１つずつ）"
-msgstr ""
+msgstr "What factors do you prioritize in a spouse? Please select from the following options. (circle only one for each)"
 
 #: ../../kekkon/kekkonaite.rst:12
 msgid "今後とも結婚するご意思のない方は次ページにお進みください。"
-msgstr ""
+msgstr "Those who do not intend to marry in the future, please proceed to the next page."
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "項目"
@@ -43,7 +45,7 @@ msgstr "Variable name"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "重視する"
-msgstr ""
+msgstr "prioritize"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "＜ー－－"
@@ -55,11 +57,11 @@ msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "重視しない"
-msgstr ""
+msgstr "not prioritize"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "親しい友人"
-msgstr ""
+msgstr "Close friend"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162A </variable/Q1162A>`"
@@ -67,23 +69,23 @@ msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "人生に共に立ち向かう人"
-msgstr ""
+msgstr "Life partner"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162B </variable/Q1162B>`"
@@ -91,7 +93,7 @@ msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "一心同体の人"
-msgstr ""
+msgstr "Soulmate"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162C </variable/Q1162C>`"
@@ -99,7 +101,7 @@ msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "趣味を共有する人"
-msgstr ""
+msgstr "Someone who shares hobbies and interests"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162D </variable/Q1162D>`"
@@ -107,7 +109,7 @@ msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "経済的に頼れる人"
-msgstr ""
+msgstr "Financially dependable"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162E </variable/Q1162E>`"
@@ -115,7 +117,7 @@ msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "父親のように保護してくれる人"
-msgstr ""
+msgstr "Protects you like a father"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162F </variable/Q1162F>`"
@@ -123,7 +125,7 @@ msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "心の支えになる人"
-msgstr ""
+msgstr "Emotional supporter"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162G </variable/Q1162G>`"
@@ -131,7 +133,7 @@ msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "性的に魅力のある人"
-msgstr ""
+msgstr "Sexually attractive"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162H </variable/Q1162H>`"
@@ -139,7 +141,7 @@ msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "子どものように甘えてくれる人"
-msgstr ""
+msgstr "Spoils you like a child"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162I </variable/Q1162I>`"
@@ -147,7 +149,7 @@ msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "空気のような存在"
-msgstr ""
+msgstr "Like air"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162J </variable/Q1162J>`"
@@ -155,7 +157,7 @@ msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "可愛い人"
-msgstr ""
+msgstr "Lovely person"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162K </variable/Q1162K>`"
@@ -163,7 +165,7 @@ msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "家事や育児に協力的な人"
-msgstr ""
+msgstr "Cooperative in housework and childcare"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162L </variable/Q1162L>`"
@@ -171,7 +173,7 @@ msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "学歴が高く、安定した仕事についている人"
-msgstr ""
+msgstr "Person with a high level of education and a stable job"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162M </variable/Q1162M>`"
@@ -179,7 +181,7 @@ msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "家庭を第一に考える人"
-msgstr ""
+msgstr "Family-oriented person"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162N </variable/Q1162N>`"
@@ -187,7 +189,7 @@ msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "自分にない性格を持っている人"
-msgstr ""
+msgstr "Person who has a personality that is different from your own"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162O </variable/Q1162O>`"
@@ -195,7 +197,7 @@ msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "容姿のいい人"
-msgstr ""
+msgstr "Good-looking person"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1162P </variable/Q1162P>`"
@@ -203,38 +205,16 @@ msgstr ""
 
 #: ../../kekkon/kekkonaite.rst:37
 msgid "有配偶の方へは次（ :doc:`otto_image_yu` ) のように質問しています。"
-msgstr ""
+msgstr "For those who are married, we ask questions as shown in the following example ( :doc:otto_image_yu )."
 
 #: ../../kekkon/kekkonaite.rst:62
 msgid "付問：1から16の中で、あなたが結婚相手に最も重視する要素はどれですか。"
-msgstr ""
+msgstr "Follow-up question: which factor do you prioritize the most in a spouse from 1 to 16?"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid "結婚相手に最も重視する要素"
-msgstr ""
+msgstr "Factors to prioritize in a spouse"
 
 #: ../../kekkon/kekkonaite.rst:1
 msgid ":doc:`Q1163 </variable/Q1163>`"
 msgstr ""
-
-#~ msgid "Todo"
-#~ msgstr ""
-
-#~ msgid "課題"
-#~ msgstr ""
-
-#~ msgid "リンクはダミーなので修正する"
-#~ msgstr ""
-
-#~ msgid "今後とも結婚するご意思のない方は次ページの問3にお進みください。"
-#~ msgstr ""
-
-#~ msgid "子供のように甘えてくれる人"
-#~ msgstr ""
-
-#~ msgid "コード（1から16）"
-#~ msgstr ""
-
-#~ msgid "付問：（1）から（16）の中で、あなたが結婚相手に最も重視する要素はどれですか。"
-#~ msgstr ""
-

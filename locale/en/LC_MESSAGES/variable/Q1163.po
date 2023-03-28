@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-24 09:56+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q1163.rst:6
 msgid "結婚相手に最も重視する要素"
-msgstr ""
+msgstr "Factors to prioritize in a spouse"
 
 #: ../../variable/Q1163.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q1163.rst:21
 msgid "1から16の中で、あなたが結婚相手に最も重視する要素はどれですか。"
-msgstr ""
+msgstr "Which factor do you prioritize the most in a spouse from 1 to 16?"
 
 #: ../../variable/Q1163.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,67 +45,67 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1163.rst:30
 msgid "親しい友人"
-msgstr ""
+msgstr "Close friend"
 
 #: ../../variable/Q1163.rst:31
 msgid "人生に共に立ち向かう人"
-msgstr ""
+msgstr "Life partner"
 
 #: ../../variable/Q1163.rst:32
 msgid "一心同体の人"
-msgstr ""
+msgstr "Soulmate"
 
 #: ../../variable/Q1163.rst:33
 msgid "趣味を共有する人"
-msgstr ""
+msgstr "Someone who shares hobbies and interests"
 
 #: ../../variable/Q1163.rst:34
 msgid "経済的に頼れる人"
-msgstr ""
+msgstr "Financially dependable"
 
 #: ../../variable/Q1163.rst:35
 msgid "父親のように保護してくれる人"
-msgstr ""
+msgstr "Protects you like a father"
 
 #: ../../variable/Q1163.rst:36
 msgid "心の支えになる人"
-msgstr ""
+msgstr "Emotional supporter"
 
 #: ../../variable/Q1163.rst:37
 msgid "性的に魅力のある人"
-msgstr ""
+msgstr "Sexually attractive"
 
 #: ../../variable/Q1163.rst:38
 msgid "子どものように甘えてくれる人"
-msgstr ""
+msgstr "Spoils you like a child"
 
 #: ../../variable/Q1163.rst:39
 msgid "空気のような存在"
-msgstr ""
+msgstr "Like air"
 
 #: ../../variable/Q1163.rst:40
 msgid "可愛い人"
-msgstr ""
+msgstr "Lovely person"
 
 #: ../../variable/Q1163.rst:41
 msgid "家事や育児に協力的な人"
-msgstr ""
+msgstr "Cooperative in housework and childcare"
 
 #: ../../variable/Q1163.rst:42
 msgid "学歴が高く、安定した仕事についている人"
-msgstr ""
+msgstr "Person with a high level of education and a stable job"
 
 #: ../../variable/Q1163.rst:43
 msgid "家庭を第一に考える人"
-msgstr ""
+msgstr "Family-oriented person"
 
 #: ../../variable/Q1163.rst:44
 msgid "自分にない性格を持っている人"
-msgstr ""
+msgstr "Person who has a personality that is different from your own"
 
 #: ../../variable/Q1163.rst:45
 msgid "容姿のいい人"
-msgstr ""
+msgstr "Good-looking person"
 
 #: ../../variable/Q1163.rst:53
 msgid "桁あふれコード"
@@ -119,7 +121,7 @@ msgstr "No response code"
 
 #: ../../variable/Q1163.rst:68
 msgid "99"
-msgstr ""
+msgstr "99"
 
 #: ../../variable/Q1163.rst:74
 msgid "備考"
@@ -163,7 +165,7 @@ msgstr ""
 
 #: ../../variable/Q1163.rst:103
 msgid "p26_4"
-msgstr ""
+msgstr "p26_4"
 
 #: ../../variable/Q1163.rst:105
 msgid "p27_4"
@@ -184,4 +186,3 @@ msgstr ""
 
 #~ msgid "子供のように甘えてくれる人"
 #~ msgstr ""
-

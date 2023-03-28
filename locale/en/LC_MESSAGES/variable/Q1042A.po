@@ -9,59 +9,61 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-20 13:54+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
-#: ../../variable/Q1042A.rst:6
+#: ../../variable/Q1042A.rst:5
 msgid "子育ての相談相手：あなたの夫"
-msgstr ""
+msgstr "Parenting Advisor: your husband"
 
-#: ../../variable/Q1042A.rst:11
+#: ../../variable/Q1042A.rst:10
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q1042A.rst:13
+#: ../../variable/Q1042A.rst:12
 msgid "Q1042A"
 msgstr ""
 
-#: ../../variable/Q1042A.rst:18
+#: ../../variable/Q1042A.rst:17
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q1042A.rst:21
+#: ../../variable/Q1042A.rst:20
 msgid "現在、育児や子育てについて相談できる方はいますか。（〇はいくつでも）"
-msgstr ""
+msgstr "Do you have anyone you can currently consult with about child-rearing or parenting? (circle as many as pertain to you.)"
 
-#: ../../variable/Q1042A.rst:24
+#: ../../variable/Q1042A.rst:22
 msgid "あなたの夫"
-msgstr ""
+msgstr "Your husband"
 
-#: ../../variable/Q1042A.rst:31
+#: ../../variable/Q1042A.rst:28
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
-#: ../../variable/Q1042A.rst:33
+#: ../../variable/Q1042A.rst:31
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
-#: ../../variable/Q1042A.rst:34
+#: ../../variable/Q1042A.rst:32
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
-#: ../../variable/Q1042A.rst:42
+#: ../../variable/Q1042A.rst:40
 msgid "桁あふれコード"
 msgstr "Overflow code"
 
-#: ../../variable/Q1042A.rst:49
+#: ../../variable/Q1042A.rst:47
 msgid "分類不能の回答コード"
 msgstr "Unclassifiable response code"
 
-#: ../../variable/Q1042A.rst:56
+#: ../../variable/Q1042A.rst:54
 msgid "無回答コード"
 msgstr "No response code"
 
@@ -69,11 +71,11 @@ msgstr "No response code"
 msgid "3"
 msgstr ""
 
-#: ../../variable/Q1042A.rst:63
+#: ../../variable/Q1042A.rst:61
 msgid "備考"
 msgstr "Remarks"
 
-#: ../../variable/Q1042A.rst:71
+#: ../../variable/Q1042A.rst:68
 msgid "収録シート"
 msgstr "Data files (csv)"
 
@@ -166,4 +168,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-
