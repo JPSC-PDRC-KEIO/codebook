@@ -29,6 +29,10 @@ msgstr "Variable name"
 msgid "Q1304B"
 msgstr ""
 
+#: ../../variable/Q1302A.rst:15
+msgid "質問文"
+msgstr "Question"
+
 #: ../../variable/Q1304B.rst:16
 msgid ""
 "今年１年間（2021年１月～12月）の収入見込みをおうかがいします。それぞれの方について、合計額はいくらぐらいになりそうですか。 "
