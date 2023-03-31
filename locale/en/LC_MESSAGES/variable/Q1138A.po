@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-31 14:30+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q1138A.rst:6
 msgid "子どもの教育関係費用（第2子）：性別"
-msgstr ""
+msgstr "Educational expenses for the second child: gender"
 
 #: ../../variable/Q1138A.rst:11
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q1138A.rst:21
 msgid "この1年間（調査前年10月～調査年9月)にお子さんにかかった教育関係の費用は大体いくらぐらいでしたか。"
-msgstr ""
+msgstr "How much did you spend on educational expenses for your child(ren) during the past year (from October of the previous year to September of the survey year)?"
 
 #: ../../variable/Q1138A.rst:24
 msgid "第2子の性別"
-msgstr ""
+msgstr "Second child's gender"
 
 #: ../../variable/Q1138A.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,11 +49,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1138A.rst:33
 msgid "男"
-msgstr ""
+msgstr "Male"
 
 #: ../../variable/Q1138A.rst:34
 msgid "女"
-msgstr ""
+msgstr "Female"
 
 #: ../../variable/Q1138A.rst:42
 msgid "桁あふれコード"
@@ -67,7 +69,7 @@ msgstr "No response code"
 
 #: ../../variable/Q1138A.rst:57
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../variable/Q1138A.rst:63
 msgid "備考"
@@ -115,7 +117,7 @@ msgstr ""
 
 #: ../../variable/Q1138A.rst:94
 msgid "p26_4"
-msgstr ""
+msgstr "p26_4"
 
 #: ../../variable/Q1138A.rst:96
 msgid "p27_4"
@@ -130,4 +132,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

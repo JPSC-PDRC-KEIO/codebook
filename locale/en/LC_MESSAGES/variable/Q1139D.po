@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q1139D.rst:6
 msgid "子どもの教育関係費用（第3子）：学校区分"
-msgstr ""
+msgstr "Educational expenses for the third children: school type"
 
 #: ../../variable/Q1139D.rst:11
 msgid "変数名"
@@ -35,11 +35,11 @@ msgstr "Question"
 
 #: ../../variable/Q1139D.rst:21
 msgid "この1年間（調査前年10月～調査年9月)にお子さんにかかった教育関係の費用は大体いくらぐらいでしたか。"
-msgstr ""
+msgstr "How much did you spend on educational expenses for your child(ren) during the past year (from October of the previous year to September of the survey year)?"
 
 #: ../../variable/Q1139D.rst:24
 msgid "第3子の学校区分"
-msgstr ""
+msgstr "School type of the third child"
 
 #: ../../variable/Q1139D.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,15 +47,15 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1139D.rst:33
 msgid "国立"
-msgstr ""
+msgstr "National"
 
 #: ../../variable/Q1139D.rst:34
 msgid "公立"
-msgstr ""
+msgstr "Public"
 
 #: ../../variable/Q1139D.rst:35
 msgid "私立"
-msgstr ""
+msgstr "Private"
 
 #: ../../variable/Q1139D.rst:43
 msgid "桁あふれコード"

@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-31 14:00+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q1155A.rst:6
 msgid "子どもの進学への希望：第１子"
-msgstr ""
+msgstr "Hopes for a child's educational advancement: first child"
 
 #: ../../variable/Q1155A.rst:11
 msgid "変数名"
@@ -35,7 +37,7 @@ msgstr "Question"
 
 #: ../../variable/Q1155A.rst:21
 msgid "子ども（第1子）に、将来、どこまで教育を受けさせたいですか。"
-msgstr ""
+msgstr "What level of education would you like your child to receive in the future?"
 
 #: ../../variable/Q1155A.rst:28
 msgid "選択肢 / 記入欄"
@@ -43,35 +45,35 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1155A.rst:30
 msgid "定評のある大学に進学させたい"
-msgstr ""
+msgstr "Reputable university."
 
 #: ../../variable/Q1155A.rst:31
 msgid "どこの大学でもよいから、大学に進学させたい"
-msgstr ""
+msgstr "University."
 
 #: ../../variable/Q1155A.rst:32
 msgid "短大に進学させたい"
-msgstr ""
+msgstr "Junior college."
 
 #: ../../variable/Q1155A.rst:33
 msgid "専門学校に進学させたい"
-msgstr ""
+msgstr "Vocational school."
 
 #: ../../variable/Q1155A.rst:34
 msgid "高校までは進学させたい"
-msgstr ""
+msgstr "High school."
 
 #: ../../variable/Q1155A.rst:35
 msgid "本人次第"
-msgstr ""
+msgstr "It depends on the child's interests and abilities."
 
 #: ../../variable/Q1155A.rst:36
 msgid "学校教育を終えている・社会人になっている"
-msgstr ""
+msgstr "Have completed their schooling or are in the workforce"
 
 #: ../../variable/Q1155A.rst:37
 msgid "その他"
-msgstr ""
+msgstr "Others"
 
 #: ../../variable/Q1155A.rst:45
 msgid "桁あふれコード"
@@ -87,7 +89,7 @@ msgstr "No response code"
 
 #: ../../variable/Q1155A.rst:60
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: ../../variable/Q1155A.rst:66
 msgid "備考"
@@ -146,4 +148,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

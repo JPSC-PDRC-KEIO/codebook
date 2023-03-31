@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-31 14:13+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:3
 msgid "子どもの教育関係費用"
-msgstr ""
+msgstr "Educational expenses for children"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:6
 msgid "質問文"
@@ -27,73 +29,105 @@ msgstr "Question"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:7
 msgid ""
-"この1年間（調査前年10月～調査年9月）にお子さんにかかった教育関係の費用は大体いくらぐらいでしたか。お子さんの在学先と学年、養育費をお答えください。かかっていない場合は、0円と記入してください。（学年などの項目で、該当しない場合は、無記入のままにして下さい。）"
-" 携帯電話代・給食費・お小遣いはいずれにも含めないでください"
+"この1年間（調査前年10月～調査年9月）にお子さん"
+"にかかった教育関係の費用は大体いくらぐらいでし"
+"たか。お子さんの在学先と学年、養育費をお答えく"
+"ださい。かかっていない場合は、0円と記入してくだ"
+"さい。（学年などの項目で、該当しない場合は、無"
+"記入のままにして下さい。） 携帯電話代・給食費・"
+"お小遣いはいずれにも含めないでください"
 msgstr ""
+"How much did you spend on educational expenses "
+"for your child(ren) during the past year (from "
+"October of the previous year to September of "
+"the current year)? Please indicate the school "
+"and grade level of your child(ren), as well as "
+"the cost of raising them. If you did not spend "
+"anything, please enter \"0 yen.\" (If an item "
+"does not apply to your child, please leave it "
+"blank.)\n"
+"Note: Please exclude expenses such as mobile "
+"phone bills, school lunch fees, and pocket "
+"money."
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:11
 msgid "*教育関係費用の例*"
-msgstr ""
+msgstr "Examples of educational expenses"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid "学校関連費用"
-msgstr ""
+msgstr "School-related expenses"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
-msgid "授業料・保育料・入学金・学校行事・教材代・部活動費・通学定期代・制服・通学かばんなど"
+msgid ""
+"授業料・保育料・入学金・学校行事・教材代・部活"
+"動費・通学定期代・制服・通学かばんなど"
 msgstr ""
+"Tuition fees, nursery fees, admission fees, "
+"school events, teaching materials costs, club "
+"activity fees, commuter pass fees, school "
+"uniforms, school bags, etc."
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid "学校以外の学習費"
-msgstr ""
+msgstr "Non-school learning expenses"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid "学習塾・英会話・参考書・通信教育など"
 msgstr ""
+"Cram school fees, English conversation school "
+"fees, reference book costs, correspondence "
+"course fees, etc."
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid "お稽古事・習い事"
-msgstr ""
+msgstr "Hobby or extracurricular activity fees"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid "ピアノ・水泳・そろばんなど"
-msgstr ""
+msgstr "Piano, swimming, soroban, etc."
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid "自宅外仕送り"
-msgstr ""
+msgstr "Allowance for commuting outside of home"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid "自宅外の子への仕送り・住居費など"
 msgstr ""
+"Allowance for a child who is not at home, "
+"housing expenses, etc."
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:19
-msgid "携帯電話代・給食費・お小遣いはいずれにも含めないでください"
+msgid ""
+"携帯電話代・給食費・お小遣いはいずれにも含めな"
+"いでください"
 msgstr ""
+"Please exclude expenses such as mobile phone "
+"bills, school lunch fees, and pocket money."
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid "性別"
-msgstr ""
+msgstr "Gender"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid "在学先"
-msgstr ""
+msgstr "School attended"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid "学年"
-msgstr ""
+msgstr "Grade"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid "学校区分"
-msgstr ""
+msgstr "School type"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid "学校関連のお金"
-msgstr ""
+msgstr "School-related expenses"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid "第１子"
-msgstr ""
+msgstr "First child"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid ":doc:`Q1137A </variable/Q1137A>`"
@@ -129,7 +163,7 @@ msgstr ""
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid "第２子"
-msgstr ""
+msgstr "Second child"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid ":doc:`Q1138A </variable/Q1138A>`"
@@ -165,7 +199,7 @@ msgstr ""
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid "第３子"
-msgstr ""
+msgstr "Third child"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid ":doc:`Q1139A </variable/Q1139A>`"
@@ -201,7 +235,7 @@ msgstr ""
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid "第４子以降"
-msgstr ""
+msgstr "Fourth child and beyond"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:1
 msgid "－"
@@ -225,86 +259,72 @@ msgstr ""
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:32
 msgid "**在学先コード表**"
-msgstr ""
+msgstr "Table of school codes"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:36
 msgid "借りた目的"
-msgstr ""
+msgstr "Purpose of borrowing"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst:37
 msgid "借入先"
-msgstr ""
+msgstr "Lender"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst
 msgid "1 未就学（家庭内保育）"
-msgstr ""
+msgstr "1 Preschool (in-home childcare)"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst
 msgid "2 未就学（保育園）"
-msgstr ""
+msgstr "2 Preschool (nursery school)"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst
 msgid "3 未就学（幼稚園）"
-msgstr ""
+msgstr "3 Preschool (kindergarten)"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst
 msgid "4 小学校"
-msgstr ""
+msgstr "4 Elementary School"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst
 msgid "5 中学校"
-msgstr ""
+msgstr "5 Junior high school"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst
 msgid "6 高校"
-msgstr ""
+msgstr "6 High School"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst
 msgid "7 高等専門学校"
-msgstr ""
+msgstr "7 College of Technology (KOSEN)"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst
 msgid "8 専修学校（専門学校）、各種学校"
 msgstr ""
+"8 Vocational school (professional school), "
+"specialized training college"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst
 msgid "9 短期大学"
-msgstr ""
+msgstr "9 Junior College"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst
 msgid "10 大学（4年制）"
-msgstr ""
+msgstr "10 University (4-year program)"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst
 msgid "11 大学（6年制）"
-msgstr ""
+msgstr "11 University (6-year program)"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst
 msgid "12 大学院"
-msgstr ""
+msgstr "12 Graduate school"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst
 msgid "13 その他の学校（予備校などを含む）"
 msgstr ""
+"13 Other schools (including preparatory "
+"schools, etc.)"
 
 #: ../../kosodate/kosodate/kyouiku_hiyou.rst
 msgid "14 在学していない・社会人など"
-msgstr ""
-
-#~ msgid ""
-#~ "この1年間（平成23年10月～平成24年9月）にお子さんにかかった教育関係の費用は大体いくらぐらいでしたか。お子さんの在学先と学年、養育費をお答えください。かかっていない場合は、0円と記入してください。（学年などの項目で、該当しない場合は、無記入のままにして下さい。）"
-#~ " 携帯電話代・給食費・お小遣いはいずれにも含めないでください"
-#~ msgstr ""
-
-#~ msgid ":doc:`Q1140A </variable/Q1140A>`"
-#~ msgstr ""
-
-#~ msgid ":doc:`Q1140B </variable/Q1140B>`"
-#~ msgstr ""
-
-#~ msgid ":doc:`Q1140C </variable/Q1140C>`"
-#~ msgstr ""
-
-#~ msgid ":doc:`Q1140D </variable/Q1140D>`"
-#~ msgstr ""
-
+msgstr "14 Not enrolled / working"

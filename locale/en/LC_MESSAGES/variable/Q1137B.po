@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-31 14:18+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../variable/Q1137B.rst:6
 msgid "子どもの教育関係費用（第1子）：在学先"
-msgstr ""
+msgstr "Educational expenses for the first child: school attended"
 
 #: ../../variable/Q1137B.rst:11
 msgid "変数名"
@@ -35,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/Q1137B.rst:21
 msgid "この1年間（調査前年10月～調査年9月)にお子さんにかかった教育関係の費用は大体いくらぐらいでしたか。"
-msgstr ""
+msgstr "How much did you spend on educational expenses for your child(ren) during the past year (from October of the previous year to September of the survey year)?"
 
 #: ../../variable/Q1137B.rst:24
 msgid "第1子の在学先"
-msgstr ""
+msgstr "First child's school attended"
 
 #: ../../variable/Q1137B.rst:31
 msgid "選択肢 / 記入欄"
@@ -47,59 +49,59 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q1137B.rst:33
 msgid "未就学（家庭内保育）"
-msgstr ""
+msgstr "Preschool (in-home childcare)"
 
 #: ../../variable/Q1137B.rst:34
 msgid "未就学（保育園）"
-msgstr ""
+msgstr "Preschool (nursery school)"
 
 #: ../../variable/Q1137B.rst:35
 msgid "未就学（幼稚園）"
-msgstr ""
+msgstr "Preschool (kindergarten)"
 
 #: ../../variable/Q1137B.rst:36
 msgid "小学校"
-msgstr ""
+msgstr "Elementary School"
 
 #: ../../variable/Q1137B.rst:37
 msgid "中学校"
-msgstr ""
+msgstr "Junior high school"
 
 #: ../../variable/Q1137B.rst:38
 msgid "高校"
-msgstr ""
+msgstr "High school"
 
 #: ../../variable/Q1137B.rst:39
 msgid "高等専門学校"
-msgstr ""
+msgstr "College of Technology (KOSEN)"
 
 #: ../../variable/Q1137B.rst:40
 msgid "専修学校（専門学校）、各種学校"
-msgstr ""
+msgstr "Vocational school (professional school), specialized training college"
 
 #: ../../variable/Q1137B.rst:41
 msgid "短期大学"
-msgstr ""
+msgstr "Junior College"
 
 #: ../../variable/Q1137B.rst:42
 msgid "大学（４年制）"
-msgstr ""
+msgstr "University (4-year program)"
 
 #: ../../variable/Q1137B.rst:43
 msgid "大学（６年制）"
-msgstr ""
+msgstr "University (6-year program)"
 
 #: ../../variable/Q1137B.rst:44
 msgid "大学院"
-msgstr ""
+msgstr "Graduate school"
 
 #: ../../variable/Q1137B.rst:45
 msgid "その他の学校（予備校などを含む）"
-msgstr ""
+msgstr "Other schools (including preparatory schools, etc.)"
 
 #: ../../variable/Q1137B.rst:46
 msgid "在学していない・社会人など"
-msgstr ""
+msgstr "Not enrolled / working"
 
 #: ../../variable/Q1137B.rst:54
 msgid "桁あふれコード"
@@ -115,7 +117,7 @@ msgstr "No response code"
 
 #: ../../variable/Q1137B.rst:69
 msgid "99"
-msgstr ""
+msgstr "99"
 
 #: ../../variable/Q1137B.rst:75
 msgid "備考"
@@ -163,7 +165,7 @@ msgstr ""
 
 #: ../../variable/Q1137B.rst:106
 msgid "p26_4"
-msgstr ""
+msgstr "p26_4"
 
 #: ../../variable/Q1137B.rst:108
 msgid "p27_4"
@@ -178,4 +180,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

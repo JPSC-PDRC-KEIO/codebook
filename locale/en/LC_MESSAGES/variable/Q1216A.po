@@ -9,49 +9,51 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-06 14:05+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-27 11:19+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
-#: ../../variable/Q1216A.rst:6
+#: ../../variable/Q1216A.rst:5
 msgid "子どもについての悩みの内容：子どもの性格や癖"
-msgstr ""
+msgstr "Content of worries about children: child's personality and habits"
 
-#: ../../variable/Q1216A.rst:11
+#: ../../variable/Q1216A.rst:10
 msgid "変数名"
 msgstr "Variable name"
 
-#: ../../variable/Q1216A.rst:13
+#: ../../variable/Q1216A.rst:12
 msgid "Q1216A"
 msgstr ""
 
-#: ../../variable/Q1216A.rst:18
+#: ../../variable/Q1216A.rst:17
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q1216A.rst:21
+#: ../../variable/Q1216A.rst:20
 msgid "具体的な悩みや心配事は次のどれになりますか。（〇はいくつでも）"
-msgstr ""
+msgstr "What specific worries or concerns do you have regarding your children? (circle as many as pertain to you)"
 
 #: ../../variable/Q1216A.rst:24
 msgid "子どもの性格や癖"
-msgstr ""
+msgstr "Child's personality and habits"
 
-#: ../../variable/Q1216A.rst:31
+#: ../../variable/Q1216A.rst:30
 msgid "選択肢 / 記入欄"
 msgstr "Select / Fill in"
 
 #: ../../variable/Q1216A.rst:33
 msgid "はい"
-msgstr ""
+msgstr "Yes"
 
 #: ../../variable/Q1216A.rst:34
 msgid "いいえ"
-msgstr ""
+msgstr "No"
 
 #: ../../variable/Q1216A.rst:42
 msgid "桁あふれコード"
@@ -67,7 +69,7 @@ msgstr "No response code"
 
 #: ../../variable/Q1216A.rst:57
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../variable/Q1216A.rst:63
 msgid "備考"
@@ -87,7 +89,7 @@ msgstr ""
 
 #: ../../variable/Q1216A.rst:80
 msgid "p26_4"
-msgstr ""
+msgstr "p26_4"
 
 #: ../../variable/Q1216A.rst:82
 msgid "p27_4"
@@ -102,4 +104,3 @@ msgstr ""
 
 #~ msgid "選択肢 / 記入欄"
 #~ msgstr ""
-

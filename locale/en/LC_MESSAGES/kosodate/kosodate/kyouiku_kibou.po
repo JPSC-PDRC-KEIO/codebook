@@ -9,17 +9,19 @@ msgstr ""
 "Project-Id-Version: JPSC codebook 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-28 13:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-31 13:53+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../kosodate/kosodate/kyouiku_kibou.rst:3
 msgid "子どもの進学への希望"
-msgstr ""
+msgstr "Hope for children's education advancement."
 
 #: ../../kosodate/kosodate/kyouiku_kibou.rst:6
 msgid "質問文"
@@ -27,19 +29,19 @@ msgstr "Question"
 
 #: ../../kosodate/kosodate/kyouiku_kibou.rst:7
 msgid "子どもに、将来、どこまで教育を受けさせたいですか。該当する回答欄に、コード表の番号を記入してください。"
-msgstr ""
+msgstr "How far would you like to educate your child in the future? Please enter the corresponding code number in the answer column."
 
 #: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "お子さんのいる方"
-msgstr ""
+msgstr "For those with children"
 
 #: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "お子さんのいない方"
-msgstr ""
+msgstr "For those without children"
 
 #: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "第１子"
-msgstr ""
+msgstr "First child"
 
 #: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid ":doc:`Q1155A </variable/Q1155A>`"
@@ -51,7 +53,7 @@ msgstr ""
 
 #: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "第２子"
-msgstr ""
+msgstr "Second child"
 
 #: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid ":doc:`Q1155B </variable/Q1155B>`"
@@ -59,7 +61,7 @@ msgstr ""
 
 #: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "第３子"
-msgstr ""
+msgstr "Third child"
 
 #: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid ":doc:`Q1155C </variable/Q1155C>`"
@@ -67,7 +69,7 @@ msgstr ""
 
 #: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid "第４子"
-msgstr ""
+msgstr "Fourth child"
 
 #: ../../kosodate/kosodate/kyouiku_kibou.rst:1
 msgid ":doc:`Q1155D </variable/Q1155D>`"
@@ -75,37 +77,36 @@ msgstr ""
 
 #: ../../kosodate/kosodate/kyouiku_kibou.rst:20
 msgid "コード表"
-msgstr ""
+msgstr "Code Table"
 
-#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
-msgid "1.定評のある大学に進学させたい"
-msgstr ""
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:23
+msgid "定評のある大学に進学させたい"
+msgstr "Reputable university."
 
-#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
-msgid "2.どこの大学でもよいから、大学に進学させたい"
-msgstr ""
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:24
+msgid "どこの大学でもよいから、大学に進学させたい"
+msgstr "University."
 
-#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
-msgid "3.短大に進学させたい"
-msgstr ""
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:25
+msgid "短大に進学させたい"
+msgstr "Junior college."
 
-#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
-msgid "4.専門学校に進学させたい"
-msgstr ""
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:26
+msgid "専門学校に進学させたい"
+msgstr "Vocational school."
 
-#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
-msgid "5.高校までは進学させたい"
-msgstr ""
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:27
+msgid "高校までは進学させたい"
+msgstr "High school."
 
-#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
-msgid "6.本人次第"
-msgstr ""
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:28
+msgid "本人次第"
+msgstr "It depends on the child's interests and abilities."
 
-#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
-msgid "7.学校教育を終えている・社会人になっている"
-msgstr ""
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:29
+msgid "学校教育を終えている・社会人になっている"
+msgstr "Have completed their schooling or are in the workforce"
 
-#: ../../kosodate/kosodate/kyouiku_kibou.rst:1
-msgid "8.その他"
-msgstr ""
-
+#: ../../kosodate/kosodate/kyouiku_kibou.rst:30
+msgid "その他"
+msgstr "Other"
