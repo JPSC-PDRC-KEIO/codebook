@@ -1926,24 +1926,24 @@ List of variables
 * `Q880     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q880.html>`_ : Availability of childcare leave system
 * `Q881     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q881.html>`_ : Availability of care leave system
 * `Q887     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q887.html>`_ : 支出月額（有配偶）：地域振興券使用額
-* `Q888A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q888A.html>`_ : 未就学児の養育費用月額：認可保育所
-* `Q888B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q888B.html>`_ : 未就学児の養育費用月額：無認可保育所
-* `Q888C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q888C.html>`_ : 未就学児の養育費用月額：幼稚園
-* `Q888D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q888D.html>`_ : 未就学児の養育費用月額：ベビーシッター、家政婦
-* `Q888E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q888E.html>`_ : 未就学児の養育費用月額：その他
-* `Q888G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q888G.html>`_ : 未就学児の養育費用月額：お稽古事、習い事
+* `Q888A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q888A.html>`_ : Monthly child-rearing expenses for preschoolers: certified daycare centers
+* `Q888B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q888B.html>`_ : Monthly child-rearing expenses for preschoolers: unlicensed daycare center
+* `Q888C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q888C.html>`_ : Monthly child-rearing expenses for preschool children: kindergarten
+* `Q888D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q888D.html>`_ : Monthly child-rearing expenses for preschool children: babysitter / housekeeper
+* `Q888E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q888E.html>`_ : Monthly child-rearing expenses for preschool children: other
+* `Q888G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q888G.html>`_ : Monthly cost of raising a pre-school child: extracurricular activities and lessons.
 * `Q889     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q889.html>`_ : Site acquisition year
 * `Q890     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q890.html>`_ : Residence acquisition year
 * `Q891     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q891.html>`_ : Year the house was built
 * `Q892     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q892.html>`_ : Year of graduation from the last school attended (spouse) [7th wave - ]
 * `Q893     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q893.html>`_ : Time of death (father-in-law) [7th wave -]
 * `Q894     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q894.html>`_ : Time-of-death (mother-in-law) [7th wave - ]
-* `Q895A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q895A.html>`_ : 利用未就学児数：認可保育所
-* `Q895B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q895B.html>`_ : 利用未就学児数：無認可保育所
-* `Q895C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q895C.html>`_ : 利用未就学児数：幼稚園
-* `Q895D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q895D.html>`_ : 利用未就学児数：ベビーシッター、家政婦
-* `Q895E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q895E.html>`_ : 利用未就学児数：その他
-* `Q895G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q895G.html>`_ : 利用未就学児数：お稽古事、習い事
+* `Q895A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q895A.html>`_ : Number of pre-school children enrolled: licensed daycare facilities
+* `Q895B    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q895B.html>`_ : Number of pre-school children enrolled: unlicensed daycare center
+* `Q895C    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q895C.html>`_ : Number of pre-school children enrolled: kindergarten
+* `Q895D    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q895D.html>`_ : Number of pre-school children enrolled: babysitters / housekeepers
+* `Q895E    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q895E.html>`_ : Number of pre-school children enrolled: other
+* `Q895G    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q895G.html>`_ : Number of pre-school children enrolled: extracurricular activities and lessons.
 * `Q896     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q896.html>`_ : Awareness of training and education benefits system
 * `Q897     <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q897.html>`_ : Availability of training and education benefits system
 * `Q898A    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q898A.html>`_ : Purpose of using Training and Education Benefits System: for job development
@@ -1987,15 +1987,15 @@ List of variables
 * `Q1005H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1005H.html>`_ : 結婚費用のまかない方：その他
 * `Q1011    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1011.html>`_ : State of health
 * `Q1012    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1012.html>`_ : Subjective youth
-* `Q1014_10 <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_10.html>`_ : Family10: Marital status
-* `Q1014_2  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_2.html>`_ : Family-member2: Marital status
-* `Q1014_3  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_3.html>`_ : Family-member3: Marital status
-* `Q1014_4  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_4.html>`_ : Family-member4: Marital status
-* `Q1014_5  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_5.html>`_ : Family-member5: Marital status
-* `Q1014_6  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_6.html>`_ : Family6: Marital status
-* `Q1014_7  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_7.html>`_ : Family7: Marital status
-* `Q1014_8  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_8.html>`_ : Family8: Marital status
-* `Q1014_9  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_9.html>`_ : Family9: Marital status
+* `Q1014_10 <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_10.html>`_ : Family10: marital status
+* `Q1014_2  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_2.html>`_ : Family-member2: marital status
+* `Q1014_3  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_3.html>`_ : Family-member3: marital status
+* `Q1014_4  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_4.html>`_ : Family-member4: marital status
+* `Q1014_5  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_5.html>`_ : Family-member5: marital status
+* `Q1014_6  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_6.html>`_ : Family6: marital status
+* `Q1014_7  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_7.html>`_ : Family7: marital status
+* `Q1014_8  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_8.html>`_ : Family8: marital status
+* `Q1014_9  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1014_9.html>`_ : Family9: marital status
 * `Q1019    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1019.html>`_ : Use of child-care services
 * `Q1020    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1020.html>`_ : Previous occupation [Wave5-]
 * `Q1021    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1021.html>`_ : First occupation [Wave5-]
@@ -2003,7 +2003,7 @@ List of variables
 * `Q1024    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1024.html>`_ : Educational achievement at the last school (mother) [3th wave - ]
 * `Q1025    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1025.html>`_ : Working status [1st wave]
 * `Q1026    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1026.html>`_ : 配偶者の就業状態〔第1回〕
-* `Q1027    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1027.html>`_ : 育児休業制度・育児時間の利用の有無（配偶者）
+* `Q1027    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1027.html>`_ : Utilization of parental leave system and childcare time (spouse)
 * `Q1028    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1028.html>`_ : Unemployment insurance enrollment [Wave11-]
 * `Q1030    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1030.html>`_ : Time of leaving job
 * `Q1031    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1031.html>`_ : Employment insurance coverage (spouse)
@@ -2028,24 +2028,24 @@ List of variables
 * `Q1041B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1041B.html>`_ : Person cooperates child-care: My parent(s)
 * `Q1041C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1041C.html>`_ : Person cooperates child-care: My sibling(s)
 * `Q1041D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1041D.html>`_ : Person cooperates child-care: My husband’s parent(s)
-* `Q1041E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1041E.html>`_ : 子育ての協力者：友人
-* `Q1041F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1041F.html>`_ : 子育ての協力者：近所の人
-* `Q1041G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1041G.html>`_ : 子育ての協力者：保育施設
-* `Q1041H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1041H.html>`_ : 子育ての協力者：ベビーシッターなど
-* `Q1041I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1041I.html>`_ : 子育ての協力者：その他
-* `Q1041J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1041J.html>`_ : 子育ての協力者：いない
-* `Q1041K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1041K.html>`_ : 子育ての協力者：必要ない
+* `Q1041E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1041E.html>`_ : Childcare supporter: friends
+* `Q1041F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1041F.html>`_ : Childcare supporter: neighbors
+* `Q1041G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1041G.html>`_ : Childcare supporter: childcare facilities
+* `Q1041H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1041H.html>`_ : Childcare supporter: babysitter, etc.
+* `Q1041I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1041I.html>`_ : Childcare supporter: other
+* `Q1041J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1041J.html>`_ : Childcare supporter: none
+* `Q1041K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1041K.html>`_ : Childcare supporter: not necessary
 * `Q1041L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1041L.html>`_ : 子育ての協力者：子どもの父親
-* `Q1042A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042A.html>`_ : 子育ての相談相手：あなたの夫
-* `Q1042B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042B.html>`_ : 子育ての相談相手：あなたの親
-* `Q1042C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042C.html>`_ : 子育ての相談相手：あなたのきょうだい
-* `Q1042D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042D.html>`_ : 子育ての相談相手：義親
-* `Q1042E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042E.html>`_ : 子育ての相談相手：友人
-* `Q1042F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042F.html>`_ : 子育ての相談相手：近所の人
-* `Q1042G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042G.html>`_ : 子育ての相談相手：医師、助産婦、保育士、保健師などの専門家
-* `Q1042H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042H.html>`_ : 子育ての相談相手：その他
-* `Q1042I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042I.html>`_ : 子育ての相談相手：特に相談できる人はいない
-* `Q1042J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042J.html>`_ : 子育ての相談相手：特に相談する必要がない
+* `Q1042A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042A.html>`_ : Parenting Advisor: your husband
+* `Q1042B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042B.html>`_ : Parenting Advisor: your parents
+* `Q1042C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042C.html>`_ : Parenting Advisor: your siblings
+* `Q1042D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042D.html>`_ : Parenting Advisor: parents-in law
+* `Q1042E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042E.html>`_ : Parenting Advisor: friends
+* `Q1042F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042F.html>`_ : Parenting Advisor: neighbors
+* `Q1042G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042G.html>`_ : Parenting advisor: professionals such as doctors, midwives, childcare workers, and public health nurses
+* `Q1042H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042H.html>`_ : Parenting Advisor: other
+* `Q1042I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042I.html>`_ : Parenting advisor: I don’t have anyone in particular that I can consult with.
+* `Q1042J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042J.html>`_ : Parenting advisor: there is no particular need for me to consult with anyone.
 * `Q1042K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1042K.html>`_ : 子育ての相談相手：子どもの父親
 * `Q1043A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1043A.html>`_ : Children who received the inheritance : live together
 * `Q1043B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1043B.html>`_ : Children who received the inheritance: support long-term care
@@ -2176,30 +2176,30 @@ List of variables
 * `Q1131    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1131.html>`_ : 飲酒の頻度
 * `Q1132    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1132.html>`_ : 運動の頻度
 * `Q1135    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1135.html>`_ : Habit of keeping a household account
-* `Q1137A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1137A.html>`_ : 子どもの教育関係費用（第1子）：性別
-* `Q1137B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1137B.html>`_ : 子どもの教育関係費用（第1子）：在学先
-* `Q1137C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1137C.html>`_ : 子どもの教育関係費用（第1子）：学年
-* `Q1137D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1137D.html>`_ : 子どもの教育関係費用（第1子）：学校区分
-* `Q1137E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1137E.html>`_ : 子どもの教育関係費用（第1子）：学校関連のお金
-* `Q1137F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1137F.html>`_ : 子どもの教育関係費用（第1子）：学校以外の学習費
-* `Q1137G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1137G.html>`_ : 子どもの教育関係費用（第1子）：お稽古事・習い事
-* `Q1137H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1137H.html>`_ : 子どもの教育関係費用（第1子）：自宅外の仕送り
-* `Q1138A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1138A.html>`_ : 子どもの教育関係費用（第2子）：性別
-* `Q1138B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1138B.html>`_ : 子どもの教育関係費用（第2子）：在学先
-* `Q1138C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1138C.html>`_ : 子どもの教育関係費用（第2子）：学年
-* `Q1138D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1138D.html>`_ : 子どもの教育関係費用（第2子）：学校区分
-* `Q1138E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1138E.html>`_ : 子どもの教育関係費用（第2子）：学校関連の費用
-* `Q1138F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1138F.html>`_ : 子どもの教育関係費用（第2子）：学校以外の学習費
-* `Q1138G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1138G.html>`_ : 子どもの教育関係費用（第2子）：お稽古事・習い事
-* `Q1138H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1138H.html>`_ : 子どもの教育関係費用（第2子）：自宅外の仕送り
-* `Q1139A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1139A.html>`_ : 子どもの教育関係費用（第3子）：性別
-* `Q1139B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1139B.html>`_ : 子どもの教育関係費用（第3子）：在学先
-* `Q1139C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1139C.html>`_ : 子どもの教育関係費用（第3子）：学年
-* `Q1139D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1139D.html>`_ : 子どもの教育関係費用（第3子）：学校区分
-* `Q1139E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1139E.html>`_ : 子どもの教育関係費用（第3子）：学校関連の費用
-* `Q1139F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1139F.html>`_ : 子どもの教育関係費用（第3子）：学校以外の学習費
-* `Q1139G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1139G.html>`_ : 子どもの教育関係費用（第3子）：お稽古事・習い事
-* `Q1139H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1139H.html>`_ : 子どもの教育関係費用（第3子）：自宅外の仕送り
+* `Q1137A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1137A.html>`_ : Educational expenses for the first child: gender
+* `Q1137B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1137B.html>`_ : Educational expenses for the first child: school attended
+* `Q1137C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1137C.html>`_ : Educational expenses for the first child: grade level
+* `Q1137D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1137D.html>`_ : Educational expenses for the first children: school type
+* `Q1137E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1137E.html>`_ : Educational expenses for the first child: school-related expenses
+* `Q1137F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1137F.html>`_ : Educational expenses for the first children: non-school learning expenses
+* `Q1137G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1137G.html>`_ : Educational expenses for first children: hobby or extracurricular activity fees
+* `Q1137H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1137H.html>`_ : Educational expenses for first children: allowance for the first child living outside the home.
+* `Q1138A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1138A.html>`_ : Educational expenses for the second child: gender
+* `Q1138B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1138B.html>`_ : Educational expenses for the second child: school attended
+* `Q1138C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1138C.html>`_ : Educational expenses for the second child: grade level
+* `Q1138D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1138D.html>`_ : Educational expenses for the second children: school type
+* `Q1138E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1138E.html>`_ : Educational expenses for the second child: school-related expenses
+* `Q1138F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1138F.html>`_ : Educational expenses for second children: non-school learning expenses
+* `Q1138G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1138G.html>`_ : Educational expenses for second children: hobby or extracurricular activity fees
+* `Q1138H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1138H.html>`_ : Educational expenses for second children: allowance for a child living away from home.
+* `Q1139A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1139A.html>`_ : Educational expenses for the third child: gender
+* `Q1139B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1139B.html>`_ : Educational expenses for the third child: school attended
+* `Q1139C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1139C.html>`_ : Educational expenses for the third child: grade level
+* `Q1139D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1139D.html>`_ : Educational expenses for the third children: school type
+* `Q1139E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1139E.html>`_ : Educational expenses for the third child: school-related expenses
+* `Q1139F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1139F.html>`_ : Educational expenses for third children: non-school learning expenses
+* `Q1139G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1139G.html>`_ : Educational expenses for third children: hobby or extracurricular activity fees
+* `Q1139H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1139H.html>`_ : Educational expenses for third children: allowance for a child living away from home.
 * `Q1140E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1140E.html>`_ : 子どもの教育関係費用（第4子以降）：学校関連の費用
 * `Q1140F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1140F.html>`_ : 子どもの教育関係費用（第4子以降）：学校以外の学習費
 * `Q1140G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1140G.html>`_ : 子どもの教育関係費用（第4子以降）：お稽古事・習い事
@@ -2213,12 +2213,12 @@ List of variables
 * `Q1151    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1151.html>`_ : Planning your next home: housing type
 * `Q1152    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1152.html>`_ : Year-on-year change in consumption expenditures
 * `Q1153    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1153.html>`_ : Future projections of consumption expenditures
-* `Q1154    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1154.html>`_ : 子育てと仕事（ワークライフバランス）への希望
-* `Q1155A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1155A.html>`_ : 子どもの進学への希望：第１子
-* `Q1155B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1155B.html>`_ : 子どもの進学への希望：第２子
-* `Q1155C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1155C.html>`_ : 子どもの進学への希望：第３子
-* `Q1155D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1155D.html>`_ : 子どもの進学への希望：第４子以降
-* `Q1156    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1156.html>`_ : 子どもの進学への希望：お子さんのいない方
+* `Q1154    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1154.html>`_ : Hopes for parenting and work (work-life balance)
+* `Q1155A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1155A.html>`_ : Hopes for a child’s educational advancement: first child
+* `Q1155B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1155B.html>`_ : Hopes for a child’s educational advancement: second child
+* `Q1155C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1155C.html>`_ : Hopes for a child’s educational advancement: third child
+* `Q1155D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1155D.html>`_ : Hopes for a child’s educational advancement: fourth child and beyond
+* `Q1156    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1156.html>`_ : Hopes for a child’s educational advancement: For those without children
 * `Q1160    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1160.html>`_ : Desired public support for childcare costs
 * `Q1161A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1161A.html>`_ : 夫の子育てへの関与：おむつ替え、着替え
 * `Q1161B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1161B.html>`_ : 夫の子育てへの関与：子どもをふろに入れる
@@ -2231,23 +2231,23 @@ List of variables
 * `Q1161I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1161I.html>`_ : 夫の子育てへの関与：進路について相談
 * `Q1161J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1161J.html>`_ : 夫の子育てへの関与：ほとんど関わらない
 * `Q1161K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1161K.html>`_ : 11.その他
-* `Q1162A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162A.html>`_ : 結婚相手に重視する要素：親しい友人
-* `Q1162B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162B.html>`_ : 結婚相手に重視する要素：人生に共に立ち向かう人
-* `Q1162C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162C.html>`_ : 結婚相手に重視する要素：一心同体の人
-* `Q1162D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162D.html>`_ : 結婚相手に重視する要素：趣味を共有する人
-* `Q1162E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162E.html>`_ : 結婚相手に重視する要素：経済的に頼れる人
-* `Q1162F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162F.html>`_ : 結婚相手に重視する要素：父親のように保護してくれる人
-* `Q1162G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162G.html>`_ : 結婚相手に重視する要素：心の支えになる人
-* `Q1162H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162H.html>`_ : 結婚相手に重視する要素：性的に魅力のある人
-* `Q1162I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162I.html>`_ : 結婚相手に重視する要素：子どものように甘えてくれる人
-* `Q1162J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162J.html>`_ : 結婚相手に重視する要素：空気のような存在
-* `Q1162K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162K.html>`_ : 結婚相手に重視する要素：可愛い人
-* `Q1162L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162L.html>`_ : 結婚相手に重視する要素：家事や育児に協力的な人
-* `Q1162M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162M.html>`_ : 結婚相手に重視する要素：学歴が高く安定した仕事についている人
-* `Q1162N   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162N.html>`_ : 結婚相手に重視する要素：家庭を第一に考える人
-* `Q1162O   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162O.html>`_ : 結婚相手に重視する要素：自分にない性格を持っている人
-* `Q1162P   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162P.html>`_ : 結婚相手に重視する要素：容姿のいい人
-* `Q1163    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1163.html>`_ : 結婚相手に最も重視する要素
+* `Q1162A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162A.html>`_ : Factor prioritized in a spouse: close friend
+* `Q1162B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162B.html>`_ : Factors to prioritize in a spouse: life partner
+* `Q1162C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162C.html>`_ : Factors to prioritize in a spouse: soulmate
+* `Q1162D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162D.html>`_ : Factor prioritized in a spouse: someone who shares hobbies and interests
+* `Q1162E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162E.html>`_ : Factor prioritized in a spouse: financially dependable
+* `Q1162F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162F.html>`_ : Factor prioritized in a spouse: protective, like a father
+* `Q1162G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162G.html>`_ : Factor prioritized in a spouse: emotional supporter
+* `Q1162H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162H.html>`_ : Factor prioritized in a spouse: sexually attractive
+* `Q1162I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162I.html>`_ : Factor prioritized in a spouse: someone who spoils you like a child
+* `Q1162J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162J.html>`_ : Factor prioritized in a spouse: like ar
+* `Q1162K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162K.html>`_ : Factor prioritized in a spouse: a lovely person
+* `Q1162L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162L.html>`_ : Factor prioritized in a spouse: cooperative in housework and childcare
+* `Q1162M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162M.html>`_ : Factor prioritized in a spouse: person with a high level of education and a stable job
+* `Q1162N   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162N.html>`_ : Factor prioritized in a spouse: family-oriented person
+* `Q1162O   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162O.html>`_ : Factor prioritized in a spouse: person who has a personality that is different from your own
+* `Q1162P   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1162P.html>`_ : Factor prioritized in a spouse: good-looking person
+* `Q1163    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1163.html>`_ : Factors to prioritize in a spouse
 * `Q1164A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1164A.html>`_ : 今後充実させたいこと（無配偶）：１位
 * `Q1164B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1164B.html>`_ : 今後充実させたいこと（無配偶）：２位
 * `Q1164C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1164C.html>`_ : 今後充実させたいこと（無配偶）：３位
@@ -2369,15 +2369,15 @@ List of variables
 * `Q1201E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201E.html>`_ : Do you enjoy the present rather than thinking about your future?
 * `Q1201F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201F.html>`_ : Is Japan a society with large income inequality?
 * `Q1201G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201G.html>`_ : Is Japan a comfortable society to live in?
-* `Q1201H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201H.html>`_ : 政府や行政は問題によく取り組んでいるか
-* `Q1201I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201I.html>`_ : 貯蓄計画を立てても達成できないことが多い
-* `Q1201J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201J.html>`_ : ほしいものがあると我慢できずに買ってしまう
-* `Q1201K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201K.html>`_ : 万が一の時に備えてなるべく貯蓄をしておきたい
-* `Q1201L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201L.html>`_ : 自分の貯蓄額が周りの人よりも少ないと気になる
-* `Q1201M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201M.html>`_ : 貯蓄額が以前よりも少ないと気になる
-* `Q1201N   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201N.html>`_ : 思いがけず10万円失うぐらいなら、最初から10万円持っていなかった方がマシだと思う
-* `Q1201O   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201O.html>`_ : 思いがけない出来事により１万円失う恐れがあったが、結局失わないで済んだときはとてもうれしく思う
-* `Q1201P   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201P.html>`_ : 思いがけない出来事により１万円もらえるはずだったが、結局もらえなかったときはとても残念に思う
+* `Q1201H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201H.html>`_ : Do you think the government and administration are tackling new and difficult problems well?
+* `Q1201I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201I.html>`_ : Saving plans often don’t work.
+* `Q1201J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201J.html>`_ : If there is something I want, I can’t resist purchasing it.
+* `Q1201K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201K.html>`_ : I want to save as much as I can in case of an emergency.
+* `Q1201L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201L.html>`_ : I am worried that I am saving less money than those around me.
+* `Q1201M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201M.html>`_ : I’m worried that I have less savings than I used to.
+* `Q1201N   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201N.html>`_ : I think it would be better to have never had 100,000 yen than to unexpectedly lose 100,000 yen.
+* `Q1201O   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201O.html>`_ : I was at risk of losing 10,000 yen for an unexpected reason, and I’m happy to say that I did not end up losing it after all.
+* `Q1201P   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1201P.html>`_ : I was supposed to receive 10,000 yen for an unexpected reason, and I’m sad to say that I did not receive it after all.
 * `Q1202    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1202.html>`_ : 消費税率の設定への意見
 * `Q1203    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1203.html>`_ : Work ethic after 3 years
 * `Q1204    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1204.html>`_ : Labor situation after 3 years
@@ -2405,21 +2405,21 @@ List of variables
 * `Q1212I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1212I.html>`_ : Reason for annual income adjustment: other
 * `Q1213    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1213.html>`_ : Situation where annual income was not adjusted
 * `Q1214    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1214.html>`_ : 増税延期への意見
-* `Q1215    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1215.html>`_ : 子どもについての悩みの有無
-* `Q1216A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216A.html>`_ : 子どもについての悩みの内容：子どもの性格や癖
-* `Q1216B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216B.html>`_ : 子どもについての悩みの内容：しつけ・叱り方
-* `Q1216C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216C.html>`_ : 子どもについての悩みの内容：親子のコミュニケーション
-* `Q1216D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216D.html>`_ : 子どもについての悩みの内容：子どもの健康・障害
-* `Q1216E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216E.html>`_ : 子どもについての悩みの内容：勉強や進学
-* `Q1216F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216F.html>`_ : 子どもについての悩みの内容：教育費の工面
-* `Q1216G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216G.html>`_ : 子どもについての悩みの内容：いじめ・不登校
-* `Q1216H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216H.html>`_ : 子どもについての悩みの内容：問題行動（非行、家庭内暴力、引きこもりなど）
-* `Q1216I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216I.html>`_ : 子どもについての悩みの内容：子どもの交友関係
-* `Q1216J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216J.html>`_ : 子どもについての悩みの内容：保護者との関係
-* `Q1216K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216K.html>`_ : 子どもについての悩みの内容：子どもの就職・仕事
-* `Q1216L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216L.html>`_ : 子どもについての悩みの内容：子どもの交際・結婚
-* `Q1216M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216M.html>`_ : 子どもについての悩みの内容：その他
-* `Q1216N   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216N.html>`_ : 子どもについての悩みの内容：特に悩みはない
+* `Q1215    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1215.html>`_ : Worries about Children
+* `Q1216A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216A.html>`_ : Content of worries about children: child’s personality and habits
+* `Q1216B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216B.html>`_ : Content of worries about children: child’s personality and habits: discipline and ways of scolding
+* `Q1216C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216C.html>`_ : Content of worries about children: parent-child communication
+* `Q1216D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216D.html>`_ : Content of worries about children: child’s health/disabilities
+* `Q1216E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216E.html>`_ : Content of worries about children: studying and advancement to higher education
+* `Q1216F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216F.html>`_ : Content of worries about children: covering the cost of education
+* `Q1216G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216G.html>`_ : Content of worries about children: bullying/school refusal
+* `Q1216H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216H.html>`_ : Content of worries about children: problematic behavior (delinquency, domestic violence, social withdrawal, etc.)
+* `Q1216I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216I.html>`_ : Content of worries about children: child’s relationships with friends
+* `Q1216J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216J.html>`_ : Content of worries about children: relationship with parents/guardians
+* `Q1216K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216K.html>`_ : Content of worries about children: child’s employment/career
+* `Q1216L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216L.html>`_ : Content of worries about children: child’s dating/marriage
+* `Q1216M   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216M.html>`_ : Content of worries about children: other
+* `Q1216N   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1216N.html>`_ : Concern about children: I don’t particularly have any worries.
 * `Q1217    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1217.html>`_ : パートナーに対して最も重視する要素
 * `Q1218    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1218.html>`_ : 育児休業制度・育児時間の利用日数（配偶者）
 * `Q1219    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1219.html>`_ : 介護経験の有無〔第25回〕
@@ -2778,161 +2778,161 @@ List of variables
 * `Q1299G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299G.html>`_ : Salary and income compensation (spouse) in September 2020: other
 * `Q1299H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299H.html>`_ : Salary and income compensation (spouse) in September 2020: nothing in particular
 * `Q1299I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1299I.html>`_ : Salary and income compensation (spouse) in September 2020: not working
-* `Q1300A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300A.html>`_ : 今後１年間の出来事（本人）：就職
-* `Q1300B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300B.html>`_ : 今後１年間の出来事（本人）：転勤や単身赴任
-* `Q1300C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300C.html>`_ : 今後１年間の出来事（本人）：転職
-* `Q1300D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300D.html>`_ : 今後１年間の出来事（本人）：希望退職
-* `Q1300E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300E.html>`_ : 今後１年間の出来事（本人）：人員整理・倒産
-* `Q1300F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300F.html>`_ : 今後１年間の出来事（本人）：定年退職
-* `Q1300G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300G.html>`_ : 今後１年間の出来事（本人）：雇用期間の満了
-* `Q1300H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300H.html>`_ : 今後１年間の出来事（本人）：病気
-* `Q1300I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300I.html>`_ : 今後１年間の出来事（本人）：結婚
-* `Q1300J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300J.html>`_ : 今後１年間の出来事（本人）：離婚
-* `Q1300K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300K.html>`_ : 今後１年間の出来事（本人）：出産
-* `Q1300L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300L.html>`_ : 今後１年間の出来事（本人）：引っ越し
-* `Q1301A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1301A.html>`_ : 今後１年間の出来事（配偶者）：就職
-* `Q1301B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1301B.html>`_ : 今後１年間の出来事（配偶者）：転勤や単身赴任
-* `Q1301C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1301C.html>`_ : 今後１年間の出来事（配偶者）：転職
-* `Q1301D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1301D.html>`_ : 今後１年間の出来事（配偶者）：希望退職
-* `Q1301E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1301E.html>`_ : 今後１年間の出来事（配偶者）：人員整理・倒産
-* `Q1301F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1301F.html>`_ : 今後１年間の出来事（配偶者）：定年退職
-* `Q1301G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1301G.html>`_ : 今後１年間の出来事（配偶者）：雇用期間の満了
-* `Q1301H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1301H.html>`_ : 今後１年間の出来事（配偶者）：病気
-* `Q1302A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1302A.html>`_ : 今年の収入見込み（配偶者）
-* `Q1302B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1302B.html>`_ : 今年の税金・社会保険料（配偶者）
-* `Q1303A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1303A.html>`_ : 今年の収入見込み（本人）
-* `Q1303B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1303B.html>`_ : 今年の税金・社会保険料（本人）
-* `Q1304A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1304A.html>`_ : 今年の収入見込み（世帯員）
-* `Q1304B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1304B.html>`_ : 今年の税金・社会保険料（世帯員）
-* `Q1305A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1305A.html>`_ : １番上の子：最後に在籍した学校
-* `Q1305B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1305B.html>`_ : １番上の子：最後に在籍した学校の卒業の有無
-* `Q1306A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1306A.html>`_ : ２番目の子：最後に在籍した学校
-* `Q1306B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1306B.html>`_ : ２番上の子：最後に在籍した学校の卒業の有無
-* `Q1307A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1307A.html>`_ : ３番目の子：最後に在籍した学校
-* `Q1307B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1307B.html>`_ : ３番上の子：最後に在籍した学校の卒業の有無
-* `Q1308    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1308.html>`_ : 令和２年10月～令和３年9月の休校・休園
-* `Q1309A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1309A.html>`_ : 今後１年間に行いたいこと：外食や買い物
-* `Q1309B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1309B.html>`_ : 今後１年間に行いたいこと：県や地域内の旅行・帰省
-* `Q1309C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1309C.html>`_ : 今後１年間に行いたいこと：県や地域を超えた旅行・帰省
-* `Q1309D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1309D.html>`_ : 今後１年間に行いたいこと：海外旅行
-* `Q1310    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1310.html>`_ : 新型コロナワクチン接種状況：意向
-* `Q1311    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1311.html>`_ : 18歳以上同居家族の新型コロナワクチン接種状況
-* `Q1312    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1312.html>`_ : 12～15歳の新型コロナワクチン接種について
-* `Q1313A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313A.html>`_ : 労力や意識を向けた項目：学生時代の勉強や課外活動
-* `Q1313B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313B.html>`_ : 労力や意識を向けた項目：仕事
-* `Q1313C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313C.html>`_ : 労力や意識を向けた項目：収入や家計のやりくり
-* `Q1313D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313D.html>`_ : 労力や意識を向けた項目：家事や家族のこと
-* `Q1313E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313E.html>`_ : 労力や意識を向けた項目：夫に対して
-* `Q1313F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313F.html>`_ : 労力や意識を向けた項目：子供のしつけ、教育
-* `Q1313G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313G.html>`_ : 労力や意識を向けた項目：友人・知人との人間関係
-* `Q1313H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313H.html>`_ : 労力や意識を向けた項目：家族からの評価
-* `Q1313I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313I.html>`_ : 労力や意識を向けた項目：周囲からの評価
-* `Q1313J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313J.html>`_ : 労力や意識を向けた項目：女性らしく、女の子らしくふるまうこと
-* `Q1314A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314A.html>`_ : これまでの生き方：様々な目標を持って過ごしてきた、過ごしている
-* `Q1314B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314B.html>`_ : これまでの生き方：家庭生活や仕事、旅行等で、気づきや発見の機会があった
-* `Q1314C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314C.html>`_ : これまでの生き方：趣味やボランティアなど、家事・仕事以外でやりがいのあることに取り組んだ
-* `Q1314D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314D.html>`_ : これまでの生き方：困難な状況に直面することが多くあった
-* `Q1314E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314E.html>`_ : これまでの生き方：新しいことにいろいろと挑戦してきた
-* `Q1314F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314F.html>`_ : これまでの生き方：自分の人生は唯一かけがえのないものであると思う
-* `Q1314G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314G.html>`_ : これまでの生き方：自分の人生は単調であった
-* `Q1314H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314H.html>`_ : これまでの生き方：有意義で価値のある人生を過ごしてきたと思う
-* `Q1314I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314I.html>`_ : これまでの生き方：喜びや幸せを感じることが多かった
-* `Q1314J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314J.html>`_ : これまでの生き方：悲しみやつらさを感じることが多かった
-* `Q1314K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314K.html>`_ : これまでの生き方：気持ちの高揚を感じることが多かった
-* `Q1314L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314L.html>`_ : これまでの生き方：日々をつまらなく感じることが多かった
-* `Q1315A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1315A.html>`_ : 世代間の環境評価（上の世代）：進路や職業選択の多様性
-* `Q1315B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1315B.html>`_ : 世代間の環境評価（本人の世代）：進路や職業選択の多様性
-* `Q1315C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1315C.html>`_ : 世代間の環境評価（下の世代）：進路や職業選択の多様性
-* `Q1316A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1316A.html>`_ : 世代間の環境評価（上の世代）：学校を卒業した頃の経済状況
-* `Q1316B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1316B.html>`_ : 世代間の環境評価（本人の世代）：学校を卒業した頃の経済状況
-* `Q1316C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1316C.html>`_ : 世代間の環境評価（下の世代）：学校を卒業した頃の経済状況
-* `Q1317A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1317A.html>`_ : 世代間の環境評価（上の世代）：雇用機会や待遇（賃金、昇進）の男女平等
-* `Q1317B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1317B.html>`_ : 世代間の環境評価（本人の世代）：雇用機会や待遇（賃金、昇進）の男女平等
-* `Q1317C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1317C.html>`_ : 世代間の環境評価（下の世代）：雇用機会や待遇（賃金、昇進）の男女平等
-* `Q1318A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1318A.html>`_ : 世代間の環境評価（上の世代）：男女がともに家事：育児にかかわること
-* `Q1318B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1318B.html>`_ : 世代間の環境評価（本人の世代）：男女がともに家事：育児にかかわること
-* `Q1318C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1318C.html>`_ : 世代間の環境評価（下の世代）：男女がともに家事：育児にかかわること
-* `Q1319A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1319A.html>`_ : 世代間の環境評価（上の世代）：将来の人生設計の立てやすさ
-* `Q1319B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1319B.html>`_ : 世代間の環境評価（本人の世代）：将来の人生設計の立てやすさ
-* `Q1319C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1319C.html>`_ : 世代間の環境評価（下の世代）：将来の人生設計の立てやすさ
-* `Q1320A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1320A.html>`_ : 世代間の環境評価（上の世代）：他人との競争が少ないこと
-* `Q1320B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1320B.html>`_ : 世代間の環境評価（本人の世代）：他人との競争が少ないこと
-* `Q1320C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1320C.html>`_ : 世代間の環境評価（下の世代）：他人との競争が少ないこと
-* `Q1321A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1321A.html>`_ : 世代間の環境評価（上の世代）：女性らしさに縛られず生きること
-* `Q1321B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1321B.html>`_ : 世代間の環境評価（本人の世代）：女性らしさに縛られず生きること
-* `Q1321C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1321C.html>`_ : 世代間の環境評価（下の世代）：女性らしさに縛られず生きること
-* `Q1322    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1322.html>`_ : 他の世代に生まれ変わることができる場合
-* `Q1323A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1323A.html>`_ : 健在の子供
-* `Q1323B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1323B.html>`_ : 健在の子供の人数
-* `Q1324A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1324A.html>`_ : 健在の子供（1）1番上：性別
-* `Q1324B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1324B.html>`_ : 健在の子供（2）1番上：生年
-* `Q1324C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1324C.html>`_ : 健在の子供（2）1番上：生月
-* `Q1324D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1324D.html>`_ : 健在の子供（3）1番上：同居・別居
-* `Q1325A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1325A.html>`_ : 健在の子供（1）２番目：性別
-* `Q1325B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1325B.html>`_ : 健在の子供（2）２番目：生年
-* `Q1325C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1325C.html>`_ : 健在の子供（2）２番目：生月
-* `Q1325D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1325D.html>`_ : 健在の子供（3）２番目：同居・別居
-* `Q1326A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1326A.html>`_ : 健在の子供（1）３番目：性別
-* `Q1326B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1326B.html>`_ : 健在の子供（2）３番目：生年
-* `Q1326C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1326C.html>`_ : 健在の子供（2）３番目・生月
-* `Q1326D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1326D.html>`_ : 健在の子供（3）３番目：同居・別居
-* `Q1327A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1327A.html>`_ : 健在の子供（1）1番上：子育て・楽しかった
-* `Q1327B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1327B.html>`_ : 健在の子供（1）1番上：子育て・育てやすかった
-* `Q1327C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1327C.html>`_ : 健在の子供（1）1番上：子育て・苦労や心配が多かった
-* `Q1327D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1327D.html>`_ : 健在の子供（1）1番上：子育て・過保護だった
-* `Q1328    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1328.html>`_ : 健在の子供（2）1番上：18歳になるまでの教育やしつけ
-* `Q1329A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1329A.html>`_ : 健在の子供（3）1番上：３歳時点の通園・保育　保育園
-* `Q1329B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1329B.html>`_ : 健在の子供（3）1番上：３歳時点の通園・保育　幼稚園
-* `Q1329C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1329C.html>`_ : 健在の子供（3）1番上：３歳時点の通園・保育　家庭保育（未通園）
-* `Q1329D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1329D.html>`_ : 健在の子供（3）1番上：３歳時点の通園・保育　その他
-* `Q1330    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1330.html>`_ : 健在の子供（4）1番上：経済援助やお世話
-* `Q1331    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1331.html>`_ : 健在の子供（5）1番上：学校卒業後の就業
-* `Q1332    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1332.html>`_ : 健在の子供（6）1番上：現在の就業
-* `Q1333    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1333.html>`_ : 健在の子供（7）1番上：生活程度
-* `Q1334A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1334A.html>`_ : 健在の子供（8）1番上：子供の有無
-* `Q1334B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1334B.html>`_ : 健在の子供（8）1番上：子供人数
-* `Q1335    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1335.html>`_ : 健在の子供（9）1番上：未既婚
-* `Q1336    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1336.html>`_ : 健在の子供（10）1番上：初婚年齢
-* `Q1337    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1337.html>`_ : 健在の子供（11）1番上：子供の配偶者の最終学歴
-* `Q1338    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1338.html>`_ : 健在の子供（12）1番上：最後に行った学校の卒業
-* `Q1339A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1339A.html>`_ : 健在の子供（1）2番目：子育て・楽しかった
-* `Q1339B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1339B.html>`_ : 健在の子供（1）2番目：子育て・育てやすかった
-* `Q1339C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1339C.html>`_ : 健在の子供（1）2番目：子育て・苦労や心配が多かった
-* `Q1339D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1339D.html>`_ : 健在の子供（1）2番目：子育て・過保護だった
-* `Q1340    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1340.html>`_ : 健在の子供（2）2番目：18歳になるまでの教育やしつけ
-* `Q1341A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1341A.html>`_ : 健在の子供（3）2番目：３歳時点の通園・保育　保育園
-* `Q1341B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1341B.html>`_ : 健在の子供（3）2番目：３歳時点の通園・保育　幼稚園
-* `Q1341C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1341C.html>`_ : 健在の子供（3）2番目：３歳時点の通園・保育　家庭保育（未通園）
-* `Q1341D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1341D.html>`_ : 健在の子供（3）2番目：３歳時点の通園・保育　その他
-* `Q1342    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1342.html>`_ : 健在の子供（4）2番目：経済援助やお世話
-* `Q1343    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1343.html>`_ : 健在の子供（5）2番目：学校卒業後の就業
-* `Q1344    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1344.html>`_ : 健在の子供（6）2番目：現在の就業
-* `Q1345    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1345.html>`_ : 健在の子供（7）2番目：生活程度
-* `Q1346A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1346A.html>`_ : 健在の子供（8）2番目：子供の有無
-* `Q1346B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1346B.html>`_ : 健在の子供（8）2番目：子供人数
-* `Q1347    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1347.html>`_ : 健在の子供（9）2番目：未既婚
-* `Q1348    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1348.html>`_ : 健在の子供（10）2番目：初婚年齢
-* `Q1349    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1349.html>`_ : 健在の子供（11）2番目：子供の配偶者の最終学歴
-* `Q1350    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1350.html>`_ : 健在の子供（12）2番目：最後に行った学校の卒業
-* `Q1351A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1351A.html>`_ : 健在の子供（1）３番目：子育て・楽しかった
-* `Q1351B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1351B.html>`_ : 健在の子供（1）３番目：子育て・育てやすかった
-* `Q1351C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1351C.html>`_ : 健在の子供（1）３番目：子育て・苦労や心配が多かった
-* `Q1351D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1351D.html>`_ : 健在の子供（1）３番目：子育て・過保護だった
-* `Q1352    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1352.html>`_ : 健在の子供（2）３番目：18歳になるまでの教育やしつけ
-* `Q1353A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1353A.html>`_ : 健在の子供（3）３番目：３歳時点の通園・保育　保育園
-* `Q1353B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1353B.html>`_ : 健在の子供（3）３番目：３歳時点の通園・保育　幼稚園
-* `Q1353C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1353C.html>`_ : 健在の子供（3）３番目：３歳時点の通園・保育　家庭保育（未通園）
-* `Q1353D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1353D.html>`_ : 健在の子供（3）３番目：３歳時点の通園・保育　その他
-* `Q1354    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1354.html>`_ : 健在の子供（4）３番目：経済援助やお世話
-* `Q1355    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1355.html>`_ : 健在の子供（5）３番目：学校卒業後の就業
-* `Q1356    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1356.html>`_ : 健在の子供（6）３番目：現在の就業
-* `Q1357    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1357.html>`_ : 健在の子供（7）３番目：生活程度
-* `Q1358A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1358A.html>`_ : 健在の子供（8）３番目：子供の有無
-* `Q1358B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1358B.html>`_ : 健在の子供（8）３番目：子供人数
-* `Q1359    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1359.html>`_ : 健在の子供（9）３番目：未既婚
-* `Q1360    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1360.html>`_ : 健在の子供（10）３番目：初婚年齢
-* `Q1361    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1361.html>`_ : 健在の子供（11）３番目：子供の配偶者の最終学歴
-* `Q1362    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1362.html>`_ : 健在の子供（12）３番目：最後に行った学校の卒業
+* `Q1300A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300A.html>`_ : Events planned for the coming year (yourself): start a new job
+* `Q1300B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300B.html>`_ : Events planned for the coming year (yourself): transfer
+* `Q1300C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300C.html>`_ : Events planned for the coming year (yourself): change your workplace or job
+* `Q1300D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300D.html>`_ : Events planned for the coming year (yourself): leave your current job of your own volition or at your own convenience
+* `Q1300E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300E.html>`_ : Events planned for the coming year (yourself): leave your current job due to workplace issues beyond your control
+* `Q1300F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300F.html>`_ : Events planned for the coming year (yourself): retire
+* `Q1300G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300G.html>`_ : Events planned for the coming year (yourself): finish an employment contract
+* `Q1300H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300H.html>`_ : Events planned for the coming year (yourself): be hospitalized for surgery or long-term treatment
+* `Q1300I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300I.html>`_ : Events planned for the coming year (yourself): get married
+* `Q1300J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300J.html>`_ : Events planned for the coming year (yourself): get divorced
+* `Q1300K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300K.html>`_ : Events planned for the coming year (yourself): have a child
+* `Q1300L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1300L.html>`_ : Events planned for the coming year (yourself): move residence
+* `Q1301A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1301A.html>`_ : Events planned for the coming year (spouse): start a new job
+* `Q1301B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1301B.html>`_ : Events planned for the coming year (spouse): transfer
+* `Q1301C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1301C.html>`_ : Events planned for the coming year (spouse): change your workplace or job
+* `Q1301D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1301D.html>`_ : Events planned for the coming year (spouse): leave your current job of your own volition or at your own convenience
+* `Q1301E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1301E.html>`_ : Events planned for the coming year (spouse): leave your current job due to workplace issues beyond your control
+* `Q1301F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1301F.html>`_ : Events planned for the coming year (spouse): retire
+* `Q1301G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1301G.html>`_ : Events planned for the coming year (spouse): finish an employment contract
+* `Q1301H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1301H.html>`_ : Events planned for the coming year (spouse): be hospitalized for surgery or long-term treatment
+* `Q1302A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1302A.html>`_ : Expectation of the earnings for the current year (spouse)
+* `Q1302B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1302B.html>`_ : Tax and social insurance for the current year (spouse)
+* `Q1303A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1303A.html>`_ : Expectation of the earnings for the current year (yours)
+* `Q1303B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1303B.html>`_ : Tax and social insurance for the current year (yours)
+* `Q1304A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1304A.html>`_ : Expectation of the earnings for the current year (other household)
+* `Q1304B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1304B.html>`_ : Tax and social insurance for the current year (other household)
+* `Q1305A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1305A.html>`_ : Highest level of education: 1st child
+* `Q1305B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1305B.html>`_ : Did he or she graduate: 1st child
+* `Q1306A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1306A.html>`_ : Highest level of education: 2nd child
+* `Q1306B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1306B.html>`_ : Did he or she graduate: 2nd child
+* `Q1307A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1307A.html>`_ : Highest level of education: 3rd child
+* `Q1307B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1307B.html>`_ : Did he or she graduate: 3rd child
+* `Q1308    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1308.html>`_ : Closure of schools and preschools (October 2020 to September 2021)
+* `Q1309A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1309A.html>`_ : Hope to do within the next year:
+* `Q1309B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1309B.html>`_ : Hope to do within the next year:
+* `Q1309C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1309C.html>`_ : Hope to do within the next year:
+* `Q1309D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1309D.html>`_ : Hope to do within the next year:
+* `Q1310    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1310.html>`_ : COVID-19 vaccination: your status as of the end of September
+* `Q1311    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1311.html>`_ : COVID-19 vaccination: your familiy member’s (over the age of 18) status as of the end of September
+* `Q1312    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1312.html>`_ : About COVID-19 vaccination for children aged 12 to 15 years old
+* `Q1313A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313A.html>`_ : How much effort and awareness have you devoted to: studying and engagement in extracurricular activities as a student
+* `Q1313B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313B.html>`_ : How much effort and awareness have you devoted to: work
+* `Q1313C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313C.html>`_ : How much effort and awareness have you devoted to:worrying about income and household spending
+* `Q1313D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313D.html>`_ : How much effort and awareness have you devoted to: time related to housework and family
+* `Q1313E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313E.html>`_ : How much effort and awareness have you devoted to: regarding your husband (spouse)
+* `Q1313F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313F.html>`_ : How much effort and awareness have you devoted to: children’s education and discipline
+* `Q1313G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313G.html>`_ : How much effort and awareness have you devoted to: relationships with friends and acquaintances
+* `Q1313H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313H.html>`_ : How much effort and awareness have you devoted to: wrrying about approval from family members
+* `Q1313I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313I.html>`_ : How much effort and awareness have you devoted to: worrying about approval from people around you
+* `Q1313J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1313J.html>`_ : How much effort and awareness have you devoted to: behaving like a woman or a girl
+* `Q1314A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314A.html>`_ : How you’ve lived your life to date: I have always had a variety of goals in life
+* `Q1314B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314B.html>`_ : How you’ve lived your life to date: I had opportunities for awareness and discovery in my family life, work, travel, etc.
+* `Q1314C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314C.html>`_ : How you’ve lived your life to date: I engaged in things that I found meaningful and rewarding other than housework and work
+* `Q1314D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314D.html>`_ : How you’ve lived your life to date: I have often faced difficult situations.
+* `Q1314E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314E.html>`_ : How you’ve lived your life to date: I have tried a wide variety of new things.
+* `Q1314F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314F.html>`_ : How you’ve lived your life to date: I think you’ve only got one life to live.
+* `Q1314G   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314G.html>`_ : How you’ve lived your life to date: My life has been monotonous.
+* `Q1314H   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314H.html>`_ : How you’ve lived your life to date: I think that I’ve lived a meaningful and valuable life.
+* `Q1314I   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314I.html>`_ : How you’ve lived your life to date: I have felt a lot of joy and happiness.
+* `Q1314J   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314J.html>`_ : How you’ve lived your life to date: I have felt a lot of sadness and pain.
+* `Q1314K   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314K.html>`_ : How you’ve lived your life to date:  I have often felt uplifted.
+* `Q1314L   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1314L.html>`_ : How you’ve lived your life to date: I have often felt that my days were boring.
+* `Q1315A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1315A.html>`_ : Evaluation about the generation (older generation) (1): diversity in career and occupational choices
+* `Q1315B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1315B.html>`_ : Evaluation about the generation (your generation) (1): diversity in career and occupational choices
+* `Q1315C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1315C.html>`_ : Evaluation about the generation (youger generation) (1): diversity in career and occupational choices
+* `Q1316A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1316A.html>`_ : Evaluation about the generation (older generation) (2): economic prospects upon graduation from school
+* `Q1316B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1316B.html>`_ : Evaluation about the generation (your generation) (2): economic prospects upon graduation from school
+* `Q1316C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1316C.html>`_ : Evaluation about the generation (youger generation) (2):economic prospects upon graduation from school
+* `Q1317A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1317A.html>`_ : Evaluation about the generation (older generation) (3): gender equality in terms of employment opportunities and treatment in the workplace
+* `Q1317B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1317B.html>`_ : Evaluation about the generation (your generation) (3): gender equality in terms of employment opportunities and treatment in the workplace
+* `Q1317C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1317C.html>`_ : Evaluation about the generation (youger generation) (3): gender equality in terms of employment opportunities and treatment in the workplace
+* `Q1318A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1318A.html>`_ : Evaluation about the generation (older generation) (4): men and women being involved in housework and childcare
+* `Q1318B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1318B.html>`_ : Evaluation about the generation (your generation) (4): men and women being involved in housework and childcare
+* `Q1318C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1318C.html>`_ : Evaluation about the generation (youger generation) (4): men and women being involved in housework and childcare
+* `Q1319A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1319A.html>`_ : Evaluation about the generation (older generation) (5): ease of planning a life for the future
+* `Q1319B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1319B.html>`_ : Evaluation about the generation (your generation) (5): ease of planning a life for the future
+* `Q1319C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1319C.html>`_ : Evaluation about the generation (youger generation) (5): ease of planning a life for the future
+* `Q1320A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1320A.html>`_ : Evaluation about the generation (older generation) (6): less competition with others
+* `Q1320B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1320B.html>`_ : Evaluation about the generation (your generation) (6): less competition with others
+* `Q1320C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1320C.html>`_ : Evaluation about the generation (youger generation) (6): less competition with others
+* `Q1321A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1321A.html>`_ : Evaluation about the generation (older generation) (7): living without being constrained by femininity
+* `Q1321B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1321B.html>`_ : Evaluation about the generation (your generation) (7): living without being constrained by femininity
+* `Q1321C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1321C.html>`_ : Evaluation about the generation (youger generation) (7): living without being constrained by femininity
+* `Q1322    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1322.html>`_ : In case of being able to reborn into another generation
+* `Q1323A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1323A.html>`_ : Children are in good health
+* `Q1323B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1323B.html>`_ : The number of children in good health
+* `Q1324A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1324A.html>`_ : Child in good health(1): 1st child: Gender
+* `Q1324B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1324B.html>`_ : Child in good health(2): 1st child: Date of birth(Year)
+* `Q1324C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1324C.html>`_ : Child in good health(2): 1st child: Date of birth(Month)
+* `Q1324D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1324D.html>`_ : Child in good health(3): 1st child: Current residence
+* `Q1325A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1325A.html>`_ : Child in good health(1): 2nd child: Gender
+* `Q1325B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1325B.html>`_ : Child in good health(2): 2nd child: Date of birth(Year)
+* `Q1325C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1325C.html>`_ : Child in good health(2): 2nd child: Date of birth(Month)
+* `Q1325D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1325D.html>`_ : Child in good health(3): 2nd child: Current residence
+* `Q1326A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1326A.html>`_ : Child in good health(1): 3rd child: Gender
+* `Q1326B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1326B.html>`_ : Child in good health(2): 3rd child: Date of birth(Year)
+* `Q1326C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1326C.html>`_ : Child in good health(2): 3rd child: Date of birth(Month)
+* `Q1326D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1326D.html>`_ : Child in good health(3): 3rd child: Current residence
+* `Q1327A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1327A.html>`_ : Child in good health(1): 1st child: Child-rasing: It was fun.
+* `Q1327B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1327B.html>`_ : Child in good health(1): 1st child: Child-rasing: The child was easy to raise.
+* `Q1327C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1327C.html>`_ : Child in good health(1): 1st child: Child-rasing: It was a lot of trouble and worry.
+* `Q1327D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1327D.html>`_ : Child in good health(1): 1st child: Child-rasing: I have been overprotective.
+* `Q1328    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1328.html>`_ : Child in good health(2): 1st child: Education and discipline until he or she was 18 years old
+* `Q1329A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1329A.html>`_ : Child in good health(3): 1st child: schooling at the age of 3 years: nursery school
+* `Q1329B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1329B.html>`_ : Child in good health(3): 1st child: schooling at the age of 3 years: kindergarten
+* `Q1329C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1329C.html>`_ : Child in good health(3): 1st child: schooling at the age of 3 years: home childcare
+* `Q1329D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1329D.html>`_ : Child in good health(3): 1st child: schooling at the age of 3 years: other
+* `Q1330    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1330.html>`_ : Child in good health(4): 1st child: financial support and care for your children
+* `Q1331    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1331.html>`_ : Child in good health(5): 1st child: employment after leavomg the last school
+* `Q1332    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1332.html>`_ : Child in good health(6): 1st child: current employment form
+* `Q1333    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1333.html>`_ : Child in good health(7): 1st child: current standard of living
+* `Q1334A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1334A.html>`_ : Child in good health(8): 1st child: presence of children
+* `Q1334B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1334B.html>`_ : Child in good health(8): 1st child: the number of children
+* `Q1335    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1335.html>`_ : Child in good health(9): 1st child: married or unmarried
+* `Q1336    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1336.html>`_ : Child in good health(10): 1st child: first marriage age
+* `Q1337    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1337.html>`_ : Child in good health(11): 1st child: the highest level of education attained by your children’s spouses
+* `Q1338    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1338.html>`_ : Child in good health(12): 1st child: whether your children’s spouses graduate from the last educational institution or not
+* `Q1339A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1339A.html>`_ : Child in good health(1): 2nd child: Child-rasing: It was fun.
+* `Q1339B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1339B.html>`_ : Child in good health(1): 2nd child: Child-rasing: The child was easy to raise.
+* `Q1339C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1339C.html>`_ : Child in good health(1): 2nd child: Child-rasing: It was a lot of trouble and worry.
+* `Q1339D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1339D.html>`_ : Child in good health(1): 2nd child: Child-rasing: I have been overprotective.
+* `Q1340    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1340.html>`_ : Child in good health(2): 2nd child: Education and discipline until he or she was 18 years old
+* `Q1341A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1341A.html>`_ : Child in good health(3): 2nd child: schooling at the age of 3 years: nursery school
+* `Q1341B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1341B.html>`_ : Child in good health(3): 2nd child: schooling at the age of 3 years: kindergarten
+* `Q1341C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1341C.html>`_ : Child in good health(3): 2nd child: schooling at the age of 3 years: home childcare
+* `Q1341D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1341D.html>`_ : Child in good health(3): 2nd child: schooling at the age of 3 years: other
+* `Q1342    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1342.html>`_ : Child in good health(4): 2nd child: financial support and care for your children
+* `Q1343    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1343.html>`_ : Child in good health(5): 2nd child: employment after leavomg the last school
+* `Q1344    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1344.html>`_ : Child in good health(6): 2nd child: current employment form
+* `Q1345    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1345.html>`_ : Child in good health(7): 2nd child: current standard of living
+* `Q1346A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1346A.html>`_ : Child in good health(8): 2nd child: presence of children
+* `Q1346B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1346B.html>`_ : Child in good health(8): 2nd child: the number of children
+* `Q1347    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1347.html>`_ : Child in good health(9): 2nd child: married or unmarried
+* `Q1348    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1348.html>`_ : Child in good health(10): 2nd child: first marriage age
+* `Q1349    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1349.html>`_ : Child in good health(11): 2nd child: the highest level of education attained by your children’s spouses
+* `Q1350    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1350.html>`_ : Child in good health(12): 2nd child: whether your children’s spouses graduate from the last educational institution or not
+* `Q1351A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1351A.html>`_ : Child in good health(1): 3rd child: Child-rasing: It was fun.
+* `Q1351B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1351B.html>`_ : Child in good health(1): 3rd child: Child-rasing: The child was easy to raise.
+* `Q1351C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1351C.html>`_ : Child in good health(1): 3rd child: Child-rasing: It was a lot of trouble and worry.
+* `Q1351D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1351D.html>`_ : Child in good health(1): 3rd child: Child-rasing: I have been overprotective.
+* `Q1352    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1352.html>`_ : Child in good health(2): 3rd child: Education and discipline until he or she was 18 years old
+* `Q1353A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1353A.html>`_ : Child in good health(3): 3rd child: schooling at the age of 3 years: nursery school
+* `Q1353B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1353B.html>`_ : Child in good health(3): 3rd child: schooling at the age of 3 years: kindergarten
+* `Q1353C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1353C.html>`_ : Child in good health(3): 3rd child: schooling at the age of 3 years: home childcare
+* `Q1353D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1353D.html>`_ : Child in good health(3): 3rd child: schooling at the age of 3 years: other
+* `Q1354    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1354.html>`_ : Child in good health(4): 3rd child: financial support and care for your children
+* `Q1355    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1355.html>`_ : Child in good health(5): 3rd child: employment after leavomg the last school
+* `Q1356    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1356.html>`_ : Child in good health(6): 3rd child: current employment form
+* `Q1357    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1357.html>`_ : Child in good health(7): 3rd child: current standard of living
+* `Q1358A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1358A.html>`_ : Child in good health(8): 3rd child: presence of children
+* `Q1358B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1358B.html>`_ : Child in good health(8): 3rd child: the number of children
+* `Q1359    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1359.html>`_ : Child in good health(9): 3rd child: married or unmarried
+* `Q1360    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1360.html>`_ : Child in good health(10): 3rd child: first marriage age
+* `Q1361    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1361.html>`_ : Child in good health(11): 3rd child: the highest level of education attained by your children’s spouses
+* `Q1362    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q1362.html>`_ : Child in good health(12): 3rd child: whether your children’s spouses graduate from the last educational institution or not
 * `Q9001AH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9001AH.html>`_ : 生活時間（調整版）：通勤・通学／時間（平日）
 * `Q9001AM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9001AM.html>`_ : 生活時間（調整版）：通勤・通学／分（平日）
 * `Q9001BH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9001BH.html>`_ : 生活時間（調整版）：仕事／時間（平日）
@@ -2981,25 +2981,25 @@ List of variables
 * `Q9004IM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9004IM.html>`_ : 生活時間（配偶者 調整版）：趣味・娯楽・交際など／分（休日）
 * `Q9004MH  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9004MH.html>`_ : 生活時間（配偶者 調整版）：睡眠、食事、入浴、身の回りの用事など／時間（休日）
 * `Q9004MM  <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9004MM.html>`_ : 生活時間（配偶者 調整版）：睡眠、食事、入浴、身の回りの用事など／分（休日）
-* `Q9008A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9008A.html>`_ : 調査で負担に感じたこと：ご自身のプライバシーに立ち入った内容（学歴、所得、就業状態等）
-* `Q9008B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9008B.html>`_ : 調査で負担に感じたこと：ご家族のプライバシーに立ち入った内容（学歴、所得、就業状態等）
-* `Q9008C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9008C.html>`_ : 調査で負担に感じたこと：ご自身に関する情報：数字（所得や労働時間など）の記入指示が細かい
-* `Q9008D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9008D.html>`_ : 調査で負担に感じたこと：ご家族に関する情報：数字（家計、ご家族の所得や労働時間など）の記入指示が細かい
-* `Q9008E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9008E.html>`_ : 調査で負担に感じたこと：調査票を記入する時間をつくること
-* `Q9008F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9008F.html>`_ : 調査で負担に感じたこと：調査票に記入する量が多いことへの精神的な負担
+* `Q9008A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9008A.html>`_ : Burden of the survey: the details that go into your privacy
+* `Q9008B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9008B.html>`_ : Burden of the survey: your family’s private details
+* `Q9008C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9008C.html>`_ : Burden of the survey: detailed instructions for how to fill out information and figures about yourself
+* `Q9008D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9008D.html>`_ : Burden of the survey: detailed instructions for how to fill out information and figures about your family
+* `Q9008E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9008E.html>`_ : Burden of the survey: setting aside time to fill out the questionnaire
+* `Q9008F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9008F.html>`_ : Burden of the survey: the mental burden of completing a questionnaire with such a large amount of information to fill out
 * `Q9009A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9009A.html>`_ : Considering stopping the participation in the survey
-* `Q9009B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9009B.html>`_ : Number of times considering stopping your participation in the survey
+* `Q9009B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9009B.html>`_ : The number of times considering stopping your participation in the survey
 * `Q9010A   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9010A.html>`_ : Survey times to feel to quit doing the survey: the first time
 * `Q9010B   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9010B.html>`_ : Survey times to feel to quit doing the survey: the second time
 * `Q9010C   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9010C.html>`_ : Survey times to feel to quit doing the survey: the third time
 * `Q9010D   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9010D.html>`_ : Survey times to feel to quit doing the survey: sometime between the fourth and ninth survey
-* `Q9010E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9010E.html>`_ : やめようと思った調査回：１０回目以降
+* `Q9010E   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9010E.html>`_ : Survey times to feel to quit doing the survey: the tenth or more survey
 * `Q9010F   <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9010F.html>`_ : Survey times to feel to quit doing the survey: I don’t remember
 * `Q9011    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9011.html>`_ : Reasons to quit doing the survey
 * `Q9012    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9012.html>`_ : Reasons to continue to participate in the suevey
 * `Q9013    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9013.html>`_ : The amount of the compensation
 * `Q9014    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9014.html>`_ : About the survey
-* `Q9015    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9015.html>`_ : 調査方法
+* `Q9015    <https://jpsc-codebook.readthedocs.io/en/latest/variable/Q9015.html>`_ : Survey method
 * `ID       <https://jpsc-codebook.readthedocs.io/en/latest/id_panel/ID.html>`_ : Survey respondent's number (ID)
 * `PANEL    <https://jpsc-codebook.readthedocs.io/en/latest/id_panel/PANEL.html>`_ : Number of surveys
 * `REC      <https://jpsc-codebook.readthedocs.io/en/latest/id_panel/REC.html>`_ : Sheet number

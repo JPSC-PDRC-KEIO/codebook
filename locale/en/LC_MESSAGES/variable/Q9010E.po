@@ -33,11 +33,11 @@ msgstr ""
 msgid "質問文"
 msgstr "Question"
 
-#: ../../variable/Q9010E.rst:18
+#: ../../variable/Q9010E.rst:21
 msgid "回答をやめようと思ったのは何回目の調査のときですか。（〇はいくつでも）"
 msgstr "When did you feel that you wanted to quit doing the survey? (Circle as many as pertain to you.)"
 
-#: ../../variable/Q9010E.rst:20
+#: ../../variable/Q9010E.rst:23
 msgid "10回目以降"
 msgstr "The tenth or more survey."
 
