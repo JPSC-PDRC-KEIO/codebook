@@ -41,7 +41,7 @@ msgstr "Please fill in the following for the 5 most recent moves to date."
 
 #: ../../variable/P35A.rst:20
 msgid "転居3"
-msgstr ""
+msgstr "Move3"
 
 #: ../../variable/P35A.rst:24
 msgid "選択肢 / 記入欄"

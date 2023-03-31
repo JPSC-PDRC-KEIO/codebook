@@ -42,7 +42,7 @@ msgstr "How many siblings do you have?"
 
 #: ../../variable/P1A.rst:21
 msgid "男"
-msgstr "male"
+msgstr "Male"
 
 #: ../../variable/P1A.rst:27
 msgid "選択肢 / 記入欄"

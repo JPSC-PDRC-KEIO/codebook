@@ -77,7 +77,6 @@ msgid "総務省が設定している全国の都道府県及び市区町村の�
 msgstr ""
 
 #: ../../variable/P36C.rst:54
-#, 
 msgid "一般のユーザーには公開していません。"
 msgstr "It is not disclose to undergruduate students."
 

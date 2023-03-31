@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../kihon/Q1014_1.rst:3
 msgid "家族1（本人）：配偶状況"
-msgstr ""
+msgstr "Family-member1: marital status"
 
 #: ../../kihon/Q1014_1.rst:7
 msgid "変数名:"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../kihon/Q1014_1.rst:19
 msgid "家族1（本人）"
-msgstr ""
+msgstr "Family-member1 (yourself)"
 
 #: ../../kihon/Q1014_1.rst:23
 msgid "選択肢 / 記入欄"
@@ -47,11 +47,11 @@ msgstr "Select / Fill in"
 
 #: ../../kihon/Q1014_1.rst:25
 msgid "独身"
-msgstr ""
+msgstr "Single"
 
 #: ../../kihon/Q1014_1.rst:26
 msgid "結婚している"
-msgstr ""
+msgstr "Married"
 
 #: ../../kihon/Q1014_1.rst:30
 msgid "桁あふれコード"

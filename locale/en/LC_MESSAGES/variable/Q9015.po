@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../variable/Q9015.rst:5
 msgid "調査方法"
-msgstr ""
+msgstr "Survey method"
 
 #: ../../variable/Q9015.rst:9
 msgid "変数名"
@@ -39,11 +39,11 @@ msgstr "Select / Fill in"
 
 #: ../../variable/Q9015.rst:25
 msgid "訪問留め置き"
-msgstr ""
+msgstr "Placement method"
 
 #: ../../variable/Q9015.rst:26
 msgid "郵送"
-msgstr ""
+msgstr "Mail survey"
 
 #: ../../variable/Q9015.rst:32
 msgid "桁あふれコード"

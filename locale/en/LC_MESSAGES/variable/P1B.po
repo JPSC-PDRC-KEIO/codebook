@@ -37,11 +37,11 @@ msgstr "Question"
 
 #: ../../variable/P1B.rst:21
 msgid "あなた自身のきょうだいは何人いますか。"
-msgstr "How many siblings do you have?"
+msgstr "How many siblings do you have?" 
 
 #: ../../variable/P1B.rst:24
 msgid "女（自分も含めて）"
-msgstr ""
+msgstr "Female (include yourself)"
 
 #: ../../variable/P1B.rst:31
 msgid "選択肢 / 記入欄"

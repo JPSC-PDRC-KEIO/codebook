@@ -42,7 +42,7 @@ msgstr "Together/Separately"
 
 #: ../../kihon/Q10.rst:19
 msgid "家族1（本人）"
-msgstr ""
+msgstr "Family1 (yourself)"
 
 #: ../../kihon/Q10.rst:23
 msgid "選択肢 / 記入欄"

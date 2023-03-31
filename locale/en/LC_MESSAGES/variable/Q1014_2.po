@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../variable/Q1014_2.rst:6
 msgid "家族2：配偶関係"
-msgstr "Family-member2: Marital status"
+msgstr "Family-member2: marital status"
 
 #: ../../variable/Q1014_2.rst:11
 msgid "変数名"
